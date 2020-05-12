@@ -1,0 +1,11 @@
+---
+page:
+- sys:
+    id: 59Olgrx6nbKQBCKwPLPslX
+    created_at: !ruby/object:DateTime 2020-05-12 16:43:43.001000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-12 16:44:00.443000000 Z
+    content_type_id: page
+    revision: 0
+  title: Covid-19 Expert Database
+  slug: "/"
+  description: Homepage

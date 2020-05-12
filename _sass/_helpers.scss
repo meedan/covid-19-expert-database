@@ -1,0 +1,6 @@
+.responsive {
+  @media (min-width: 1px) and (max-width: #{$width-tablet}) {
+    max-width: 100%;
+  }
+  max-width: $page-width;
+}
