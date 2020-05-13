@@ -1,4 +1,11 @@
-<form name="ask-a-question" id="ask-a-question" class="ask-a-question-form" action="/thanks" netlify-honeypot="bot" netlify>
+{% if page.lang == 'fr' %}
+    {% assign form_action = '/fr/thanks' %}
+{% elsif page.lang == 'hi' }
+    {% assign form_action = '/hi/thanks' %}
+{% else %}
+    {% assign form_action = '/thanks' %}
+{% endif %}
+<form name="ask-a-question" id="ask-a-question" class="ask-a-question-form" action="{{ form_action | default: '/thanks'}}" netlify-honeypot="bot" netlify>
     <div class="form-group" style="display: none;">
       <label>Don’t fill this out: <input name="bot"></label>
     </div>
