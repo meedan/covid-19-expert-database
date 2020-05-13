@@ -1,0 +1,26 @@
+---
+lang: fr
+---
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+
+<body>
+  {% include header.html %}
+  <div class="content-wrapper">
+    {% if page.description-fr %}
+      <h2 class="lead">{{ page.description-fr }}</h2>
+    {% endif %}
+    {% if page.embed['fr'] %}
+      <div class="embed">{{ page.embed['fr'] }}</div>
+    {% endif %}
+    {% if page.body['fr'] %}
+      <div class="content">
+        {{ page.body['fr'] | markdownify }}
+      </div>
+    {% endif %}
+  </div>
+  {% include js.html %}
+</body>
+
+</html>

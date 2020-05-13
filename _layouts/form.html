@@ -1,0 +1,23 @@
+---
+lang: en-US
+---
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+
+<body>
+  {% include header.html %}
+  <div class="content-wrapper">
+    {% if page.description %}
+      <h2 class="lead">
+          {{ page.description }}
+      </h2>
+    {% endif %}
+    <div class="content">
+        {{ content }}
+    </div>
+  </div>
+  {% include js.html %}
+</body>
+
+</html>

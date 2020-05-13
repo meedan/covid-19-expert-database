@@ -52,10 +52,13 @@ contentful:
         space: ENV_CONTENTFUL_EDB_SPACE_ID
         access_token: ENV_CONTENTFUL_EDB_ACCESS_TOKEN
         cda_query:
+          locale: '*'
           content_type: 'page'
         client_options:
           api_url: ENV_CONTENTFUL_API_URL
         all_entries: true
+        content_types:
+          page: PageMapper
         destination: 'contentful/spaces/'
 
 
@@ -66,3 +69,11 @@ page_gen:
     template: 'page'
     name: 'slug'
     dir: '/'
+  - data: 'contentful.spaces.pages.page'
+    template: 'page-fr'
+    name: 'slug'
+    dir: '/fr'
+  - data: 'contentful.spaces.pages.page'
+    template: 'page-hi'
+    name: 'slug'
+    dir: '/hi'
