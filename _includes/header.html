@@ -4,7 +4,8 @@
             <a href="/">Covid-19 <em>Expert Database</em></a>
         </h1>
         <a class="button" href="/ask-a-question">
-            Ask a question  →
+            Ask a question 
+            {% if page.url == '/ask-a-question' %} ↓ {% else %} → {% endif %}
         </a>
     </div>
     <nav>

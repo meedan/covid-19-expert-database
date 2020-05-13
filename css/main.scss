@@ -2,7 +2,7 @@
 # Main SASS file
 ---
 // English fonts
-@import url('https://fonts.googleapis.com/css?family=Inter:500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500;800&display=swap');
 
 // import sass files
 @import "colors.scss";
@@ -16,8 +16,12 @@
 @import "buttons.scss";
 @import "language_switcher.scss";
 
+// Pages
+@import "form.scss";
+
 :root {
     --blackInk: #262626;
+    --lightGray: #EFEFEF;
     --sunDown: #FFB2B2;
     --accent: #F2DEDC;
     --checkBlue: #2D77FC;
@@ -28,6 +32,8 @@
     --deepSea: #008D5E;
     --silver: #A7A7A7;
     --edbGreen: #36B687;
+    --edbOrange: #FFB124;
+    --edbRed: #EB0042;
     
     --space-1: 1rem; // 18px
     --space-1: 1.111rem; // 20px
@@ -99,7 +105,7 @@ header .header-wrapper {
 header h1 {
     margin: 0;
     padding: 0 var(--space-2) 0 0;
-    font-size: var(--scale--1);
+    font-size: var(--scale-1);
     font-weight: 500;
     em {
         display: block;

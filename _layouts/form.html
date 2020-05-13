@@ -5,7 +5,7 @@ lang: en-US
 <html>
 {% include head.html %}
 
-<body>
+<body class="form">
   {% include header.html %}
   <div class="content-wrapper">
     {% if page.description %}
@@ -14,7 +14,30 @@ lang: en-US
       </h2>
     {% endif %}
     <div class="content">
-        {{ content }}
+      {% if page.url == '/ask-a-question' %}
+        <form name="ask-a-question" id="ask-a-question" class="ask-a-question-form" netlify-honeypot="bot" netlify>
+          <div class="form-group" style="display: none;">
+            <label>Don’t fill this out: <input name="bot"></label>
+          </div>
+          <div class="form-group">
+            <label for="organization">Organization</label>
+            <input type="text" name="organization" placeholder="Organization Name" required>
+          </div>
+          <div class="form-group">
+            <label for="name">Name</label>
+            <input type="text" name="name" placeholder="Your Name" required>
+          </div>
+          <div class="form-group">
+            <label for="email">Email</label>
+            <input type="email" name="email" placeholder="Your email" required>
+          </div>
+          <div class="form-group form-group-last">
+              <label for="question">Your Question</label>
+              <textarea type="text" name="question" placeholder="What would you like to ask?" cols="30" rows="5" required></textarea>
+            </div>
+          <button type="submit" class="button">Send</button>
+        </form>
+      {% endif %}
     </div>
   </div>
   {% include js.html %}
