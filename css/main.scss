@@ -14,8 +14,7 @@
 
 // Elements
 @import "buttons.scss";
-@import "language_switcher.scss";
-
+@import "select.scss";
 // Pages
 @import "form.scss";
 
@@ -123,9 +122,17 @@ header nav {
     grid-column: 5/-1;
     align-self: center;
     text-align: right;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
     * {
         padding: 5px;
         margin: auto 0 0 1.188rem;
+        text-decoration: none;
+    }
+    .select-css {
+        // margin-left: var(--space-2);
+        width: 40%;
     }
 }
 

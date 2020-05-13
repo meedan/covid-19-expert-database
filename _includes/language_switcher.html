@@ -1,0 +1,5 @@
+<select id="language" class="select-css" onchange="javascript:location.href = this.value;">
+    <option value="/{{ page.slug }}" {% if page.lang == 'en-US' %}selected{% endif %}>English</option>
+	<option value="/fr/{{ page.slug }}" {% if page.lang == 'fr' %}selected{% endif %}>French</option>
+	<option value="/hi/{{ page.slug }}" {% if page.lang == 'hi' %}selected{% endif %}>Hindi</option>
+</select>
