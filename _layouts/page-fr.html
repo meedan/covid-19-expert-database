@@ -19,8 +19,11 @@ lang: fr
         {{ page.body['fr'] | markdownify }}
       </div>
     {% endif %}
-    {% include footer.html %}
   </div>
+  {% if page.slug == '/' %}
+    {% include module_about.html %}
+  {% endif %}
+  {% include footer.html %}
   {% include js.html %}
 </body>
 
