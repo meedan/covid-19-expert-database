@@ -2,7 +2,7 @@
 # Main SASS file
 ---
 // English fonts
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500..800&display=swap');
 
 // import sass files
 @import "colors.scss";
@@ -46,6 +46,8 @@
     --space-8: 5.556rem; // 120px
     --section-space: var(--space-8); // 120px
     --space-9: 7.778rem; // 140px
+
+    --font-weight: 560;
 }
 
 * {
@@ -59,7 +61,7 @@ html {
     font-size: 12px;
     font-size: 18px;
     scroll-behavior: smooth;
-    font-weight: 500;
+    font-weight: var(--font-weight);
 }
 
 img {
@@ -82,7 +84,8 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     h1, h2, h3, h4 {
-        font-weight: 500;
+        font-family: 'Inter', Arial, Helvetica, sans-serif;
+        font-weight: var(--font-weight);
     }
 }
 
@@ -106,7 +109,7 @@ header h1 {
     margin: 0;
     padding: 0 var(--space-2) 0 0;
     font-size: var(--scale-1);
-    font-weight: 500;
+    font-weight: var(--font-weight);
     em {
         display: block;
         font-style: normal;
@@ -148,7 +151,7 @@ header nav {
 .content-wrapper h2.lead {
     font-size: 3.333rem;
     line-height: 4.111rem;
-    font-weight: 500;
+    font-weight: var(--font-weight);
     color: var(--edbGreen);
     @include responsive('min-width: #{$width-tablet}') {
         grid-column: 1/6;
@@ -171,7 +174,7 @@ header nav {
     h3 {
         font-size: 2rem;
         line-height: 3rem;
-        font-weight: 500;
+        font-weight: var(--font-weight);
         color: var(--edbGreen);
         margin: 1.188rem auto 0 0;
     }
