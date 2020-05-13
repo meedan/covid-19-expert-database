@@ -1,16 +1,23 @@
+{% if page.lang != 'en-US' %}
+    {% assign path = page.lang | append: '/' | prepend: '/' %}
+{% else %}
+    {% assign path = '' | prepend: '/' %}
+{% endif %}
+
+
 <header class="header">
     <div class="header-wrapper">
         <h1>
-            <a href="{% if page.lang != 'en-US' %}/{{ page.lang }}{% endif %}/">Covid-19 <em>Expert Database</em></a>
+            <a href="{{ path }}">Covid-19 <em>Expert Database</em></a>
         </h1>
-        <a class="button" href="{% if page.lang != 'en-US' %}/{{ page.lang }}{% endif %}/ask-a-question">
+        <a class="button" href="{{ path }}ask-a-question">
             Ask a question 
-            {% if page.url == '/ask-a-question' %} ↓ {% else %} → {% endif %}
+            {% if page.url contains '/ask-a-question' %} ↓ {% else %} → {% endif %}
         </a>
     </div>
     <nav>
-        <a href="{% if page.lang != 'en-US' %}/{{ page.lang }}{% endif %}/about">About</a>
-        <a href="{% if page.lang != 'en-US' %}/{{ page.lang }}{% endif %}/glossary">Glossary</a>
+        <a href="{{ path }}about">About</a>
+        <a href="{{ path }}glossary">Glossary</a>
         {% include language_switcher.html %}
     </nav>
 </header>
