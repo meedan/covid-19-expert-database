@@ -19,6 +19,16 @@ lang: fr
         {{ page.body['fr'] | markdownify }}
       </div>
     {% endif %}
+    {% if page.modules.en-US %}
+      <div class="modules-wrapper">
+        {% for module in page.modules.en-US %}
+          {% 
+            include cases_modules.html 
+            module=module
+          %}
+        {% endfor %}
+      </div>
+    {% endif %}
   </div>
   {% if page.slug == '/' %}
     {% include module_about.html %}

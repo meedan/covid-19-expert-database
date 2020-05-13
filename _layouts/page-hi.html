@@ -5,7 +5,7 @@ lang: hi
 <html>
 {% include head.html %}
 
-<body>
+<body class="hi">
   {% include header.html %}
   <div class="content-wrapper">
     {% if page.description-hi %}
@@ -17,6 +17,16 @@ lang: hi
     {% if page.body['hi'] %}
       <div class="content">
         {{ page.body['hi'] | markdownify }}
+      </div>
+    {% endif %}
+    {% if page.modules.en-US %}
+      <div class="modules-wrapper">
+        {% for module in page.modules.en-US %}
+          {% 
+            include cases_modules.html 
+            module=module
+          %}
+        {% endfor %}
       </div>
     {% endif %}
   </div>

@@ -15,8 +15,13 @@
 // Elements
 @import "buttons.scss";
 @import "select.scss";
+
 // Pages
 @import "form.scss";
+
+// Modules
+@import "module_about.scss";
+@import "module_contributors.scss";
 
 :root {
     --blackInk: #262626;
@@ -85,9 +90,13 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     h1, h2, h3, h4 {
-        font-family: 'Inter', Arial, Helvetica, sans-serif;
         font-weight: var(--font-weight);
     }
+}
+
+// Hindi Font
+body.hi .content-wrapper {
+    font-family: 'Poppins', sans-serif;
 }
 
 header {
@@ -179,14 +188,29 @@ header nav {
         grid-column: 2/6;
         grid-row: 3/4;
     }
+}
 
-    h3 {
-        font-size: 2rem;
-        line-height: 3rem;
-        font-weight: var(--font-weight);
-        color: var(--edbGreen);
-        margin: 1.188rem auto 0 0;
+.content-wrapper .modules-wrapper {
+    @include responsive('min-width: #{$width-tablet}') {
+        grid-column: 1/-1;
+        grid-row: 5;
     }
+}
+
+.content-wrapper h3 {
+    font-size: 2rem;
+    line-height: 3rem;
+    font-weight: var(--font-weight);
+    color: var(--edbGreen);
+    margin: 1.188rem auto 0 0;
+}
+
+.content-wrapper h4 {
+    font-size: 1.556rem;
+    line-height: 3rem;
+    font-weight: var(--font-weight);
+    color: var(--edbGreen);
+    margin: 1.188rem auto 0 0;
 }
 
 .content-wrapper p {
@@ -196,7 +220,8 @@ header nav {
 }
 
 .footer {
-    margin-top: var(--space-6);
+    margin-top: var(--space-8);
+    margin-bottom: var(--section-space);
     padding-left: var(--space-4);
     padding-right: var(--space-4);
     line-height: 1.4;
@@ -210,37 +235,9 @@ header nav {
     }
 }
 
-.module-about {
-    margin-top: var(--space-6);
-    padding-left: var(--space-4);
-    padding-right: var(--space-4);
-    @include responsive('min-width: #{$width-tablet}') {
-        display: grid;
-        grid-template-columns: repeat(6, 1fr);
-        grid-gap: var(--space-4);
-    }
-    div:nth-of-type(1) {
-        grid-column: 1/3;
-    }
-    div:nth-of-type(2) {
-        grid-column: 3/-1;
-    }
-    h3 {
-        font-size: 2.667rem;
-        color: var(--edbGreen);
-    }
-    p {
-        font-size: var(--font-size);
-        line-height: var(--font-line-height);
-        margin: 1.188rem auto 0 0;
-        color: var(--edbRed);
-    }
-    .button {
-        margin-top: var(--space-3);
-        margin-bottom: var(--space-3);
-        display: inline-block;
-        font-size: var(--font-size);
-    }
+.module {
+    margin-top: var(--section-space);
+    margin-bottom: var(--section-space);
 }
 
 .list ul {

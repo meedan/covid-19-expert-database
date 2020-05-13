@@ -3,7 +3,7 @@ page:
 - sys:
     id: 59Olgrx6nbKQBCKwPLPslX
     created_at: !ruby/object:DateTime 2020-05-12 16:43:43.001000000 Z
-    updated_at: !ruby/object:DateTime 2020-05-13 19:54:54.043000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-13 22:28:19.044000000 Z
     content_type_id: page
     revision: 0
     space:
@@ -42,7 +42,7 @@ page:
 - sys:
     id: 4xN7lPbCvQdT2WUCgP3I9M
     created_at: !ruby/object:DateTime 2020-05-12 20:31:54.456000000 Z
-    updated_at: !ruby/object:DateTime 2020-05-12 20:55:24.505000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-13 22:27:39.938000000 Z
     content_type_id: page
     revision: 0
     space:
@@ -63,14 +63,14 @@ page:
     disease researchers and journalists offering critical insights into complex pandemic
     science.
   body:
-    en-US: "### It takes a brainforest.\n\nIn the COVID-19 Expert Database, scientists
-      and journalists develop newsworthy, up-to-date, localized insights into medical
-      research, and distribute those insights to audiences around the world. Our growing
-      team of experts includes researchers from the Harvard School of Public Health
-      and the Stanford Health Communications Initiative, and scientists with experience
-      working in multiple languages and regional contexts. \n\nHave a COVID-19 question
-      that we haven’t tackled? Send us a message at health@meedan.com and we’ll see
-      if our scientists can help you."
+    en-US: "### Up-to-date, credible context on emerging COVID-19 information.\n\nIn
+      the COVID-19 Expert Database, scientists and journalists develop newsworthy,
+      up-to-date, localized insights into medical research, and distribute those insights
+      to audiences around the world. Our growing team of experts includes researchers
+      from the Harvard School of Public Health and the Stanford Health Communications
+      Initiative, and scientists with experience working in multiple languages and
+      regional contexts. \n\nHave a COVID-19 question that we haven’t tackled? Send
+      us a message at health@meedan.com and we’ll see if our scientists can help you."
     fr: |-
       ### Il faut une forêt de cerveaux.
 
@@ -83,6 +83,26 @@ page:
       COVID-19 विशेषज्ञ डेटाबेस में, वैज्ञानिकों और पत्रकारों ने चिकित्सा अनुसंधान में नए-नए तरीके, अप-टू-डेट, स्थानीयकृत अंतर्दृष्टि विकसित की और उन अंतर्दृष्टि को दुनिया भर के दर्शकों में वितरित किया। विशेषज्ञों की हमारी बढ़ती टीम में हार्वर्ड स्कूल ऑफ पब्लिक हेल्थ और स्टैनफोर्ड हेल्थ कम्युनिकेशंस इनिशिएटिव के शोधकर्ताओं और कई भाषाओं और क्षेत्रीय संदर्भों में काम करने का अनुभव रखने वाले वैज्ञानिक शामिल हैं।
 
       एक COVID-19 प्रश्न है जिसे हमने निबटाया नहीं है? हमें health@meedan.com पर एक संदेश भेजें और हम देखेंगे कि क्या हमारे वैज्ञानिक आपकी सहायता कर सकते हैं।
+  modules:
+    en-US:
+    - sys:
+        id: 7sOeWskK689sgFsKfczg7D
+        created_at: !ruby/object:DateTime 2020-05-13 21:26:02.232000000 Z
+        updated_at: !ruby/object:DateTime 2020-05-13 21:28:32.281000000 Z
+        content_type_id: moduleContributors
+        revision: 0
+      title:
+        en-US: Our Scientists
+      contributors:
+        en-US:
+        - sys:
+            id: 3VDanAW0JZIK2gIl50lGsg
+        - sys:
+            id: enGE7MnQYCd9cGxKTXA1p
+        - sys:
+            id: Ffg24BXuAG5nj45n4psKA
+        - sys:
+            id: 2PefzxNAEEsCUTjbZGR8hQ
   title-fr: À propos de
   title-hi: के बारे में
   title-en: About
