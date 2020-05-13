@@ -2,6 +2,9 @@ t:
   en-US:
     site-name: "Covid-19 Expert Database"
     ask-a-question: "Ask a question"
+    newsletter:
+      lead: "This database is updated regularly."
+      cta: "Catch up on weekly highlights from award-winning journalist and medical doctor, Dr. Seema Yasmin, by <a href='//meedan.com/checklist'>subscribing to our newsletter</a>."
     footer:
       about: "About the <br />Digital Health Lab"
       meedan: "An initiative organized <br />by Meedan"
@@ -20,6 +23,9 @@ t:
   fr:
     site-name: "Covid-19 Expert Database"
     ask-a-question: "Ask a question"
+    newsletter:
+      lead: "This database is updated regularly."
+      cta: "Catch up on weekly highlights from award-winning journalist and medical doctor, Dr. Seema Yasmin, by <a href='//meedan.com/checklist'>subscribing to our newsletter</a>."
     footer:
       about: "About the <br />Digital Health Lab"
       meedan: "An initiative organized <br />by Meedan"
@@ -38,6 +44,9 @@ t:
   hi:
     site-name: "Covid-19 Expert Database"
     ask-a-question: "प्रश्न पूछें"
+    newsletter:
+      lead: "This database is updated regularly."
+      cta: "Catch up on weekly highlights from award-winning journalist and medical doctor, Dr. Seema Yasmin, by <a href='//meedan.com/checklist'>subscribing to our newsletter</a>."
     footer:
       about: "About the <br />Digital Health Lab"
       meedan: "An initiative organized <br />by Meedan"
