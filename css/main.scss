@@ -192,3 +192,16 @@ header nav {
     line-height: 2.111rem;
     margin: 1.188rem auto 0 0;
 }
+
+.footer {
+    grid-column: 1/-1;
+    line-height: 1.4;
+    a {
+        text-decoration: none;
+    }
+    @include responsive('min-width: #{$width-tablet}') {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: var(--space-4);
+    }
+}

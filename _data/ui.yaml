@@ -2,6 +2,9 @@ t:
   en-US:
     site-name: "Covid-19 Expert Database"
     ask-a-question: "Ask a question"
+    footer:
+      about: "About the <br />Digital Health Lab"
+      meedan: "An initiative organized <br />by Meedan"
     form:
       intro: "Have a COVID-19 question that we haven’t tackled yet? Send us a message and we’ll see if our scientists can help you."
       organisation-label: "Organization"
@@ -17,6 +20,9 @@ t:
   fr:
     site-name: "Covid-19 Expert Database"
     ask-a-question: "Ask a question"
+    footer:
+      about: "About the <br />Digital Health Lab"
+      meedan: "An initiative organized <br />by Meedan"
     form:
       intro: "Vous avez une question COVID-19 que nous n'avons pas encore abordée? Envoyez-nous un message et nous verrons si nos scientifiques peuvent vous aider."
       organisation-label: "Organisation"
@@ -32,6 +38,9 @@ t:
   hi:
     site-name: "Covid-19 Expert Database"
     ask-a-question: "प्रश्न पूछें"
+    footer:
+      about: "About the <br />Digital Health Lab"
+      meedan: "An initiative organized <br />by Meedan"
     form:
       intro: "एक COVID-19 प्रश्न है जिसे हमने अभी तक निपटाया नहीं है? हमें एक संदेश भेजें और हम देखेंगे कि क्या हमारे वैज्ञानिक आपकी सहायता कर सकते हैं।"
       organisation-label: "संगठन"
