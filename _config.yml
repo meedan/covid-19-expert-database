@@ -16,7 +16,7 @@
 title: Covid-19 Expert Database
 email: health@meedan.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Meedan’s Digital Health Lab is an applied research initiative to improve public health through digital innovation, participatory research, and equity-centered design.
+  We are a global team of epidemiologists, public health experts, infectious disease researchers and journalists offering critical insights into complex pandemic science.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -25,6 +25,14 @@ markdown: kramdown
 
 plugins:
   - jekyll-seo-tag
+
+# Config elements specific to jeckyll-seo-tag
+# https://github.com/jekyll/jekyll-seo-tag
+twitter:
+  card:     "summary_large_image"
+logo: /images/logo.png
+seo:
+  type: Organization
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -52,7 +60,20 @@ contentful:
         space: ENV_CONTENTFUL_EDB_SPACE_ID
         access_token: ENV_CONTENTFUL_EDB_ACCESS_TOKEN
         cda_query:
+          locale: '*'
           content_type: 'page'
+        client_options:
+          api_url: ENV_CONTENTFUL_API_URL
+        all_entries: true
+        content_types:
+          page: PageMapper
+        destination: 'contentful/spaces/'
+    - contributors: 
+        space: ENV_CONTENTFUL_EDB_SPACE_ID
+        access_token: ENV_CONTENTFUL_EDB_ACCESS_TOKEN
+        cda_query:
+          locale: '*'
+          content_type: 'contributor'
         client_options:
           api_url: ENV_CONTENTFUL_API_URL
         all_entries: true
@@ -66,3 +87,11 @@ page_gen:
     template: 'page'
     name: 'slug'
     dir: '/'
+  - data: 'contentful.spaces.pages.page'
+    template: 'page-fr'
+    name: 'slug'
+    dir: '/fr'
+  - data: 'contentful.spaces.pages.page'
+    template: 'page-hi'
+    name: 'slug'
+    dir: '/hi'

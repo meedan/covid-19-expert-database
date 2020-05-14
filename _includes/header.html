@@ -1,0 +1,19 @@
+{% if page.lang != 'en-US' %}
+    {% assign path = page.lang | append: '/' | prepend: '/' %}
+{% else %}
+    {% assign path = '' | prepend: '/' %}
+{% endif %}
+
+
+<header class="header">
+    <div class="header-wrapper">
+        <h1>
+            <a href="{{ path }}">Covid-19 <em>Expert Database</em></a>
+        </h1>
+        <a class="button" href="{{ path }}ask-a-question">
+            {{ site.data.ui.t[page.lang].ask-a-question }} 
+            {% if page.url contains '/ask-a-question' %} ↓ {% else %} → {% endif %}
+        </a>
+    </div>
+    {% include menu.html %}
+</header>

@@ -1,0 +1,10 @@
+{% if page.slug != '/' %}
+	{% assign location = page.slug | prepend: '/' %}
+{% elsif page.slug == '/' %}
+	{% assign home = '/' %}
+{% endif %}
+<select id="language" class="select-css" onchange="javascript:location.href = this.value;">
+    <option value="{{ home }}{{ location }}" {% if page.lang == 'en-US' %}selected{% endif %}>{{ site.data.ui.t[page.lang].menu.english }}</option>
+	<option value="/fr{{ location }}" {% if page.lang == 'fr' %}selected{% endif %}>{{ site.data.ui.t[page.lang].menu.french }}</option>
+	<option value="/hi{{ location }}" {% if page.lang == 'hi' %}selected{% endif %}>{{ site.data.ui.t[page.lang].menu.hindi }}</option>
+</select>

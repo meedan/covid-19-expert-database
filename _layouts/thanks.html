@@ -1,0 +1,27 @@
+{% if page.lang != 'en-US' %}
+    {% assign path = page.lang | append: '/' | prepend: '/' %}
+{% else %}
+    {% assign path = '' | prepend: '/' %}
+{% endif %}
+
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+
+<body class="form{% if page.lang == 'hi' %} hi{% endif %}">
+  {% include header.html %}
+  <div class="content-wrapper">
+    {% if page.description %}
+      <h2 class="lead">
+        {{ site.data.ui.t[page.lang].form.thanks }}
+    </h2>
+    <div class="content">
+      <p>{{ site.data.ui.t[page.lang].form.thanks-next }}</p>
+      <p><a href="{{ path }}">← {{ site.data.ui.t[page.lang].form.thanks-home-link-label }}</a></p>
+    </div>
+    {% endif %}
+  </div>
+  {% include js.html %}
+</body>
+
+</html>

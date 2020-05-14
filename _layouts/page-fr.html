@@ -1,5 +1,5 @@
 ---
-lang: en-US
+lang: fr
 ---
 <!DOCTYPE html>
 <html>
@@ -8,18 +8,18 @@ lang: en-US
 <body>
   {% include header.html %}
   <div class="content-wrapper">
-    {% if page.description %}
-      <h2 class="lead">{{ page.description }}</h2>
+    {% if page.description-fr %}
+      <h2 class="lead">{{ page.description-fr }}</h2>
     {% endif %}
-    {% if page.embed['en-US'] %}
-      <div class="embed">{{ page.embed['en-US'] }}</div>
+    {% if page.embed['fr'] %}
+      <div class="embed">{{ page.embed['fr'] }}</div>
     {% endif %}
-    {% if page.body['en-US'] %}
+    {% if page.body['fr'] %}
       <div class="content">
-        {{ page.body['en-US'] | markdownify }}
+        {{ page.body['fr'] | markdownify }}
         {% if page.slug == 'about' %}
           <div class="logos">
-            <div><a href="//health.meedan.com"><img src="/images/logo.png" width="300"></a></div>
+            <div><a href="//health.meedan.com">{% include wordmark.html %}</a></div>
             <div>An initiative organized by <a href="//meedan.com">{% include meedan_logo.html %}</a></div>
           </div>
         {% endif %}

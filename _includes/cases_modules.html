@@ -1,0 +1,5 @@
+{% assign module = include.module %}
+{% case module.sys.content_type_id %}
+	{% when 'moduleContributors' %}
+		{% include module_contributors.html %}
+{% endcase %}

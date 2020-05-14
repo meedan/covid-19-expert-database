@@ -64,6 +64,19 @@ module Jekyll
         self.process(@name)
         self.read_yaml(File.join(base, '_layouts'), template + ".html")
         self.data['title'] = raw_filename
+
+        # seo fixes
+        if template == "page-fr"
+          data['title'] = data['title-fr']
+          data['description'] = data['description-fr']
+        end
+
+        if template == "page-hi"
+          data['title'] = data['title-hi']
+          data['description'] = data['description-hi']
+        end
+
+
         # add all the information defined in _data for the current record to the
         # current page (so that we can access it with liquid tags)
   
