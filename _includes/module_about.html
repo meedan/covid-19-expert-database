@@ -5,17 +5,17 @@
 {% endif %}
 <div class="module module-about">
     <div class="a">
-        <h3>Cut through <br />the noise</h3>
-        <p>There is a lot of conflicting information out there on COVID-19. Our experts offer evidence and context to add to your communications, fact-checks or investigations.</p>
-        <a class="button" href="{{ path }}ask-a-question">Ask a question →</a>
+        <h3>{{ site.data.ui.t[page.lang].about-project.title }}</h3>
+        <p>{{ site.data.ui.t[page.lang].about-project.description }}</p>
+        <a class="button" href="{{ path }}ask-a-question">{{ site.data.ui.t[page.lang].ask-a-question }} →</a>
     </div>
     <div class="b">
         <img src="//images.ctfassets.net/d4fy1qepdfjq/67VDHGzzPTCISz4QK5Wwow/4de2f247ebc77d239107394c35909442/illustration.jpg" />
         <div class="list about-links">
             <ul>
-                <li><a href="{{ path }}about">Meet our experts</a></li>
-                <li><a href="{{ path }}glossary">Explore glossary of terms</a></li>
-                <li><a href="{{ path }}about">About this project</a></li>
+                <li><a href="{{ path }}about">{{ site.data.ui.t[page.lang].about-project.meet-our-experts }}</a></li>
+                <li><a href="{{ path }}glossary">{{ site.data.ui.t[page.lang].about-project.explore-glossary }}</a></li>
+                <li><a href="{{ path }}about">{{ site.data.ui.t[page.lang].about-project.about }}</a></li>
             </ul>
         </div>
     </div>

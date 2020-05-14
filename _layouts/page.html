@@ -17,6 +17,9 @@ lang: en-US
     {% if page.body['en-US'] %}
       <div class="content">
         {{ page.body['en-US'] | markdownify }}
+        {% if page.slug == 'about' %}
+          
+        {% endif %}
       </div>
     {% endif %}
     {% if page.modules.en-US %}

@@ -20,6 +20,12 @@ t:
       question-placeholder: "What would you like to ask?"
       button-label: "Send"
       thanks: "Thanks for sending us your question. <a href='/'>Back to home</a>"
+    about-project:
+      title: "Cut through<br /> the noise"
+      description: "There is a lot of conflicting information out there on COVID-19. Our experts offer evidence and context to add to your communications, fact-checks or investigations."
+      meet-our-experts: "Meet our experts"
+      explore-glossary: "Explore glossary of terms"
+      about: "About this project"
   fr:
     site-name: "Covid-19 Expert Database"
     ask-a-question: "Ask a question"
@@ -41,6 +47,12 @@ t:
       question-placeholder: "What would you like to ask?"
       button-label: "Send"
       thanks: "Thanks for sending us your question. <a href='/'>Back to home</a>"
+    about-project:
+      title: "Cut through<br /> the noise"
+      description: "There is a lot of conflicting information out there on COVID-19. Our experts offer evidence and context to add to your communications, fact-checks or investigations."
+      meet-our-experts: "Meet our experts"
+      explore-glossary: "Explore glossary of terms"
+      about: "About this project"
   hi:
     site-name: "Covid-19 Expert Database"
     ask-a-question: "प्रश्न पूछें"
@@ -62,3 +74,9 @@ t:
       question-placeholder: "What would you like to ask?"
       button-label: "Send"
       thanks: "Thanks for sending us your question. <a href='/'>Back to home</a>"
+    about-project:
+      title: "Cut through<br /> the noise"
+      description: "There is a lot of conflicting information out there on COVID-19. Our experts offer evidence and context to add to your communications, fact-checks or investigations."
+      meet-our-experts: "Meet our experts"
+      explore-glossary: "Explore glossary of terms"
+      about: "About this project"
