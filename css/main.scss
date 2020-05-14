@@ -43,6 +43,7 @@
     --space-2: 1.111rem; // 20px
     --space-3: 1.667rem; // 30px
     --space-4: 2.222rem; // 40px
+    --space-6: 3.333rem; // 60px
     --space-8: 5.556rem; // 100px
     --section-space: var(--space-8); // 100px
     @include responsive('min-width: #{$width-tablet}') {
@@ -146,16 +147,24 @@ header h1 {
 }
 
 header nav {
+    display: flex;
+    align-items: center;
     @include responsive('min-width: #{$width-tablet}') {
         grid-column: 5/-1;
         align-self: center;
         text-align: right;
+        justify-content: flex-end;
     }
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
+    @media (min-width: 1px) and (max-width: #{$width-tablet}) {
+        border-top: 1px solid var(--blackInk);
+        padding-top: var(--space-1);
+        margin-top: var(--space-2);
+    }
     * {
         padding: 5px 0;
+        margin: 0 var(--space-2) 0 0;
+        // margin-top: var(--space-2);
+        // justify-content: space-between;
         @include responsive('min-width: #{$width-tablet}') {
             margin: auto 0 0 var(--space-2);
         }
@@ -164,12 +173,6 @@ header nav {
     .select-css {
         // margin-left: var(--space-2);
         width: auto;
-    }
-    @media (min-width: 1px) and (max-width: #{$width-tablet}) {
-        margin-top: var(--space-2);
-        justify-content: space-between;
-        border-top: 1px solid var(--blackInk);
-        padding-top: var(--space-2);
     }
 }
 

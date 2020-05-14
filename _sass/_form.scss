@@ -23,6 +23,7 @@ body.form {
 
 .ask-a-question-form {
 	margin-top: var(--space-2);
+	margin-bottom: var(--section-space);
 }
 
 .form-group {
@@ -56,13 +57,13 @@ body.form {
 	border: 0;
 	margin: 0;
 	padding: 1vw;
+	font-weight: 400;
+	font-size: 2vw;
 	line-height: 7vw;
 	height: 7vw;
 	outline: 0;
 	width: 100%;
 	background-color: rgba(#000, 0.2);
-	font-weight: 400;
-	font-size: 2vw;
 	color: var(--lightGray);
 	&::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
 	    color: rgba(var(--edbOrange), 0.8);
@@ -84,9 +85,9 @@ body.form {
 }
 
 @media (min-width: 1px) and (max-width: #{$width-tablet}) {
-	.ask-a-question-form input,
+	.ask-a-question-form input:not([type='checkbox']),
 	.ask-a-question-form textarea {
-		font-size: 4vw;
+		font-size: 6vw;
 		line-height: 1.2;
 		height: 16vw;
     }
