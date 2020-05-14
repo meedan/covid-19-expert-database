@@ -3,7 +3,7 @@ contributor:
 - sys:
     id: 3VDanAW0JZIK2gIl50lGsg
     created_at: !ruby/object:DateTime 2020-05-13 21:26:15.783000000 Z
-    updated_at: !ruby/object:DateTime 2020-05-13 22:35:45.529000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-14 20:04:41.130000000 Z
     content_type_id: contributor
     revision: 0
   name:
@@ -15,9 +15,9 @@ contributor:
     fr: dr-seema-yasmin
   bio:
     en-US: |-
-      Seema Yasmin is an Emmy Award-winning journalist, poet, medical doctor and author. Yasmin served as an officer in the Epidemic Intelligence Service at the U.S. Centers for Disease Control and Prevention where she investigated disease outbreaks and was principal investigator on a number of CDC studies. Yasmin trained in journalism at the University of Toronto and in medicine at the University of Cambridge.
+      Seema Yasmin is an Emmy Award-winning medical journalist, poet, physican and author. Yasmin served as an officer in the Epidemic Intelligence Service at the U.S. Centers for Disease Control and Prevention where she investigated disease outbreaks. She trained in journalism at the University of Toronto and in medicine at the University of Cambridge.
 
-      Yasmin was a finalist for the Pulitzer Prize in breaking news in 2017 with a team from The Dallas Morning News and recipient of an Emmy for her reporting on neglected diseases. She received two grants from the Pulitzer Center on Crisis Reporting. In 2017, Yasmin was a John S. Knight Fellow in Journalism at Stanford University investigating the spread of health misinformation and disinformation during epidemics. Previously she was a science correspondent at The Dallas Morning News, medical analyst for CNN, and professor of public health at the University of Texas at Dallas.
+      Yasmin was a finalist for the Pulitzer Prize in breaking news in 2017 with a team from The Dallas Morning News and received an Emmy Award for her reporting on neglected diseases. She received two grants from the Pulitzer Center on Crisis Reporting and was selected as a John S. Knight Fellow in Journalism at Stanford University iin 2017 where she investigated the spread of health misinformation and disinformation during epidemics.
     fr: |-
       Seema Yasmin est un journaliste, poète, médecin et auteur primé aux Emmy Awards. Yasmin a été officier au Epidemic Intelligence Service aux Centers for Disease Control and Prevention des États-Unis, où elle a enquêté sur les flambées de maladies et a été chercheuse principale sur un certain nombre d'études des CDC. Yasmin a suivi une formation en journalisme à l'Université de Toronto et en médecine à l'Université de Cambridge.
 
@@ -29,7 +29,7 @@ contributor:
 - sys:
     id: enGE7MnQYCd9cGxKTXA1p
     created_at: !ruby/object:DateTime 2020-05-13 21:26:32.131000000 Z
-    updated_at: !ruby/object:DateTime 2020-05-13 21:27:00.861000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-14 20:03:00.148000000 Z
     content_type_id: contributor
     revision: 0
   name:
@@ -71,13 +71,13 @@ contributor:
 - sys:
     id: 2PefzxNAEEsCUTjbZGR8hQ
     created_at: !ruby/object:DateTime 2020-05-13 21:28:31.832000000 Z
-    updated_at: !ruby/object:DateTime 2020-05-13 21:28:51.010000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-14 20:06:40.258000000 Z
     content_type_id: contributor
     revision: 0
   name:
-    en-US: 'Meg Marrelli '
+    en-US: 'Megan Marrelli '
   slug:
-    en-US: meg-marrelli
+    en-US: megan-marrelli
   bio:
     en-US: "Megan Marrelli is a Peabody award-winning journalist and the Editorial
       Lead of the COVID-19 Expert Database. She focuses on news innovation in today's
@@ -85,8 +85,79 @@ contributor:
       desk of the Globe and Mail, Canada's national newspaper, and on the news production
       team of the Netflix series Patriot Act with Hasan Minhaj. \n\nShe was a Canadian
       Association of Journalists finalist for a team Chronicle Herald investigation
-      into house fires in Halifax, Nova Scotia. On top of her role at Meedan Megan,
+      into house fires in Halifax, Nova Scotia. On top of her role at Meedan Megan
       works with the investigative journalism incubator Type Investigations, where
       she is reporting a data-driven story on fatal patient safety failures in U.S.
       hospitals. She holds a Master of Science from the Columbia Journalism School
       and lives in New York."
+- sys:
+    id: 3MDM05wtxjGNQC5PY7gIpT
+    created_at: !ruby/object:DateTime 2020-05-14 20:04:55.127000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-14 20:06:16.203000000 Z
+    content_type_id: contributor
+    revision: 0
+  name:
+    en-US: Shalini Joshi
+  slug:
+    en-US: shalini-joshi
+  bio:
+    en-US: "Shalini Joshi is a Program Lead at Meedan and formerly the Executive Editor
+      and co-founder of Khabar Lahariya - India's only independent, digital news network
+      available to viewers in remote rural areas and small towns. \n\nShalini transformed
+      Khabar Lahariya from one edition of a printed newspaper to an award-winning
+      digital news agency available to over ten million viewers. She has a sophisticated
+      understanding of local media and gender, and the ways in which they can inhibit
+      women from participating in the public sphere in South Asia. \n\nShalini was
+      a TruthBuzz Partner & Fellow with the International Center for Journalists (ICFJ).
+      She is a trainer in journalism, verification and fact-checking. She has designed,
+      implemented and strengthened news reporting & editorial policies and practices
+      in newsrooms and fact-checking organisations.  Shalini set up and managed the
+      tipline used to collect WhatsApp-based rumors for Checkpoint, a research project
+      to study misinformation at scale during the 2019 Indian general elections."
+- sys:
+    id: 1jTy4C4NUtTg33gfmANjV6
+    created_at: !ruby/object:DateTime 2020-05-14 20:06:56.782000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-14 20:07:17.858000000 Z
+    content_type_id: contributor
+    revision: 0
+  name:
+    en-US: Christin Gilmer
+  slug:
+    en-US: christin-gilmer
+  bio:
+    en-US: Christin Gilmer is a Global Health Scientist with a background in infectious
+      diseases, international health systems, and population health and technology.
+      In the last 15 years, Christin has worked for the WHO, University of Oxford,
+      World Health Partners, USAID, UNFPA, the FXB Center for Health & Human Rights
+      and more, including volunteering for Special Olympics International's health
+      programs and running health- and technology-based nonprofits across the country.
+      She obtained her Doctor of Public Health Degree at the Harvard T.H. Chan School
+      of Public Health, her MPH at Columbia, and spent time studying at M.I.T., Harvard
+      Kennedy School, and Harvard Business School. Christin has worked in dozens of
+      countries across five continents and loves running programs and research internationally,
+      but she is currently based in Seattle.
+- sys:
+    id: 1aE0WfwjjgxKyanRyPlmJk
+    created_at: !ruby/object:DateTime 2020-05-14 20:43:14.896000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-14 20:44:06.952000000 Z
+    content_type_id: contributor
+    revision: 0
+  name:
+    en-US: Nour Sharara
+  slug:
+    en-US: nour-sharara
+  bio:
+    en-US: Nour is a Global Health Strategy consultant based in Dakar (Senegal) and
+      specialized in health system strengthening. Most recently, she worked with Dalberg
+      Advisors where she advised Ministries of Health, philanthropies, bi-lateral
+      missions and multi-lateral institutions on strategy engagements, impact evaluations
+      and implementation support across 15 countries in Sub-Saharan Africa. Her work
+      there focused on Epidemic Preparedness & Response and Vaccination Coverage and
+      Equity. Her previous work experiences include researching the clinical needs
+      in point-of-care technology in cancer care at the Dana-Farber Cancer Institute
+      in Boston; and coordinating the implementation of a colonoscopy quality assurance
+      initiative for a colorectal cancer screening program at McGill University in
+      Montreal. Nour has a Master of Public Health from the Harvard T.H. Chan School
+      of Public Health, a Master of Arts in Medical Ethics and Law from King's College
+      London, and a Bachelor of Science from McGill University. She is fluent in French
+      and English.

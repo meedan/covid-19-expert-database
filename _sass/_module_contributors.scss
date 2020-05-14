@@ -1,5 +1,14 @@
 .module-contributors {
+    @include responsive('min-width: #{$width-tablet}') {
+        display: grid;
+        grid-template-columns: repeat(6, 1fr);
+        grid-gap: var(--space-4);
+    }
+    h4 {
+        grid-column: 2/6;
+    }
     .contributor {
+        grid-column: 2/6;
         margin-top: var(--space-3);
         margin-bottom: var(--space-6);
     }
