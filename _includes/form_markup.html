@@ -23,10 +23,20 @@
     <label for="email">{{ site.data.ui.t[page.lang].form.email-label }}</label>
     <input type="email" name="email" placeholder="{{ site.data.ui.t[page.lang].form.email-placeholder }}" required>
   </div>
-  <div class="form-group form-group-last">
+  <div class="form-group">
     <label for="question">{{ site.data.ui.t[page.lang].form.question-label }}</label>
     <textarea type="text" name="question" placeholder="{{ site.data.ui.t[page.lang].form.question-placeholder }}"
-      cols="30" rows="5" required></textarea>
+      cols="30" rows="5"></textarea>
+  </div>
+  <div class="form-group form-group-last">
+    <label for="context">{{ site.data.ui.t[page.lang].form.context-label }}</label>
+    <textarea type="text" name="context" placeholder="{{ site.data.ui.t[page.lang].form.context-placeholder }}"
+      cols="30" rows="5"></textarea>
+  </div>
+  <div class="form-group">
+    <p class="help">{{ site.data.ui.t[page.lang].form.follow-up }}</p>
+    <input type="checkbox" name="follow-up" class="switch" id="follow-up">
+    <label for="follow-up">{{ site.data.ui.t[page.lang].form.follow-up-label }}</label>
   </div>
   <button type="submit" class="button">{{ site.data.ui.t[page.lang].form.button-label }}</button>
 </form>
