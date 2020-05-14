@@ -17,6 +17,12 @@ lang: fr
     {% if page.body['fr'] %}
       <div class="content">
         {{ page.body['fr'] | markdownify }}
+        {% if page.slug == 'about' %}
+          <div class="logos">
+            <div><a href="//health.meedan.com">{% include wordmark.html %}</a></div>
+            <div>An initiative organized by <a href="//meedan.com">{% include meedan_logo.html %}</a></div>
+          </div>
+        {% endif %}
       </div>
     {% endif %}
     {% if page.modules.en-US %}

@@ -54,6 +54,7 @@
     --font-weight: 560;
     --font-size: 1.556rem;
     --font-line-height: 2.111rem;
+    --font-family-hindi: 'Poppins', sans-serif;
 }
 
 * {
@@ -96,7 +97,7 @@ body {
 
 // Hindi Font
 body.hi .content-wrapper {
-    font-family: 'Poppins', sans-serif;
+    font-family: var(--font-family-hindi);
 }
 
 header {
