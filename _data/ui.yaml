@@ -2,6 +2,12 @@ t:
   en-US:
     site-name: "Covid-19 Expert Database"
     ask-a-question: "Ask a question"
+    menu:
+      english: "English"
+      french: "French"
+      hindi: "Hindi"
+      glossary: "Glossary"
+      about: "About"
     newsletter:
       lead: "This database is updated regularly."
       cta: "Catch up on weekly highlights from award-winning journalist and medical doctor, Dr. Seema Yasmin, by <a href='//meedan.com/checklist'>subscribing to our newsletter</a>."
@@ -29,6 +35,12 @@ t:
   fr:
     site-name: "Covid-19 Expert Database"
     ask-a-question: "Ask a question"
+    menu:
+      english: "English"
+      french: "French"
+      hindi: "Hindi"
+      glossary: "Glossary"
+      about: "About"
     newsletter:
       lead: "This database is updated regularly."
       cta: "Catch up on weekly highlights from award-winning journalist and medical doctor, Dr. Seema Yasmin, by <a href='//meedan.com/checklist'>subscribing to our newsletter</a>."
@@ -56,6 +68,12 @@ t:
   hi:
     site-name: "Covid-19 Expert Database"
     ask-a-question: "प्रश्न पूछें"
+    menu:
+      english: "English"
+      french: "French"
+      hindi: "Hindi"
+      glossary: "Glossary"
+      about: "About"
     newsletter:
       lead: "This database is updated regularly."
       cta: "Catch up on weekly highlights from award-winning journalist and medical doctor, Dr. Seema Yasmin, by <a href='//meedan.com/checklist'>subscribing to our newsletter</a>."

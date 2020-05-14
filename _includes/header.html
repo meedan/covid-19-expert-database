@@ -11,13 +11,13 @@
             <a href="{{ path }}">Covid-19 <em>Expert Database</em></a>
         </h1>
         <a class="button" href="{{ path }}ask-a-question">
-            Ask a question 
+            {{ site.data.ui.t[page.lang].ask-a-question }} 
             {% if page.url contains '/ask-a-question' %} ↓ {% else %} → {% endif %}
         </a>
     </div>
     <nav>
-        <a href="{{ path }}about">About</a>
-        <a href="{{ path }}glossary">Glossary</a>
+        <a href="{{ path }}about">{{ site.data.ui.t[page.lang].menu.about }}</a>
+        <a href="{{ path }}glossary">{{ site.data.ui.t[page.lang].menu.glossary }}</a>
         {% include language_switcher.html %}
     </nav>
 </header>

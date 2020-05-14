@@ -42,7 +42,7 @@ page:
 - sys:
     id: 4xN7lPbCvQdT2WUCgP3I9M
     created_at: !ruby/object:DateTime 2020-05-12 20:31:54.456000000 Z
-    updated_at: !ruby/object:DateTime 2020-05-13 22:27:39.938000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-14 00:03:57.823000000 Z
     content_type_id: page
     revision: 0
     space:
@@ -88,11 +88,11 @@ page:
     - sys:
         id: 7sOeWskK689sgFsKfczg7D
         created_at: !ruby/object:DateTime 2020-05-13 21:26:02.232000000 Z
-        updated_at: !ruby/object:DateTime 2020-05-13 21:28:32.281000000 Z
+        updated_at: !ruby/object:DateTime 2020-05-14 00:02:34.616000000 Z
         content_type_id: moduleContributors
         revision: 0
       title:
-        en-US: Our Scientists
+        en-US: Our experts
       contributors:
         en-US:
         - sys:
@@ -115,3 +115,36 @@ page:
   description-hi: हम महामारी विज्ञानियों, सार्वजनिक स्वास्थ्य विशेषज्ञों, संक्रामक
     रोग शोधकर्ताओं और पत्रकारों की एक वैश्विक टीम हैं जो जटिल महामारी विज्ञान में
     महत्वपूर्ण अंतर्दृष्टि प्रदान करते हैं।
+- sys:
+    id: 6qPcureNE9SvAqTqvb8Vsl
+    created_at: !ruby/object:DateTime 2020-05-14 00:12:44.405000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-14 00:21:09.699000000 Z
+    content_type_id: page
+    revision: 0
+    space:
+      sys:
+        id: d4fy1qepdfjq
+    type: Entry
+    content_type:
+      sys:
+        id: page
+    environment:
+      sys:
+        id: master
+        type: Link
+        linkType: Environment
+  title: Glossary
+  slug: glossary
+  embed:
+    en-US: '<iframe class="airtable-embed" src="https://airtable.com/embed/shrW1b5oCSWWd09Xf?backgroundColor=red&viewControls=on"
+      frameborder="0" onmousewheel="" width="100%" height="533" style="background:
+      transparent; border: 1px solid #ccc;"></iframe>'
+    fr: '<iframe class="airtable-embed" src="https://airtable.com/embed/shrvcJH2SQMExRnlm?backgroundColor=red&viewControls=on"
+      frameborder="0" onmousewheel="" width="100%" height="533" style="background:
+      transparent; border: 1px solid #ccc;"></iframe>'
+    hi: '<iframe class="airtable-embed" src="https://airtable.com/embed/shrtq4EThsFU6evD3?backgroundColor=red&viewControls=on"
+      frameborder="0" onmousewheel="" width="100%" height="533" style="background:
+      transparent; border: 1px solid #ccc;"></iframe>'
+  title-fr: Glossary
+  title-hi: Glossary
+  title-en: Glossary

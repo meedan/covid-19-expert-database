@@ -190,6 +190,34 @@ header nav {
     }
 }
 
+.content-wrapper .logos {
+    margin-top: var(--section-space);
+    margin-bottom: var(--space-1);
+    display: flex;
+    align-items: center;
+    @media (min-width: 1px) and (max-width: #{$width-tablet}) {
+        flex-direction: column;
+    }
+    div {
+        align-self: center;
+    }
+    div:nth-of-type(1) {
+        @media (min-width: 1px) and (max-width: #{$width-tablet}) {
+            margin-bottom: var(--space-9);
+        }
+        @include responsive('min-width: #{$width-tablet}') {
+            margin-right: var(--space-9);
+        }
+    }
+    div:nth-of-type(2) {
+        a {
+            display: flex;
+            flex-direction: column;
+            margin-top: var(--space-1);
+        }
+    }
+}
+
 .content-wrapper .modules-wrapper {
     @include responsive('min-width: #{$width-tablet}') {
         grid-column: 1/-1;
