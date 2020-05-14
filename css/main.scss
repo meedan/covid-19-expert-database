@@ -38,18 +38,26 @@
     --edbGreen: #36B687;
     --edbOrange: #FFB124;
     --edbRed: #EB0042;
-    
+
     --space-1: 1rem; // 18px
-    --space-1: 1.111rem; // 20px
-    --space-2: 1.667rem; // 30px
-    --space-3: 2.222rem; // 40px
-    --space-4: 2.778rem; // 50px
-    --space-5: 3.333rem; // 60px
-    --space-6: 4.444rem; // 80px
-    --space-7: 5.556rem; // 100px
-    --space-8: 5.556rem; // 120px
-    --section-space: var(--space-8); // 120px
-    --space-9: 7.778rem; // 140px
+    --space-2: 1.111rem; // 20px
+    --space-3: 1.667rem; // 30px
+    --space-4: 2.222rem; // 40px
+    --space-8: 5.556rem; // 100px
+    --section-space: var(--space-8); // 100px
+    @include responsive('min-width: #{$width-tablet}') {
+        --space-1: 1rem; // 18px
+        --space-1: 1.111rem; // 20px
+        --space-2: 1.667rem; // 30px
+        --space-3: 2.222rem; // 40px
+        --space-4: 2.778rem; // 50px
+        --space-5: 3.333rem; // 60px
+        --space-6: 4.444rem; // 80px
+        --space-7: 5.556rem; // 100px
+        --space-8: 6.667rem; // 120px
+        --section-space: var(--space-8); // 120px
+        --space-9: 7.778rem; // 140px
+    }
 
     --font-weight: 560;
     --font-size: 1.556rem;
@@ -66,7 +74,9 @@
 
 html {
     font-size: 12px;
-    font-size: 18px;
+    @include responsive('min-width: #{$width-tablet}') {
+        font-size: 18px;
+    }
     scroll-behavior: smooth;
     font-weight: var(--font-weight);
 }
@@ -101,9 +111,11 @@ body.hi .content-wrapper {
 }
 
 header {
-    display: grid;
-    grid-template-columns: repeat(6, 1fr);
-    grid-gap: var(--space-4);
+    @include responsive('min-width: #{$width-tablet}') {
+        display: grid;
+        grid-template-columns: repeat(6, 1fr);
+        grid-gap: var(--space-4);
+    }
     padding-top: var(--space-4);
     padding-left: var(--space-4);
     padding-right: var(--space-4);
@@ -114,6 +126,9 @@ header .header-wrapper {
     grid-column: 1/5;
     display: flex;
     align-items: center;
+    @media (min-width: 1px) and (max-width: #{$width-tablet}) {
+        justify-content: space-between;
+    }
 }
 
 header h1 {
@@ -131,20 +146,30 @@ header h1 {
 }
 
 header nav {
-    grid-column: 5/-1;
-    align-self: center;
-    text-align: right;
+    @include responsive('min-width: #{$width-tablet}') {
+        grid-column: 5/-1;
+        align-self: center;
+        text-align: right;
+    }
     display: flex;
     justify-content: flex-end;
     align-items: center;
     * {
-        padding: 5px;
-        margin: auto 0 0 1.188rem;
+        padding: 5px 0;
+        @include responsive('min-width: #{$width-tablet}') {
+            margin: auto 0 0 var(--space-2);
+        }
         text-decoration: none;
     }
     .select-css {
         // margin-left: var(--space-2);
-        width: 40%;
+        width: auto;
+    }
+    @media (min-width: 1px) and (max-width: #{$width-tablet}) {
+        margin-top: var(--space-2);
+        justify-content: space-between;
+        border-top: 1px solid var(--blackInk);
+        padding-top: var(--space-2);
     }
 }
 
@@ -168,17 +193,27 @@ header nav {
 }
 
 .content-wrapper h2.lead {
+    margin: 1.188rem auto 0 0;
+    @media (min-width: 1px) and (max-width: #{$width-tablet}) {
+        margin-bottom: var(--space-4);
+        font-size: 2.667rem;
+        line-height: 3.222rem;
+    }
+    @include responsive('min-width: #{$width-tablet}') {
+        grid-column: 1/6;
+        font-size: 3.333rem;
+        line-height: 4.111rem;
+    }
     font-size: 3.333rem;
     line-height: 4.111rem;
     font-weight: var(--font-weight);
     color: var(--edbGreen);
-    @include responsive('min-width: #{$width-tablet}') {
-        grid-column: 1/6;
-    }
-    margin: 1.188rem auto 0 0;
 }
 
 .content-wrapper .embed {
+    @media (min-width: 1px) and (max-width: #{$width-tablet}) {
+        margin-top: var(--space-2);
+    }
     @include responsive('min-width: #{$width-tablet}') {
         grid-column: 1/-1;
     }
@@ -195,19 +230,19 @@ header nav {
     margin-top: var(--section-space);
     margin-bottom: var(--space-1);
     display: flex;
-    align-items: center;
     @media (min-width: 1px) and (max-width: #{$width-tablet}) {
         flex-direction: column;
+        align-items: center;
     }
     div {
         align-self: center;
     }
     div:nth-of-type(1) {
         @media (min-width: 1px) and (max-width: #{$width-tablet}) {
-            margin-bottom: var(--space-9);
+            margin-bottom: var(--space-8);
         }
         @include responsive('min-width: #{$width-tablet}') {
-            margin-right: var(--space-9);
+            margin-right: var(--space-8);
         }
     }
     div:nth-of-type(2) {
@@ -255,8 +290,8 @@ header nav {
     margin-left: var(--space-4);
     margin-right: var(--space-4);
     border-top: 2px solid var(--blackInk);
-    font-size: 2.667rem;
-    line-height: 3.222rem;
+    font-size: 2rem;
+    line-height: 2.875rem;
 }
 
 .footer {
@@ -272,6 +307,11 @@ header nav {
         display: grid;
         grid-template-columns: repeat(3, 1fr);
         grid-gap: var(--space-4);
+    }
+    div {
+        @media (min-width: 1px) and (max-width: #{$width-tablet}) {
+            margin-top: var(--space-4);
+        }
     }
 }
 
