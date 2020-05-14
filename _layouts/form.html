@@ -2,7 +2,7 @@
 <html>
 {% include head.html %}
 
-<body class="hi form">
+<body class="form{% if page.lang == 'hi' %} hi{% endif %}">
   {% include header.html %}
   <div class="content-wrapper">
     {% if page.description %}
