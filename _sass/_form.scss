@@ -79,22 +79,17 @@ body.form {
 }
 
 .ask-a-question-form textarea {
-	padding-top: 3vw;
-    line-height: 1;
+	padding-top: 2vw;
+    line-height: 1.4;
 }
-
 
 @media (min-width: 1px) and (max-width: #{$width-tablet}) {
 	.ask-a-question-form input,
 	.ask-a-question-form textarea {
 		font-size: 4vw;
-		line-height: 1;
+		line-height: 1.2;
 		height: 16vw;
     }
-    
-	.ask-a-question-form textarea {
-		line-height: 1;
-	}
 }
 
 .ask-a-question-form textarea {
