@@ -133,6 +133,11 @@ body.form {
 	margin-bottom: var(--space-2);
 }
 
+.ask-a-question-form label.switch {
+	font-size: 1rem;
+	text-transform: unset;
+}
+
 @supports (-webkit-appearance: none) or (-moz-appearance: none) {
 	input[type='checkbox'],
 	input[type='radio'] {
