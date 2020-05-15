@@ -42,9 +42,9 @@ page:
 - sys:
     id: 4xN7lPbCvQdT2WUCgP3I9M
     created_at: !ruby/object:DateTime 2020-05-12 20:31:54.456000000 Z
-    updated_at: !ruby/object:DateTime 2020-05-14 18:42:30.109000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-14 21:50:44.275000000 Z
     content_type_id: page
-    revision: 0
+    revision: 1
     space:
       sys:
         id: d4fy1qepdfjq
@@ -88,25 +88,25 @@ page:
     - sys:
         id: 7sOeWskK689sgFsKfczg7D
         created_at: !ruby/object:DateTime 2020-05-13 21:26:02.232000000 Z
-        updated_at: !ruby/object:DateTime 2020-05-14 21:18:06.631000000 Z
+        updated_at: !ruby/object:DateTime 2020-05-14 21:56:27.406000000 Z
         content_type_id: moduleContributors
-        revision: 0
+        revision: 1
       title:
         en-US: Our experts
       contributors:
         en-US:
         - sys:
-            id: 3VDanAW0JZIK2gIl50lGsg
-        - sys:
-            id: enGE7MnQYCd9cGxKTXA1p
-        - sys:
             id: Ffg24BXuAG5nj45n4psKA
         - sys:
-            id: 2PefzxNAEEsCUTjbZGR8hQ
+            id: 3VDanAW0JZIK2gIl50lGsg
         - sys:
             id: 1jTy4C4NUtTg33gfmANjV6
         - sys:
+            id: enGE7MnQYCd9cGxKTXA1p
+        - sys:
             id: 1aE0WfwjjgxKyanRyPlmJk
+        - sys:
+            id: 2PefzxNAEEsCUTjbZGR8hQ
         - sys:
             id: 3MDM05wtxjGNQC5PY7gIpT
   title-fr: À propos de
@@ -124,9 +124,9 @@ page:
 - sys:
     id: 6qPcureNE9SvAqTqvb8Vsl
     created_at: !ruby/object:DateTime 2020-05-14 00:12:44.405000000 Z
-    updated_at: !ruby/object:DateTime 2020-05-14 00:50:33.668000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-14 21:50:44.459000000 Z
     content_type_id: page
-    revision: 0
+    revision: 1
     space:
       sys:
         id: d4fy1qepdfjq

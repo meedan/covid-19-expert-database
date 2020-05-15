@@ -3,9 +3,9 @@ contributor:
 - sys:
     id: 3VDanAW0JZIK2gIl50lGsg
     created_at: !ruby/object:DateTime 2020-05-13 21:26:15.783000000 Z
-    updated_at: !ruby/object:DateTime 2020-05-14 20:04:41.130000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-14 21:50:44.123000000 Z
     content_type_id: contributor
-    revision: 0
+    revision: 1
   name:
     en-US: Dr. Seema Yasmin
     fr: Dr. Seema Yasmin
@@ -29,9 +29,9 @@ contributor:
 - sys:
     id: enGE7MnQYCd9cGxKTXA1p
     created_at: !ruby/object:DateTime 2020-05-13 21:26:32.131000000 Z
-    updated_at: !ruby/object:DateTime 2020-05-14 20:03:00.148000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-14 21:50:44.221000000 Z
     content_type_id: contributor
-    revision: 0
+    revision: 1
   name:
     en-US: 'Mohit Nair '
   slug:
@@ -50,9 +50,9 @@ contributor:
 - sys:
     id: Ffg24BXuAG5nj45n4psKA
     created_at: !ruby/object:DateTime 2020-05-13 21:27:06.964000000 Z
-    updated_at: !ruby/object:DateTime 2020-05-13 21:28:18.268000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-14 21:50:44.457000000 Z
     content_type_id: contributor
-    revision: 0
+    revision: 1
   name:
     en-US: Nat Gyenes
   slug:
@@ -71,9 +71,9 @@ contributor:
 - sys:
     id: 2PefzxNAEEsCUTjbZGR8hQ
     created_at: !ruby/object:DateTime 2020-05-13 21:28:31.832000000 Z
-    updated_at: !ruby/object:DateTime 2020-05-14 20:06:40.258000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-14 21:50:44.062000000 Z
     content_type_id: contributor
-    revision: 0
+    revision: 1
   name:
     en-US: 'Megan Marrelli '
   slug:
@@ -93,9 +93,9 @@ contributor:
 - sys:
     id: 3MDM05wtxjGNQC5PY7gIpT
     created_at: !ruby/object:DateTime 2020-05-14 20:04:55.127000000 Z
-    updated_at: !ruby/object:DateTime 2020-05-14 20:06:16.203000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-14 21:50:44.144000000 Z
     content_type_id: contributor
-    revision: 0
+    revision: 1
   name:
     en-US: Shalini Joshi
   slug:
@@ -117,9 +117,9 @@ contributor:
 - sys:
     id: 1jTy4C4NUtTg33gfmANjV6
     created_at: !ruby/object:DateTime 2020-05-14 20:06:56.782000000 Z
-    updated_at: !ruby/object:DateTime 2020-05-14 20:07:17.858000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-14 21:50:44.024000000 Z
     content_type_id: contributor
-    revision: 0
+    revision: 1
   name:
     en-US: Christin Gilmer
   slug:
@@ -139,9 +139,9 @@ contributor:
 - sys:
     id: 1aE0WfwjjgxKyanRyPlmJk
     created_at: !ruby/object:DateTime 2020-05-14 20:43:14.896000000 Z
-    updated_at: !ruby/object:DateTime 2020-05-14 20:44:06.952000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-14 21:50:44.083000000 Z
     content_type_id: contributor
-    revision: 0
+    revision: 1
   name:
     en-US: Nour Sharara
   slug:

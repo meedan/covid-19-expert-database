@@ -2,7 +2,7 @@
 lang: en-US
 ---
 <!DOCTYPE html>
-<html>
+<html lang="{{ page.lang }}">
 {% include head.html %}
 
 <body>
@@ -19,8 +19,8 @@ lang: en-US
         {{ page.body['en-US'] | markdownify }}
         {% if page.slug == 'about' %}
           <div class="logos">
-            <div><a href="//health.meedan.com"><img src="/images/logo.png" width="300"></a></div>
-            <div>An initiative organized by <a href="//meedan.com">{% include meedan_logo.html %}</a></div>
+            <div><a href="//health.meedan.com" title="Learn more about Digital Health Lab"><img src="/images/logo.png" width="300" alt="Digital Health Lab logo"></a></div>
+            <div>An initiative organized by <a href="//meedan.com" title="Learn more about Meedan">{% include meedan_logo.html %}</a></div>
           </div>
         {% endif %}
       </div>

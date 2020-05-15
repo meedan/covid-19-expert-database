@@ -34,6 +34,7 @@ t:
       thanks-home-link-label: "Back to home"
     about-project:
       title: "Cut through<br /> the noise"
+      title-clean: "Cut through the noise"
       description: "There is a lot of conflicting information out there on COVID-19. Our experts offer evidence and context to add to your communications, fact-checks or investigations."
       meet-our-experts: "Meet our experts"
       explore-glossary: "Explore glossary of terms"
