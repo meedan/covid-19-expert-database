@@ -3,9 +3,9 @@ page:
 - sys:
     id: 59Olgrx6nbKQBCKwPLPslX
     created_at: !ruby/object:DateTime 2020-05-12 16:43:43.001000000 Z
-    updated_at: !ruby/object:DateTime 2020-05-14 18:55:18.042000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-15 19:35:38.202000000 Z
     content_type_id: page
-    revision: 1
+    revision: 2
     space:
       sys:
         id: d4fy1qepdfjq
@@ -35,16 +35,16 @@ page:
   title-en: Covid-19 Expert Database
   description-en: Global public health experts. Newsworthy insights into questions
     about COVID-19.
-  description-fr: Experts mondiaux en santé publique. Des informations dignes d'intérêt
+  description-fr: Experts mondiaux en santé publique. Des informations essentielles
     sur les questions concernant COVID-19.
-  description-hi: वैश्विक सार्वजनिक स्वास्थ्य विशेषज्ञ। COVID-19 के बारे में सवालों
-    के जवाब
+  description-hi: कोविड-19 से जुड़े सवालों पर ताज़ा खबरों और जानकारियों के लिए पब्लिक
+    हेल्थ (सार्वजनिक स्वास्थ्य) विशेषज्ञों का नज़रिया
 - sys:
     id: 4xN7lPbCvQdT2WUCgP3I9M
     created_at: !ruby/object:DateTime 2020-05-12 20:31:54.456000000 Z
-    updated_at: !ruby/object:DateTime 2020-05-14 21:50:44.275000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-15 19:38:19.587000000 Z
     content_type_id: page
-    revision: 1
+    revision: 2
     space:
       sys:
         id: d4fy1qepdfjq
@@ -70,19 +70,23 @@ page:
       from the Harvard School of Public Health and the Stanford Health Communications
       Initiative, and scientists with experience working in multiple languages and
       regional contexts. \n\nHave a COVID-19 question that we haven’t tackled? Send
-      us a message at health@meedan.com and we’ll see if our scientists can help you."
+      us a message at <a href=\"mailto:health@meedan.com\">health@meedan.com</a> and
+      we’ll see if our scientists can help you."
     fr: |-
-      ### Il faut une forêt de cerveaux.
+      ### Contextualization crédible et mises à jour essentielles des informations sur COVID-19.
 
-      Dans la base de données d'experts COVID-19, les scientifiques et les journalistes développent des informations actualisées, actualisées et localisées sur la recherche médicale, et diffusent ces informations à des publics du monde entier. Notre équipe croissante d'experts comprend des chercheurs de la Harvard School of Public Health et de la Stanford Health Communications Initiative, ainsi que des scientifiques ayant une expérience de travail dans plusieurs langues et contextes régionaux.
+      Dans la base de données d'experts COVID-19, scientifiques et journalistes développent des informations essentielles, actuelles, locales et internationales sur la santé publique et la recherche médicale, et distribuent ces informations aux utilisateurs autour du monde. Notre équipe d'experts comprend des chercheurs de la Harvard School of Public Health et de la Stanford Health Communications Initiative, ainsi que des scientifiques ayant une expértise dans multiplies contextes régionaux.
 
-      Vous avez une question COVID-19 que nous n'avons pas abordée? Envoyez-nous un message à health@meedan.com et nous verrons si nos scientifiques peuvent vous aider.
-    hi: |-
-      ### यह एक समझदारी लेता है।
-
-      COVID-19 विशेषज्ञ डेटाबेस में, वैज्ञानिकों और पत्रकारों ने चिकित्सा अनुसंधान में नए-नए तरीके, अप-टू-डेट, स्थानीयकृत अंतर्दृष्टि विकसित की और उन अंतर्दृष्टि को दुनिया भर के दर्शकों में वितरित किया। विशेषज्ञों की हमारी बढ़ती टीम में हार्वर्ड स्कूल ऑफ पब्लिक हेल्थ और स्टैनफोर्ड हेल्थ कम्युनिकेशंस इनिशिएटिव के शोधकर्ताओं और कई भाषाओं और क्षेत्रीय संदर्भों में काम करने का अनुभव रखने वाले वैज्ञानिक शामिल हैं।
-
-      एक COVID-19 प्रश्न है जिसे हमने निबटाया नहीं है? हमें health@meedan.com पर एक संदेश भेजें और हम देखेंगे कि क्या हमारे वैज्ञानिक आपकी सहायता कर सकते हैं।
+      Des suggestions sur de nouvelles question à aborder? Envoyez-nous un message à <a href="mailto:health@meedan.com">health@meedan.com</a>.
+    hi: "### कोविड-19 पर उभरती जानकारी पर ताज़ातरीन, विश्वसनीय सन्दर्भ \n\nCOVID-19
+      एक्सपर्ट डेटाबेस को वैज्ञानिक और पत्रकार तैयार कर रहे हैं. इसमें ताज़ा, अप-टू-डेट,
+      स्थानीय नज़रिये को पब्लिक हेल्थ और मेडिकल रिसर्च से जोड़कर एक ख़ास नजरिया पेश किया
+      जा रहा है और इस नज़रिये को दुनिया भर में लोगों तक पहुंचाया जा रहा है। विशेषज्ञों
+      की हमारी टीम में हार्वर्ड स्कूल ऑफ पब्लिक हेल्थ और स्टैनफोर्ड हेल्थ कम्युनिकेशंस
+      इनिशिएटिव के शोधकर्ता हैं. इनके साथ कई भाषाओं और क्षेत्रीय संदर्भों में काम
+      करने का अनुभव रखने वाले वैज्ञानिक भी शामिल हैं।\n\nक्या आपके पास कोविड-19 से
+      जुड़ा कोई ऐसा सवाल है जिसका जवाब हमने न दिया हो? हमें सन्देश भेजें और हम कोशिश
+      करेंगे कि हमारे वैज्ञानिक आपकी मदद करें"
   modules:
     en-US:
     - sys:
@@ -109,18 +113,18 @@ page:
             id: 2PefzxNAEEsCUTjbZGR8hQ
         - sys:
             id: 3MDM05wtxjGNQC5PY7gIpT
-  title-fr: À propos de
-  title-hi: के बारे में
+  title-fr: En savoir plus
+  title-hi: हमारे बारे में
   title-en: About
   description-en: We are a global team of epidemiologists, public health experts,
     infectious disease researchers and journalists offering critical insights into
     complex pandemic science.
-  description-fr: Nous sommes une équipe mondiale d'épidémiologistes, d'experts en
-    santé publique, de chercheurs sur les maladies infectieuses et de journalistes
-    offrant des informations critiques sur la science complexe d'une pandémie.
-  description-hi: हम महामारी विज्ञानियों, सार्वजनिक स्वास्थ्य विशेषज्ञों, संक्रामक
-    रोग शोधकर्ताओं और पत्रकारों की एक वैश्विक टीम हैं जो जटिल महामारी विज्ञान में
-    महत्वपूर्ण अंतर्दृष्टि प्रदान करते हैं।
+  description-fr: Nous sommes une équipe mondiale d'épidémiologistes, experts en santé
+    publique, chercheurs sur les maladies infectieuses et journalistes offrant des
+    informations critiques sur la science complexe d'une pandémie.
+  description-hi: हमारी ग्लोबल टीम में हैं एपीडीमीओलोजिस्ट, पब्लिक हेल्थ विशेषज्ञ,
+    संक्रामक या इन्फेक्शियस बीमारियों पर शोध करने वाले रीसर्चर और पत्रकार. ये टीम
+    कोविड-19 जैसी महामारी से जुड़े जटिल विज्ञान पर एक ख़ास नजरिया पेश कर रही है
 - sys:
     id: 6qPcureNE9SvAqTqvb8Vsl
     created_at: !ruby/object:DateTime 2020-05-14 00:12:44.405000000 Z
