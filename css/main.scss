@@ -176,6 +176,10 @@ header nav {
     }
 }
 
+body.hi header nav {
+    font-family: var(--font-family-hindi);
+}
+
 
 .content-wrapper {
     padding-left: var(--space-4);
