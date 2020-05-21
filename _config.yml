@@ -56,7 +56,7 @@ reload_port: 5678    # If you don't want to use the default port
 contentful:
   output: true
   spaces:
-    - pages: 
+    - pages:
         space: ENV_CONTENTFUL_EDB_SPACE_ID
         access_token: ENV_CONTENTFUL_EDB_ACCESS_TOKEN
         cda_query:
@@ -68,7 +68,7 @@ contentful:
         content_types:
           page: PageMapper
         destination: 'contentful/spaces/'
-    - contributors: 
+    - contributors:
         space: ENV_CONTENTFUL_EDB_SPACE_ID
         access_token: ENV_CONTENTFUL_EDB_ACCESS_TOKEN
         cda_query:
@@ -101,6 +101,5 @@ page_gen:
     dir: '/questions'
   - data: 'covid19.questions-fr'
     template: 'entry-fr'
-    name: 'Question'
+    name_expr: '@site.data["covid19"]["questions"][data_index]&.dig("Question") || record["Question"]'
     dir: '/fr/questions'
-  
