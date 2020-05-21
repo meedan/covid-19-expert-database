@@ -1,9 +1,25 @@
-{% assign questions = site.data.covid19.questions %}
+{% if page.lang == 'en-US' %}
+    {% assign questions = site.data.covid19.questions %}
+{% elsif page.lang == 'fr' %}
+    {% assign questions = site.data.covid19.questions-fr %}
+{% elsif page.lang == 'hi' %}
+    {% assign questions = site.data.covid19.questions-hi %}
+{% endif %}
 <div class="questions">
     {% for question in questions %}
-    <a href="/questions/{{ question.Question | sanitize_filename }}" title="{{ question.Question }}" class="question-wrapper">
+    {% if page.lang == 'en-US' %}
+        {% assign q = question.Question %}
+        {% assign url = question.Question | sanitize_filename | prepend: '/questions/' %}
+    {% elsif page.lang == 'fr' %}
+        {% assign q = question.Question %}
+        {% assign url = question.['English Question'] | sanitize_filename | prepend: '/fr/questions/' %}
+    {% elsif page.lang == 'hi' %}
+        {% assign q = question.['सवाल'] %}
+        {% assign url = question.['English Question'] | sanitize_filename | prepend: '/hi/questions/' %}
+    {% endif %}
+    <a href="{{ url }}" title="{{ q }}" class="question-wrapper">
         <div class="question">
-            {{ question.Question }}
+            {{ q }}
         </div>
     </a>
     {% endfor %}

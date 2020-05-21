@@ -112,9 +112,12 @@ body {
 }
 
 // Hindi Font
-body.hi .content-wrapper {
+body.hi .content-wrapper,
+body.hi.entry {
     font-family: var(--font-family-hindi);
 }
+
+
 
 header {
     @include responsive('min-width: #{$width-tablet}') {

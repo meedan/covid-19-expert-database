@@ -1,4 +1,10 @@
-{% assign categories = page['Category'] | trim | split: ',' %}
+{% if page.lang == 'hi' %}
+    {% assign categories = page['Category'] | trim | split: ',' %}
+{% elsif page.lang == 'fr' %}
+    {% assign categories = page['Catégorie'] | trim | split: ',' %}
+{% else %}
+    {% assign categories = page['Category'] | trim | split: ',' %}
+{% endif %}
 {% for category in categories %}
     {% if forloop.last %}
         {{ category }}

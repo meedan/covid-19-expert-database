@@ -1,8 +1,18 @@
-{% assign sources = page['Source of the question'] | trim | split: ',' %}
-{% for source in sources %}
-    {% if forloop.last %}
-        {{ source }}
-    {% else %}
-        {{ source | append: ', ' }}
-    {% endif %}
-{% endfor %}
+{% if page.lang == 'hi' %}
+    {% assign sources = page['यह सवाल कहां से आया'] | trim | split: ',' %}
+{% elsif page.lang == 'fr' %}
+    {% assign sources = page['Source de la question'] | trim | split: ',' %}
+{% else %}
+    {% assign sources = page['Source of the question'] | trim | split: ',' %}
+{% endif %}
+{% if sources %}
+    <div>{{ site.data.ui.t[page.lang].entry.source }} 
+    {% for source in sources %}
+        {% if forloop.last %}
+            {{ source }}
+        {% else %}
+            {{ source | append: ', ' }}
+        {% endif %}
+    {% endfor %}
+    </div>
+{% endif %}

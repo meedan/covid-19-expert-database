@@ -92,27 +92,27 @@ page:
     - sys:
         id: 7sOeWskK689sgFsKfczg7D
         created_at: !ruby/object:DateTime 2020-05-13 21:26:02.232000000 Z
-        updated_at: !ruby/object:DateTime 2020-05-14 21:56:27.406000000 Z
+        updated_at: !ruby/object:DateTime 2020-05-21 21:01:10.488000000 Z
         content_type_id: moduleContributors
-        revision: 1
+        revision: 2
       title:
         en-US: Our experts
       contributors:
         en-US:
         - sys:
+            id: 1jTy4C4NUtTg33gfmANjV6
+        - sys:
             id: Ffg24BXuAG5nj45n4psKA
         - sys:
-            id: 3VDanAW0JZIK2gIl50lGsg
+            id: 3MDM05wtxjGNQC5PY7gIpT
         - sys:
-            id: 1jTy4C4NUtTg33gfmANjV6
+            id: 2PefzxNAEEsCUTjbZGR8hQ
         - sys:
             id: enGE7MnQYCd9cGxKTXA1p
         - sys:
             id: 1aE0WfwjjgxKyanRyPlmJk
         - sys:
-            id: 2PefzxNAEEsCUTjbZGR8hQ
-        - sys:
-            id: 3MDM05wtxjGNQC5PY7gIpT
+            id: 3VDanAW0JZIK2gIl50lGsg
   title-fr: En savoir plus
   title-hi: हमारे बारे में
   title-en: About

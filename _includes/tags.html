@@ -1,4 +1,10 @@
-{% assign tags = page['Tags'] | trim | split: ',' %}
+{% if page.lang == 'en-US' %}
+    {% assign tags = page['Tags'] | trim | split: ',' %}
+{% elsif page.lang == 'fr' %}
+    {% assign tags = page['Tags'] | trim | split: ',' %}
+{% elsif page.lang == 'hi' %}
+    {% assign tags = page['टैग'] | trim | split: ',' %}
+{% endif %}
 <div class="tags">
     <p>
         {% for tag in tags %}

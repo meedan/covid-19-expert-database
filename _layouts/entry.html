@@ -14,7 +14,7 @@ lang: en-US
         </div>
         <h2>{{ page['Question'] }}</h2>
         <div class="meta">
-            <div>via {% include source.html %}</div>
+            {% include source.html %}
             <div>{{ site.data.ui.t[page.lang].entry.last-modified-on }} {{ page['Last modified'] }}</div>
         </div>
     </div>
