@@ -99,3 +99,8 @@ page_gen:
     template: 'entry'
     name: 'Question'
     dir: '/questions'
+  - data: 'covid19.questions-fr'
+    template: 'entry-fr'
+    name: 'Question'
+    dir: '/fr/questions'
+  
