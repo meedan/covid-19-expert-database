@@ -1,6 +1,9 @@
 .questions {
     grid-column: 1/-1;
     margin-top: var(--space-4);
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 0;
     @include responsive('min-width: #{$width-tablet}') {
         display: grid;
         grid-template-columns: repeat(3, 1fr);
