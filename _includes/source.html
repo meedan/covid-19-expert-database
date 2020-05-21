@@ -1,0 +1,8 @@
+{% assign sources = page['Source of the question'] | trim | split: ',' %}
+{% for source in sources %}
+    {% if forloop.last %}
+        {{ source }}
+    {% else %}
+        {{ source | append: ', ' }}
+    {% endif %}
+{% endfor %}

@@ -95,3 +95,7 @@ page_gen:
     template: 'page-hi'
     name: 'slug'
     dir: '/hi'
+  - data: 'covid19.questions'
+    template: 'entry'
+    name: 'Question'
+    dir: '/questions'

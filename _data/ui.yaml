@@ -41,6 +41,14 @@ t:
       meet-our-experts: "Meet our experts"
       explore-glossary: "Explore glossary of terms"
       about: "About this project"
+    entry:
+      question-in: "Question in"
+      added-on: "Added on"
+      last-modified-on: "Last modified on"
+      what-our-experts-say: "What our experts say"
+      context-and-background: "Context and background"
+      tags: "Tags"
+      resources: "Resources"
   fr:
     site-name: "Covid-19 Expert Database"
     ask-a-question: "Ask a question"
@@ -82,6 +90,14 @@ t:
       meet-our-experts: "Rencontrer nos experts"
       explore-glossary: "Explorer le glossaire"
       about: "À propos du projet"
+    entry:
+      question-in: "Question in"
+      added-on: "Added on"
+      last-modified-on: "Last modified on"
+      what-our-experts-say: "What our experts say"
+      context-and-background: "Context and background"
+      tags: "Tags"
+      resources: "Resources"
   hi:
     site-name: "Covid-19 Expert Database"
     ask-a-question: "प्रश्न पूछें"
@@ -123,3 +139,11 @@ t:
       meet-our-experts: "हमारे विशेषज्ञों से मिलें"
       explore-glossary: "शब्दकोष को देखें"
       about: "इस प्रोजेक्ट के बारे में"
+    entry:
+      question-in: "Question in"
+      added-on: "Added on"
+      last-modified-on: "Last modified on"
+      what-our-experts-say: "What our experts say"
+      context-and-background: "Context and background"
+      tags: "Tags"
+      resources: "Resources"

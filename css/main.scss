@@ -17,11 +17,14 @@
 @import "select.scss";
 
 // Pages
+@import "entry.scss";
 @import "form.scss";
 
 // Modules
+@import "module_questions.scss";
 @import "module_about.scss";
 @import "module_contributors.scss";
+
 
 :root {
     --blackInk: #262626;
@@ -35,7 +38,9 @@
     --texasRose: #FFB34D;
     --deepSea: #008D5E;
     --silver: #A7A7A7;
-    --edbGreen: #31A57B;
+    --edbGreenLight: #36B687;
+    --edbGreen: #3BA77D;
+    --edbGreenDark: #3D8366;
     --edbOrange: #FFB124;
     --edbRed: #EB0042;
 
@@ -187,7 +192,8 @@ body.hi header nav {
     @include responsive('min-width: #{$width-tablet}') {
         display: grid;
         grid-template-columns: repeat(6, 1fr);
-        grid-gap: var(--space-4);
+        grid-column-gap: var(--space-4);
+        grid-row-gap: var(--space-1);
     }
     line-height: 1.8rem;
 }

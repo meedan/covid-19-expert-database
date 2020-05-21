@@ -1,0 +1,12 @@
+{% assign tags = page['Tags'] | trim | split: ',' %}
+<div class="tags">
+    <p>
+        {% for tag in tags %}
+            {% if forloop.last %}
+                {{ tag }}
+            {% else %}
+                {{ tag | append: ', ' }}
+            {% endif %}    
+        {% endfor %} 
+    </p>
+</div>

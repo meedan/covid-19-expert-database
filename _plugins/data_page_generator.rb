@@ -4,7 +4,7 @@
 # Distributed under the conditions of the MIT License
 
 module Jekyll
-
+  require 'date'
     module Sanitizer
       # strip characters and whitespace to create valid filenames, also lowercase
       def sanitize_filename(name)
@@ -75,6 +75,10 @@ module Jekyll
           data['title'] = data['title-hi']
           data['description'] = data['description-hi']
         end
+
+        # if template == "entry"
+        #   data["Last modified date"] = data["Last modified"].to_date
+        # end
 
 
         # add all the information defined in _data for the current record to the

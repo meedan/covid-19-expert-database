@@ -1,0 +1,8 @@
+{% assign categories = page['Category'] | trim | split: ',' %}
+{% for category in categories %}
+    {% if forloop.last %}
+        {{ category }}
+    {% else %}
+        {{ category | append: ', ' }}
+    {% endif %}
+{% endfor %}
