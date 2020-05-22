@@ -1,9 +1,18 @@
 {% if page.lang == 'en-US' %}
-    {% assign questions = site.data.covid19.questions %}
+    {% assign questions = site.data.covid19.questions
+        | sort: 'Last modified' 
+        | reverse
+    %}
 {% elsif page.lang == 'fr' %}
-    {% assign questions = site.data.covid19.questions-fr %}
+    {% assign questions = site.data.covid19.questions-fr 
+        | sort: 'Last modified' 
+        | reverse
+    %}
 {% elsif page.lang == 'hi' %}
-    {% assign questions = site.data.covid19.questions-hi %}
+    {% assign questions = site.data.covid19.questions-hi 
+        | sort: 'Last modified' 
+        | reverse
+    %}
 {% endif %}
 <div class="questions">
     {% for question in questions %}
@@ -20,6 +29,7 @@
     <a href="{{ url }}" title="{{ q }}" class="question-wrapper">
         <div class="question">
             {{ q }}
+            {{ question.['Last modified'] }}
         </div>
     </a>
     {% endfor %}

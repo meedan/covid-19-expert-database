@@ -26,6 +26,10 @@ module Jekyll
       require 'csv'
       text.nil? ? [] : (CSV.parse_line(text, { :col_sep => separator })&.map{ |v| v.strip } || [])
     end
+
+    def convert_to_date(str)
+      str ? Date.strptime(str, "%m/%d/%Y") : ''
+    end
     
   end
 end

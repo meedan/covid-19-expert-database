@@ -15,7 +15,7 @@ lang: en-US
         <h2>{{ page['Question'] }}</h2>
         <div class="meta">
             {% include source.html %}
-            <div>{{ site.data.ui.t[page.lang].entry.last-modified-on }} {{ page['Last modified'] }}</div>
+            <div>{{ site.data.ui.t[page.lang].entry.last-modified-on }} {{ page['Last modified'] | convert_to_date | date: "%-d %B %Y" }}</div>
         </div>
     </div>
     {% assign questions = site.data.covid19.questions | jsonify %}
