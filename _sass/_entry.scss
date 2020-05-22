@@ -60,10 +60,16 @@
 
 .entry .resources {
     @include responsive('min-width: #{$width-tablet}') {
-        grid-column: 2/4;
+        grid-column: 2/-1;
     }
-    p {
-        font-size: 1rem;
+    ol {
+        margin-left: var(--space-1);   
+    }
+    li {
+        font-size: 0.833rem;
+        line-height: 1rem;
+        margin-bottom: var(--space-1);
+        padding-left: 5px; 
     }
     
 }
