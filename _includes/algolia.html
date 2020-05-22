@@ -1,0 +1,61 @@
+<!-- Including InstantSearch.js library and styling -->
+<script src="https://cdn.jsdelivr.net/npm/algoliasearch@4/dist/algoliasearch-lite.umd.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4"></script>
+
+<script>
+    // Instanciating InstantSearch.js with Algolia credentials
+const search = instantsearch({
+  indexName: 'covid19',
+  searchClient: algoliasearch('XVQE72Q0TQ', 'd031b4f0809f3999da155451bffba6db'),
+});
+
+
+    const hitTemplate = function (hit) {
+        let url = `{{ site.baseurl }}${hit.url}#${hit.anchor}`;
+        const title = hit._highlightResult.title.value;
+        if (hit.description) {
+            description = hit.description;
+        } else if (hit.short_description) {
+            description = hit.short_description;
+        } else {
+            description = hit.body;
+        }
+
+        let breadcrumbs = '';
+        if (hit._highlightResult.headings) {
+            breadcrumbs = hit._highlightResult.headings.map(match => {
+                return `<span class="post-breadcrumb">${match.value}</span>`
+            }).join(' > ')
+        }
+        return `
+            <a href="${url}" title="${title}" class="question-wrapper">
+                <div class="question">
+                    ${title}
+                </div>
+            </a>
+        `;
+    }
+
+    // Adding searchbar and results widgets
+    search.addWidgets([
+        instantsearch.widgets.searchBox({
+            container: '#search-searchbar',
+        }),
+        instantsearch.widgets.clearRefinements({
+            container: '#clear-refinements',
+        }),
+        instantsearch.widgets.refinementList({
+            container: '#filters-list',
+            attribute: 'Category',
+        }),
+        instantsearch.widgets.hits({
+            container: '#search-hits',
+            templates: {
+                item: hitTemplate,
+            },
+        }),
+    ]);
+
+    // Starting the search
+    search.start();
+</script>

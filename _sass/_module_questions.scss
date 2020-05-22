@@ -1,6 +1,10 @@
 .questions {
     grid-column: 1/-1;
     margin-top: var(--space-4);
+}
+.ais-Hits-list {
+    grid-column: 1/-1;
+    margin-top: var(--space-4);
     display: grid;
     grid-template-columns: repeat(1, 1fr);
     grid-gap: 0;
@@ -12,12 +16,12 @@
     }    
 }
 
-.questions .question-wrapper {
+.ais-Hits-item {
+    display: block;
     border: 2px solid var(--blackInk);
     padding: var(--space-2) var(--space-2);
     font-size: var(--font-size);
     line-height: var(--font-line-height);
-    text-decoration: none;
     background-color: #fff;
     @media (min-width: 1px) and (max-width: #{$width-tablet}) {
         margin-bottom: var(--space-4);
@@ -30,3 +34,6 @@
     }
 }
 
+.question-wrapper {
+    text-decoration: none;
+}

@@ -1,3 +1,8 @@
+<div class="search">
+    <div id="search-searchbar"></div>
+    <div id="clear-refinements"></div>
+    <div id="filters-list"></div>
+</div>
 {% if page.lang == 'en-US' %}
     {% assign questions = site.data.covid19.questions
         | sort: 'Last modified' 
@@ -14,7 +19,8 @@
         | reverse
     %}
 {% endif %}
-<div class="questions">
+<div id="search-hits" class="questions">
+    <!-- <ol class="ais-Hits-list">
     {% for question in questions %}
     {% if page.lang == 'en-US' %}
         {% assign q = question.Question %}
@@ -26,10 +32,12 @@
         {% assign q = question.['सवाल'] %}
         {% assign url = question.['English Question'] | sanitize_filename | prepend: '/hi/questions/' %}
     {% endif %}
-    <a href="{{ url }}" title="{{ q }}" class="question-wrapper">
-        <div class="question">
-            {{ q }}
-        </div>
-    </a>
+        <li class="ais-Hits-item"><a href="{{ url }}" title="{{ q }}" class="question-wrapper">
+            <div class="question">
+                {{ q }}
+            </div>
+        </a></li>
+    
     {% endfor %}
+    </ol> -->
 </div>

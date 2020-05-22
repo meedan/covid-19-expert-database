@@ -113,6 +113,10 @@ page_gen:
 algolia:
   application_id: XVQE72Q0TQ
   index_name: covid19
+  search_only_api_key: d031b4f0809f3999da155451bffba6db
   nodes_to_index: 'p'
   files_to_exclude:
     - hi/**/index.html
+    - about/index.html
+    - fr/about/index.html
+    - hi/about/index.html
