@@ -107,3 +107,12 @@ page_gen:
     template: 'entry-hi'
     name: 'English Question'
     dir: '/hi/questions'
+
+
+# Algolia search
+algolia:
+  application_id: XVQE72Q0TQ
+  index_name: covid19
+  nodes_to_index: 'p'
+  files_to_exclude:
+    - hi/**/index.html

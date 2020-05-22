@@ -7,6 +7,7 @@ group :jekyll_plugins do
   gem "jekyll-contentful-data-import", git: "https://github.com/meedan/jekyll-contentful-data-import"
   gem 'jekyll-seo-tag'
   gem 'jekyll-livereload'
+  gem 'jekyll-algolia'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
