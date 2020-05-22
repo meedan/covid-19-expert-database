@@ -299,6 +299,15 @@ body.hi header nav {
     margin: 1.188rem auto 0 0;
 }
 
+.content-wrapper .disclaimer {
+    margin-top: var(--space-4);
+}
+
+.content-wrapper p.small {
+    font-size: 0.833rem;
+    line-height: 1rem;
+}
+
 .newsletter {
     margin-top: 16.666vh;
     margin-bottom: var(--section-space);
@@ -322,6 +331,24 @@ body.hi header nav {
     @include responsive('min-width: #{$width-tablet}') {
         display: grid;
         grid-template-columns: repeat(3, 1fr);
+        grid-gap: var(--space-4);
+    }
+    div {
+        @media (min-width: 1px) and (max-width: #{$width-tablet}) {
+            margin-top: var(--space-4);
+        }
+    }
+}
+
+.disclaimers {
+    margin-top: var(--section-space);
+    margin-bottom: var(--section-space);
+    padding-left: var(--space-4);
+    padding-right: var(--space-4);
+    line-height: 1.4;
+    @include responsive('min-width: #{$width-tablet}') {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
         grid-gap: var(--space-4);
     }
     div {

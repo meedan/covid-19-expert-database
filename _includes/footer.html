@@ -1,3 +1,16 @@
+{% if page.lang != 'en-US' %}
+    {% assign path = page.lang | append: '/' | prepend: '/' %}
+{% else %}
+    {% assign path = '' | prepend: '/' %}
+{% endif %}
+<div class="disclaimers">
+    <div>
+        <p class="small">We base our COVID-19 expert contextualizations on information provided by internationally-recognized health organizations, public health researchers and infectious disease experts. Because information in epidemics is constantly being updated, our content is up to date based on the date and time they are published. If you’re looking for medical advice, please contact a healthcare provider, and be sure to review the <a href="//www.who.int/emergencies/diseases/novel-coronavirus-2019">World Health Organization website</a> for more information about COVID-19.</p>
+    </div>
+    <div>
+        <p class="small">The data and content on this website are available free of charge under a <a href="//creativecommons.org/licenses/by-sa/2.0/">CC BY-SA license</a>. If you make any additions, transformations, or changes to the dataset please remember to share these under the same license. We would also appreciate you <a href="{{ path }}ask-a-question">letting us know</a>.</p>
+    </div>
+</div>
 <div class="footer">
     <div>
         <a href="mailto:health@meedan.com">health@meedan.com</a>
