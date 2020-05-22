@@ -19,6 +19,7 @@
 // Pages
 @import "entry.scss";
 @import "form.scss";
+@import "glossary.scss";
 
 // Modules
 @import "module_questions.scss";
@@ -112,12 +113,9 @@ body {
 }
 
 // Hindi Font
-body.hi .content-wrapper,
-body.hi.entry {
+html:lang(hi) body {
     font-family: var(--font-family-hindi);
 }
-
-
 
 header {
     @include responsive('min-width: #{$width-tablet}') {

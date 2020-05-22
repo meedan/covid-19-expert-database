@@ -1,0 +1,13 @@
+.glossary {
+    grid-column: 1/-1;
+}
+
+.glossary .term h4 {
+    font-size: 3.333rem;
+    line-height: 5.556rem;
+    cursor: pointer;
+}
+
+.glossary .definition {
+    display: none;
+}

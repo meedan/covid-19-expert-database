@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang }}">
+{% include head.html %}
+
+<body>
+  {% include header.html %}
+  <div class="content-wrapper">
+    <h2>{{ site.data.ui.t[page.lang].menu.glossary }}</h2>
+    {% if page.lang == 'hi' %}
+        {% assign terms = site.data.covid19.glossary-hi %}
+    {% elsif page.lang == 'fr' %}
+        {% assign terms = site.data.covid19.glossary-fr %}
+    {% else %}
+        {% assign terms = site.data.covid19.glossary %}
+    {% endif %}
+    <div class="glossary">
+        {% for term in terms %}
+            {% if page.lang == 'hi' %}
+                {% assign t = term.['शब्द'] %}
+                {% assign d = term.['परिभाषा'] | markdownify %}
+            {% elsif page.lang == 'fr' %}
+                {% assign t = term.Term %}
+                {% assign d = term.Definition | markdownify %}
+            {% else %}
+                {% assign t = term.Term %}
+                {% assign d = term.Definition | markdownify %}
+            {% endif %}
+            <div class="term">
+                <h4>{{ t }}</h4>
+                <div class="definition">
+                    {{ d }}
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+  </div>
+  {% include newsletter.html %}
+  {% include footer.html %}
+  {% include js.html %}
+</body>
+
+</html>
