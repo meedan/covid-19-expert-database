@@ -13,6 +13,7 @@ t:
       cta: "Catch up on weekly highlights from award-winning journalist and medical doctor, Dr. Seema Yasmin, by <a href='//meedan.com/checklist'>subscribing to our newsletter</a>."
     support:
       title: "Project Support"
+      disclaimer: "The views expressed here do not necessarily reflect the views of the funders."
     footer:
       about: "About the <br />Digital Health Lab"
       meedan: "An initiative organized <br />by Meedan"
@@ -55,6 +56,7 @@ t:
       cta: "Catch up on weekly highlights from award-winning journalist and medical doctor, Dr. Seema Yasmin, by <a href='//meedan.com/checklist'>subscribing to our newsletter</a>."
     support:
       title: "Project Support"
+      disclaimer: "The views expressed here do not necessarily reflect the views of the funders."
     footer:
       about: "About the <br />Digital Health Lab"
       meedan: "Une initiative organizée <br />par Meedan"
@@ -96,6 +98,7 @@ t:
       cta: "Catch up on weekly highlights from award-winning journalist and medical doctor, Dr. Seema Yasmin, by <a href='//meedan.com/checklist'>subscribing to our newsletter</a>."
     support:
       title: "Project Support"
+      disclaimer: "The views expressed here do not necessarily reflect the views of the funders."
     footer:
       about: "मीदान के डिजिटल हेल्थ लैब के बारे में"
       meedan: "मीदान की पहल"
