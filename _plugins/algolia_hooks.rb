@@ -3,10 +3,10 @@ module Jekyll
     module Hooks
       def self.before_indexing_each(record, node, context)
         if record[:Category]
-          record[:categories] = record[:Category].split(",").map(&:strip)
+          record[:categories] = Jekyll::Utils::split_better(record[:Category])
         end
         if record[:Tag]
-          record[:tags] = record[:Tag].split(",").map(&:strip)
+          record[:tags] = Jekyll::Utils::split_better(record[:Tag])
         end
 
         record
