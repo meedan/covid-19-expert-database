@@ -22,19 +22,19 @@ lang: en-US
 
     <div class="content-wrapper">
         <h3 class="section-title">{{ site.data.ui.t[page.lang].entry.what-our-experts-say }}</h3>
-            <div class="answer">
-                {{ page['What our experts say'] | markdownify }}
-            </div>
-            <h3 class="section-title">{{ site.data.ui.t[page.lang].entry.context-and-background }}</h3>
-            <div class="context">
-                {{ page['Background & context'] | markdownify }}           
-            </div>
-            <h3 class="section-title">{{ site.data.ui.t[page.lang].entry.tags }}</h3>
-            {% include tags.html %}
-            <h3 class="section-title">{{ site.data.ui.t[page.lang].entry.resources }}</h3>
-            <div class="resources">
-                {{ page['Other resources'] | markdownify }}
-            </div>
+        <div class="answer">
+            {{ page['What our experts say'] | markdownify }}
+        </div>
+        <h3 class="section-title">{{ site.data.ui.t[page.lang].entry.context-and-background }}</h3>
+        <div class="context">
+            {{ page['Background & context'] | markdownify }}           
+        </div>
+        <h3 class="section-title">{{ site.data.ui.t[page.lang].entry.tags }}</h3>
+        {% include tags.html %}
+        <h3 class="section-title">{{ site.data.ui.t[page.lang].entry.resources }}</h3>
+        <div class="resources">
+            {{ page['Other resources'] | markdownify }}
+        </div>
     </div>
     {% include newsletter.html %}
     {% include footer.html %}
