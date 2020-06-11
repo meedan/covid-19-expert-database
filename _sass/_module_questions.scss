@@ -16,8 +16,10 @@
     }    
 }
 
-.ais-Hits-item {
-    display: block;
+.questions .question-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
     border: 2px solid var(--blackInk);
     padding: var(--space-2) var(--space-2);
     font-size: var(--font-size);

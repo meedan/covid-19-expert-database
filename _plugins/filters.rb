@@ -24,13 +24,13 @@ module Jekyll
 
     def split_better(text, separator = ',')
       require 'csv'
-      text.nil? ? [] : (CSV.parse_line(text, { :col_sep => separator })&.map{ |v| v.strip } || [])
+      text.nil? ? [] : (CSV.parse_line(text, { :col_sep => separator })&.map(&:strip) || [])
     end
 
     def convert_to_date(str)
       str ? Date.strptime(str, "%m/%d/%Y") : ''
     end
-    
+
   end
 end
 

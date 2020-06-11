@@ -60,10 +60,101 @@
 
 .entry .resources {
     @include responsive('min-width: #{$width-tablet}') {
-        grid-column: 2/4;
+        grid-column: 2/6;
     }
-    p {
-        font-size: 1rem;
+    ol {
+        margin-left: var(--space-1);
+        @include responsive('min-width: #{$width-tablet}') {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            grid-gap: var(--space-2); 
+        }
+    }
+    li {
+        font-size: 0.833rem;
+        line-height: 1rem;
+        margin-bottom: var(--space-1);
+        padding-left: 5px; 
     }
     
+}
+
+.entry .content-wrapper {
+    position: relative;
+}
+
+aside {
+    position: absolute;
+    top: var(--space-6);
+    div {
+        display: flex;
+        flex-direction: column;
+    }
+    &.left {
+        left: var(--space-2);;
+    }
+    &.right {
+        right: var(--space-2);
+    }
+}
+
+
+
+.btn {
+    border: 0;
+    background-color: #fff;
+    cursor: pointer;
+}
+
+.btn-icon {
+    display: inline-block;
+    border-radius: 50%;
+    width: 4rem;
+    height: 4rem;
+    max-width: 50px;
+    max-height: 50px;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    padding: 0;
+    @include responsive('min-width: #{$width-tablet}') {
+        max-width: 80px;
+        max-height: 80px;
+    }
+}
+
+.btn-icon-no-border {
+    background-size: 100% 100%;
+    border-radius: 0;
+    width: 2.22222rem;
+    height: 2.22222rem;
+    max-width: 30px;
+    max-height: 30px;
+    @include responsive('min-width: #{$width-tablet}') {    
+        max-width: 46px;
+        max-height: 46px;
+    }
+}
+
+.icon-bookmark {
+    background-image: url('/images/icons/bookmark_2x.svg');
+}
+
+.icon-twitter {
+    background-image: url('/images/icons/twitter2.svg');
+}
+
+.icon-facebook {
+    background-image: url('/images/icons/fb2.svg');
+}
+
+.icon-close {
+    background-image: url('/images/icons/close.svg');
+}
+
+.icon-arrow-left {
+    background-image: url('/images/icons/arrow_left.svg');
+}
+
+.icon-arrow-right {
+    background-image: url('/images/icons/arrow_right.svg');
 }

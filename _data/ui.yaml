@@ -14,6 +14,9 @@ t:
     support:
       title: "Project Support"
       disclaimer: "The views expressed here do not necessarily reflect the views of the funders."
+    disclaimers:
+      we-base-our: "We base our COVID-19 expert contextualizations on information provided by internationally-recognized health organizations, public health researchers and infectious disease experts. Because information in epidemics is constantly being updated, our content is up to date based on the date and time they are published. If you’re looking for medical advice, please contact a healthcare provider, and be sure to review the <a href='//www.who.int/emergencies/diseases/novel-coronavirus-2019'>World Health Organization website</a> for more information about COVID-19."
+      the-data-and-content: "The data and content on this website are available free of charge under a <a href='//creativecommons.org/licenses/by-sa/2.0/'>CC BY-SA license</a>. If you make any additions, transformations, or changes to the dataset please remember to share these under the same license. We would also appreciate you <a href='{{ path }}ask-a-question'>letting us know</a>."
     footer:
       about: "About the <br />Digital Health Lab"
       meedan: "An initiative organized <br />by Meedan"
@@ -53,7 +56,7 @@ t:
       resources: "Resources"
   fr:
     site-name: "Covid-19 Expert Database"
-    ask-a-question: "Ask a question"
+    ask-a-question: "Poser une question"
     menu:
       english: "English"
       french: "Français"
@@ -61,13 +64,16 @@ t:
       glossary: "Glossaire"
       about: "En savoir plus"
     newsletter:
-      lead: "This database is updated regularly."
-      cta: "Catch up on weekly highlights from award-winning journalist and medical doctor, Dr. Seema Yasmin, by <a href='//meedan.com/checklist'>subscribing to our newsletter</a>."
+      lead: "Cette base de données est mise à jour régulièrement."
+      cta: "Retrouvez les temps forts de la semaine avec Dr Seema Yasmin, médecin et journaliste primée, en vous inscrivant à notre newsletter."
     support:
       title: "Project Support"
-      disclaimer: "The views expressed here do not necessarily reflect the views of the funders."
+      disclaimer: "Les opinions exprimées ici ne reflètent pas celles des bailleurs de fonds supportant ce projet."
+    disclaimers:
+      we-base-our: "Nous basons nos mises en contexte sur la COVID-19 sur des informations fournies par des organisations de santé reconnues à l'échelle mondiale, des chercheurs en santé publique et des experts en maladies infectieuses. Comme les informations sur les épidémies changent constamment, notre contenu est mis à jour en fonction de la date et de l'heure de leur publication. Si vous cherchez un avis médical, veuillez contacter un médecin, et n'oubliez pas de consulter le site web de l'Organisation mondiale de la santé pour plus d'informations sur la COVID-19."
+      the-data-and-content: "Les données et le contenu de ce site web sont disponibles gratuitement sous licence CC BY-SA. Si vous effectuez des ajouts, des transformations ou des changements dans la base de données, n'oubliez pas de les partager sous la même licence. Nous vous serions également reconnaissants de nous en informer."
     footer:
-      about: "About the <br />Digital Health Lab"
+      about: "À propos du <br />Digital Health Lab"
       meedan: "Une initiative organizée <br />par Meedan"
     form:
       intro: "Have a COVID-19 question that we haven’t tackled yet? Send us a message and we’ll see if our scientists can help you."
@@ -112,13 +118,16 @@ t:
       glossary: "शब्दकोष"
       about: "हमारे बारे में"
     newsletter:
-      lead: "This database is updated regularly."
-      cta: "Catch up on weekly highlights from award-winning journalist and medical doctor, Dr. Seema Yasmin, by <a href='//meedan.com/checklist'>subscribing to our newsletter</a>."
+      lead: "यह डेटाबेस नियमित रूप से अपडेट किया जाता है।"
+      cta: "आप हमारे न्यूज़लेटर की सदस्यता ले सकते हैं और पुरस्कार विजेता पत्रकार और चिकित्सक डॉक्टर डॉक्टर यास्मीन से साप्ताहिक हाइलाइट देख सकते हैं।"
     support:
       title: "Project Support"
-      disclaimer: "The views expressed here do not necessarily reflect the views of the funders."
+      disclaimer: "यहाँ व्यक्त किए गए विचार आवश्यक रूप से फ़न के विचारों को नहीं दर्शाते हैं।"
+    disclaimers:
+      we-base-our: "हम अंतरराष्ट्रीय स्तर पर मान्यता प्राप्त स्वास्थ्य संगठनों, सार्वजनिक स्वास्थ्य शोधकर्ताओं और संक्रामक रोग विशेषज्ञों द्वारा प्रदान की गई जानकारी पर हमारे COVID-19 विशेषज्ञ संदर्भों को आधार बनाते हैं। क्योंकि महामारी में जानकारी लगातार अपडेट की जा रही है, हमारी सामग्री तारीख और समय के आधार पर प्रकाशित होती है। यदि आप चिकित्सा सलाह की तलाश कर रहे हैं, तो कृपया एक स्वास्थ्य सेवा प्रदाता से संपर्क करें, और COVID-19 के बारे में अधिक जानकारी के लिए विश्व स्वास्थ्य संगठन की वेबसाइट की समीक्षा करना सुनिश्चित करें।"
+      the-data-and-content: "इस वेबसाइट पर डेटा और सामग्री एक CC BY-SA लाइसेंस के तहत मुफ्त उपलब्ध है। यदि आप डेटासेट में कोई जोड़ या परिवर्तन करते हैं, तो कृपया उन्हें उसी लाइसेंस के तहत साझा करना याद रखें। कृपया यदि संभव हो तो हमें बताएं।"
     footer:
-      about: "मीदान के डिजिटल हेल्थ लैब के बारे में"
+      about: "डिजिटल हेल्थ लैब के बारे में"
       meedan: "मीदान की पहल"
     form:
       intro: "क्या आपके पास कोविड-19 से जुड़ा कोई ऐसा सवाल है जिसका जवाब हमने न दिया हो? हमें सन्देश भेजें और हम कोशिश करेंगे कि हमारे वैज्ञानिक आपकी मदद करें"
