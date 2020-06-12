@@ -1,21 +1,22 @@
 <div class="search">
     <div id="search-searchbar"></div>
     <div id="clear-refinements"></div>
-    <div id="filters-list"></div>
+    <div id="filters-categories"></div>
+    <div id="filters-lang"></div>
 </div>
 {% if page.lang == 'en-US' %}
     {% assign questions = site.data.covid19.questions
-        | sort: 'Last modified' 
+        | sort: 'Last modified'
         | reverse
     %}
 {% elsif page.lang == 'fr' %}
-    {% assign questions = site.data.covid19.questions-fr 
-        | sort: 'Last modified' 
+    {% assign questions = site.data.covid19.questions-fr
+        | sort: 'Last modified'
         | reverse
     %}
 {% elsif page.lang == 'hi' %}
-    {% assign questions = site.data.covid19.questions-hi 
-        | sort: 'Last modified' 
+    {% assign questions = site.data.covid19.questions-hi
+        | sort: 'Last modified'
         | reverse
     %}
 {% endif %}
@@ -40,7 +41,7 @@
                 {{ q }}
             </div>
         </a></li>
-    
+
     {% endfor %}
     </ol> -->
 </div>
