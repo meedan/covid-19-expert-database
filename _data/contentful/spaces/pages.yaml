@@ -3,9 +3,9 @@ page:
 - sys:
     id: 59Olgrx6nbKQBCKwPLPslX
     created_at: !ruby/object:DateTime 2020-05-12 16:43:43.001000000 Z
-    updated_at: !ruby/object:DateTime 2020-05-15 19:35:38.202000000 Z
+    updated_at: !ruby/object:DateTime 2020-06-10 18:22:34.781000000 Z
     content_type_id: page
-    revision: 2
+    revision: 4
     space:
       sys:
         id: d4fy1qepdfjq
@@ -20,21 +20,21 @@ page:
         linkType: Environment
   title: Covid-19 Expert Database
   slug: "/"
-  description: Global public health experts. Newsworthy insights into questions about
-    COVID-19.
+  description: Public health experts in service of journalism. Your rapid response
+    team with research insights about COVID-19.
   embed:
     en-US: '<iframe class="airtable-embed" src="https://airtable.com/embed/shrUpfyl80JBmEJxV?backgroundColor=red&viewControls=on"
       frameborder="0" onmousewheel="" width="100%" height="633" style="background:
       transparent; border: 1px solid #ccc;"></iframe>'
-    fr: '<iframe class="airtable-embed" src="https://airtable.com/embed/shrUpfyl80JBmEJxV?backgroundColor=red&viewControls=on"
+    fr: '<iframe class="airtable-embed" src="https://airtable.com/embed/shrerYBQ07wZtjQ8R?backgroundColor=red&viewControls=on"
       frameborder="0" onmousewheel="" width="100%" height="633" style="background:
       transparent; border: 1px solid #ccc;"></iframe>'
-    hi: '<iframe class="airtable-embed" src="https://airtable.com/embed/shrUpfyl80JBmEJxV?backgroundColor=red&viewControls=on"
+    hi: '<iframe class="airtable-embed" src="https://airtable.com/embed/shrc7aCfRHwbCr6CZ?backgroundColor=red&viewControls=on"
       frameborder="0" onmousewheel="" width="100%" height="633" style="background:
       transparent; border: 1px solid #ccc;"></iframe>'
   title-en: Covid-19 Expert Database
-  description-en: Global public health experts. Newsworthy insights into questions
-    about COVID-19.
+  description-en: Public health experts in service of journalism. Your rapid response
+    team with research insights about COVID-19.
   description-fr: Experts mondiaux en santé publique. Des informations essentielles
     sur les questions concernant COVID-19.
   description-hi: कोविड-19 से जुड़े सवालों पर ताज़ा खबरों और जानकारियों के लिए पब्लिक
@@ -42,9 +42,9 @@ page:
 - sys:
     id: 4xN7lPbCvQdT2WUCgP3I9M
     created_at: !ruby/object:DateTime 2020-05-12 20:31:54.456000000 Z
-    updated_at: !ruby/object:DateTime 2020-05-15 19:38:19.587000000 Z
+    updated_at: !ruby/object:DateTime 2020-06-10 19:27:13.204000000 Z
     content_type_id: page
-    revision: 2
+    revision: 5
     space:
       sys:
         id: d4fy1qepdfjq
@@ -59,19 +59,25 @@ page:
         linkType: Environment
   title: About
   slug: about
-  description: We are a global team of epidemiologists, public health experts, infectious
-    disease researchers and journalists offering critical insights into complex pandemic
-    science.
+  description: We are a global team of public health experts offering relevant COVID-19
+    insights for journalists, fact-checkers, and community information leaders.
   body:
-    en-US: "### Up-to-date, credible context <br /> on emerging COVID-19 information.\n\nIn
-      the COVID-19 Expert Database, scientists and journalists develop newsworthy,
-      up-to-date, localized insights into medical research, and distribute those insights
-      to audiences around the world. Our growing team of experts includes researchers
-      from the Harvard School of Public Health and the Stanford Health Communications
-      Initiative, and scientists with experience working in multiple languages and
-      regional contexts. \n\nHave a COVID-19 question that we haven’t tackled? Send
-      us a message at <a href=\"mailto:health@meedan.com\">health@meedan.com</a> and
-      we’ll see if our scientists can help you."
+    en-US: "### Our goal is to support your efforts to inform your communities.\n\nWe
+      are committed to making important and topical COVID-19 information accessible
+      and deadline-friendly to newsrooms, freelance journalists, fact-checking organizations,
+      and communicators around the world in the languages important for you and your
+      audiences. \n\nIn the COVID-19 Expert Database, we provide context, summaries,
+      and responses to key COVID-19 topics and questions quickly, and are happy to
+      follow-up with more information as-needed, especially when new research might
+      shift the latest scientific understanding of an issue.\n\nOur content comes
+      directly from partnerships with  journalists, fact-checking organizations and
+      other non-profit organizations to make sure our research and summaries cover
+      the topics that matter the most.   \n\nOur growing team of experts includes
+      researchers from the Harvard T.H. Chan School of Public Health and the Stanford
+      Health Communications Initiative, and scientists with experience working around
+      the world and in multiple languages. \n\nIs there a COVID-19 topic or question
+      you’d like us to work on? Send us a message at <a href=\"mailto:health@meedan.com\">health@meedan.com</a>
+      and our experts will do their best to help you."
     fr: |-
       ### Contextualization crédible et mises à jour essentielles des informations sur COVID-19.
 
@@ -87,14 +93,82 @@ page:
       करने का अनुभव रखने वाले वैज्ञानिक भी शामिल हैं।\n\nक्या आपके पास कोविड-19 से
       जुड़ा कोई ऐसा सवाल है जिसका जवाब हमने न दिया हो? हमें सन्देश भेजें और हम कोशिश
       करेंगे कि हमारे वैज्ञानिक आपकी मदद करें"
+  title-fr: En savoir plus
+  title-hi: हमारे बारे में
+  title-en: About
+  description-en: We are a global team of public health experts offering relevant
+    COVID-19 insights for journalists, fact-checkers, and community information leaders.
+  description-fr: Nous sommes une équipe mondiale d'épidémiologistes, experts en santé
+    publique, chercheurs sur les maladies infectieuses et journalistes offrant des
+    informations critiques sur la science complexe d'une pandémie.
+  description-hi: हमारी ग्लोबल टीम में हैं एपीडीमीओलोजिस्ट, पब्लिक हेल्थ विशेषज्ञ,
+    संक्रामक या इन्फेक्शियस बीमारियों पर शोध करने वाले रीसर्चर और पत्रकार. ये टीम
+    कोविड-19 जैसी महामारी से जुड़े जटिल विज्ञान पर एक ख़ास नजरिया पेश कर रही है
+- sys:
+    id: 6qPcureNE9SvAqTqvb8Vsl
+    created_at: !ruby/object:DateTime 2020-05-14 00:12:44.405000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-14 21:50:44.459000000 Z
+    content_type_id: page
+    revision: 1
+    space:
+      sys:
+        id: d4fy1qepdfjq
+    type: Entry
+    content_type:
+      sys:
+        id: page
+    environment:
+      sys:
+        id: master
+        type: Link
+        linkType: Environment
+  title: Glossary
+  slug: glossary
+  description: Glossary
+  embed:
+    en-US: '<iframe class="airtable-embed" src="https://airtable.com/embed/shrW1b5oCSWWd09Xf?backgroundColor=red&viewControls=on"
+      frameborder="0" onmousewheel="" width="100%" height="533" style="background:
+      transparent; border: 1px solid #ccc;"></iframe>'
+    fr: '<iframe class="airtable-embed" src="https://airtable.com/embed/shrvcJH2SQMExRnlm?backgroundColor=red&viewControls=on"
+      frameborder="0" onmousewheel="" width="100%" height="533" style="background:
+      transparent; border: 1px solid #ccc;"></iframe>'
+    hi: '<iframe class="airtable-embed" src="https://airtable.com/embed/shrtq4EThsFU6evD3?backgroundColor=red&viewControls=on"
+      frameborder="0" onmousewheel="" width="100%" height="533" style="background:
+      transparent; border: 1px solid #ccc;"></iframe>'
+  title-fr: Glossary
+  title-hi: Glossary
+  title-en: Glossary
+  description-en: Glossary
+  description-fr: Glossary
+  description-hi: Glossary
+- sys:
+    id: X2Ji5MiPGaQkqPRQo0sTW
+    created_at: !ruby/object:DateTime 2020-06-10 19:09:12.925000000 Z
+    updated_at: !ruby/object:DateTime 2020-06-10 19:21:57.286000000 Z
+    content_type_id: page
+    revision: 1
+    space:
+      sys:
+        id: d4fy1qepdfjq
+    type: Entry
+    content_type:
+      sys:
+        id: page
+    environment:
+      sys:
+        id: master
+        type: Link
+        linkType: Environment
+  title: Meet Our Experts
+  slug: meet-our-experts
   modules:
     en-US:
     - sys:
         id: 7sOeWskK689sgFsKfczg7D
         created_at: !ruby/object:DateTime 2020-05-13 21:26:02.232000000 Z
-        updated_at: !ruby/object:DateTime 2020-05-21 21:01:10.488000000 Z
+        updated_at: !ruby/object:DateTime 2020-07-03 14:49:00.352000000 Z
         content_type_id: moduleContributors
-        revision: 2
+        revision: 3
       title:
         en-US: Our experts
       contributors:
@@ -102,26 +176,19 @@ page:
         - sys:
             id: 1jTy4C4NUtTg33gfmANjV6
         - sys:
-            id: Ffg24BXuAG5nj45n4psKA
-        - sys:
-            id: 3MDM05wtxjGNQC5PY7gIpT
-        - sys:
             id: 2PefzxNAEEsCUTjbZGR8hQ
         - sys:
             id: enGE7MnQYCd9cGxKTXA1p
         - sys:
+            id: Ffg24BXuAG5nj45n4psKA
+        - sys:
             id: 1aE0WfwjjgxKyanRyPlmJk
         - sys:
+            id: 66FZQ9VDsmbFWtuZd2hUvz
+        - sys:
             id: 3VDanAW0JZIK2gIl50lGsg
-  title-fr: En savoir plus
-  title-hi: हमारे बारे में
-  title-en: About
-  description-en: We are a global team of epidemiologists, public health experts,
-    infectious disease researchers and journalists offering critical insights into
-    complex pandemic science.
-  description-fr: Nous sommes une équipe mondiale d'épidémiologistes, experts en santé
-    publique, chercheurs sur les maladies infectieuses et journalistes offrant des
-    informations critiques sur la science complexe d'une pandémie.
-  description-hi: हमारी ग्लोबल टीम में हैं एपीडीमीओलोजिस्ट, पब्लिक हेल्थ विशेषज्ञ,
-    संक्रामक या इन्फेक्शियस बीमारियों पर शोध करने वाले रीसर्चर और पत्रकार. ये टीम
-    कोविड-19 जैसी महामारी से जुड़े जटिल विज्ञान पर एक ख़ास नजरिया पेश कर रही है
+        - sys:
+            id: 3MDM05wtxjGNQC5PY7gIpT
+        - sys:
+            id: 6UfhbEJXnLVdsbrRf0tvrs
+  title-en: Meet Our Experts
