@@ -57,6 +57,17 @@
     }
 }
 
+.entry .answer {
+     ul, 
+     ol {
+        padding-left: var(--space-2);
+        li {
+            padding-left: .2rem;
+            margin-bottom: var(--space-1);
+        }
+     }
+}
+
 .entry .resources {
     @include responsive('min-width: #{$width-tablet}') {
         grid-column: 2/6;

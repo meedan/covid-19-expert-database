@@ -293,7 +293,9 @@ body.hi header nav {
     margin: 1.188rem auto 0 0;
 }
 
-.content-wrapper p {
+.content-wrapper p, 
+.content-wrapper ul, 
+.content-wrapper ol {
     font-size: var(--font-size);
     line-height: var(--font-line-height);
     margin: 1.188rem auto 0 0;
