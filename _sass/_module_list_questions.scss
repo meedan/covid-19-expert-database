@@ -15,7 +15,7 @@
 .list-questions .question-wrapper {
     display: grid;
     @include responsive('min-width: #{$width-tablet}') {
-        grid-template-columns: 2fr 2.4fr 0.6fr 0.6fr;
+        grid-template-columns: 2fr 2fr 1.4fr 0.6fr;
     }
     grid-gap: var(--space-1);
     border-left: 2px solid var(--blackInk);
@@ -46,6 +46,9 @@
             line-height: 1.056rem;
             color: var(--gray);
         }
+        .category {
+            line-height: 1.5rem;
+        }
     }
     &:hover {
         &:not(:first-child) {
@@ -60,4 +63,19 @@
             color: var(--gray);
         }
     }
+}
+
+
+span.capsule {
+    background-color: #fff;
+    border-radius: .2rem;
+    padding: .1rem .2rem;
+}
+
+span.capsule:not(:last-child) {
+    margin-right: .2rem;
+}
+
+span.capsule.reverse {
+    background-color: var(--lightGray);
 }

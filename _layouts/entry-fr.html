@@ -10,12 +10,10 @@ slug: entry
     {% include header.html %}
     <div class="entry-header">
         <div class="category">
-            {{ site.data.ui.t[page.lang].entry.question-in }} 
-            {% include category.html %}
+            {% include source.html %}
         </div>
         <h2>{{ page['Question'] }}</h2>
         <div class="meta">
-            {% include source.html %}
             <div>{{ site.data.ui.t[page.lang].entry.last-modified-on }} {{ page['Dernière révision'] }}</div>
         </div>
     </div>
@@ -32,6 +30,14 @@ slug: entry
             </div>
             <h3 class="section-title">{{ site.data.ui.t[page.lang].entry.tags }}</h3>
             {% include tags.html %}
+            <h3 class="section-title">{{ site.data.ui.t[page.lang].entry.variation-by-country }}</h3>
+        <div class="variation variation-by-country">
+            {% include variation_by_country.html %}
+        </div>
+        <h3 class="section-title">{{ site.data.ui.t[page.lang].entry.variation-by-demographic }}</h3>
+        <div class="variation variation-by-demographic">
+            {% include variation_by_demographic.html %}
+        </div>
             <h3 class="section-title">{{ site.data.ui.t[page.lang].entry.resources }}</h3>
             <div class="resources">
                 {{ page['Autres ressources'] | markdownify }}

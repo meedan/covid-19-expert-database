@@ -10,13 +10,11 @@ slug: entry
     {% include header.html %}
     <div class="entry-header">
         <div class="category">
-            {{ site.data.ui.t[page.lang].entry.question-in }} 
-            {% include category.html %}
+            {{ site.data.ui.t[page.lang].entry.question }}
         </div>
         <h2>{{ page['Question'] }}</h2>
         <div class="meta">
             <div>{{ site.data.ui.t[page.lang].entry.last-modified-on }} {{ page['Last modified'] | convert_to_date | date: "%-d %B %Y" }}</div>
-            {% include source.html %}
         </div>
     </div>
     {% assign questions = site.data.covid19.questions | jsonify %}
@@ -31,8 +29,40 @@ slug: entry
         <div class="context">
             {{ page['Background & context'] | markdownify }}           
         </div>
-        <h3 class="section-title">{{ site.data.ui.t[page.lang].entry.tags }}</h3>
-        {% include tags.html %}
+        <div class="data">
+            <h3 class="section-title">{{ site.data.ui.t[page.lang].entry.data }}</h3>
+            <div class="data-row">
+                <h4 class="label">{{ site.data.ui.t[page.lang].entry.source }}</h4>
+                <div class="value source">
+                    {% include source.html %}
+                </div>
+            </div>
+            <div class="data-row">
+                <h4 class="label">{{ site.data.ui.t[page.lang].entry.location }}</h4>
+                <div class="value location">
+                    {% include location.html %}
+                </div>
+            </div>
+            <div class="data-row">
+                <h4 class="label">{{ site.data.ui.t[page.lang].entry.tags }}</h4>
+                <div class="value tags">
+                    {% include tags.html %}
+                </div>
+            </div>
+            <div class="data-row">
+                <h4 class="label">{{ site.data.ui.t[page.lang].entry.variation-by-country }}</h4>
+                <div class="value variation-by-country">
+                    {% include variation_by_country.html %}
+                </div>
+            </div>
+            <div class="data-row">
+                <h4 class="label">{{ site.data.ui.t[page.lang].entry.variation-by-demographic }}</h4>
+                <div class="value variation-by-demographic">
+                    {% include variation_by_demographic.html %}
+                </div>
+            </div>
+        
+        </div>
         <h3 class="section-title">{{ site.data.ui.t[page.lang].entry.resources }}</h3>
         <div class="resources">
             {{ page['Other resources'] | markdownify }}

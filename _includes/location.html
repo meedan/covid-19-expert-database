@@ -1,0 +1,16 @@
+{% if page.lang == 'hi' %}
+    {% assign locations = page['यह प्रश्न किस देश से लिया गया था'] | trim | split: ',' %}
+{% elsif page.lang == 'fr' %}
+    {% assign locations = page['Pays de provenance de la question'] | trim | split: ',' %}
+{% else %}
+    {% assign locations = page['Country question was sourced from'] | trim | split: ',' %}
+{% endif %}
+
+
+{% if locations %}
+    
+    {% for location in locations %}
+        <span class="capsule reverse">{{ location }}</span>
+    {% endfor %}
+    
+{% endif %}

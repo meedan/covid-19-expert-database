@@ -6,13 +6,9 @@
     {% assign tags = page['टैग'] | trim | split: ',' %}
 {% endif %}
 <div class="tags">
-    <p>
+    
         {% for tag in tags %}
-            {% if forloop.last %}
-                {{ tag }}
-            {% else %}
-                {{ tag | append: ', ' }}
-            {% endif %}    
+            <span class="capsule reverse">{{ tag }}</span>
         {% endfor %} 
-    </p>
+    
 </div>

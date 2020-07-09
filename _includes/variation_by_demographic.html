@@ -1,0 +1,11 @@
+{% if page.lang == 'hi' %}
+    {% assign variation_by_demographic = page['क्या यह उत्तर आपके रहने के आधार पर बदलता है?'] | trim %}
+{% elsif page.lang == 'fr' %}
+    {% assign variation_by_demographic = page["Cette réponse varie-t-elle en fonction de votre race, origine ethnique, âge, de votre sexe ou d'autres facteurs démographiques ?"] | trim %}
+{% else %}
+    {% assign variation_by_demographic = page['Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?'] | trim %}
+{% endif %}
+
+{% if variation_by_demographic %}
+    <span class="capsule reverse">{{ variation_by_demographic }}</span>
+{% endif %}

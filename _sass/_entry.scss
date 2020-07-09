@@ -50,14 +50,11 @@
 .entry .section-title,
 .entry .context,
 .entry .answer,
-.entry .help,
-.tags {
+.entry .data,
+.entry .help {
     @include responsive('min-width: #{$width-tablet}') {
         grid-column: 2/6;
     }
-}
-.context {
-    
 }
 
 .entry .resources {
@@ -97,6 +94,31 @@
 
 .entry .content-wrapper {
     position: relative;
+}
+
+.entry .data {
+    font-size: 0.833rem;
+    line-height: 1rem;
+    h3 {
+        margin-bottom: var(--space-2);
+    }
+    h4 {
+        margin: 0;
+        font-size: 0.833rem;
+        line-height: 1rem;
+    }
+    .data-row {
+        display: grid;
+        grid-template-columns: 2fr 4fr;
+        grid-gap: var(--space-2);
+        border-top: 1px solid var(--lightGray);
+        padding-top: var(--space-2);
+        padding-bottom: var(--space-2);
+        &:last-child {
+            border-bottom: 1px solid var(--lightGray);
+        }
+    }
+
 }
 
 aside {
