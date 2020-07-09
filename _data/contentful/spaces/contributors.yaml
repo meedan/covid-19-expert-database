@@ -363,3 +363,53 @@ contributor:
       and disseminated a gap analysis for a 6-hospital system to establish vulnerabilities
       for high-consequence diseases, helping to guide the creation of a high-consequence
       disease initiative to enhance readiness at the healthcare level. Twitter: @SaskiaPopescu '
+<<<<<<< HEAD
+=======
+- sys:
+    id: 4UdjHCdrIYkMts6NGZohk3
+    created_at: !ruby/object:DateTime 2020-06-11 20:18:15.816000000 Z
+    updated_at: !ruby/object:DateTime 2020-06-11 20:18:29.235000000 Z
+    content_type_id: contributor
+    revision: 1
+  name:
+    en-US: Jenna Sherman
+  slug:
+    en-US: jenna-sherman
+  bio:
+    en-US: Jenna Sherman is an MPH student at the Harvard Chan School of Public Health
+      in the department of Social Behavioral Sciences, where she concentrates in ‘Maternal
+      and Child Health’ and ‘Humanitarian Studies, Ethics, and Human Rights.’ She
+      is also a Senior Project Coordinator at the Berkman Klein Center for Internet
+      and Society where she works on tech ethics with a focus on bias and discrimination
+      in AI. Jenna’s interests in public health are manifold, but primarily fall along
+      the following two themes 1) reproductive justice in settings that are conducive
+      to or reinforce trauma (e.g. prisons, refugee camps, detention centers), and
+      2) digital health, with particular interests in misinformation online and AI
+      bias in healthcare. Hailing from Alabama, Jenna is a lover of all fried food
+      and enjoys spending time dancing, reading about trauma healing, and playing
+      with her cat, Dolly.
+- sys:
+    id: 6UfhbEJXnLVdsbrRf0tvrs
+    created_at: !ruby/object:DateTime 2020-07-03 14:48:54.695000000 Z
+    updated_at: !ruby/object:DateTime 2020-07-03 14:50:11.020000000 Z
+    content_type_id: contributor
+    revision: 1
+  name:
+    en-US: Emily LaRose
+  slug:
+    en-US: emily-larose
+  bio:
+    en-US: Emily LaRose is a Registered Dietitian and currently works as a consultant
+      to The Global Alliance for Improved Nutrition (GAIN). She has been a dietitian
+      for more than 15 years and has previously worked for Médecins Sans Frontières
+      (MSF), PATH, Children’s Hospital Los Angeles, and Johnson & Wales University.
+      In her work she has written specialty reports on topics including global human
+      milk banking practices and innovative food system programs; developed tools
+      and protocols for clinical nutrition care delivery in humanitarian hospitals;
+      taught university-level clinical nutrition courses; and provided nutritional
+      care for critically ill hospitalized patients. Emily is currently a Doctor of
+      Public Health candidate at the Harvard T.H. Chan School of Public Health where
+      she has completed the Nutrition and Global Health Concentration. She also holds
+      a Master of Science in Dietetics from Kansas State University and a Bachelor
+      of Science in Culinary Arts Nutrition from Johnson & Wales University.
+>>>>>>> develop

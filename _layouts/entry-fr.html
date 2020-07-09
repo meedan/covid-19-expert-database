@@ -1,5 +1,6 @@
 ---
 lang: fr
+slug: entry
 ---
 <!DOCTYPE html>
 <html lang="{{ page.lang }}">
@@ -9,12 +10,10 @@ lang: fr
     {% include header.html %}
     <div class="entry-header">
         <div class="category">
-            {{ site.data.ui.t[page.lang].entry.question-in }} 
-            {% include category.html %}
+            {{ site.data.ui.t[page.lang].entry.question }}
         </div>
         <h2>{{ page['Question'] }}</h2>
         <div class="meta">
-            {% include source.html %}
             <div>{{ site.data.ui.t[page.lang].entry.last-modified-on }} {{ page['Dernière révision'] }}</div>
         </div>
     </div>
@@ -29,11 +28,10 @@ lang: fr
             <div class="context">
                 {{ page['Fond & contexte'] | markdownify }}           
             </div>
-            <h3 class="section-title">{{ site.data.ui.t[page.lang].entry.tags }}</h3>
-            {% include tags.html %}
+            {% include data.html %}
             <h3 class="section-title">{{ site.data.ui.t[page.lang].entry.resources }}</h3>
             <div class="resources">
-                {{ page['Other resources'] | markdownify }}
+                {{ page['Autres ressources'] | markdownify }}
             </div>
     </div>
     {% include newsletter.html %}

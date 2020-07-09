@@ -5,8 +5,8 @@ module Jekyll
         if record[:Category]
           record[:categories] = Jekyll::Utils::split_better(record[:Category])
         end
-        if record[:Tag]
-          record[:tags] = Jekyll::Utils::split_better(record[:Tag])
+        if record[:Tags]
+          record[:tags] = Jekyll::Utils::split_better(record[:Tags])
         end
 
         record

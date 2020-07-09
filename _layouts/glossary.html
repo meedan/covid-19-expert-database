@@ -19,12 +19,13 @@
                 {% assign t = term['शब्द'] %}
                 {% assign d = term['परिभाषा'] | markdownify %}
             {% elsif page.lang == 'fr' %}
-                {% assign t = term.Term %}
-                {% assign d = term.Definition | markdownify %}
+                {% assign t = term['Terme'] %}
+                {% assign d = term['Définition'] | markdownify %}
             {% else %}
                 {% assign t = term.Term %}
                 {% assign d = term.Definition | markdownify %}
             {% endif %}
+            
             <div class="term">
                 <h4>{{ t }}</h4>
                 <div class="definition">

@@ -5,14 +5,12 @@
 {% else %}
     {% assign sources = page['Source of the question'] | trim | split: ',' %}
 {% endif %}
+
+
 {% if sources %}
-    <div>{{ site.data.ui.t[page.lang].entry.source }} 
+    <div>
     {% for source in sources %}
-        {% if forloop.last %}
-            {{ source }}
-        {% else %}
-            {{ source | append: ', ' }}
-        {% endif %}
+        <span class="capsule reverse">{{ source }}</span>
     {% endfor %}
     </div>
 {% endif %}

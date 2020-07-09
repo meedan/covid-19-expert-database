@@ -1,5 +1,6 @@
 ---
 lang: en-US
+slug: entry
 ---
 <!DOCTYPE html>
 <html lang="{{ page.lang }}">
@@ -9,12 +10,10 @@ lang: en-US
     {% include header.html %}
     <div class="entry-header">
         <div class="category">
-            {{ site.data.ui.t[page.lang].entry.question-in }} 
-            {% include category.html %}
+            {{ site.data.ui.t[page.lang].entry.question }}
         </div>
         <h2>{{ page['Question'] }}</h2>
         <div class="meta">
-            {% include source.html %}
             <div>{{ site.data.ui.t[page.lang].entry.last-modified-on }} {{ page['Last modified'] | convert_to_date | date: "%-d %B %Y" }}</div>
         </div>
     </div>
@@ -25,12 +24,12 @@ lang: en-US
         <div class="answer">
             {{ page['What our experts say'] | markdownify }}
         </div>
+        {% include module_ask_a_question.html %}
         <h3 class="section-title">{{ site.data.ui.t[page.lang].entry.context-and-background }}</h3>
         <div class="context">
             {{ page['Background & context'] | markdownify }}           
         </div>
-        <h3 class="section-title">{{ site.data.ui.t[page.lang].entry.tags }}</h3>
-        {% include tags.html %}
+        {% include data.html %}
         <h3 class="section-title">{{ site.data.ui.t[page.lang].entry.resources }}</h3>
         <div class="resources">
             {{ page['Other resources'] | markdownify }}

@@ -22,6 +22,7 @@
 @import "glossary.scss";
 
 // Modules
+@import "module_list_questions.scss";
 @import "module_questions.scss";
 @import "module_about.scss";
 @import "module_contributors.scss";
@@ -29,6 +30,7 @@
 
 :root {
     --blackInk: #262626;
+    --gray: #646464;
     --lightGray: #EFEFEF;
     --sunDown: #FFB2B2;
     --accent: #F2DEDC;

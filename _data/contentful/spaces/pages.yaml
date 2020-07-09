@@ -166,7 +166,11 @@ page:
     - sys:
         id: 7sOeWskK689sgFsKfczg7D
         created_at: !ruby/object:DateTime 2020-05-13 21:26:02.232000000 Z
+<<<<<<< HEAD
         updated_at: !ruby/object:DateTime 2020-06-10 23:36:18.246000000 Z
+=======
+        updated_at: !ruby/object:DateTime 2020-07-03 14:49:00.352000000 Z
+>>>>>>> develop
         content_type_id: moduleContributors
         revision: 3
       title:
@@ -189,4 +193,9 @@ page:
             id: 3VDanAW0JZIK2gIl50lGsg
         - sys:
             id: 3MDM05wtxjGNQC5PY7gIpT
+<<<<<<< HEAD
+=======
+        - sys:
+            id: 6UfhbEJXnLVdsbrRf0tvrs
+>>>>>>> develop
   title-en: Meet Our Experts
