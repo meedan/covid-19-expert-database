@@ -1,6 +1,6 @@
 ---
 lang: fr
-layout: entry
+slug: entry
 ---
 <!DOCTYPE html>
 <html lang="{{ page.lang }}">
@@ -34,7 +34,7 @@ layout: entry
             {% include tags.html %}
             <h3 class="section-title">{{ site.data.ui.t[page.lang].entry.resources }}</h3>
             <div class="resources">
-                {{ page['Other resources'] | markdownify }}
+                {{ page['Autres ressources'] | markdownify }}
             </div>
     </div>
     {% include newsletter.html %}

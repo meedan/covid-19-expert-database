@@ -54,4 +54,10 @@
             color: var(--edbGreen);
         }
     }
+    &:visited {
+        &:not(:first-child) {
+            border-left: 2px solid var(--lightGray);
+            color: var(--gray);
+        }
+    }
 }

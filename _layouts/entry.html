@@ -1,6 +1,6 @@
 ---
 lang: en-US
-layout: entry
+slug: entry
 ---
 <!DOCTYPE html>
 <html lang="{{ page.lang }}">
@@ -15,8 +15,8 @@ layout: entry
         </div>
         <h2>{{ page['Question'] }}</h2>
         <div class="meta">
-            {% include source.html %}
             <div>{{ site.data.ui.t[page.lang].entry.last-modified-on }} {{ page['Last modified'] | convert_to_date | date: "%-d %B %Y" }}</div>
+            {% include source.html %}
         </div>
     </div>
     {% assign questions = site.data.covid19.questions | jsonify %}
@@ -26,6 +26,7 @@ layout: entry
         <div class="answer">
             {{ page['What our experts say'] | markdownify }}
         </div>
+        {% include module_ask_a_question.html %}
         <h3 class="section-title">{{ site.data.ui.t[page.lang].entry.context-and-background }}</h3>
         <div class="context">
             {{ page['Background & context'] | markdownify }}           

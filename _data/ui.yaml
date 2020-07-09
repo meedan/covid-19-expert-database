@@ -57,6 +57,7 @@ t:
       context-and-background: "Context and background"
       tags: "Tags"
       resources: "Resources"
+      help: "Do you need more context? Help is at hand."
   fr:
     site-name: "Covid-19 Expert Database"
     ask-a-question: "Poser une question"
@@ -114,6 +115,7 @@ t:
       context-and-background: "Fond & contexte"
       tags: "Tags"
       resources: "Resources"
+      help: "Do you need more context? Help is at hand."
   hi:
     site-name: "Covid-19 Expert Database"
     ask-a-question: "प्रश्न पूछें"
@@ -171,3 +173,4 @@ t:
       context-and-background: "हमारे विशेषज्ञ क्या कहते हैं"
       tags: "टैग"
       resources: "अन्य संसाधन / जानकारी"
+      help: "Do you need more context? Help is at hand."

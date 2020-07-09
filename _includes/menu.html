@@ -2,7 +2,7 @@
 <nav>
     <a href="{{ path }}about">{{ site.data.ui.t[page.lang].menu.about }}</a>
     <a href="{{ path }}glossary">{{ site.data.ui.t[page.lang].menu.glossary }}</a>
-    {% if page.layout != 'entry' %}
+    {% if page.slug != 'entry' %}
         {% include language_switcher.html %}
     {% endif %}
 </nav>
