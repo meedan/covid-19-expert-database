@@ -10,7 +10,7 @@ slug: entry
     {% include header.html %}
     <div class="entry-header">
         <div class="category">
-            {% include source.html %}
+            {{ site.data.ui.t[page.lang].entry.question }}
         </div>
         <h2>{{ page['सवाल'] }}</h2>
         <div class="meta">
@@ -28,16 +28,7 @@ slug: entry
             <div class="context">
                 {{ page['हमारे विशेषज्ञ क्या कहते हैं'] | markdownify }}           
             </div>
-            <h3 class="section-title">{{ site.data.ui.t[page.lang].entry.tags }}</h3>
-            {% include tags.html %}
-            <h3 class="section-title">{{ site.data.ui.t[page.lang].entry.variation-by-country }}</h3>
-        <div class="variation variation-by-country">
-            {% include variation_by_country.html %}
-        </div>
-        <h3 class="section-title">{{ site.data.ui.t[page.lang].entry.variation-by-demographic }}</h3>
-        <div class="variation variation-by-demographic">
-            {% include variation_by_demographic.html %}
-        </div>
+            {% include data.html %}
             <h3 class="section-title">{{ site.data.ui.t[page.lang].entry.resources }}</h3>
             <div class="resources">
                 {{ page['अन्य जानकारी'] | markdownify }}
