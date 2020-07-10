@@ -124,6 +124,8 @@ airtable:
   tables:
     - name: 'V1 COVID-19 Expert Database Snapshot July 8'
       app_id: appzLYyvMpjIJnLY7
-      sheets: 
+      target: 'covid19'
+      sheets:
         - name: 'Expert Database'
           view: 'COVID-19 Expert Database (English)'
+          target: 'questions-en'

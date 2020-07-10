@@ -4,11 +4,12 @@ require 'json'
 require 'active_support/all'
 require 'fileutils'
 require 'uri'
+require 'json'
 
 # Airtable Fetch Hook
 
 Jekyll::Hooks.register :site, :after_init do |site|
-		
+
 	site.read
 
 	@airtable_config = Jekyll.configuration({})['airtable']
@@ -50,34 +51,37 @@ Jekyll::Hooks.register :site, :after_init do |site|
 	end
 
 	@airtable_config['tables'].each do |table|
-
 		puts "Fetching data in #{table['name']}"
 
-		data = {}
-
-		table['sheets'].each do |sheet|
-
-			puts "... fetching #{sheet['name']}: #{sheet['view']}"
-			response = get_table(table['app_id'], URI.escape(sheet['name']), URI.escape(sheet['view']))
-			records = JSON.parse(response)
-
-			for record in records["records"]
-				# perform any record transformation here
-					# TODO: someday, downcase all of the records
-				record['fields']['type'] = sheet['name'].chop
-				record['fields']['id'] = record['id']
-				record['fields']['base'] = table['name'].parameterize
-				data[record['id']] = record['fields']
-			end
-		end
-
-		dirname = File.dirname("_data/#{table['name']}")
+		dirname = "_data/#{table['target']}"
 		unless File.directory?(dirname)
 			FileUtils.mkdir_p(dirname)
 		end
 
-		File.open(dirname + "/" + table['name'].parameterize + ".json", "w") do |file|
-			file.write(data.to_json)
+		table['sheets'].each do |sheet|
+			puts "... fetching #{sheet['name']}: #{sheet['view']}"
+
+			data = []
+
+			response = get_table(table['app_id'], URI.escape(sheet['name']), URI.escape(sheet['view']))
+			records = JSON.parse(response)
+
+			for record in records["records"]
+				target = {
+					'id': record['id']
+				}
+
+				# Trim keys
+				record['fields'].each do |key, value|
+					target[key.strip] = record['fields'].delete(key)
+				end
+
+				data << target
+			end
+
+			File.open(dirname + "/" + sheet['target'] + ".json", "w") do |file|
+				file.write(JSON.pretty_generate(data))
+			end
 		end
 	end
 end
