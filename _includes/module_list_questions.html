@@ -33,19 +33,19 @@
         {% assign a = question['What our experts say'] %}
         {% assign c = question['Topics'] | trim | split: ',' %}
         {% assign url = question.Question | sanitize_filename | prepend: '/questions/' %}
-        {% assign last_modified = question['Last modified'] | convert_to_date | date: "%-d %B %Y" %}
+        {% assign last_modified = question['Last modified'] | convert_to_date_mdy | date: "%-d %B %Y" %}
     {% elsif page.lang == 'fr' %}
         {% assign q = question.Question %}
         {% assign a = question['Ce que disent nos experts'] %}
         {% assign c = question['Tags'] | trim | split: ',' %}
         {% assign url = question['English Question'] | sanitize_filename | prepend: '/fr/questions/' %}
-        {% assign last_modified = question['Dernière révision'] | convert_to_date | date: "%-d %B %Y" %}
+        {% assign last_modified = question['Dernière révision'] | convert_to_date_mdy | date: "%-d %B %Y" %}
     {% elsif page.lang == 'hi' %}
         {% assign q = question['सवाल'] %}
         {% assign a = question['हमारे विशेषज्ञ क्या कहते हैं'] %}
         {% assign c = question['टैग'] | trim | split: ',' %}
         {% assign url = question['English Question'] | sanitize_filename | prepend: '/hi/questions/' %}
-        {% assign last_modified = question['अंतिम बदल गया'] | convert_to_date | date: "%-d %B %Y" %}
+        {% assign last_modified = question['अंतिम बदल गया'] | convert_to_date_mdy | date: "%-d %B %Y" %}
     {% endif %}
     <a href="{{ url }}" title="{{ q }}" class="question-wrapper">
         <div class="question">
