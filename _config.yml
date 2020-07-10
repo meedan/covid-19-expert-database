@@ -56,7 +56,7 @@ reload_port: 5678    # If you don't want to use the default port
 contentful:
   output: true
   spaces:
-    - pages: 
+    - pages:
         space: ENV_CONTENTFUL_EDB_SPACE_ID
         access_token: ENV_CONTENTFUL_EDB_ACCESS_TOKEN
         cda_query:
@@ -68,7 +68,7 @@ contentful:
         content_types:
           page: PageMapper
         destination: 'contentful/spaces/'
-    - contributors: 
+    - contributors:
         space: ENV_CONTENTFUL_EDB_SPACE_ID
         access_token: ENV_CONTENTFUL_EDB_ACCESS_TOKEN
         cda_query:
@@ -95,3 +95,24 @@ page_gen:
     template: 'page-hi'
     name: 'slug'
     dir: '/hi'
+  - data: 'covid19.questions'
+    template: 'entry'
+    name: 'Question'
+    dir: '/questions'
+  - data: 'covid19.questions-fr'
+    template: 'entry-fr'
+    name: 'English Question'
+    dir: '/fr/questions'
+  - data: 'covid19.questions-hi'
+    template: 'entry-hi'
+    name: 'English Question'
+    dir: '/hi/questions'
+
+
+# Algolia search
+algolia:
+  application_id: XVQE72Q0TQ
+  index_name: covid19
+  nodes_to_index: 'p'
+  files_to_exclude:
+    - hi/**/index.html

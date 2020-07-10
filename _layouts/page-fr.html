@@ -11,8 +11,8 @@ lang: fr
     {% if page.description-fr %}
       <h2 class="lead">{{ page.description-fr }}</h2>
     {% endif %}
-    {% if page.embed['fr'] %}
-      <div class="embed">{{ page.embed['fr'] }}</div>
+    {% if page.slug == '/' %}
+      {% include module_list_questions.html %}
     {% endif %}
     {% if page.body['fr'] %}
       <div class="content">

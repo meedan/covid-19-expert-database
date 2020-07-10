@@ -1,0 +1,16 @@
+{% if page.lang == 'hi' %}
+    {% assign sources = page['यह सवाल कहां से आया'] | trim | split: ',' %}
+{% elsif page.lang == 'fr' %}
+    {% assign sources = page['Source de la question'] | trim | split: ',' %}
+{% else %}
+    {% assign sources = page['Source of the question'] | trim | split: ',' %}
+{% endif %}
+
+
+{% if sources %}
+    <div>
+    {% for source in sources %}
+        <span class="capsule reverse">{{ source }}</span>
+    {% endfor %}
+    </div>
+{% endif %}

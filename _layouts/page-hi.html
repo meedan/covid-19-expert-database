@@ -11,8 +11,8 @@ lang: hi
     {% if page.description-hi %}
       <h2 class="lead">{{ page.description-hi }}</h2>
     {% endif %}
-    {% if page.embed['hi'] %}
-      <div class="embed">{{ page.embed['hi'] }}</div>
+    {% if page.slug == '/' %}
+      {% include module_list_questions.html %}
     {% endif %}
     {% if page.body['hi'] %}
       <div class="content">

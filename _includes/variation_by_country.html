@@ -1,0 +1,11 @@
+{% if page.lang == 'hi' %}
+    {% assign variation_by_country = page['क्या यह उत्तर आपके रहने के आधार पर बदलता है?'] | trim %}
+{% elsif page.lang == 'fr' %}
+    {% assign variation_by_country = page['Cette réponse varie-t-elle en fonction de votre lieu de résidence ?'] | trim %}
+{% else %}
+    {% assign variation_by_country = page['Variation of the answer depending on country of residence'] | trim %}
+{% endif %}
+
+{% if variation_by_country %}
+    <span class="capsule reverse">{{ variation_by_country }}</span>
+{% endif %}

@@ -1,0 +1,42 @@
+---
+lang: fr
+slug: entry
+---
+<!DOCTYPE html>
+<html lang="{{ page.lang }}">
+{% include head.html %}
+
+<body class="entry">
+    {% include header.html %}
+    <div class="entry-header">
+        <div class="category">
+            {{ site.data.ui.t[page.lang].entry.question }}
+        </div>
+        <h2>{{ page['Question'] }}</h2>
+        <div class="meta">
+            <div>{{ site.data.ui.t[page.lang].entry.last-modified-on }} {{ page['Dernière révision'] }}</div>
+        </div>
+    </div>
+    {% assign questions = site.data.covid19.questions | jsonify %}
+
+    <div class="content-wrapper">
+        <h3 class="section-title">{{ site.data.ui.t[page.lang].entry.what-our-experts-say }}</h3>
+            <div class="answer">
+                {{ page['Ce que disent nos experts'] | markdownify }}
+            </div>
+            <h3 class="section-title">{{ site.data.ui.t[page.lang].entry.context-and-background }}</h3>
+            <div class="context">
+                {{ page['Fond & contexte'] | markdownify }}           
+            </div>
+            {% include data.html %}
+            <h3 class="section-title">{{ site.data.ui.t[page.lang].entry.resources }}</h3>
+            <div class="resources">
+                {{ page['Autres ressources'] | markdownify }}
+            </div>
+    </div>
+    {% include newsletter.html %}
+    {% include footer.html %}
+    {% include js.html %}
+</body>
+
+</html>

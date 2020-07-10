@@ -1,7 +1,13 @@
-{% if page.slug != '/' %}
+{% if page.slug and page.slug != '/'%}
 	{% assign location = page.slug | prepend: '/' %}
-{% elsif page.slug == '/' %}
+{% elsif page.slug and page.slug == '/' %}
 	{% assign home = '/' %}
+{% elsif page.Question or page.['English Question'] %}
+	{% if page.Question and page.lang == 'en-US' %}
+		{% assign location = page.Question | sanitize_filename | prepend: '/questions/' %}
+	{% elsif page.['English Question'] %}
+		{% assign location = page.['English Question'] | sanitize_filename | prepend: '/questions/' %}
+	{% endif %}
 {% endif %}
 <select id="language" class="select-css" onchange="javascript:location.href = this.value;">
     <option value="{{ home }}{{ location }}" {% if page.lang == 'en-US' %}selected{% endif %}>{{ site.data.ui.t[page.lang].menu.english }}</option>

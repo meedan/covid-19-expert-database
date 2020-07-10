@@ -1,0 +1,42 @@
+---
+lang: hi
+slug: entry
+---
+<!DOCTYPE html>
+<html lang="{{ page.lang }}">
+{% include head.html %}
+
+<body class="entry hi">
+    {% include header.html %}
+    <div class="entry-header">
+        <div class="category">
+            {{ site.data.ui.t[page.lang].entry.question }}
+        </div>
+        <h2>{{ page['सवाल'] }}</h2>
+        <div class="meta">
+            <div>{{ site.data.ui.t[page.lang].entry.last-modified-on }} {{ page['अंतिम बदल गया'] }}</div>
+        </div>
+    </div>
+    {% assign questions = site.data.covid19.questions | jsonify %}
+
+    <div class="content-wrapper">
+        <h3 class="section-title">{{ site.data.ui.t[page.lang].entry.what-our-experts-say }}</h3>
+            <div class="answer">
+                {{ page['जानकारी और संदर्भ'] | markdownify }}
+            </div>
+            <h3 class="section-title">{{ site.data.ui.t[page.lang].entry.context-and-background }}</h3>
+            <div class="context">
+                {{ page['हमारे विशेषज्ञ क्या कहते हैं'] | markdownify }}           
+            </div>
+            {% include data.html %}
+            <h3 class="section-title">{{ site.data.ui.t[page.lang].entry.resources }}</h3>
+            <div class="resources">
+                {{ page['अन्य जानकारी'] | markdownify }}
+            </div>
+    </div>
+    {% include newsletter.html %}
+    {% include footer.html %}
+    {% include js.html %}
+</body>
+
+</html>

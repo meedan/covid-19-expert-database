@@ -1,12 +1,13 @@
 source "https://rubygems.org"
 
-gem 'jekyll', '~> 3.0'
+gem "jekyll", "~> 3.8.5"
 gem 'contentful_bootstrap'
 
 group :jekyll_plugins do
   gem "jekyll-contentful-data-import", git: "https://github.com/meedan/jekyll-contentful-data-import"
   gem 'jekyll-seo-tag'
   gem 'jekyll-livereload'
+  gem 'jekyll-algolia'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

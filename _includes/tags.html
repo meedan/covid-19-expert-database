@@ -1,0 +1,14 @@
+{% if page.lang == 'en-US' %}
+    {% assign tags = page['Topics'] | trim | split: ',' %}
+{% elsif page.lang == 'fr' %}
+    {% assign tags = page['Tags'] | trim | split: ',' %}
+{% elsif page.lang == 'hi' %}
+    {% assign tags = page['टैग'] | trim | split: ',' %}
+{% endif %}
+<div class="tags">
+    
+        {% for tag in tags %}
+            <span class="capsule reverse">{{ tag }}</span>
+        {% endfor %} 
+    
+</div>

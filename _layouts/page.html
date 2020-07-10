@@ -11,8 +11,8 @@ lang: en-US
     {% if page.description %}
       <h2 class="lead">{{ page.description }}</h2>
     {% endif %}
-    {% if page.embed['en-US'] %}
-      <div class="embed">{{ page.embed['en-US'] }}</div>
+    {% if page.slug == '/' %}
+      {% include module_list_questions.html %}
     {% endif %}
     {% if page.body['en-US'] %}
       <div class="content">

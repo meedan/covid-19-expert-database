@@ -1,0 +1,209 @@
+.entry header {
+    background-color: var(--edbGreenLight);
+}
+
+.entry-header {
+    grid-column: 1/-1;
+    @include responsive('min-width: #{$width-tablet}') {
+        display: grid;
+        grid-template-columns: repeat(6, 1fr);
+        grid-column-gap: var(--space-4);
+        grid-template-rows: 0.5fr minmax(5vh, auto) 0.5fr;
+        // minmax(10px, auto);
+        grid-row-gap: var(--space-1);
+        align-items: start;
+    } 
+    background-color: var(--edbGreenLight);
+    padding: var(--space-4);
+    .category {
+        grid-column: 1/-1;
+    }
+    h2 {
+        grid-column: 1/6;
+        font-weight: var(--font-weight);
+        font-size: 2.667rem;
+        line-height: 3.222rem;
+        @media (min-width: 1px) and (max-width: #{$width-tablet}) {
+            margin-top: var(--space-4);
+        }
+    }
+    .meta {
+        grid-column: 1/-1;
+        @include responsive('min-width: #{$width-tablet}') {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            grid-gap: var(--space-4);
+        } 
+        @media (min-width: 1px) and (max-width: #{$width-tablet}) {
+            margin-top: var(--space-6);
+            * {
+                line-height: 2;
+            }
+        }
+    }
+}
+
+.entry .section-title {
+    margin-top: var(--space-6);
+}
+
+.entry .section-title,
+.entry .context,
+.entry .answer,
+.entry .data,
+.entry .help {
+    @include responsive('min-width: #{$width-tablet}') {
+        grid-column: 2/6;
+    }
+}
+
+.entry .answer {
+     ul, 
+     ol {
+        padding-left: var(--space-2);
+        li {
+            padding-left: .2rem;
+            margin-bottom: var(--space-1);
+        }
+     }
+}
+
+.entry .resources {
+    @include responsive('min-width: #{$width-tablet}') {
+        grid-column: 2/6;
+    }
+    ol {
+        margin-left: var(--space-1);
+        @include responsive('min-width: #{$width-tablet}') {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            grid-gap: var(--space-2); 
+        }
+    }
+    li {
+        font-size: 0.833rem;
+        line-height: 1rem;
+        margin-bottom: var(--space-1);
+        padding-left: 5px; 
+    }
+    
+}
+
+.entry .help {
+    border-left: 4px solid var(--edbOrange);
+    padding-left: var(--space-2);
+    margin-top: var(--space-2);
+    color: var(--gray);
+    span {
+        display: block;
+    }
+    .button {
+        display: inline-block;
+        margin-top: var(--space-1);
+    }
+}
+
+.entry .content-wrapper {
+    position: relative;
+}
+
+.entry .data {
+    font-size: 0.833rem;
+    line-height: 1rem;
+    h3 {
+        margin-bottom: var(--space-2);
+    }
+    h4 {
+        margin: 0;
+        font-size: 0.833rem;
+        line-height: 1rem;
+    }
+    .data-row {
+        display: grid;
+        grid-template-columns: 2fr 4fr;
+        grid-gap: var(--space-2);
+        border-top: 1px solid var(--lightGray);
+        padding-top: var(--space-2);
+        padding-bottom: var(--space-2);
+        &:last-child {
+            border-bottom: 1px solid var(--lightGray);
+        }
+    }
+
+}
+
+aside {
+    position: absolute;
+    top: var(--space-6);
+    div {
+        display: flex;
+        flex-direction: column;
+    }
+    &.left {
+        left: var(--space-2);;
+    }
+    &.right {
+        right: var(--space-2);
+    }
+}
+
+
+
+.btn {
+    border: 0;
+    background-color: #fff;
+    cursor: pointer;
+}
+
+.btn-icon {
+    display: inline-block;
+    border-radius: 50%;
+    width: 4rem;
+    height: 4rem;
+    max-width: 50px;
+    max-height: 50px;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    padding: 0;
+    @include responsive('min-width: #{$width-tablet}') {
+        max-width: 80px;
+        max-height: 80px;
+    }
+}
+
+.btn-icon-no-border {
+    background-size: 100% 100%;
+    border-radius: 0;
+    width: 2.22222rem;
+    height: 2.22222rem;
+    max-width: 30px;
+    max-height: 30px;
+    @include responsive('min-width: #{$width-tablet}') {    
+        max-width: 46px;
+        max-height: 46px;
+    }
+}
+
+.icon-bookmark {
+    background-image: url('/images/icons/bookmark_2x.svg');
+}
+
+.icon-twitter {
+    background-image: url('/images/icons/twitter2.svg');
+}
+
+.icon-facebook {
+    background-image: url('/images/icons/fb2.svg');
+}
+
+.icon-close {
+    background-image: url('/images/icons/close.svg');
+}
+
+.icon-arrow-left {
+    background-image: url('/images/icons/arrow_left.svg');
+}
+
+.icon-arrow-right {
+    background-image: url('/images/icons/arrow_right.svg');
+}

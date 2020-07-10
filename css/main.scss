@@ -17,14 +17,20 @@
 @import "select.scss";
 
 // Pages
+@import "entry.scss";
 @import "form.scss";
+@import "glossary.scss";
 
 // Modules
+@import "module_list_questions.scss";
+@import "module_questions.scss";
 @import "module_about.scss";
 @import "module_contributors.scss";
 
+
 :root {
     --blackInk: #262626;
+    --gray: #646464;
     --lightGray: #EFEFEF;
     --sunDown: #FFB2B2;
     --accent: #F2DEDC;
@@ -35,7 +41,9 @@
     --texasRose: #FFB34D;
     --deepSea: #008D5E;
     --silver: #A7A7A7;
-    --edbGreen: #31A57B;
+    --edbGreenLight: #36B687;
+    --edbGreen: #3BA77D;
+    --edbGreenDark: #3D8366;
     --edbOrange: #FFB124;
     --edbRed: #EB0042;
 
@@ -107,7 +115,7 @@ body {
 }
 
 // Hindi Font
-body.hi .content-wrapper {
+html:lang(hi) body {
     font-family: var(--font-family-hindi);
 }
 
@@ -187,7 +195,8 @@ body.hi header nav {
     @include responsive('min-width: #{$width-tablet}') {
         display: grid;
         grid-template-columns: repeat(6, 1fr);
-        grid-gap: var(--space-4);
+        grid-column-gap: var(--space-4);
+        grid-row-gap: var(--space-1);
     }
     line-height: 1.8rem;
 }
@@ -284,7 +293,9 @@ body.hi header nav {
     margin: 1.188rem auto 0 0;
 }
 
-.content-wrapper p {
+.content-wrapper p, 
+.content-wrapper ul, 
+.content-wrapper ol {
     font-size: var(--font-size);
     line-height: var(--font-line-height);
     margin: 1.188rem auto 0 0;

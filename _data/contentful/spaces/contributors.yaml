@@ -3,13 +3,13 @@ contributor:
 - sys:
     id: 3VDanAW0JZIK2gIl50lGsg
     created_at: !ruby/object:DateTime 2020-05-13 21:26:15.783000000 Z
-    updated_at: !ruby/object:DateTime 2020-05-14 21:50:44.123000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-28 00:54:35.708000000 Z
     content_type_id: contributor
-    revision: 1
+    revision: 3
   name:
     en-US: Dr. Seema Yasmin
     fr: Dr. Seema Yasmin
-    hi: Dr. Seema Yasmin
+    hi: सीमा यास्मीन
   slug:
     en-US: dr-seema-yasmin
     fr: dr-seema-yasmin
@@ -19,113 +19,226 @@ contributor:
 
       Yasmin was a finalist for the Pulitzer Prize in breaking news in 2017 with a team from The Dallas Morning News and received an Emmy Award for her reporting on neglected diseases. She received two grants from the Pulitzer Center on Crisis Reporting and was selected as a John S. Knight Fellow in Journalism at Stanford University iin 2017 where she investigated the spread of health misinformation and disinformation during epidemics.
     fr: |-
-      Seema Yasmin est un journaliste, poète, médecin et auteur primé aux Emmy Awards. Yasmin a été officier au Epidemic Intelligence Service aux Centers for Disease Control and Prevention des États-Unis, où elle a enquêté sur les flambées de maladies et a été chercheuse principale sur un certain nombre d'études des CDC. Yasmin a suivi une formation en journalisme à l'Université de Toronto et en médecine à l'Université de Cambridge.
+      Dr. Seema Yasmin est médecin de formation et également journaliste médicale, poète, et auteur, lauréate d'un Emmy Award. Dr. Yasmin a été officier au sein du service de renseignement sur les épidémies des Centres américains pour le contrôle et la prévention des maladies, où elle a enquêté sur les épidémies. Elle a suivi une formation en journalisme à l'université de Toronto et a obtenu son doctorat en médecine de l'université de Cambridge.
 
-      Yasmin a été finaliste du prix Pulitzer dans les dernières nouvelles en 2017 avec une équipe du Dallas Morning News et récipiendaire d'un Emmy pour ses reportages sur les maladies négligées. Elle a reçu deux subventions du Pulitzer Center on Crisis Reporting. En 2017, Yasmin était boursier John S. Knight en journalisme à l'Université de Stanford, enquêtant sur la propagation de la désinformation et de la désinformation en matière de santé pendant les épidémies. Auparavant, elle était correspondante scientifique au Dallas Morning News, analyste médical pour CNN et professeur de santé publique à l'Université du Texas à Dallas.
-    hi: |-
-      सीमा यास्मीन एक एमी पुरस्कार विजेता पत्रकार, कवि, चिकित्सा चिकित्सक और लेखक हैं। यास्मीन ने यू.एस. सेंटर्स फॉर डिजीज कंट्रोल एंड प्रिवेंशन में महामारी खुफिया सेवा में एक अधिकारी के रूप में काम किया, जहां उन्होंने रोग के प्रकोप की जांच की और कई सीडीसी अध्ययनों में प्रमुख अन्वेषक थे। यास्मीन ने टोरंटो विश्वविद्यालय में पत्रकारिता और कैम्ब्रिज विश्वविद्यालय में चिकित्सा का प्रशिक्षण लिया।
-
-      यास्मीन 2017 में द डलास मॉर्निंग न्यूज़ की एक टीम और उपेक्षित बीमारियों की रिपोर्टिंग के लिए एमी के प्राप्तकर्ता के साथ ब्रेकिंग न्यूज़ में पुलित्जर पुरस्कार के लिए फाइनलिस्ट थीं। उन्हें क्रिटिस रिपोर्टिंग पर पुलित्जर सेंटर से दो अनुदान मिले। 2017 में, यास्मीन स्टैनफोर्ड विश्वविद्यालय में पत्रकारिता में जॉन एस। नाइट फेलो थीं, जो महामारी के दौरान स्वास्थ्य की गलत सूचना और विघटन के प्रसार की जांच कर रही थीं। पहले वह डलास मॉर्निंग न्यूज में एक विज्ञान संवाददाता, सीएनएन के लिए चिकित्सा विश्लेषक, और डलास में टेक्सास विश्वविद्यालय में सार्वजनिक स्वास्थ्य के प्रोफेसर थे।
+      Dr. Yasmin a été finaliste pour le prix Pulitzer de l'actualité en 2017 avec une équipe du Dallas Morning News et a reçu un Emmy Award pour ses reportages sur les maladies négligées. Elle a reçu deux bourses du Pulitzer Center on Crisis Reporting et a été sélectionnée comme John S. Knight Fellow en journalisme à l'université de Stanford en 2017 où elle a enquêté sur la propagation de la désinformation sanitaire et de la désinformation à propos de la santé pendant les épidémies.
+    hi: 'सीमा यास्मीन ने मेडिकल जर्नलिज्म के लिए एमी अवार्ड जीता है. वे कवि, चिकित्सक
+      और लेखक हैं। यास्मीन ने अमेरिकी सेंटर फॉर डिजीज कंट्रोल एंड प्रिवेंशन में एपिडेमिक
+      इंटेलिजेंस सर्विस में एक अधिकारी के रूप में काम किया है. यहाँ उन्होंने बीमारियों
+      के प्रकोप और फैलाव की जांच की। उन्होंने टोरंटो विश्वविद्यालय में पत्रकारिता
+      पढ़ी और कैम्ब्रिज विश्वविद्यालय में चिकित्सा की पढ़ाई की।यास्मीन 2017 में द डलास
+      मॉर्निंग न्यूज की एक टीम के साथ ब्रेकिंग न्यूज में पुलित्जर पुरस्कार के लिए
+      फाइनलिस्ट थीं और उन्हें उपेक्षित बीमारियों के बारे में रिपोर्टिंग के लिए एमी
+      अवार्ड मिला था। उन्हें पुलिट्जर सेंटर ऑन क्राइसिस रिपोर्टिंग से दो अनुदान मिले.
+      उन्हें स्टैनफोर्ड यूनिवर्सिटी द्वारा 2017 में जॉन एस नाइट फेलो के रूप में चुना
+      गया, जहां उन्होंने महामारी के दौरान स्वास्थ्य की गलत और भ्रामक जानकारी के फैलाव
+      के बारे में गहरी जांच की. '
 - sys:
     id: enGE7MnQYCd9cGxKTXA1p
     created_at: !ruby/object:DateTime 2020-05-13 21:26:32.131000000 Z
-    updated_at: !ruby/object:DateTime 2020-05-14 21:50:44.221000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-28 00:54:17.457000000 Z
     content_type_id: contributor
-    revision: 1
+    revision: 3
   name:
     en-US: 'Mohit Nair '
+    fr: 'Mohit Nair '
+    hi: मोहित नायर
   slug:
     en-US: mohit-nair
   bio:
-    en-US: "Mohit Nair currently serves as Partnerships Director at FairVote Washington,
+    en-US: Mohit Nair currently serves as Partnerships Director at FairVote Washington,
       a non-profit organisation based in Seattle, WA. Previously, he worked with the
       Medecins Sans Frontieres (MSF) Vienna Evaluation Unit and with MSF Operational
       Centre Barcelona in India. He has conducted research studies on diverse topics,
       including the drivers of antibiotic resistance in West Bengal and perceptions
-      of palliative care in Bihar. \n\nMohit has also worked as a research consultant
+      of palliative care in Bihar. Mohit has also worked as a research consultant
       with Save the Children in Laos to identify gaps in the primary health system
       and develop a district-wide action plan for children with disabilities. He holds
       a Master of Public Health from the Harvard University T.H. Chan School of Public
-      Health and a Bachelor of Science from Cornell University."
+      Health and a Bachelor of Science from Cornell University.
+    fr: Mohit Nair est directeur des partenariats chez FairVote Washington, une organisation
+      à but non lucratif basée à Seattle (États-Unis). Auparavant, il a travaillé
+      avec l'unité d'évaluation de Médecins Sans Frontières (MSF) à Vienne et avec
+      le centre opérationnel de MSF en Inde. Il a mené des projets de recherche sur
+      divers sujets, notamment sur les facteurs de résistance aux antibiotiques au
+      Bengale occidental et sur la perception des soins palliatifs au Bihar. Mohit
+      a également travaillé comme consultant en recherche avec Save the Children au
+      Laos afin d'identifier les lacunes du système de santé primaire et de développer
+      un plan d'action à l'échelle du district pour les enfants handicapés. Il est
+      titulaire d'une maîtrise en santé publique (MPH) de la Harvard T.H. Chan School
+      of Public Health et d'une licence en sciences (B. Sc.) de l'université Cornell.
+    hi: 'मोहित नायर सिएटल, वाशिंगटन में स्थित एक गैर-लाभकारी संस्था फेयरवोट वाशिंगटन
+      में पार्टनरशिप्स डायरेक्टर के रूप में काम करते हैं। इससे पहले उन्होंने मेडिसिंस
+      सांस फ्रंटियर्स (MSF) वियना इवैल्यूएशन यूनिट और MSF ऑपरेशनल सेंटर बार्सिलोना
+      के साथ भारत में काम किया है। उन्होंने अलग-अलग तरह के मुद्दों पर शोध किया है,
+      जैसे पश्चिम बंगाल में एंटीबायोटिक के रेसिस्टेंस के कारण और बिहार में पैलिएटिव
+      केयर से जुड़े विचार और सोच. मोहित ने लाओस में सेव द चिल्ड्रेन के साथ रिसर्च कंसल्टन्ट
+      के रूप में काम किया है. यहाँ पर उन्होंने प्राथमिक स्वास्थ्य की व्यवस्था में
+      मौजूद कमियों की पहचान की. उन्होंने यहाँ विकलांग बच्चों के लिए जिला-व्यापी एक्शन
+      प्लान बनाने का काम किया है। उन्होंने हार्वर्ड यूनिवर्सिटी के टी.एच. चैन स्कूल
+      ऑफ पब्लिक हेल्थ से मास्टर ऑफ पब्लिक हेल्थ और कॉर्नेल विश्वविद्यालय से विज्ञान
+      स्नातक हासिल किया है. '
 - sys:
     id: Ffg24BXuAG5nj45n4psKA
     created_at: !ruby/object:DateTime 2020-05-13 21:27:06.964000000 Z
-    updated_at: !ruby/object:DateTime 2020-05-14 21:50:44.457000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-28 00:54:46.638000000 Z
     content_type_id: contributor
-    revision: 1
+    revision: 3
   name:
     en-US: Nat Gyenes
+    fr: Nat Gyenes
+    hi: 'नैट जायेंस '
   slug:
     en-US: nat-gyenes
   bio:
-    en-US: "Nat Gyenes, MPH, leads Meedan's Digital Health Lab, an initiative dedicated
+    en-US: Nat Gyenes, MPH, leads Meedan’s Digital Health Lab, an initiative dedicated
       to addressing health information equity challenges, with a focus on the role
       that technology plays in mediating access to health through access to information.
-      As a research affiliate at Harvard's Berkman Klein Center for Internet & Society,
-      she studies the ways in which health information sources and outputs can impact
-      health outcomes. She lectures at the Harvard School of Public Health on health,
-      media and human rights. \n\nBefore joining Meedan, Nat worked at the MIT Media
-      Lab as a health misinformation researcher, with the UN Special Rapporteur on
-      Child Protection, and developed communications guidelines for health professionals
-      working with trauma-affected refugee populations. "
+      She received her masters in public health from the Harvard T. H. Chan School
+      of Public Health, with a focus on equitable access to health information and
+      human rights. As a research affiliate at Harvard’s Berkman Klein Center for
+      Internet & Society, she studies the ways in which health information sources
+      and outputs can impact health outcomes. She lectures at the Harvard T.H. Chan
+      School of Public Health on Health, Media and Human Rights. Before joining Meedan,
+      Nat worked at the MIT Media Lab as a health misinformation researcher.
+    fr: Nat Gyenes dirige le Digital Health Lab de Meedan, une initiative qui se consacre
+      à relever les défis d'équité en matière d'information sur la santé, en mettant
+      l'accent sur le rôle que joue la technologie dans la médiation de l'accès à
+      la santé par l'accès à l'information. Elle a obtenu sa maîtrise en santé publique
+      (MPH) à la Harvard T.H. Chan School of Public Health, où elle s'est spécialisée
+      sur l'accès équitable à l'information sur la santé et les droits de l'Homme.
+      En tant que chercheur affilié au Berkman Klein Center for Internet & Society
+      de l'université Harvard, elle étudie la manière dont les sources et les produits
+      des informations sur la santé peuvent avoir un impact sur l'état de santé des
+      populations. Elle est intervenant extérieur à la Harvard T.H. Chan School of
+      Public Health pour un cours sur la santé, les médias et les droits de l'Homme.
+      Avant de rejoindre Meedan, Nat a travaillé au Media Lab du MIT en tant que chercheuse
+      en désinformation à propos de la santé.
+    hi: 'नैट जायेंस ने मास्टर ऑफ़ पब्लिक हेल्थ की डिग्री हासिल की है. वे मीदान के डिजिटल
+      हेल्थ लैब का नेतृत्व करती हैं. यह ऐसी पहल है जो स्वास्थ्य से जुड़ी जानकारी को
+      हासिल करने में समता की चुनौतियों पर दखल देती है. इसमें जानकारी हासिल करने में
+      टेक्नोलॉजी की भूमिका पर भी फोकस किया जाता है. नैट हार्वर्ड के बर्कमैन क्लाइन
+      सेंटर फॉर इंटरनेट एंड सोसाइटी में एक शोध सहयोगी हैं. वे उन तरीकों को देखती हैं
+      जिनमें स्वास्थ्य सूचना के ज़रिये स्वास्थ्य के परिणामों को प्रभावित किया जा सकता
+      है। वह हार्वर्ड स्कूल ऑफ पब्लिक हेल्थ में स्वास्थ्य, मीडिया और मानव अधिकारों
+      पर लेक्चर करती हैं। मीदान में शामिल होने से पहले, नैट ने एमआई टी में हेल्थ मिसिनफॉर्मेशन
+      रिसर्चर के रूप में काम किया था. '
 - sys:
     id: 2PefzxNAEEsCUTjbZGR8hQ
     created_at: !ruby/object:DateTime 2020-05-13 21:28:31.832000000 Z
-    updated_at: !ruby/object:DateTime 2020-05-14 21:50:44.062000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-28 00:54:57.891000000 Z
     content_type_id: contributor
-    revision: 1
+    revision: 3
   name:
     en-US: 'Megan Marrelli '
+    fr: 'Megan Marrelli '
+    hi: 'मेग मैरेली '
   slug:
     en-US: megan-marrelli
   bio:
-    en-US: "Megan Marrelli is a Peabody award-winning journalist and the Editorial
+    en-US: Megan Marrelli is a Peabody award-winning journalist and the Editorial
       Lead of the COVID-19 Expert Database. She focuses on news innovation in today's
       complex information environment. Megan has worked on the digital breaking news
       desk of the Globe and Mail, Canada's national newspaper, and on the news production
-      team of the Netflix series Patriot Act with Hasan Minhaj. \n\nShe was a Canadian
+      team of the Netflix series Patriot Act with Hasan Minhaj. She was a Canadian
       Association of Journalists finalist for a team Chronicle Herald investigation
       into house fires in Halifax, Nova Scotia. On top of her role at Meedan Megan
       works with the investigative journalism incubator Type Investigations, where
       she is reporting a data-driven story on fatal patient safety failures in U.S.
       hospitals. She holds a Master of Science from the Columbia Journalism School
-      and lives in New York."
+      and lives in New York.
+    fr: 'Megan Marrelli est une journaliste lauréate d''un prix Peabody et la responsable
+      éditoriale de la COVID-19 Expert Database. Elle se concentre sur l''innovation
+      des nouvelles dans l''environnement complexe de l''information d''aujourd''hui.
+      Megan a travaillé au service des actualités numériques du Globe and Mail, le
+      journal national du Canada, et dans l''équipe de production des actualités de
+      la série Netflix Patriot Act avec Hasan Minhaj. Elle a été finaliste de l''Association
+      canadienne des journalistes pour une enquête du Chronicle Herald sur les incendies
+      de maisons à Halifax, en Nouvelle-Écosse. En plus de son rôle chez Meedan, Megan
+      travaille avec l''incubateur de journalisme d''investigation Type Investigations,
+      où elle travaille sur un reportage basé sur des donnée à propos des défaillances
+      fatales de la sécurité des patients dans les hôpitaux américains. Elle est titulaire
+      d''une maîtrise en sciences (M.Sc.) de l''école de journalisme de l''université
+      Columbia et vit à New York.  '
+    hi: मेगन मारेली को पत्रकारिता के लिए पीबॉडी पुरस्कार मिल चुका है. वे COVID-19
+      विशेषज्ञ डेटाबेस की संपादकीय लीड हैं। वह मीडिया के मौजूदा जटिल वातावरण में रचनात्मकता
+      पर ध्यान केंद्रित करती हैं। मेगन ने कनाडा के राष्ट्रीय अखबार ग्लोब एंड मेल के
+      डिजिटल ब्रेकिंग न्यूज डेस्क में काम किया है. उन्होंने नेटफ्लिक्स की सीरीज पेट्रियट
+      एक्ट विथ हसन मिन्हाज की न्यूज प्रोडक्शन टीम के साथ काम किया है। वह नोवा स्कोटिया
+      के शहर हैलिफ़ैक्स में घरों में लगी आग की जाँच के लिए कैनेडियन एसोसिएशन ऑफ़ जर्नलिस्ट
+      की फाइनलिस्ट थीं। मीदान में अपनी भूमिका के अलावा  मेगन खोजी पत्रकारिता इनक्यूबेटर
+      टाइप इंवेस्टिगेशंस के साथ काम करती हैं, जहां वह अमेरिकी अस्पतालों में घातक रोगी
+      सुरक्षा विफलताओं पर डेटा-आधारित कहानियां बता रही हैं. उन्होंने कोलंबिया जर्नलिज्म
+      स्कूल से मास्टर ऑफ साइंस की डिग्री हासिल की और वे न्यूयॉर्क में रहती हैं।
 - sys:
     id: 3MDM05wtxjGNQC5PY7gIpT
     created_at: !ruby/object:DateTime 2020-05-14 20:04:55.127000000 Z
-    updated_at: !ruby/object:DateTime 2020-05-14 21:50:44.144000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-28 00:55:08.523000000 Z
     content_type_id: contributor
-    revision: 1
+    revision: 3
   name:
     en-US: Shalini Joshi
+    fr: Shalini Joshi
+    hi: 'शालिनी जोशी '
   slug:
     en-US: shalini-joshi
   bio:
     en-US: "Shalini Joshi is a Program Lead at Meedan and formerly the Executive Editor
       and co-founder of Khabar Lahariya - India's only independent, digital news network
-      available to viewers in remote rural areas and small towns. \n\nShalini transformed
+      available to viewers in remote rural areas and small towns. \nShalini transformed
       Khabar Lahariya from one edition of a printed newspaper to an award-winning
       digital news agency available to over ten million viewers. She has a sophisticated
       understanding of local media and gender, and the ways in which they can inhibit
-      women from participating in the public sphere in South Asia. \n\nShalini was
-      a TruthBuzz Partner & Fellow with the International Center for Journalists (ICFJ).
+      women from participating in the public sphere in South Asia. \nShalini was a
+      TruthBuzz Partner & Fellow with the International Center for Journalists (ICFJ).
       She is a trainer in journalism, verification and fact-checking. She has designed,
       implemented and strengthened news reporting & editorial policies and practices
-      in newsrooms and fact-checking organisations.  Shalini set up and managed the
-      tipline used to collect WhatsApp-based rumors for Checkpoint, a research project
-      to study misinformation at scale during the 2019 Indian general elections."
+      in newsrooms and fact-checking organisations.  \nShalini set up and managed
+      the tipline used to collect WhatsApp-based rumors for Checkpoint, a research
+      project to study misinformation at scale during the 2019 Indian general elections."
+    fr: "Shalini Joshi est responsable des programmes chez Meedan. Elle a été rédactrice
+      en chef et cofondatrice de Khabar Lahariya, le seul réseau d'information numérique
+      indépendant en Inde, accessible aux téléspectateurs des zones rurales isolées
+      et des petites villes. \nShalini a transformé Khabar Lahariya d'une édition
+      de journal imprimé en une agence de presse numérique primée, accessible à plus
+      de dix millions de téléspectateurs. Elle a une connaissance approfondie des
+      médias locaux et des questions de genre, ainsi que de la manière dont ils peuvent
+      empêcher les femmes de participer à la sphère publique en Asie du Sud. \nShalini
+      était une TruthBuzz Partner, et une Fellow du Centre International des Journalistes
+      (ICFJ). Elle organise des formations en journalisme et en fact-checking. Elle
+      a conçu, mis en œuvre et renforcé les politiques et pratiques de reportage et
+      de rédaction dans les salles de rédaction et les organismes de fact-checking.
+      \ \nShalini a mis en place et géré la ligne utilisée pour recueillir les rumeurs
+      qui circulent sur WhatsApp pour Checkpoint, un projet de recherche visant à
+      étudier la désinformation à l'échelle pendant les élections générales en Inde
+      de 2019."
+    hi: 'शालिनी जोशी मीदान में एशिया पसिफ़िक क्षेत्र की प्रोग्राम लीड हैं. इसके पहले
+      वे खबर लहरिया की एग्जीक्यूटिव संपादक और सह-संस्थापक थीं. खबर लहरिया भारत का
+      एकमात्र स्वतंत्र, डिजिटल समाचार नेटवर्क है जो दूरदराज के ग्रामीण क्षेत्रों और
+      छोटे शहरों में दर्शकों के लिए उपलब्ध है।शालिनी ने अखबार के एक संस्करण से ख़बर
+      लहरिया को एक पुरस्कृत डिजिटल समाचार एजेंसी में बदल दिया, जो दस मिलियन से अधिक
+      दर्शकों को उपलब्ध है। उन्हें स्थानीय मीडिया और जेंडर की गहरी समझ है. ये दोनों
+      मुद्दे जिस तरह से दक्षिण एशिया में महिलाओं को सार्वजनिक क्षेत्र में भाग लेने
+      से रोक सकते हैं, उन्हें शालिनी बेहतरीन ढंग से समझती हैं. शालिनी इंटरनेशनल सेंटर
+      फॉर जर्नलिस्ट्स में ट्रुथबज़ फेलो रह चुकी हैं. उन्होंने ऑनलाइन मिसइनफार्मेशन
+      को समझने पर काम किया है. शालिनी ने पत्रकारिता और फैक्ट-चेकिंग पर ट्रेनिंग कार्यक्रम
+      आयोजित किये हैं.  उन्होंने 2019 में भारत में हुए लोक सभा चुनाव के दौरान चेकपॉइंट
+      प्रोजेक्ट का नेतृत्व किया. इसमें व्हाट्सएप पर चुनाव से जुड़ी भ्रामक जानकारी पर
+      शोध किया गया. '
 - sys:
     id: 1jTy4C4NUtTg33gfmANjV6
     created_at: !ruby/object:DateTime 2020-05-14 20:06:56.782000000 Z
-    updated_at: !ruby/object:DateTime 2020-05-14 21:50:44.024000000 Z
+    updated_at: !ruby/object:DateTime 2020-06-10 23:35:05.706000000 Z
     content_type_id: contributor
-    revision: 1
+    revision: 5
   name:
-    en-US: Christin Gilmer
+    en-US: Dr. Christin Gilmer
+    fr: Christin Gilmer
+    hi: 'क्रिस्टीन '
   slug:
     en-US: christin-gilmer
   bio:
-    en-US: Christin Gilmer is a Global Health Scientist with a background in infectious
+    en-US: Dr. Christin Gilmer is a Global Health Scientist with a background in infectious
       diseases, international health systems, and population health and technology.
       In the last 15 years, Christin has worked for the WHO, University of Oxford,
       World Health Partners, USAID, UNFPA, the FXB Center for Health & Human Rights
@@ -136,28 +249,164 @@ contributor:
       Kennedy School, and Harvard Business School. Christin has worked in dozens of
       countries across five continents and loves running programs and research internationally,
       but she is currently based in Seattle.
+    fr: Christin Gilmer est une scientifique spécialisée en santé mondiale avec de
+      l'expérience dans le domaine des maladies infectieuses, des systèmes de santé
+      internationaux et des innovations technologiques en santé publique. Au cours
+      des 15 dernières années, Christin a travaillé pour l'OMS, l'Université d'Oxford,
+      World Health Partners, USAID, UNFPA, le FXB Center for Health & Human Rights
+      de l'université Harvard et bien d'autres encore. Christin a aussi travaillé
+      comme bénévole pour les programmes de santé de Special Olympics International
+      ainsi que pour des associations à but non lucratif spécialisées dans le domaine
+      de la technologie au service de la santé à travers les États-Unis. Elle a obtenu
+      son doctorat en santé publique (DrPH) de la Harvard T.H. Chan School of Public
+      Health, sa maîtrise en santé publique (MPH) de l'université Columbia. Pendant
+      son doctorat à Harvard, elle a également pris des cours au MIT, à la Harvard
+      Kennedy School et à la Harvard Business School. Christin a travaillé dans des
+      dizaines de pays des cinq continents et adore diriger des programmes et des
+      recherches au niveau international, mais elle est actuellement basée à Seattle
+      (États-Unis).
+    hi: 'क्रिस्टीन गिल्मर एक वैश्विक स्वास्थ्य वैज्ञानिक हैं. इनका बैकग्राउंड और काम
+      संक्रामक रोगों, अंतर्राष्ट्रीय स्वास्थ्य प्रणालियों और जनसंख्या स्वास्थ्य से
+      जुड़ी टेक्नोलॉजी में है। पिछले 15 सालों में क्रिस्टीन ने विश्व स्वास्थ्य संगठन
+      (डब्ल्यूएचओ), ऑक्सफोर्ड विश्वविद्यालय, वर्ल्ड हेल्थ पार्टनर्स, यूएसएआईडी, यूएनएफपीए,
+      एफएक्सबी सेंटर फॉर हेल्थ एंड ह्यूमन राइट्स के लिए काम किया है. उन्होंने अंतर्राष्ट्रीय
+      स्पेशल ओलंपिक्स के स्वास्थ्य से जुड़े कार्यक्रमों के लिए भी अपना समय दिया है.
+      उन्होंने स्वास्थ्य और टेक्नोलॉजी से जुड़ी संस्थाओं के साथ देश-भर में काम किया
+      है. क्रिस्टीन ने हार्वर्ड टी.एच चैन स्कूल ऑफ पब्लिक हेल्थ में डॉक्टर ऑफ पब्लिक
+      हेल्थ डिग्री हासिल की और कोलंबिया में एमपीएच की डिग्री. क्रिस्टीन ने एम आई टी,
+      हार्वर्ड कैनेडी स्कूल और हार्वर्ड बिजनेस स्कूल में पढ़ने में समय बिताया। क्रिस्टीन
+      ने पांच महाद्वीपों में दर्जनों देशों में काम किया है. उन्हें अंतरराष्ट्रीय स्तर
+      पर कार्यक्रम चलाने और रिसर्च करना पसंद है. वे सिएटल में रहती हैं. '
 - sys:
     id: 1aE0WfwjjgxKyanRyPlmJk
     created_at: !ruby/object:DateTime 2020-05-14 20:43:14.896000000 Z
-    updated_at: !ruby/object:DateTime 2020-05-14 21:50:44.083000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-28 00:53:46.381000000 Z
     content_type_id: contributor
-    revision: 1
+    revision: 3
   name:
     en-US: Nour Sharara
+    fr: Nour Sharara
+    hi: 'नूर '
   slug:
     en-US: nour-sharara
   bio:
     en-US: Nour is a Global Health Strategy consultant based in Dakar (Senegal) and
       specialized in health system strengthening. Most recently, she worked with Dalberg
-      Advisors where she advised Ministries of Health, philanthropies, bi-lateral
-      missions and multi-lateral institutions on strategy engagements, impact evaluations
-      and implementation support across 15 countries in Sub-Saharan Africa. Her work
-      there focused on Epidemic Preparedness & Response and Vaccination Coverage and
-      Equity. Her previous work experiences include researching the clinical needs
-      in point-of-care technology in cancer care at the Dana-Farber Cancer Institute
-      in Boston; and coordinating the implementation of a colonoscopy quality assurance
-      initiative for a colorectal cancer screening program at McGill University in
-      Montreal. Nour has a Master of Public Health from the Harvard T.H. Chan School
-      of Public Health, a Master of Arts in Medical Ethics and Law from King's College
-      London, and a Bachelor of Science from McGill University. She is fluent in French
-      and English.
+      Advisors focusing on Epidemic Preparedness & Response and Vaccination Coverage
+      and Equity across 15 countries in Sub-Saharan Africa. Her previous work experiences
+      include researching the clinical needs in point-of-care technology in cancer
+      care at the Dana-Farber Cancer Institute in Boston; and coordinating the implementation
+      of a colonoscopy quality assurance initiative for a colorectal cancer screening
+      program at McGill University in Montreal. Nour has a Master of Public Health
+      from the Harvard T.H. Chan School of Public Health, a Master of Arts in Medical
+      Ethics and Law from King’s College London, and a Bachelor of Science from McGill
+      University. She is fluent in French and English.
+    fr: 'Nour est une consultante en stratégie de santé mondiale basée à Dakar (Sénégal)
+      et spécialisée dans le renforcement des systèmes de santé. Plus récemment, elle
+      a travaillé avec le cabinet de conseil Dalberg Advisors où ses missions à travers
+      l''Afrique subsaharienne portaient principalement sur la préparation et la riposte
+      aux épidémies ainsi que la couverture et l''équité en matière de vaccination.
+      Ses expériences professionnelles antérieures comprennent la recherche des besoins
+      cliniques en matière de technologie au point de service dans le domaine des
+      soins du cancer au Dana-Farber Cancer Institute de Boston, et la coordination
+      de la mise en œuvre d''une initiative d''assurance qualité en matière de coloscopie
+      pour un programme de dépistage du cancer colorectal à l''Université McGill à
+      Montréal. Nour est titulaire d''une maîtrise en santé publique (MPH) de la Harvard
+      T.H. Chan School of Public Health, d''une maîtrise en bioéthique (MA) du King''s
+      College London et d''une licence en sciences (B.Sc.) de l''université McGill.
+      Elle parle couramment le français et l''anglais. '
+    hi: नूर डकार (सेनेगल) में स्थित एक वैश्विक स्वास्थ्य रणनीति सलाहकार है और स्वास्थ्य
+      प्रणाली को मजबूत बनाने में विशेष है। हाल ही में, उन्होंने Dalberg सलाहकारों
+      के साथ काम किया, जहां उन्होंने उप-सहारा अफ्रीका में 15 देशों में रणनीति, प्रभाव
+      मूल्यांकन और कार्यान्वयन समर्थन पर स्वास्थ्य, परोपकार, द्वि-पार्श्व मिशन और
+      बहु-पार्श्व संस्थानों के मंत्रालयों को सलाह दी। उसका काम वहाँ महामारी की तैयारी
+      और प्रतिक्रिया और टीकाकरण कवरेज और इक्विटी पर केंद्रित था। उनके पिछले काम के
+      अनुभवों में दाना-फार्बर कैंसर इंस्टीट्यूट इनबस्टन में कैंसर देखभाल में बिंदु-की-देखभाल
+      तकनीक में नैदानिक ​​आवश्यकताओं पर शोध करना शामिल है; और मॉन्ट्रियल में मैकगिल
+      विश्वविद्यालय में कोलोरेक्टल कैंसर स्क्रीनिंग कार्यक्रम के लिए एक कोलोनोस्कोपी
+      गुणवत्ता आश्वासन पहल के कार्यान्वयन का समन्वय। नौर ने हार्वर्ड से मास्टर ऑफ
+      पब्लिक हेल्थ टी.एच. चैन स्कूल ऑफ पब्लिक हेल्थ, किंग्स कॉलेज लंदन से मेडिकल एथिक्स
+      और कानून में मास्टर ऑफ आर्ट्स, और मैकगिल विश्वविद्यालय से विज्ञान स्नातक। वह
+      फ्रेंच और अंग्रेजी में धाराप्रवाह है।
+- sys:
+    id: 66FZQ9VDsmbFWtuZd2hUvz
+    created_at: !ruby/object:DateTime 2020-06-10 23:34:13.758000000 Z
+    updated_at: !ruby/object:DateTime 2020-06-10 23:34:38.334000000 Z
+    content_type_id: contributor
+    revision: 1
+  name:
+    en-US: Dr. Saskia Popescu
+  slug:
+    en-US: dr-saskia-popescu
+  bio:
+    en-US: 'Dr. Saskia Popescu is an infectious disease epidemiologist and infection
+      preventionist with a focus on hospital biopreparedness and the role of infection
+      prevention in health security efforts. She is an expert in healthcare biopreparedness  and
+      is nationally recognized for her work in infection prevention and enhancing
+      hospital response to infectious diseases events. Currently, Dr. Popescu is an
+      Adjunct Professor with the University of Arizona, and an Affiliate Faculty with
+      George Mason University, while serving on the Coronavirus Task Force within
+      the Federation of American Scientists, and on a data collection subcommittee
+      for SARS-CoV-2 response with the National Academies of Science, Engineering,
+      and Medicine. She holds a PhD in Biodefense from George Mason University, a
+      Masters in Public Health with a focus on infectious diseases, and a Masters
+      of Arts in International Security Studies, from the University of Arizona. Dr.
+      Popescu is an Alumni Fellow of the Emerging Leaders in Biosecurity Initiative
+      (ELBI) at the Johns Hopkins Bloomberg School of Public Health, Center for Health
+      Security. She is also an external expert for the European Centre for Disease
+      Control (ECDC), and a recipient of the Presidential Scholarship at George Mason
+      University. In 2010, she was a recipient of the Frontier Interdisciplinary eXperience
+      (FIX) HS-STEM Career Development Grant in Food Defense through the National
+      Center for Food Protection and Defense. During her work as an infection preventionist,
+      she managed Ebola response, a 300+ measles exposure resulting in an MMWR article,
+      and bioterrorism preparedness in the hospital system. More recently, she created
+      and disseminated a gap analysis for a 6-hospital system to establish vulnerabilities
+      for high-consequence diseases, helping to guide the creation of a high-consequence
+      disease initiative to enhance readiness at the healthcare level. Twitter: @SaskiaPopescu '
+- sys:
+    id: 4UdjHCdrIYkMts6NGZohk3
+    created_at: !ruby/object:DateTime 2020-06-11 20:18:15.816000000 Z
+    updated_at: !ruby/object:DateTime 2020-06-11 20:18:29.235000000 Z
+    content_type_id: contributor
+    revision: 1
+  name:
+    en-US: Jenna Sherman
+  slug:
+    en-US: jenna-sherman
+  bio:
+    en-US: Jenna Sherman is an MPH student at the Harvard Chan School of Public Health
+      in the department of Social Behavioral Sciences, where she concentrates in ‘Maternal
+      and Child Health’ and ‘Humanitarian Studies, Ethics, and Human Rights.’ She
+      is also a Senior Project Coordinator at the Berkman Klein Center for Internet
+      and Society where she works on tech ethics with a focus on bias and discrimination
+      in AI. Jenna’s interests in public health are manifold, but primarily fall along
+      the following two themes 1) reproductive justice in settings that are conducive
+      to or reinforce trauma (e.g. prisons, refugee camps, detention centers), and
+      2) digital health, with particular interests in misinformation online and AI
+      bias in healthcare. Hailing from Alabama, Jenna is a lover of all fried food
+      and enjoys spending time dancing, reading about trauma healing, and playing
+      with her cat, Dolly.
+- sys:
+    id: 6UfhbEJXnLVdsbrRf0tvrs
+    created_at: !ruby/object:DateTime 2020-07-03 14:48:54.695000000 Z
+    updated_at: !ruby/object:DateTime 2020-07-03 14:50:11.020000000 Z
+    content_type_id: contributor
+    revision: 1
+  name:
+    en-US: Emily LaRose
+  slug:
+    en-US: emily-larose
+  bio:
+    en-US: Emily LaRose is a Registered Dietitian and currently works as a consultant
+      to The Global Alliance for Improved Nutrition (GAIN). She has been a dietitian
+      for more than 15 years and has previously worked for Médecins Sans Frontières
+      (MSF), PATH, Children’s Hospital Los Angeles, and Johnson & Wales University.
+      In her work she has written specialty reports on topics including global human
+      milk banking practices and innovative food system programs; developed tools
+      and protocols for clinical nutrition care delivery in humanitarian hospitals;
+      taught university-level clinical nutrition courses; and provided nutritional
+      care for critically ill hospitalized patients. Emily is currently a Doctor of
+      Public Health candidate at the Harvard T.H. Chan School of Public Health where
+      she has completed the Nutrition and Global Health Concentration. She also holds
+      a Master of Science in Dietetics from Kansas State University and a Bachelor
+      of Science in Culinary Arts Nutrition from Johnson & Wales University.
