@@ -116,3 +116,14 @@ algolia:
   nodes_to_index: 'p'
   files_to_exclude:
     - hi/**/index.html
+
+
+
+airtable:
+  api_key: key3GwTpP3iINPkP1
+  tables:
+    - name: 'V1 COVID-19 Expert Database Snapshot July 8'
+      app_id: appzLYyvMpjIJnLY7
+      sheets: 
+        - name: 'Expert Database'
+          view: 'COVID-19 Expert Database (English)'
