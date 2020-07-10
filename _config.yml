@@ -122,10 +122,17 @@ algolia:
 airtable:
   api_key: key3GwTpP3iINPkP1
   tables:
-    - name: 'V1 COVID-19 Expert Database Snapshot July 8'
+    - name: 'airtable'
       app_id: appzLYyvMpjIJnLY7
       target: 'covid19'
       sheets:
         - name: 'Expert Database'
           view: 'COVID-19 Expert Database (English)'
           target: 'questions-en'
+    - name: 'glossary'
+      app_id: appzLYyvMpjIJnLY7
+      target: 'covid19'
+      sheets:
+        - name: 'Glossary (English)'
+          view: 'Glossary (English)'
+          target: 'glossary-en'
