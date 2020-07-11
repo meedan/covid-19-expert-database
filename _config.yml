@@ -95,7 +95,7 @@ page_gen:
     template: 'page-hi'
     name: 'slug'
     dir: '/hi'
-  - data: 'covid19.questions'
+  - data: 'covid19.questions-en'
     template: 'entry'
     name: 'Question'
     dir: '/questions'
@@ -134,5 +134,5 @@ airtable:
       target: 'covid19'
       sheets:
         - name: 'Glossary (English)'
-          view: 'Glossary (English)'
+          view: 'Internal View'
           target: 'glossary-en'

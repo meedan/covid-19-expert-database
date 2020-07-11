@@ -11,7 +11,7 @@
     {% elsif page.lang == 'fr' %}
         {% assign terms = site.data.covid19.glossary-fr %}
     {% else %}
-        {% assign terms = site.data.covid19.glossary %}
+        {% assign terms = site.data.covid19.glossary-en %}
     {% endif %}
     <div class="glossary">
         {% for term in terms %}

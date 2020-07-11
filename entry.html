@@ -6,4 +6,24 @@ lang: en-US
 permalink: entry
 slug: thanks
 ---
+{% assign questions = site.data.covid19.questions-en %}
 
+{% for question in questions %}
+    <p>
+        {{ question['Question'] }}
+        {{ question['Other resources'] | markdownify }}
+        {% assign gq = question['Glossary Terms'] %}
+        
+        <ul>
+        {% for g in gq %}
+            {% assign glossary = site.data.covid19.glossary-en 
+                | where_exp: "item","item.id == g" %}
+            <li>{{ g }}:{{ glossary }}</li>
+        {% endfor %}
+        </ul>
+    </p>
+
+    {% for images in question['Media'] %}
+        <img src="{{ images.url }}" />
+    {% endfor %}
+{% endfor %}

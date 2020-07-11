@@ -1,5 +1,5 @@
 {% if page.lang == 'en-US' %}
-    {% assign questions = site.data.covid19.questions
+    {% assign questions = site.data.covid19.questions-en
         | sort: 'Last modified' 
         | reverse
     %}
@@ -17,7 +17,7 @@
 <div class="list-questions">
     <div class="question-wrapper">
         <div class="question">
-            {{ site.data.ui.t[page.lang].entry.question }} 
+            {{ site.data.ui.t[page.lang].entry.question }}
         </div>
         <div class="experts-say">
             {{ site.data.ui.t[page.lang].entry.what-our-experts-say }} 
@@ -31,9 +31,9 @@
     {% if page.lang == 'en-US' %}
         {% assign q = question.Question %}
         {% assign a = question['What our experts say'] %}
-        {% assign c = question['Topics'] | trim | split: ',' %}
+        {% assign c = question['Topics'] %}
         {% assign url = question.Question | sanitize_filename | prepend: '/questions/' %}
-        {% assign last_modified = question['Last modified'] | convert_to_date_mdy | date: "%-d %B %Y" %}
+        {% assign last_modified = question['Last modified'] | convert_to_date | date: "%-d %B %Y" %}
     {% elsif page.lang == 'fr' %}
         {% assign q = question.Question %}
         {% assign a = question['Ce que disent nos experts'] %}

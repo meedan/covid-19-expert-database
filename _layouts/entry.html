@@ -14,7 +14,7 @@ slug: entry
         </div>
         <h2>{{ page['Question'] }}</h2>
         <div class="meta">
-            <div>{{ site.data.ui.t[page.lang].entry.last-modified-on }} {{ page['Last modified'] | convert_to_date_mdy | date: "%-d %B %Y" }}</div>
+            <div>{{ site.data.ui.t[page.lang].entry.last-modified-on }} {{ page['Last modified'] | convert_to_date | date: "%-d %B %Y" }}</div>
         </div>
     </div>
     <div class="content-wrapper">
@@ -28,6 +28,7 @@ slug: entry
             {{ page['Background & context'] | markdownify }}           
         </div>
         {% include data.html %}
+        {% include media.html %}
         <h3 class="section-title">{{ site.data.ui.t[page.lang].entry.resources }}</h3>
         <div class="resources">
             {{ page['Other resources'] | markdownify }}
