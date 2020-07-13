@@ -95,7 +95,7 @@ page_gen:
     template: 'page-hi'
     name: 'slug'
     dir: '/hi'
-  - data: 'covid19.questions'
+  - data: 'covid19.questions-en'
     template: 'entry'
     name: 'Question'
     dir: '/questions'
@@ -116,3 +116,23 @@ algolia:
   nodes_to_index: 'p'
   files_to_exclude:
     - hi/**/index.html
+
+
+
+airtable:
+  api_key: key3GwTpP3iINPkP1
+  tables:
+    - name: 'airtable'
+      app_id: appzLYyvMpjIJnLY7
+      target: 'covid19'
+      sheets:
+        - name: 'Expert Database'
+          view: 'COVID-19 Expert Database (English)'
+          target: 'questions-en'
+    - name: 'glossary'
+      app_id: appzLYyvMpjIJnLY7
+      target: 'covid19'
+      sheets:
+        - name: 'Glossary (English)'
+          view: 'Internal View'
+          target: 'glossary-en'

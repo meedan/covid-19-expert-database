@@ -1,9 +1,9 @@
 {% if page.lang == 'en-US' %}
-    {% assign tags = page['Topics'] | trim | split: ',' %}
+    {% assign tags = page['Topics'] %}
 {% elsif page.lang == 'fr' %}
-    {% assign tags = page['Tags'] | trim | split: ',' %}
+    {% assign tags = page['Tags'] %}
 {% elsif page.lang == 'hi' %}
-    {% assign tags = page['टैग'] | trim | split: ',' %}
+    {% assign tags = page['टैग'] %}
 {% endif %}
 <div class="tags">
     

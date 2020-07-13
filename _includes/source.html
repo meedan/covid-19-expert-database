@@ -1,9 +1,9 @@
 {% if page.lang == 'hi' %}
-    {% assign sources = page['यह सवाल कहां से आया'] | trim | split: ',' %}
+    {% assign sources = page['यह सवाल कहां से आया'] %}
 {% elsif page.lang == 'fr' %}
-    {% assign sources = page['Source de la question'] | trim | split: ',' %}
+    {% assign sources = page['Source de la question'] %}
 {% else %}
-    {% assign sources = page['Source of the question'] | trim | split: ',' %}
+    {% assign sources = page['Source of the question'] %}
 {% endif %}
 
 
