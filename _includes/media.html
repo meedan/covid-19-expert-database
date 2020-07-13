@@ -12,7 +12,7 @@
     <div class="media">
     {% for image in media %}
         <a href="{{ image.url }}" title="Download {{ image.filename | trim }}">
-            <img src="{{ image.url }}" alt="{{ image.filename | trim }}" />
+            <img src="{{ image.thumbnails.full.url }}" alt="{{ image.filename | trim }}" />
         </a>
     {% endfor %}
     </div>

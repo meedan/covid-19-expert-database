@@ -32,6 +32,7 @@
         {% assign q = question.Question %}
         {% assign a = question['What our experts say'] %}
         {% assign c = question['Topics'] %}
+        {% assign media = question['Media'] %}
         {% assign url = question.Question | sanitize_filename | prepend: '/questions/' %}
         {% assign last_modified = question['Last modified'] | convert_to_date | date: "%-d %B %Y" %}
     {% elsif page.lang == 'fr' %}
@@ -51,8 +52,11 @@
         <div class="question">
             {{ q }}
         </div>
-        <div class="experts-say">
+        <div class="experts-say{% if media.size >= 1 %} with-media-preview{% endif %}">
             {{ a | truncate: 110 }}
+            {% if media.size >= 1 %}
+                {% include media_preview.html %}
+            {% endif %}
         </div>
         <div class="category">
             {% for category in c %}
