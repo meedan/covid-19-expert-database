@@ -1,36 +1,333 @@
 [
   {
-    "id": "recskEl8JEDHu8vMG",
-    "Term": "influenza",
-    "Definition": "According to the U.S. Centers for Disease Control, seasonal influenza viruses are influenza A and B viruses that spread and cause illness in people during the time of year known as the “flu season.” Seasonal influenza viruses cause annual U.S. influenza epidemics during fall, winter, and spring, and circulate among people worldwide. Seasonal influenza A and B viruses are continually undergoing evolution in unpredictable ways.\n",
+    "id": "rechTyFW9yFtRWh8o",
+    "Term": "secondary infection",
+    "Definition": "A secondary infection is an infection that takes place either during or following the treatment of an existing infection. Some of the causes of a secondary infection might include changes in the immune system of a person resulting from the first infection, or if the treatment for the first infection led to the secondary infection.\n",
     "Questions using this term": [
-      "recDsUQBbmYc1Ed0S"
+      "recu8V6IGjMveS5Ku"
     ],
     "Status": "Published",
     "Glossary (French)": [
-      "recCb33vpNU1Wgj2m"
+      "recGkbysvb9KPYi3m"
     ],
     "Glossary (Hindi)": [
-      "rec4J4m33noPrRZFI"
+      "recpvWgHuWkU6XwLw"
     ]
   },
   {
-    "id": "recR461ElvBx3lGKi",
+    "id": "recnFUXyIZy81Rj1I",
+    "Term": "virus",
+    "Definition": "According to the U.S. Centers for Diseases Control, a virus is a tiny organism that multiplies within cells and causes disease such as chickenpox, measles, mumps, rubella, pertussis and hepatitis. Viruses are not affected by antibiotics, the drugs used to kill bacteria. Viruses are smaller in size than bacteria and require living cells or tissues in order to grow and reproduce. \n",
+    "Questions using this term": [
+      "recu8V6IGjMveS5Ku",
+      "rec1KveB4FFU90Equ",
+      "rec7awl8Ed6xdZIiv"
+    ],
+    "Status": "Published",
+    "Glossary (French)": [
+      "recRdDn65UcHnA63p"
+    ],
+    "Glossary (Hindi)": [
+      "rec9V6fXai4eHkuFg"
+    ]
+  },
+  {
+    "id": "recAFuzwLppTBDIPe",
+    "Term": "bacteria",
+    "Definition": "According to the U.S. Centers for Disease Control, bacteria are germs. They live in the environment and all over the inside and outside of our bodies. Most bacteria are harmless and even helpful to people, but some can cause infections, like strep throat. These microscopic organisms are made up of one single cell, and can survive in many different types of environments, not just living things. Antibiotic medications can be used to kill bacteria.\n",
+    "Questions using this term": [
+      "recu8V6IGjMveS5Ku",
+      "rec1ozIUD6hRFzkYw"
+    ],
+    "Status": "Published",
+    "Glossary (French)": [
+      "recn0lT3zfEhVv8Eo"
+    ],
+    "Glossary (Hindi)": [
+      "recHmMAGrkmpcw79C"
+    ]
+  },
+  {
+    "id": "rec5yviiSvJkufYvu",
+    "Term": "respiratory droplets",
+    "Definition": "Respiratory droplets are small drops of a liquid, usually water, that are produced from humans sneezing, coughing, talking, breathing, singing, yawning, or even just breathing, that fall to the ground and surfaces over several minutes and travel over a short range: up to 2 feet (60 cm). These droplets contain tiny parts of a virus (particles), so they can spread illnesses between people when someone touches a surface that a respiratory droplet has landed on and then touches their eyes, mouth, or nose or other body part. Unlike aerosolized pathogens, respiratory droplets are larger in size at over 5-10μm (hence being referred to also as 'large droplets'), don't travel as far, and don't remain in the air for long periods of time. Most respiratory illnesses are spread by respiratory droplets. \n\n",
+    "Questions using this term": [
+      "recr69VbqahSOTu3Y",
+      "reczxZFNnUFSbpNxf",
+      "recE68fRyDEYYEuIr",
+      "recenUqXFNVYnafXz",
+      "recrralIEXZlkGqd5",
+      "recAvJuac1TZ49MjL",
+      "recXUQjiQ2yaPXyxo",
+      "recC2wUIEcU6WPCCA"
+    ],
+    "Status": "Published",
+    "Glossary (French)": [
+      "recHFrxN3qEXqWTDa"
+    ],
+    "Glossary (Hindi)": [
+      "recumLFRn21ADhA5P"
+    ]
+  },
+  {
+    "id": "recE7xmnXgtg8ZanX",
+    "Term": "incubation period",
+    "Definition": "According to the World Health Organization, the incubation period is the time between exposure to the virus (becoming infected) and symptom onset.\n",
+    "Questions using this term": [
+      "recSK7NRoa33YUdrv"
+    ],
+    "Status": "Published",
+    "Glossary (French)": [
+      "rec5NviyR1bKlIVTa"
+    ],
+    "Glossary (Hindi)": [
+      "recYKHvSvNzJNTF7p"
+    ]
+  },
+  {
+    "id": "recJ4Q812SOdo1NGM",
+    "Term": "contagious",
+    "Definition": "According to the U.S. National Institutes of Health, a contagious disease is a communicable disease that can spread rapidly from person to person through direct contact (touching a person who has the infection), indirect contact (touching a contaminated object), or droplet contact (inhaling droplets made when a person who has the infection coughs, sneezes, or talks).\n",
+    "Questions using this term": [
+      "recSK7NRoa33YUdrv"
+    ],
+    "Status": "Published",
+    "Glossary (French)": [
+      "recmttIanApamens9"
+    ],
+    "Glossary (Hindi)": [
+      "recmDEULv8Rd8sBdV"
+    ]
+  },
+  {
+    "id": "recsuWy4EfRZwvcmh",
+    "Term": "compassionate use",
+    "Definition": "According to the U.S. National Institutes of Health, compassionate use - also called 'expanded access' - is a way to provide an investigational therapy to a patient who is not eligible to receive that therapy in a clinical trial, but who has a serious or life-threatening illness for which other treatments are not available. Compassionate use allows patients to receive promising but not yet fully studied or approved cancer therapies when no other treatment option exists. Also called expanded access.\n",
+    "Status": "Published",
+    "Glossary (French)": [
+      "rec6vNnYlTtVahGRO"
+    ],
+    "Glossary (Hindi)": [
+      "recaUmxtxlfHbFPej"
+    ]
+  },
+  {
+    "id": "recZZhsMRrNyDPnjg",
+    "Term": "pre-exposure",
+    "Definition": "Pre-exposure refers to the period before a person is exposed to something, usually a disease or infection.\n",
+    "Status": "Published",
+    "Glossary (Hindi)": [
+      "rec1qyMZ5NV38uciw"
+    ]
+  },
+  {
+    "id": "reccE6W6JYLJi0i1n",
+    "Term": "post-exposure",
+    "Definition": "Post-exposure refers to the period of time after a person is exposed to something, usually a disease or infection.\n",
+    "Status": "Published",
+    "Glossary (Hindi)": [
+      "recj2FGcuZ524VRfM"
+    ]
+  },
+  {
+    "id": "recUOHoAQtR97mxFC",
+    "Term": "prophylaxis",
+    "Definition": "According to the U.S. National Institutes of Health, a prophylactic treatment can be described as drugs or other forms of treatment used to prevent the development of a disease in a person who is at risk for but with no prior history of the disease.\n",
+    "Status": "Published",
+    "Glossary (Hindi)": [
+      "rec5z9j8YD2A1t2ZQ"
+    ]
+  },
+  {
+    "id": "reco5k0tpirgGDeqb",
+    "Term": "antibiotics",
+    "Definition": "According to the U.S. Centers for Disease Control, antibiotics are medicines that fight infections caused by bacteria in humans and animals by either killing the bacteria or making it difficult for the bacteria to grow and multiply. Antibiotics don't kill viruses and should only be taken when they're needed and prescribed by a medical provider.\n\n",
+    "Questions using this term": [
+      "recu8V6IGjMveS5Ku"
+    ],
+    "Status": "Published",
+    "Glossary (French)": [
+      "recsvaoRxrcOJHRJi"
+    ],
+    "Glossary (Hindi)": [
+      "reczbKcCGvheX1NEG"
+    ]
+  },
+  {
+    "id": "recRGHDXxeEnXrS9t",
+    "Term": "co-infection",
+    "Definition": "According to the U.S. National Institutes of Health, a co-infection occurs when a person has two or more infections at the same time. For example, a person living with HIV may also have a hepatitis C virus (HCV) coinfection, a tuberculosis (TB) coinfection, or both.\n",
+    "Questions using this term": [
+      "recu8V6IGjMveS5Ku"
+    ],
+    "Status": "Published",
+    "Glossary (French)": [
+      "recEySy7KDfWe6LQd"
+    ],
+    "Glossary (Hindi)": [
+      "rec2L5948RtOdwUvt"
+    ]
+  },
+  {
+    "id": "recbQ95pvRq7nP9s3",
+    "Term": "genomic analysis",
+    "Definition": "According to the multidisciplinary science journal Nature, genomic analysis is the identification, measurement or comparison of genomic features such as DNA sequence, structural variation, gene expression, or regulatory and functional element annotation at a genomic scale. This type of analysis uses laboratory methods to look at a set of genes to better understand the origins, background, relationships, and functions of the DNA and RNA in a living organism.\n",
+    "Questions using this term": [
+      "recqFRWiE9Y6nbUM5"
+    ],
+    "Status": "Published",
+    "Glossary (French)": [
+      "recbMekD6UXPWJAi6"
+    ],
+    "Glossary (Hindi)": [
+      "recejGTgDAdePzb8w"
+    ]
+  },
+  {
+    "id": "recFSOdDjQBqJHnZ9",
+    "Term": "zoonotic transfer",
+    "Definition": "Zoonoses are infectious diseases that animals can transmit to humans, especially when they are in close contact with them. Like humans, all animals carry germs. According to the U.S. Centers for Disease Control, these germs can be spread between animals and humans through direct contact, indirect contact, vector-borne transmission (like a mosquito or tick), foodborne transmission, and waterborne transmission.\n\n",
+    "Questions using this term": [
+      "recqFRWiE9Y6nbUM5"
+    ],
+    "Status": "Published",
+    "Glossary (French)": [
+      "reccwo5NJI2cHb2Wl"
+    ],
+    "Glossary (Hindi)": [
+      "recoT0Suijyl09026"
+    ]
+  },
+  {
+    "id": "recx2PeCcs1Awb9rG",
+    "Term": "asymptomatic",
+    "Definition": "Asymptomatic infections occur when a person is infected with an illness but does not have symptoms during the duration of their infection.\n",
+    "Questions using this term": [
+      "recSK7NRoa33YUdrv",
+      "recBkQVlmOqcxKt8t",
+      "recQoylvV8fLvS6xm",
+      "recenUqXFNVYnafXz",
+      "recgfRiqVgG4lMH4w"
+    ],
+    "Status": "Published",
+    "Glossary (French)": [
+      "recdwSm7f3It0F5Eq"
+    ],
+    "Glossary (Hindi)": [
+      "recypAy3afHXH1Zu6"
+    ]
+  },
+  {
+    "id": "recbZcFUtsYMA9Vsh",
+    "Term": "pre-symptomatic",
+    "Definition": "Pre-symptomatic infections occur when a person is infected but does not yet display symptoms of an illness or disease. There can be a lag of a few days between the moment a person is infected and when they start experiencing symptoms. \n",
+    "Questions using this term": [
+      "recSK7NRoa33YUdrv",
+      "recQoylvV8fLvS6xm",
+      "recgfRiqVgG4lMH4w"
+    ],
+    "Status": "Published",
+    "Glossary (French)": [
+      "rec4IrZTOe3lpz98t"
+    ],
+    "Glossary (Hindi)": [
+      "recOeLKYm8ZH9Z07g",
+      "recweA2Zhre2qkTpA"
+    ]
+  },
+  {
+    "id": "recDalYrz2m23kS2e",
+    "Term": "influenza",
+    "Definition": "According to the U.S. Centers for Disease Control, seasonal influenza viruses are influenza A and B viruses that spread and cause illness in people during the time of year known as the “flu season.” Seasonal influenza viruses cause annual U.S. influenza epidemics during fall, winter, and spring, and circulate among people worldwide. Seasonal influenza A and B viruses are continually undergoing evolution in unpredictable ways.\n",
+    "Questions using this term": [
+      "recOiBtU1KHxAQAgq"
+    ],
+    "Status": "Published",
+    "Glossary (French)": [
+      "recN1KGOfbDmvsGiU"
+    ],
+    "Glossary (Hindi)": [
+      "recfzLZmTL7a03mVg"
+    ]
+  },
+  {
+    "id": "recUx8LCQGkRdxG3B",
+    "Term": "BCG vaccine",
+    "Definition": "According to the U.S. National Institutes of Health, the bacille Calmette-Guerine (BCG) vaccine is a vaccine used to prevent tuberculosis (TB) in people who are at a high risk of TB or where TB is common.\n",
+    "Questions using this term": [
+      "recCC7GhsX2CKZJbs"
+    ],
+    "Status": "Published",
+    "Glossary (French)": [
+      "recF5ZskHxC3iLoRg"
+    ],
+    "Glossary (Hindi)": [
+      "reclJ0qg45eaAKc5Y"
+    ]
+  },
+  {
+    "id": "rec9SYUCp1ULDd0UL",
+    "Term": "tuberculosis",
+    "Definition": "According to the World Health Organization, tuberculosis (TB) is caused by bacteria (Mycobacterium tuberculosis) that most often affect the lungs. Tuberculosis is curable and preventable. TB is spread from person to person through the air. When people with lung TB cough, sneeze or spit, they propel the TB germs into the air. A person needs to inhale only a few of these germs to become infected.\nAbout one-quarter of the world's population has latent TB, which means people have been infected by TB bacteria but are not (yet) ill with the disease and cannot transmit the disease.\nPeople infected with TB bacteria have a 5–15% lifetime risk of falling ill with TB. Persons with compromised immune systems, such as people living with HIV, malnutrition or diabetes, or people who use tobacco, have a higher risk of falling ill.\nWhen a person develops active TB disease, the symptoms (such as cough, fever, night sweats, or weight loss) may be mild for many months. This can lead to delays in seeking care, and results in transmission of the bacteria to others. People with active TB can infect 5–15 other people through close contact over the course of a year.\n",
+    "Questions using this term": [
+      "recCC7GhsX2CKZJbs"
+    ],
+    "Status": "Published",
+    "Glossary (French)": [
+      "rec6TkHKY7sNXMmZV"
+    ],
+    "Glossary (Hindi)": [
+      "recAYEKHJopH7eLnK"
+    ]
+  },
+  {
+    "id": "recM4p8QOERmuESKr",
+    "Term": "clinical trial",
+    "Definition": "According to the U.S. National Institutes of Health, clinical trials are research studies performed in people that are aimed at evaluating a medical, surgical, or behavioral intervention. They are the primary way that researchers find out if a new treatment, like a new drug or diet or medical device (for example, a pacemaker) is safe and effective in people. Often, a clinical trial is used to learn if a new treatment is more effective and/or has less harmful [side effects][1] than the standard treatment. Clinical trials require testing the health intervention in groups of volunteers which include, depending on the trials, healthy individuals and/or patients with a known health issue.\nOther clinical trials test ways to find a disease early, sometimes before there are symptoms. Still, others test ways to prevent a health problem. A clinical trial may also look at how to make life better for people living with a life-threatening disease or a chronic health problem. \nBefore the [U.S. Food and Drug Administration][2] (FDA) approves a clinical trial to begin, scientists perform laboratory tests and studies in animals to test a potential therapy’s safety and efficacy. If these studies show favorable results, the FDA gives approval for the intervention to be tested in humans.\n\n  [1]: https://www.nia.nih.gov/health/safe-use-medicines-older-adults\n  [2]: https://www.fda.gov/\n",
+    "Questions using this term": [
+      "rechQWZ1ctlJ81Vxn"
+    ],
+    "Status": "Published",
+    "Glossary (French)": [
+      "recvR7KM6VedZfxmX"
+    ],
+    "Glossary (Hindi)": [
+      "recMXimhUEB5WZmaB",
+      "reccaQvb4UuRQ1Cs0"
+    ]
+  },
+  {
+    "id": "recjOgLIjiAbiBH5F",
+    "Term": "ultraviolet (UV)",
+    "Definition": "According to the U.S. Centers for Disease Control, ultraviolet (UV) rays are a part of sunlight that is an invisible form of radiation. UV rays can penetrate and change the structure of skin cells. There are three types of UV rays: ultraviolet A (UVA), ultraviolet B (UVB), and ultraviolet C (UVC). UVA is the most abundant source of solar radiation at the earth’s surface and penetrates beyond the top layer of human skin. Scientists believe that UVA radiation can cause damage to connective tissue and increase a person’s risk for developing skin cancer. UVB rays penetrate less deeply into skin, but can still cause some forms of skin cancer. Natural UVC rays do not pose a risk to workers because they are absorbed by the Earth’s atmosphere.\n",
+    "Questions using this term": [
+      "recrNXw7eBw8czwGW"
+    ],
+    "Status": "Published",
+    "Glossary (French)": [
+      "reczZiLfjgDKGWXZp"
+    ],
+    "Glossary (Hindi)": [
+      "recgefUCGHLZs8agE"
+    ]
+  },
+  {
+    "id": "rec2UNEXbTkSCx30Q",
     "Term": "transmission",
     "Definition": "According to the U.S. Centers for Disease Control, transmission refers to the way germs are moved towards a non-infected person. Germs don’t move themselves. Germs depend on people, the environment, and/or medical equipment (in healthcare settings) to move. \n",
     "Questions using this term": [
-      "recav9NCViEXHlnaN",
-      "recqu9i2wqHRYy6SV",
-      "recd4YTYRBDOO6fUh",
-      "rec3xdNEPpcDOYSH1",
-      "recItn2V20XULiRPC",
-      "rec0GpxTfWHNUggrq",
-      "reciIrklECaxvbmeL",
-      "recWe5xofijAfc9e4",
-      "recpI4G5njsuQuEX2",
-      "recJzFxkZ7Rooa4fb",
-      "recOOEXG8rwQDSsUv",
-      "rec22CpBeVD7sQe10"
+      "recllQqVLGnigxKql",
+      "recBkQVlmOqcxKt8t",
+      "recoUFwhHZm9niCaP",
+      "recenUqXFNVYnafXz",
+      "recTj4FeSoGfkue5a",
+      "recbw6ac5kq8tsDHY",
+      "recty8XEu0TS4nJuj",
+      "rec74MaH5G2VOowuC",
+      "recAyLjodHbPpG1dA",
+      "recUpmaDPvAJXmrvJ",
+      "recZElAZYPfbc4Pa3",
+      "recdSj2U4jms12Bhy"
     ],
     "Status": "Published",
     "Assigned to": [
@@ -41,1219 +338,64 @@
       }
     ],
     "Glossary (French)": [
-      "recmNsAwvniBzrfcu"
+      "recxD9dPlL1W8DCs2"
     ],
     "Glossary (Hindi)": [
-      "recd2CH0Szabk8K7i"
+      "recoSjkjIXTwTk7nQ"
     ]
   },
   {
-    "id": "rec8Yz8ptURQJpkP7",
-    "Term": "ultraviolet (UV)",
-    "Definition": "According to the U.S. Centers for Disease Control, ultraviolet (UV) rays are a part of sunlight that is an invisible form of radiation. UV rays can penetrate and change the structure of skin cells. There are three types of UV rays: ultraviolet A (UVA), ultraviolet B (UVB), and ultraviolet C (UVC). UVA is the most abundant source of solar radiation at the earth’s surface and penetrates beyond the top layer of human skin. Scientists believe that UVA radiation can cause damage to connective tissue and increase a person’s risk for developing skin cancer. UVB rays penetrate less deeply into skin, but can still cause some forms of skin cancer. Natural UVC rays do not pose a risk to workers because they are absorbed by the Earth’s atmosphere.\n",
-    "Questions using this term": [
-      "recgXgTOodNNDn9qo"
-    ],
-    "Status": "Published",
-    "Glossary (French)": [
-      "reco9B8WtSUp7KAJR"
-    ],
-    "Glossary (Hindi)": [
-      "rec5oyhjQj2ETWN06"
-    ]
-  },
-  {
-    "id": "recDWdj87GWHETG24",
-    "Term": "antioxidant",
-    "Definition": "According to the U.S. National Institutes of Health, antioxidants are man-made or natural substances that may prevent or delay some types of cell damage. Diets high in vegetables and fruits, which are good sources of antioxidants, have been found to be healthy; however, research has not shown antioxidant supplements to be beneficial in preventing diseases. Examples of antioxidants include vitamins C and E, selenium, and carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin. \n",
-    "Questions using this term": [
-      "recF9o3fkCkTfuOSN"
-    ],
-    "Status": "Published",
-    "Glossary (French)": [
-      "recrW44qlQlroqVoR"
-    ],
-    "Glossary (Hindi)": [
-      "recGpTpuQ6awsKwL8"
-    ]
-  },
-  {
-    "id": "recBeIvxYg81VsvuT",
-    "Term": "clinical trial",
-    "Definition": "According to the U.S. National Institutes of Health, clinical trials are research studies performed in people that are aimed at evaluating a medical, surgical, or behavioral intervention. They are the primary way that researchers find out if a new treatment, like a new drug or diet or medical device (for example, a pacemaker) is safe and effective in people. Often, a clinical trial is used to learn if a new treatment is more effective and/or has less harmful [side effects][1] than the standard treatment. Clinical trials require testing the health intervention in groups of volunteers which include, depending on the trials, healthy individuals and/or patients with a known health issue.\nOther clinical trials test ways to find a disease early, sometimes before there are symptoms. Still, others test ways to prevent a health problem. A clinical trial may also look at how to make life better for people living with a life-threatening disease or a chronic health problem. \nBefore the [U.S. Food and Drug Administration][2] (FDA) approves a clinical trial to begin, scientists perform laboratory tests and studies in animals to test a potential therapy’s safety and efficacy. If these studies show favorable results, the FDA gives approval for the intervention to be tested in humans.\n\n  [1]: https://www.nia.nih.gov/health/safe-use-medicines-older-adults\n  [2]: https://www.fda.gov/\n",
-    "Questions using this term": [
-      "rec60fmIm5CozPyhP"
-    ],
-    "Status": "Published",
-    "Glossary (French)": [
-      "reck1q7tgxvSq3a6p"
-    ],
-    "Glossary (Hindi)": [
-      "recB7BJY4gSKnNZU3",
-      "rec1k9SSewLwhPfcs"
-    ]
-  },
-  {
-    "id": "recps2lD29UK6Pojt",
-    "Term": "adverse event",
-    "Definition": "An adverse event (also referred to as an adverse experience) can be any unfavorable and unintended sign (e.g., an abnormal laboratory finding), symptom, or disease temporarily associated with the use of a medication, without any judgment about causality or relationship to the medication. \n",
-    "Questions using this term": [
-      "rec60fmIm5CozPyhP"
-    ],
-    "Status": "Published",
-    "Glossary (French)": [
-      "recpF1lDsgJ5ndrT6"
-    ]
-  },
-  {
-    "id": "recybvvk0sclNLSje",
-    "Term": "autoimmune disease",
-    "Definition": "According to the National Institutes of Health, \"Autoimmune diseases refer to problems with the immune system, which usually fights off viruses, bacteria, and infection. The problem causes your immune cells to attack your body by mistake. These diseases can affect almost any part of the body.\"\n",
-    "Questions using this term": [
-      "rec60fmIm5CozPyhP"
-    ]
-  },
-  {
-    "id": "rec8S4KVHOTwMmesD",
-    "Term": "randomized controlled trials",
-    "Definition": "A randomized controlled trial (RCT) is a type of scientific experiment that aims to reduce certain sources of bias when testing the effectiveness of new treatments. In these studies, people are randomly (by chance alone) assigned to a group to receive an intervention. One group—the experimental group—receives the intervention being assessed, while the other—usually called the control group—has an alternative intervention, such as the standard medical treatment, a placebo (\"sugar pill\") or no intervention at all. The groups are followed under conditions of the trial design and outcomes are compared to see how effective the experimental intervention was in comparison to the control.\n",
-    "Questions using this term": [
-      "rec60fmIm5CozPyhP"
-    ],
-    "Glossary (French)": [
-      "rec7nmWJHDLDPcJhS"
-    ]
-  },
-  {
-    "id": "rec00ss6FtHMODMcv",
-    "Term": "genomic analysis",
-    "Definition": "According to the multidisciplinary science journal Nature, genomic analysis is the identification, measurement or comparison of genomic features such as DNA sequence, structural variation, gene expression, or regulatory and functional element annotation at a genomic scale. This type of analysis uses laboratory methods to look at a set of genes to better understand the origins, background, relationships, and functions of the DNA and RNA in a living organism.\n",
-    "Questions using this term": [
-      "recfPajZOLfLOZxwx"
-    ],
-    "Status": "Published",
-    "Glossary (French)": [
-      "rec0WxHkgweunxd2y"
-    ],
-    "Glossary (Hindi)": [
-      "rec3tZgXNcuTgnOSY"
-    ]
-  },
-  {
-    "id": "recu27AktsS5av0JB",
-    "Term": "zoonotic transfer",
-    "Definition": "Zoonoses are infectious diseases that animals can transmit to humans, especially when they are in close contact with them. Like humans, all animals carry germs. According to the U.S. Centers for Disease Control, these germs can be spread between animals and humans through direct contact, indirect contact, vector-borne transmission (like a mosquito or tick), foodborne transmission, and waterborne transmission.\n\n",
-    "Questions using this term": [
-      "recfPajZOLfLOZxwx"
-    ],
-    "Status": "Published",
-    "Glossary (French)": [
-      "rec1GHsuTkjR8ZFGN"
-    ],
-    "Glossary (Hindi)": [
-      "recd3jfbsVP0rXDMy"
-    ]
-  },
-  {
-    "id": "reccPdkfSBPNsFWLa",
-    "Term": "virus",
-    "Definition": "According to the U.S. Centers for Diseases Control, a virus is a tiny organism that multiplies within cells and causes disease such as chickenpox, measles, mumps, rubella, pertussis and hepatitis. Viruses are not affected by antibiotics, the drugs used to kill bacteria. Viruses are smaller in size than bacteria and require living cells or tissues in order to grow and reproduce. \n",
-    "Questions using this term": [
-      "recjietpQV3aFGIuW",
-      "recQUOBiehWzAOhaW",
-      "recWkPIPOPncENl2X"
-    ],
-    "Status": "Published",
-    "Glossary (French)": [
-      "recGnWKNfwtmOoJNR"
-    ],
-    "Glossary (Hindi)": [
-      "recY5pCEkUlT887pI"
-    ]
-  },
-  {
-    "id": "recpPNWdV1Gy2rlzG",
-    "Term": "bacteria",
-    "Definition": "According to the U.S. Centers for Disease Control, bacteria are germs. They live in the environment and all over the inside and outside of our bodies. Most bacteria are harmless and even helpful to people, but some can cause infections, like strep throat. These microscopic organisms are made up of one single cell, and can survive in many different types of environments, not just living things. Antibiotic medications can be used to kill bacteria.\n",
-    "Questions using this term": [
-      "recjietpQV3aFGIuW",
-      "recQyS5BNIyw6nXIY"
-    ],
-    "Status": "Published",
-    "Glossary (French)": [
-      "reccaEgKJRVWmjLoQ"
-    ],
-    "Glossary (Hindi)": [
-      "recww5XnBWD4DkKT4"
-    ]
-  },
-  {
-    "id": "rec63R2DjaW8iKUSQ",
-    "Term": "secondary infection",
-    "Definition": "A secondary infection is an infection that takes place either during or following the treatment of an existing infection. Some of the causes of a secondary infection might include changes in the immune system of a person resulting from the first infection, or if the treatment for the first infection led to the secondary infection.\n",
-    "Questions using this term": [
-      "recjietpQV3aFGIuW"
-    ],
-    "Status": "Published",
-    "Glossary (French)": [
-      "recvuuV9FNqpgMVNO"
-    ],
-    "Glossary (Hindi)": [
-      "receFfDoEyBzxL9vY"
-    ]
-  },
-  {
-    "id": "recdfDnazUIV7rRaD",
-    "Term": "antibiotics",
-    "Definition": "According to the U.S. Centers for Disease Control, antibiotics are medicines that fight infections caused by bacteria in humans and animals by either killing the bacteria or making it difficult for the bacteria to grow and multiply. Antibiotics don't kill viruses and should only be taken when they're needed and prescribed by a medical provider.\n\n",
-    "Questions using this term": [
-      "recjietpQV3aFGIuW"
-    ],
-    "Status": "Published",
-    "Glossary (French)": [
-      "rechFtLyH3ttavutK"
-    ],
-    "Glossary (Hindi)": [
-      "recol3zjQ7yToPqo8"
-    ]
-  },
-  {
-    "id": "recGQ00EHQV2ofvTV",
-    "Term": "co-infection",
-    "Definition": "According to the U.S. National Institutes of Health, a co-infection occurs when a person has two or more infections at the same time. For example, a person living with HIV may also have a hepatitis C virus (HCV) coinfection, a tuberculosis (TB) coinfection, or both.\n",
-    "Questions using this term": [
-      "recjietpQV3aFGIuW"
-    ],
-    "Status": "Published",
-    "Glossary (French)": [
-      "rectIbVOUfwBFUoAF"
-    ],
-    "Glossary (Hindi)": [
-      "recRVowLitKtEkxfV"
-    ]
-  },
-  {
-    "id": "recJHr8j0iBwEljN3",
-    "Term": "BCG vaccine",
-    "Definition": "According to the U.S. National Institutes of Health, the bacille Calmette-Guerine (BCG) vaccine is a vaccine used to prevent tuberculosis (TB) in people who are at a high risk of TB or where TB is common.\n",
-    "Questions using this term": [
-      "recrMq3YCzjhbNmVU"
-    ],
-    "Status": "Published",
-    "Glossary (French)": [
-      "recufiP1R9TIJz1BI"
-    ],
-    "Glossary (Hindi)": [
-      "recaTjNXeHvP1yPPq"
-    ]
-  },
-  {
-    "id": "recY2hhjzDbq41DEd",
-    "Term": "tuberculosis",
-    "Definition": "According to the World Health Organization, tuberculosis (TB) is caused by bacteria (Mycobacterium tuberculosis) that most often affect the lungs. Tuberculosis is curable and preventable. TB is spread from person to person through the air. When people with lung TB cough, sneeze or spit, they propel the TB germs into the air. A person needs to inhale only a few of these germs to become infected.\nAbout one-quarter of the world's population has latent TB, which means people have been infected by TB bacteria but are not (yet) ill with the disease and cannot transmit the disease.\nPeople infected with TB bacteria have a 5–15% lifetime risk of falling ill with TB. Persons with compromised immune systems, such as people living with HIV, malnutrition or diabetes, or people who use tobacco, have a higher risk of falling ill.\nWhen a person develops active TB disease, the symptoms (such as cough, fever, night sweats, or weight loss) may be mild for many months. This can lead to delays in seeking care, and results in transmission of the bacteria to others. People with active TB can infect 5–15 other people through close contact over the course of a year.\n",
-    "Questions using this term": [
-      "recrMq3YCzjhbNmVU"
-    ],
-    "Status": "Published",
-    "Glossary (French)": [
-      "recV3D4r8JJsoAZJn"
-    ],
-    "Glossary (Hindi)": [
-      "recp8X7oT0Gmy2o7c"
-    ]
-  },
-  {
-    "id": "rec09v2BD4fr1XycJ",
-    "Term": "pre-symptomatic",
-    "Definition": "Pre-symptomatic infections occur when a person is infected but does not yet display symptoms of an illness or disease. There can be a lag of a few days between the moment a person is infected and when they start experiencing symptoms. \n",
-    "Questions using this term": [
-      "recHUqayyMkIpIQbX",
-      "recFyRIc5KwqWGJhO",
-      "rec5paF75SXJMAkOY"
-    ],
-    "Status": "Published",
-    "Glossary (French)": [
-      "recTSKmAYQk0QnMSV"
-    ],
-    "Glossary (Hindi)": [
-      "recDo47FwKgmANDRI",
-      "recloTpGr3vHR8w92"
-    ]
-  },
-  {
-    "id": "recJK6vjhFIZVDzHB",
+    "id": "recUAN8C73rkuPWX9",
     "Term": "sterile",
     "Definition": "According to the U.S. Centers for Disease Control, when something is sterile it is in a state of being free from all living microorganisms. This means that a sterile object is totally clean and free from bacteria and living germs.\n",
     "Questions using this term": [
-      "recggsiSAMyxfH7Nq"
+      "recr69VbqahSOTu3Y"
     ],
     "Status": "Published",
     "Glossary (French)": [
-      "recnczqo9etZ0f5uZ"
+      "recy2g3HZCckzrsKx"
     ],
     "Glossary (Hindi)": [
-      "reckv2vPIrobPl2tn"
+      "recvlJ88yP7woxpJV"
     ]
   },
   {
-    "id": "recSjPJOW61GtZwsv",
+    "id": "recOMUWrX4F2d53iC",
+    "Term": "antioxidant",
+    "Definition": "According to the U.S. National Institutes of Health, antioxidants are man-made or natural substances that may prevent or delay some types of cell damage. Diets high in vegetables and fruits, which are good sources of antioxidants, have been found to be healthy; however, research has not shown antioxidant supplements to be beneficial in preventing diseases. Examples of antioxidants include vitamins C and E, selenium, and carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin. \n",
+    "Questions using this term": [
+      "recQZ5Gya03eOGb8l"
+    ],
+    "Status": "Published",
+    "Glossary (French)": [
+      "recCMLHJbe4MXCiEp"
+    ],
+    "Glossary (Hindi)": [
+      "recRfA2NGuTR1WT1G"
+    ]
+  },
+  {
+    "id": "recAiJYWSxD5F1Lz1",
+    "Term": "adverse event",
+    "Definition": "An adverse event (also referred to as an adverse experience) can be any unfavorable and unintended sign (e.g., an abnormal laboratory finding), symptom, or disease temporarily associated with the use of a medication, without any judgment about causality or relationship to the medication. \n",
+    "Questions using this term": [
+      "rechQWZ1ctlJ81Vxn"
+    ],
+    "Status": "Published",
+    "Glossary (French)": [
+      "recAvIYWiEsqWpO9E"
+    ]
+  },
+  {
+    "id": "rec39wm7MuK12bTI3",
     "Term": "germs",
     "Definition": "According to the U.S. Centers for Disease Control, germs are microorganisms and a part of everyday life. They can be found in our air, soil, water, and in and on our bodies. Some germs are helpful, others are harmful. Many germs live in and on our bodies without causing harm and some even help us to stay healthy. Only a small portion of germs are known to cause infection. Germs are also known as infectious agents and refer to a virus, bacteria, or other microbe.\n",
     "Questions using this term": [
-      "recggsiSAMyxfH7Nq"
+      "recr69VbqahSOTu3Y"
     ],
     "Status": "Published",
     "Glossary (French)": [
-      "recwazOQfqNTnEE7I"
-    ]
-  },
-  {
-    "id": "recUIOFZ270ZV3BfW",
-    "Term": "respiratory droplets",
-    "Definition": "Respiratory droplets are small drops of a liquid, usually water, that are produced from humans sneezing, coughing, talking, breathing, singing, yawning, or even just breathing, that fall to the ground and surfaces over several minutes and travel over a short range: up to 2 feet (60 cm). These droplets contain tiny parts of a virus (particles), so they can spread illnesses between people when someone touches a surface that a respiratory droplet has landed on and then touches their eyes, mouth, or nose or other body part. Unlike aerosolized pathogens, respiratory droplets are larger in size at over 5-10μm (hence being referred to also as 'large droplets'), don't travel as far, and don't remain in the air for long periods of time. Most respiratory illnesses are spread by respiratory droplets. \n\n",
-    "Questions using this term": [
-      "recggsiSAMyxfH7Nq",
-      "recoHi2uxwWxCdqhH",
-      "rectgrCyIfVDps7sT",
-      "rec3xdNEPpcDOYSH1",
-      "recm6SwFS5Pd6irPU",
-      "recgBtIpOzg0Lu3Xx"
-    ],
-    "Status": "Published",
-    "Glossary (French)": [
-      "recwPKUud2VCRKwnC"
-    ],
-    "Glossary (Hindi)": [
-      "recjw42yxEif45dPh"
-    ]
-  },
-  {
-    "id": "recBYToZ4gCFPDFFK",
-    "Term": "infectious",
-    "Definition": "When something is infectious, it means that an organism that causes disease is able to be passed from a person, plant, or animal to another. In terms of **infectious diseases**, the World Health Organization says these are \"caused by pathogenic microorganisms, such as bacteria, viruses, parasites or fungi; the diseases can be spread, directly or indirectly, from one person to another.\"\n",
-    "Questions using this term": [
-      "rectgrCyIfVDps7sT",
-      "recj1USp4RARa3hyp"
-    ],
-    "Status": "In Progress",
-    "Glossary (Hindi)": [
-      "recbwyjekdPRA1Sn0"
-    ]
-  },
-  {
-    "id": "recG7hRBd5J8HUhys",
-    "Term": "ventilation systems",
-    "Definition": "Ventilation systems are the ways that air flows from the outside through the inside of buildings like open doors and windows or heating, ventilation, and air conditioning (HVAC) systems. \n",
-    "Questions using this term": [
-      "rectgrCyIfVDps7sT"
-    ],
-    "Glossary (Hindi)": [
-      "recdCEWz43j8glEa6"
-    ]
-  },
-  {
-    "id": "recHpqAtBoMIMRwWN",
-    "Term": "viable",
-    "Definition": "When something is able to live or develop under favorable conditions.\n",
-    "Questions using this term": [
-      "rectgrCyIfVDps7sT"
-    ],
-    "Status": "In Progress",
-    "Glossary (Hindi)": [
-      "rec8HDYSb2ts0Z17G"
-    ]
-  },
-  {
-    "id": "rec4H6ByNxysbATxG",
-    "Term": "indirect (non-contact) transmission",
-    "Definition": "Indirect transmission occurs when there is no direct human-to-human contact but a pathogen is still capable of being spread (transmitted)from one person, animal, or plant to another. An example of indirect transmission is when respiratory droplets from the cough or sneeze of an infected person fall onto a surface that another person touches. When the other person then touches their own mouth or nose, they have potentially exposed themselves to this pathogen and become infected as well. \n",
-    "Questions using this term": [
-      "rectgrCyIfVDps7sT"
-    ],
-    "Glossary (Hindi)": [
-      "recn6Nq7olofrRZnP"
-    ]
-  },
-  {
-    "id": "rec6gMcyaT2i1Rmrv",
-    "Term": "aerosol/airborne transmission",
-    "Definition": "Aerosol transmission or airborne transmission occurs when tiny drops of a germ or infectious agent (droplet nuclei, or evaporated residues from droplets expelled by an infected person) that can cause a disease (pathogen) stay in the air for some time after someone coughs, sneezes, talks, vomits, sings, laughs, or exhales and these drops become a fine mist (aerosolized). These small particles, known as aerosols, can travel sizable distances even though they may not be visible to the human eye. Airborne transmission can also sometimes occur from dust particles carrying the virus.\n\nWhen another person comes into contact with contaminated aerosolized mist, they become exposed to the pathogen hanging in the air as well. Unlike respiratory droplets, aerosolized pathogens are mostly dry, light, very small (under 5μm); these smaller particles can stay suspended in the air for longer and be dispersed farther by air currents, traveling short and long distances as they remain in the air. Some medical and cleaning procedures can also cause aerosol transmission of a pathogen like flushing toilets or putting a tube into a patient's throat to help them breathe.\n",
-    "Questions using this term": [
-      "rectgrCyIfVDps7sT",
-      "recm6SwFS5Pd6irPU",
-      "recpF2RRmDaEvXp3d"
-    ],
-    "Status": "In Progress",
-    "Glossary (French)": [
-      "rec5CAIa6NEvwXdQM"
-    ],
-    "Glossary (Hindi)": [
-      "recvFdhdqJeRt5jet"
-    ]
-  },
-  {
-    "id": "recB945DUelK8AyUQ",
-    "Term": "prevention",
-    "Definition": "Prevention activities can typically be categorized into three areas, according to the U.S. Centers for Disease Control. 1. Primary Prevention—interventions such as vaccinations or altering risky behaviors (poor eating habits, tobacco use) to prevent disease before it occurs. 2. Secondary Prevention—screening (i.e. mammography or regular blood pressure testing) to identify diseases in the earliest stages, before the onset of signs and symptoms. 3. Tertiary Prevention—interventions to manage the disease post diagnosis (i.e. chemotherapy, rehabilitation) in order to slow or stop disease progression and further complications.\n",
-    "Questions using this term": [
-      "recObNVY865ekSP81"
-    ],
-    "Glossary (Hindi)": [
-      "recI1RoPEyNCEowyx"
-    ]
-  },
-  {
-    "id": "rec8QN41FiLYcAWFz",
-    "Term": "disinfectant",
-    "Definition": "According to the U.S. Centers for Disease Control, a disinfectant is a chemical that destroys most germs by physical or chemical means. A disinfectant kills germs on a particular surface, which lowers the risk of spreading infection. \n",
-    "Questions using this term": [
-      "recObNVY865ekSP81",
-      "rec769nL0HNRjtEJT"
-    ],
-    "Glossary (Hindi)": [
-      "recigCA0arEXfZhEH"
-    ]
-  },
-  {
-    "id": "recnOWi8KiIX6dUA9",
-    "Term": "pool",
-    "Definition": "A pool - often called a swimming pool - is a hole in the ground or structure that containts water in which people can swim.\n",
-    "Questions using this term": [
-      "recoHi2uxwWxCdqhH"
-    ],
-    "Status": "In Progress"
-  },
-  {
-    "id": "recTmKcYgq7a3bTcM",
-    "Term": "disinfection",
-    "Definition": "Disinfection is a process that kills germs and other tiny disease-carrying organisms (called 'microorganisms'), usually on hard surfaces, which stops them from spreading. Disinfection usually happens after using heat, radiation, or chemicals are applied to a surface that destroys bacteria and other harmful microorganisms (except spores). \n",
-    "Questions using this term": [
-      "recoHi2uxwWxCdqhH"
-    ]
-  },
-  {
-    "id": "recXzHuTTzM5LYtI3",
-    "Term": "community transmission",
-    "Definition": "According to the Centers for Disease Control, \"Community spread means spread of an illness for which the source of infection is unknown. It’s also possible, however, that the patient may have been exposed to a returned traveler who was infected.\" This type of transmissions also means that a person who was infected through community transmission did so without going to the geographical source or region of the outbreak or through close contact with another person, and instead became infected within their community at large but through an unknown source.\n\n\n",
-    "Questions using this term": [
-      "recHUqayyMkIpIQbX",
-      "recoHi2uxwWxCdqhH"
-    ]
-  },
-  {
-    "id": "recmc8Bjm4ifXZMb8",
-    "Term": "asymptomatic",
-    "Definition": "Asymptomatic infections occur when a person is infected with an illness but does not have symptoms during the duration of their infection.\n",
-    "Questions using this term": [
-      "recHUqayyMkIpIQbX",
-      "recqu9i2wqHRYy6SV",
-      "recFyRIc5KwqWGJhO",
-      "rec3xdNEPpcDOYSH1",
-      "rec5paF75SXJMAkOY"
-    ],
-    "Status": "Published",
-    "Glossary (French)": [
-      "rec2GbJOpFZ8rtIoS"
-    ],
-    "Glossary (Hindi)": [
-      "recnzTVKkRYC8PCey"
-    ]
-  },
-  {
-    "id": "recthQJ47SKVzNN7p",
-    "Term": "incubation period",
-    "Definition": "According to the World Health Organization, the incubation period is the time between exposure to the virus (becoming infected) and symptom onset.\n",
-    "Questions using this term": [
-      "recHUqayyMkIpIQbX"
-    ],
-    "Status": "Published",
-    "Glossary (French)": [
-      "recUXOFf1DspMwyDC"
-    ],
-    "Glossary (Hindi)": [
-      "recNU0SzFpQoeHiRR"
-    ]
-  },
-  {
-    "id": "recye9vIcu5SPPqqe",
-    "Term": "contagious",
-    "Definition": "According to the U.S. National Institutes of Health, a contagious disease is a communicable disease that can spread rapidly from person to person through direct contact (touching a person who has the infection), indirect contact (touching a contaminated object), or droplet contact (inhaling droplets made when a person who has the infection coughs, sneezes, or talks).\n",
-    "Questions using this term": [
-      "recHUqayyMkIpIQbX"
-    ],
-    "Status": "Published",
-    "Glossary (French)": [
-      "recbDM5RxcGPN20cB"
-    ],
-    "Glossary (Hindi)": [
-      "recbNXhsFK8SzgeXn"
-    ]
-  },
-  {
-    "id": "recmbstN5nHZ9pMvL",
-    "Term": "pre-symptomatic (copy)",
-    "Definition": "Pre-symptomatic infections occur when a person is infected with an illness but has not experienced any symptoms yet.\n\n",
-    "Status": "Completed/Ready for Review",
-    "Glossary (Hindi)": [
-      "recDo47FwKgmANDRI"
-    ]
-  },
-  {
-    "id": "rechEfVLOR8EXjP6J",
-    "Term": "compassionate use",
-    "Definition": "According to the U.S. National Institutes of Health, compassionate use - also called 'expanded access' - is a way to provide an investigational therapy to a patient who is not eligible to receive that therapy in a clinical trial, but who has a serious or life-threatening illness for which other treatments are not available. Compassionate use allows patients to receive promising but not yet fully studied or approved cancer therapies when no other treatment option exists. Also called expanded access.\n",
-    "Status": "Published",
-    "Glossary (French)": [
-      "recVF6KFvvKAB5jBg"
-    ],
-    "Glossary (Hindi)": [
-      "recZ4FUaHXwmCtsYL"
-    ]
-  },
-  {
-    "id": "recS7FKbqq3TYEVA2",
-    "Term": "experimental treatment",
-    "Definition": "\n"
-  },
-  {
-    "id": "recO9APt134d4D03I",
-    "Term": "pre-exposure",
-    "Definition": "Pre-exposure refers to the period before a person is exposed to something, usually a disease or infection.\n",
-    "Status": "Published",
-    "Glossary (Hindi)": [
-      "recQAR9GfpcIziP2Y"
-    ]
-  },
-  {
-    "id": "rec1OpjNTA2oJOVLP",
-    "Term": "post-exposure",
-    "Definition": "Post-exposure refers to the period of time after a person is exposed to something, usually a disease or infection.\n",
-    "Status": "Published",
-    "Glossary (Hindi)": [
-      "rec8cY3TEBmHvJuZe"
-    ]
-  },
-  {
-    "id": "recJY0Lh058Oyaap4",
-    "Term": "prophylaxis",
-    "Definition": "According to the U.S. National Institutes of Health, a prophylactic treatment can be described as drugs or other forms of treatment used to prevent the development of a disease in a person who is at risk for but with no prior history of the disease.\n",
-    "Status": "Published",
-    "Glossary (Hindi)": [
-      "recUJsGP8fjfshFJi"
-    ]
-  },
-  {
-    "id": "recDVexhiAK36R1Zf",
-    "Term": "medicine",
-    "Glossary (Hindi)": [
-      "recLFDS71LAcbiv7F"
-    ]
-  },
-  {
-    "id": "recGyzrmAKpPZ3JMg",
-    "Term": "treatment",
-    "Glossary (Hindi)": [
-      "rec2ItNHy3W1gDFbn"
-    ]
-  },
-  {
-    "id": "recKp7Dc3KdAQxTZ2",
-    "Term": "bacterial infection",
-    "Glossary (Hindi)": [
-      "recKdWh1njnBsVr0N"
-    ]
-  },
-  {
-    "id": "recYAJ5aGuaYRRhUG",
-    "Term": "vaccine",
-    "Definition": "A vaccine is a product made help the body to recognize and fight viruses or bacteria and may be made of killed, treated, or live microorganisms.  According to the World Health Organization, \"vaccination is one of the most effective ways to prevent diseases,\" and, currently, vaccines help protect against 25 different diseases though there is no vaccine for Covid-19 at this time.\n",
-    "Questions using this term": [
-      "rec7RJS5cXudXatbi",
-      "recCr6FQ8o0XEI1Rc",
-      "recZ20b9Ye6t9zEV7",
-      "recbd2wlIb3iSWg21"
-    ],
-    "Assigned to": [
-      {
-        "id": "usroPZ4yKxHAs6odJ",
-        "email": "elarose@hsph.harvard.edu",
-        "name": "Emily LaRose"
-      }
-    ],
-    "Glossary (Hindi)": [
-      "rec1jYh7EuBouly4P"
-    ]
-  },
-  {
-    "id": "recG2DEG1wWBtz8lB",
-    "Term": "weather",
-    "Glossary (Hindi)": [
-      "rectRJhh0UokJtOWS"
-    ]
-  },
-  {
-    "id": "recTqSrBS9t8cebTw",
-    "Term": "hypothesis",
-    "Glossary (Hindi)": [
-      "recR2UQdcbjhaZEFa"
-    ]
-  },
-  {
-    "id": "receNbqM8HMfVEKyC",
-    "Term": "side effects",
-    "Definition": "\n"
-  },
-  {
-    "id": "reclrbnpC6JuweixE",
-    "Term": "randomized controlled trial"
-  },
-  {
-    "id": "recyUoQpjnxh7tukm",
-    "Term": "placebo",
-    "Definition": "According to the U.S. National Institutes of Health (NIH), \"Placebos are harmless, inactive substances made to look like the real medicine used in the clinical trial. Placebos allow the investigators to learn whether the medicine being given works better or no better than ordinary treatment.\" \nThe NIH explains further: \"The “gold standard” for testing interventions in people is the “randomized, placebo-controlled” clinical trial. That means volunteers are randomly assigned—that is, selected by chance—to either a test group receiving the experimental intervention or a control group receiving a placebo or standard care. \nComparing results from the two groups suggests whether changes in the test group result from the treatment or occur by chance. In many trials, no one—not even the research team—knows who gets the treatment, the placebo, or another intervention. When participants, family members, and staff all are “blind” to the treatment while the study is underway, the study is called a “double-blind, placebo-controlled” clinical trial.\"\n\n",
-    "Glossary (Hindi)": [
-      "reczlcI6HVdx6TSI3"
-    ]
-  },
-  {
-    "id": "recSLaYJlbD6lv18L",
-    "Term": "shopping",
-    "Definition": "Shopping is an activity where a person looks at or for goods (i.e. food products, clothing, household goods) to decide whether or not to purchase items based on their individual needs, the value of the items, and cost considerations.\n",
-    "Assigned to": [
-      {
-        "id": "usroPZ4yKxHAs6odJ",
-        "email": "elarose@hsph.harvard.edu",
-        "name": "Emily LaRose"
-      }
-    ]
-  },
-  {
-    "id": "recmrRHJ2i9uwBKV9",
-    "Term": "groceries",
-    "Definition": "Groceries are food products (i.e. fruits, vegetables, packaged foods, bread, meat) and other common household items (i.e. cleaning supplies or paper products) that are commonly purchased at a store or market\n",
-    "Assigned to": [
-      {
-        "id": "usroPZ4yKxHAs6odJ",
-        "email": "elarose@hsph.harvard.edu",
-        "name": "Emily LaRose"
-      }
-    ]
-  },
-  {
-    "id": "rectoKoSq5n6x774e",
-    "Term": "social distancing",
-    "Definition": "According to the U.S. Centers for Disease Control and Prevention, social-distancing is the act of keeping space between yourself and other people outside of your home to prevent the spread of Covid-19.  To practice social-distancing, experts recommend that people stay at least 6 feet (2 meters) apart.  Social-distancing is also sometimes called physical distancing.\n",
-    "Assigned to": [
-      {
-        "id": "usroPZ4yKxHAs6odJ",
-        "email": "elarose@hsph.harvard.edu",
-        "name": "Emily LaRose"
-      }
-    ]
-  },
-  {
-    "id": "recXC94YnO1X5JuTH",
-    "Term": "peer-review",
-    "Definition": "Peer-reviewed journals are publications in which scientific contributions have been vetted by experts in the relevant field.\n",
-    "Questions using this term": [
-      "rec4gvRli11OQXxYg",
-      "recJkDYkrSJcaki2E"
-    ]
-  },
-  {
-    "id": "recluiiW9sO0mDSXo",
-    "Term": "cannabidiol",
-    "Definition": "According to the Harvard Medical School, cannabidiol (CBD) is one of the main active ingredients of cannabis (marijuana). It is derived directly from the hemp plant.\n\n",
-    "Questions using this term": [
-      "recJkDYkrSJcaki2E"
-    ]
-  },
-  {
-    "id": "reckGbf0xLFWfaMZc",
-    "Term": "exposure",
-    "Questions using this term": [
-      "rec1qcdDk3DihX5AB"
-    ]
-  },
-  {
-    "id": "recvWPmTrHNSHF6og",
-    "Term": "health disparities",
-    "Definition": "Health disparities refer to the ways in which disadvantaged social groups, such as racial or ethnic minorities or women, systematically experience poorer health outcomes, compared to other social groups.\n\n",
-    "Questions using this term": [
-      "recYSSQbxOvrTPRTd"
-    ]
-  },
-  {
-    "id": "recogPdIhQcH7V4QY",
-    "Term": "pre-existing condition"
-  },
-  {
-    "id": "rec1EIhOiIOIDbLQi",
-    "Term": "blinding",
-    "Questions using this term": [
-      "receDkeHMeIVcei1g"
-    ]
-  },
-  {
-    "id": "recE7jaNPdnZP6Amd",
-    "Term": "randomization",
-    "Questions using this term": [
-      "receDkeHMeIVcei1g"
-    ]
-  },
-  {
-    "id": "recfpsHDNjqBLzVVI",
-    "Term": "blood vessels",
-    "Questions using this term": [
-      "recdcNlhNBY2wa2mF"
-    ]
-  },
-  {
-    "id": "recjPFaMf2w0EFJxA",
-    "Term": "tear gas",
-    "Definition": "Tear gas is a group of chemical irritants that is often used to disperse crowds. The chemicals in tear gas irritate mucous membranes and the eyes, which often results in tearing, twitching, coughing, difficulty breathing, or skin irritation.\n\n",
-    "Questions using this term": [
-      "recItn2V20XULiRPC"
-    ]
-  },
-  {
-    "id": "recHWbx54ROxvNAGS",
-    "Term": "migrant laborer",
-    "Definition": "Migrant laborers are workers who move within their country (from one state to another) in search of work. These laborers are typically provided very few benefits, and live in precarious working conditions. In the Indian context, many migrant laborers work in the informal sector and move temporarily from states such as Bihar and Jharkhand to work in destination cities like Delhi or Mumbai.\n",
-    "Questions using this term": [
-      "rec0GpxTfWHNUggrq"
-    ]
-  },
-  {
-    "id": "recfGKrvfJ9tKBCIZ",
-    "Term": "organ",
-    "Questions using this term": [
-      "rec0G7T2dPNSS5E2q"
-    ]
-  },
-  {
-    "id": "recPggrxE4gqsnfjF",
-    "Term": "sensitivity",
-    "Questions using this term": [
-      "receaEBE3URa0kHW9"
-    ]
-  },
-  {
-    "id": "rec1iiXEJNsrJMPPt",
-    "Term": "specificity",
-    "Questions using this term": [
-      "receaEBE3URa0kHW9"
-    ]
-  },
-  {
-    "id": "recbkCzhYtP9R5CzE",
-    "Term": "antibody",
-    "Questions using this term": [
-      "receaEBE3URa0kHW9",
-      "rec7RJS5cXudXatbi",
-      "recRBotKQk6nBl7qk",
-      "rec7C3bxXc9WMvZaN"
-    ]
-  },
-  {
-    "id": "recEXxUc0ULVvFitW",
-    "Term": "diagnostic test",
-    "Questions using this term": [
-      "receaEBE3URa0kHW9",
-      "rec7C3bxXc9WMvZaN"
-    ]
-  },
-  {
-    "id": "recM1y6IumNA9PTrx",
-    "Term": "camphora 1m",
-    "Questions using this term": [
-      "recJz8FzVVKErPjzh"
-    ]
-  },
-  {
-    "id": "recYWBhzWDIH8AgIR",
-    "Term": "arsenic album 30",
-    "Questions using this term": [
-      "recJz8FzVVKErPjzh"
-    ]
-  },
-  {
-    "id": "recLaivJgcLc5KyYk",
-    "Term": "homeopathic",
-    "Questions using this term": [
-      "recJz8FzVVKErPjzh"
-    ]
-  },
-  {
-    "id": "rec60vbMq4kkqAPzU",
-    "Term": "genes",
-    "Questions using this term": [
-      "recNFcMZ2GYgvLydl",
-      "rechKdB5pyHZJwGrU"
-    ]
-  },
-  {
-    "id": "reckOvx4kipJffs6w",
-    "Term": "blood type",
-    "Definition": "A blood type is a classification of blood based on characteristics of the red blood cells; the 8 most common blood types are A+, A-, B+, B-, O+, O-, AB+, AB-.  According to the American Red Cross Blood Services Division, blood types are determined based on whether or not they have one of two antigens on the surface of red blood cells (A and/or B).  In addition to the antigens, the + or - is determined by the presence (+) or absence (-) of a protein called the Rh factor.  Blood type is determined before birth and is genetically passed on from parents to their children.\n",
-    "Questions using this term": [
-      "recNFcMZ2GYgvLydl"
-    ],
-    "Assigned to": [
-      {
-        "id": "usroPZ4yKxHAs6odJ",
-        "email": "elarose@hsph.harvard.edu",
-        "name": "Emily LaRose"
-      }
-    ]
-  },
-  {
-    "id": "recaQiMWxqmgiwmXV",
-    "Term": "zoonotic transmission",
-    "Questions using this term": [
-      "recWN2qP4d5qnG0a4"
-    ]
-  },
-  {
-    "id": "recRbkIRSSEAI54Nn",
-    "Term": "origin",
-    "Questions using this term": [
-      "recWN2qP4d5qnG0a4"
-    ]
-  },
-  {
-    "id": "recuSGoZzN5kTcCcj",
-    "Term": "waste water",
-    "Questions using this term": [
-      "recGSC4tav6ctR6Wm"
-    ]
-  },
-  {
-    "id": "recXtOS0SNjvN2xb2",
-    "Term": "sewage water",
-    "Questions using this term": [
-      "recGSC4tav6ctR6Wm"
-    ]
-  },
-  {
-    "id": "recaUtE5ZtsgcexuI",
-    "Term": "face masks",
-    "Questions using this term": [
-      "recJFDnpv5tB1WjSg",
-      "rec5paF75SXJMAkOY"
-    ]
-  },
-  {
-    "id": "recDmF8rlbcLeIXk9",
-    "Term": "symptoms",
-    "Questions using this term": [
-      "rec9qY1uGLxAHbzd4",
-      "recjiFSoyZIlSTKJy"
-    ]
-  },
-  {
-    "id": "recUYw2zF8eFNz4h0",
-    "Term": "Ayurveda",
-    "Definition": "Ayurveda is an ancient system of traditional medicine, with historical roots in India dating back 3000 years, which promotes a balance between mind, body, and spirit through herbal remedies, special diets, yoga and meditation. It is commonly practiced in India, and is frequently referred to as complementary and alternative medicine within the United States.\n",
-    "Questions using this term": [
-      "recuQOxIXGVnfjPi2"
-    ]
-  },
-  {
-    "id": "recv24hxSvUN5d7rj",
-    "Term": "vector control",
-    "Definition": "In public health, vector control refers to measures that limit or eradicate insects or other arthropods that transmit diseases. The most common form of vector control is mosquito control through indoor spraying with a residual insecticide or distribution of insecticide-treated bednets to prevent the transmission of malaria.\n",
-    "Questions using this term": [
-      "recWe5xofijAfc9e4"
-    ]
-  },
-  {
-    "id": "recn7RIioNtM79aDK",
-    "Term": "immune response",
-    "Questions using this term": [
-      "rec7RJS5cXudXatbi"
-    ]
-  },
-  {
-    "id": "recU6peFJ1KpFjNz6",
-    "Term": "corticosteroid",
-    "Questions using this term": [
-      "recHZgOKRrgNnEPig"
-    ]
-  },
-  {
-    "id": "recqLX8cyB1CQ1bCl",
-    "Term": "metabolism",
-    "Questions using this term": [
-      "recUMUplryNvxZwkJ"
-    ]
-  },
-  {
-    "id": "rec3fiZtkOfcC4hmh",
-    "Term": "zoonosis",
-    "Questions using this term": [
-      "recTF1lF4UwMthvP4"
-    ]
-  },
-  {
-    "id": "rec7UNWTYkSYjt5Ew",
-    "Term": "blood clot",
-    "Questions using this term": [
-      "recUwPBpYm39SKPBc"
-    ]
-  },
-  {
-    "id": "rechQCx0ppCMy7Qk7",
-    "Term": "delirium",
-    "Questions using this term": [
-      "recUMUplryNvxZwkJ"
-    ]
-  },
-  {
-    "id": "recEJPojapwXAfHLO",
-    "Term": "genomics",
-    "Questions using this term": [
-      "recCr6FQ8o0XEI1Rc"
-    ]
-  },
-  {
-    "id": "rec2VJNLHjQTnMP8x",
-    "Term": "malaria",
-    "Definition": "According to the U.S. Centers for Diseases Control, malaria is a disease caused by Plasmodium parasites, transmitted by female Anopheles mosquitoes.\n",
-    "Questions using this term": [
-      "rec4PAYMuJTFQGwiT"
-    ],
-    "Status": "In Progress"
-  },
-  {
-    "id": "recdwokPEajIXpafc",
-    "Term": "parasite",
-    "Definition": "Parasites are organisms that live in another organism, extracting benefits such as nutrients to support growth and reproduction at the expense of the host organism.\n",
-    "Questions using this term": [
-      "rec4PAYMuJTFQGwiT"
-    ],
-    "Status": "In Progress"
-  },
-  {
-    "id": "recObtdYl6ZtdtVMU",
-    "Term": "drug resistance"
-  },
-  {
-    "id": "recdrwa5OmG8DFfdl",
-    "Term": "viral mutations",
-    "Questions using this term": [
-      "recQUOBiehWzAOhaW"
-    ]
-  },
-  {
-    "id": "recbSz6ckVuc23GYa",
-    "Term": "protein spikes",
-    "Questions using this term": [
-      "recQUOBiehWzAOhaW",
-      "recj1USp4RARa3hyp"
-    ]
-  },
-  {
-    "id": "rec1tJ6jvmOzdxBjV",
-    "Term": "attrition",
-    "Questions using this term": [
-      "recCr6FQ8o0XEI1Rc"
-    ]
-  },
-  {
-    "id": "recBT537ug8p70Ovx",
-    "Term": "phased testing",
-    "Definition": "A phased testing approach involves sequential steps, where each step involves careful study and evaluation with a series of checkpoints to decide whether to proceed to the next phase.\n",
-    "Questions using this term": [
-      "recNI0NLOOiknZqdi"
-    ]
-  },
-  {
-    "id": "rec5HiEage5Z4jtz7",
-    "Term": "antigen",
-    "Questions using this term": [
-      "receaEBE3URa0kHW9"
-    ]
-  },
-  {
-    "id": "recrOZvMk8QRPhbBK",
-    "Term": "N95 mask",
-    "Questions using this term": [
-      "recOOEXG8rwQDSsUv"
-    ]
-  },
-  {
-    "id": "recxRBgtOhmDKYbXw",
-    "Term": "surgical mask"
-  },
-  {
-    "id": "reczEnJBMuGRz565b",
-    "Term": "temperature check",
-    "Questions using this term": [
-      "recXJv9kaUglIEw3G",
-      "recjiFSoyZIlSTKJy"
-    ]
-  },
-  {
-    "id": "rec353OtCekzbZeZz",
-    "Term": "nanobodies",
-    "Definition": "Nanobodies are simpler and smaller \"single-domain\" antibodies, produced by camelids like camels, alpacas, and llamas.  According to the U.S. National Institutes of Health, special features of nanobodies include stability for storage of therapeutics and the potential for delivery through an inhaler directly to the lungs, which may be beneficial for respiratory diseases like COVID-19. \n",
-    "Questions using this term": [
-      "recRBotKQk6nBl7qk"
-    ]
-  },
-  {
-    "id": "reczMBf5H2LrMDI2C",
-    "Term": "infrared thermometer",
-    "Questions using this term": [
-      "recXJv9kaUglIEw3G"
-    ]
-  },
-  {
-    "id": "recr5oXCL0XZrReEy",
-    "Term": "SIDS",
-    "Questions using this term": [
-      "recZ20b9Ye6t9zEV7"
-    ]
-  },
-  {
-    "id": "recied9ACbRpqLqZS",
-    "Term": "ecological fallacy",
-    "Questions using this term": [
-      "recZ20b9Ye6t9zEV7"
-    ]
-  },
-  {
-    "id": "receXlUVsRcR6lFBS",
-    "Term": "pH",
-    "Definition": "In chemistry, pH (power of hydrogen, or potential for hydrogen) is a scale used for water-based solutions to indicate if they are acidic (pH below 7, with a lower pH indicating a stronger acid), neutral (pH around 7), or basic (pH above 7, with a higher indicating a stronger base).\n",
-    "Questions using this term": [
-      "recmKnzIU0VJ1hqwC"
-    ]
-  },
-  {
-    "id": "recGjlcd6juUj6b2d",
-    "Term": "alkaline",
-    "Definition": "Alkaline is the capacity of water to resist changes in [pH][1] that would make the water more [acidic][2]\n\n  [1]: https://en.wikipedia.org/wiki/PH\n  [2]: https://en.wikipedia.org/wiki/Acid\n"
-  },
-  {
-    "id": "rechEtkyFiY14C2O2",
-    "Term": "acidic",
-    "Definition": "In chemistry, a water-based solution that is acidic has a pH below 7, with a lower pH indicating a stronger acid. In the Brønsted–Lowry theory of acids and bases, also called the proton theory of acids and bases, acids are capable of donating a proton, also known as a hydrogen cation (H+). in the Lewis theory of acid-base reactions, acids are capable of forming a covalent bond with an electron pair.\n",
-    "Questions using this term": [
-      "recmKnzIU0VJ1hqwC"
-    ]
-  },
-  {
-    "id": "recCaXrTaBct9moth",
-    "Term": "basic",
-    "Definition": "In chemistry, a water-based solution that is basic has a pH above 7, with a higher pH indicating a stronger base. In the Brønsted–Lowry theory of acids and bases, also called the proton theory of acids and bases, bases are capable of receiving a proton, also known as a hydrogen cation (H+). In the Lewis theory of acid-base reactions, bases are capable of donating an electron pair.\n",
-    "Questions using this term": [
-      "recmKnzIU0VJ1hqwC"
-    ]
-  },
-  {
-    "id": "recGL6uXTnvlWURbw",
-    "Term": "alkaline",
-    "Definition": "In chemistry, alkaline is an adjective that is sometimes used to describe a subset of bases that dissolve in water. Alkalinity, however, is a different term used by oceanographers and hydrologists to describe the capacity of water to resist pH changes that would make it more acidic, in contrast to basicity which refers to a measurement on the pH scale above 7.\n",
-    "Questions using this term": [
-      "recmKnzIU0VJ1hqwC"
-    ]
-  },
-  {
-    "id": "recHhKrp1llbuhcgk",
-    "Term": "DNA",
-    "Definition": "Deoxyribonucleic acid (DNA) is a self-replicating carrier of genetic information in humans and many other organisms.\n",
-    "Questions using this term": [
-      "recs5gR5d7bwNVrpm",
-      "recj1USp4RARa3hyp",
-      "recQUOBiehWzAOhaW"
-    ]
-  },
-  {
-    "id": "rec1RsaYtVhUJPL7b",
-    "Term": "RNA",
-    "Questions using this term": [
-      "recs5gR5d7bwNVrpm",
-      "recQUOBiehWzAOhaW"
-    ]
-  },
-  {
-    "id": "recog4FfBcBTe2Wku",
-    "Term": "nasal cavity",
-    "Questions using this term": [
-      "recs5gR5d7bwNVrpm"
-    ]
-  },
-  {
-    "id": "recRi5Nb3Tb81k8em",
-    "Term": "conjunctiva",
-    "Questions using this term": [
-      "recs5gR5d7bwNVrpm"
-    ]
-  },
-  {
-    "id": "rec3uo9HmDegPdXKR",
-    "Term": "bodily fluids",
-    "Questions using this term": [
-      "recs5gR5d7bwNVrpm"
-    ]
-  },
-  {
-    "id": "recj0N9PdNjCuyMlZ",
-    "Term": "PPE",
-    "Definition": "PPE stands for personal protective equipment. For the prevention of COVID-19 transmission, PPE often includes surgical masks, N95 respirators, face coverings, face shields, protective eye goggles, gloves, gowns, or other equipment.\n",
-    "Questions using this term": [
-      "recAlmaKtRps9eS1c"
-    ]
-  },
-  {
-    "id": "rec1cbDutpK6yWoIK",
-    "Term": "traditional Chinese medicine",
-    "Definition": "Traditional Chinese medicine is a branch of traditional medicine based on historical Chinese health practices passed through generations, including herbal medicines, acupuncture, and other techniques. Traditional medicine is used around the world but is considered a form of alternative medicine, different from formalized and science-based conventional medical care. The World Health Organization warns that inappropriate use of traditional medicine can have negative health impacts and that more research is needed to determine the efficacy as well as safety of many traditional medicine practices. There are also concerns about the use of certain species in traditional medicine that could lead to loss of biodiversity.\n",
-    "Questions using this term": [
-      "recvmr112rt2mPX4o"
-    ]
-  },
-  {
-    "id": "recfVwon10Sbke7lQ",
-    "Term": "fever",
-    "Definition": "A fever refers to when the body temperature has temporarily increased above normal and can signal that the body fighting off an infection. The U.S. Centers for Disease Control and Prevention (CDC) define a fever as a measured temperature of at least 100.4°F (38°C), slightly higher than the average human temperature is 98.6°F (37°C). Fevers are one of the immune system's first reactions to a pathogen like a virus or bacteria entering the body, but it can also be caused by environmental factors like heat stroke or biological responses like alcohol withdrawal. The body senses these potential threats and forces itself to raise its temperature (by creating a fever through chemicals in your blood called 'pyrogens') to make it difficult for the pathogen to use your body as a host and reproduce viruses or bacteria there. \n",
-    "Questions using this term": [
-      "recjiFSoyZIlSTKJy",
-      "recXJv9kaUglIEw3G"
-    ]
-  },
-  {
-    "id": "recYrwi51kVZKx9dM",
-    "Term": "generic",
-    "Questions using this term": [
-      "recNTCpWqIZjot0WR"
-    ]
-  },
-  {
-    "id": "recB4anwdgVhdkSbX",
-    "Term": "antiviral",
-    "Questions using this term": [
-      "rect29uJu8WYZKAGK"
-    ]
-  },
-  {
-    "id": "recyJrI5tmjEBri1R",
-    "Term": "regulatory approval",
-    "Questions using this term": [
-      "recI7OWNEXH3tqhx6"
-    ]
-  },
-  {
-    "id": "reczB3Z9ccOGKZ2gy",
-    "Term": "drug development",
-    "Questions using this term": [
-      "recI7OWNEXH3tqhx6"
-    ]
-  },
-  {
-    "id": "recIhauxASpaA3MEK",
-    "Term": "hormones",
-    "Questions using this term": [
-      "recRLAMdwlXLTesUc"
-    ]
-  },
-  {
-    "id": "recDpzO7urGMBYEOQ",
-    "Term": "test positivity",
-    "Questions using this term": [
-      "recmWTzseOEaqLcH2"
-    ]
-  },
-  {
-    "id": "recUx1YikgT11jXbN",
-    "Term": "anti-inflammatory",
-    "Questions using this term": [
-      "recuXY2XTgsqvWMyR"
-    ]
-  },
-  {
-    "id": "rectGQRQcmIdsGCuN",
-    "Term": "pool testing",
-    "Questions using this term": [
-      "recFUaomZTQS6t8Jg"
-    ]
-  },
-  {
-    "id": "recdeFktv9pLZCX2F",
-    "Term": "strain",
-    "Questions using this term": [
-      "recj1USp4RARa3hyp"
-    ]
-  },
-  {
-    "id": "recOC3PpCAH8slhGw",
-    "Term": "protein"
-  },
-  {
-    "id": "recgd6IROOriYGOfa",
-    "Term": "RNA virus",
-    "Definition": "RNA viruses have ribonucleic acid (RNA) as their genetic material. Examples of RNA viruses include SARS-CoV-2, influenza, rabies, and measles. Since RNA lacks a self-correcting mechanism, unlike DNA, RNA viruses are more prone to mutations.\n",
-    "Questions using this term": [
-      "recj1USp4RARa3hyp"
-    ]
-  },
-  {
-    "id": "rec0k0bfcsxKvotHW"
-  },
-  {
-    "id": "recWXoEUnMLG2Ar4E",
-    "Term": "DNA virus",
-    "Definition": "DNA viruses have deoxyribonucleic acid (DNA) as their genetic material. Examples of DNA viruses include herpes and human papillomavirus (HPV).\n",
-    "Questions using this term": [
-      "recj1USp4RARa3hyp"
-    ]
-  },
-  {
-    "id": "rec8mE0LSBV1WVv5h",
-    "Term": "virus isolates",
-    "Definition": "Virus isolates are virus samples isolated from infected patients.\n",
-    "Questions using this term": [
-      "recj1USp4RARa3hyp"
-    ]
-  },
-  {
-    "id": "reciu7oUahyz8EDyH",
-    "Term": "antigen",
-    "Definition": "Antigens are molecules that are capable of stimulating body's immune response and production of antibodies.\n",
-    "Questions using this term": [
-      "recNFcMZ2GYgvLydl"
-    ]
-  },
-  {
-    "id": "recndJj6oS0QeQ4Vn",
-    "Term": "micrometer (μm)",
-    "Definition": "A micrometer/micrometre (symbolized with μm) is a millionth of a meter/metre. It is also commonly called a micron. In American English, the use of micron can help differentiate from a measuring device that is also called a micrometer. In the International System of Units (SI), the use of micrometre is preferred over micron.\n",
-    "Questions using this term": [
-      "recm6SwFS5Pd6irPU"
-    ]
-  },
-  {
-    "id": "recIyMHN9Zf9u6OSh",
-    "Term": "droplet nuclei",
-    "Definition": "Droplet nuclei are evaporated residues from respiratory droplets expelled by an infected person coughing, sneezing, talking, singing, or even just breathing. They are typically smaller than 5μm, so they can stay suspended in the air for longer and be dispersed farther by air currents compared to larger and heavier respiratory droplets.\n",
-    "Questions using this term": [
-      "recm6SwFS5Pd6irPU"
-    ]
-  },
-  {
-    "id": "recPpB8QVSjeyqj5D",
-    "Term": "clotting",
-    "Questions using this term": [
-      "recg5u3ciMzis7waA"
-    ]
-  },
-  {
-    "id": "recVlVSESLNuIC7mo",
-    "Term": "anosmia",
-    "Questions using this term": [
-      "recWdZ6mkwYJXrj4T"
+      "recH0gr95OweWQ1ng"
     ]
   }
 ]

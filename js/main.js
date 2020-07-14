@@ -1,7 +1,13 @@
 (function() {
     $(document).ready(function() {
-        $('.term h4').click(function() {
-            $(this).parent().find('.definition').slideToggle("fast");
-        });
+
+        tippy('a.glossary-term', {
+			animation: 'shift-away',
+            theme: 'light',
+            allowHTML: true,
+            interactive: true,
+            interactiveBorder: 30,
+		});
+
     });
 })();

@@ -127,44 +127,44 @@ airtable:
   api_key: key3GwTpP3iINPkP1
   tables:
     - name: 'airtable'
-      app_id: appzLYyvMpjIJnLY7
+      app_id: appKBFbOCN23iz8eF
       target: 'covid19'
       sheets:
-        - name: 'Expert Database'
+        - name: 'Expert Database (English)'
           view: 'COVID-19 Expert Database (English)'
           target: 'questions-en'
     - name: 'glossary'
-      app_id: appzLYyvMpjIJnLY7
+      app_id: appKBFbOCN23iz8eF
       target: 'covid19'
       sheets:
         - name: 'Glossary (English)'
-          view: 'Internal View'
+          view: 'Glossary (English)'
           target: 'glossary-en'
     - name: 'airtable'
-      app_id: appzLYyvMpjIJnLY7
+      app_id: appKBFbOCN23iz8eF
       target: 'covid19'
       sheets:
         - name: 'Expert Database (French)'
-          view: 'Internal View'
+          view: 'COVID-19 Expert Database (French)'
           target: 'questions-fr'
     - name: 'glossary'
-      app_id: appzLYyvMpjIJnLY7
+      app_id: appKBFbOCN23iz8eF
       target: 'covid19'
       sheets:
         - name: 'Glossary (French)'
-          view: 'Internal View'
+          view: 'Glossary (French)'
           target: 'glossary-fr'
     - name: 'airtable'
-      app_id: appzLYyvMpjIJnLY7
+      app_id: appKBFbOCN23iz8eF
       target: 'covid19'
       sheets:
         - name: 'Expert Database (Hindi)'
-          view: 'Internal View'
+          view: 'COVID-19 Expert Database (Hindi)'
           target: 'questions-hi' 
     - name: 'glossary'
-      app_id: appzLYyvMpjIJnLY7
+      app_id: appKBFbOCN23iz8eF
       target: 'covid19'
       sheets:
         - name: 'Glossary (Hindi)'
-          view: 'Internal View'
+          view: 'Glossary (Hindi)'
           target: 'glossary-hi'   

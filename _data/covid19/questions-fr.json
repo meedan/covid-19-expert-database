@@ -1,9 +1,220 @@
 [
   {
-    "id": "rec1Is13sqBOj9Utz",
+    "id": "recXOlSZvyEECnqkk",
+    "Question": "Quel est le lien entre l'utilisation des antibiotiques et le traitement du COVID-19 ?",
+    "Item status": "Published",
+    "Catégorie": "Traitement",
+    "Sous-catégorie": "A propps de : COVID-19 & antibiotiques",
+    "Source de la question": [
+      "Réseaux Sociaux"
+    ],
+    "Pays de provenance de la question": [
+      "USA"
+    ],
+    "Fond & contexte": "Les antibiotiques sont des médicaments antibactériens qui ralentissent ou détruisent la croissance des bactéries. Ils sont utilisés pour traiter les infections causées par des bactéries. Un article décrivant les différences entre les virus et les bactéries se trouve dans la section des ressources complémentaires. La maladie COVID-19 est causée par une infection par un virus, et non par une bactérie. COVID-19 est une maladie qui est un type de coronavirus. Les coronavirus sont un groupe de virus qui provoquent des maladies telles que le rhume, le syndrome respiratoire aigu sévère (SRAS) et le syndrome respiratoire du Moyen-Orient (SRM). Les virus et les bactéries étant différents, les maladies qu'ils provoquent ne peuvent pas être traitées par le même type de médicaments. Les antibiotiques ne peuvent pas être utilisés pour traiter des infections virales comme le COVID-19.  \n",
+    "Ce que disent nos experts": "Les antibiotiques ne sont certainement pas utilisés pour traiter ou guérir le COVID-19, mais ils peuvent traiter les infections bactériennes qui peuvent survenir à la suite de complications du virus COVID-19. Les virus et les infections bactériennes provoquent différents types de maladies, et les antibiotiques ne sont efficaces que pour traiter les infections bactériennes, et non les virus comme COVID-19. Les antibiotiques ne doivent pas être pris pour prévenir ou traiter COVID-19 et ils ne doivent pas être pris à moins d'être prescrits par un médecin. Parfois, les antibiotiques peuvent être utilisés chez les patients atteints de COVID-19, mais uniquement pour traiter des infections bactériennes secondaires. \n\n",
+    "Glossaire": [
+      "recRdDn65UcHnA63p",
+      "recn0lT3zfEhVv8Eo",
+      "recGkbysvb9KPYi3m"
+    ],
+    "Tags": [
+      "antibiotiques",
+      "infection bactérienne",
+      "traitement",
+      "cure"
+    ],
+    "Autres ressources": "1. Q&A on coronaviruses (COVID-19) ([WHO][1])\n2. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study ([The Lancet][2])   \n3. Rates of Co-infection Between SARS-CoV-2 and Other Respiratory Pathogens ([JAMA Network][3])\n4. Difference between a bacteria and a virus ([Mayo Clinic][4]) \n\n  [1]: https://www.who.int/news-room/q-a-detail/q-a-coronaviruses   http://www.med.umich.edu/asp/pdf/adult_guidelines/COVID-19-treatment.pdf\n  [2]: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30211-7/fulltext\n  [3]: https://jamanetwork.com/journals/jama/fullarticle/2764787\n  [4]: https://www.mayoclinic.org/diseases-conditions/infectious-diseases/expert-answers/infectious-disease/faq-20058098\n",
+    "English Question": [
+      "recu8V6IGjMveS5Ku"
+    ],
+    "Cette réponse varie-t-elle en fonction de votre lieu de résidence ?": "Non\n",
+    "Cette réponse varie-t-elle en fonction de votre race, origine ethnique, âge, de votre sexe ou d'autres facteurs démographiques ?": "Non\n",
+    "Dernière mise à jour (contexte)": "2020-05-14T05:20:02.000Z",
+    "Dernière mise à jour": "2020-05-14T05:21:40.000Z",
+    "Dernière révision": "2020-05-15",
+    "English Glossary": [
+      "reco5k0tpirgGDeqb",
+      "recnFUXyIZy81Rj1I",
+      "rechTyFW9yFtRWh8o",
+      "recRGHDXxeEnXrS9t",
+      "recAFuzwLppTBDIPe"
+    ],
+    "(EN) Tags": [
+      "antibiotics",
+      "bacterial infection",
+      "prevention",
+      "treatment",
+      "virus",
+      "medicine"
+    ],
+    "English Category": [
+      "Treatment"
+    ],
+    "English subcategory": [
+      "On: COVID-19 & antibiotics "
+    ],
+    "English source": [
+      "Social Media"
+    ],
+    "English country": [
+      "USA"
+    ],
+    "What experts say": [
+      "Antibiotics are not used to treat or cure COVID-19, but they can treat bacterial infections that can happen as a result of complications from the COVID-19 virus. Viruses and bacterial infections cause different types of illnesses, and antibiotics are only effective in treating bacterial infections, not viruses like COVID-19. Antibiotics should not be taken as a way to prevent or treat COVID-19 and they should not be taken unless prescribed by a doctor. Sometimes, antibiotics might be used in patients with COVID-19 but only to treat secondary bacterial infections. "
+    ],
+    "Background & context": [
+      "Antibiotics are antibacterial medications that either slow down or destroy the growth of bacteria. They are used to treat infections that are caused by bacteria. (More information on the differences between viruses and bacteria can be found in the additional resources section.) The COVID-19 disease is caused by an infection with a virus, not a bacteria. COVID-19 is a disease that is a type of coronavirus. Coronaviruses are a group of viruses that cause diseases such as the common cold, severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS). Because viruses and bacteria are different, the illnesses that they cause cannot be treated by the same type of medication. Antibiotics cannot be used to treat viral infections like COVID-19.  "
+    ],
+    "Other Resources (English)": [
+      "1. Q&A on coronaviruses (COVID-19) (WHO)\n2. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study (The Lancet)   \n3. Rates of Co-infection Between SARS-CoV-2 and Other Respiratory Pathogens (JAMA Network)\n4. Difference between a bacteria and a virus (Mayo Clinic) "
+    ]
+  },
+  {
+    "id": "recAj0TYj97UNUWtk",
+    "Question": "Que dit la science sur l'utilisation de l'hydroxychloroquine pour prévenir, traiter ou guérir le COVID-19 ?",
+    "Item status": "Published",
+    "Catégorie": "Traitement",
+    "Sous-catégorie": "A propps de : COVID-19 & hydroxychloroquine",
+    "Source de la question": [
+      "Réseaux Sociaux"
+    ],
+    "Pays de provenance de la question": [
+      "Inde"
+    ],
+    "Fond & contexte": "L'hydroxycloroquine est un médicament actuellement prescrit pour prévenir ou traiter la malaria, une maladie infectieuse qui peut être transmise à l'homme par les moustiques. Il est également prescrit comme traitement de la polyarthrite rhumatoïde et du lupus, qui sont toutes les deux des maladies auto-immunes.\nFace à un virus inconnu et en l’absence de vaccin et de traitement spécifiques, une des stratégies thérapeutiques consiste à regarder parmi les médicaments déjà disponibles et cliniquement testés, si l’un d’entre eux est efficace. Leurs balances bénéfices/risques et leurs effets secondaires ayant déjà été étudiés (sans toutefois permettre l’impasse sur les tests de sécurité), cela pourrait accélérer la recherche. Parmi ceux-là : l’hydroxychloroquine. \nLors de la recherche de traitements pour COVID-19, l'hydroxychloroquine a été testée sur des patients. Cependant, les résultats de cette recherche n'ont jusqu'à présent pas permis de recommander l'hydroxychloroquine pour le traitement de la COVID-19. Dans certaines de ces études, des consequences négatives sur l'état des patients ont été observées en association  avec la prise d'hydroxychloroquine.\n",
+    "Ce que disent nos experts": "Les essais cliniques en cours testent l'efficacité et la sécurité de la chloroquine et de l'hydroxychloroquine comme traitements pour la COVID-19. Jusqu'à présent, les essais cliniques et les analyses scientifiques n'ont pas produit de preuves de haute qualité (données probantes) montrant l'efficacité de ces médicaments en tant que traitement, et certaines études ont même signalé des taux plus élevés d'événements indésirables (y compris des problèmes cardiaques) chez les patients hospitalisés traités à l'hydroxychloroquine. A l'heure actuelle, l'hydroxychloroquine n'est pas un moyen de prévention ni un traitement reconnu pour la COVID-19.\nDans ce contexte, des études sont en cours pour savoir si la prise de ce médicament en prévention peut empêcher les gens d'être infectés par le coronavirus s'ils sont exposés au virus ; d'autres études examinent encore son efficacité et sa sécurité en tant que traitement en fonction du degré de sévérité de la maladie, dans le cadre d'essais contrôlés randomisés avec un grand nombre de patients inscrits.\nA travers le monde, certains pays sont allés de l'avant et ont autorisé la chloroquine ou l'hydroxychloroquine pour le traitement du COVID-19, malgré le peu de preuves cliniques concernant son efficacité. Cette décision fait suite à des résultats préliminaires obtenus en Chine et en France en mars 2020, où quelques essais cliniques de petite taille ont montré que le médicament n'avait eu qu'un succès limité.\nAux États-Unis, l’agence de réglementation des produits biologiques (Food and Drug Administration-FDA), a accordé une autorisation spéciale pour utiliser la chloroquine et l'hydroxychloroquine dans les essais cliniques et les situations d'urgence relatives à la COVID-19. Ceci ne constitue pas une approbation formelle du médicament, mais plutôt une possibilité donnée aux médecins américains d'utiliser la chloroquine et l'hydroxychloroquine dans les essais cliniques et dans le traitement de COVID-19 si le médecin n'a pas d'autres options.\n\n",
+    "Glossaire": [
+      "recvR7KM6VedZfxmX",
+      "recAvIYWiEsqWpO9E",
+      "recid3z2x1uYoo6xq"
+    ],
+    "Tags": [
+      "Hydroxychloroquine",
+      "prévention",
+      "traitement",
+      "cure"
+    ],
+    "Autres ressources": "1. FDA cautions against the use of hydroxychloroquine or chloroquine for COVID-19 outside of the hospital setting or a clinical trial due to a risk of heart rhythm problems ([U.S. FDA][1])\n2. Investigational therapeutics for patients with COVID-19 ([U.S. CDC][2]) \n3. Trial update: No clinical benefit from use of hydroxychloroquine in hospitalized patients with COVID-19 ([Recovery Trial][3])\n4. Information about \"compassionate use\" ([U.S. FDA][4]) \n5. Research paper: A Randomized Trial of Hydroxychloroquine as Postexposure Prophylaxis for Covid-19 ([NEJM][5])\n6. Hydroxychloroquine or Chloroquine for Treatment or Prophylaxis of COVID-19: A Living Systematic Review ([AIM][6])\n7. Research paper: Hydroxychloroquine in patients with mainly mild to moderate coronavirus disease 2019: open label, randomised controlled trial ([BMJ][7])\n8. Research paper: Association of Treatment With Hydroxychloroquine or Azithromycin With In-Hospital Mortality in Patients With COVID-19 in New York State ([JAMA][8])\n9. Research paper: Observational Study of Hydroxychloroquine in Hospitalized Patients with Covid-19 ([NEJM][9])\n10. Research paper: Hydroxychloroquine in patients with mainly mild to moderate coronavirus disease 2019: open label, randomised controlled trial ([BMJ][7])\n\n  [1]: https://www.fda.gov/drugs/drug-safety-and-availability/fda-cautions-against-use-hydroxychloroquine-or-chloroquine-covid-19-outside-hospital-setting-or\n  [2]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/therapeutic-options.html\n  [3]: https://www.recoverytrial.net/news/statement-from-the-chief-investigators-of-the-randomised-evaluation-of-covid-19-therapy-recovery-trial-on-hydroxychloroquine-5-june-2020-no-clinical-benefit-from-use-of-hydroxychloroquine-in-hospitalised-patients-with-covid-19\n  [4]: https://www.fda.gov/news-events/public-health-focus/expanded-access\n  [5]: https://www.nejm.org/doi/full/10.1056/NEJMoa2016638?query=featured_home\n  [6]: https://www.acpjournals.org/doi/10.7326/M20-2496\n  [7]: https://www.bmj.com/content/369/bmj.m1849\n  [8]: https://jamanetwork.com/journals/jama/fullarticle/2766117\n  [9]: https://www.nejm.org/doi/full/10.1056/NEJMoa2012410\n",
+    "English Question": [
+      "rechQWZ1ctlJ81Vxn"
+    ],
+    "Cette réponse varie-t-elle en fonction de votre lieu de résidence ?": "Oui - certains pays ont inclus l'hydroxychloroquine dans leur protocole de traitement, bien que l'Organisation mondiale de la santé (OMS) ne reconnaisse pas ce médicament comme un traitement, car ils attendent les résultats des essais cliniques.\n",
+    "Cette réponse varie-t-elle en fonction de votre race, origine ethnique, âge, de votre sexe ou d'autres facteurs démographiques ?": "Non\n",
+    "Dernière mise à jour (contexte)": "2020-05-18T01:45:24.000Z",
+    "Dernière mise à jour": "2020-05-26T23:04:11.000Z",
+    "Dernière révision": "2020-07-07",
+    "English Glossary": [
+      "recM4p8QOERmuESKr",
+      "recAiJYWSxD5F1Lz1",
+      "recJ1c8DQQVGmXfzM",
+      "recjILnexcCRlyBIb"
+    ],
+    "(EN) Tags": [
+      "prevention",
+      "treatment",
+      "cure",
+      "hydroxychloroquine"
+    ],
+    "English Category": [
+      "Treatment"
+    ],
+    "English subcategory": [
+      "On: COVID-19 & hydroxychloroquine"
+    ],
+    "English source": [
+      "Social Media"
+    ],
+    "English country": [
+      "India"
+    ],
+    "What experts say": [
+      "Ongoing clinical trials are testing how safe and effective chloroquine and hydroxychloroquine are as treatments for COVID-19. So far, clinical trials and scientific analyses have not produced high quality evidence showing efficacy of these medications as a treatment, and some studies have even reported higher rates of adverse events (including cardiac issues) in hospitalized patients treated with hydroxychloroquine. As things stand, hydroxychloroquine is not a recognized prevention, treatment or cure for COVID-19.\nIn this context, there are research studies underway to find out whether taking this medication can prevent people from getting infected with coronavirus once they have been exposed. Other studies are still investigating the efficacy and safety of the drug as a treatment at different stages of the illness, including randomized controlled trials with a large number of patients enrolled.\nAround the world, some countries have moved ahead and authorized chloroquine or hydroxychloroquine for the treatment of COVID-19 despite limited clinical evidence supporting its efficacy. This decision follows some preliminary results coming out of China and France in March 2020, where a few small clinical trials showed limited success of the medication.\nIn the Unites States, on March 27th 2020, the Food and Drug Administration (FDA) has granted a special permission (Emergency Authorization Use) to use chloroquine and hydroxychloroquine in emergency situations for treatment of COVID-19. This did not constitute a formal approval of the drug, but rather a possibility given to American doctors to use chloroquine and hydroxychloroquine in the treatment of COVID-19 if the doctor has no other options and after discussing with the patients the risks involved. On June 15th 2020, the U.S. FDA has revoked the special permission to use chloroquine and hydroxychloroquine in emergency situations for COVID-19 citing that these drugs are unlikely to be effective in treating COVID-19 and highlighting serious cardiac adverse events and other serious side effects reported in studies."
+    ],
+    "Background & context": [
+      "Hydroxycloroquine is a medication currently prescribed for preventing or treating malaria, an infectious disease that can be transmitted to humans from mosquitos. It is also prescribed as a treatment for rheumatoid arthritis and lupus, which are both autoimmune diseases.\nWhen faced with an unknown virus like COVID-19 and without a specific vaccine and treatment, one of the best medical strategies is to look among the medications already available and clinically tested to see if any of them are effective. As their risks, benefits, and side effects have already been studied (without allowing safety tests to be ignored), this could speed up research. One of these is hydroxychloroquine. \nWhen trying to find treatments for COVID-19, hydroxychloroquine was tested on hospitalized patients. However, the results from this research do not represent evidence significant enough to recommend hydroxychloroquine for treating COVID-19. At the same time, some research studies have also shown some serious negative consequences (incl. serious heart rhythm problems) associated with the use of hydroxychloroquine in the treatment of COVID-19. More studies are underway.\n"
+    ],
+    "Other Resources (English)": [
+      "1. FDA revokes the emergency use authorization for chloroquine and hydroxychloroquine (U.S. FDA)\n2. FDA cautions against the use of hydroxychloroquine or chloroquine for COVID-19 outside of the hospital setting or a clinical trial due to a risk of heart rhythm problems (U.S. FDA)\n3. Investigational therapeutics for patients with COVID-19 (U.S. CDC) \n4. Trial update: No clinical benefit from use of hydroxychloroquine in hospitalized patients with COVID-19 (Recovery Trial)\n5. Information about \"compassionate use\" (U.S. FDA) \n6. Research paper: A Randomized Trial of Hydroxychloroquine as Postexposure Prophylaxis for Covid-19 (NEJM)\n7. Hydroxychloroquine or Chloroquine for Treatment or Prophylaxis of COVID-19: A Living Systematic Review (AIM)\n8. Research paper: Hydroxychloroquine in patients with mainly mild to moderate coronavirus disease 2019: open label, randomised controlled trial (BMJ)\n9. Research paper: Association of Treatment With Hydroxychloroquine or Azithromycin With In-Hospital Mortality in Patients With COVID-19 in New York State (JAMA)\n10. Research paper: Observational Study of Hydroxychloroquine in Hospitalized Patients with Covid-19 (NEJM)\n11. Research paper: Hydroxychloroquine in patients with mainly mild to moderate coronavirus disease 2019: open label, randomised controlled trial (BMJ)\n"
+    ]
+  },
+  {
+    "id": "recbjW2CdPdJHM0wE",
+    "Question": "Quelles sont les origines du virus ?",
+    "Item status": "Published",
+    "Catégorie": "Origines",
+    "Sous-catégorie": "A propps de : COVID-19 & origines",
+    "Source de la question": [
+      "Réseaux Sociaux"
+    ],
+    "Pays de provenance de la question": [
+      "Inde",
+      "Kenya",
+      "USA"
+    ],
+    "Fond & contexte": "Les coronavirus sont un groupe de virus qui peuvent causer une variété de maladies différentes. Ces maladies comprennent le rhume, le syndrome respiratoire aigu sévère (SRAS) et le syndrome respiratoire du Moyen-Orient (MERS). Certains virus peuvent provenir d'animaux et infecter ensuite l'humain, et cela peut se produire de différentes manières, notamment : en mangeant de la viande ou des produits qui ont été contaminés par le virus, par voie aérienne ou en touchant une surface qui a été touchée par un animal infecté, par un contact étroit avec un animal infecté ou par des piqûres d'insectes. Tous les virus ne se transmettent pas des animaux à l'humain par ces voies, cela dépend du virus. La section \"Ressources\" contient plus d'informations à ce sujet. \n",
+    "Ce que disent nos experts": "Le COVID-19 a été détecté pour la première fois dans la ville de Wuhan, en Chine, fin 2019. Le virus a depuis été partiellement retracé jusqu'à un grand marché de fruits de mer et d'animaux dans la ville, après que plusieurs personnes qui s'étaient rendues au marché aient été malades de la maladie que nous connaissons maintenant sous le nom de COVID-19. Les scientifiques ont pu analyser le génome du virus pour confirmer que le virus avait été identifié pour la première fois dans des échantillons humains et environnementaux dans la ville de Wuhan. Lorsque ces analyses génomiques ont été effectuées sur les gènes du virus COVID-19, ils ont révélé que le virus provenait d'un animal infecté et que le virus a muté lorsque cet animal a transféré le virus à un humain, probablement au grand marché de fruits de mer et d'animaux de Wuhan. Les détails de cet événement, appelé \"transfert zoonotique\", sont toujours en cours d'investigation.\n\n",
+    "Glossaire": [
+      "reccwo5NJI2cHb2Wl",
+      "recbMekD6UXPWJAi6"
+    ],
+    "Tags": [
+      "origines",
+      "Wuhan",
+      "Chine",
+      "chauve souris"
+    ],
+    "Autres ressources": "1. Genomic analysis findings for origin of COVID-19 ([NIH][1]) \n2. Zoonotic diseases description ([CDC][2]) \n3. Background on COVID-19 origin ([CDC][3]) \n4. COVID-19 information page ([CDC][4]) \n5. Research article: COVID-19: a novel zoonotic disease caused by a coronavirus from China: what we know and what we don’t ([NCBI][5])\n\n  [1]: https://directorsblog.nih.gov/2020/03/26/genomic-research-points-to-natural-origin-of-covid-19/\n  [2]: https://www.cdc.gov/onehealth/basics/zoonotic-diseases.html\n  [3]: https://emergency.cdc.gov/han/han00426.asp\n  [4]: https://www.cdc.gov/media/dpk/diseases-and-conditions/coronavirus/coronavirus-2020.html\n  [5]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7086482/#R1\n",
+    "English Question": [
+      "recqFRWiE9Y6nbUM5"
+    ],
+    "Cette réponse varie-t-elle en fonction de votre lieu de résidence ?": "Non\n",
+    "Cette réponse varie-t-elle en fonction de votre race, origine ethnique, âge, de votre sexe ou d'autres facteurs démographiques ?": "Non\n",
+    "Dernière mise à jour (contexte)": "2020-05-15T00:13:36.000Z",
+    "Dernière mise à jour": "2020-05-15T00:11:43.000Z",
+    "Dernière révision": "2020-05-15",
+    "Fréquence de mise à jour": [
+      "Monthly"
+    ],
+    "English Glossary": [
+      "recbQ95pvRq7nP9s3",
+      "recFSOdDjQBqJHnZ9"
+    ],
+    "(EN) Tags": [
+      "origin",
+      "bats",
+      "Wuhan",
+      "China"
+    ],
+    "English Category": [
+      "Origin"
+    ],
+    "English subcategory": [
+      "On: The origin of COVID-19 "
+    ],
+    "English source": [
+      "Social Media"
+    ],
+    "English country": [
+      "India",
+      "Kenya",
+      "USA"
+    ],
+    "What experts say": [
+      "COVID-19 was first detected in the city of Wuhan, China in late 2019. The virus has since been partially traced back to a large seafood and animal market in the city of Wuhan, after several people who had been to the market became sick with the illness we now know as COVID-19. Scientists were able to use genetic tests to confirm that the virus was first identified in people and environmental samples in the city of Wuhan. Tests on the genetics of viruses, much like genetics in humans, can reveal a lot about their origins. When these genetic tests were done on the COVID-19 virus' genes, it revealed that the virus originated in an infected animal and mutated when that animal transferred the virus to a human, likely in the city of Wuhan. The details about that event, which is called a zoonotic transfer, are still being investigated.\n"
+    ],
+    "Background & context": [
+      "Coronaviruses are a group of viruses that can cause a variety of different illnesses, but primarily upper-respiratory tract illnesses in humans. These illnesses include the common cold, severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS). Some viruses can originate in animals and later infect humans, and this can happen in a number of different ways, including: by eating meat or produce that has been contaminated by the virus, through the air or by touching a surface that was touched by an infected animal, through close contact with an infected animal, or through insect bites. Not all viruses transfer from animals to humans in all of these ways, it depends on the virus. The resources section contains more information about this. \n"
+    ],
+    "Other Resources (English)": [
+      "1. Viral and host factors related to the clinical outcome of COVID-19 (Nature)\n2. Genomic Study Points to Natural Origin of COVID-19 (NIH) \n3. Zoonotic diseases (U.S. CDC) \n4. Update and Interim Guidance on Outbreak of 2019 Novel Coronavirus (2019-nCoV) in Wuhan, China (U.S. CDC) \n5. Coronavirus Disease 2019 (COVID-19) (U.S. CDC) \n6. COVID-19: a novel zoonotic disease caused by a coronavirus from China: what we know and what we don’t (NCBI)\n"
+    ]
+  },
+  {
+    "id": "reccy9EmiOk9SlhJ7",
     "Question": "Le COVID-19 peut-il être transmis par une personne qui ne présente aucun symptôme ?",
     "Item status": "Published",
-    "NOTES (Internal)": "[@Erin McConnell][1] hey I hvae some feedback here\n\n  [1]: https://airtable.com/appzLYyvMpjIJnLY7/menQHC4emaqwZP04V/usrizsZa8YaW2o92W?recordId=rec1Is13sqBOj9Utz&fieldId=fldtJx3GUXKc04CNf\n",
+    "NOTES (Internal)": "\n",
     "Catégorie": "Transmission",
     "Sous-catégorie": "A propps de : transmission du COVID-19 sans présentation de symptômes",
     "Source de la question": [
@@ -15,10 +226,10 @@
     "Fond & contexte": "La période d'incubation du virus est la période de temps qui s'écoule entre le moment où une personne est infectée par le virus et celui où elle présente ses premiers symptômes. Pendant cette période, le virus se multiplie dans l'organisme, et une fois qu'il s'est suffisamment reproduit, les gens peuvent effectivement présenter des symptômes. \n",
     "Ce que disent nos experts": "Oui. Selon les preuves actuelles, on pense que les personnes ne présentant aucun symptôme, qui peuvent être asymptomatiques ou présymptomatiques, jouent un rôle majeur dans la transmission de COVID-19. Cela signifie qu'un dépistage basé sur les symptômes à lui seul a peu de chances de détecter tous les cas infectieux et de contrôler la transmission de COVID-19.La \"période d'incubation\" de COVID-19, qui est la période entre l'exposition d'une personne au virus et le premier signe de ses symptômes (si elle en développe), va de 5 à 14 jours. Certaines personnes peuvent être contagieuses pendant cette période d'incubation de 5 à 14 jours avant d'avoir des symptômes, ce qui rend ces cas \"pré-symptomatiques\". D'autres peuvent ne jamais présenter de symptômes du tout et sont dites \"asymptomatiques\". Les personnes asymptomatiques sont toujours contagieuses pendant toute la période où elles sont infectées par le virus, jusqu'à ce que leur corps élimine le virus.\n",
     "Glossaire": [
-      "recUXOFf1DspMwyDC",
-      "rec2GbJOpFZ8rtIoS",
-      "recTSKmAYQk0QnMSV",
-      "recmNsAwvniBzrfcu"
+      "rec5NviyR1bKlIVTa",
+      "recdwSm7f3It0F5Eq",
+      "rec4IrZTOe3lpz98t",
+      "recxD9dPlL1W8DCs2"
     ],
     "Tags": [
       "asymptomatique",
@@ -29,22 +240,22 @@
     ],
     "Autres ressources": "1. COVID-19 situation report ([WHO][1]) \n2. Presymptomatic SARS-CoV-2 Infections and Transmission in a Skilled Nursing Facility ([NEJM][2])\n3. Research letter: Asymptomatic SARS-CoV-2 Infection in Household Contacts of a Healthcare Provider, Wuhan, China ([U.S. CDC][3])\n4. A study about RT-PCR COVID-19 tests and their false-negative rate ([AIM][4])\n5. Research paper: The airborne lifetime of small speech droplets and their potential importance in SARS-CoV-2 transmission ([PNAS][5])\n6. CDC Pandemic Planning Scenarios ([CDC][6])\n\n  [1]: https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf\n  [2]: https://www.nejm.org/doi/full/10.1056/NEJMoa2008457\n  [3]: https://wwwnc.cdc.gov/eid/article/26/8/20-1016_article\n  [4]: https://www.acpjournals.org/doi/10.7326/M20-1495#.XrxprFvK46Y.twitter\n  [5]: https://www.pnas.org/content/early/2020/05/12/2006874117\n  [6]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/planning-scenarios.html\n",
     "English Question": [
-      "recHUqayyMkIpIQbX"
+      "recSK7NRoa33YUdrv"
     ],
     "Cette réponse varie-t-elle en fonction de votre lieu de résidence ?": "Non\n",
     "Cette réponse varie-t-elle en fonction de votre race, origine ethnique, âge, de votre sexe ou d'autres facteurs démographiques ?": "Non\n",
     "Dernière mise à jour (contexte)": "2020-05-14T23:24:52.000Z",
     "Dernière mise à jour": "2020-05-14T04:02:29.000Z",
-    "Dernière révision": "2020-07-07",
+    "Dernière révision": "2020-07-13",
     "Fréquence de mise à jour": [
       "Monthly"
     ],
     "English Glossary": [
-      "recthQJ47SKVzNN7p",
-      "recye9vIcu5SPPqqe",
-      "recmc8Bjm4ifXZMb8",
-      "recXzHuTTzM5LYtI3",
-      "rec09v2BD4fr1XycJ"
+      "recE7xmnXgtg8ZanX",
+      "recJ4Q812SOdo1NGM",
+      "recx2PeCcs1Awb9rG",
+      "rec8po7cJXvqkaQYB",
+      "recbZcFUtsYMA9Vsh"
     ],
     "(EN) Tags": [
       "asymptomatic",
@@ -80,7 +291,7 @@
     ]
   },
   {
-    "id": "receLSs3uyGOESXUG",
+    "id": "recpBz5mkWp9d4kae",
     "Question": "Le retour de l'été et de la chaleur va-t-il freiner la propagation du coronavirus ?",
     "Item status": "Published",
     "Catégorie": "Transmission",
@@ -94,7 +305,7 @@
     "Fond & contexte": "Certains virus, comme le rhume et la grippe, se propagent davantage lorsque le temps est plus froid. Les chercheurs ont étudié comment la température et l'humidité pouvaient influencer la propagation d'autres virus, mais il n'y a aucune preuve d'un tel impact dans le contexte de COVID-19. \n",
     "Ce que disent nos experts": "La science n'est pas sûre que la propagation de COVID-19 diminuera pendant les mois d'été les plus chauds. Certains virus, comme ceux qui causent le rhume et la grippe, ne se propagent pas aussi facilement quand il fait chaud. À l'heure actuelle, nous ne savons pas avec certitude si la propagation de COVID-19 diminuera lorsque le temps se réchauffera. \n",
     "Glossaire": [
-      "recCb33vpNU1Wgj2m"
+      "recN1KGOfbDmvsGiU"
     ],
     "Tags": [
       "variabilité saisonnière",
@@ -102,7 +313,7 @@
     ],
     "Autres ressources": "1. COVID-19 Resource Center ([Harvard][1]) \n2. Will warm weather slow spread of novel coronavirus? ([NIH][2])\n\n  [1]: https://www.health.harvard.edu/diseases-and-conditions/coronavirus-resource-center\n  [2]: https://directorsblog.nih.gov/2020/06/02/will-warm-weather-slow-spread-of-novel-coronavirus/\n",
     "English Question": [
-      "recDsUQBbmYc1Ed0S"
+      "recOiBtU1KHxAQAgq"
     ],
     "Cette réponse varie-t-elle en fonction de votre lieu de résidence ?": "Non\n",
     "Cette réponse varie-t-elle en fonction de votre race, origine ethnique, âge, de votre sexe ou d'autres facteurs démographiques ?": "Non\n",
@@ -110,7 +321,7 @@
     "Dernière mise à jour": "2020-05-14T04:17:28.000Z",
     "Dernière révision": "2020-06-03",
     "English Glossary": [
-      "recskEl8JEDHu8vMG"
+      "recDalYrz2m23kS2e"
     ],
     "(EN) Tags": [
       "summer transmission",
@@ -142,7 +353,7 @@
     ]
   },
   {
-    "id": "recsbAdMr86EOmsmp",
+    "id": "recD1hQ5hwPZnyPCX",
     "Question": "Quel est l'impact de la vitamine C sur la COVID-19 ?",
     "Item status": "Published",
     "Catégorie": "Traitement, Cure, Prévention",
@@ -159,22 +370,22 @@
     "Fond & contexte": "La vitamine C est une vitamine naturellement présente dans certains aliments, et qui est ajoutée à d'autres. La consommation de vitamine C est importante car, bien que l'organisme en ait besoin pour diverses raisons, ce n'est pas quelque chose que le corps humain peut facilement fabriquer par lui-même. Vous trouverez plus d'informations à ce sujet dans la section des ressources supplémentaires. \n",
     "Ce que disent nos experts": "La vitamine C ne peut pas vous empêcher de tomber malade ou de contracter le COVID-19. Elle n'est ni un remède ni une méthode de prévention du virus. Contrairement à la croyance populaire, il n'a jamais été prouvé que la vitamine C régulière diminue le nombre de rhumes contractés. Elle pourrait contribuer à réduire la durée et la gravité des rhumes, mais même les recherches dans ce domaine ne sont pas encore claires et évoluent. Actuellement, des études menées dans le monde entier tentent de déterminer si la vitamine C pourrait aider les personnes atteintes de COVID-19, mais aucune preuve ne montre que la prise de vitamine C peut avoir un impact sur les personnes atteintes du virus.\n",
     "Glossaire": [
-      "recrW44qlQlroqVoR"
+      "recCMLHJbe4MXCiEp"
     ],
     "Tags": [
       "Vitamin C"
     ],
     "Autres ressources": "1. Debunk of COVID-19 myths around the use of supplements ([Mayo Clinic][1]) \n2. Research paper: Vitamin C and the common cold ([NCBI][2])  \n3. Research paper: Vitamin C and the immune system ([NCBI][3]) \n4. General information about Vitamin C ([Mayo Clinic][4]) \n\n  [1]: https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/coronavirus-myths/art-20485720\n  [2]: https://www.ncbi.nlm.nih.gov/pubmed/23440782\n  [3]: https://www.ncbi.nlm.nih.gov/pubmed/29099763\n  [4]: https://www.mayoclinic.org/drugs-supplements-vitamin-c/art-20363932\n",
     "English Question": [
-      "recF9o3fkCkTfuOSN"
+      "recQZ5Gya03eOGb8l"
     ],
     "Cette réponse varie-t-elle en fonction de votre lieu de résidence ?": "Non\n",
     "Cette réponse varie-t-elle en fonction de votre race, origine ethnique, âge, de votre sexe ou d'autres facteurs démographiques ?": "Non\n",
     "Dernière mise à jour (contexte)": "2020-05-14T04:27:03.000Z",
     "Dernière mise à jour": "2020-05-14T16:17:43.000Z",
-    "Dernière révision": "2020-05-27",
+    "Dernière révision": "2020-07-13",
     "English Glossary": [
-      "recDWdj87GWHETG24"
+      "recOMUWrX4F2d53iC"
     ],
     "(EN) Tags": [
       "vitamin C",
@@ -207,7 +418,7 @@
     ]
   },
   {
-    "id": "rec87TjeD1YHsS3OQ",
+    "id": "recjXAWxtpH214q4o",
     "Question": "Où en sont les recherches concernant la transmission sexuelle du COVID-19 ?",
     "Item status": "Published",
     "Catégorie": "Transmission",
@@ -222,7 +433,7 @@
     "Fond & contexte": "Les virus peuvent être transmis de différentes manières. Certains virus peuvent se propager par contact physique ou par le toucher, par les fluides corporels tels que la salive, ou par voie aérienne. D'autres virus peuvent être transmis par des piqûres de tiques ou de moustiques, qui sont porteurs du virus, ou par des aliments et de l'eau contaminés. D'autres virus peuvent être transmis par rapport sexuel ou par le partage d'aiguilles contaminées par des liquides corporels. \n",
     "Ce que disent nos experts": "Sur la base des preuves disponibles actuellement, les experts ne savent pas si le COVID-19 peut se transmettre par des fluides corporels qui ne sont pas des fonctions respiratoires comme la toux et les éternuements. Nous savons, jusqu'à présent, que toutes les preuves indiquent une transmission par voie respiratoire. Aucun cas de transmission sexuelle n'a été documenté à ce jour. Une certaine confusion à ce sujet pourrait être due au fait que des traces du virus qui provoque la COVID-19 ont été trouvées dans les échantillons de sperme de 6 des 38 hommes qui ont fourni des échantillons dans le cadre d'une étude de recherche. Selon l'étude, quatre des six hommes étaient toujours infectés, tandis que deux se rétablissaient. Cela ne signifie pas que la COVID-19 est sexuellement transmissible. Des traces du virus ont également été trouvées dans d'autres fluides corporels et dans des échantillons de selles, mais il n'est pas certain que le virus puisse se transmettre lors de rapports sexuels.\n",
     "Glossaire": [
-      "recmNsAwvniBzrfcu"
+      "recxD9dPlL1W8DCs2"
     ],
     "Tags": [
       "sperme",
@@ -232,7 +443,7 @@
     ],
     "Autres ressources": "1. Research paper: A study to examine the prevalence of SARS-CoV-2, the virus responsible for COVID-19, in semen ([JAMA][1]) \n\n  [1]: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2765654\n",
     "English Question": [
-      "recav9NCViEXHlnaN"
+      "recllQqVLGnigxKql"
     ],
     "Cette réponse varie-t-elle en fonction de votre lieu de résidence ?": "Non\n",
     "Cette réponse varie-t-elle en fonction de votre race, origine ethnique, âge, de votre sexe ou d'autres facteurs démographiques ?": "Non\n",
@@ -240,7 +451,7 @@
     "Dernière mise à jour": "2020-05-14T23:31:43.000Z",
     "Dernière révision": "2020-05-15",
     "English Glossary": [
-      "recR461ElvBx3lGKi"
+      "rec2UNEXbTkSCx30Q"
     ],
     "(EN) Tags": [
       "semen",
@@ -273,76 +484,10 @@
     ]
   },
   {
-    "id": "recUqdrhluy3nuq37",
-    "Question": "Que dit la science sur l'exposition au soleil et le COVID-19",
-    "Item status": "Published",
-    "NOTES (Internal)": "\n",
-    "Catégorie": "Prévention",
-    "Sous-catégorie": "A propps de : COVID-19 & exposition au soleil",
-    "Source de la question": [
-      "Réseaux Sociaux",
-      "Salle de rédaction"
-    ],
-    "Pays de provenance de la question": [
-      "USA",
-      "Canada"
-    ],
-    "Fond & contexte": "De récents articles et études se sont intéressés au bronzage comme moyen de prévenir ou de traiter la COVID-19. Il n'a pas été prouvé que le bronzage est efficace pour combattre la COVID-19. Les rayonnements ultraviolets ou UV sont une forme de rayonnement électromagnétique, présents dans la lumière du soleil. Celle-ci émet trois types de rayonnement UV : UVA, UVB et UVC. Les UVC ont l'énergie la plus élevée et sont filtrés par l'atmosphère, de sorte qu'ils n'atteignent pas la surface de la Terre. \nCependant, les rayons UVC peuvent également êtres émis par certaines sources artificielles, telles que les ampoules désinfectantes UV, et être utilisés à l'intérieur, par exemple dans les hôpitaux, pour désinfecter les équipements et les surfaces médicales. En effet, les UVC ont la plus grande énergie des trois types de rayonnement, et leur énergie peut détruire le matériel génétique des virus. Le matériel génétique des virus comprend des informations qui peuvent contrôler la reproduction, le développement ou le comportement du virus. Mais les rayons UVC artificiels sont extrêmement dangereux pour l'Homme et ne doivent pas être utilisés en dehors d'un cadre professionnel pour désinfecter des surfaces et des objets.\nQuant à la lumière du soleil en général, même si le soleil peut tuer les germes, la désinfection des objets par la lumière du soleil ne serait pas efficace à 100 % et prendrait beaucoup de temps, et la plupart des usagers des foyers ne seraient pas en mesure de confirmer que leurs objets ont été entièrement désinfectés au cours de ce processus. Des études ont montré que la durée d'exposition au soleil nécessaire pour désinfecter des articles varie en fonction de leur taille, de leur matériau, etc. L'exposition au soleil n'est donc pas une solution recommandée pour désinfecter les articles ménagers courants. \n\n\n\n",
-    "Ce que disent nos experts": "S'exposer au soleil pendant une quelconque période n'empêche pas de transmettre la COVID-19 à une autre personne ou d'attraper la COVID-19 d'une autre personne. Une exposition prolongée au soleil peut être dangereuse et augmente le risque de cancer de la peau. À l'heure actuelle, l'exposition au soleil n'a pas de bienfaits pour la prévention ou le traitement de la COVID-19. \n",
-    "Glossaire": [
-      "reco9B8WtSUp7KAJR"
-    ],
-    "Tags": [
-      "ultraviolet",
-      "soleil",
-      "UV"
-    ],
-    "Autres ressources": "1. A pre-print study about decontamination and COVID-19 ([medRxiv][1])\n2. WHO Mythbusters ([WHO][2])\n3. New York Times article about ongoing UVC studies on medical equipment ([New York Times][3])\n4. A study evaluating Vitamin D in the human body and its potential impacts on COVID-10 ([Aging Clinical and Experimental Research][4])\n5. A study on Vitamin D Supplementation and the prevention of acute respiratory infection ([BMJ][5])\n\n\n  [1]: https://www.medrxiv.org/content/10.1101/2020.04.02.20051409v1.full.pdf\n  [2]: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters\n  [3]: https://www.nytimes.com/2020/03/20/health/coronavirus-masks-reuse.html\n  [4]: https://link.springer.com/article/10.1007/s40520-020-01570-8\n  [5]: https://www.bmj.com/content/356/bmj.i6583\n",
-    "English Question": [
-      "recgXgTOodNNDn9qo"
-    ],
-    "Cette réponse varie-t-elle en fonction de votre lieu de résidence ?": "Non\n",
-    "Cette réponse varie-t-elle en fonction de votre race, origine ethnique, âge, de votre sexe ou d'autres facteurs démographiques ?": "Non\n",
-    "Dernière mise à jour (contexte)": "2020-05-29T03:35:48.000Z",
-    "Dernière mise à jour": "2020-05-29T03:10:18.000Z",
-    "Dernière révision": "2020-06-23",
-    "English Glossary": [
-      "rec8Yz8ptURQJpkP7"
-    ],
-    "(EN) Tags": [
-      "ultraviolet",
-      "UV",
-      "sunlight"
-    ],
-    "English Category": [
-      "Prevention"
-    ],
-    "English subcategory": [
-      "On: COVID-19 & sunbathing"
-    ],
-    "English source": [
-      "Newsroom",
-      "Social Media"
-    ],
-    "English country": [
-      "USA",
-      "Canada"
-    ],
-    "What experts say": [
-      "Exposing yourself to the sun for any period of time does not prevent anyone from spreading COVID-19 to another person or catching COVID-19 from another person. Long-term exposure to sunlight can be very damaging and increase your risk of skin cancer. As of now, there is no clear benefit of sunbathing for preventing or treating COVID-19. \n"
-    ],
-    "Background & context": [
-      "Recent news articles and studies have focused on people sunbathing as a way to prevent or treat COVID-19. There has been no evidence that sunbathing is effective at combatting COVID-19. \nUltraviolet or UV rays are a form of electromagnetic radiation, present in sunlight. Sunlight emits three kinds of UV rays: UVA, UVB, and UVC. UVC has the highest energy and is filtered by the atmosphere so it does not reach the Earth's surface.\nHowever, UVC rays can also come from some man-made sources, such as UV sanitizing bulbs, and be used in indoor settings, such as hospitals, to disinfect medical equipment and surfaces. This is because UVC has the most energy of the three, and its energy can destroy the genetic material inside viruses. The genetic material in viruses includes information that can control the reproduction, development or behaviour of the virus. But artificial UVC rays are extremely dangerous and deadly to humans and should not be used outside of professional settings to disinfect surfaces and objects.\nAs for the general sunlight, while the sun can kill germs, disinfecting items through sunlight would not be 100% effective and would take a very long time and most household users would not be able to confirm that their items had been fully disinfected during this process. Studies have shown that there are different lengths of time of sun exposure needed for items to be disinfected depending on size, material, etc. Exposure to sunlight is therefore not a recommended solution for disinfecting routine household items. "
-    ],
-    "Other Resources (English)": [
-      "1. Coronavirus disease (COVID-19) advice for the public: Myth busters (WHO) \n2. Ultraviolet radiation and the INTERSUN Programme (WHO) \n3. As Coronavirus Looms, Mask Shortage Gives Rise to Promising Approach (NYT) \n4. The role of vitamin D in the prevention of coronavirus disease 2019 infection and mortality (Aging Clinical and Experimental Research)\n5. Vitamin D supplementation to prevent acute respiratory tract infections: systematic review and meta-analysis of individual participant data (BMJ)\n6. Rapid evidence summary on SARS-CoV-2 survivorship and disinfection, and a reusable PPE protocol using a double-hit process (medRxiv) \n\n"
-    ]
-  },
-  {
-    "id": "recg8Wi5Sp9EJk8tJ",
+    "id": "recrYDVoINSZiwvJh",
     "Question": "Le port de gants freine-t-il la propagation de COVID-19 ?",
     "Item status": "Published",
-    "NOTES (Internal)": "[@Kat Lo][1] the column other resources did not automatically update from EN to FR. I added a 4th resource in the spreadsheet in English and it did not automatically transfer to the French one...\n\n  [1]: https://airtable.com/appzLYyvMpjIJnLY7/menMoScN4sYi0De3U/usroy8b6v4JKenare?recordId=recg8Wi5Sp9EJk8tJ&fieldId=fldtJx3GUXKc04CNf\n",
+    "NOTES (Internal)": "[@Kat Lo][1] the column other resources did not automatically update from EN to FR. I added a 4th resource in the spreadsheet in English and it did not automatically transfer to the French one...\n\n  [1]: https://airtable.com/appKBFbOCN23iz8eF/menMoScN4sYi0De3U/usroy8b6v4JKenare?recordId=recrYDVoINSZiwvJh&fieldId=fldEzeGZKltxzgZ3N\n",
     "Catégorie": "Transmission",
     "Sous-catégorie": "A propps de : COVID-19 & port de gants",
     "Source de la question": [
@@ -351,9 +496,9 @@
     "Fond & contexte": "Des gants stériles, lorsqu'ils sont portés et retirés correctement, peuvent être un élément utile pour se protéger contre les maladies infectieuses. Cependant, si une personne ne porte pas correctement ses gants, cela va à l'encontre de l'objectif visé. Il est important de se rappeler que tout germe avec lequel une personne entre en contact peut se trouver sur les gants d'une autre personne, et peut ensuite être transféré sur toute autre surface que les gants touchent. Cela peut également donner aux gens un faux sentiment de sécurité lorsqu'ils portent des gants, et peut amener les gens à toucher des surfaces et des objets plus librement, puis à se toucher le visage, ce qui peut entraîner une auto-contamination par le virus. Le port de gants n'est une protection efficace que si la personne qui les porte suit les bonnes méthodes de protection. Si elles ne sont pas suivies, cela peut entraîner une contamination par un virus. \n",
     "Ce que disent nos experts": "Le COVID-19 se propage principalement par gouttelettes respiratoires qui sont expulsées lorsqu'une personne infectée par COVID-19 tousse, parle fort ou éternue. Ces gouttelettes peuvent ensuite se déposer sur le visage des personnes qui les entourent, ainsi que les surfaces et les objets à proximité. Le port de gants neufs et stériles et leur retrait correct peuvent vous aider à éviter de toucher une surface ou un objet infecté à mains nues. Cependant, le virus peut se trouver sur les gants et il y a un risque de contamination si vous vous touchez le visage avec les gants. Donc, les gants ne servent à prévenir une infection que si la personne qui les porte ne touche pas son visage avec ses mains gantées et que les gants sont retirés correctement avant de se laver les mains. Il est important de se souvenir de toucher le moins de surfaces et d'objets possible si vous portez des gants afin d'empêcher la contamination de surfaces et la propagation de COVID-19 à un plus grand nombre de personnes.\nA retenir que la meilleure façon d'éviter de propager la maladie ou d'être infecté par COVID-19 est de se laver les mains nues pendant 20 secondes avec du savon et de l'eau, de maintenir une distance physique d'au moins deux mètres entre vous et les autres, et de laver et désinfecter régulièrement les surfaces de votre maison. \nPour les personnes qui s'occupent de personnes infectées par le COVID-19 ou qui sont en contact avec elles, le port de gants peut aider à s'assurer que la personne qui s'occupe d'elles ne touche pas de substances contaminées provenant du corps de la personne malade, comme le mucus provenant d'un éternuement, l'urine, le sang, les excréments ou d'autres liquides. \n",
     "Glossaire": [
-      "recnczqo9etZ0f5uZ",
-      "recwPKUud2VCRKwnC",
-      "recwazOQfqNTnEE7I"
+      "recy2g3HZCckzrsKx",
+      "recHFrxN3qEXqWTDa",
+      "recH0gr95OweWQ1ng"
     ],
     "Tags": [
       "goutelettes",
@@ -364,7 +509,7 @@
     ],
     "Autres ressources": "1. How COVID-19 spreads ([U.S. CDC][1]) \n2. Information about the use of gloves ([WHO][2]) \n3. Information about hand hygiene ([WHO][3]) \n4. Information about COVID-19 and the use of gloves ([WHO][4])\n\n  [1]: https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-covid-spreads.html\n  [2]: https://www.who.int/gpsc/5may/Glove_Use_Information_Leaflet.pdf\n  [3]: https://www.who.int/gpsc/5may/Hand_Hygiene_Why_How_and_When_Brochure.pdf\n  [4]: https://www.who.int/news-room/ebola-photos/detail/images/default-source/searo---images/countries/bangladesh/infographics/ask-who-social-distancing/english/wearing-gloves\n",
     "English Question": [
-      "recggsiSAMyxfH7Nq"
+      "recr69VbqahSOTu3Y"
     ],
     "Cette réponse varie-t-elle en fonction de votre lieu de résidence ?": "Non\n",
     "Cette réponse varie-t-elle en fonction de votre race, origine ethnique, âge, de votre sexe ou d'autres facteurs démographiques ?": "Non\n",
@@ -372,9 +517,9 @@
     "Dernière mise à jour": "2020-05-17T00:00:55.000Z",
     "Dernière révision": "2020-05-28",
     "English Glossary": [
-      "recJK6vjhFIZVDzHB",
-      "recUIOFZ270ZV3BfW",
-      "recSjPJOW61GtZwsv"
+      "recUAN8C73rkuPWX9",
+      "rec5yviiSvJkufYvu",
+      "rec39wm7MuK12bTI3"
     ],
     "(EN) Tags": [
       "drop",
@@ -408,7 +553,73 @@
     ]
   },
   {
-    "id": "recWNuePm1b8KUYUn",
+    "id": "rec5gU4AbShoWGNjF",
+    "Question": "Que dit la science sur l'exposition au soleil et le COVID-19",
+    "Item status": "Published",
+    "NOTES (Internal)": "\n",
+    "Catégorie": "Prévention",
+    "Sous-catégorie": "A propps de : COVID-19 & exposition au soleil",
+    "Source de la question": [
+      "Réseaux Sociaux",
+      "Salle de rédaction"
+    ],
+    "Pays de provenance de la question": [
+      "USA",
+      "Canada"
+    ],
+    "Fond & contexte": "De récents articles et études se sont intéressés au bronzage comme moyen de prévenir ou de traiter la COVID-19. Il n'a pas été prouvé que le bronzage est efficace pour combattre la COVID-19. Les rayonnements ultraviolets ou UV sont une forme de rayonnement électromagnétique, présents dans la lumière du soleil. Celle-ci émet trois types de rayonnement UV : UVA, UVB et UVC. Les UVC ont l'énergie la plus élevée et sont filtrés par l'atmosphère, de sorte qu'ils n'atteignent pas la surface de la Terre. \nCependant, les rayons UVC peuvent également êtres émis par certaines sources artificielles, telles que les ampoules désinfectantes UV, et être utilisés à l'intérieur, par exemple dans les hôpitaux, pour désinfecter les équipements et les surfaces médicales. En effet, les UVC ont la plus grande énergie des trois types de rayonnement, et leur énergie peut détruire le matériel génétique des virus. Le matériel génétique des virus comprend des informations qui peuvent contrôler la reproduction, le développement ou le comportement du virus. Mais les rayons UVC artificiels sont extrêmement dangereux pour l'Homme et ne doivent pas être utilisés en dehors d'un cadre professionnel pour désinfecter des surfaces et des objets.\nQuant à la lumière du soleil en général, même si le soleil peut tuer les germes, la désinfection des objets par la lumière du soleil ne serait pas efficace à 100 % et prendrait beaucoup de temps, et la plupart des usagers des foyers ne seraient pas en mesure de confirmer que leurs objets ont été entièrement désinfectés au cours de ce processus. Des études ont montré que la durée d'exposition au soleil nécessaire pour désinfecter des articles varie en fonction de leur taille, de leur matériau, etc. L'exposition au soleil n'est donc pas une solution recommandée pour désinfecter les articles ménagers courants. \n\n\n\n",
+    "Ce que disent nos experts": "S'exposer au soleil pendant une quelconque période n'empêche pas de transmettre la COVID-19 à une autre personne ou d'attraper la COVID-19 d'une autre personne. Une exposition prolongée au soleil peut être dangereuse et augmente le risque de cancer de la peau. À l'heure actuelle, l'exposition au soleil n'a pas de bienfaits pour la prévention ou le traitement de la COVID-19. \n",
+    "Glossaire": [
+      "reczZiLfjgDKGWXZp"
+    ],
+    "Tags": [
+      "ultraviolet",
+      "soleil",
+      "UV"
+    ],
+    "Autres ressources": "1. A pre-print study about decontamination and COVID-19 ([medRxiv][1])\n2. WHO Mythbusters ([WHO][2])\n3. New York Times article about ongoing UVC studies on medical equipment ([New York Times][3])\n4. A study evaluating Vitamin D in the human body and its potential impacts on COVID-10 ([Aging Clinical and Experimental Research][4])\n5. A study on Vitamin D Supplementation and the prevention of acute respiratory infection ([BMJ][5])\n\n\n  [1]: https://www.medrxiv.org/content/10.1101/2020.04.02.20051409v1.full.pdf\n  [2]: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters\n  [3]: https://www.nytimes.com/2020/03/20/health/coronavirus-masks-reuse.html\n  [4]: https://link.springer.com/article/10.1007/s40520-020-01570-8\n  [5]: https://www.bmj.com/content/356/bmj.i6583\n",
+    "English Question": [
+      "recrNXw7eBw8czwGW"
+    ],
+    "Cette réponse varie-t-elle en fonction de votre lieu de résidence ?": "Non\n",
+    "Cette réponse varie-t-elle en fonction de votre race, origine ethnique, âge, de votre sexe ou d'autres facteurs démographiques ?": "Non\n",
+    "Dernière mise à jour (contexte)": "2020-05-29T03:35:48.000Z",
+    "Dernière mise à jour": "2020-05-29T03:10:18.000Z",
+    "Dernière révision": "2020-06-23",
+    "English Glossary": [
+      "recjOgLIjiAbiBH5F"
+    ],
+    "(EN) Tags": [
+      "ultraviolet",
+      "UV",
+      "sunlight"
+    ],
+    "English Category": [
+      "Prevention"
+    ],
+    "English subcategory": [
+      "On: COVID-19 & sunbathing"
+    ],
+    "English source": [
+      "Newsroom",
+      "Social Media"
+    ],
+    "English country": [
+      "USA",
+      "Canada"
+    ],
+    "What experts say": [
+      "Exposing yourself to the sun for any period of time does not prevent anyone from spreading COVID-19 to another person or catching COVID-19 from another person. Long-term exposure to sunlight can be very damaging and increase your risk of skin cancer. As of now, there is no clear benefit of sunbathing for preventing or treating COVID-19. \n"
+    ],
+    "Background & context": [
+      "Recent news articles and studies have focused on people sunbathing as a way to prevent or treat COVID-19. There has been no evidence that sunbathing is effective at combatting COVID-19. \nUltraviolet or UV rays are a form of electromagnetic radiation, present in sunlight. Sunlight emits three kinds of UV rays: UVA, UVB, and UVC. UVC has the highest energy and is filtered by the atmosphere so it does not reach the Earth's surface.\nHowever, UVC rays can also come from some man-made sources, such as UV sanitizing bulbs, and be used in indoor settings, such as hospitals, to disinfect medical equipment and surfaces. This is because UVC has the most energy of the three, and its energy can destroy the genetic material inside viruses. The genetic material in viruses includes information that can control the reproduction, development or behaviour of the virus. But artificial UVC rays are extremely dangerous and deadly to humans and should not be used outside of professional settings to disinfect surfaces and objects.\nAs for the general sunlight, while the sun can kill germs, disinfecting items through sunlight would not be 100% effective and would take a very long time and most household users would not be able to confirm that their items had been fully disinfected during this process. Studies have shown that there are different lengths of time of sun exposure needed for items to be disinfected depending on size, material, etc. Exposure to sunlight is therefore not a recommended solution for disinfecting routine household items. "
+    ],
+    "Other Resources (English)": [
+      "1. Coronavirus disease (COVID-19) advice for the public: Myth busters (WHO) \n2. Ultraviolet radiation and the INTERSUN Programme (WHO) \n3. As Coronavirus Looms, Mask Shortage Gives Rise to Promising Approach (NYT) \n4. The role of vitamin D in the prevention of coronavirus disease 2019 infection and mortality (Aging Clinical and Experimental Research)\n5. Vitamin D supplementation to prevent acute respiratory tract infections: systematic review and meta-analysis of individual participant data (BMJ)\n6. Rapid evidence summary on SARS-CoV-2 survivorship and disinfection, and a reusable PPE protocol using a double-hit process (medRxiv) \n\n"
+    ]
+  },
+  {
+    "id": "rec7DbR8cpUtj6laV",
     "Question": "La vaccination au BCG protège-t-elle contre la COVID-19 ?",
     "Item status": "Published",
     "Catégorie": "Traitement",
@@ -422,8 +633,8 @@
     "Fond & contexte": "Le vaccin BGC, ou bacille Calmette-Guérin, est un vaccin contre la tuberculose (TB). Ce vaccin est utilisé dans de nombreux pays où le taux de tuberculose est élevé, afin de prévenir la maladie et d'empêcher sa propagation à grande échelle. Alors que les chercheurs en santé publique tentent de comprendre le faible nombre de cas et de décès en Afrique subsaharienne et dans certaines parties de l'Asie du Sud-Est dus au COVID-19, des hypothèses ont été émises sur le pouvoir protecteur du vaccin BCG contre le coronavirus en raison d'une corrélation entre les pays où le vaccin BCG est utilisé et le nombre de cas de COVID-19 signalés dans ces pays. La dernière étude publiée sur ce sujet le 13 mai dernier ne soutient pas l'idée que la vaccination par le BCG pendant l'enfance ait un effet protecteur contre COVID-19 à l'âge adulte. D'autres études sont en cours.\n",
     "Ce que disent nos experts": "De nombreuses études explorent le lien entre les politiques de vaccination par le BCG dans divers pays et le nombre relativement faible de cas et de décès dus à la COVID-19. La dernière étude menée en Israël et publiée sur ce sujet le 13 mai ne soutient pas l'idée que la vaccination par le BCG pendant l'enfance ait un effet protecteur contre la COVID-19 à l'âge adulte. L'OMS a publié une note à ce sujet qui indique qu'en l'absence de preuves, l'OMS ne recommande pas la vaccination par le BCG pour la prévention de la COVID-19. D'autres études sont en cours.\n",
     "Glossaire": [
-      "recufiP1R9TIJz1BI",
-      "recV3D4r8JJsoAZJn"
+      "recF5ZskHxC3iLoRg",
+      "rec6TkHKY7sNXMmZV"
     ],
     "Tags": [
       "prévention",
@@ -431,7 +642,7 @@
     ],
     "Autres ressources": "1. Research paper: SARS-CoV-2 rates in BCG-vaccinated and -unvaccinated young adults ([JAMA][1]) \n2. Scientific brief: BCG vaccination and COVID-19 ([WHO][2]) \n\n  [1]: https://jamanetwork.com/journals/jama/fullarticle/2766182\n  [2]: https://www.who.int/news-room/commentaries/detail/bacille-calmette-guérin-(bcg)-vaccination-and-covid-19\n",
     "English Question": [
-      "recrMq3YCzjhbNmVU"
+      "recCC7GhsX2CKZJbs"
     ],
     "Cette réponse varie-t-elle en fonction de votre lieu de résidence ?": "Non\n",
     "Cette réponse varie-t-elle en fonction de votre race, origine ethnique, âge, de votre sexe ou d'autres facteurs démographiques ?": "Non\n",
@@ -439,8 +650,8 @@
     "Dernière mise à jour": "2020-05-14T05:05:28.000Z",
     "Dernière révision": "2020-05-27",
     "English Glossary": [
-      "recY2hhjzDbq41DEd",
-      "recJHr8j0iBwEljN3"
+      "rec9SYUCp1ULDd0UL",
+      "recUx8LCQGkRdxG3B"
     ],
     "(EN) Tags": [
       "prevention",
@@ -460,413 +671,13 @@
       "Senegal"
     ],
     "What experts say": [
-      "Multiple studies are exploring the link between BCG vaccination policies in various countries, and the relatively lower number of COVID-19 cases and deaths in those countries. Recent studies published do not support the idea that BCG vaccination in childhood has a protective effect against COVID-19 in adulthood. The WHO has published a note on this topic that stated that in the absence of evidence, WHO does not recommend BCG vaccination for the prevention of COVID-19. More studies are underway."
+      "Multiple studies are exploring the link between BCG vaccination policies in various countries, and the relatively lower number of COVID-19 cases and deaths in those countries. Recent studies published do not support the idea that BCG vaccination in childhood has a protective effect against COVID-19 in adulthood. The World Health Organization (WHO) has published a note on this topic that stated that in the absence of evidence, WHO does not recommend BCG vaccination for the prevention of COVID-19. More studies are underway.\n\nUPDATED: July 11, 2020: A recent study published in the Proceedings of the National Academy of Sciences (U.S.) noted that after they accounted for differences in variables like income, age distribution, and access to health services, countries with higher BCG vaccination rates had lower peak mortality rates from COVID-19. However, though there is an association between BCG vaccination and reduced severity of COVID-19 observed in this epidemiological study, it does not mean that there is sufficient enough evidence to consider BCG vaccination a cause of protection from severe COVID-19. There is not enough evidence to support whether or not BCG vaccines can offer protection against severe COVID-19 symptoms and death, and we will continue to update this answer as study results targeting the vaccine  are published."
     ],
     "Background & context": [
       "The BGC vaccine, or the bacille Calmette-Guerin vaccine, is a vaccine for tuberculosis (TB) disease. This vaccine is used in many countries that have high rates of tuberculosis in order to prevent the disease from spreading. As public health researchers try and understand the low case numbers and death count in sub-Saharan Africa and parts of South-East Asia from COVID-19, hypotheses have emerged about the protective power of the BCG vaccine against the coronavirus because of a correlation between countries where the BCG vaccine is widely used and the low number of COVID-19 cases reported in those countries. Recent studies published on this topic do not support the idea that BCG vaccination in childhood has a protective effect against COVID-19 in adulthood. More studies are underway as it's still not clear yet how the BCG vaccine interacts with the virus that causes COVID-19.\n"
     ],
     "Other Resources (English)": [
-      "1. SARS-CoV-2 Rates in BCG-Vaccinated and Unvaccinated Young Adults (JAMA) \n2. Bacille Calmette-Guérin (BCG) vaccination and COVID-19 (WHO) \n"
-    ]
-  },
-  {
-    "id": "rec0tfpjnruo8ADg6",
-    "Question": "Quelles sont les origines du virus ?",
-    "Item status": "Published",
-    "Catégorie": "Origines",
-    "Sous-catégorie": "A propps de : COVID-19 & origines",
-    "Source de la question": [
-      "Réseaux Sociaux"
-    ],
-    "Pays de provenance de la question": [
-      "Inde",
-      "Kenya",
-      "USA"
-    ],
-    "Fond & contexte": "Les coronavirus sont un groupe de virus qui peuvent causer une variété de maladies différentes. Ces maladies comprennent le rhume, le syndrome respiratoire aigu sévère (SRAS) et le syndrome respiratoire du Moyen-Orient (MERS). Certains virus peuvent provenir d'animaux et infecter ensuite l'humain, et cela peut se produire de différentes manières, notamment : en mangeant de la viande ou des produits qui ont été contaminés par le virus, par voie aérienne ou en touchant une surface qui a été touchée par un animal infecté, par un contact étroit avec un animal infecté ou par des piqûres d'insectes. Tous les virus ne se transmettent pas des animaux à l'humain par ces voies, cela dépend du virus. La section \"Ressources\" contient plus d'informations à ce sujet. \n",
-    "Ce que disent nos experts": "Le COVID-19 a été détecté pour la première fois dans la ville de Wuhan, en Chine, fin 2019. Le virus a depuis été partiellement retracé jusqu'à un grand marché de fruits de mer et d'animaux dans la ville, après que plusieurs personnes qui s'étaient rendues au marché aient été malades de la maladie que nous connaissons maintenant sous le nom de COVID-19. Les scientifiques ont pu analyser le génome du virus pour confirmer que le virus avait été identifié pour la première fois dans des échantillons humains et environnementaux dans la ville de Wuhan. Lorsque ces analyses génomiques ont été effectuées sur les gènes du virus COVID-19, ils ont révélé que le virus provenait d'un animal infecté et que le virus a muté lorsque cet animal a transféré le virus à un humain, probablement au grand marché de fruits de mer et d'animaux de Wuhan. Les détails de cet événement, appelé \"transfert zoonotique\", sont toujours en cours d'investigation.\n\n",
-    "Glossaire": [
-      "rec1GHsuTkjR8ZFGN",
-      "rec0WxHkgweunxd2y"
-    ],
-    "Tags": [
-      "origines",
-      "Wuhan",
-      "Chine",
-      "chauve souris"
-    ],
-    "Autres ressources": "1. Genomic analysis findings for origin of COVID-19 ([NIH][1]) \n2. Zoonotic diseases description ([CDC][2]) \n3. Background on COVID-19 origin ([CDC][3]) \n4. COVID-19 information page ([CDC][4]) \n5. Research article: COVID-19: a novel zoonotic disease caused by a coronavirus from China: what we know and what we don’t ([NCBI][5])\n\n  [1]: https://directorsblog.nih.gov/2020/03/26/genomic-research-points-to-natural-origin-of-covid-19/\n  [2]: https://www.cdc.gov/onehealth/basics/zoonotic-diseases.html\n  [3]: https://emergency.cdc.gov/han/han00426.asp\n  [4]: https://www.cdc.gov/media/dpk/diseases-and-conditions/coronavirus/coronavirus-2020.html\n  [5]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7086482/#R1\n",
-    "English Question": [
-      "recfPajZOLfLOZxwx"
-    ],
-    "Cette réponse varie-t-elle en fonction de votre lieu de résidence ?": "Non\n",
-    "Cette réponse varie-t-elle en fonction de votre race, origine ethnique, âge, de votre sexe ou d'autres facteurs démographiques ?": "Non\n",
-    "Dernière mise à jour (contexte)": "2020-05-15T00:13:36.000Z",
-    "Dernière mise à jour": "2020-05-15T00:11:43.000Z",
-    "Dernière révision": "2020-05-15",
-    "Fréquence de mise à jour": [
-      "Monthly"
-    ],
-    "English Glossary": [
-      "rec00ss6FtHMODMcv",
-      "recu27AktsS5av0JB"
-    ],
-    "(EN) Tags": [
-      "origin",
-      "bats",
-      "Wuhan",
-      "China"
-    ],
-    "English Category": [
-      "Origin"
-    ],
-    "English subcategory": [
-      "On: The origin of COVID-19 "
-    ],
-    "English source": [
-      "Social Media"
-    ],
-    "English country": [
-      "India",
-      "Kenya",
-      "USA"
-    ],
-    "What experts say": [
-      "COVID-19 was first detected in the city of Wuhan, China in late 2019. The virus has since been partially traced back to a large seafood and animal market in the city of Wuhan, after several people who had been to the market became sick with the illness we now know as COVID-19. Scientists were able to use genetic tests to confirm that the virus was first identified in people and environmental samples in the city of Wuhan. Tests on the genetics of viruses, much like genetics in humans, can reveal a lot about their origins. When these genetic tests were done on the COVID-19 virus' genes, it revealed that the virus originated in an infected animal and mutated when that animal transferred the virus to a human, likely in the city of Wuhan. The details about that event, which is called a zoonotic transfer, are still being investigated.\n"
-    ],
-    "Background & context": [
-      "Coronaviruses are a group of viruses that can cause a variety of different illnesses, but primarily upper-respiratory tract illnesses in humans. These illnesses include the common cold, severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS). Some viruses can originate in animals and later infect humans, and this can happen in a number of different ways, including: by eating meat or produce that has been contaminated by the virus, through the air or by touching a surface that was touched by an infected animal, through close contact with an infected animal, or through insect bites. Not all viruses transfer from animals to humans in all of these ways, it depends on the virus. The resources section contains more information about this. \n"
-    ],
-    "Other Resources (English)": [
-      "1. Viral and host factors related to the clinical outcome of COVID-19 (Nature)\n2. Genomic Study Points to Natural Origin of COVID-19 (NIH) \n3. Zoonotic diseases (U.S. CDC) \n4. Update and Interim Guidance on Outbreak of 2019 Novel Coronavirus (2019-nCoV) in Wuhan, China (U.S. CDC) \n5. Coronavirus Disease 2019 (COVID-19) (U.S. CDC) \n6. COVID-19: a novel zoonotic disease caused by a coronavirus from China: what we know and what we don’t (NCBI)\n"
-    ]
-  },
-  {
-    "id": "recMYEfGFaVj3b34M",
-    "Question": "Quel est le lien entre l'utilisation des antibiotiques et le traitement du COVID-19 ?",
-    "Item status": "Published",
-    "Catégorie": "Traitement",
-    "Sous-catégorie": "A propps de : COVID-19 & antibiotiques",
-    "Source de la question": [
-      "Réseaux Sociaux"
-    ],
-    "Pays de provenance de la question": [
-      "USA"
-    ],
-    "Fond & contexte": "Les antibiotiques sont des médicaments antibactériens qui ralentissent ou détruisent la croissance des bactéries. Ils sont utilisés pour traiter les infections causées par des bactéries. Un article décrivant les différences entre les virus et les bactéries se trouve dans la section des ressources complémentaires. La maladie COVID-19 est causée par une infection par un virus, et non par une bactérie. COVID-19 est une maladie qui est un type de coronavirus. Les coronavirus sont un groupe de virus qui provoquent des maladies telles que le rhume, le syndrome respiratoire aigu sévère (SRAS) et le syndrome respiratoire du Moyen-Orient (SRM). Les virus et les bactéries étant différents, les maladies qu'ils provoquent ne peuvent pas être traitées par le même type de médicaments. Les antibiotiques ne peuvent pas être utilisés pour traiter des infections virales comme le COVID-19.  \n",
-    "Ce que disent nos experts": "Les antibiotiques ne sont certainement pas utilisés pour traiter ou guérir le COVID-19, mais ils peuvent traiter les infections bactériennes qui peuvent survenir à la suite de complications du virus COVID-19. Les virus et les infections bactériennes provoquent différents types de maladies, et les antibiotiques ne sont efficaces que pour traiter les infections bactériennes, et non les virus comme COVID-19. Les antibiotiques ne doivent pas être pris pour prévenir ou traiter COVID-19 et ils ne doivent pas être pris à moins d'être prescrits par un médecin. Parfois, les antibiotiques peuvent être utilisés chez les patients atteints de COVID-19, mais uniquement pour traiter des infections bactériennes secondaires. \n\n",
-    "Glossaire": [
-      "recGnWKNfwtmOoJNR",
-      "reccaEgKJRVWmjLoQ",
-      "recvuuV9FNqpgMVNO"
-    ],
-    "Tags": [
-      "antibiotiques",
-      "infection bactérienne",
-      "traitement",
-      "cure"
-    ],
-    "Autres ressources": "1. Q&A on coronaviruses (COVID-19) ([WHO][1])\n2. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study ([The Lancet][2])   \n3. Rates of Co-infection Between SARS-CoV-2 and Other Respiratory Pathogens ([JAMA Network][3])\n4. Difference between a bacteria and a virus ([Mayo Clinic][4]) \n\n  [1]: https://www.who.int/news-room/q-a-detail/q-a-coronaviruses   http://www.med.umich.edu/asp/pdf/adult_guidelines/COVID-19-treatment.pdf\n  [2]: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30211-7/fulltext\n  [3]: https://jamanetwork.com/journals/jama/fullarticle/2764787\n  [4]: https://www.mayoclinic.org/diseases-conditions/infectious-diseases/expert-answers/infectious-disease/faq-20058098\n",
-    "English Question": [
-      "recjietpQV3aFGIuW"
-    ],
-    "Cette réponse varie-t-elle en fonction de votre lieu de résidence ?": "Non\n",
-    "Cette réponse varie-t-elle en fonction de votre race, origine ethnique, âge, de votre sexe ou d'autres facteurs démographiques ?": "Non\n",
-    "Dernière mise à jour (contexte)": "2020-05-14T05:20:02.000Z",
-    "Dernière mise à jour": "2020-05-14T05:21:40.000Z",
-    "Dernière révision": "2020-05-15",
-    "English Glossary": [
-      "recdfDnazUIV7rRaD",
-      "reccPdkfSBPNsFWLa",
-      "rec63R2DjaW8iKUSQ",
-      "recGQ00EHQV2ofvTV",
-      "recpPNWdV1Gy2rlzG"
-    ],
-    "(EN) Tags": [
-      "antibiotics",
-      "bacterial infection",
-      "prevention",
-      "treatment",
-      "virus",
-      "medicine"
-    ],
-    "English Category": [
-      "Treatment"
-    ],
-    "English subcategory": [
-      "On: COVID-19 & antibiotics "
-    ],
-    "English source": [
-      "Social Media"
-    ],
-    "English country": [
-      "USA"
-    ],
-    "What experts say": [
-      "Antibiotics are not used to treat or cure COVID-19, but they can treat bacterial infections that can happen as a result of complications from the COVID-19 virus. Viruses and bacterial infections cause different types of illnesses, and antibiotics are only effective in treating bacterial infections, not viruses like COVID-19. Antibiotics should not be taken as a way to prevent or treat COVID-19 and they should not be taken unless prescribed by a doctor. Sometimes, antibiotics might be used in patients with COVID-19 but only to treat secondary bacterial infections. "
-    ],
-    "Background & context": [
-      "Antibiotics are antibacterial medications that either slow down or destroy the growth of bacteria. They are used to treat infections that are caused by bacteria. (More information on the differences between viruses and bacteria can be found in the additional resources section.) The COVID-19 disease is caused by an infection with a virus, not a bacteria. COVID-19 is a disease that is a type of coronavirus. Coronaviruses are a group of viruses that cause diseases such as the common cold, severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS). Because viruses and bacteria are different, the illnesses that they cause cannot be treated by the same type of medication. Antibiotics cannot be used to treat viral infections like COVID-19.  "
-    ],
-    "Other Resources (English)": [
-      "1. Q&A on coronaviruses (COVID-19) (WHO)\n2. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study (The Lancet)   \n3. Rates of Co-infection Between SARS-CoV-2 and Other Respiratory Pathogens (JAMA Network)\n4. Difference between a bacteria and a virus (Mayo Clinic) "
-    ]
-  },
-  {
-    "id": "recptjgFtLozeIzdM",
-    "Question": "Que dit la science sur l'utilisation de l'hydroxychloroquine pour prévenir, traiter ou guérir le COVID-19 ?",
-    "Item status": "Published",
-    "Catégorie": "Traitement",
-    "Sous-catégorie": "A propps de : COVID-19 & hydroxychloroquine",
-    "Source de la question": [
-      "Réseaux Sociaux"
-    ],
-    "Pays de provenance de la question": [
-      "Inde"
-    ],
-    "Fond & contexte": "L'hydroxycloroquine est un médicament actuellement prescrit pour prévenir ou traiter la malaria, une maladie infectieuse qui peut être transmise à l'homme par les moustiques. Il est également prescrit comme traitement de la polyarthrite rhumatoïde et du lupus, qui sont toutes les deux des maladies auto-immunes.\nFace à un virus inconnu et en l’absence de vaccin et de traitement spécifiques, une des stratégies thérapeutiques consiste à regarder parmi les médicaments déjà disponibles et cliniquement testés, si l’un d’entre eux est efficace. Leurs balances bénéfices/risques et leurs effets secondaires ayant déjà été étudiés (sans toutefois permettre l’impasse sur les tests de sécurité), cela pourrait accélérer la recherche. Parmi ceux-là : l’hydroxychloroquine. \nLors de la recherche de traitements pour COVID-19, l'hydroxychloroquine a été testée sur des patients. Cependant, les résultats de cette recherche n'ont jusqu'à présent pas permis de recommander l'hydroxychloroquine pour le traitement de la COVID-19. Dans certaines de ces études, des consequences négatives sur l'état des patients ont été observées en association  avec la prise d'hydroxychloroquine.\n",
-    "Ce que disent nos experts": "Les essais cliniques en cours testent l'efficacité et la sécurité de la chloroquine et de l'hydroxychloroquine comme traitements pour la COVID-19. Jusqu'à présent, les essais cliniques et les analyses scientifiques n'ont pas produit de preuves de haute qualité (données probantes) montrant l'efficacité de ces médicaments en tant que traitement, et certaines études ont même signalé des taux plus élevés d'événements indésirables (y compris des problèmes cardiaques) chez les patients hospitalisés traités à l'hydroxychloroquine. A l'heure actuelle, l'hydroxychloroquine n'est pas un moyen de prévention ni un traitement reconnu pour la COVID-19.\nDans ce contexte, des études sont en cours pour savoir si la prise de ce médicament en prévention peut empêcher les gens d'être infectés par le coronavirus s'ils sont exposés au virus ; d'autres études examinent encore son efficacité et sa sécurité en tant que traitement en fonction du degré de sévérité de la maladie, dans le cadre d'essais contrôlés randomisés avec un grand nombre de patients inscrits.\nA travers le monde, certains pays sont allés de l'avant et ont autorisé la chloroquine ou l'hydroxychloroquine pour le traitement du COVID-19, malgré le peu de preuves cliniques concernant son efficacité. Cette décision fait suite à des résultats préliminaires obtenus en Chine et en France en mars 2020, où quelques essais cliniques de petite taille ont montré que le médicament n'avait eu qu'un succès limité.\nAux États-Unis, l’agence de réglementation des produits biologiques (Food and Drug Administration-FDA), a accordé une autorisation spéciale pour utiliser la chloroquine et l'hydroxychloroquine dans les essais cliniques et les situations d'urgence relatives à la COVID-19. Ceci ne constitue pas une approbation formelle du médicament, mais plutôt une possibilité donnée aux médecins américains d'utiliser la chloroquine et l'hydroxychloroquine dans les essais cliniques et dans le traitement de COVID-19 si le médecin n'a pas d'autres options.\n\n",
-    "Glossaire": [
-      "reck1q7tgxvSq3a6p",
-      "recpF1lDsgJ5ndrT6",
-      "rec7nmWJHDLDPcJhS"
-    ],
-    "Tags": [
-      "Hydroxychloroquine",
-      "prévention",
-      "traitement",
-      "cure"
-    ],
-    "Autres ressources": "1. FDA cautions against the use of hydroxychloroquine or chloroquine for COVID-19 outside of the hospital setting or a clinical trial due to a risk of heart rhythm problems ([U.S. FDA][1])\n2. Investigational therapeutics for patients with COVID-19 ([U.S. CDC][2]) \n3. Trial update: No clinical benefit from use of hydroxychloroquine in hospitalized patients with COVID-19 ([Recovery Trial][3])\n4. Information about \"compassionate use\" ([U.S. FDA][4]) \n5. Research paper: A Randomized Trial of Hydroxychloroquine as Postexposure Prophylaxis for Covid-19 ([NEJM][5])\n6. Hydroxychloroquine or Chloroquine for Treatment or Prophylaxis of COVID-19: A Living Systematic Review ([AIM][6])\n7. Research paper: Hydroxychloroquine in patients with mainly mild to moderate coronavirus disease 2019: open label, randomised controlled trial ([BMJ][7])\n8. Research paper: Association of Treatment With Hydroxychloroquine or Azithromycin With In-Hospital Mortality in Patients With COVID-19 in New York State ([JAMA][8])\n9. Research paper: Observational Study of Hydroxychloroquine in Hospitalized Patients with Covid-19 ([NEJM][9])\n10. Research paper: Hydroxychloroquine in patients with mainly mild to moderate coronavirus disease 2019: open label, randomised controlled trial ([BMJ][7])\n\n  [1]: https://www.fda.gov/drugs/drug-safety-and-availability/fda-cautions-against-use-hydroxychloroquine-or-chloroquine-covid-19-outside-hospital-setting-or\n  [2]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/therapeutic-options.html\n  [3]: https://www.recoverytrial.net/news/statement-from-the-chief-investigators-of-the-randomised-evaluation-of-covid-19-therapy-recovery-trial-on-hydroxychloroquine-5-june-2020-no-clinical-benefit-from-use-of-hydroxychloroquine-in-hospitalised-patients-with-covid-19\n  [4]: https://www.fda.gov/news-events/public-health-focus/expanded-access\n  [5]: https://www.nejm.org/doi/full/10.1056/NEJMoa2016638?query=featured_home\n  [6]: https://www.acpjournals.org/doi/10.7326/M20-2496\n  [7]: https://www.bmj.com/content/369/bmj.m1849\n  [8]: https://jamanetwork.com/journals/jama/fullarticle/2766117\n  [9]: https://www.nejm.org/doi/full/10.1056/NEJMoa2012410\n",
-    "English Question": [
-      "rec60fmIm5CozPyhP"
-    ],
-    "Cette réponse varie-t-elle en fonction de votre lieu de résidence ?": "Oui - certains pays ont inclus l'hydroxychloroquine dans leur protocole de traitement, bien que l'Organisation mondiale de la santé (OMS) ne reconnaisse pas ce médicament comme un traitement, car ils attendent les résultats des essais cliniques.\n",
-    "Cette réponse varie-t-elle en fonction de votre race, origine ethnique, âge, de votre sexe ou d'autres facteurs démographiques ?": "Non\n",
-    "Dernière mise à jour (contexte)": "2020-05-18T01:45:24.000Z",
-    "Dernière mise à jour": "2020-05-26T23:04:11.000Z",
-    "Dernière révision": "2020-07-07",
-    "English Glossary": [
-      "recBeIvxYg81VsvuT",
-      "recps2lD29UK6Pojt",
-      "recybvvk0sclNLSje",
-      "rec8S4KVHOTwMmesD"
-    ],
-    "(EN) Tags": [
-      "prevention",
-      "treatment",
-      "cure",
-      "hydroxychloroquine"
-    ],
-    "English Category": [
-      "Treatment"
-    ],
-    "English subcategory": [
-      "On: COVID-19 & hydroxychloroquine"
-    ],
-    "English source": [
-      "Social Media"
-    ],
-    "English country": [
-      "India"
-    ],
-    "What experts say": [
-      "Ongoing clinical trials are testing how safe and effective chloroquine and hydroxychloroquine are as treatments for COVID-19. So far, clinical trials and scientific analyses have not produced high quality evidence showing efficacy of these medications as a treatment, and some studies have even reported higher rates of adverse events (including cardiac issues) in hospitalized patients treated with hydroxychloroquine. As things stand, hydroxychloroquine is not a recognized prevention, treatment or cure for COVID-19.\nIn this context, there are research studies underway to find out whether taking this medication can prevent people from getting infected with coronavirus once they have been exposed. Other studies are still investigating the efficacy and safety of the drug as a treatment at different stages of the illness, including randomized controlled trials with a large number of patients enrolled.\nAround the world, some countries have moved ahead and authorized chloroquine or hydroxychloroquine for the treatment of COVID-19 despite limited clinical evidence supporting its efficacy. This decision follows some preliminary results coming out of China and France in March 2020, where a few small clinical trials showed limited success of the medication.\nIn the Unites States, on March 27th 2020, the Food and Drug Administration (FDA) has granted a special permission (Emergency Authorization Use) to use chloroquine and hydroxychloroquine in emergency situations for treatment of COVID-19. This did not constitute a formal approval of the drug, but rather a possibility given to American doctors to use chloroquine and hydroxychloroquine in the treatment of COVID-19 if the doctor has no other options and after discussing with the patients the risks involved. On June 15th 2020, the U.S. FDA has revoked the special permission to use chloroquine and hydroxychloroquine in emergency situations for COVID-19 citing that these drugs are unlikely to be effective in treating COVID-19 and highlighting serious cardiac adverse events and other serious side effects reported in studies."
-    ],
-    "Background & context": [
-      "Hydroxycloroquine is a medication currently prescribed for preventing or treating malaria, an infectious disease that can be transmitted to humans from mosquitos. It is also prescribed as a treatment for rheumatoid arthritis and lupus, which are both autoimmune diseases.\nWhen faced with an unknown virus like COVID-19 and without a specific vaccine and treatment, one of the best medical strategies is to look among the medications already available and clinically tested to see if any of them are effective. As their risks, benefits, and side effects have already been studied (without allowing safety tests to be ignored), this could speed up research. One of these is hydroxychloroquine. \nWhen trying to find treatments for COVID-19, hydroxychloroquine was tested on hospitalized patients. However, the results from this research do not represent evidence significant enough to recommend hydroxychloroquine for treating COVID-19. At the same time, some research studies have also shown some serious negative consequences (incl. serious heart rhythm problems) associated with the use of hydroxychloroquine in the treatment of COVID-19. More studies are underway.\n"
-    ],
-    "Other Resources (English)": [
-      "1. FDA revokes the emergency use authorization for chloroquine and hydroxychloroquine (U.S. FDA)\n2. FDA cautions against the use of hydroxychloroquine or chloroquine for COVID-19 outside of the hospital setting or a clinical trial due to a risk of heart rhythm problems (U.S. FDA)\n3. Investigational therapeutics for patients with COVID-19 (U.S. CDC) \n4. Trial update: No clinical benefit from use of hydroxychloroquine in hospitalized patients with COVID-19 (Recovery Trial)\n5. Information about \"compassionate use\" (U.S. FDA) \n6. Research paper: A Randomized Trial of Hydroxychloroquine as Postexposure Prophylaxis for Covid-19 (NEJM)\n7. Hydroxychloroquine or Chloroquine for Treatment or Prophylaxis of COVID-19: A Living Systematic Review (AIM)\n8. Research paper: Hydroxychloroquine in patients with mainly mild to moderate coronavirus disease 2019: open label, randomised controlled trial (BMJ)\n9. Research paper: Association of Treatment With Hydroxychloroquine or Azithromycin With In-Hospital Mortality in Patients With COVID-19 in New York State (JAMA)\n10. Research paper: Observational Study of Hydroxychloroquine in Hospitalized Patients with Covid-19 (NEJM)\n11. Research paper: Hydroxychloroquine in patients with mainly mild to moderate coronavirus disease 2019: open label, randomised controlled trial (BMJ)\n"
-    ]
-  },
-  {
-    "id": "recq5JaFMOgqtnRaZ",
-    "English Question": [
-      "rectgrCyIfVDps7sT"
-    ],
-    "Dernière révision": "2020-07-07",
-    "English Glossary": [
-      "recUIOFZ270ZV3BfW",
-      "rec6gMcyaT2i1Rmrv",
-      "recHpqAtBoMIMRwWN",
-      "recBYToZ4gCFPDFFK",
-      "recG7hRBd5J8HUhys",
-      "rec4H6ByNxysbATxG"
-    ],
-    "(EN) Tags": [
-      "virus",
-      "contagion",
-      "spread",
-      "airborne",
-      "transmission"
-    ],
-    "English Category": [
-      "Transmission"
-    ],
-    "English subcategory": [
-      "On: COVID-19 & aerosol transmission"
-    ],
-    "English source": [
-      "Social Media"
-    ],
-    "English country": [
-      "USA"
-    ],
-    "What experts say": [
-      "According to the World Health Organization, the virus that causes COVID-19 is primarily spread through respiratory droplets (little spit droplets that fly out when a person sneezes or coughs). Respiratory droplets can infect other people who are nearby, or indirectly infect others when they touch a surface contaminated with infected droplets. However, some experts are looking at previous data from China to see whether the virus may spread through the air or through vents via lighter particles that can remain in the air for longer periods of time (aerosol transmission). While a few lab-based studies have found that the virus can be present in the air for up to three hours, these studies did not assess if the virus is viable to infect anyone else. Thus far, the WHO and CDC still claim most evidence points to close person-to-person droplet transmission. However, experts warn that there is significant reason to believe airborne transmission is happening. Definitive studies may take a long time to alter the body of evidence in the coming weeks and months, but proactive prevention measures such as universal use of masks could save lives in the meantime.  "
-    ],
-    "Background & context": [
-      "Respiratory droplets are little beads of liquids that fly out when a person sneezes, coughs, or uses their mouth. The WHO states that COVID-19 virus spreads from person to person through these droplets when people come in close contact with one another. Airborne particles tend to be lighter and can stay in the air for longer periods of time, which makes airborne viruses even easier to spread. Some studies have shown that COVID-19 could potentially be spread through the air in enclosed spaces with poor ventilation. The evidence on this mode of transmission is still evolving. There is a distinct possibility of the virus spreading through air in enclosed spaces, particularly if there is poor ventilation, but the evidence is still evolving. "
-    ],
-    "Other Resources (English)": [
-      "1. Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1 (NEJM) \n2. Turbulent Gas Clouds and Respiratory Pathogen Emissions: Potential Implications for Reducing Transmission of COVID-19 (JAMA) \n3. Aerodynamic analysis of SARS-CoV-2 in two Wuhan hospitals (unedited but accepted for publication) (Nature)\n4. High SARS-CoV-2 Attack Rate Following Exposure at a Choir Practice — Skagit County, Washington, March 2020 (CDC)\n5. Aerosol and Surface Transmission Potential of SARS-CoV-2 (medRxiv)\n6. Detection of air and surface contamination by SARS-CoV-2 in hospital rooms of infected patients (Nature)"
-    ]
-  },
-  {
-    "id": "rec8uVuTW2nFcrjtE",
-    "English Question": [
-      "rec4gvRli11OQXxYg"
-    ],
-    "Dernière révision": "2020-06-16",
-    "English Glossary": [
-      "recXC94YnO1X5JuTH"
-    ],
-    "(EN) Tags": [
-      "Pre-print",
-      "studies",
-      "methodologies",
-      "peer-review"
-    ],
-    "English subcategory": [
-      "On: Pre-print studies"
-    ],
-    "English source": [
-      "Newsroom"
-    ],
-    "English country": [
-      "USA"
-    ],
-    "What experts say": [
-      "Pre-print studies are studies that have been completed but haven't gone through the peer-review process that most scientific journals require for publishing.\nPre-prints provide new data and information, which is important in a pandemic. However the details in a pre-print study, such as: how the study was designed and conducted, what sample sizes were included, what assumptions were made, and how calculations were done, have not been scrutinized by the journal's reviewers and editors. The process of scrutinizing a pre-print study is what the peer-review process consist of. Most websites that publish pre-print articles suggest that these articles should not be reported in the news as established information or used to guide clinical practice or health-related behavior. \nUntil the studies are scrutinized by reviewers, they should not be assumed to be factually correct or inform any actions."
-    ],
-    "Background & context": [
-      "To be considered high quality, valid, significant, original, and suitable for publication in a scientific journal, studies must complete a peer-review process. As these published studies could potentially influence clinical practices and public health behaviour, this process acts as a filter to ensure every study meets the strict requirements of each journal, causing many studies not to be accepted or published once they go through peer reviews. Pre-print studies have not yet passed the peer-review process so scientists urge caution not to draw any conclusions from pre-print studies. \nThe peer review and publication processes are time-consuming, frequently involving more than a year between submission and publication. The process is also highly competitive. \nPeer-reviewed articles provide a trusted form of scientific communication. Even if you are unfamiliar with the topic or the scientists who authored a particular study, you can trust peer-reviewed work to meet certain standards of scientific quality. Since scientific knowledge is cumulative and builds on itself, this trust is particularly important.\nAfter submission of a pre-print study to a journal, the journal's editors send the article to several other scientists who work in the same field (i.e., the \"peers\" of peer review). Those reviewers provide feedback on the article and tell the editor whether or not they think the study is of high enough quality to be published. The authors may then revise their article and resubmit it for consideration. Only articles that meet good scientific standards (e.g., acknowledge and build upon other work in the field, rely on logical reasoning and well-designed studies, back up claims with evidence, etc.) are accepted for publication.\n"
-    ],
-    "Other Resources (English)": [
-      "1. medRxiv: The Preprint Server for Health Sciences (medRxiv) \n2. What are Preprints, and How Do They Benefit Authors? (AJE Scholar) "
-    ]
-  },
-  {
-    "id": "recGbRLhSttA2UC6l",
-    "English Question": [
-      "recObNVY865ekSP81"
-    ],
-    "Dernière révision": "2020-06-16",
-    "Fréquence de mise à jour": [
-      null
-    ],
-    "English Glossary": [
-      "rec8QN41FiLYcAWFz",
-      "recB945DUelK8AyUQ"
-    ],
-    "(EN) Tags": [
-      "prevention",
-      "disinfectant",
-      "virus",
-      "transmission"
-    ],
-    "English Category": [
-      "Transmission"
-    ],
-    "English subcategory": [
-      "On: COVID-19 & disinfecting wipes"
-    ],
-    "English source": [
-      "Social Media"
-    ],
-    "English country": [
-      "Canada"
-    ],
-    "What experts say": [
-      "Disinfectant wipes should never be reused. Reusing wipes will move germs from one surface to another, which is potentially harmful in the current pandemic. In order for any surface to be properly disinfected, the U.S. CDC recommends following the instructions on each product carefully and leaving the disinfectant on the surface for 3-5 minutes. This means the surface needs to be wet for this period of time, and you may need to use more than one disinfectant wipe depending on the size of the surface. However, you should never reuse the same disinfectant wipe."
-    ],
-    "Background & context": [
-      "Current evidence suggests that SARS-CoV-2 may remain viable for hours to days on surfaces made from a variety of materials. Therefore, cleaning of visibly dirty surfaces followed by disinfection is a best practice measure for prevention of COVID-19 and other viral respiratory illnesses in households and community settings. In this context, disinfecting can be used to disinfect frequently touched surfaces (for example: tables, doorknobs, light switches, handles, desks, toilets, faucets, sinks, and electronics. Disinfecting wipes are usually are wet wipes commercially available and containing chemicals, for example, EPA-registered disinfectants, or alcohol-based wipes (minimum 70% of alcohol) to kill germs on surfaces. However, transmission of COVID-19 occurs much more commonly through respiratory droplets than through touching objects and surfaces, like doorknobs, countertops, keyboards, toys, etc. \n"
-    ],
-    "Other Resources (English)": [
-      "1. How To Clean and Disinfect Schools To Help Slow the Spread of Flu (U.S. CDC) \n2. Cleaning and Disinfection for Households (U.S. CDC)"
-    ]
-  },
-  {
-    "id": "recSOBPitMdsV5IM1",
-    "English Question": [
-      "recd4YTYRBDOO6fUh"
-    ],
-    "Dernière révision": "2020-06-16",
-    "English Glossary": [
-      "recR461ElvBx3lGKi"
-    ],
-    "(EN) Tags": [
-      "transmission",
-      "virus"
-    ],
-    "English Category": [
-      "Transmission"
-    ],
-    "English subcategory": [
-      "On: COVID-19 & money"
-    ],
-    "English source": [
-      "Social Media"
-    ],
-    "English country": [
-      "Mexico"
-    ],
-    "What experts say": [
-      "The virus that causes COVID-19 can potentially be spread through money. However, it's unlikely to cause the COVID-19 illness in humans. A recent study has shown that the virus that causes COVID-19 can survive on solid surfaces like coins for up to four days and on paper like cash for up to three hours, but the virus was no longer infectious (viable) after that point. There has been no rigorous research to conclude or disprove that COVID-19 can be easily spread through coins and paper money otherwise. Therefore, the risk of catching COVID-19 from the virus sticking to money is very low. \nHowever, it is best practice in general to wash your hands and avoid touching your face after touching money. The virus that causes COVID-19 is primarily spread through person-to-person contact, especially if you are in close contact with another person (within about 6 feet or 2 meters). Since we do not yet fully understand all the ways the virus could spread, it would be a good practice to be vigilant with money just as any other potential contaminated surface, and wash your hands with soap after touching it. "
-    ],
-    "Background & context": [
-      "Money, including coins and bills, has been for a long time considered a potential way diseases are transmitted from one person to another, although we do not have strong evidence to support that claim. The idea is that germs would \"attach\" themselves to bills and then be transmitted by traveling along the hand-money-hand route. This can represent a public health risk especially during simultaneous handling of food and money, or when touching money and then touching our face without having washed our hands. \nThe current discussion around money as a potential way of spreading diseases is based on studies that found that several types of bacteria can survive on paper money depending on some factors (type of paper, humidity, etc.). However, no strong evidence exists yet around transmission from contaminated money to our bodies.\nSome news outlets previously reported that the World Health Organization (WHO) claimed you could contract the virus that causes COVID-19 from coins and banknotes (paper money). However, the WHO clarified and said this claim had been misrepresented; the WHO did not issue any kind of warning or statement about COVID-19 transmission through coins and banknotes. Instead, they have emphasized the importance of washing hands with soap, especially before handling or eating food. "
-    ],
-    "Other Resources (English)": [
-      "1. How COVID-19 Spreads (U.S. CDC)\n2. The WHO has clarified that they aren't warning people against using paper money due to coronavirus (Full Fact)\n3. Stability of SARS-CoV-2 in different environmental conditions (The Lancet) "
-    ]
-  },
-  {
-    "id": "rec1FqTAyZ4pJi1fk",
-    "English Question": [
-      "recoHi2uxwWxCdqhH"
-    ],
-    "Dernière révision": "2020-06-16",
-    "English Glossary": [
-      "recnOWi8KiIX6dUA9",
-      "recUIOFZ270ZV3BfW",
-      "recXzHuTTzM5LYtI3",
-      "recTmKcYgq7a3bTcM"
-    ],
-    "(EN) Tags": [
-      "prevention",
-      "pool",
-      "spread"
-    ],
-    "English subcategory": [
-      "On: COVID-19 & pool water"
-    ],
-    "English source": [
-      "Social Media"
-    ],
-    "English country": [
-      "USA"
-    ],
-    "What experts say": [
-      "The virus that causes COVID-19 is spread through respiratory secretions like a cough or a sneeze. While it can also be transmitted through contaminated surfaces and objects (e.g. contaminated door handle), there has been no evidence that it can be spread through water in pools, hot tubs, spas, or water play areas. Moreover, the virus has not been detected in drinking water. According to the U.S. Centers for Disease Control and Prevention, the biggest concern for COVID-19 transmission around pools is related to crowded areas where social distancing cannot occur and the importance of hand hygiene and respiratory etiquette due to many high-touch surfaces and objects. In relation to pools, exposure prevention is focused more on respiratory droplets from other people visiting the pool rather than the water itself."
-    ],
-    "Background & context": [
-      "Coronaviruses are enveloped viruses which are not particularly environmentally hardy. This means that the virus causing COVID-19 is susceptible to a wide range of cleaning and disinfection products and in direct sunlight, begins to break down within a few minutes. There has been no detection of COVID-19 in drinking water and per the CDC, water filtration and disinfection methods should remove or inactive any existing viral particles in the water. While COVID-19 is not spread through water, there are other viruses and bacteria that can be spread in pool water, such as norovirus, which means it is important to maintain safe levels of chlorine and water treatment."
-    ],
-    "Other Resources (English)": [
-      "1. Considerations for Public Pools, Hot Tubs, and Water Playgrounds During COVID-19 (U.S. CDC)\n2. Inside the DHS lab where researchers study coronavirus (NBC News)"
+      "1. SARS-CoV-2 Rates in BCG-Vaccinated and Unvaccinated Young Adults (JAMA) \n2. Bacille Calmette-Guérin (BCG) vaccination and COVID-19 (WHO) \n3. BCG vaccine protection from severe coronavirus disease 2019 (COVID-19) (PNAS) \n"
     ]
   }
 ]
