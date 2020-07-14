@@ -1,5 +1,208 @@
 [
   {
+    "id": "recNhNi9YMJidUo7K",
+    "Question": "How soon can we have a COVID-19 vaccine? ",
+    "Item status": "Published",
+    "NOTES (Internal)": "\n",
+    "Category": "Prevention",
+    "Subcategory": "On COVID-19 & vaccines",
+    "Source of the question": [
+      "Social Media"
+    ],
+    "Country question was sourced from": [
+      "USA"
+    ],
+    "Background & context": "In May 2020, Dr. Anthony Fauci, an internationally-renowned medical expert and head of the U.S. National Institute of Allergy and Infectious Diseases, noted that he hoped that a vaccine would be available in the first half of 2021, 12-18 months after the virus that causes COVID-19 was first identified. On June 23, 2020, he stated that efforts are still on track to produce a vaccine by the end of 2020 or early 2021, which would be a record-breaking timeframe for vaccine development. \n\nThe rush for a COVID-19 vaccine is unprecedented in its speed, the number of labs and companies working to develop one, and the global pressure to develop a safe, effective vaccine on such a large scale. Prior to COVID-19, the shortest amount of time it took to develop a vaccine was for mumps and took roughly four years. Scientists have been working on a vaccine for Acquired Immunodeficiency Syndrome (AIDS) for 20 years and still have yet to find a successful one. Because scientists discovered the genetic sequence of COVID-19 so rapidly, and so many groups are working around the clock to develop an effective vaccine, with unparalleled funding, the public health, medical, and pharmaceutical fields are hopeful to have a vaccine available much more quickly. Even after a vaccine is developed, adequate manufacturing, supply chain, and distribution networks also need to be coordinated in order to get the vaccine to people across the world.\n",
+    "What our experts say": "The timeline for vaccine availability is still unclear, since the development and testing processes normally take many years. \n\nThere are currently more than 200 potential vaccines for COVID-19 under development around the world. Each potential vaccine must be thoroughly tested to determine whether it has any harmful side effects, whether it can prevent disease in other mammals, and whether it successfully produces antibodies, which are the biological tools or instructions our immune systems need to defend  against the virus. \n\nScientists also need to assess how the immune system responds to the vaccine in general, which takes time. Even with an expedited timeline and regulatory approval process, researchers must ensure adequate clinical testing and adherence to regulatory standards, manufacturing, and quality control processes. Given the high rate at which possible vaccines drop off during the testing process, and potential manufacturing constraints, it will be difficult to produce, test, and scale a vaccine before 2021. \n",
+    "Glossary Terms": [
+      "recPzw1C0Nfi9r41m",
+      "rec9qqItwSTjq3Eae",
+      "reccjqJClKxUMJYzt"
+    ],
+    "Variation of the answer depending on country of residence": "No\t\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "vaccine",
+      "prevention"
+    ],
+    "Other resources": "1. Developing Covid-19 Vaccines at Pandemic Speed ([NEJM][1])\n2. Accelerating a safe and effective COVID-19 vaccine ([WHO][2])\n3. Dr. Anthony Fauci says there’s a chance coronavirus vaccine may not provide immunity for very long ([CNBC][3])\n\n  [1]: http://Developing Covid-19 Vaccines at Pandemic Speed\n  [2]: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov/accelerating-a-safe-and-effective-covid-19-vaccine\n  [3]: https://www.cnbc.com/2020/06/02/dr-anthony-fauci-says-theres-a-chance-coronavirus-vaccine-may-not-provide-immunity-for-very-long.html\n",
+    "How often revision needed": "Weekly",
+    "Answer Assigned": [
+      {
+        "id": "usraKwS6t1i6IMrwY",
+        "email": "mmn452@mail.harvard.edu",
+        "name": "Mohit Nair"
+      }
+    ],
+    "Media": [
+      {
+        "id": "att2MsXez9bcH4iNF",
+        "url": "https://dl.airtable.com/.attachments/af7025e913b32261a4db6dd3f5e29d4c/665e8d0f/Slide_1",
+        "filename": "Slide_1",
+        "size": 124760,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ae2bf1976a483c24e794a43568e46e8d/141cf355",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/aa410c90d190b0d744df1a0ff63b7412/c08c81f1",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2d59d179f3a2cb32829742767804fd69/f7ec3519",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attY9P9XnSfepBLOP",
+        "url": "https://dl.airtable.com/.attachments/30862bb3c2c04cb40e828019dabb9f97/7c499f86/Slide_2",
+        "filename": "Slide_2",
+        "size": 167366,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2d90bdbcc8dc3b205cf1899d571add3a/e9ad0193",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/05f0070589677751182b36997e1cbb7e/230f45dd",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/fefce74bffa1ed93fc1e009eb730ac4d/0906caf6",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "atttxcmv4jWzaQS28",
+        "url": "https://dl.airtable.com/.attachments/f2b56c3f89b3d1b0f299b70e7d6aab26/903c0803/Slide_3",
+        "filename": "Slide_3",
+        "size": 193831,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/9c29e72cc6d9f554589c4f25e949c943/c6cddf03",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b67645bbf548338711621b42931946e4/ad77c8b0",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/20f202bed3a9efe01e812c0dd54f4999/758e8174",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attLChc2j0btKXG7S",
+        "url": "https://dl.airtable.com/.attachments/1e9a4a06c632e8399beddc4ee8a6d133/74467b09/Slide_4",
+        "filename": "Slide_4",
+        "size": 174063,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/8ff46a32963ff4a5d055a225514acc42/2cdec648",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c03c5012671df3e22c89e90754dfc2bb/b4c87977",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e827f6040901e528830c2343ce1d8185/df75e54c",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attFYTB4ZH8gmuDfF",
+        "url": "https://dl.airtable.com/.attachments/a9a78f980f82061d4cb6321e8beab49d/344cfcfb/Slide_5",
+        "filename": "Slide_5",
+        "size": 161021,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e1bb22997816f4263bc721514c94bf99/c8ebc504",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d4ef5835fbf0fb0a77b7e8af8d2d7065/cb0d5599",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/fbc5999753134aa125ead268e489adb9/63d4dabc",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "Last edited (simplified)": "2020-06-26T14:55:20.000Z",
+    "Last edited (experts say)": "2020-07-14T06:51:30.000Z",
+    "Last modified": "2020-07-14"
+  },
+  {
+    "id": "recqFRWiE9Y6nbUM5",
+    "Question": "What are the origins of the virus?",
+    "Item status": "Published",
+    "NOTES (Internal)": "\n\n",
+    "Category": "Origin",
+    "Subcategory": "On: The origin of COVID-19 ",
+    "Source of the question": [
+      "Social Media"
+    ],
+    "Country question was sourced from": [
+      "India",
+      "Kenya",
+      "USA"
+    ],
+    "Background & context": "Coronaviruses are a group of viruses that can cause a variety of different illnesses, but primarily upper-respiratory tract illnesses in humans. These illnesses include the common cold, severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS). Some viruses can originate in animals and later infect humans, and this can happen in a number of different ways, including: by eating meat or produce that has been contaminated by the virus, through the air or by touching a surface that was touched by an infected animal, through close contact with an infected animal, or through insect bites. Not all viruses transfer from animals to humans in all of these ways, it depends on the virus. The resources section contains more information about this. \n\n",
+    "What our experts say": "COVID-19 was first detected in the city of Wuhan, China in late 2019. The virus has since been partially traced back to a large seafood and animal market in the city of Wuhan, after several people who had been to the market became sick with the illness we now know as COVID-19. Scientists were able to use genetic tests to confirm that the virus was first identified in people and environmental samples in the city of Wuhan. Tests on the genetics of viruses, much like genetics in humans, can reveal a lot about their origins. When these genetic tests were done on the COVID-19 virus' genes, it revealed that the virus originated in an infected animal and mutated when that animal transferred the virus to a human, likely in the city of Wuhan. The details about that event, which is called a zoonotic transfer, are still being investigated.\n\n\n",
+    "Glossary Terms": [
+      "recbQ95pvRq7nP9s3",
+      "recFSOdDjQBqJHnZ9"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "origin",
+      "bats",
+      "Wuhan",
+      "China"
+    ],
+    "Other resources": "1. Viral and host factors related to the clinical outcome of COVID-19 ([Nature][1])\n2. Genomic Study Points to Natural Origin of COVID-19 ([NIH][2]) \n3. Zoonotic diseases ([U.S. CDC][3]) \n4. Update and Interim Guidance on Outbreak of 2019 Novel Coronavirus (2019-nCoV) in Wuhan, China ([U.S. CDC][4]) \n5. Coronavirus Disease 2019 (COVID-19) ([U.S. CDC][5]) \n6. COVID-19: a novel zoonotic disease caused by a coronavirus from China: what we know and what we don’t ([NCBI][6])\n\n  [1]: https://www.nature.com/articles/s41586-020-2355-0\n  [2]: https://directorsblog.nih.gov/2020/03/26/genomic-research-points-to-natural-origin-of-covid-19/\n  [3]: https://www.cdc.gov/onehealth/basics/zoonotic-diseases.html\n  [4]: https://emergency.cdc.gov/han/han00426.asp\n  [5]: https://www.cdc.gov/media/dpk/diseases-and-conditions/coronavirus/coronavirus-2020.html\n  [6]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7086482/#R1\n",
+    "How often revision needed": "Monthly",
+    "Expert Database (French)": [
+      "recbjW2CdPdJHM0wE"
+    ],
+    "Expert Database (Hindi)": [
+      "recI45JBg4AUfgdUv"
+    ],
+    "Editorial notes:": "\n",
+    "Last edited (simplified)": "2020-05-27T22:06:20.000Z",
+    "Last edited (experts say)": "2020-07-14T06:17:59.000Z",
+    "Last modified": "2020-07-14"
+  },
+  {
     "id": "recC2wUIEcU6WPCCA",
     "Question": "Is there a specific process on how COVID-19 enters the body and does COVID-19 first enter the throat first before it \"destroys\" the lungs? Why or why not?",
     "Item status": "Published",
@@ -1204,167 +1407,6 @@
     ],
     "Last edited (simplified)": "2020-06-25T02:15:36.000Z",
     "Last edited (experts say)": "2020-06-25T18:50:18.000Z",
-    "Last modified": "2020-07-10"
-  },
-  {
-    "id": "recNhNi9YMJidUo7K",
-    "Question": "How soon can we have a COVID-19 vaccine? ",
-    "Item status": "Published",
-    "NOTES (Internal)": "\n",
-    "Category": "Prevention",
-    "Subcategory": "On COVID-19 & vaccines",
-    "Source of the question": [
-      "Social Media"
-    ],
-    "Country question was sourced from": [
-      "USA"
-    ],
-    "Background & context": "In May 2020, Dr. Anthony Fauci, an internationally-renowned medical expert and head of the U.S. National Institute of Allergy and Infectious Diseases, noted that he hoped that a vaccine would be available in the first half of 2021, 12-18 months after the virus that causes COVID-19 was first identified. On June 23, 2020, he stated that efforts are still on track to produce a vaccine by the end of 2020 or early 2021, which would be a record-breaking timeframe for vaccine development. \n\nThe rush for a COVID-19 vaccine is unprecedented in its speed, the number of labs and companies working to develop one, and the global pressure to develop a safe, effective vaccine on such a large scale. Prior to COVID-19, the shortest amount of time it took to develop a vaccine was for mumps and took roughly four years. Scientists have been working on a vaccine for Acquired Immunodeficiency Syndrome (AIDS) for 20 years and still have yet to find a successful one. Because scientists discovered the genetic sequence of COVID-19 so rapidly, and so many groups are working around the clock to develop an effective vaccine, with unparalleled funding, the public health, medical, and pharmaceutical fields are hopeful to have a vaccine available much more quickly. Even after a vaccine is developed, adequate manufacturing, supply chain, and distribution networks also need to be coordinated in order to get the vaccine to people across the world.\n",
-    "What our experts say": "The timeline for vaccine availability is still unclear, since the development and testing processes normally take many years. \n\nThere are currently more than 100 potential vaccines for COVID-19 under development around the world. Each potential vaccine must be thoroughly tested to determine whether it has any harmful side effects, whether it can prevent disease in other mammals, and whether it successfully produces antibodies, which are the biological tools or instructions our immune systems need to defend  against the virus. \n\nScientists also need to assess how the immune system responds to the vaccine in general, which takes time. Even with an expedited timeline and regulatory approval process, researchers must ensure adequate clinical testing and adherence to regulatory standards, manufacturing, and quality control processes. Given the high rate at which possible vaccines drop off during the testing process, and potential manufacturing constraints, it will be difficult to produce, test, and scale a vaccine before 2021. \n",
-    "Glossary Terms": [
-      "recPzw1C0Nfi9r41m",
-      "rec9qqItwSTjq3Eae",
-      "reccjqJClKxUMJYzt"
-    ],
-    "Variation of the answer depending on country of residence": "No\t\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "vaccine",
-      "prevention"
-    ],
-    "Other resources": "1. Developing Covid-19 Vaccines at Pandemic Speed ([NEJM][1])\n2. Accelerating a safe and effective COVID-19 vaccine ([WHO][2])\n3. Dr. Anthony Fauci says there’s a chance coronavirus vaccine may not provide immunity for very long ([CNBC][3])\n\n  [1]: http://Developing Covid-19 Vaccines at Pandemic Speed\n  [2]: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov/accelerating-a-safe-and-effective-covid-19-vaccine\n  [3]: https://www.cnbc.com/2020/06/02/dr-anthony-fauci-says-theres-a-chance-coronavirus-vaccine-may-not-provide-immunity-for-very-long.html\n",
-    "How often revision needed": "Weekly",
-    "Answer Assigned": [
-      {
-        "id": "usraKwS6t1i6IMrwY",
-        "email": "mmn452@mail.harvard.edu",
-        "name": "Mohit Nair"
-      }
-    ],
-    "Media": [
-      {
-        "id": "att2MsXez9bcH4iNF",
-        "url": "https://dl.airtable.com/.attachments/af7025e913b32261a4db6dd3f5e29d4c/665e8d0f/Slide_1",
-        "filename": "Slide_1",
-        "size": 124760,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/ae2bf1976a483c24e794a43568e46e8d/141cf355",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/aa410c90d190b0d744df1a0ff63b7412/c08c81f1",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/2d59d179f3a2cb32829742767804fd69/f7ec3519",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "attY9P9XnSfepBLOP",
-        "url": "https://dl.airtable.com/.attachments/30862bb3c2c04cb40e828019dabb9f97/7c499f86/Slide_2",
-        "filename": "Slide_2",
-        "size": 167366,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/2d90bdbcc8dc3b205cf1899d571add3a/e9ad0193",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/05f0070589677751182b36997e1cbb7e/230f45dd",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/fefce74bffa1ed93fc1e009eb730ac4d/0906caf6",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "atttxcmv4jWzaQS28",
-        "url": "https://dl.airtable.com/.attachments/f2b56c3f89b3d1b0f299b70e7d6aab26/903c0803/Slide_3",
-        "filename": "Slide_3",
-        "size": 193831,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/9c29e72cc6d9f554589c4f25e949c943/c6cddf03",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/b67645bbf548338711621b42931946e4/ad77c8b0",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/20f202bed3a9efe01e812c0dd54f4999/758e8174",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "attLChc2j0btKXG7S",
-        "url": "https://dl.airtable.com/.attachments/1e9a4a06c632e8399beddc4ee8a6d133/74467b09/Slide_4",
-        "filename": "Slide_4",
-        "size": 174063,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/8ff46a32963ff4a5d055a225514acc42/2cdec648",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/c03c5012671df3e22c89e90754dfc2bb/b4c87977",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/e827f6040901e528830c2343ce1d8185/df75e54c",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "attFYTB4ZH8gmuDfF",
-        "url": "https://dl.airtable.com/.attachments/a9a78f980f82061d4cb6321e8beab49d/344cfcfb/Slide_5",
-        "filename": "Slide_5",
-        "size": 161021,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/e1bb22997816f4263bc721514c94bf99/c8ebc504",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/d4ef5835fbf0fb0a77b7e8af8d2d7065/cb0d5599",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/fbc5999753134aa125ead268e489adb9/63d4dabc",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ],
-    "Last edited (simplified)": "2020-06-26T14:55:20.000Z",
-    "Last edited (experts say)": "2020-06-26T14:53:33.000Z",
     "Last modified": "2020-07-10"
   },
   {
@@ -4544,48 +4586,6 @@
     ],
     "Last edited (simplified)": "2020-05-15T23:45:58.000Z",
     "Last edited (experts say)": "2020-05-14T15:18:11.000Z",
-    "Last modified": "2020-06-13"
-  },
-  {
-    "id": "recqFRWiE9Y6nbUM5",
-    "Question": "What are the origins of the virus?",
-    "Item status": "Published",
-    "NOTES (Internal)": "\n\n",
-    "Category": "Origin",
-    "Subcategory": "On: The origin of COVID-19 ",
-    "Source of the question": [
-      "Social Media"
-    ],
-    "Country question was sourced from": [
-      "India",
-      "Kenya",
-      "USA"
-    ],
-    "Background & context": "Coronaviruses are a group of viruses that can cause a variety of different illnesses, but primarily upper-respiratory tract illnesses in humans. These illnesses include the common cold, severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS). Some viruses can originate in animals and later infect humans, and this can happen in a number of different ways, including: by eating meat or produce that has been contaminated by the virus, through the air or by touching a surface that was touched by an infected animal, through close contact with an infected animal, or through insect bites. Not all viruses transfer from animals to humans in all of these ways, it depends on the virus. The resources section contains more information about this. \n\n",
-    "What our experts say": "COVID-19 was first detected in the city of Wuhan, China in late 2019. The virus has since been partially traced back to a large seafood and animal market in the city of Wuhan, after several people who had been to the market became sick with the illness we now know as COVID-19. Scientists were able to use genetic tests to confirm that the virus was first identified in people and environmental samples in the city of Wuhan. Tests on the genetics of viruses, much like genetics in humans, can reveal a lot about their origins. When these genetic tests were done on the COVID-19 virus' genes, it revealed that the virus originated in an infected animal and mutated when that animal transferred the virus to a human, likely in the city of Wuhan. The details about that event, which is called a zoonotic transfer, are still being investigated.\n\n",
-    "Glossary Terms": [
-      "recbQ95pvRq7nP9s3",
-      "recFSOdDjQBqJHnZ9"
-    ],
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "origin",
-      "bats",
-      "Wuhan",
-      "China"
-    ],
-    "Other resources": "1. Viral and host factors related to the clinical outcome of COVID-19 ([Nature][1])\n2. Genomic Study Points to Natural Origin of COVID-19 ([NIH][2]) \n3. Zoonotic diseases ([U.S. CDC][3]) \n4. Update and Interim Guidance on Outbreak of 2019 Novel Coronavirus (2019-nCoV) in Wuhan, China ([U.S. CDC][4]) \n5. Coronavirus Disease 2019 (COVID-19) ([U.S. CDC][5]) \n6. COVID-19: a novel zoonotic disease caused by a coronavirus from China: what we know and what we don’t ([NCBI][6])\n\n  [1]: https://www.nature.com/articles/s41586-020-2355-0\n  [2]: https://directorsblog.nih.gov/2020/03/26/genomic-research-points-to-natural-origin-of-covid-19/\n  [3]: https://www.cdc.gov/onehealth/basics/zoonotic-diseases.html\n  [4]: https://emergency.cdc.gov/han/han00426.asp\n  [5]: https://www.cdc.gov/media/dpk/diseases-and-conditions/coronavirus/coronavirus-2020.html\n  [6]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7086482/#R1\n",
-    "How often revision needed": "Monthly",
-    "Expert Database (French)": [
-      "recbjW2CdPdJHM0wE"
-    ],
-    "Expert Database (Hindi)": [
-      "recI45JBg4AUfgdUv"
-    ],
-    "Editorial notes:": "\n",
-    "Last edited (simplified)": "2020-05-27T22:06:20.000Z",
-    "Last edited (experts say)": "2020-06-02T22:37:08.000Z",
     "Last modified": "2020-06-13"
   },
   {

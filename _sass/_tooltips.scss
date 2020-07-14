@@ -2,22 +2,18 @@
     background-color: #fff;
     background-clip: padding-box;
     color: var(--blackInk);
-    box-shadow: 0 3px 14px -.5px rgba(0,8,16,.08)
+    box-shadow: 0 3px 14px -.5px rgba(0,8,16,.08);
+    padding: 1rem 0.8rem;
 }
 
 .tippy-content h6 {
     font-size: 1rem;
     margin-top: 0;
     margin-bottom: 0.5rem;
-    
 }
 
-.tippy-tooltip .tippy-backdrop {
-    background-color: #fff
-}
-
-.tippy-tooltip[data-theme~='term'] {
-    border: 4px solid var(--blackInk);
+.tippy-box[data-theme~='term'] {
+    border: 4px solid var(--edbGreen);
     @include tooltip;
-    // h6 { color: var(--blackInk) }
+    h6 { color: var(--edbGreen) }
 }

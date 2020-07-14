@@ -3,10 +3,11 @@
 
         tippy('a.glossary-term', {
 			animation: 'shift-away',
-            theme: 'light',
+            theme: 'term',
             allowHTML: true,
             interactive: true,
             interactiveBorder: 30,
+            arrow: false,
 		});
 
     });
