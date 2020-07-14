@@ -49,6 +49,27 @@
         .category {
             line-height: 1.5rem;
         }
+        .with-media-preview {
+            display: flex;
+        }
+        .media-preview {
+            display: flex;
+            max-height: 4.111rem;
+            padding-left: 0.2rem;
+        }
+        .media-preview span {
+            flex: 1 0 auto;
+        }
+        .media-preview img {
+            max-width: 4.111rem;
+        }
+        .media-preview-count {
+            display: flex;
+            align-items: center;
+            background-color: rgba(#C4C4C4, 0.24);
+            padding-left: 0.2rem;
+            padding-right: 0.2rem;
+        }
     }
     &:hover {
         &:not(:first-child) {

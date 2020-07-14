@@ -28,6 +28,10 @@ module Jekyll
     end
 
     def convert_to_date(str)
+      str ? Date.strptime(str, "%Y-%m-%d") : ''
+    end
+
+    def convert_to_date_mdy(str)
       str ? Date.strptime(str, "%m/%d/%Y") : ''
     end
 

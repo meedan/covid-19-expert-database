@@ -1,0 +1,19 @@
+{% if page.lang == 'hi' %}
+    {% assign media = page['यह सवाल कहां से आया'] %}
+{% elsif page.lang == 'fr' %}
+    {% assign media = page['Source de la question'] %}
+{% else %}
+    {% assign media = page['Media'] %}
+{% endif %}
+
+
+{% if media %}
+    <h3 class="section-title">{{ site.data.ui.t[page.lang].entry.media }} ({{ media.size }})</h3>
+    <div class="media">
+    {% for image in media %}
+        <a href="{{ image.url }}" title="Download {{ image.filename | trim }}">
+            <img src="{{ image.thumbnails.full.url }}" alt="{{ image.filename | trim }}" />
+        </a>
+    {% endfor %}
+    </div>
+{% endif %}

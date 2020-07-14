@@ -1,117 +1,342 @@
 [
   {
+    "id": "recpvWgHuWkU6XwLw",
     "शब्द": "द्वितीयक संक्रमण",
-    "परिभाषा": "द्वितीयक संक्रमण एक संक्रमण है जो किसी मौजूदा संक्रमण के उपचार के दौरान या उसके बाद होता है। एक माध्यमिक संक्रमण के कारणों में से कुछ में पहले संक्रमण से उत्पन्न किसी व्यक्ति की प्रतिरक्षा प्रणाली में परिवर्तन शामिल हो सकते हैं, या यदि पहले संक्रमण के लिए उपचार माध्यमिक संक्रमण का कारण बना।",
-    "अंग्रेज़ी शब्द": "secondary infection"
+    "परिभाषा": "द्वितीयक संक्रमण एक संक्रमण है जो किसी मौजूदा संक्रमण के उपचार के दौरान या उसके बाद होता है। एक माध्यमिक संक्रमण के कारणों में से कुछ में पहले संक्रमण से उत्पन्न किसी व्यक्ति की प्रतिरक्षा प्रणाली में परिवर्तन शामिल हो सकते हैं, या यदि पहले संक्रमण के लिए उपचार माध्यमिक संक्रमण का कारण बना।\n",
+    "स्थिति": "Published",
+    "अंग्रेज़ी शब्द": [
+      "rechTyFW9yFtRWh8o"
+    ],
+    "प्रश्न जो इस शब्द का उपयोग कर रहे हैं": [
+      "recv1FiBeWvUUxato"
+    ],
+    "English Definition": [
+      "A secondary infection is an infection that takes place either during or following the treatment of an existing infection. Some of the causes of a secondary infection might include changes in the immune system of a person resulting from the first infection, or if the treatment for the first infection led to the secondary infection."
+    ]
   },
   {
+    "id": "rec9V6fXai4eHkuFg",
     "शब्द": "वाइरस",
-    "परिभाषा": "रोग नियंत्रण केंद्र के अनुसार, \"एक वायरस एक छोटा जीव है जो कोशिकाओं के भीतर गुणा करता है और चिकनपॉक्स, खसरा, कण्ठमाला, रूबेला, पर्टुसिस और हेपेटाइटिस जैसी बीमारी का कारण बनता है। एंटीबायोटिक दवाओं से वायरस प्रभावित नहीं होते हैं। बैक्टीरिया को मारने के लिए इस्तेमाल की जाने वाली दवाएं। \" वायरस बैक्टीरिया की तुलना में आकार में छोटे होते हैं और बढ़ने और प्रजनन के लिए जीवित कोशिकाओं या ऊतकों की आवश्यकता होती है।",
-    "अंग्रेज़ी शब्द": "virus"
+    "परिभाषा": "रोग नियंत्रण केंद्र के अनुसार, \"एक वायरस एक छोटा जीव है जो कोशिकाओं के भीतर गुणा करता है और चिकनपॉक्स, खसरा, कण्ठमाला, रूबेला, पर्टुसिस और हेपेटाइटिस जैसी बीमारी का कारण बनता है। एंटीबायोटिक दवाओं से वायरस प्रभावित नहीं होते हैं। बैक्टीरिया को मारने के लिए इस्तेमाल की जाने वाली दवाएं। \" वायरस बैक्टीरिया की तुलना में आकार में छोटे होते हैं और बढ़ने और प्रजनन के लिए जीवित कोशिकाओं या ऊतकों की आवश्यकता होती है।\n",
+    "स्थिति": "Published",
+    "अंग्रेज़ी शब्द": [
+      "recnFUXyIZy81Rj1I"
+    ],
+    "प्रश्न जो इस शब्द का उपयोग कर रहे हैं": [
+      "recv1FiBeWvUUxato"
+    ],
+    "English Definition": [
+      "According to the U.S. Centers for Diseases Control, a virus is a tiny organism that multiplies within cells and causes disease such as chickenpox, measles, mumps, rubella, pertussis and hepatitis. Viruses are not affected by antibiotics, the drugs used to kill bacteria. Viruses are smaller in size than bacteria and require living cells or tissues in order to grow and reproduce. "
+    ]
   },
   {
+    "id": "recHmMAGrkmpcw79C",
     "शब्द": "जीवाणु",
-    "परिभाषा": "रोग नियंत्रण केंद्र के अनुसार, \"बैक्टीरिया कीटाणु होते हैं। वे हमारे शरीर के अंदर और बाहर के वातावरण में रहते हैं और ज्यादातर बैक्टीरिया लोगों के लिए हानिकारक और यहां तक ​​कि सहायक होते हैं, लेकिन कुछ संक्रमण पैदा कर सकते हैं, जैसे स्ट्रेप थ्रोट।\" ये सूक्ष्म जीव एक एकल कोशिका से बने होते हैं, और केवल जीवित चीजों के ही नहीं, बल्कि कई अलग-अलग प्रकार के वातावरणों में जीवित रह सकते हैं। जीवाणुओं को मारने के लिए एंटीबायोटिक दवाओं का उपयोग किया जा सकता है।",
-    "अंग्रेज़ी शब्द": "bacteria"
+    "परिभाषा": "रोग नियंत्रण केंद्र के अनुसार, \"बैक्टीरिया कीटाणु होते हैं। वे हमारे शरीर के अंदर और बाहर के वातावरण में रहते हैं और ज्यादातर बैक्टीरिया लोगों के लिए हानिकारक और यहां तक ​​कि सहायक होते हैं, लेकिन कुछ संक्रमण पैदा कर सकते हैं, जैसे स्ट्रेप थ्रोट।\" ये सूक्ष्म जीव एक एकल कोशिका से बने होते हैं, और केवल जीवित चीजों के ही नहीं, बल्कि कई अलग-अलग प्रकार के वातावरणों में जीवित रह सकते हैं। जीवाणुओं को मारने के लिए एंटीबायोटिक दवाओं का उपयोग किया जा सकता है।\n",
+    "स्थिति": "Published",
+    "अंग्रेज़ी शब्द": [
+      "recAFuzwLppTBDIPe"
+    ],
+    "प्रश्न जो इस शब्द का उपयोग कर रहे हैं": [
+      "recv1FiBeWvUUxato"
+    ],
+    "English Definition": [
+      "According to the U.S. Centers for Disease Control, bacteria are germs. They live in the environment and all over the inside and outside of our bodies. Most bacteria are harmless and even helpful to people, but some can cause infections, like strep throat. These microscopic organisms are made up of one single cell, and can survive in many different types of environments, not just living things. Antibiotic medications can be used to kill bacteria."
+    ]
   },
   {
+    "id": "recYKHvSvNzJNTF7p",
     "शब्द": "ऊष्मायन अवधि",
-    "परिभाषा": "विश्व स्वास्थ्य संगठन के अनुसार, \"ऊष्मायन अवधि वायरस के संपर्क में आने (संक्रमित होने) और लक्षण शुरू होने के बीच का समय है।\"",
-    "अंग्रेज़ी शब्द": "incubation period"
+    "परिभाषा": "विश्व स्वास्थ्य संगठन के अनुसार, \"ऊष्मायन अवधि वायरस के संपर्क में आने (संक्रमित होने) और लक्षण शुरू होने के बीच का समय है।\"\n",
+    "स्थिति": "Published",
+    "अंग्रेज़ी शब्द": [
+      "recE7xmnXgtg8ZanX"
+    ],
+    "प्रश्न जो इस शब्द का उपयोग कर रहे हैं": [
+      "recWuNukdE0KpKIme"
+    ],
+    "English Definition": [
+      "According to the World Health Organization, the incubation period is the time between exposure to the virus (becoming infected) and symptom onset."
+    ]
   },
   {
+    "id": "recmDEULv8Rd8sBdV",
     "शब्द": "संक्रामक",
-    "परिभाषा": "नेशनल इंस्टीट्यूट ऑफ हेल्थ के अनुसार, एक संक्रामक बीमारी \"एक संचारी रोग है जो सीधे संपर्क (संक्रमण वाले व्यक्ति को छूना), अप्रत्यक्ष संपर्क (किसी दूषित वस्तु को छूना), या छोटी बूंद के संपर्क से व्यक्ति से व्यक्ति में तेजी से फैल सकता है ( जब एक व्यक्ति जिसे संक्रमण की खांसी होती है, छींकता है, या बातचीत करता है, तो उसे छींटे पड़ते हैं। \"",
-    "अंग्रेज़ी शब्द": "contagious"
+    "परिभाषा": "नेशनल इंस्टीट्यूट ऑफ हेल्थ के अनुसार, एक संक्रामक बीमारी \"एक संचारी रोग है जो सीधे संपर्क (संक्रमण वाले व्यक्ति को छूना), अप्रत्यक्ष संपर्क (किसी दूषित वस्तु को छूना), या छोटी बूंद के संपर्क से व्यक्ति से व्यक्ति में तेजी से फैल सकता है ( जब एक व्यक्ति जिसे संक्रमण की खांसी होती है, छींकता है, या बातचीत करता है, तो उसे छींटे पड़ते हैं। \"\n",
+    "स्थिति": "Published",
+    "अंग्रेज़ी शब्द": [
+      "recJ4Q812SOdo1NGM"
+    ],
+    "English Definition": [
+      "According to the U.S. National Institutes of Health, a contagious disease is a communicable disease that can spread rapidly from person to person through direct contact (touching a person who has the infection), indirect contact (touching a contaminated object), or droplet contact (inhaling droplets made when a person who has the infection coughs, sneezes, or talks)."
+    ]
   },
   {
+    "id": "recaUmxtxlfHbFPej",
     "शब्द": "दयालु उपयोग",
-    "परिभाषा": "नेशनल इंस्टीट्यूट ऑफ हेल्थ के अनुसार, अनुकंपा उपयोग - जिसे 'विस्तारित पहुंच' भी कहा जाता है - \"एक मरीज को एक जांच चिकित्सा प्रदान करने का एक तरीका है जो नैदानिक ​​परीक्षण में उस चिकित्सा को प्राप्त करने के लिए योग्य नहीं है, लेकिन जिसके पास गंभीर या जीवन है- खतरनाक बीमारी जिसके लिए अन्य उपचार उपलब्ध नहीं हैं। अनुकंपा उपयोग रोगियों को आशाजनक रूप से प्राप्त करने की अनुमति देता है, लेकिन अभी तक पूरी तरह से अध्ययन या अनुमोदित कैंसर उपचार नहीं है जब कोई अन्य उपचार विकल्प मौजूद नहीं है। इसे विस्तारित पहुंच भी कहा जाता है। \"",
-    "अंग्रेज़ी शब्द": "compassionate use"
+    "परिभाषा": "नेशनल इंस्टीट्यूट ऑफ हेल्थ के अनुसार, अनुकंपा उपयोग - जिसे 'विस्तारित पहुंच' भी कहा जाता है - \"एक मरीज को एक जांच चिकित्सा प्रदान करने का एक तरीका है जो नैदानिक ​​परीक्षण में उस चिकित्सा को प्राप्त करने के लिए योग्य नहीं है, लेकिन जिसके पास गंभीर या जीवन है- खतरनाक बीमारी जिसके लिए अन्य उपचार उपलब्ध नहीं हैं। अनुकंपा उपयोग रोगियों को आशाजनक रूप से प्राप्त करने की अनुमति देता है, लेकिन अभी तक पूरी तरह से अध्ययन या अनुमोदित कैंसर उपचार नहीं है जब कोई अन्य उपचार विकल्प मौजूद नहीं है। इसे विस्तारित पहुंच भी कहा जाता है। \"\n",
+    "स्थिति": "Published",
+    "अंग्रेज़ी शब्द": [
+      "recsuWy4EfRZwvcmh"
+    ],
+    "प्रश्न जो इस शब्द का उपयोग कर रहे हैं": [
+      "recTMwxdfhiFP6PdB"
+    ],
+    "English Definition": [
+      "According to the U.S. National Institutes of Health, compassionate use - also called 'expanded access' - is a way to provide an investigational therapy to a patient who is not eligible to receive that therapy in a clinical trial, but who has a serious or life-threatening illness for which other treatments are not available. Compassionate use allows patients to receive promising but not yet fully studied or approved cancer therapies when no other treatment option exists. Also called expanded access."
+    ]
   },
   {
+    "id": "rec1qyMZ5NV38uciw",
     "शब्द": "संपर्क से पहले",
-    "परिभाषा": "इससे पहले कि कोई व्यक्ति किसी चीज के संपर्क में आए, आमतौर पर बीमारी या संक्रमण।",
-    "अंग्रेज़ी शब्द": "pre-exposure"
+    "परिभाषा": "इससे पहले कि कोई व्यक्ति किसी चीज के संपर्क में आए, आमतौर पर बीमारी या संक्रमण।\n",
+    "स्थिति": "Published",
+    "अंग्रेज़ी शब्द": [
+      "recZZhsMRrNyDPnjg"
+    ],
+    "प्रश्न जो इस शब्द का उपयोग कर रहे हैं": [
+      "recTMwxdfhiFP6PdB"
+    ],
+    "English Definition": [
+      "Pre-exposure refers to the period before a person is exposed to something, usually a disease or infection."
+    ]
   },
   {
+    "id": "recj2FGcuZ524VRfM",
     "शब्द": "संपर्क के बाद",
-    "परिभाषा": "किसी व्यक्ति को किसी चीज के संपर्क में आने के बाद, आमतौर पर बीमारी या संक्रमण।",
-    "अंग्रेज़ी शब्द": "post-exposure"
+    "परिभाषा": "किसी व्यक्ति को किसी चीज के संपर्क में आने के बाद, आमतौर पर बीमारी या संक्रमण।\n",
+    "स्थिति": "Published",
+    "अंग्रेज़ी शब्द": [
+      "reccE6W6JYLJi0i1n"
+    ],
+    "प्रश्न जो इस शब्द का उपयोग कर रहे हैं": [
+      "recTMwxdfhiFP6PdB"
+    ],
+    "English Definition": [
+      "Post-exposure refers to the period of time after a person is exposed to something, usually a disease or infection."
+    ]
   },
   {
+    "id": "rec5z9j8YD2A1t2ZQ",
     "शब्द": "प्रोफिलैक्सिस",
-    "परिभाषा": "नेशनल इंस्टीट्यूट ऑफ हेल्थ के अनुसार, एक रोगनिरोधी के रूप में वर्णित किया जा सकता है \"चिकित्सा में, कुछ ऐसा जो रोकता है या रक्षा करता है।\"",
-    "अंग्रेज़ी शब्द": "prophylaxis"
+    "परिभाषा": "नेशनल इंस्टीट्यूट ऑफ हेल्थ के अनुसार, एक रोगनिरोधी के रूप में वर्णित किया जा सकता है \"चिकित्सा में, कुछ ऐसा जो रोकता है या रक्षा करता है।\"\n",
+    "स्थिति": "Published",
+    "अंग्रेज़ी शब्द": [
+      "recUOHoAQtR97mxFC"
+    ],
+    "प्रश्न जो इस शब्द का उपयोग कर रहे हैं": [
+      "recTMwxdfhiFP6PdB"
+    ],
+    "English Definition": [
+      "According to the U.S. National Institutes of Health, a prophylactic treatment can be described as drugs or other forms of treatment used to prevent the development of a disease in a person who is at risk for but with no prior history of the disease."
+    ]
   },
   {
+    "id": "reczbKcCGvheX1NEG",
     "शब्द": "एंटीबायोटिक दवाओं",
-    "परिभाषा": "रोग नियंत्रण केंद्र के अनुसार, \"एंटीबायोटिक्स दवाएं हैं जो मनुष्यों और जानवरों में बैक्टीरिया के कारण होने वाले संक्रमण से लड़ती हैं या तो बैक्टीरिया को मारती हैं या बैक्टीरिया को बढ़ने और गुणा करने के लिए मुश्किल बनाती हैं।\" एंटीबायोटिक्स वायरस को नहीं मारते हैं और उन्हें केवल तब लिया जाना चाहिए जब उनकी आवश्यकता हो और उन्हें चिकित्सा प्रदाता द्वारा निर्धारित किया गया हो",
-    "अंग्रेज़ी शब्द": "antibiotics"
+    "परिभाषा": "रोग नियंत्रण केंद्र के अनुसार, \"एंटीबायोटिक्स दवाएं हैं जो मनुष्यों और जानवरों में बैक्टीरिया के कारण होने वाले संक्रमण से लड़ती हैं या तो बैक्टीरिया को मारती हैं या बैक्टीरिया को बढ़ने और गुणा करने के लिए मुश्किल बनाती हैं।\" एंटीबायोटिक्स वायरस को नहीं मारते हैं और उन्हें केवल तब लिया जाना चाहिए जब उनकी आवश्यकता हो और उन्हें चिकित्सा प्रदाता द्वारा निर्धारित किया गया हो\n",
+    "स्थिति": "Published",
+    "अंग्रेज़ी शब्द": [
+      "reco5k0tpirgGDeqb"
+    ],
+    "प्रश्न जो इस शब्द का उपयोग कर रहे हैं": [
+      "recv1FiBeWvUUxato"
+    ],
+    "English Definition": [
+      "According to the U.S. Centers for Disease Control, antibiotics are medicines that fight infections caused by bacteria in humans and animals by either killing the bacteria or making it difficult for the bacteria to grow and multiply. Antibiotics don't kill viruses and should only be taken when they're needed and prescribed by a medical provider.\n"
+    ]
   },
   {
+    "id": "rec2L5948RtOdwUvt",
     "शब्द": "सह-संक्रमण",
-    "परिभाषा": "नेशनल इंस्टीट्यूट ऑफ हेल्थ के अनुसार, एक सह-संक्रमण तब होता है जब \"जब किसी व्यक्ति को एक ही समय में दो या अधिक संक्रमण होते हैं। उदाहरण के लिए, एचआईवी के साथ रहने वाले व्यक्ति को हेपेटाइटिस सी वायरस (एचसीवी) संयोग भी हो सकता है, एक तपेदिक। (टीबी) संयोग, या दोनों।",
-    "अंग्रेज़ी शब्द": "co-infection"
+    "परिभाषा": "नेशनल इंस्टीट्यूट ऑफ हेल्थ के अनुसार, एक सह-संक्रमण तब होता है जब \"जब किसी व्यक्ति को एक ही समय में दो या अधिक संक्रमण होते हैं। उदाहरण के लिए, एचआईवी के साथ रहने वाले व्यक्ति को हेपेटाइटिस सी वायरस (एचसीवी) संयोग भी हो सकता है, एक तपेदिक। (टीबी) संयोग, या दोनों।\n",
+    "स्थिति": "Published",
+    "अंग्रेज़ी शब्द": [
+      "recRGHDXxeEnXrS9t"
+    ],
+    "प्रश्न जो इस शब्द का उपयोग कर रहे हैं": [
+      "recv1FiBeWvUUxato"
+    ],
+    "English Definition": [
+      "According to the U.S. National Institutes of Health, a co-infection occurs when a person has two or more infections at the same time. For example, a person living with HIV may also have a hepatitis C virus (HCV) coinfection, a tuberculosis (TB) coinfection, or both."
+    ]
   },
   {
+    "id": "recejGTgDAdePzb8w",
     "शब्द": "जीनोमिक विश्लेषण",
-    "परिभाषा": "प्रकृति के अनुसार, \"जीनोमिक विश्लेषण जीनोमिक विशेषताओं की पहचान, माप या तुलना है जैसे कि डीएनए अनुक्रम, संरचनात्मक भिन्नता, जीन अभिव्यक्ति, या जीनोमिक पैमाने पर विनियामक और कार्यात्मक तत्व एनोटेशन।\" इस प्रकार के विश्लेषण एक जीवित जीव में डीएनए और आरएनए की उत्पत्ति, पृष्ठभूमि, संबंधों और कार्यों को बेहतर ढंग से समझने के लिए जीन के एक सेट को देखने के लिए प्रयोगशाला के तरीकों का उपयोग करते हैं।",
-    "अंग्रेज़ी शब्द": "genomic analysis"
+    "परिभाषा": "प्रकृति के अनुसार, \"जीनोमिक विश्लेषण जीनोमिक विशेषताओं की पहचान, माप या तुलना है जैसे कि डीएनए अनुक्रम, संरचनात्मक भिन्नता, जीन अभिव्यक्ति, या जीनोमिक पैमाने पर विनियामक और कार्यात्मक तत्व एनोटेशन।\" इस प्रकार के विश्लेषण एक जीवित जीव में डीएनए और आरएनए की उत्पत्ति, पृष्ठभूमि, संबंधों और कार्यों को बेहतर ढंग से समझने के लिए जीन के एक सेट को देखने के लिए प्रयोगशाला के तरीकों का उपयोग करते हैं।\n",
+    "स्थिति": "Published",
+    "अंग्रेज़ी शब्द": [
+      "recbQ95pvRq7nP9s3"
+    ],
+    "प्रश्न जो इस शब्द का उपयोग कर रहे हैं": [
+      "recI45JBg4AUfgdUv"
+    ],
+    "English Definition": [
+      "According to the multidisciplinary science journal Nature, genomic analysis is the identification, measurement or comparison of genomic features such as DNA sequence, structural variation, gene expression, or regulatory and functional element annotation at a genomic scale. This type of analysis uses laboratory methods to look at a set of genes to better understand the origins, background, relationships, and functions of the DNA and RNA in a living organism."
+    ]
   },
   {
+    "id": "recoT0Suijyl09026",
     "शब्द": "ज़ूनोटिक स्थानांतरण",
-    "परिभाषा": "रोग नियंत्रण केंद्र के अनुसार, \"ज़ूनोटिक रोग (जिसे ज़ूनोस भी कहा जाता है) जानवरों और लोगों के बीच फैलने वाले कीटाणुओं के कारण होता है।\" इन कीटाणुओं को जानवरों और लोगों के बीच सीधे संपर्क, अप्रत्यक्ष संपर्क, वेक्टर-जनित ट्रांसमिशन (जैसे मच्छर या टिक), खाद्य जनित संचरण और जलजनित संचरण के माध्यम से फैलाया जा सकता है।",
-    "अंग्रेज़ी शब्द": "zoonotic transfer"
+    "परिभाषा": "रोग नियंत्रण केंद्र के अनुसार, \"ज़ूनोटिक रोग (जिसे ज़ूनोस भी कहा जाता है) जानवरों और लोगों के बीच फैलने वाले कीटाणुओं के कारण होता है।\" इन कीटाणुओं को जानवरों और लोगों के बीच सीधे संपर्क, अप्रत्यक्ष संपर्क, वेक्टर-जनित ट्रांसमिशन (जैसे मच्छर या टिक), खाद्य जनित संचरण और जलजनित संचरण के माध्यम से फैलाया जा सकता है।\n",
+    "स्थिति": "Published",
+    "अंग्रेज़ी शब्द": [
+      "recFSOdDjQBqJHnZ9"
+    ],
+    "प्रश्न जो इस शब्द का उपयोग कर रहे हैं": [
+      "recI45JBg4AUfgdUv"
+    ],
+    "English Definition": [
+      "Zoonoses are infectious diseases that animals can transmit to humans, especially when they are in close contact with them. Like humans, all animals carry germs. According to the U.S. Centers for Disease Control, these germs can be spread between animals and humans through direct contact, indirect contact, vector-borne transmission (like a mosquito or tick), foodborne transmission, and waterborne transmission.\n"
+    ]
   },
   {
+    "id": "recypAy3afHXH1Zu6",
     "शब्द": "स्पर्शोन्मुख",
-    "परिभाषा": "स्पर्शोन्मुख संक्रमण तब होता है जब कोई व्यक्ति किसी बीमारी से संक्रमित होता है लेकिन उसके संक्रमण के दौरान लक्षण नहीं होते हैं।",
-    "अंग्रेज़ी शब्द": "asymptomatic"
+    "परिभाषा": "स्पर्शोन्मुख संक्रमण तब होता है जब कोई व्यक्ति किसी बीमारी से संक्रमित होता है लेकिन उसके संक्रमण के दौरान लक्षण नहीं होते हैं।\n",
+    "स्थिति": "Published",
+    "अंग्रेज़ी शब्द": [
+      "recx2PeCcs1Awb9rG"
+    ],
+    "प्रश्न जो इस शब्द का उपयोग कर रहे हैं": [
+      "recWuNukdE0KpKIme"
+    ],
+    "English Definition": [
+      "Asymptomatic infections occur when a person is infected with an illness but does not have symptoms during the duration of their infection."
+    ]
   },
   {
+    "id": "recweA2Zhre2qkTpA",
     "शब्द": "पूर्व रोगसूचक",
-    "परिभाषा": "पूर्व-लक्षण संक्रमण तब होता है जब कोई व्यक्ति किसी बीमारी से संक्रमित होता है लेकिन अभी तक किसी भी लक्षण का अनुभव नहीं किया है।",
-    "अंग्रेज़ी शब्द": "pre-symptomatic"
+    "परिभाषा": "पूर्व-लक्षण संक्रमण तब होता है जब कोई व्यक्ति किसी बीमारी से संक्रमित होता है लेकिन अभी तक किसी भी लक्षण का अनुभव नहीं किया है।\n",
+    "स्थिति": "Published",
+    "अंग्रेज़ी शब्द": [
+      "recbZcFUtsYMA9Vsh"
+    ],
+    "English Definition": [
+      "Pre-symptomatic infections occur when a person is infected but does not yet display symptoms of an illness or disease. There can be a lag of a few days between the moment a person is infected and when they start experiencing symptoms. "
+    ]
   },
   {
+    "id": "recfzLZmTL7a03mVg",
     "शब्द": "इंफ्लुएंजा",
-    "परिभाषा": "रोग नियंत्रण केंद्रों के अनुसार, \"मौसमी इन्फ्लूएंजा वायरस इन्फ्लूएंजा ए और बी वायरस हैं जो वर्ष के समय के दौरान लोगों में बीमारी फैलाते हैं और\" फ्लू का मौसम \"के रूप में जाना जाता है।\" मौसमी इन्फ्लूएंजा वायरस गिरने, सर्दी और वसंत के दौरान वार्षिक अमेरिकी इन्फ्लूएंजा महामारियों का कारण बनता है, और दुनिया भर में लोगों के बीच प्रसारित होता है। मौसमी इन्फ्लूएंजा ए और बी वायरस लगातार अप्रत्याशित तरीके से विकास से गुजर रहे हैं। \"",
-    "अंग्रेज़ी शब्द": "influenza"
+    "परिभाषा": "रोग नियंत्रण केंद्रों के अनुसार, \"मौसमी इन्फ्लूएंजा वायरस इन्फ्लूएंजा ए और बी वायरस हैं जो वर्ष के समय के दौरान लोगों में बीमारी फैलाते हैं और\" फ्लू का मौसम \"के रूप में जाना जाता है।\" मौसमी इन्फ्लूएंजा वायरस गिरने, सर्दी और वसंत के दौरान वार्षिक अमेरिकी इन्फ्लूएंजा महामारियों का कारण बनता है, और दुनिया भर में लोगों के बीच प्रसारित होता है। मौसमी इन्फ्लूएंजा ए और बी वायरस लगातार अप्रत्याशित तरीके से विकास से गुजर रहे हैं। \"\n",
+    "स्थिति": "Published",
+    "अंग्रेज़ी शब्द": [
+      "recDalYrz2m23kS2e"
+    ],
+    "प्रश्न जो इस शब्द का उपयोग कर रहे हैं": [
+      "recCq6AMpxSN3gjOF"
+    ],
+    "English Definition": [
+      "According to the U.S. Centers for Disease Control, seasonal influenza viruses are influenza A and B viruses that spread and cause illness in people during the time of year known as the “flu season.” Seasonal influenza viruses cause annual U.S. influenza epidemics during fall, winter, and spring, and circulate among people worldwide. Seasonal influenza A and B viruses are continually undergoing evolution in unpredictable ways."
+    ]
   },
   {
+    "id": "reclJ0qg45eaAKc5Y",
     "शब्द": "बेकल कैलमेट-गुएरिन टीका",
-    "परिभाषा": "नेशनल इंस्टीट्यूट ऑफ हेल्थ के अनुसार, बेकल कैलमेट-गुएरिन (BCG) वैक्सीन है \"एक टीके का उपयोग उन लोगों में तपेदिक (टीबी) को रोकने के लिए किया जाता है जो टीबी के उच्च जोखिम में हैं या जहां टीबी आम है।\"",
-    "अंग्रेज़ी शब्द": "BCG vaccine"
+    "परिभाषा": "नेशनल इंस्टीट्यूट ऑफ हेल्थ के अनुसार, बेकल कैलमेट-गुएरिन (BCG) वैक्सीन है \"एक टीके का उपयोग उन लोगों में तपेदिक (टीबी) को रोकने के लिए किया जाता है जो टीबी के उच्च जोखिम में हैं या जहां टीबी आम है।\"\n",
+    "स्थिति": "Published",
+    "अंग्रेज़ी शब्द": [
+      "recUx8LCQGkRdxG3B"
+    ],
+    "प्रश्न जो इस शब्द का उपयोग कर रहे हैं": [
+      "recghRwerGPpEzj4B"
+    ],
+    "English Definition": [
+      "According to the U.S. National Institutes of Health, the bacille Calmette-Guerine (BCG) vaccine is a vaccine used to prevent tuberculosis (TB) in people who are at a high risk of TB or where TB is common."
+    ]
   },
   {
+    "id": "recAYEKHJopH7eLnK",
     "शब्द": "यक्ष्मा",
-    "परिभाषा": "विश्व स्वास्थ्य संगठन के अनुसार, \"तपेदिक (टीबी) बैक्टीरिया (माइकोबैक्टीरियम ट्यूबरकुलोसिस) के कारण होता है जो सबसे अधिक बार फेफड़ों को प्रभावित करते हैं। क्षय रोग का इलाज करने योग्य और रोके जाने योग्य है। टीबी एक व्यक्ति से दूसरे व्यक्ति में हवा के माध्यम से फैलता है। जब फेफड़े की टीबी खांसी, छींकने या थूकने वाले लोग होते हैं, तो वे टीबी के कीटाणुओं को हवा में फैला देते हैं। एक व्यक्ति को संक्रमित होने के लिए इन कीटाणुओं में से केवल कुछ को साँस लेने की आवश्यकता होती है। दुनिया की लगभग एक-चौथाई आबादी में अव्यक्त टीबी है, जिसका अर्थ है कि लोग टीबी बैक्टीरिया से संक्रमित हो गए हैं, लेकिन इस बीमारी से बीमार (अभी तक) नहीं हैं और बीमारी को प्रसारित नहीं कर सकते हैं। टीबी बैक्टीरिया से संक्रमित लोगों में टीबी के साथ बीमार पड़ने का 5–15% जीवन भर का जोखिम होता है। समझौता किए गए प्रतिरक्षा प्रणाली वाले व्यक्तियों, जैसे कि एचआईवी, कुपोषण या मधुमेह वाले लोग, या तंबाकू का उपयोग करने वाले लोगों के बीमार पड़ने का खतरा अधिक होता है। जब कोई व्यक्ति सक्रिय टीबी रोग विकसित करता है, तो लक्षण (जैसे कि खांसी, बुखार, रात को पसीना, या वजन कम होना) कई महीनों तक हल्के हो सकते हैं। इससे देखभाल करने में देरी हो सकती है, और दूसरों को बैक्टीरिया के संचरण में परिणाम हो सकता है। सक्रिय टीबी वाले लोग एक वर्ष के दौरान निकट संपर्क के माध्यम से 5 से 15 अन्य लोगों को संक्रमित कर सकते हैं। \"",
-    "अंग्रेज़ी शब्द": "tuberculosis"
+    "परिभाषा": "विश्व स्वास्थ्य संगठन के अनुसार, \"तपेदिक (टीबी) बैक्टीरिया (माइकोबैक्टीरियम ट्यूबरकुलोसिस) के कारण होता है जो सबसे अधिक बार फेफड़ों को प्रभावित करते हैं। क्षय रोग का इलाज करने योग्य और रोके जाने योग्य है। टीबी एक व्यक्ति से दूसरे व्यक्ति में हवा के माध्यम से फैलता है। जब फेफड़े की टीबी खांसी, छींकने या थूकने वाले लोग होते हैं, तो वे टीबी के कीटाणुओं को हवा में फैला देते हैं। एक व्यक्ति को संक्रमित होने के लिए इन कीटाणुओं में से केवल कुछ को साँस लेने की आवश्यकता होती है। दुनिया की लगभग एक-चौथाई आबादी में अव्यक्त टीबी है, जिसका अर्थ है कि लोग टीबी बैक्टीरिया से संक्रमित हो गए हैं, लेकिन इस बीमारी से बीमार (अभी तक) नहीं हैं और बीमारी को प्रसारित नहीं कर सकते हैं। टीबी बैक्टीरिया से संक्रमित लोगों में टीबी के साथ बीमार पड़ने का 5–15% जीवन भर का जोखिम होता है। समझौता किए गए प्रतिरक्षा प्रणाली वाले व्यक्तियों, जैसे कि एचआईवी, कुपोषण या मधुमेह वाले लोग, या तंबाकू का उपयोग करने वाले लोगों के बीमार पड़ने का खतरा अधिक होता है। जब कोई व्यक्ति सक्रिय टीबी रोग विकसित करता है, तो लक्षण (जैसे कि खांसी, बुखार, रात को पसीना, या वजन कम होना) कई महीनों तक हल्के हो सकते हैं। इससे देखभाल करने में देरी हो सकती है, और दूसरों को बैक्टीरिया के संचरण में परिणाम हो सकता है। सक्रिय टीबी वाले लोग एक वर्ष के दौरान निकट संपर्क के माध्यम से 5 से 15 अन्य लोगों को संक्रमित कर सकते हैं। \"\n",
+    "स्थिति": "Published",
+    "अंग्रेज़ी शब्द": [
+      "rec9SYUCp1ULDd0UL"
+    ],
+    "प्रश्न जो इस शब्द का उपयोग कर रहे हैं": [
+      "recghRwerGPpEzj4B"
+    ],
+    "English Definition": [
+      "According to the World Health Organization, tuberculosis (TB) is caused by bacteria (Mycobacterium tuberculosis) that most often affect the lungs. Tuberculosis is curable and preventable. TB is spread from person to person through the air. When people with lung TB cough, sneeze or spit, they propel the TB germs into the air. A person needs to inhale only a few of these germs to become infected.\nAbout one-quarter of the world's population has latent TB, which means people have been infected by TB bacteria but are not (yet) ill with the disease and cannot transmit the disease.\nPeople infected with TB bacteria have a 5–15% lifetime risk of falling ill with TB. Persons with compromised immune systems, such as people living with HIV, malnutrition or diabetes, or people who use tobacco, have a higher risk of falling ill.\nWhen a person develops active TB disease, the symptoms (such as cough, fever, night sweats, or weight loss) may be mild for many months. This can lead to delays in seeking care, and results in transmission of the bacteria to others. People with active TB can infect 5–15 other people through close contact over the course of a year."
+    ]
   },
   {
+    "id": "recMXimhUEB5WZmaB",
     "शब्द": "नैदानिक ​​परीक्षण",
-    "परिभाषा": "नेशनल इंस्टीट्यूट ऑफ हेल्थ के अनुसार, \"क्लिनिकल परीक्षण उन लोगों पर किए गए शोध अध्ययन हैं जिनका उद्देश्य चिकित्सा, शल्य चिकित्सा या व्यवहार संबंधी हस्तक्षेप का मूल्यांकन करना है। वे प्राथमिक तरीके हैं जो शोधकर्ता यह पता लगाते हैं कि क्या नया उपचार, एक नई दवा की तरह या आहार या चिकित्सा उपकरण (उदाहरण के लिए, एक पेसमेकर) लोगों में सुरक्षित और प्रभावी है। अक्सर यह जानने के लिए नैदानिक ​​परीक्षण का उपयोग किया जाता है कि क्या नया उपचार अधिक प्रभावी है और / या मानक उपचार की तुलना में कम हानिकारक दुष्प्रभाव हैं। अन्य नैदानिक ​​परीक्षण किसी बीमारी को जल्दी खोजने के तरीकों का परीक्षण करते हैं, कभी-कभी लक्षण होने से पहले। फिर भी अन्य लोग स्वास्थ्य समस्या को रोकने के तरीकों का परीक्षण करते हैं। एक नैदानिक ​​परीक्षण यह भी देख सकता है कि जीवन-धमकाने वाली बीमारी या पुरानी स्वास्थ्य समस्या वाले लोगों के लिए जीवन को बेहतर कैसे बनाया जाए। अमेरिकी खाद्य और औषधि प्रशासन (एफडीए) शुरू करने के लिए एक नैदानिक ​​परीक्षण को मंजूरी देने से पहले, वैज्ञानिक एक संभावित चिकित्सा की सुरक्षा और प्रभावकारिता का परीक्षण करने के लिए जानवरों में प्रयोगशाला परीक्षण और अध्ययन करते हैं। यदि ये अध्ययन अनुकूल परिणाम दिखाते हैं, तो एफडीए मनुष्यों में परीक्षण के लिए हस्तक्षेप की स्वीकृति देता है। \"",
-    "अंग्रेज़ी शब्द": "clinical trial"
+    "परिभाषा": "नेशनल इंस्टीट्यूट ऑफ हेल्थ के अनुसार, \"क्लिनिकल परीक्षण उन लोगों पर किए गए शोध अध्ययन हैं जिनका उद्देश्य चिकित्सा, शल्य चिकित्सा या व्यवहार संबंधी हस्तक्षेप का मूल्यांकन करना है। वे प्राथमिक तरीके हैं जो शोधकर्ता यह पता लगाते हैं कि क्या नया उपचार, एक नई दवा की तरह या आहार या चिकित्सा उपकरण (उदाहरण के लिए, एक पेसमेकर) लोगों में सुरक्षित और प्रभावी है। अक्सर यह जानने के लिए नैदानिक ​​परीक्षण का उपयोग किया जाता है कि क्या नया उपचार अधिक प्रभावी है और / या मानक उपचार की तुलना में कम हानिकारक दुष्प्रभाव हैं। अन्य नैदानिक ​​परीक्षण किसी बीमारी को जल्दी खोजने के तरीकों का परीक्षण करते हैं, कभी-कभी लक्षण होने से पहले। फिर भी अन्य लोग स्वास्थ्य समस्या को रोकने के तरीकों का परीक्षण करते हैं। एक नैदानिक ​​परीक्षण यह भी देख सकता है कि जीवन-धमकाने वाली बीमारी या पुरानी स्वास्थ्य समस्या वाले लोगों के लिए जीवन को बेहतर कैसे बनाया जाए। अमेरिकी खाद्य और औषधि प्रशासन (एफडीए) शुरू करने के लिए एक नैदानिक ​​परीक्षण को मंजूरी देने से पहले, वैज्ञानिक एक संभावित चिकित्सा की सुरक्षा और प्रभावकारिता का परीक्षण करने के लिए जानवरों में प्रयोगशाला परीक्षण और अध्ययन करते हैं। यदि ये अध्ययन अनुकूल परिणाम दिखाते हैं, तो एफडीए मनुष्यों में परीक्षण के लिए हस्तक्षेप की स्वीकृति देता है। \"\n",
+    "स्थिति": "Published",
+    "अंग्रेज़ी शब्द": [
+      "recM4p8QOERmuESKr"
+    ],
+    "प्रश्न जो इस शब्द का उपयोग कर रहे हैं": [
+      "recTMwxdfhiFP6PdB"
+    ],
+    "English Definition": [
+      "According to the U.S. National Institutes of Health, clinical trials are research studies performed in people that are aimed at evaluating a medical, surgical, or behavioral intervention. They are the primary way that researchers find out if a new treatment, like a new drug or diet or medical device (for example, a pacemaker) is safe and effective in people. Often, a clinical trial is used to learn if a new treatment is more effective and/or has less harmful side effects than the standard treatment. Clinical trials require testing the health intervention in groups of volunteers which include, depending on the trials, healthy individuals and/or patients with a known health issue.\nOther clinical trials test ways to find a disease early, sometimes before there are symptoms. Still, others test ways to prevent a health problem. A clinical trial may also look at how to make life better for people living with a life-threatening disease or a chronic health problem. \nBefore the U.S. Food and Drug Administration (FDA) approves a clinical trial to begin, scientists perform laboratory tests and studies in animals to test a potential therapy’s safety and efficacy. If these studies show favorable results, the FDA gives approval for the intervention to be tested in humans."
+    ]
   },
   {
+    "id": "recgefUCGHLZs8agE",
     "शब्द": "पराबैंगनी (यूवी)",
-    "परिभाषा": "रोग नियंत्रण केंद्रों के अनुसार, \"पराबैंगनी (यूवी) किरणें सूर्य के प्रकाश का एक हिस्सा हैं जो विकिरण का एक अदृश्य रूप है। यूवी किरणें त्वचा कोशिकाओं की संरचना को भेद और बदल सकती हैं। तीन प्रकार की यूवी किरणें हैं: पराबैंगनी ए (। यूवीए), पराबैंगनी बी (यूवीबी), और पराबैंगनी सी (यूवीसी)। यूवीए पृथ्वी की सतह पर सौर विकिरण का सबसे प्रचुर स्रोत है और मानव त्वचा की शीर्ष परत से परे प्रवेश करता है। वैज्ञानिकों का मानना ​​है कि यूवीए विकिरण संयोजी ऊतक को नुकसान पहुंचा सकता है। और त्वचा कैंसर के विकास के लिए एक व्यक्ति के जोखिम को बढ़ाते हैं। यूवीबी किरणें त्वचा में कम गहराई तक प्रवेश करती हैं, लेकिन फिर भी त्वचा कैंसर के कुछ कारण हो सकते हैं। प्राकृतिक UVC किरणें श्रमिकों के लिए जोखिम पैदा नहीं करती हैं क्योंकि वे पृथ्वी के वायुमंडल द्वारा अवशोषित होते हैं। \"",
-    "अंग्रेज़ी शब्द": "ultraviolet (UV)"
+    "परिभाषा": "रोग नियंत्रण केंद्रों के अनुसार, \"पराबैंगनी (यूवी) किरणें सूर्य के प्रकाश का एक हिस्सा हैं जो विकिरण का एक अदृश्य रूप है। यूवी किरणें त्वचा कोशिकाओं की संरचना को भेद और बदल सकती हैं। तीन प्रकार की यूवी किरणें हैं: पराबैंगनी ए (। यूवीए), पराबैंगनी बी (यूवीबी), और पराबैंगनी सी (यूवीसी)। यूवीए पृथ्वी की सतह पर सौर विकिरण का सबसे प्रचुर स्रोत है और मानव त्वचा की शीर्ष परत से परे प्रवेश करता है। वैज्ञानिकों का मानना ​​है कि यूवीए विकिरण संयोजी ऊतक को नुकसान पहुंचा सकता है। और त्वचा कैंसर के विकास के लिए एक व्यक्ति के जोखिम को बढ़ाते हैं। यूवीबी किरणें त्वचा में कम गहराई तक प्रवेश करती हैं, लेकिन फिर भी त्वचा कैंसर के कुछ कारण हो सकते हैं। प्राकृतिक UVC किरणें श्रमिकों के लिए जोखिम पैदा नहीं करती हैं क्योंकि वे पृथ्वी के वायुमंडल द्वारा अवशोषित होते हैं। \"\n",
+    "स्थिति": "Published",
+    "अंग्रेज़ी शब्द": [
+      "recjOgLIjiAbiBH5F"
+    ],
+    "प्रश्न जो इस शब्द का उपयोग कर रहे हैं": [
+      "recuMsGR9XouJYTgV"
+    ],
+    "English Definition": [
+      "According to the U.S. Centers for Disease Control, ultraviolet (UV) rays are a part of sunlight that is an invisible form of radiation. UV rays can penetrate and change the structure of skin cells. There are three types of UV rays: ultraviolet A (UVA), ultraviolet B (UVB), and ultraviolet C (UVC). UVA is the most abundant source of solar radiation at the earth’s surface and penetrates beyond the top layer of human skin. Scientists believe that UVA radiation can cause damage to connective tissue and increase a person’s risk for developing skin cancer. UVB rays penetrate less deeply into skin, but can still cause some forms of skin cancer. Natural UVC rays do not pose a risk to workers because they are absorbed by the Earth’s atmosphere."
+    ]
   },
   {
+    "id": "recoSjkjIXTwTk7nQ",
     "शब्द": "फैलाव",
-    "परिभाषा": "रोग नियंत्रण केंद्रों के अनुसार, \"ट्रांसमिशन या फैलाव है कि जिस तरह से कीटाणुओं को अतिसंवेदनशील व्यक्ति में ले जाया जाता है। कीटाणु खुद को स्थानांतरित नहीं करते हैं। कीटाणु लोगों, पर्यावरण, और / या चिकित्सा उपकरणों पर निर्भर करते हैं ताकि स्वास्थ्य सेवा सेटिंग्स में स्थानांतरित हो सकें।\" कुछ सामान्य तरीके जो कीटाणु स्वास्थ्य देखभाल सेटिंग्स में यात्रा करते हैं - संपर्क के माध्यम से (यानी, स्पर्श करना), स्प्रे और स्पलैश, साँस लेना, और तेज चोटें (यानी, जब कोई गलती से इस्तेमाल की गई सुई या तेज उपकरण के साथ फंस गया हो)। \"",
-    "अंग्रेज़ी शब्द": "transmission"
+    "परिभाषा": "रोग नियंत्रण केंद्रों के अनुसार, \"ट्रांसमिशन या फैलाव है कि जिस तरह से कीटाणुओं को अतिसंवेदनशील व्यक्ति में ले जाया जाता है। कीटाणु खुद को स्थानांतरित नहीं करते हैं। कीटाणु लोगों, पर्यावरण, और / या चिकित्सा उपकरणों पर निर्भर करते हैं ताकि स्वास्थ्य सेवा सेटिंग्स में स्थानांतरित हो सकें।\" कुछ सामान्य तरीके जो कीटाणु स्वास्थ्य देखभाल सेटिंग्स में यात्रा करते हैं - संपर्क के माध्यम से (यानी, स्पर्श करना), स्प्रे और स्पलैश, साँस लेना, और तेज चोटें (यानी, जब कोई गलती से इस्तेमाल की गई सुई या तेज उपकरण के साथ फंस गया हो)। \"\n",
+    "स्थिति": "Published",
+    "अंग्रेज़ी शब्द": [
+      "rec2UNEXbTkSCx30Q"
+    ],
+    "प्रश्न जो इस शब्द का उपयोग कर रहे हैं": [
+      "recq6Hvn8x5elieUc",
+      "recOm14qZz4QpDGQr"
+    ],
+    "English Definition": [
+      "According to the U.S. Centers for Disease Control, transmission refers to the way germs are moved towards a non-infected person. Germs don’t move themselves. Germs depend on people, the environment, and/or medical equipment (in healthcare settings) to move. "
+    ]
   },
   {
+    "id": "recvlJ88yP7woxpJV",
     "शब्द": "बाँझ",
-    "परिभाषा": "रोग नियंत्रण केंद्र के अनुसार, जब कोई चीज बाँझ होती है तो वह \"सभी जीवित सूक्ष्मजीवों से मुक्त होने की अवस्था\" में होती है। इसका मतलब यह है कि एक बाँझ वस्तु पूरी तरह से स्वच्छ और बैक्टीरिया और जीवित कीटाणुओं से मुक्त है।",
-    "अंग्रेज़ी शब्द": "sterile"
+    "परिभाषा": "रोग नियंत्रण केंद्र के अनुसार, जब कोई चीज बाँझ होती है तो वह \"सभी जीवित सूक्ष्मजीवों से मुक्त होने की अवस्था\" में होती है। इसका मतलब यह है कि एक बाँझ वस्तु पूरी तरह से स्वच्छ और बैक्टीरिया और जीवित कीटाणुओं से मुक्त है।\n",
+    "स्थिति": "Published",
+    "अंग्रेज़ी शब्द": [
+      "recUAN8C73rkuPWX9"
+    ],
+    "प्रश्न जो इस शब्द का उपयोग कर रहे हैं": [
+      "recKr9zDEV3KkIoty"
+    ],
+    "English Definition": [
+      "According to the U.S. Centers for Disease Control, when something is sterile it is in a state of being free from all living microorganisms. This means that a sterile object is totally clean and free from bacteria and living germs."
+    ]
   },
   {
+    "id": "recRfA2NGuTR1WT1G",
     "शब्द": "एंटीऑक्सीडेंट",
-    "परिभाषा": "नेशनल इंस्टीट्यूट ऑफ हेल्थ के अनुसार, \"एंटीऑक्सिडेंट मानव निर्मित या प्राकृतिक पदार्थ हैं जो कुछ प्रकार के सेल क्षति को रोक सकते हैं या देरी कर सकते हैं। सब्जियों और फलों में उच्च आहार, जो एंटीऑक्सिडेंट के अच्छे स्रोत हैं, हालांकि स्वस्थ पाए गए हैं; अनुसंधान ने एंटीऑक्सिडेंट की खुराक को बीमारियों को रोकने में फायदेमंद नहीं दिखाया है। एंटीऑक्सिडेंट के उदाहरणों में विटामिन सी और ई, सेलेनियम और कैरोटीनॉयड शामिल हैं, जैसे कि बीटा-कैरोटीन, लाइकोपीन, ल्यूटिन, और ज़ेक्सैंथिन। \"",
-    "अंग्रेज़ी शब्द": "antioxidant"
+    "परिभाषा": "नेशनल इंस्टीट्यूट ऑफ हेल्थ के अनुसार, \"एंटीऑक्सिडेंट मानव निर्मित या प्राकृतिक पदार्थ हैं जो कुछ प्रकार के सेल क्षति को रोक सकते हैं या देरी कर सकते हैं। सब्जियों और फलों में उच्च आहार, जो एंटीऑक्सिडेंट के अच्छे स्रोत हैं, हालांकि स्वस्थ पाए गए हैं; अनुसंधान ने एंटीऑक्सिडेंट की खुराक को बीमारियों को रोकने में फायदेमंद नहीं दिखाया है। एंटीऑक्सिडेंट के उदाहरणों में विटामिन सी और ई, सेलेनियम और कैरोटीनॉयड शामिल हैं, जैसे कि बीटा-कैरोटीन, लाइकोपीन, ल्यूटिन, और ज़ेक्सैंथिन। \"\n",
+    "स्थिति": "Published",
+    "अंग्रेज़ी शब्द": [
+      "recOMUWrX4F2d53iC"
+    ],
+    "प्रश्न जो इस शब्द का उपयोग कर रहे हैं": [
+      "recoJqIP70s9YSG3W"
+    ],
+    "English Definition": [
+      "According to the U.S. National Institutes of Health, antioxidants are man-made or natural substances that may prevent or delay some types of cell damage. Diets high in vegetables and fruits, which are good sources of antioxidants, have been found to be healthy; however, research has not shown antioxidant supplements to be beneficial in preventing diseases. Examples of antioxidants include vitamins C and E, selenium, and carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin. "
+    ]
   }
 ]

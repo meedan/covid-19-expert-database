@@ -63,6 +63,8 @@ t:
       in: "in"
       variation-by-country: "Does this answer vary depending on where you live?"
       variation-by-demographic: "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?"
+      media: "Media"
+      glossary-terms: "Glossary Terms"
   fr:
     site-name: "Covid-19 Expert Database"
     ask-a-question: "Poser une question"
@@ -126,6 +128,8 @@ t:
       in: "en"
       variation-by-country: "Cette réponse varie-t-elle en fonction de votre lieu de résidence ?"
       variation-by-demographic: "Cette réponse varie-t-elle en fonction de votre race, origine ethnique, âge, de votre sexe ou d'autres facteurs démographiques ?"
+      media: "Media"
+      glossary-terms: "Glossaire"
   hi:
     site-name: "Covid-19 Expert Database"
     ask-a-question: "प्रश्न पूछें"
@@ -189,3 +193,5 @@ t:
       in: "में"
       variation-by-country: "क्या यह उत्तर आपके रहने के आधार पर बदलता है?"
       variation-by-demographic: "क्या यह उत्तर आपकी नस्ल, जातीयता, आय, आयु, लिंग या अन्य जनसांख्यिकीय कारकों के आधार पर बदलता है?"
+      media: "Media"
+      glossary-terms: "शब्दकोष"

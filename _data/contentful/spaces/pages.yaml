@@ -107,7 +107,7 @@ page:
 - sys:
     id: 6qPcureNE9SvAqTqvb8Vsl
     created_at: !ruby/object:DateTime 2020-05-14 00:12:44.405000000 Z
-    updated_at: !ruby/object:DateTime 2020-05-14 21:50:44.459000000 Z
+    updated_at: !ruby/object:DateTime 2020-07-11 03:27:13.682000000 Z
     content_type_id: page
     revision: 1
     space:
@@ -123,7 +123,7 @@ page:
         type: Link
         linkType: Environment
   title: Glossary
-  slug: glossary
+  slug: "/glossary-2"
   description: Glossary
   embed:
     en-US: '<iframe class="airtable-embed" src="https://airtable.com/embed/shrW1b5oCSWWd09Xf?backgroundColor=red&viewControls=on"

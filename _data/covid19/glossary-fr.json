@@ -1,107 +1,312 @@
 [
   {
+    "id": "rec6vNnYlTtVahGRO",
     "Terme": "usage compassionnel",
-    "Définition": "Le terme \"usage compassionnel\" se réfère à l'utilisation de traitements expérimentaux pouvant potentiellement sauver la vie de patients souffrant d'une maladie pour laquelle aucun traitement autorisé satisfaisant n’existe et/ou qui ne peuvent participer à un essai clinique. Pour de nombreux patients ces traitements représentent leur dernier espoir de guérison.",
-    "English term": "compassionate use"
+    "Définition": "Le terme \"usage compassionnel\" se réfère à l'utilisation de traitements expérimentaux pouvant potentiellement sauver la vie de patients souffrant d'une maladie pour laquelle aucun traitement autorisé satisfaisant n’existe et/ou qui ne peuvent participer à un essai clinique. Pour de nombreux patients ces traitements représentent leur dernier espoir de guérison.\n",
+    "Status": "Published",
+    "English term": [
+      "recsuWy4EfRZwvcmh"
+    ],
+    "English Definition": [
+      "According to the U.S. National Institutes of Health, compassionate use - also called 'expanded access' - is a way to provide an investigational therapy to a patient who is not eligible to receive that therapy in a clinical trial, but who has a serious or life-threatening illness for which other treatments are not available. Compassionate use allows patients to receive promising but not yet fully studied or approved cancer therapies when no other treatment option exists. Also called expanded access."
+    ]
   },
   {
+    "id": "rec5NviyR1bKlIVTa",
     "Terme": "incubation",
-    "Définition": "Selon l'Organisation mondiale de la santé, la période d'incubation est le temps qui s'écoule entre l'exposition au virus (infection) et l'apparition des symptômes.",
-    "English term": "incubation period"
+    "Définition": "Selon l'Organisation mondiale de la santé, la période d'incubation est le temps qui s'écoule entre l'exposition au virus (infection) et l'apparition des symptômes.\n",
+    "Status": "Published",
+    "Questions utilisant ce mot": [
+      "reccy9EmiOk9SlhJ7"
+    ],
+    "English term": [
+      "recE7xmnXgtg8ZanX"
+    ],
+    "English Definition": [
+      "According to the World Health Organization, the incubation period is the time between exposure to the virus (becoming infected) and symptom onset."
+    ]
   },
   {
+    "id": "recdwSm7f3It0F5Eq",
     "Terme": "asymptomatique",
-    "Définition": "Les infections asymptomatiques surviennent lorsqu'une personne est infectée par une maladie mais ne présente pas de symptômes pendant la durée de son infection.",
-    "English term": "asymptomatic"
+    "Définition": "Les infections asymptomatiques surviennent lorsqu'une personne est infectée par une maladie mais ne présente pas de symptômes pendant la durée de son infection.\n",
+    "Status": "Published",
+    "Questions utilisant ce mot": [
+      "reccy9EmiOk9SlhJ7"
+    ],
+    "English term": [
+      "recx2PeCcs1Awb9rG"
+    ],
+    "English Definition": [
+      "Asymptomatic infections occur when a person is infected with an illness but does not have symptoms during the duration of their infection."
+    ]
   },
   {
+    "id": "rec4IrZTOe3lpz98t",
     "Terme": "présymptomatique",
-    "Définition": "Les infections présymptomatiques se produisent lorsqu'une personne est infectée mais ne présente pas encore les symptômes d'une maladie. Il peut y avoir un décalage de quelques jours entre le moment où une personne est infectée et celui où elle commence à présenter des symptômes. ",
-    "English term": "pre-symptomatic"
+    "Définition": "Les infections présymptomatiques se produisent lorsqu'une personne est infectée mais ne présente pas encore les symptômes d'une maladie. Il peut y avoir un décalage de quelques jours entre le moment où une personne est infectée et celui où elle commence à présenter des symptômes. \n",
+    "Status": "Published",
+    "Questions utilisant ce mot": [
+      "reccy9EmiOk9SlhJ7"
+    ],
+    "English term": [
+      "recbZcFUtsYMA9Vsh"
+    ],
+    "English Definition": [
+      "Pre-symptomatic infections occur when a person is infected but does not yet display symptoms of an illness or disease. There can be a lag of a few days between the moment a person is infected and when they start experiencing symptoms. "
+    ]
   },
   {
+    "id": "recxD9dPlL1W8DCs2",
     "Terme": "transmission",
-    "Définition": "Selon les Centres pour le contrôle et la prévention des maladies des États-Unis, la transmission fait référence à la façon dont les germes sont déplacés d'une personne infectée à une autre personne auparavant non infectée. Les germes ne se déplacent pas d'eux-mêmes. Les germes dépendent des personnes, de l'environnement et/ou de l'équipement médical (dans les établissements de soins) pour se déplacer. \n\n",
-    "English term": "transmission"
+    "Définition": "Selon les Centres pour le contrôle et la prévention des maladies des États-Unis, la transmission fait référence à la façon dont les germes sont déplacés d'une personne infectée à une autre personne auparavant non infectée. Les germes ne se déplacent pas d'eux-mêmes. Les germes dépendent des personnes, de l'environnement et/ou de l'équipement médical (dans les établissements de soins) pour se déplacer. \n\n\n",
+    "Status": "Published",
+    "Questions utilisant ce mot": [
+      "reccy9EmiOk9SlhJ7",
+      "recjXAWxtpH214q4o"
+    ],
+    "English term": [
+      "rec2UNEXbTkSCx30Q"
+    ],
+    "English Definition": [
+      "According to the U.S. Centers for Disease Control, transmission refers to the way germs are moved towards a non-infected person. Germs don’t move themselves. Germs depend on people, the environment, and/or medical equipment (in healthcare settings) to move. "
+    ]
   },
   {
+    "id": "recN1KGOfbDmvsGiU",
     "Terme": "grippe",
-    "Définition": "La grippe saisonnière est une infection virale aiguë provoquée par un virus grippal. Selon les Centres pour le contrôle et la prévention des maladies des États-Unis, les virus de la grippe saisonnière sont des virus A et B qui se propagent et provoquent des maladies chez les personnes. Les virus de la grippe saisonnière provoquent des épidémies annuelles de grippe aux États-Unis et en Europe pendant l'automne, l'hiver et le printemps, et circulent parmi les personnes dans le monde entier. Les virus de la grippe saisonnière A et B évoluent continuellement de manière imprévisible.\n",
-    "English term": "influenza"
+    "Définition": "La grippe saisonnière est une infection virale aiguë provoquée par un virus grippal. Selon les Centres pour le contrôle et la prévention des maladies des États-Unis, les virus de la grippe saisonnière sont des virus A et B qui se propagent et provoquent des maladies chez les personnes. Les virus de la grippe saisonnière provoquent des épidémies annuelles de grippe aux États-Unis et en Europe pendant l'automne, l'hiver et le printemps, et circulent parmi les personnes dans le monde entier. Les virus de la grippe saisonnière A et B évoluent continuellement de manière imprévisible.\n\n",
+    "Status": "Published",
+    "Questions utilisant ce mot": [
+      "recpBz5mkWp9d4kae"
+    ],
+    "English term": [
+      "recDalYrz2m23kS2e"
+    ],
+    "English Definition": [
+      "According to the U.S. Centers for Disease Control, seasonal influenza viruses are influenza A and B viruses that spread and cause illness in people during the time of year known as the “flu season.” Seasonal influenza viruses cause annual U.S. influenza epidemics during fall, winter, and spring, and circulate among people worldwide. Seasonal influenza A and B viruses are continually undergoing evolution in unpredictable ways."
+    ]
   },
   {
+    "id": "reczZiLfjgDKGWXZp",
     "Terme": "ultraviolets (UV)",
-    "Définition": "Selon les Centres pour le contrôle et la prévention des maladies des États-Unis, les rayons ultraviolets (UV) font partie de la lumière du soleil qui est une forme invisible de rayonnement. Les rayons UV peuvent pénétrer et modifier la structure des cellules de la peau. Il existe trois types de rayons UV : les ultraviolets A (UVA), les ultraviolets B (UVB) et les ultraviolets C (UVC). Les UVA sont la source la plus abondante de rayonnement solaire à la surface de la terre et pénètrent au-delà de la couche supérieure de la peau humaine. Les scientifiques pensent que les rayons UVA peuvent endommager les tissus conjonctifs et augmenter le risque de cancer de la peau. Les rayons UVB pénètrent moins profondément dans la peau, mais peuvent quand même causer certaines formes de cancer de la peau. Les rayons UVC naturels ne présentent pas de risque pour les travailleurs car ils sont absorbés par l'atmosphère terrestre.",
-    "English term": "ultraviolet (UV)"
+    "Définition": "Selon les Centres pour le contrôle et la prévention des maladies des États-Unis, les rayons ultraviolets (UV) font partie de la lumière du soleil qui est une forme invisible de rayonnement. Les rayons UV peuvent pénétrer et modifier la structure des cellules de la peau. Il existe trois types de rayons UV : les ultraviolets A (UVA), les ultraviolets B (UVB) et les ultraviolets C (UVC). Les UVA sont la source la plus abondante de rayonnement solaire à la surface de la terre et pénètrent au-delà de la couche supérieure de la peau humaine. Les scientifiques pensent que les rayons UVA peuvent endommager les tissus conjonctifs et augmenter le risque de cancer de la peau. Les rayons UVB pénètrent moins profondément dans la peau, mais peuvent quand même causer certaines formes de cancer de la peau. Les rayons UVC naturels ne présentent pas de risque pour les travailleurs car ils sont absorbés par l'atmosphère terrestre.\n",
+    "Status": "Published",
+    "Questions utilisant ce mot": [
+      "rec5gU4AbShoWGNjF"
+    ],
+    "English term": [
+      "recjOgLIjiAbiBH5F"
+    ],
+    "English Definition": [
+      "According to the U.S. Centers for Disease Control, ultraviolet (UV) rays are a part of sunlight that is an invisible form of radiation. UV rays can penetrate and change the structure of skin cells. There are three types of UV rays: ultraviolet A (UVA), ultraviolet B (UVB), and ultraviolet C (UVC). UVA is the most abundant source of solar radiation at the earth’s surface and penetrates beyond the top layer of human skin. Scientists believe that UVA radiation can cause damage to connective tissue and increase a person’s risk for developing skin cancer. UVB rays penetrate less deeply into skin, but can still cause some forms of skin cancer. Natural UVC rays do not pose a risk to workers because they are absorbed by the Earth’s atmosphere."
+    ]
   },
   {
+    "id": "recy2g3HZCckzrsKx",
     "Terme": "stériles",
-    "Définition": "Selon les Centres pour le contrôle et la prévention des maladies des États-Unis, lorsqu'une chose est stérile, elle est dans un état où elle est exempte de tout micro-organisme vivant. Cela signifie qu'un objet stérile est totalement propre et exempt de bactéries et de germes vivants.",
-    "English term": "sterile"
+    "Définition": "Selon les Centres pour le contrôle et la prévention des maladies des États-Unis, lorsqu'une chose est stérile, elle est dans un état où elle est exempte de tout micro-organisme vivant. Cela signifie qu'un objet stérile est totalement propre et exempt de bactéries et de germes vivants.\n",
+    "Status": "Published",
+    "Questions utilisant ce mot": [
+      "recrYDVoINSZiwvJh"
+    ],
+    "English term": [
+      "recUAN8C73rkuPWX9"
+    ],
+    "English Definition": [
+      "According to the U.S. Centers for Disease Control, when something is sterile it is in a state of being free from all living microorganisms. This means that a sterile object is totally clean and free from bacteria and living germs."
+    ]
   },
   {
+    "id": "recF5ZskHxC3iLoRg",
     "Terme": "BCG",
-    "Définition": "Selon les Instituts nationaux de la santé des États-Unis, le vaccin bacille Calmette-Guérine (BCG) est un vaccin utilisé pour prévenir la tuberculose chez les personnes qui présentent un risque élevé de tuberculose ou dans les endroits où la tuberculose est courante.",
-    "English term": "BCG vaccine"
+    "Définition": "Selon les Instituts nationaux de la santé des États-Unis, le vaccin bacille Calmette-Guérine (BCG) est un vaccin utilisé pour prévenir la tuberculose chez les personnes qui présentent un risque élevé de tuberculose ou dans les endroits où la tuberculose est courante.\n",
+    "Status": "Published",
+    "Questions utilisant ce mot": [
+      "rec7DbR8cpUtj6laV"
+    ],
+    "English term": [
+      "recUx8LCQGkRdxG3B"
+    ],
+    "English Definition": [
+      "According to the U.S. National Institutes of Health, the bacille Calmette-Guerine (BCG) vaccine is a vaccine used to prevent tuberculosis (TB) in people who are at a high risk of TB or where TB is common."
+    ]
   },
   {
+    "id": "rec6TkHKY7sNXMmZV",
     "Terme": "tuberculose",
-    "Définition": "Selon l'Organisation mondiale de la santé, la tuberculose est causée par une bactérie (Mycobacterium tuberculosis) qui affecte le plus souvent les poumons. La tuberculose est curable et évitable. \nLa tuberculose se propage quand quelqu'un qui a la tuberculose tousse, éternue, rit, chante ou parle fort et contamine l'air ambiant avec de minuscules gouttelettes contenant le germe vivant. Si ces gouttelettes sont respirées par une autre personne, cette dernière devient infectée.\n\nEnviron un quart de la population mondiale est porteuse d'une tuberculose latente, ce qui signifie que ces personnes ont été infectées par le bacille tuberculeux mais ne sont pas (encore) malades et ne peuvent pas transmettre la maladie\n\nLes personnes infectées par des bactéries tuberculeuses courent un risque de 5 à 15 % de tomber malade de la tuberculose au cours de leur vie. Cependant, les personnes dont le système immunitaire est affaibli, comme les personnes vivant avec le VIH, la malnutrition ou le diabète, ou les personnes qui fument, ont un risque beaucoup plus élevé de tomber malades.\n\nLorsqu'une personne développe une tuberculose active, les symptômes (tels que la toux, la fièvre, les sueurs nocturnes ou la perte de poids) peuvent être légers pendant plusieurs mois. Cela peut entraîner des retards dans la recherche de soins et entraîner la transmission des bactéries à d'autres personnes. Les personnes atteintes de tuberculose active peuvent infecter 10 à 15 autres personnes par le biais de contacts étroits au cours d'une année. ",
-    "English term": "tuberculosis"
+    "Définition": "Selon l'Organisation mondiale de la santé, la tuberculose est causée par une bactérie (Mycobacterium tuberculosis) qui affecte le plus souvent les poumons. La tuberculose est curable et évitable. \nLa tuberculose se propage quand quelqu'un qui a la tuberculose tousse, éternue, rit, chante ou parle fort et contamine l'air ambiant avec de minuscules gouttelettes contenant le germe vivant. Si ces gouttelettes sont respirées par une autre personne, cette dernière devient infectée.\n\nEnviron un quart de la population mondiale est porteuse d'une tuberculose latente, ce qui signifie que ces personnes ont été infectées par le bacille tuberculeux mais ne sont pas (encore) malades et ne peuvent pas transmettre la maladie\n\nLes personnes infectées par des bactéries tuberculeuses courent un risque de 5 à 15 % de tomber malade de la tuberculose au cours de leur vie. Cependant, les personnes dont le système immunitaire est affaibli, comme les personnes vivant avec le VIH, la malnutrition ou le diabète, ou les personnes qui fument, ont un risque beaucoup plus élevé de tomber malades.\n\nLorsqu'une personne développe une tuberculose active, les symptômes (tels que la toux, la fièvre, les sueurs nocturnes ou la perte de poids) peuvent être légers pendant plusieurs mois. Cela peut entraîner des retards dans la recherche de soins et entraîner la transmission des bactéries à d'autres personnes. Les personnes atteintes de tuberculose active peuvent infecter 10 à 15 autres personnes par le biais de contacts étroits au cours d'une année. \n",
+    "Status": "Published",
+    "Questions utilisant ce mot": [
+      "rec7DbR8cpUtj6laV"
+    ],
+    "English term": [
+      "rec9SYUCp1ULDd0UL"
+    ],
+    "English Definition": [
+      "According to the World Health Organization, tuberculosis (TB) is caused by bacteria (Mycobacterium tuberculosis) that most often affect the lungs. Tuberculosis is curable and preventable. TB is spread from person to person through the air. When people with lung TB cough, sneeze or spit, they propel the TB germs into the air. A person needs to inhale only a few of these germs to become infected.\nAbout one-quarter of the world's population has latent TB, which means people have been infected by TB bacteria but are not (yet) ill with the disease and cannot transmit the disease.\nPeople infected with TB bacteria have a 5–15% lifetime risk of falling ill with TB. Persons with compromised immune systems, such as people living with HIV, malnutrition or diabetes, or people who use tobacco, have a higher risk of falling ill.\nWhen a person develops active TB disease, the symptoms (such as cough, fever, night sweats, or weight loss) may be mild for many months. This can lead to delays in seeking care, and results in transmission of the bacteria to others. People with active TB can infect 5–15 other people through close contact over the course of a year."
+    ]
   },
   {
+    "id": "reccwo5NJI2cHb2Wl",
     "Terme": "zoonose",
-    "Définition": "Les zoonoses sont des maladies infectieuses que les animaux peuvent transmettre aux humains, surtout lorsqu'ils sont en étroit contact avec eux. Comme les humains, tous les animaux transportent des germes. Selon les Centres pour le contrôle et la prévention des maladies des États-Unis, ces germes peuvent se propager par contact direct, par contact indirect, par transmission vectorielle (comme un moustique ou une tique), par transmission alimentaire et par transmission hybride (par l'eau).",
-    "English term": "zoonotic transfer"
+    "Définition": "Les zoonoses sont des maladies infectieuses que les animaux peuvent transmettre aux humains, surtout lorsqu'ils sont en étroit contact avec eux. Comme les humains, tous les animaux transportent des germes. Selon les Centres pour le contrôle et la prévention des maladies des États-Unis, ces germes peuvent se propager par contact direct, par contact indirect, par transmission vectorielle (comme un moustique ou une tique), par transmission alimentaire et par transmission hybride (par l'eau).\n",
+    "Status": "Published",
+    "Questions utilisant ce mot": [
+      "recbjW2CdPdJHM0wE"
+    ],
+    "English term": [
+      "recFSOdDjQBqJHnZ9"
+    ],
+    "English Definition": [
+      "Zoonoses are infectious diseases that animals can transmit to humans, especially when they are in close contact with them. Like humans, all animals carry germs. According to the U.S. Centers for Disease Control, these germs can be spread between animals and humans through direct contact, indirect contact, vector-borne transmission (like a mosquito or tick), foodborne transmission, and waterborne transmission.\n"
+    ]
   },
   {
+    "id": "recbMekD6UXPWJAi6",
     "Terme": "analyse génomique",
-    "Définition": "Selon la revue scientifique multidisciplinaire Nature, l'analyse génomique est l'identification, la mesure ou la comparaison de caractéristiques génomiques telles que la séquence d'ADN, la variation structurelle, l'expression des gènes ou l'annotation des éléments régulateurs et fonctionnels à l'échelle génomique. Ce type d'analyse utilise des méthodes de laboratoire pour examiner un ensemble de gènes afin de mieux comprendre les origines, le contexte, les relations et les fonctions de l'ADN et de l'ARN dans un organisme vivant.",
-    "English term": "genomic analysis"
+    "Définition": "Selon la revue scientifique multidisciplinaire Nature, l'analyse génomique est l'identification, la mesure ou la comparaison de caractéristiques génomiques telles que la séquence d'ADN, la variation structurelle, l'expression des gènes ou l'annotation des éléments régulateurs et fonctionnels à l'échelle génomique. Ce type d'analyse utilise des méthodes de laboratoire pour examiner un ensemble de gènes afin de mieux comprendre les origines, le contexte, les relations et les fonctions de l'ADN et de l'ARN dans un organisme vivant.\n",
+    "Status": "Published",
+    "Questions utilisant ce mot": [
+      "recbjW2CdPdJHM0wE"
+    ],
+    "English term": [
+      "recbQ95pvRq7nP9s3"
+    ],
+    "English Definition": [
+      "According to the multidisciplinary science journal Nature, genomic analysis is the identification, measurement or comparison of genomic features such as DNA sequence, structural variation, gene expression, or regulatory and functional element annotation at a genomic scale. This type of analysis uses laboratory methods to look at a set of genes to better understand the origins, background, relationships, and functions of the DNA and RNA in a living organism."
+    ]
   },
   {
+    "id": "recRdDn65UcHnA63p",
     "Terme": "virus",
-    "Définition": "Selon les Centres pour le contrôle et la prévention des maladies des États-Unis, un virus est un organisme infectieux minuscule qui se multiplie à l'intérieur des cellules et provoque des maladies telles que la varicelle, la rougeole, les oreillons, la rubéole, la coqueluche et l'hépatite. Les virus sont plus petits que les bactéries et ont besoin de cellules ou de tissus vivants pour se développer et se reproduire. Les antibiotiques sont des médicaments utilisés pour traiter les infections bactériennes. Les antibiotiques ne sont pas efficaces contre les infections virales.\n",
-    "English term": "virus"
+    "Définition": "Selon les Centres pour le contrôle et la prévention des maladies des États-Unis, un virus est un organisme infectieux minuscule qui se multiplie à l'intérieur des cellules et provoque des maladies telles que la varicelle, la rougeole, les oreillons, la rubéole, la coqueluche et l'hépatite. Les virus sont plus petits que les bactéries et ont besoin de cellules ou de tissus vivants pour se développer et se reproduire. Les antibiotiques sont des médicaments utilisés pour traiter les infections bactériennes. Les antibiotiques ne sont pas efficaces contre les infections virales.\n\n",
+    "Status": "Published",
+    "Questions utilisant ce mot": [
+      "recXOlSZvyEECnqkk"
+    ],
+    "English term": [
+      "recnFUXyIZy81Rj1I"
+    ],
+    "English Definition": [
+      "According to the U.S. Centers for Diseases Control, a virus is a tiny organism that multiplies within cells and causes disease such as chickenpox, measles, mumps, rubella, pertussis and hepatitis. Viruses are not affected by antibiotics, the drugs used to kill bacteria. Viruses are smaller in size than bacteria and require living cells or tissues in order to grow and reproduce. "
+    ]
   },
   {
+    "id": "recn0lT3zfEhVv8Eo",
     "Terme": "bactérie",
-    "Définition": "Selon les Centres pour le contrôle et la prévention des maladies des États-Unis, les bactéries sont des germes. Elles vivent dans l'environnement et partout à l'intérieur et à l'extérieur de notre corps. La plupart des bactéries sont inoffensives et même utiles pour l'humain, mais certaines peuvent provoquer des infections, comme l'angine streptococcique. Ces organismes microscopiques sont constitués d'une seule cellule et peuvent survivre dans de nombreux types d'environnements différents, et pas seulement dans les êtres vivants. Les antibiotiques peuvent être utilisés pour traiter les infections bactériennes. ",
-    "English term": "bacteria"
+    "Définition": "Selon les Centres pour le contrôle et la prévention des maladies des États-Unis, les bactéries sont des germes. Elles vivent dans l'environnement et partout à l'intérieur et à l'extérieur de notre corps. La plupart des bactéries sont inoffensives et même utiles pour l'humain, mais certaines peuvent provoquer des infections, comme l'angine streptococcique. Ces organismes microscopiques sont constitués d'une seule cellule et peuvent survivre dans de nombreux types d'environnements différents, et pas seulement dans les êtres vivants. Les antibiotiques peuvent être utilisés pour traiter les infections bactériennes. \n",
+    "Status": "Published",
+    "Questions utilisant ce mot": [
+      "recXOlSZvyEECnqkk"
+    ],
+    "English term": [
+      "recAFuzwLppTBDIPe"
+    ],
+    "English Definition": [
+      "According to the U.S. Centers for Disease Control, bacteria are germs. They live in the environment and all over the inside and outside of our bodies. Most bacteria are harmless and even helpful to people, but some can cause infections, like strep throat. These microscopic organisms are made up of one single cell, and can survive in many different types of environments, not just living things. Antibiotic medications can be used to kill bacteria."
+    ]
   },
   {
+    "id": "recGkbysvb9KPYi3m",
     "Terme": "infection secondaire",
-    "Définition": "Une infection secondaire est une infection qui se produit pendant ou après le traitement d'une première infection. Les infections secondaires peuvent survenir chez les personnes dont l'immunité est affaiblie par une première infection ou par un traitement médicamenteux.\n",
-    "English term": "secondary infection"
+    "Définition": "Une infection secondaire est une infection qui se produit pendant ou après le traitement d'une première infection. Les infections secondaires peuvent survenir chez les personnes dont l'immunité est affaiblie par une première infection ou par un traitement médicamenteux.\n\n",
+    "Status": "Published",
+    "Questions utilisant ce mot": [
+      "recXOlSZvyEECnqkk"
+    ],
+    "English term": [
+      "rechTyFW9yFtRWh8o"
+    ],
+    "English Definition": [
+      "A secondary infection is an infection that takes place either during or following the treatment of an existing infection. Some of the causes of a secondary infection might include changes in the immune system of a person resulting from the first infection, or if the treatment for the first infection led to the secondary infection."
+    ]
   },
   {
+    "id": "recvR7KM6VedZfxmX",
     "Terme": "essais cliniques",
-    "Définition": "Selon les Instituts nationaux de la santé des États-Unis, les essais cliniques sont des études scientifiques effectuées sur des personnes et visant à évaluer une intervention médicale, chirurgicale ou comportementale. Ils constituent le principal moyen pour les chercheurs de découvrir si un nouveau traitement, comme un nouveau médicament, un nouveau régime alimentaire ou un dispositif médical (par exemple, un stimulateur cardiaque) est sûr et efficace chez les humains. Souvent, un essai clinique est utilisé pour savoir si un nouveau traitement est plus efficace et/ou a des effets secondaires moins nocifs que le traitement standard. L’objectif premier d’un essai clinique portant sur un produit de santé est donc d’évaluer ses effets sur la santé des humains, en testant le produit chez un ou des groupe(s) de volontaires sains ou malades.\nD'autres essais cliniques permettent de tester les moyens de détecter une maladie à un stade précoce, parfois avant l'apparition des symptômes. D'autres encore testent les moyens de prévenir un problème de santé. Un essai clinique peut également porter sur les moyens d'améliorer la vie des personnes atteintes d'une maladie mortelle ou d'un problème de santé chronique. Avant que l’agence de réglementation des produits biologiques (Food and Drug Administration-FDA) américaine n'autorise le lancement d'un essai clinique, les scientifiques effectuent des tests de laboratoire et des études sur des animaux afin de tester la sécurité et l'efficacité d'une thérapie potentielle. Si ces études montrent des résultats favorables, la FDA donne son accord pour que l'intervention soit testée sur des humains.\n\n",
-    "English term": "clinical trial"
+    "Définition": "Selon les Instituts nationaux de la santé des États-Unis, les essais cliniques sont des études scientifiques effectuées sur des personnes et visant à évaluer une intervention médicale, chirurgicale ou comportementale. Ils constituent le principal moyen pour les chercheurs de découvrir si un nouveau traitement, comme un nouveau médicament, un nouveau régime alimentaire ou un dispositif médical (par exemple, un stimulateur cardiaque) est sûr et efficace chez les humains. Souvent, un essai clinique est utilisé pour savoir si un nouveau traitement est plus efficace et/ou a des effets secondaires moins nocifs que le traitement standard. L’objectif premier d’un essai clinique portant sur un produit de santé est donc d’évaluer ses effets sur la santé des humains, en testant le produit chez un ou des groupe(s) de volontaires sains ou malades.\nD'autres essais cliniques permettent de tester les moyens de détecter une maladie à un stade précoce, parfois avant l'apparition des symptômes. D'autres encore testent les moyens de prévenir un problème de santé. Un essai clinique peut également porter sur les moyens d'améliorer la vie des personnes atteintes d'une maladie mortelle ou d'un problème de santé chronique. Avant que l’agence de réglementation des produits biologiques (Food and Drug Administration-FDA) américaine n'autorise le lancement d'un essai clinique, les scientifiques effectuent des tests de laboratoire et des études sur des animaux afin de tester la sécurité et l'efficacité d'une thérapie potentielle. Si ces études montrent des résultats favorables, la FDA donne son accord pour que l'intervention soit testée sur des humains.\n\n\n",
+    "Status": "Published",
+    "Questions utilisant ce mot": [
+      "recAj0TYj97UNUWtk"
+    ],
+    "English term": [
+      "recM4p8QOERmuESKr"
+    ],
+    "English Definition": [
+      "According to the U.S. National Institutes of Health, clinical trials are research studies performed in people that are aimed at evaluating a medical, surgical, or behavioral intervention. They are the primary way that researchers find out if a new treatment, like a new drug or diet or medical device (for example, a pacemaker) is safe and effective in people. Often, a clinical trial is used to learn if a new treatment is more effective and/or has less harmful side effects than the standard treatment. Clinical trials require testing the health intervention in groups of volunteers which include, depending on the trials, healthy individuals and/or patients with a known health issue.\nOther clinical trials test ways to find a disease early, sometimes before there are symptoms. Still, others test ways to prevent a health problem. A clinical trial may also look at how to make life better for people living with a life-threatening disease or a chronic health problem. \nBefore the U.S. Food and Drug Administration (FDA) approves a clinical trial to begin, scientists perform laboratory tests and studies in animals to test a potential therapy’s safety and efficacy. If these studies show favorable results, the FDA gives approval for the intervention to be tested in humans."
+    ]
   },
   {
+    "id": "recHFrxN3qEXqWTDa",
     "Terme": "gouttelette",
-    "Définition": " Les gouttelettes provenant des voies respiratoires sont produites quand une personne tousse, éternue ou parle. Ces gouttelettes sont généralement lourdes et parcourent moins de deux mètres avant de tomber sur le sol. Ces gouttelettes contiennent de minuscules parties d'un virus (particules)et peuvent transmettre des infections lorsqu’elles viennent en contact avec les yeux, le nez ou la bouche d’une autre personne. \nCes gouttelettes peuvent aussi propager des maladies entre les personnes lorsqu'une personne touche une surface sur laquelle une gouttelette respiratoire a atterri, puis touche ses yeux, sa bouche, son nez ou une autre partie de son corps. \nContrairement aux agents pathogènes aérosols, les gouttelettes respiratoires sont de plus grande taille, ne se déplacent pas aussi loin et ne restent pas longtemps dans l'air. La plupart des maladies respiratoires sont propagées par les gouttelettes respiratoires. \n",
-    "English term": "respiratory droplets"
+    "Définition": " Les gouttelettes provenant des voies respiratoires sont produites quand une personne tousse, éternue ou parle. Ces gouttelettes sont généralement lourdes et parcourent moins de deux mètres avant de tomber sur le sol. Ces gouttelettes contiennent de minuscules parties d'un virus (particules)et peuvent transmettre des infections lorsqu’elles viennent en contact avec les yeux, le nez ou la bouche d’une autre personne. \nCes gouttelettes peuvent aussi propager des maladies entre les personnes lorsqu'une personne touche une surface sur laquelle une gouttelette respiratoire a atterri, puis touche ses yeux, sa bouche, son nez ou une autre partie de son corps. \nContrairement aux agents pathogènes aérosols, les gouttelettes respiratoires sont de plus grande taille, ne se déplacent pas aussi loin et ne restent pas longtemps dans l'air. La plupart des maladies respiratoires sont propagées par les gouttelettes respiratoires. \n\n",
+    "Status": "Published",
+    "Questions utilisant ce mot": [
+      "recrYDVoINSZiwvJh"
+    ],
+    "English term": [
+      "rec5yviiSvJkufYvu"
+    ],
+    "English Definition": [
+      "Respiratory droplets are small drops of a liquid, usually water, that are produced from humans sneezing, coughing, talking, breathing, singing, yawning, or even just breathing, that fall to the ground and surfaces over several minutes and travel over a short range: up to 2 feet (60 cm). These droplets contain tiny parts of a virus (particles), so they can spread illnesses between people when someone touches a surface that a respiratory droplet has landed on and then touches their eyes, mouth, or nose or other body part. Unlike aerosolized pathogens, respiratory droplets are larger in size at over 5-10μm (hence being referred to also as 'large droplets'), don't travel as far, and don't remain in the air for long periods of time. Most respiratory illnesses are spread by respiratory droplets. \n"
+    ]
   },
   {
+    "id": "recH0gr95OweWQ1ng",
     "Terme": "germes",
-    "Définition": "Selon les Centres pour le contrôle et la prévention des maladies des États-Unis, les germes font partie de la vie quotidienne et se trouvent dans l'air, le sol, l'eau, ainsi qu'à l'extérieur et à l'intérieur de notre corps. Certains germes sont utiles, d'autres sont nuisibles. De nombreux germes vivent à l'extérieur et à l'intérieur de notre corps sans causer de dommages et certains nous aident même à rester en bonne santé. Seule une petite partie des germes est connue pour provoquer des infections. Les germes sont également connus sous le nom d'agents infectieux et désignent un virus, une bactérie ou un autre microbe.",
-    "English term": "germs"
+    "Définition": "Selon les Centres pour le contrôle et la prévention des maladies des États-Unis, les germes font partie de la vie quotidienne et se trouvent dans l'air, le sol, l'eau, ainsi qu'à l'extérieur et à l'intérieur de notre corps. Certains germes sont utiles, d'autres sont nuisibles. De nombreux germes vivent à l'extérieur et à l'intérieur de notre corps sans causer de dommages et certains nous aident même à rester en bonne santé. Seule une petite partie des germes est connue pour provoquer des infections. Les germes sont également connus sous le nom d'agents infectieux et désignent un virus, une bactérie ou un autre microbe.\n",
+    "Status": "Published",
+    "Questions utilisant ce mot": [
+      "recrYDVoINSZiwvJh"
+    ],
+    "English term": [
+      "rec39wm7MuK12bTI3"
+    ],
+    "English Definition": [
+      "According to the U.S. Centers for Disease Control, germs are microorganisms and a part of everyday life. They can be found in our air, soil, water, and in and on our bodies. Some germs are helpful, others are harmful. Many germs live in and on our bodies without causing harm and some even help us to stay healthy. Only a small portion of germs are known to cause infection. Germs are also known as infectious agents and refer to a virus, bacteria, or other microbe."
+    ]
   },
   {
+    "id": "recgshltWbnQ59A6k",
     "Terme": "Transmission aérienne",
-    "Définition": "La transmission aérienne se produit quand des particules infectieuses provenant des voies respiratoires d’une personne qui tousse, éternue ou parle sont transportées par des courants d’air et se déplacent sur de longues distances. Ces particules sont très petites et restent en suspension dans l’air. Elles peuvent être inhalées par une autre personne. Ce mode de transmission est peu fréquent. À titre d’exemple, c’est le mode impliqué dans la transmission de la tuberculose, la rougeole, etc. ",
-    "English term": "aerosol/airborne transmission"
+    "Définition": "La transmission aérienne se produit quand des particules infectieuses provenant des voies respiratoires d’une personne qui tousse, éternue ou parle sont transportées par des courants d’air et se déplacent sur de longues distances. Ces particules sont très petites et restent en suspension dans l’air. Elles peuvent être inhalées par une autre personne. Ce mode de transmission est peu fréquent. À titre d’exemple, c’est le mode impliqué dans la transmission de la tuberculose, la rougeole, etc. \n",
+    "Status": "Published",
+    "English term": [
+      "rech6tPR0hLDA3JH3"
+    ],
+    "English Definition": [
+      "Aerosol transmission or airborne transmission occurs when tiny drops of a germ or infectious agent (droplet nuclei, or evaporated residues from droplets expelled by an infected person) that can cause a disease (pathogen) stay in the air for some time after someone coughs, sneezes, talks, vomits, sings, laughs, or exhales and these drops become a fine mist (aerosolized). These small particles, known as aerosols, can travel sizable distances even though they may not be visible to the human eye. Airborne transmission can also sometimes occur from dust particles carrying the virus.\n\nWhen another person comes into contact with contaminated aerosolized mist, they become exposed to the pathogen hanging in the air as well. Unlike respiratory droplets, aerosolized pathogens are mostly dry, light, very small (under 5μm); these smaller particles can stay suspended in the air for longer and be dispersed farther by air currents, traveling short and long distances as they remain in the air. Some medical and cleaning procedures can also cause aerosol transmission of a pathogen like flushing toilets or putting a tube into a patient's throat to help them breathe."
+    ]
   },
   {
+    "id": "recAvIYWiEsqWpO9E",
     "Terme": "événement indésirable",
-    "Définition": "Un événement indésirable peut être toute manifestation nocive (par exemple un symptôme ou une maladie) survenant chez une personne qui fait partie d'une recherche biomédicale (ex: un essai clinique), que cet événement soit lié ou non à la recherche ou au produit de santé sur lequel porte cette recherche.",
-    "English term": "adverse event"
+    "Définition": "Un événement indésirable peut être toute manifestation nocive (par exemple un symptôme ou une maladie) survenant chez une personne qui fait partie d'une recherche biomédicale (ex: un essai clinique), que cet événement soit lié ou non à la recherche ou au produit de santé sur lequel porte cette recherche.\n",
+    "Status": "Published",
+    "Questions utilisant ce mot": [
+      "recAj0TYj97UNUWtk"
+    ],
+    "English term": [
+      "recAiJYWSxD5F1Lz1"
+    ],
+    "English Definition": [
+      "An adverse event (also referred to as an adverse experience) can be any unfavorable and unintended sign (e.g., an abnormal laboratory finding), symptom, or disease temporarily associated with the use of a medication, without any judgment about causality or relationship to the medication. "
+    ]
   },
   {
+    "id": "recid3z2x1uYoo6xq",
     "Terme": "essai contrôlé randomisé",
-    "Définition": "Un essai contrôlé randomisé (ECR) est considéré comme la façon la plus objective d'évaluer le résultat d'une intervention. Dans le cas le plus simple, une population pertinente est définie, les patients aux prises avec la maladie que le médicament est destiné à traiter, par exemple. La population est répartie selon une méthode impartiale quelconque (idéalement, des numéros aléatoires générés par ordinateur) entre le groupe d'intervention et le groupe témoin. Cette répartition n'est pas connue des patients et, dans le meilleur des cas, des chercheurs et des évaluateurs non plus. Les patients reçoivent le traitement qui leur a été assigné (soit le traitement actif, soit le placébo) pendant une période prédéterminée, et sont suivis pour assurer le respect de la posologie et l'enregistrement de tous les effets indésirables. Des données sur les résultats sont recueillies à des moments préétablis. Au terme de l'essai, toutes les données sont analysées pour déterminer s'il existe une différence entre les groupes. ",
-    "English term": "randomized controlled trials"
+    "Définition": "Un essai contrôlé randomisé (ECR) est considéré comme la façon la plus objective d'évaluer le résultat d'une intervention. Dans le cas le plus simple, une population pertinente est définie, les patients aux prises avec la maladie que le médicament est destiné à traiter, par exemple. La population est répartie selon une méthode impartiale quelconque (idéalement, des numéros aléatoires générés par ordinateur) entre le groupe d'intervention et le groupe témoin. Cette répartition n'est pas connue des patients et, dans le meilleur des cas, des chercheurs et des évaluateurs non plus. Les patients reçoivent le traitement qui leur a été assigné (soit le traitement actif, soit le placébo) pendant une période prédéterminée, et sont suivis pour assurer le respect de la posologie et l'enregistrement de tous les effets indésirables. Des données sur les résultats sont recueillies à des moments préétablis. Au terme de l'essai, toutes les données sont analysées pour déterminer s'il existe une différence entre les groupes. \n",
+    "Status": "Published",
+    "Questions utilisant ce mot": [
+      "recAj0TYj97UNUWtk"
+    ],
+    "English term": [
+      "recjILnexcCRlyBIb"
+    ],
+    "English Definition": [
+      "A randomized controlled trial (RCT) is a type of scientific experiment that aims to reduce certain sources of bias when testing the effectiveness of new treatments. In these studies, people are randomly (by chance alone) assigned to a group to receive an intervention. One group—the experimental group—receives the intervention being assessed, while the other—usually called the control group—has an alternative intervention, such as the standard medical treatment, a placebo (\"sugar pill\") or no intervention at all. The groups are followed under conditions of the trial design and outcomes are compared to see how effective the experimental intervention was in comparison to the control."
+    ]
   }
 ]
