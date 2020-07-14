@@ -71,9 +71,13 @@ Jekyll::Hooks.register :site, :after_init do |site|
 					'id': record['id']
 				}
 
-				# Trim keys
+				# Trim keys and remove internal fields
 				record['fields'].each do |key, value|
-					target[key.strip] = record['fields'].delete(key)
+					if key =~ /\(internal\)/i
+						record['fields'].delete(key)
+					else
+						target[key.strip] = record['fields'].delete(key)
+					end
 				end
 
 				data << target

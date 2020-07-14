@@ -183,7 +183,7 @@
       "Monthly"
     ],
     "English Experts Say": [
-      "COVID-19 was first detected in the city of Wuhan, China in late 2019. The virus has since been partially traced back to a large seafood and animal market in the city of Wuhan, after several people who had been to the market became sick with the illness we now know as COVID-19. Scientists were able to use genetic tests to confirm that the virus was first identified in people and environmental samples in the city of Wuhan. Tests on the genetics of viruses, much like genetics in humans, can reveal a lot about their origins. When these genetic tests were done on the COVID-19 virus' genes, it revealed that the virus originated in an infected animal and mutated when that animal transferred the virus to a human, likely in the city of Wuhan. The details about that event, which is called a zoonotic transfer, are still being investigated.\n"
+      "COVID-19 was first detected in the city of Wuhan, China in late 2019. The virus has since been partially traced back to a large seafood and animal market in the city of Wuhan, after several people who had been to the market became sick with the illness we now know as COVID-19. Scientists were able to use genetic tests to confirm that the virus was first identified in people and environmental samples in the city of Wuhan. Tests on the genetics of viruses, much like genetics in humans, can reveal a lot about their origins. When these genetic tests were done on the COVID-19 virus' genes, it revealed that the virus originated in an infected animal and mutated when that animal transferred the virus to a human, likely in the city of Wuhan. The details about that event, which is called a zoonotic transfer, are still being investigated.\n\n"
     ],
     "English Background & context": [
       "Coronaviruses are a group of viruses that can cause a variety of different illnesses, but primarily upper-respiratory tract illnesses in humans. These illnesses include the common cold, severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS). Some viruses can originate in animals and later infect humans, and this can happen in a number of different ways, including: by eating meat or produce that has been contaminated by the virus, through the air or by touching a surface that was touched by an infected animal, through close contact with an infected animal, or through insect bites. Not all viruses transfer from animals to humans in all of these ways, it depends on the virus. The resources section contains more information about this. \n"
@@ -983,7 +983,6 @@
     "id": "recp8Hn2n3YuBwhjt",
     "सवाल": "कोविड-19 के संभावित उपचार के लिए डेक्सामेथासोन (dexamethosone ) के बारे में क्या जानकारी उपलब्ध है?",
     "विषय की स्थिति": "Published",
-    "NOTES (Internal)": "Newsroom\n",
     "श्रेणी": "Potentially; first approved treatment in UK",
     "उपश्रेणी": "Weekly",
     "यह प्रश्न किस देश से लिया गया था": [
@@ -1077,7 +1076,6 @@
     "id": "recZxe6na5otSxNrc",
     "सवाल": "क्या फ़ेविपिराविर कोविड -19 के इलाज के लिए प्रभावी है?",
     "विषय की स्थिति": "Published",
-    "NOTES (Internal)": "Social Media\n",
     "उपश्रेणी": "Bi-weekly",
     "यह प्रश्न किस देश से लिया गया था": [
       "No"
@@ -1129,7 +1127,6 @@
     "id": "recBSejrBcKWeuOVp",
     "सवाल": "कोविड-19 के अपने प्रभाव को खोने के बारे में हम क्या जानते हैं?",
     "विषय की स्थिति": "Published",
-    "NOTES (Internal)": "Newsroom\n",
     "यह सवाल कहां से आया": [
       "1. We shouldn’t worry when a virus mutates during disease outbreaks (Nature)"
     ],
@@ -1182,7 +1179,6 @@
     "id": "recXOk6xPo9jDGiho",
     "सवाल": "कोविड-19 का खून और रक्त-संचार पर क्या प्रभाव पड़ सकता है?",
     "विषय की स्थिति": "Published",
-    "NOTES (Internal)": "Newsroom\n",
     "यह सवाल कहां से आया": [
       "1. Coronavirus blood-clot mystery intensifies (Nature)"
     ],
