@@ -50,7 +50,7 @@
 .entry .section-title,
 .entry .context,
 .entry .answer,
-.data,
+.entry .data,
 .entry .media,
 .entry .help {
     @include responsive('min-width: #{$width-tablet}') {
@@ -111,7 +111,7 @@
     position: relative;
 }
 
-.data {
+.entry .data {
     font-size: 0.833rem;
     line-height: 1.4rem;
     h3 {
@@ -133,7 +133,6 @@
             border-bottom: 1px solid var(--lightGray);
         }
     }
-
 }
 
 .entry .media {

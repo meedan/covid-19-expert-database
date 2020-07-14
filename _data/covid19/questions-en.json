@@ -1,12 +1,62 @@
 [
   {
+    "id": "recq1zzyVh3GSLrhz",
+    "Question": "What short- and long-term effects does COVID-19 have on other body parts, including lungs, brain and kidney?",
+    "Item status": "Published",
+    "Category": "Symptoms",
+    "Subcategory": "On: COVID-19 & short- and long-term effects",
+    "Source of the question": [
+      "Partner Organization"
+    ],
+    "Background & context": "Health practitioners, scientists, and journalists have reported major differences in COVID-19 symptoms from patient to patient. This includes differences in the severity of symptoms, in the duration of symptoms, and in the organs affected. For example, some patients have reported lingering impacts of COVID-19 that lasted months, and the long-term effects of the disease are not fully known yet. Recently, more news has been circulating about COVID-19 and its impact on the brain following the publication of a study on British patients who experienced symptoms ranging from brain inflammation and delirium to nerve damage and stroke.\n",
+    "What our experts say": "As COVID-19 is a new illness, we don't know all of its short- and long-term impacts yet. Most people (80%) infected with COVID-19 have mild or no symptoms. Some of the short-term impacts for people with mild symptoms include shortness of breath in the lungs and airways, fever, cough, and body aches. For more severe cases, the short-term impacts can be varied and affect several organs. These include pulmonary embolisms (lungs), strokes (brain), and kidney damage due to a lack of oxygen or blood clots. The more severe the case and symptoms of COVID-19 in a person, the more likely major organs are negatively impacted by it.\n\nThe long-term effects of COVID-19 are being studied now. However, exhaustion, anxiety, headaches, and muscle aches have been reported most often in patients reporting symptoms many weeks after the beginning of their infection with COVID-19. As it has only been six months since the discovery of the virus, the real long-term impacts remain unknown. For some people infected with the virus, their symptoms have lasted longer than 100 days. Recent studies that have documented long term symptoms include lung scarring; heart damage; neurocognitive impacts like dizziness, loss of taste and smell, and headaches; renal failure; limited lung capacity and difficulty breathing among many others. One notable aspect of the long-term impacts is that they also effect people who had mild cases, not just those who were hospitalized or had severe symptoms for weeks. Though most people recover from the virus within a few weeks, the long-term effects of the virus could impact many organs in different ways.\n\n\n",
+    "Glossary Terms": [
+      "reccJtjL0z55J1CPG",
+      "reciKuzcOIBjSFsU4"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "stroke",
+      "brain",
+      "lungs",
+      "kidney",
+      "renal failure",
+      "impact",
+      "short-term",
+      "long-term",
+      "blood clot",
+      "headache",
+      "dizziness ",
+      "neurocognitive"
+    ],
+    "Other resources": "1. Coronavirus ([WHO][1]) \n2. What Long-Term Effects Could COVID-19 Have on Your Lungs? ([Banner Health][2]) \n3. Association of Cardiac Injury With Mortality in Hospitalized Patients With COVID-19 in Wuhan, China ([JAMA][3]) \n4. Neurologic Manifestations of Hospitalized Patients With Coronavirus Disease 2019 in Wuhan, China ([JAMA][4]) \n5. Acute Pulmonary Embolism in COVID-19 Patients on CT Angiography and Relationship to D-Dimer Levels ([Radiology][5]) \n6. COVID-19 and Kidney Failure in the Acute Care Setting: Our Experience From Seattle ([AJKD][6]) \n7. The Long-Temr Health Effects of COVID-19 ([GAVI][7]) \n8. How Covid-19 can damage the brain ([BBC][8]) \n9. Neurologic Features in Severe SARS-CoV-2 Infection ([NEJM][9]) \n10. Coronavirus: Kidney Damage Caused by COVID-19 ([Hopkins Medicine][10])\n11. The emerging spectrum of COVID-19 neurology: clinical, radiological and laboratory findings ([Brain][11])\n12. What are the potential long-term effects of having COVID-19? ([AP][12]) \n13. Extrapulmonary manifestations of COVID-19, see [Figure 2][13] ([Nature][14])\n\n  [1]: https://www.who.int/health-topics/coronavirus#tab=tab_1\n  [2]: https://www.bannerhealth.com/healthcareblog/teach-me/what-long-term-effects-could-covid19-have-on-your-lungs\n  [3]: https://jamanetwork.com/journals/jamacardiology/fullarticle/2763524?resultClick=1\n  [4]: https://jamanetwork.com/journals/jamaneurology/fullarticle/2764549\n  [5]: https://pubs.rsna.org/doi/10.1148/radiol.2020201561\n  [6]: https://www.ajkd.org/article/S0272-6386(20)30618-1/fulltext\n  [7]: https://www.gavi.org/vaccineswork/long-term-health-effects-covid-19\n  [8]: https://www.bbc.com/future/article/20200622-the-long-term-effects-of-covid-19-infection\n  [9]: https://www.nejm.org/doi/full/10.1056/NEJMc2008597\n  [10]: https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/coronavirus-kidney-damage-caused-by-covid19\n  [11]: https://academic.oup.com/brain/article/doi/10.1093/brain/awaa240/5868408\n  [12]: https://apnews.com/113bef255eb0c33570f77e33515a6ca6\n  [13]: https://pbs.twimg.com/media/Ec6A_F3UwAAf76_.png\n  [14]: https://www.nature.com/articles/s41591-020-0968-3.pdf\n",
+    "Answer Assigned": [
+      {
+        "id": "usrDTYZtkXBziEsWP",
+        "email": "christin@mail.harvard.edu",
+        "name": "Christin Gilmer"
+      }
+    ],
+    "Context Assigned": [
+      {
+        "id": "usr7F6wgKz1f26438",
+        "email": "jahuang@mail.harvard.edu",
+        "name": "Jessica Huang"
+      }
+    ],
+    "Last edited (simplified)": "2020-07-14T00:53:17.000Z",
+    "Last edited (experts say)": "2020-07-14T01:02:44.000Z",
+    "Last modified": "2020-07-14"
+  },
+  {
     "id": "recXUQjiQ2yaPXyxo",
     "Question": "What do we know so far about airborne transmission and how does it differ from respiratory droplet transmission? ",
     "Item status": "Published",
     "Category": "Transmission",
     "Subcategory": "Differences between airborne transmission and respiratory droplets",
     "Background & context": "Respiratory droplet transmission happens when disease spreads through droplets expelled by an infected person, through coughing, sneezing, talking, or even just breathing; these droplets are larger than 5-10 micrometers. One micrometer is one millionth of a meter. Respiratory droplets are _relatively_ heavy, and fall to the ground quickly. In contrast, airborne transmission is when residue from droplets smaller than 5 micrometers, or dust particles carrying the virus, stay suspended in the air for longer and disperse farther by air currents. Scientists and the World Health Organization (WHO) have recognized that evidence is emerging on the possibility of airborne transmission, particularly in \"crowded, closed, poorly ventilated settings.\" If airborne transmission of COVID-19 is significant, this has major implications for containment efforts (ex. masks may be needed indoors and in socially-distant settings, ventilation systems may need to minimize recirculating air and find ways to filter or disinfect contaminated air, etc.). \n",
-    "What our experts say": "There is mounting evidence that COVID-19 can spread through airborne transmission, which is when a person infected with COVID-19 releases tiny droplets of fluid into the air called 'droplet nuclei' by coughing, sneezing, talking, or during medical procedures involving the release of these types of fluids. Droplet nuclei are very light, relatively dry, and microscopic in size so they can remain suspended in the air like a mist, which is why airborne transmission is also called 'aerosol transmission, and pose a risk of exposure to people in close proximity. This is different from the prevailing theory that the virus spreads through bigger respiratory droplets that are heavier, fall to the ground relatively quickly, and do not remain suspended in the air or spread through the air. \n\nThe risk of airborne transmission remains under research**, **but it is potentially thought to be higher risk in enclosed spaces with poor ventilation. Retrospective analyses of \"super-spreader\" events, where a significant number of people have been infected at a single event, demonstrate that airborne transmission was likely responsible for infecting multiple people in the absence of direct, physical contact. One study analyzed an outbreak involving three separate families in a restaurant in Guangzhou, China and found that the spread pattern pointed to aerosol transmission due to poor ventilation in the restaurant. \n\nUntil July 7, 2020, the World Health Organization (WHO) continued to claim that evidence pointed to respiratory droplet transmission as the most plausible route of transmission for the virus, but 239 experts and public health professionals have cautioned against ruling out the possibility of airborne transmission and the WHO acknowledged emerging evidence regarding airborne transmission in poorly ventilated spaces on July 8, 2020. Public health experts have repeatedly warned that airborne transmission is most likely contributing to transmission, especially in indoor spaces, and recommendations should incorporate the need for sufficient ventilation, high efficiency filtration, and limiting crowded spaces, in addition to universal adoption of masks, social distancing, and frequent hand washing with soap and water.\n\nUPDATED: July 11, 2020: On July 9, 2020, the WHO has acknowledged that certain medical procedures can cause COVID-19 to be spread through airborne transmission. The group also noted that the potential for COVID-19 to spread through the air in crowded, indoor spaces that are inadequately ventilated \"cannot be ruled out.\" The WHO stated that more studies are urgently needed on this topic and reiterated their stance that the virus is primarily spread through contact and respiratory droplets.\n\n",
+    "What our experts say": "There is mounting evidence that COVID-19 can spread through airborne transmission, which is when a person infected with COVID-19 releases tiny droplets of fluid into the air called 'droplet nuclei' by coughing, sneezing, talking, or during medical procedures involving the release of these types of fluids. Droplet nuclei are very light, relatively dry, and microscopic in size so they can remain suspended in the air like a mist, which is why airborne transmission is also called 'aerosol transmission, and pose a risk of infection to people in close proximity. This is different from the prevailing theory that the virus spreads through bigger respiratory droplets that are heavier, fall to the ground relatively quickly, and do not remain suspended in the air or spread through the air. \n\nThe risk of airborne transmission remains under research**, **but it is potentially thought to be higher risk in enclosed spaces with poor ventilation. Retrospective analyses of \"super-spreader\" events, where a significant number of people have been infected at a single event, demonstrate that airborne transmission was likely responsible for infecting multiple people in the absence of direct, physical contact. One study analyzed an outbreak involving three separate families in a restaurant in Guangzhou, China and found that the spread pattern pointed to aerosol transmission due to poor ventilation in the restaurant. \n\nUntil July 7, 2020, the World Health Organization (WHO) continued to claim that evidence pointed to respiratory droplet transmission as the most plausible route of transmission for the virus, but 239 experts and public health professionals have cautioned against ruling out the possibility of airborne transmission and the WHO acknowledged emerging evidence regarding airborne transmission in poorly ventilated spaces on July 8, 2020. Public health experts have repeatedly warned that airborne transmission is most likely contributing to transmission, especially in indoor spaces, and recommendations should incorporate the need for sufficient ventilation, high efficiency filtration, and limiting crowded spaces, in addition to universal adoption of masks, social distancing, and frequent hand washing with soap and water.\n\nUPDATED: July 11, 2020: On July 9, 2020, the WHO has acknowledged that certain medical procedures can cause COVID-19 to be spread through airborne transmission. The group also noted that the potential for COVID-19 to spread through the air in crowded, indoor spaces that are inadequately ventilated \"cannot be ruled out.\" The WHO stated that more studies are urgently needed on this topic and reiterated their stance that the virus is primarily spread through contact and respiratory droplets.\n\n",
     "Glossary Terms": [
       "recy3qWpegJbN2rbV",
       "recTotk6ZnYu3ib8P",
@@ -40,7 +90,84 @@
     ],
     "Questions answered by entry": "What do we know so far about airborne transmission? How does it differ from respiratory droplet transmission?\n",
     "Last edited (simplified)": "2020-07-13T22:07:16.000Z",
-    "Last edited (experts say)": "2020-07-13T22:07:16.000Z",
+    "Last edited (experts say)": "2020-07-14T21:01:58.000Z",
+    "Last modified": "2020-07-14"
+  },
+  {
+    "id": "recgfRiqVgG4lMH4w",
+    "Question": "What do we know so far about the ability for asymptomatic people to transmit the virus?",
+    "Item status": "Published",
+    "Category": "On: COVID-19 & asymptomatic carriers",
+    "Source of the question": [
+      "Newsroom"
+    ],
+    "Background & context": "There is concern about transmission by people without symptoms because this makes disease prevention more challenging. For example, while it is a helpful public health measure to recommend that people self-isolate when ill, it is insufficient to stop the spread of the novel coronavirus when someone who never develops symptoms or who has not yet developed symptoms can still infect others.\n",
+    "What our experts say": "Asymptomatic people, which are defined as people who do not have symptoms but have been infected with COVID-19, have significant potential to spread the virus to hundreds people. We don't know exactly how many people are asymptomatic, but estimates range from a small percentage (4%) up to as many as 81% of cases in some settings. However, the U.S. Centers for Disease Control's (U.S. CDC) director estimated that roughly 35% of people infected with COVID-19 may never have symptoms. Meanwhile, Dr. Anthony Fauci, a member of the White House coronavirus task force and U.S. Director of the National Institute of Allergy and Infectious Diseases, estimated that 25% - 50% of cases were asymptomatic. Some studies have noted that asymptomatic carriers might be the biggest spreaders of COVID-19 in certain populations. There is also evidence to suggest that pre-symptomatic people infected with COVID-19  - people who eventually develop symptoms but haven't had any yet - spread the most amount of virus in the time before they have symptoms.\n\nIt is important to note that people without any symptoms are capable of transmitting the virus to others, and may be spreading it without ever knowing they are infected. This is why it is so important that everyone wear masks, wash their hands vigorously for 20 seconds, and maintain a distance of six feet between themselves and others. \n\nUPDATED July 11, 2020: The U.S. CDC has revised its \"current best estimate\" and now advises that it estimates 40% of people infected with COVID-19 are asymptomatic. The World Health Organization has yet to provide an official estimate and noted that it will vary across populations.\n",
+    "Glossary Terms": [
+      "recx2PeCcs1Awb9rG",
+      "recbZcFUtsYMA9Vsh",
+      "reclKahoPRbBLqUKg"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "asymptomatic",
+      "pre-symptomatic",
+      "transmission"
+    ],
+    "Other resources": "1. Follow-up of asymptomatic patients with SARS-CoV-2 infection ([Clinical Microbiology and Infection][1]) \n2. Estimating the asymptomatic proportion of coronavirus disease 2019 (COVID-19) cases on board the Diamond Princess cruise ship, Yokohama, Japan, 2020. ([Eurosurveillance][2])\n3. COVID-19: in the footsteps of Ernest Shackleton ([BMJ][3]) \n4. SARS-CoV-2 Community Transmission During Shelter-in-Place in San Francisco ([medRxiv][4]) \n5. Estimating the extent of asymptomatic COVID-19 and its potential for community transmission: systematic review and meta-analysis ([medRxiv][5]) \n6. Prevalence of Asymptomatic SARS-CoV-2 Infection ([Annals of Internal Medicine][6]) \n7. In the W.H.O.’s Coronavirus Stumbles, Some Scientists See a Pattern ([New York Times][7]) \n8. White House Adviser Warned of Risks of Pandemic; Trump Misleads on Testing ([New York Times][8]) \n9. COVID-19 Pandemic Planning Scenarios ([U.S. CDC][9]) \n\n  [1]: https://www.clinicalmicrobiologyandinfection.com/article/S1198-743X(20)30169-5/fulltext\n  [2]: https://www.ncbi.nlm.nih.gov/research/coronavirus/publication/32183930\n  [3]: https://thorax.bmj.com/content/early/2020/06/09/thoraxjnl-2020-215091\n  [4]: https://www.medrxiv.org/content/10.1101/2020.06.15.20132233v1\n  [5]: https://www.medrxiv.org/content/10.1101/2020.05.10.20097543v2\n  [6]: https://www.acpjournals.org/doi/10.7326/M20-3012\n  [7]: https://www.nytimes.com/2020/06/09/health/coronavirus-asymptomatic-world-health-organization.html\n  [8]: https://www.nytimes.com/2020/04/06/world/coronavirus-live-news-updates.html\n  [9]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/planning-scenarios.html\n",
+    "Answer Assigned": [
+      {
+        "id": "usrDTYZtkXBziEsWP",
+        "email": "christin@mail.harvard.edu",
+        "name": "Christin Gilmer"
+      }
+    ],
+    "Context Assigned": [
+      {
+        "id": "usrDTYZtkXBziEsWP",
+        "email": "christin@mail.harvard.edu",
+        "name": "Christin Gilmer"
+      }
+    ],
+    "Last edited (simplified)": "2020-07-09T15:59:05.000Z",
+    "Last edited (experts say)": "2020-07-14T20:50:07.000Z",
+    "Last modified": "2020-07-14"
+  },
+  {
+    "id": "recCC7GhsX2CKZJbs",
+    "Question": "Is being vaccinated with BCG protective for COVID-19?",
+    "Item status": "Published",
+    "Category": "Treatment",
+    "Subcategory": "On: COVID-19 & vaccines",
+    "Source of the question": [
+      "Social Media"
+    ],
+    "Country question was sourced from": [
+      "Senegal"
+    ],
+    "Background & context": "The BGC vaccine, or the bacille Calmette-Guerin vaccine, is a vaccine for tuberculosis (TB) disease. This vaccine is used in many countries that have high rates of tuberculosis in order to prevent the disease from spreading. As public health researchers try and understand the low case numbers and death count in sub-Saharan Africa and parts of South-East Asia from COVID-19, hypotheses have emerged about the protective power of the BCG vaccine against the coronavirus because of a correlation between countries where the BCG vaccine is widely used and the low number of COVID-19 cases reported in those countries. Recent studies published on this topic do not support the idea that BCG vaccination in childhood has a protective effect against COVID-19 in adulthood. More studies are underway as it's still not clear yet how the BCG vaccine interacts with the virus that causes COVID-19.\n\n",
+    "What our experts say": "Multiple studies are exploring the link between BCG vaccination policies in various countries, and the relatively lower number of COVID-19 cases and deaths in those countries. Recent studies published do not support the idea that BCG vaccination in childhood is a cause of protection against COVID-19 in adulthood. The World Health Organization (WHO) has published a note on this topic that stated that in the absence of evidence, WHO does not recommend BCG vaccination for the prevention of COVID-19. More studies are underway. \n\nUPDATED: July 11, 2020: A recent study published in the Proceedings of the National Academy of Sciences (U.S.) noted that after they accounted for differences in variables like income, age distribution, and access to health services, countries with higher BCG vaccination rates had lower peak mortality rates from COVID-19. However, though there is an association between BCG vaccination and reduced severity of COVID-19 observed in this epidemiological study, it does not mean that there is sufficient enough evidence to consider BCG vaccination a cause of protection from severe COVID-19. There is not enough evidence to support whether or not BCG vaccines can offer protection against severe COVID-19 symptoms and death, and we will continue to update this answer as study results targeting the vaccine  are published.\n",
+    "Glossary Terms": [
+      "rec9SYUCp1ULDd0UL",
+      "recUx8LCQGkRdxG3B"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "prevention",
+      "vaccine",
+      "BCG"
+    ],
+    "Other resources": "1. SARS-CoV-2 Rates in BCG-Vaccinated and Unvaccinated Young Adults ([JAMA][1]) \n2. Bacille Calmette-Guérin (BCG) vaccination and COVID-19 ([WHO][2]) \n3. BCG vaccine protection from severe coronavirus disease 2019 (COVID-19) ([PNAS][3]) \n\n  [1]: https://jamanetwork.com/journals/jama/fullarticle/2766182\n  [2]: https://www.who.int/news-room/commentaries/detail/bacille-calmette-guérin-(bcg)-vaccination-and-covid-19\n  [3]: https://www.pnas.org/content/early/2020/07/07/2008410117\n",
+    "Expert Database (French)": [
+      "rec7DbR8cpUtj6laV"
+    ],
+    "Expert Database (Hindi)": [
+      "recghRwerGPpEzj4B"
+    ],
+    "Last edited (simplified)": "2020-05-28T19:09:48.000Z",
+    "Last edited (experts say)": "2020-07-14T20:47:03.000Z",
     "Last modified": "2020-07-14"
   },
   {
@@ -288,56 +415,6 @@
     "Last modified": "2020-07-14"
   },
   {
-    "id": "recq1zzyVh3GSLrhz",
-    "Question": "What short- and long-term effects does COVID-19 have on other body parts, including lungs, brain and kidney?",
-    "Item status": "Published",
-    "Category": "Symptoms",
-    "Subcategory": "On: COVID-19 & short- and long-term effects",
-    "Source of the question": [
-      "Partner Organization"
-    ],
-    "Background & context": "Health practitioners, scientists, and journalists have reported major differences in COVID-19 symptoms from patient to patient. This includes differences in the severity of symptoms, in the duration of symptoms, and in the organs affected. For example, some patients have reported lingering impacts of COVID-19 that lasted months, and the long-term effects of the disease are not fully known yet. Recently, more news has been circulating about COVID-19 and its impact on the brain following the publication of a study on British patients who experienced symptoms ranging from brain inflammation and delirium to nerve damage and stroke.\n",
-    "What our experts say": "As COVID-19 is a new illness, we don't know all of its short- and long-term impacts yet. Most people (80%) infected with COVID-19 have mild or no symptoms. Some of the short-term impacts for people with mild symptoms include shortness of breath in the lungs and airways, fever, cough, and body aches. For more severe cases, the short-term impacts can be varied and affect several organs. These include pulmonary embolisms (lungs), strokes (brain), and kidney damage due to a lack of oxygen or blood clots. The more severe the case and symptoms of COVID-19 in a person, the more likely major organs are negatively impacted by it.\n\nThe long-term effects of COVID-19 are being studied now. However, exhaustion, anxiety, headaches, and muscle aches have been reported most often in patients reporting symptoms many weeks after the beginning of their infection with COVID-19. As it has only been six months since the discovery of the virus, the real long-term impacts remain unknown. For some people infected with the virus, their symptoms have lasted longer than 100 days. Recent studies that have documented long term symptoms include lung scarring; heart damage; neurocognitive impacts like dizziness, loss of taste and smell, and headaches; renal failure; limited lung capacity and difficulty breathing among many others. One notable aspect of the long-term impacts is that they also effect people who had mild cases, not just those who were hospitalized or had severe symptoms for weeks. Though most people recover from the virus within a few weeks, the long-term effects of the virus could impact many organs in different ways.\n\n\n",
-    "Glossary Terms": [
-      "reccJtjL0z55J1CPG",
-      "reciKuzcOIBjSFsU4"
-    ],
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "stroke",
-      "brain",
-      "lungs",
-      "kidney",
-      "renal failure",
-      "impact",
-      "short-term",
-      "long-term",
-      "blood clot",
-      "headache",
-      "dizziness ",
-      "neurocognitive"
-    ],
-    "Other resources": "1. Coronavirus ([WHO][1]) \n2. What Long-Term Effects Could COVID-19 Have on Your Lungs? ([Banner Health][2]) \n3. Association of Cardiac Injury With Mortality in Hospitalized Patients With COVID-19 in Wuhan, China ([JAMA][3]) \n4. Neurologic Manifestations of Hospitalized Patients With Coronavirus Disease 2019 in Wuhan, China ([JAMA][4]) \n5. Acute Pulmonary Embolism in COVID-19 Patients on CT Angiography and Relationship to D-Dimer Levels ([Radiology][5]) \n6. COVID-19 and Kidney Failure in the Acute Care Setting: Our Experience From Seattle ([AJKD][6]) \n7. The Long-Temr Health Effects of COVID-19 ([GAVI][7]) \n8. How Covid-19 can damage the brain ([BBC][8]) \n9. Neurologic Features in Severe SARS-CoV-2 Infection ([NEJM][9]) \n10. Coronavirus: Kidney Damage Caused by COVID-19 ([Hopkins Medicine][10])\n11. The emerging spectrum of COVID-19 neurology: clinical, radiological and laboratory findings ([Brain][11])\n12. What are the potential long-term effects of having COVID-19? ([AP][12]) \n\n  [1]: https://www.who.int/health-topics/coronavirus#tab=tab_1\n  [2]: https://www.bannerhealth.com/healthcareblog/teach-me/what-long-term-effects-could-covid19-have-on-your-lungs\n  [3]: https://jamanetwork.com/journals/jamacardiology/fullarticle/2763524?resultClick=1\n  [4]: https://jamanetwork.com/journals/jamaneurology/fullarticle/2764549\n  [5]: https://pubs.rsna.org/doi/10.1148/radiol.2020201561\n  [6]: https://www.ajkd.org/article/S0272-6386(20)30618-1/fulltext\n  [7]: https://www.gavi.org/vaccineswork/long-term-health-effects-covid-19\n  [8]: https://www.bbc.com/future/article/20200622-the-long-term-effects-of-covid-19-infection\n  [9]: https://www.nejm.org/doi/full/10.1056/NEJMc2008597\n  [10]: https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/coronavirus-kidney-damage-caused-by-covid19\n  [11]: https://academic.oup.com/brain/article/doi/10.1093/brain/awaa240/5868408\n  [12]: https://apnews.com/113bef255eb0c33570f77e33515a6ca6\n",
-    "Answer Assigned": [
-      {
-        "id": "usrDTYZtkXBziEsWP",
-        "email": "christin@mail.harvard.edu",
-        "name": "Christin Gilmer"
-      }
-    ],
-    "Context Assigned": [
-      {
-        "id": "usr7F6wgKz1f26438",
-        "email": "jahuang@mail.harvard.edu",
-        "name": "Jessica Huang"
-      }
-    ],
-    "Last edited (simplified)": "2020-07-14T00:53:17.000Z",
-    "Last edited (experts say)": "2020-07-14T01:02:44.000Z",
-    "Last modified": "2020-07-14"
-  },
-  {
     "id": "rectAcElYXyyJvFjs",
     "Question": "What does it mean if the virus is reactivated?",
     "Item status": "Published",
@@ -533,42 +610,6 @@
     ],
     "Last edited (simplified)": "2020-07-09T16:38:44.000Z",
     "Last edited (experts say)": "2020-07-13T16:05:36.000Z",
-    "Last modified": "2020-07-13"
-  },
-  {
-    "id": "recCC7GhsX2CKZJbs",
-    "Question": "Is being vaccinated with BCG protective for COVID-19?",
-    "Item status": "Published",
-    "Category": "Treatment",
-    "Subcategory": "On: COVID-19 & vaccines",
-    "Source of the question": [
-      "Social Media"
-    ],
-    "Country question was sourced from": [
-      "Senegal"
-    ],
-    "Background & context": "The BGC vaccine, or the bacille Calmette-Guerin vaccine, is a vaccine for tuberculosis (TB) disease. This vaccine is used in many countries that have high rates of tuberculosis in order to prevent the disease from spreading. As public health researchers try and understand the low case numbers and death count in sub-Saharan Africa and parts of South-East Asia from COVID-19, hypotheses have emerged about the protective power of the BCG vaccine against the coronavirus because of a correlation between countries where the BCG vaccine is widely used and the low number of COVID-19 cases reported in those countries. Recent studies published on this topic do not support the idea that BCG vaccination in childhood has a protective effect against COVID-19 in adulthood. More studies are underway as it's still not clear yet how the BCG vaccine interacts with the virus that causes COVID-19.\n\n",
-    "What our experts say": "Multiple studies are exploring the link between BCG vaccination policies in various countries, and the relatively lower number of COVID-19 cases and deaths in those countries. Recent studies published do not support the idea that BCG vaccination in childhood has a protective effect against COVID-19 in adulthood. The World Health Organization (WHO) has published a note on this topic that stated that in the absence of evidence, WHO does not recommend BCG vaccination for the prevention of COVID-19. More studies are underway.\n\nUPDATED: July 11, 2020: A recent study published in the Proceedings of the National Academy of Sciences (U.S.) noted that after they accounted for differences in variables like income, age distribution, and access to health services, countries with higher BCG vaccination rates had lower peak mortality rates from COVID-19. However, though there is an association between BCG vaccination and reduced severity of COVID-19 observed in this epidemiological study, it does not mean that there is sufficient enough evidence to consider BCG vaccination a cause of protection from severe COVID-19. There is not enough evidence to support whether or not BCG vaccines can offer protection against severe COVID-19 symptoms and death, and we will continue to update this answer as study results targeting the vaccine  are published.\n",
-    "Glossary Terms": [
-      "rec9SYUCp1ULDd0UL",
-      "recUx8LCQGkRdxG3B"
-    ],
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "prevention",
-      "vaccine",
-      "BCG"
-    ],
-    "Other resources": "1. SARS-CoV-2 Rates in BCG-Vaccinated and Unvaccinated Young Adults ([JAMA][1]) \n2. Bacille Calmette-Guérin (BCG) vaccination and COVID-19 ([WHO][2]) \n3. BCG vaccine protection from severe coronavirus disease 2019 (COVID-19) ([PNAS][3]) \n\n  [1]: https://jamanetwork.com/journals/jama/fullarticle/2766182\n  [2]: https://www.who.int/news-room/commentaries/detail/bacille-calmette-guérin-(bcg)-vaccination-and-covid-19\n  [3]: https://www.pnas.org/content/early/2020/07/07/2008410117\n",
-    "Expert Database (French)": [
-      "rec7DbR8cpUtj6laV"
-    ],
-    "Expert Database (Hindi)": [
-      "recghRwerGPpEzj4B"
-    ],
-    "Last edited (simplified)": "2020-05-28T19:09:48.000Z",
-    "Last edited (experts say)": "2020-07-13T15:36:46.000Z",
     "Last modified": "2020-07-13"
   },
   {
@@ -794,47 +835,6 @@
     ],
     "Last edited (simplified)": "2020-07-12T03:54:25.000Z",
     "Last edited (experts say)": "2020-07-12T03:54:11.000Z",
-    "Last modified": "2020-07-12"
-  },
-  {
-    "id": "recgfRiqVgG4lMH4w",
-    "Question": "What do we know so far about the ability for asymptomatic people to transmit the virus?",
-    "Item status": "Published",
-    "Category": "On: COVID-19 & asymptomatic carriers",
-    "Source of the question": [
-      "Newsroom"
-    ],
-    "Background & context": "There is concern about transmission by people without symptoms because this makes disease prevention more challenging. For example, while it is a helpful public health measure to recommend that people self-isolate when ill, it is insufficient to stop the spread of the novel coronavirus when someone who never develops symptoms or who has not yet developed symptoms can still infect others.\n",
-    "What our experts say": "Asymptomatic people, which are defined as people who do not have symptoms but have been infected with COVID-19, have significant potential to spread the virus to hundreds people. We don't know exactly how many people are asymptomatic, but estimates range from a small percentage (4%) up to as many as 81% of cases in some settings. However, the U.S. Centers for Disease Control's (U.S. CDC) director estimated that roughly 35% of people infected with COVID-19 may never have symptoms. Meanwhile, Dr. Anthony Fauci, a member of the White House coronavirus task force and Director of the National Institute of Allergy and Infectious Diseases, estimated that 25% - 50% of cases were asymptomatic. Some studies have noted that asymptomatic carriers might be the biggest spreaders of COVID-19 in certain populations. There is also evidence to suggest that pre-symptomatic people infected with COVID-19  - people who eventually develop symptoms but haven't had any yet - spread the most amount of virus in the time before they have symptoms.\n\nIt is important to note that people without any symptoms are capable of transmitting the virus to others, and may be spreading it without ever knowing they are infected. This is why it is so important that everyone wear masks, wash their hands vigorously for 20 seconds, and maintain a distance of six feet between themselves and others. \n\nUPDATED July 11, 2020: The U.S. CDC has revised its \"current best estimate\" and now advises that it estimates 40% of people infected with COVID-19 are asymptomatic. The World Health Organization has yet to provide an official estimate and noted that it will vary across populations.\n",
-    "Glossary Terms": [
-      "recx2PeCcs1Awb9rG",
-      "recbZcFUtsYMA9Vsh",
-      "reclKahoPRbBLqUKg"
-    ],
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "asymptomatic",
-      "pre-symptomatic",
-      "transmission"
-    ],
-    "Other resources": "1. Follow-up of asymptomatic patients with SARS-CoV-2 infection ([Clinical Microbiology and Infection][1]) \n2. Estimating the asymptomatic proportion of coronavirus disease 2019 (COVID-19) cases on board the Diamond Princess cruise ship, Yokohama, Japan, 2020. ([Eurosurveillance][2])\n3. COVID-19: in the footsteps of Ernest Shackleton ([BMJ][3]) \n4. SARS-CoV-2 Community Transmission During Shelter-in-Place in San Francisco ([medRxiv][4]) \n5. Estimating the extent of asymptomatic COVID-19 and its potential for community transmission: systematic review and meta-analysis ([medRxiv][5]) \n6. Prevalence of Asymptomatic SARS-CoV-2 Infection ([Annals of Internal Medicine][6]) \n7. In the W.H.O.’s Coronavirus Stumbles, Some Scientists See a Pattern ([New York Times][7]) \n8. White House Adviser Warned of Risks of Pandemic; Trump Misleads on Testing ([New York Times][8]) \n9. COVID-19 Pandemic Planning Scenarios ([U.S. CDC][9]) \n\n  [1]: https://www.clinicalmicrobiologyandinfection.com/article/S1198-743X(20)30169-5/fulltext\n  [2]: https://www.ncbi.nlm.nih.gov/research/coronavirus/publication/32183930\n  [3]: https://thorax.bmj.com/content/early/2020/06/09/thoraxjnl-2020-215091\n  [4]: https://www.medrxiv.org/content/10.1101/2020.06.15.20132233v1\n  [5]: https://www.medrxiv.org/content/10.1101/2020.05.10.20097543v2\n  [6]: https://www.acpjournals.org/doi/10.7326/M20-3012\n  [7]: https://www.nytimes.com/2020/06/09/health/coronavirus-asymptomatic-world-health-organization.html\n  [8]: https://www.nytimes.com/2020/04/06/world/coronavirus-live-news-updates.html\n  [9]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/planning-scenarios.html\n",
-    "Answer Assigned": [
-      {
-        "id": "usrDTYZtkXBziEsWP",
-        "email": "christin@mail.harvard.edu",
-        "name": "Christin Gilmer"
-      }
-    ],
-    "Context Assigned": [
-      {
-        "id": "usrDTYZtkXBziEsWP",
-        "email": "christin@mail.harvard.edu",
-        "name": "Christin Gilmer"
-      }
-    ],
-    "Last edited (simplified)": "2020-07-09T15:59:05.000Z",
-    "Last edited (experts say)": "2020-07-12T03:56:45.000Z",
     "Last modified": "2020-07-12"
   },
   {
