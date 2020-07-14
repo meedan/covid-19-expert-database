@@ -1,16 +1,19 @@
 {% if page.lang == 'en-US' %}
     {% assign questions = site.data.covid19.questions-en
+        | where: 'Item status', 'Published'
         | sort: 'Last modified' 
         | reverse
     %}
 {% elsif page.lang == 'fr' %}
     {% assign questions = site.data.covid19.questions-fr 
-        | sort: 'Last modified' 
+        | where: 'Item status', 'Published'
+        | sort: 'Dernière révision' 
         | reverse
     %}
 {% elsif page.lang == 'hi' %}
     {% assign questions = site.data.covid19.questions-hi 
-        | sort: 'Last modified' 
+        | where: 'विषय की स्थिति', 'Published'
+        | sort: 'अंतिम बदल गया' 
         | reverse
     %}
 {% endif %}
@@ -28,6 +31,7 @@
         <div class="last-modified">{{ site.data.ui.t[page.lang].entry.last-modified }}</div>
     </div>
     {% for question in questions %}
+        
     {% if page.lang == 'en-US' %}
         {% assign q = question.Question %}
         {% assign a = question['What our experts say'] %}
@@ -36,17 +40,17 @@
         {% assign url = question.Question | sanitize_filename | prepend: '/questions/' %}
         {% assign last_modified = question['Last modified'] | convert_to_date | date: "%-d %B %Y" %}
     {% elsif page.lang == 'fr' %}
-        {% assign q = question.Question %}
+        {% assign q = question['Question'] %}
         {% assign a = question['Ce que disent nos experts'] %}
-        {% assign c = question['Tags'] | trim | split: ',' %}
-        {% assign url = question['English Question'] | sanitize_filename | prepend: '/fr/questions/' %}
-        {% assign last_modified = question['Dernière révision'] | convert_to_date_mdy | date: "%-d %B %Y" %}
+        {% assign c = question['Tags'] %}
+        {% assign url = question['Question'] | sanitize_filename | prepend: '/fr/questions/' %}
+        {% assign last_modified = question['Dernière révision'] | convert_to_date | date: "%-d %B %Y" %}
     {% elsif page.lang == 'hi' %}
         {% assign q = question['सवाल'] %}
         {% assign a = question['हमारे विशेषज्ञ क्या कहते हैं'] %}
-        {% assign c = question['टैग'] | trim | split: ',' %}
-        {% assign url = question['English Question'] | sanitize_filename | prepend: '/hi/questions/' %}
-        {% assign last_modified = question['अंतिम बदल गया'] | convert_to_date_mdy | date: "%-d %B %Y" %}
+        {% assign c = question['टैग'] %}
+        {% assign url = question['id'] | sanitize_filename | prepend: '/hi/questions/' %}
+        {% assign last_modified = question['अंतिम बदल गया'] | convert_to_date | date: "%-d %B %Y" %}
     {% endif %}
     <a href="{{ url }}" title="{{ q }}" class="question-wrapper">
         <div class="question">

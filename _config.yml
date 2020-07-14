@@ -101,12 +101,16 @@ page_gen:
     dir: '/questions'
   - data: 'covid19.questions-fr'
     template: 'entry-fr'
-    name: 'English Question'
+    name: 'Question'
     dir: '/fr/questions'
+    filter: 'Item status'
+    filter_condition: record['Item status'] == 'Published'
   - data: 'covid19.questions-hi'
     template: 'entry-hi'
-    name: 'English Question'
+    name: 'id'
     dir: '/hi/questions'
+    filter: 'विषय की स्थिति'
+    filter_condition: record['विषय की स्थिति'] == 'Published'
 
 
 # Algolia search
@@ -136,3 +140,31 @@ airtable:
         - name: 'Glossary (English)'
           view: 'Internal View'
           target: 'glossary-en'
+    - name: 'airtable'
+      app_id: appzLYyvMpjIJnLY7
+      target: 'covid19'
+      sheets:
+        - name: 'Expert Database (French)'
+          view: 'Internal View'
+          target: 'questions-fr'
+    - name: 'glossary'
+      app_id: appzLYyvMpjIJnLY7
+      target: 'covid19'
+      sheets:
+        - name: 'Glossary (French)'
+          view: 'Internal View'
+          target: 'glossary-fr'
+    - name: 'airtable'
+      app_id: appzLYyvMpjIJnLY7
+      target: 'covid19'
+      sheets:
+        - name: 'Expert Database (Hindi)'
+          view: 'Internal View'
+          target: 'questions-hi' 
+    - name: 'glossary'
+      app_id: appzLYyvMpjIJnLY7
+      target: 'covid19'
+      sheets:
+        - name: 'Glossary (Hindi)'
+          view: 'Internal View'
+          target: 'glossary-hi'   

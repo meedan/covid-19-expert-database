@@ -5,17 +5,23 @@
 <body>
   {% include header.html %}
   <div class="content-wrapper">
-    <h2>{{ site.data.ui.t[page.lang].menu.glossary }}</h2>
     {% if page.lang == 'hi' %}
-        {% assign terms = site.data.covid19.glossary-hi %}
+        {% 
+            assign terms = site.data.covid19.glossary-hi 
+            | where_exp: "item","item['स्थिति'] == 'Published'" 
+        %}
     {% elsif page.lang == 'fr' %}
-        {% assign terms = site.data.covid19.glossary-fr %}
+        {% 
+            assign terms = site.data.covid19.glossary-fr 
+            | where_exp: "item","item.Status == 'Published'" 
+        %}
     {% else %}
         {% 
             assign terms = site.data.covid19.glossary-en
             | where_exp: "item","item.Status == 'Published'" 
         %}
     {% endif %}
+    <h2>{{ site.data.ui.t[page.lang].menu.glossary }} ({{ terms.size }})</h2>
     <div class="glossary">
         {% for term in terms %}
             {% if page.lang == 'hi' %}
@@ -30,7 +36,7 @@
             {% endif %}
             
             <div class="term">
-                <h4>{{ t }}</h4>
+                <h4 id="{{ term.id }}">{{ t }}</h4>
                 <div class="definition">
                     {{ d }}
                 </div>

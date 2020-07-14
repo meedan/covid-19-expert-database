@@ -16,7 +16,7 @@ module Jekyll
         .flatten
 
       # Enclose the terms within some special HTML.
-      terms.each{ |t| text.gsub!(t['Term'], "<a class=\"glossary\" href=\"#{t['id']}\">#{t['Term']}</a>") }
+      terms.each{ |t| text.gsub!(t['Term'], "<a href=\"/glossary/##{t['id']}\" class=\"glossary\">#{t['Term']}</a>") }
 
       text
     end
