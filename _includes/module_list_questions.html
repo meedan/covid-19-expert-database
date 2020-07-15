@@ -1,15 +1,18 @@
 {% if page.lang == 'en-US' %}
-    {% assign questions = site.data.covid19.questions
+    {% assign questions = site.data.covid19.questions-en
+        | where: 'Item status', 'Published'
         | sort: 'Last modified' 
         | reverse
     %}
 {% elsif page.lang == 'fr' %}
     {% assign questions = site.data.covid19.questions-fr 
+        | where: 'Item status', 'Published'
         | sort: 'Last modified' 
         | reverse
     %}
 {% elsif page.lang == 'hi' %}
     {% assign questions = site.data.covid19.questions-hi 
+        | where: 'Item status', 'Published'
         | sort: 'Last modified' 
         | reverse
     %}
@@ -17,7 +20,7 @@
 <div class="list-questions">
     <div class="question-wrapper">
         <div class="question">
-            {{ site.data.ui.t[page.lang].entry.question }} 
+            {{ site.data.ui.t[page.lang].entry.question }} ({{ questions.size}})
         </div>
         <div class="experts-say">
             {{ site.data.ui.t[page.lang].entry.what-our-experts-say }} 
@@ -28,31 +31,34 @@
         <div class="last-modified">{{ site.data.ui.t[page.lang].entry.last-modified }}</div>
     </div>
     {% for question in questions %}
+        
+    {% assign q = question.Question %}
+    {% assign a = question['What our experts say'] %}
+    {% assign c = question['Topics'] %}
+    {% assign media = question['Media'] %}
+    {% assign last_modified = question['Last modified'] | convert_to_date | date: "%-d %B %Y" %}
     {% if page.lang == 'en-US' %}
-        {% assign q = question.Question %}
-        {% assign a = question['What our experts say'] %}
-        {% assign c = question['Topics'] | trim | split: ',' %}
+        
         {% assign url = question.Question | sanitize_filename | prepend: '/questions/' %}
-        {% assign last_modified = question['Last modified'] | convert_to_date | date: "%-d %B %Y" %}
+        
     {% elsif page.lang == 'fr' %}
-        {% assign q = question.Question %}
-        {% assign a = question['Ce que disent nos experts'] %}
-        {% assign c = question['Tags'] | trim | split: ',' %}
-        {% assign url = question['English Question'] | sanitize_filename | prepend: '/fr/questions/' %}
-        {% assign last_modified = question['Dernière révision'] | convert_to_date | date: "%-d %B %Y" %}
+        
+        {% assign url = question['Question'] | sanitize_filename | prepend: '/fr/questions/' %}
+        
     {% elsif page.lang == 'hi' %}
-        {% assign q = question['सवाल'] %}
-        {% assign a = question['हमारे विशेषज्ञ क्या कहते हैं'] %}
-        {% assign c = question['टैग'] | trim | split: ',' %}
-        {% assign url = question['English Question'] | sanitize_filename | prepend: '/hi/questions/' %}
-        {% assign last_modified = question['अंतिम बदल गया'] | convert_to_date | date: "%-d %B %Y" %}
+        
+        {% assign url = question['id'] | sanitize_filename | prepend: '/hi/questions/' %}
+        
     {% endif %}
     <a href="{{ url }}" title="{{ q }}" class="question-wrapper">
         <div class="question">
             {{ q }}
         </div>
-        <div class="experts-say">
+        <div class="experts-say{% if media.size >= 1 %} with-media-preview{% endif %}">
             {{ a | truncate: 110 }}
+            {% if media.size >= 1 %}
+                {% include media_preview.html %}
+            {% endif %}
         </div>
         <div class="category">
             {% for category in c %}

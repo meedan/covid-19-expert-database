@@ -1,6 +1,7 @@
 ---
 lang: en-US
 slug: entry
+custom_js: entry
 ---
 <!DOCTYPE html>
 <html lang="{{ page.lang }}">
@@ -17,19 +18,18 @@ slug: entry
             <div>{{ site.data.ui.t[page.lang].entry.last-modified-on }} {{ page['Last modified'] | convert_to_date | date: "%-d %B %Y" }}</div>
         </div>
     </div>
-    {% assign questions = site.data.covid19.questions | jsonify %}
-
     <div class="content-wrapper">
         <h3 class="section-title">{{ site.data.ui.t[page.lang].entry.what-our-experts-say }}</h3>
         <div class="answer">
-            {{ page['What our experts say'] | markdownify }}
+            {{ page['What our experts say'] | markdownify | glossarify: page['Glossary Terms'] }}
         </div>
         {% include module_ask_a_question.html %}
         <h3 class="section-title">{{ site.data.ui.t[page.lang].entry.context-and-background }}</h3>
         <div class="context">
-            {{ page['Background & context'] | markdownify }}           
+            {{ page['Background & context'] | markdownify | glossarify: page['Glossary Terms'] }}
         </div>
         {% include data.html %}
+        {% include media.html %}
         <h3 class="section-title">{{ site.data.ui.t[page.lang].entry.resources }}</h3>
         <div class="resources">
             {{ page['Other resources'] | markdownify }}
@@ -38,6 +38,8 @@ slug: entry
     {% include newsletter.html %}
     {% include footer.html %}
     {% include js.html %}
+    <script src="https://unpkg.com/@popperjs/core@2"></script>
+    <script src="https://unpkg.com/tippy.js@6"></script>
 </body>
 
 </html>

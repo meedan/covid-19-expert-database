@@ -15,6 +15,7 @@
 // Elements
 @import "buttons.scss";
 @import "select.scss";
+@import "tooltips.scss";
 
 // Pages
 @import "entry.scss";
@@ -71,7 +72,7 @@
     --font-weight: 560;
     --font-size: 1.556rem;
     --font-line-height: 2.111rem;
-    --font-family-hindi: 'Poppins', sans-serif;
+    --font-family-hindi: 'Mukta', sans-serif;
 }
 
 * {
@@ -117,6 +118,7 @@ body {
 // Hindi Font
 html:lang(hi) body {
     font-family: var(--font-family-hindi);
+    font-weight: 500;
 }
 
 header {
@@ -297,7 +299,9 @@ body.hi header nav {
     margin: 1.188rem auto 0 0;
 }
 
-.content-wrapper p {
+.content-wrapper p, 
+.content-wrapper ul, 
+.content-wrapper ol {
     font-size: var(--font-size);
     line-height: var(--font-line-height);
     margin: 1.188rem auto 0 0;

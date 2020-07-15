@@ -78,6 +78,21 @@ module Jekyll
           data['description'] = data['description-hi']
         end
 
+        if template == "entry"
+          data['title'] = data['Question']
+          data['description'] = data['What our experts say'].to_s.split[0...30].join(' ')
+        end
+
+        if template == "entry-fr"
+          data['title'] = data['Question']
+          data['description'] = data['Ce que disent nos experts'].to_s.split[0...30].join(' ')
+        end
+
+        if template == "entry-hi"
+          data['title'] = data['सवाल']
+          data['description'] = data['हमारे विशेषज्ञ क्या कहते हैं'].to_s.split[0...30].join(' ')
+        end
+
         # if template == "entry"
         #   data["Last modified date"] = data["Last modified"].to_date
         # end

@@ -95,18 +95,22 @@ page_gen:
     template: 'page-hi'
     name: 'slug'
     dir: '/hi'
-  - data: 'covid19.questions'
+  - data: 'covid19.questions-en'
     template: 'entry'
     name: 'Question'
     dir: '/questions'
   - data: 'covid19.questions-fr'
     template: 'entry-fr'
-    name: 'English Question'
+    name: 'Question'
     dir: '/fr/questions'
+    filter: 'Item status'
+    filter_condition: record['Item status'] == 'Published'
   - data: 'covid19.questions-hi'
     template: 'entry-hi'
-    name: 'English Question'
+    name: 'id'
     dir: '/hi/questions'
+    filter: 'Item status'
+    filter_condition: record['Item status'] == 'Published'
 
 
 # Algolia search
@@ -120,3 +124,71 @@ algolia:
     - about/index.html
     - fr/about/index.html
     - hi/about/index.html
+    - glossary.html
+    - fr/glossary.html
+    - hi/glossary.html
+    - /questions/what-does-the-scientific-literature-say-about-using-hydroxychloroquine-to-prevent-treat-or-cure-covid-19/index.html
+    - /questions/what-do-we-know-so-far-about-airborne-transmission-and-how-does-it-differ-from-respiratory-droplet-transmission/index.html
+    - /questions/what-are-the-many-benefits-of-testing/index.html
+    - /questions/why-are-brazils-cases-surging-right-now/index.html
+    - /questions/what-do-we-know-so-far-about-dexamethasone-as-a-potential-treatment-for-covid-19/index.html
+    - /questions/are-any-of-the-following-foods-or-drinks-alone-or-in-combination-with-other-effective-in-treating-or-curing-covid-19-turmeric-lemon-pineapple-onion-blackseed-oil-honey-garlic-tea-ginger-zinc-or-selenium/index.html
+    - /questions/can-covid-19-be-transmitted-by-a-person-who-shows-no-symptoms/index.html
+    - /questions/what-do-we-know-so-far-about-covid-19-losing-its-potency/index.html
+    - /questions/why-are-we-repurposing-old-drugs-to-fight-new-diseases-and-what-might-be-the-implications-for-covid-19/index.html
+    - /questions/are-there-ayurveda-cures-for-covid-19/index.html
+    - /questions/how-are-migrant-laborers-in-india-being-impacted-by-the-covid-19-pandemic/index.html
+    - /questions/is-there-any-relationship-between-the-use-of-antibiotics-and-treatment-of-covid-19/index.html
+    - /fr/questions/quel-est-le-lien-entre-lutilisation-des-antibiotiques-et-le-traitement-du-covid-19-/index.html
+    - /fr/questions/que-dit-la-science-sur-lutilisation-de-lhydroxychloroquine-pour-prevenir-traiter-ou-guerir-le-covid-19-/index.html
+    - /fr/questions/le-covid-19-peut-il-etre-transmis-par-une-personne-qui-ne-presente-aucun-symptome-/index.html
+    - /fr/questions/le-port-de-gants-freine-t-il-la-propagation-de-covid-19-/index.html
+    - /fr/questions/que-dit-la-science-sur-lexposition-au-soleil-et-le-covid-19/index.html
+    - /fr/questions/la-vaccination-au-bcg-protege-t-elle-contre-la-covid-19-/index.html
+
+
+airtable:
+  api_key: key3GwTpP3iINPkP1
+  tables:
+    - name: 'airtable'
+      app_id: appKBFbOCN23iz8eF
+      target: 'covid19'
+      sheets:
+        - name: 'Expert Database (English)'
+          view: 'COVID-19 Expert Database (English)'
+          target: 'questions-en'
+    - name: 'glossary'
+      app_id: appKBFbOCN23iz8eF
+      target: 'covid19'
+      sheets:
+        - name: 'Glossary (English)'
+          view: 'Glossary (English)'
+          target: 'glossary-en'
+    - name: 'airtable'
+      app_id: appKBFbOCN23iz8eF
+      target: 'covid19'
+      sheets:
+        - name: 'Expert Database (French)'
+          view: 'COVID-19 Expert Database (French)'
+          target: 'questions-fr'
+    - name: 'glossary'
+      app_id: appKBFbOCN23iz8eF
+      target: 'covid19'
+      sheets:
+        - name: 'Glossary (French)'
+          view: 'Glossary (French)'
+          target: 'glossary-fr'
+    - name: 'airtable'
+      app_id: appKBFbOCN23iz8eF
+      target: 'covid19'
+      sheets:
+        - name: 'Expert Database (Hindi)'
+          view: 'COVID-19 Expert Database (Hindi)'
+          target: 'questions-hi' 
+    - name: 'glossary'
+      app_id: appKBFbOCN23iz8eF
+      target: 'covid19'
+      sheets:
+        - name: 'Glossary (Hindi)'
+          view: 'Glossary (Hindi)'
+          target: 'glossary-hi'   

@@ -1,0 +1,39 @@
+{% if page.lang == 'en-US' %}
+    {% assign term_ids = page['Glossary Terms'] %}
+{% elsif page.lang == 'fr' %}
+    {% assign term_ids = page['Glossary Terms'] %}
+{% elsif page.lang == 'hi' %}
+    {% assign term_ids = page['Glossary Terms'] %}
+{% endif %}
+
+<div class="terms">
+    
+        {% for term_id in term_ids %}
+                
+                {% if page.lang == 'en-US' %}
+                    {% assign glossary = site.data.covid19.glossary-en 
+                        | where_exp: "item","item.id == term_id" 
+                    %}
+                    {% assign term = glossary[0]['Term'] %}
+                    {% assign path = '/glossary/#'  %}
+                {% elsif page.lang == 'fr' %}
+                    {% assign glossary = site.data.covid19.glossary-fr 
+                        | where_exp: "item","item.id == term_id" 
+                    %}  
+                    {% assign term = glossary[0]['Term'] %}
+                    {% assign path = '/fr/glossary/#'  %}
+                {% elsif page.lang == 'hi' %}
+                    {% assign glossary = site.data.covid19.glossary-hi 
+                        | where_exp: "item","item.id == term_id" 
+                    %}
+                    {% assign term = glossary[0]['Term'] %}
+                    {% assign path = '/hi/glossary/#'  %}
+                {% endif %}
+                
+                {% if glossary[0]['id'] %}
+                    <a href="{{ path }}{{ glossary[0]['id'] }}"><span class="capsule reverse">{{ term }}</span></a>
+                {% endif %}
+
+        {% endfor %} 
+    
+</div>

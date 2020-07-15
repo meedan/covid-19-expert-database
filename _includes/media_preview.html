@@ -1,0 +1,15 @@
+{% if media %}
+    <span class="media-preview-wrapper">
+        <span class="media-preview">
+            {% for image in media limit: 1 %}
+                <span class="media-preview-image">
+                    <img src="{{ image.thumbnails.large.url }}" alt="{{ image.filename | trim }}" />
+                </span>
+                <span class="media-preview-count">
+                    +{{ (media.size - 1) }}
+                </span>
+            {% endfor %}
+        </span>
+    </span>
+    
+{% endif %}
