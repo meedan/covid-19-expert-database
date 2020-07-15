@@ -67,6 +67,9 @@
             margin-bottom: var(--space-1);
         }
      }
+     a:hover {
+         color: var(--edbGreen);
+     }
 }
 
 .entry .resources {
@@ -130,7 +133,6 @@
             border-bottom: 1px solid var(--lightGray);
         }
     }
-
 }
 
 .entry .media {

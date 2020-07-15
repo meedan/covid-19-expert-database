@@ -1,11 +1,4 @@
-{% if page.lang == 'hi' %}
-    {% assign locations = page['यह प्रश्न किस देश से लिया गया था'] %}
-{% elsif page.lang == 'fr' %}
-    {% assign locations = page['Pays de provenance de la question'] %}
-{% else %}
-    {% assign locations = page['Country question was sourced from'] %}
-{% endif %}
-
+{% assign locations = page['Country question was sourced from'] %}
 
 {% if locations %}
     

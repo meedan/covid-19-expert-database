@@ -109,8 +109,8 @@ page_gen:
     template: 'entry-hi'
     name: 'id'
     dir: '/hi/questions'
-    filter: 'विषय की स्थिति'
-    filter_condition: record['विषय की स्थिति'] == 'Published'
+    filter: 'Item status'
+    filter_condition: record['Item status'] == 'Published'
 
 
 # Algolia search

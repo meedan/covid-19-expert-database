@@ -4,7 +4,7 @@ module Jekyll
     def glossarify(text, term_ids)
       return text if !term_ids
 
-      # Collect the terms
+      # Collect the terms.
       terms = term_ids
         .collect{ |id|
           [
@@ -14,9 +14,25 @@ module Jekyll
           ]
         }
         .flatten
+        .uniq
 
       # Enclose the terms within some special HTML.
-      terms.each{ |t| text.gsub!(t['Term'], "<a data-tippy-content=\"<h6>#{t['Term']}</h6>#{t['Definition']}\" href=\"/glossary/##{t['id']}\" class=\"glossary-term\">#{t['Term']}</a>") }
+      # Do it in 2 passes to avoid replacing terms inside other term definitions.
+      terms.each{ |t|
+        text.gsub!(t['Term'], t['id'])
+      }
+
+      terms.each{ |t|
+        definition = t['Definition']&.gsub('"', '\\"')
+        replacement = <<~GLOSSARY
+          <a
+            data-tippy-content="<h6>#{t['Term']}</h6>#{definition}"
+            href="/glossary/##{t['id']}"
+            class="glossary-term"
+          >#{t['Term']}</a>
+        GLOSSARY
+        text.gsub!(t['id'], replacement.chomp)
+      }
 
       text
     end

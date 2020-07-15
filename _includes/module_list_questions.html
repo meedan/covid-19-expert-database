@@ -7,13 +7,13 @@
 {% elsif page.lang == 'fr' %}
     {% assign questions = site.data.covid19.questions-fr 
         | where: 'Item status', 'Published'
-        | sort: 'Dernière révision' 
+        | sort: 'Last modified' 
         | reverse
     %}
 {% elsif page.lang == 'hi' %}
     {% assign questions = site.data.covid19.questions-hi 
-        | where: 'विषय की स्थिति', 'Published'
-        | sort: 'अंतिम बदल गया' 
+        | where: 'Item status', 'Published'
+        | sort: 'Last modified' 
         | reverse
     %}
 {% endif %}
@@ -32,25 +32,23 @@
     </div>
     {% for question in questions %}
         
+    {% assign q = question.Question %}
+    {% assign a = question['What our experts say'] %}
+    {% assign c = question['Topics'] %}
+    {% assign media = question['Media'] %}
+    {% assign last_modified = question['Last modified'] | convert_to_date | date: "%-d %B %Y" %}
     {% if page.lang == 'en-US' %}
-        {% assign q = question.Question %}
-        {% assign a = question['What our experts say'] %}
-        {% assign c = question['Topics'] %}
-        {% assign media = question['Media'] %}
+        
         {% assign url = question.Question | sanitize_filename | prepend: '/questions/' %}
-        {% assign last_modified = question['Last modified'] | convert_to_date | date: "%-d %B %Y" %}
+        
     {% elsif page.lang == 'fr' %}
-        {% assign q = question['Question'] %}
-        {% assign a = question['Ce que disent nos experts'] %}
-        {% assign c = question['Tags'] %}
+        
         {% assign url = question['Question'] | sanitize_filename | prepend: '/fr/questions/' %}
-        {% assign last_modified = question['Dernière révision'] | convert_to_date | date: "%-d %B %Y" %}
+        
     {% elsif page.lang == 'hi' %}
-        {% assign q = question['सवाल'] %}
-        {% assign a = question['हमारे विशेषज्ञ क्या कहते हैं'] %}
-        {% assign c = question['टैग'] %}
+        
         {% assign url = question['id'] | sanitize_filename | prepend: '/hi/questions/' %}
-        {% assign last_modified = question['अंतिम बदल गया'] | convert_to_date | date: "%-d %B %Y" %}
+        
     {% endif %}
     <a href="{{ url }}" title="{{ q }}" class="question-wrapper">
         <div class="question">

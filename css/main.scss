@@ -72,7 +72,7 @@
     --font-weight: 560;
     --font-size: 1.556rem;
     --font-line-height: 2.111rem;
-    --font-family-hindi: 'Poppins', sans-serif;
+    --font-family-hindi: 'Mukta', sans-serif;
 }
 
 * {
@@ -118,6 +118,7 @@ body {
 // Hindi Font
 html:lang(hi) body {
     font-family: var(--font-family-hindi);
+    font-weight: 500;
 }
 
 header {
