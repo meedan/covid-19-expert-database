@@ -1,5 +1,108 @@
 [
   {
+    "id": "recjs5QXivxuhSxx4",
+    "Question": "Why should we all be wearing masks?",
+    "Item status": "Published",
+    "Background & context": "Masks are a type of personal protective equipment (PPE), along with face shields, protective eye goggles, gloves, gowns, and other equipment. Proper use of PPE can help reduce the spread of COVID-19. Wearing PPE is a risk reduction measure, not a risk avoidance measure, so masks can help lower (but not completely eliminate) the chances of getting infected or infecting someone else. Maintaining hygiene, physical distancing, and other measures are still recommended.\n",
+    "What our experts say": "In addition to hand washing and social distancing measures, it is important for people to wear masks to prevent the spread of COVID-19 because the virus spreads primarily through respiratory droplets when people speak, cough, sneeze or sing. Some people who are infected may not appear ill or may develop symptoms at a later time, but they can still spread the virus without symptoms. Masks help prevent people from spreading the virus to others. Cloth masks are better at protecting people nearby, rather than protecting the person wearing the mask. However, cloth masks are still likely to also protect the person wearing them since they can filter some virus particles and act as a physical barrier. Medical grade masks (like N95 or FFP2) filter virus particles more effectively than cloth masks and are designed to protect the person wearing the mask from being infected. Supplies of those are limited and generally reserved for doctors. Find out more **[here][1]**_._\n\n_The last line will NOT be published on website. this is for Speak Up Africa. I added it here not to forget._\n\n  [1]: https://speakupafrica.us12.list-manage.com/track/click?u=7953ea56681152225c3586586&id=731cb833a0&e=233fc56c3b\n",
+    "Glossary Terms": [
+      "recuQuM83b2X3K9Bx"
+    ],
+    "Other resources": "1. Physical distancing, face masks, and eye protection to prevent person-to-person transmission of SARS-CoV-2 and COVID-19: a systematic review and meta-analysis, 2020 ([Lancet][1])\n2. Q&A: Masks and COVID-19 ([WHO][2])\n3. Considerations for Wearing Cloth Face Coverings ([US CDC][3])\n4. Why scientists say wearing masks shouldn't be controversial ([Science News][4])\n\n\n  [1]: https://www.thelancet.com/action/showPdf?pii=S0140-6736(20)31142-9\n  [2]: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-on-covid-19-and-masks\n  [3]: https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover-guidance.html\n  [4]: https://www.sciencenews.org/article/covid-19-coronavirus-why-wearing-masks-controversial\n",
+    "Answer Assigned": [
+      {
+        "id": "usroPZ4yKxHAs6odJ",
+        "email": "elarose@hsph.harvard.edu",
+        "name": "Emily LaRose"
+      }
+    ],
+    "Context Assigned": [
+      {
+        "id": "usr7F6wgKz1f26438",
+        "email": "jahuang@mail.harvard.edu",
+        "name": "Jessica Huang"
+      }
+    ],
+    "Last edited (simplified)": "2020-07-15T01:01:15.000Z",
+    "Last edited (experts say)": "2020-07-15T02:05:10.000Z",
+    "Last modified": "2020-07-15"
+  },
+  {
+    "id": "reclucIrtcCSCbOn6",
+    "Question": "Is the Russian vaccine a successful cure for COVID-19? ",
+    "Item status": "Published",
+    "Background & context": "Vaccines are not medicines that can treat or cure diseases, as they are made for prevention. Vaccines contain a weakened, killed, or partial form of the same germs that cause the disease in order to stimulate the body's immune response to develop immunity without having to get sick. The World Health Organization (WHO) reports that there are around 160 vaccines for COVID-19 in development as of July 6, 2020, with at least 21 vaccine candidates under clinical evaluation and 139 under pre-clinical evaluation. This includes U.K.'s Oxford University and AstraZeneca vaccine candidate that is currently in Phase 3 clinical trials with 5,000 people in Brazil and 4,000 people in the U.K., Australia's University of Queensland vaccine candidate that started phase one clinical trials with 120 people to be observed over 12 months (including a proportion of people assigned to receive a placebo for comparison), the U.S.'s Inovio Pharmaceuticals vaccine candidate that completed Phase 1 clinical trials with 40 people (reports suggest 94% had \"overall immune responses at week six after two doses\" and after eight weeks the vaccine candidate was considered \"safe and well-tolerated with no serious adverse events\"), and China's CanSino Biologics vaccine candidate that completed phase two clinical trials with 508 people and is planning to begin phase three clinical trials with 40,000 people from multiple countries.\n",
+    "What our experts say": "COVID-19 vaccines are being developed to prevent people from getting the disease, not to treat or cure patients who already have the disease. Many experts continue to caution that a vaccine may not be widely available until the end of 2020 or beginning of 2021, which would already be record-breaking timing for vaccine development.\n\nRecently, Russia's Sechenov First Moscow State Medical University announced that they are completing human clinical trials of a COVID-19 vaccine, with 18 people vaccinated on June 18 (to be discharged on July 15) and 20 people vaccinated on June 23 (to be discharged on July 20). This is one of several human clinical trials for COVID-19 vaccine candidates happening around the world, with some trials involving hundreds or thousands of people over observation periods of many months. Rigorous clinical trials are important to understand whether vaccine candidates are safe and without major negative side effects, as well as whether vaccine candidates are effective and can actually provide immunity for long periods of time.\n\nRussia's announcement of their human clinical trials has been accompanied by projections that the vaccine could be distributed in August and mass produced by private corporations in September. There are many challenges in scaling up from a vaccine candidate that has been tested on a few dozen people in one country to a commercially available vaccine that is available and suitable for millions of diverse people around the world. \n",
+    "Glossary Terms": [
+      "rec9qqItwSTjq3Eae",
+      "recMJMGqkERKGcbL5",
+      "recJK5tI9LgCGFRAU"
+    ],
+    "Variation of the answer depending on country of residence": "\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "\n",
+    "Other resources": "1. Vaccines: The Basics ([U.S. CDC][1])\n2. Russia Coronavirus Vaccine Could Be Distributed Next Month ([Newsweek][2])\n3. China's CanSino in talks for COVID-19 vaccine Phase III trial overseas ([Reuters][3])\n4. Thailand advances one of the first coronavirus vaccines developed outside rich nations ([Fortune][4])\n\n  [1]: https://www.cdc.gov/vaccines/vpd/vpd-vac-basics.html\n  [2]: https://www.newsweek.com/russia-coronavirus-vaccine-could-distributed-next-month-1517398\n  [3]: https://www.reuters.com/article/us-health-coronavirus-china-vaccine/chinas-cansino-in-talks-for-covid-vaccine-phase-iii-trial-overseas-idUSKCN24C0HS\n  [4]: https://fortune.com/2020/07/13/thailand-covid-vaccine-coronavirus/\n",
+    "Answer Assigned": [
+      {
+        "id": "usr7F6wgKz1f26438",
+        "email": "jahuang@mail.harvard.edu",
+        "name": "Jessica Huang"
+      }
+    ],
+    "Context Assigned": [
+      {
+        "id": "usr7F6wgKz1f26438",
+        "email": "jahuang@mail.harvard.edu",
+        "name": "Jessica Huang"
+      }
+    ],
+    "Last edited (simplified)": "2020-07-15T02:07:10.000Z",
+    "Last edited (experts say)": "2020-07-15T01:24:12.000Z",
+    "Last modified": "2020-07-15"
+  },
+  {
+    "id": "recp0leXTiAvzw4cH",
+    "Question": "Can we trust antibody tests to tell who has been infected and who hasn't?",
+    "Item status": "Published",
+    "Category": "Testing",
+    "Subcategory": "On: COVID-19 & antibody tests",
+    "Source of the question": [
+      "Social Media"
+    ],
+    "Country question was sourced from": [
+      "USA"
+    ],
+    "Background & context": "While COVID-19 diagnostic tests determine whether or not a person is currently infected with the virus, antibody tests are used to determine whether or not a person was infected with COVID-19 in the past. This occurs through a process in the immune system of that as their body has developed a type of protein called  'antibodies' the immune system produces in response to the presence of a foreign object threatening the body, also called an \"antigen\", which in this case is the virus. The antibodies latch onto antigens and then work to remove them from the body. Antibodies are detected in the blood of people who are tested after infection; they show the body’s efforts to fight off a specific infection. This is why antibody tests can determine whether or not a person has had a specific virus.\n \nIn comparison, tests for active cases of the virus (such as a polymerase chain reaction (PCR) test) looks for the actual genes of the virus itself in a person. This means that COVID-19 has to be active and have a large enough amount infecting in a person in order for the test to be accurate. One difference between these tests is the fact that antibody tests look for prior infection from a virus using blood, whereas PCR-based tests are run on saliva or mucus samples to look for the virus's genetic material and diagnose people who are currently infected with the novel coronavirus. \n\nEach tests have different levels of of specificity (how well a test identifies patients who do not have a disease) and sensitivity (how well a test identifies patients who do have a disease), and each have different ideal standards. \n\nFor instance, while with antibody tests the key metric is specificity, with diagnostic tests, the key metric is sensitivity. This is because an individual with a false negative test result may be mistakenly reassured that they are safe (just as one would with a false positive antibody test), and in turn pay less attention to basic prevention (e.g., social distancing).\n",
+    "What our experts say": "Antibody tests are now available in many parts of the world, and they can play an important role in understanding COVID-19 trends and identifying groups at higher risk for infection. \nDiagnostic tests are never 100% accurate. Sometimes, a test will produce false positives (when you test positive for the virus, but don't have it) and false negatives (when you test negative for the virus, but you really have been infected). The antibody tests for COVID-19 are similar. To be able to trust the results of an antibody test, we must look at its ability to detect the presence of COVID-19 antibodies when they are present, and its ability to confirm the absence COVID-19 antibodies when they are truly absent. \nIn the context of the current pandemic, it is important for us to reduce the amount of false positive test results that can occur by choosing a test that is highly specific. This means we must choose a test whose ability to correctly identify those without the disease is as accurate as possible, so that a negative test result truly means that person has not been infected with COVID-19. This is because an individual with a false positive test result may be mistakenly reassured that they are safe, and may pay less attention to basic prevention (e.g., social distancing). In this context, the U.S. CDC recommends choosing a test with very high specificity, perhaps 99.5% or greater. Irrespective of where people reside, they should choose the test available on the market with the highest specificity. However, it is important to note that at this stage of the pandemic, we don't know yet exactly what a positive antibody test means in practice. We are not sure yet if a positive antibody test means that the antibodies will give the person immunity (i.e. prevent them from getting sick again with COVID-19); and if they do, how long this protection can last (weeks? months?). Several studies are currently underway. \n",
+    "Glossary Terms": [
+      "rec06X4QusZL1zCzd",
+      "recc8ZAXzbbMiYc51",
+      "recmajcAORyuqhZPc",
+      "recPNexvQiug4RFJu",
+      "recgxZht6COkDvQPF"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "testing",
+      "antibody",
+      "immunity"
+    ],
+    "Other resources": "1. Interim Guidelines for COVID-19 Antibody Testing ([U.S. CDC][1])\n2. Waiting for Certainty on Covid-19 Antibody Tests - At What Cost? ([NEJM][2])\n\n  [1]: https://www.cdc.gov/coronavirus/2019-ncov/lab/resources/antibody-tests-guidelines.html\n  [2]: https://www.nejm.org/doi/full/10.1056/NEJMp2017739?query=RP\n",
+    "Answer Assigned": [
+      {
+        "id": "usrd9fFFP3M4vtFx9",
+        "email": "nour@meedan.com",
+        "name": "Nour Sharara"
+      }
+    ],
+    "Expert Database (Hindi)": [
+      "recmCB2gfbWWiSPYm"
+    ],
+    "Last edited (simplified)": "2020-07-15T01:59:54.000Z",
+    "Last edited (experts say)": "2020-06-24T19:53:58.000Z",
+    "Last modified": "2020-07-15"
+  },
+  {
     "id": "recLb3N3jf8NIqfhK",
     "Question": "How effective is it to use only a face shield to protect from COVID-19?",
     "Item status": "Published",
@@ -38,7 +141,7 @@
     ],
     "Last edited (simplified)": "2020-07-01T01:07:44.000Z",
     "Last edited (experts say)": "2020-07-09T19:33:27.000Z",
-    "Last modified": "2020-07-14"
+    "Last modified": "2020-07-15"
   },
   {
     "id": "recxA4c1KoE4AtNMa",
@@ -2582,49 +2685,6 @@
     ],
     "Last edited (simplified)": "2020-06-24T20:01:21.000Z",
     "Last edited (experts say)": "2020-06-25T17:56:49.000Z",
-    "Last modified": "2020-07-07"
-  },
-  {
-    "id": "recp0leXTiAvzw4cH",
-    "Question": "Can we trust antibody tests to tell who has been infected and who hasn't?",
-    "Item status": "Published",
-    "Category": "Testing",
-    "Subcategory": "On: COVID-19 & antibody tests",
-    "Source of the question": [
-      "Social Media"
-    ],
-    "Country question was sourced from": [
-      "USA"
-    ],
-    "Background & context": "While COVID-19 diagnostic tests determine whether or not a person is currently infected with the virus, antibody tests are used to determine whether or not a person was infected with COVID-19 in the past. This occurs because  and has since developed antibodies \nhese tests look for the presence of antibodies, which are proteins made in response to infections. Antibodies are detected in the blood of people who are tested after infection; they show the body’s efforts to fight off a specific infection.\n (such as a polymerase chain reaction (PCR) test) in that antibody tests look for prior infection from a virus using blood, whereas PCR-based tests are run on saliva or mucus samples to look for the virus's genetic material and diagnose people who are currently infected with the novel coronavirus. There is also a third test, an antigen test, that was approved by the FDA May 8. These tests use a throat or nasal swab to detect viral proteins expressed on the outer surface of the coronavirus. \n\nEach tests have different levels of of specificity (how well a test identifies patients who do not have a disease) and sensitivity (how well a test identifies patients who do have a disease), and each have different ideal standards. \n\nFor instance, while with antibody tests the key metric is specificity, with diagnostic tests, the key metric is sensitivity. This is because an individual with a false negative test result may be mistakenly reassured that they are safe (just as one would with a false positive antibody test), and in turn pay less attention to basic prevention (e.g., social distancing).\n",
-    "What our experts say": "Antibody tests are now available in many parts of the world, and they can play an important role in understanding COVID-19 trends and identifying groups at higher risk for infection. \nDiagnostic tests are never 100% accurate. Sometimes, a test will produce false positives (when you test positive for the virus, but don't have it) and false negatives (when you test negative for the virus, but you really have been infected). The antibody tests for COVID-19 are similar. To be able to trust the results of an antibody test, we must look at its ability to detect the presence of COVID-19 antibodies when they are present, and its ability to confirm the absence COVID-19 antibodies when they are truly absent. \nIn the context of the current pandemic, it is important for us to reduce the amount of false positive test results that can occur by choosing a test that is highly specific. This means we must choose a test whose ability to correctly identify those without the disease is as accurate as possible, so that a negative test result truly means that person has not been infected with COVID-19. This is because an individual with a false positive test result may be mistakenly reassured that they are safe, and may pay less attention to basic prevention (e.g., social distancing). In this context, the U.S. CDC recommends choosing a test with very high specificity, perhaps 99.5% or greater. Irrespective of where people reside, they should choose the test available on the market with the highest specificity. However, it is important to note that at this stage of the pandemic, we don't know yet exactly what a positive antibody test means in practice. We are not sure yet if a positive antibody test means that the antibodies will give the person immunity (i.e. prevent them from getting sick again with COVID-19); and if they do, how long this protection can last (weeks? months?). Several studies are currently underway. \n",
-    "Glossary Terms": [
-      "rec06X4QusZL1zCzd",
-      "recc8ZAXzbbMiYc51",
-      "recmajcAORyuqhZPc",
-      "recPNexvQiug4RFJu",
-      "recgxZht6COkDvQPF"
-    ],
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "testing",
-      "antibody",
-      "immunity"
-    ],
-    "Other resources": "1. Interim Guidelines for COVID-19 Antibody Testing ([U.S. CDC][1])\n2. Waiting for Certainty on Covid-19 Antibody Tests - At What Cost? ([NEJM][2])\n\n  [1]: https://www.cdc.gov/coronavirus/2019-ncov/lab/resources/antibody-tests-guidelines.html\n  [2]: https://www.nejm.org/doi/full/10.1056/NEJMp2017739?query=RP\n",
-    "Answer Assigned": [
-      {
-        "id": "usrd9fFFP3M4vtFx9",
-        "email": "nour@meedan.com",
-        "name": "Nour Sharara"
-      }
-    ],
-    "Expert Database (Hindi)": [
-      "recmCB2gfbWWiSPYm"
-    ],
-    "Last edited (simplified)": "2020-06-25T06:40:10.000Z",
-    "Last edited (experts say)": "2020-06-24T19:53:58.000Z",
     "Last modified": "2020-07-07"
   },
   {

@@ -1,12 +1,4 @@
-{% if page.lang == 'hi' %}
-    {% assign sources = page['यह सवाल कहां से आया'] %}
-{% elsif page.lang == 'fr' %}
-    {% assign sources = page['Source de la question'] %}
-{% else %}
-    {% assign sources = page['Source of the question'] %}
-{% endif %}
-
-
+{% assign sources = page['Source of the question'] %}
 {% if sources %}
     <div>
     {% for source in sources %}

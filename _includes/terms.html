@@ -1,7 +1,7 @@
 {% if page.lang == 'en-US' %}
     {% assign term_ids = page['Glossary Terms'] %}
 {% elsif page.lang == 'fr' %}
-    {% assign term_ids = page['Glossaire'] %}
+    {% assign term_ids = page['Glossary Terms'] %}
 {% elsif page.lang == 'hi' %}
     {% assign term_ids = page['Glossary Terms'] %}
 {% endif %}
@@ -20,13 +20,13 @@
                     {% assign glossary = site.data.covid19.glossary-fr 
                         | where_exp: "item","item.id == term_id" 
                     %}  
-                    {% assign term = glossary[0]['Terme'] %}
+                    {% assign term = glossary[0]['Term'] %}
                     {% assign path = '/fr/glossary/#'  %}
                 {% elsif page.lang == 'hi' %}
                     {% assign glossary = site.data.covid19.glossary-hi 
                         | where_exp: "item","item.id == term_id" 
                     %}
-                    {% assign term = glossary[0]['शब्द'] %}
+                    {% assign term = glossary[0]['Term'] %}
                     {% assign path = '/hi/glossary/#'  %}
                 {% endif %}
                 

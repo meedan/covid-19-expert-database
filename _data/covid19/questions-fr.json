@@ -5,7 +5,7 @@
     "Item status": "Published",
     "Category": "Traitement",
     "Sub-category": "A propps de : COVID-19 & antibiotiques",
-    "Source of question": [
+    "Source of the question": [
       "Réseaux Sociaux"
     ],
     "Country question was sourced from": [
@@ -18,7 +18,7 @@
       "recn0lT3zfEhVv8Eo",
       "recGkbysvb9KPYi3m"
     ],
-    "Tags": [
+    "Topics": [
       "antibiotiques",
       "infection bactérienne",
       "traitement",
@@ -32,7 +32,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "Non\n",
     "Last edited (simplified)": "2020-05-14T05:20:02.000Z",
     "Last edited (experts say)": "2020-05-14T05:21:40.000Z",
-    "Last revision": "2020-05-15",
+    "Last modified": "2020-05-15",
     "English Glossary": [
       "reco5k0tpirgGDeqb",
       "recnFUXyIZy81Rj1I",
@@ -76,7 +76,7 @@
     "Item status": "Published",
     "Category": "Traitement",
     "Sub-category": "A propps de : COVID-19 & hydroxychloroquine",
-    "Source of question": [
+    "Source of the question": [
       "Réseaux Sociaux"
     ],
     "Country question was sourced from": [
@@ -89,7 +89,7 @@
       "recAvIYWiEsqWpO9E",
       "recid3z2x1uYoo6xq"
     ],
-    "Tags": [
+    "Topics": [
       "Hydroxychloroquine",
       "prévention",
       "traitement",
@@ -103,7 +103,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "Non\n",
     "Last edited (simplified)": "2020-05-18T01:45:24.000Z",
     "Last edited (experts say)": "2020-05-26T23:04:11.000Z",
-    "Last revision": "2020-07-07",
+    "Last modified": "2020-07-07",
     "English Glossary": [
       "recM4p8QOERmuESKr",
       "recAiJYWSxD5F1Lz1",
@@ -144,7 +144,7 @@
     "Item status": "Published",
     "Category": "Origines",
     "Sub-category": "A propps de : COVID-19 & origines",
-    "Source of question": [
+    "Source of the question": [
       "Réseaux Sociaux"
     ],
     "Country question was sourced from": [
@@ -158,7 +158,7 @@
       "reccwo5NJI2cHb2Wl",
       "recbMekD6UXPWJAi6"
     ],
-    "Tags": [
+    "Topics": [
       "origines",
       "Wuhan",
       "Chine",
@@ -172,7 +172,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "Non\n",
     "Last edited (simplified)": "2020-05-15T00:13:36.000Z",
     "Last edited (experts say)": "2020-05-15T00:11:43.000Z",
-    "Last revision": "2020-05-15",
+    "Last modified": "2020-05-15",
     "Frequency of update": [
       "Monthly"
     ],
@@ -216,7 +216,7 @@
     "Item status": "Published",
     "Category": "Transmission",
     "Sub-category": "A propps de : transmission du COVID-19 sans présentation de symptômes",
-    "Source of question": [
+    "Source of the question": [
       "Réseaux Sociaux"
     ],
     "Country question was sourced from": [
@@ -230,7 +230,7 @@
       "rec4IrZTOe3lpz98t",
       "recxD9dPlL1W8DCs2"
     ],
-    "Tags": [
+    "Topics": [
       "asymptomatique",
       "transmission",
       "propagation",
@@ -245,7 +245,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "Non\n",
     "Last edited (simplified)": "2020-05-14T23:24:52.000Z",
     "Last edited (experts say)": "2020-05-14T04:02:29.000Z",
-    "Last revision": "2020-07-13",
+    "Last modified": "2020-07-13",
     "Frequency of update": [
       "Monthly"
     ],
@@ -295,7 +295,7 @@
     "Item status": "Published",
     "Category": "Transmission",
     "Sub-category": "A propps de : transmission du COVID-19 pendant l'été",
-    "Source of question": [
+    "Source of the question": [
       "Organisation de fact-checking"
     ],
     "Country question was sourced from": [
@@ -306,7 +306,7 @@
     "Glossary Terms": [
       "recN1KGOfbDmvsGiU"
     ],
-    "Tags": [
+    "Topics": [
       "variabilité saisonnière",
       "infection"
     ],
@@ -318,7 +318,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "Non\n",
     "Last edited (simplified)": "2020-05-14T04:14:03.000Z",
     "Last edited (experts say)": "2020-05-14T04:17:28.000Z",
-    "Last revision": "2020-06-03",
+    "Last modified": "2020-06-03",
     "English Glossary": [
       "recDalYrz2m23kS2e"
     ],
@@ -357,7 +357,7 @@
     "Item status": "Published",
     "Category": "Traitement, Cure, Prévention",
     "Sub-category": "A propps de : COVID-19 & vitamine C",
-    "Source of question": [
+    "Source of the question": [
       "Réseaux Sociaux",
       "Salle de rédaction"
     ],
@@ -371,7 +371,7 @@
     "Glossary Terms": [
       "recCMLHJbe4MXCiEp"
     ],
-    "Tags": [
+    "Topics": [
       "Vitamin C"
     ],
     "Other resources": "1. Debunk of COVID-19 myths around the use of supplements ([Mayo Clinic][1]) \n2. Research paper: Vitamin C and the common cold ([NCBI][2])  \n3. Research paper: Vitamin C and the immune system ([NCBI][3]) \n4. General information about Vitamin C ([Mayo Clinic][4]) \n\n  [1]: https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/coronavirus-myths/art-20485720\n  [2]: https://www.ncbi.nlm.nih.gov/pubmed/23440782\n  [3]: https://www.ncbi.nlm.nih.gov/pubmed/29099763\n  [4]: https://www.mayoclinic.org/drugs-supplements-vitamin-c/art-20363932\n",
@@ -382,7 +382,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "Non\n",
     "Last edited (simplified)": "2020-05-14T04:27:03.000Z",
     "Last edited (experts say)": "2020-05-14T16:17:43.000Z",
-    "Last revision": "2020-07-13",
+    "Last modified": "2020-07-13",
     "English Glossary": [
       "recOMUWrX4F2d53iC"
     ],
@@ -422,7 +422,7 @@
     "Item status": "Published",
     "Category": "Transmission",
     "Sub-category": "A propps de : COVID-19 & transmission sexuelle",
-    "Source of question": [
+    "Source of the question": [
       "Réseaux Sociaux"
     ],
     "Country question was sourced from": [
@@ -434,7 +434,7 @@
     "Glossary Terms": [
       "recxD9dPlL1W8DCs2"
     ],
-    "Tags": [
+    "Topics": [
       "sperme",
       "transmission sexuelle",
       "MST",
@@ -448,7 +448,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "Non\n",
     "Last edited (simplified)": "2020-05-14T23:30:47.000Z",
     "Last edited (experts say)": "2020-05-14T23:31:43.000Z",
-    "Last revision": "2020-05-15",
+    "Last modified": "2020-05-15",
     "English Glossary": [
       "rec2UNEXbTkSCx30Q"
     ],
@@ -488,7 +488,7 @@
     "Item status": "Published",
     "Category": "Transmission",
     "Sub-category": "A propps de : COVID-19 & port de gants",
-    "Source of question": [
+    "Source of the question": [
       "Organisation de fact-checking"
     ],
     "Background & context": "Des gants stériles, lorsqu'ils sont portés et retirés correctement, peuvent être un élément utile pour se protéger contre les maladies infectieuses. Cependant, si une personne ne porte pas correctement ses gants, cela va à l'encontre de l'objectif visé. Il est important de se rappeler que tout germe avec lequel une personne entre en contact peut se trouver sur les gants d'une autre personne, et peut ensuite être transféré sur toute autre surface que les gants touchent. Cela peut également donner aux gens un faux sentiment de sécurité lorsqu'ils portent des gants, et peut amener les gens à toucher des surfaces et des objets plus librement, puis à se toucher le visage, ce qui peut entraîner une auto-contamination par le virus. Le port de gants n'est une protection efficace que si la personne qui les porte suit les bonnes méthodes de protection. Si elles ne sont pas suivies, cela peut entraîner une contamination par un virus. \n",
@@ -498,7 +498,7 @@
       "recHFrxN3qEXqWTDa",
       "recH0gr95OweWQ1ng"
     ],
-    "Tags": [
+    "Topics": [
       "goutelettes",
       "lavage des mains",
       "gants",
@@ -513,7 +513,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "Non\n",
     "Last edited (simplified)": "2020-05-17T00:07:24.000Z",
     "Last edited (experts say)": "2020-05-17T00:00:55.000Z",
-    "Last revision": "2020-05-28",
+    "Last modified": "2020-05-28",
     "English Glossary": [
       "recUAN8C73rkuPWX9",
       "rec5yviiSvJkufYvu",
@@ -556,7 +556,7 @@
     "Item status": "Published",
     "Category": "Prévention",
     "Sub-category": "A propps de : COVID-19 & exposition au soleil",
-    "Source of question": [
+    "Source of the question": [
       "Réseaux Sociaux",
       "Salle de rédaction"
     ],
@@ -569,7 +569,7 @@
     "Glossary Terms": [
       "reczZiLfjgDKGWXZp"
     ],
-    "Tags": [
+    "Topics": [
       "ultraviolet",
       "soleil",
       "UV"
@@ -582,7 +582,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "Non\n",
     "Last edited (simplified)": "2020-05-29T03:35:48.000Z",
     "Last edited (experts say)": "2020-05-29T03:10:18.000Z",
-    "Last revision": "2020-06-23",
+    "Last modified": "2020-06-23",
     "English Glossary": [
       "recjOgLIjiAbiBH5F"
     ],
@@ -621,7 +621,7 @@
     "Item status": "Published",
     "Category": "Traitement",
     "Sub-category": "A propps de : COVID-19 & vaccins",
-    "Source of question": [
+    "Source of the question": [
       "Réseaux Sociaux"
     ],
     "Country question was sourced from": [
@@ -633,7 +633,7 @@
       "recF5ZskHxC3iLoRg",
       "rec6TkHKY7sNXMmZV"
     ],
-    "Tags": [
+    "Topics": [
       "prévention",
       "vaccin"
     ],
@@ -645,7 +645,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "Non\n",
     "Last edited (simplified)": "2020-05-14T05:04:31.000Z",
     "Last edited (experts say)": "2020-05-14T05:05:28.000Z",
-    "Last revision": "2020-05-27",
+    "Last modified": "2020-05-27",
     "English Glossary": [
       "rec9SYUCp1ULDd0UL",
       "recUx8LCQGkRdxG3B"

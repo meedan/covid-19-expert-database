@@ -7,7 +7,7 @@
 {% elsif page.lang == 'fr' %}
     {% assign questions = site.data.covid19.questions-fr 
         | where: 'Item status', 'Published'
-        | sort: 'Dernière révision' 
+        | sort: 'Last modified' 
         | reverse
     %}
 {% elsif page.lang == 'hi' %}
