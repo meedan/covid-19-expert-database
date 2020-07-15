@@ -1,5 +1,186 @@
 [
   {
+    "id": "recLb3N3jf8NIqfhK",
+    "Question": "How effective is it to use only a face shield to protect from COVID-19?",
+    "Item status": "Published",
+    "Source of the question": [
+      "Social Media"
+    ],
+    "Country question was sourced from": [
+      "Nigeria"
+    ],
+    "Background & context": "Face shields are a type of personal protective equipment (PPE), along with masks, protective eye goggles, gloves, gowns, and other equipment. Proper use of PPE can help reduce the spread of COVID-19, yet some people are asking experts about minimum PPE recommendations. This may be due to access barriers (ex. cost, limited supply), use barriers (ex. heat, difficulty breathing, physical discomfort, aesthetics), cleaning and maintenance barriers, or other reasons. Face shields are easier to wear, disinfect, and reuse than cloth or surgical masks. It is important to remember that PPE is a risk reduction measure that lowers the chances of infection, which is different from risk avoidance measures (completely eliminating risks is not always possible, particularly when exposed to other people who could transmit COVID-19).\n",
+    "What our experts say": "Wearing only a face shield to protect from COVID-19 is not as effective as wearing a mask or wearing a face shield in combination with a mask. This is likely because masks reduce the number of respiratory droplets a person emits as their noses and mouths are covered on all sides. Face shields have the advantage of protecting the entire face, including the eyes, and often prevent people from touching their faces, but can cause more leakage. However, in the context of COVID-19, face shields cannot replace the use of face masks. Ideally, face shields should be used in combination with face masks. And if people can only do one or the other, then they should wear masks.\nIn the case of COVID-19 where many infected patients are asymptomatic or pre-symptomatic, the use of face masks is primarily recommended to ensure that infected patients do not spread the virus to others via respiratory droplets from their nose or mouth. There has not been sufficient research to fully understand how effective face shields alone prevent viral transmission from the person who wears it to surrounding individuals - a major benefit of surgical and cloth masks. For the most effective protection for one self and others, face shields are to be used in combination with a face mask.\n\n\n",
+    "Glossary Terms": [
+      "recuQuM83b2X3K9Bx"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "prevention",
+      "transmission",
+      "spread"
+    ],
+    "Other resources": "1. You're getting used to masks. Will you wear a face shield? ([NYT][1])\n\n  [1]: https://www.nytimes.com/2020/05/24/health/coronavirus-face-shields.html\n",
+    "Answer Assigned": [
+      {
+        "id": "usrd9fFFP3M4vtFx9",
+        "email": "nour@meedan.com",
+        "name": "Nour Sharara"
+      }
+    ],
+    "Context Assigned": [
+      {
+        "id": "usr7F6wgKz1f26438",
+        "email": "jahuang@mail.harvard.edu",
+        "name": "Jessica Huang"
+      }
+    ],
+    "Last edited (simplified)": "2020-07-01T01:07:44.000Z",
+    "Last edited (experts say)": "2020-07-09T19:33:27.000Z",
+    "Last modified": "2020-07-14"
+  },
+  {
+    "id": "recxA4c1KoE4AtNMa",
+    "Question": "What do we know so far about COVID-19 and alkalinity?",
+    "Item status": "Published",
+    "Source of the question": [
+      "Social Media"
+    ],
+    "Country question was sourced from": [
+      "USA"
+    ],
+    "Background & context": "In chemistry, _alkaline_ is an adjective that is sometimes used to describe a subset of bases that dissolve in water. Alkalinity, however, is a different term used by oceanographers and hydrologists to describe the capacity of water to resist pH changes that would make it more acidic, in contrast to basicity which refers to a measurement on the pH scale above 7. When food is described as alkaline, this is often based on misconceptions about the impacts of eating food on the pH of the body. Fluids associated with various organs and tissues in the body have different typical pH levels; for example, the stomach operates at an acidic pH for digestion. Eating food does not have a significant impact on blood pH as this is regulated by the body to stay relatively neutral (pH of 7.35 to 7.45).\n\nOne popular social media post incorrectly applies a research study about another type of coronavirus called mouse hepatitis type 4 (MHV4), and also lists food items with pH values that are inaccurate. For example, lemons are falsely listed to have a pH of 9.9 (the true pH is closer to 2-2.6) and avocados with a pH of 15.6 (the true pH is likely 6.27-6.58). For reference, the pH scale only goes from 0 to 14, and food products are generally within a pH range of about 2 to 8. **It is important to note that eating more alkaline food does not change the risk of COVID-19 infection or treat COVID-19.**\n",
+    "What our experts say": "Eating more acidic or alkaline foods is not related to an increased or decreased risk of COVID-19 infection. Widely circulated social media posts falsely suggest that the pH of COVID-19 ranges from 5.5 to 8.5. Often these posts advise readers to eat alkaline foods (specifically fruits and vegetables) with a pH of more than 8.5 to prevent COVID-19.  Viruses themselves do not have pH levels, because they are not water-based solutions. \n\nIn chemistry, pH (power of hydrogen, or potential for hydrogen) is a scale used for water-based solutions to indicate if they are acidic (pH below 7, with a lower pH indicating a stronger acid), neutral (pH around 7), or basic (pH above 7, with a higher indicating a stronger base). Since viruses are not water-based, the pH scale does not apply to the novel coronavirus SARS-CoV-2, the disease that causes COVID-19.\n\nWhile some illnesses or medications may cause blood pH levels to increase or decrease in our bodies, foods eaten as part of a regular diet do not have a significant impact on blood pH.  Saliva and urine pH may change in response to diet, but these changes are variable from person to person and** will not prevent or cure COVID-19.**\n\nThe posts in question seem to consistently refer to a 1991 paper in which another type of coronavirus, the coronavirus mouse hepatitis type 4 (MHV4), was studied in mouse or rat cells in a solution with a pH of 5.5 to 8.5.  Mice and rats are not the same as humans, and this study was not conducted in humans or on human cells. In addition, MHV4 is not the same as the SARS-Cov-2 virus that causes COVID-19, and this study was performed well before the SARS-Cov-2 was discovered in 2019.\n\nEating a well-balanced diet including a variety of fruits and vegetables can help support immune function which may help to prevent illness in general, but there is not enough evidence to suggest that a well-balanced diet would be effective in preventing or treating COVID-19.  \n",
+    "Glossary Terms": [
+      "recpN2xeifVcFx2Rq",
+      "recsuaXRvGHmDOp4A",
+      "recN0E4c0ZVOIyLJP",
+      "recRBN7gJLeGv6er4"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "prevention"
+    ],
+    "Other resources": "1. Approximate pH of Foods and Food Products, 2003 ([U.S. FDA Web Capture][1])\n2. pH Values of Common Foods and Ingredients ([Clemson][2])\n3. Complete Guide to Home Canning, Guide 1 Principles of Home Canning, 2015 ([USDA][3])\n4. Alteration of the pH Dependence of Coronavirus-Induced Cell Fusion: Effect of mutations in the Spike Glycoprotein, 1991 ([Journal of Virology][4])\n\n  [1]: https://webpal.org/SAFE/aaarecovery/2_food_storage/Processing/lacf-phs.htm\n  [2]: https://www.clemson.edu/extension/food/food2market/documents/ph_of_common_foods.pdf\n  [3]: https://nchfp.uga.edu/publications/usda/GUIDE01_HomeCan_rev0715.pdf\n  [4]: https://jvi.asm.org/content/jvi/65/4/1916.full.pdf\n",
+    "Answer Assigned": [
+      {
+        "id": "usroPZ4yKxHAs6odJ",
+        "email": "elarose@hsph.harvard.edu",
+        "name": "Emily LaRose"
+      }
+    ],
+    "Media": [
+      {
+        "id": "att6egsUEQxJa1qQm",
+        "url": "https://dl.airtable.com/.attachments/a2318aa93a51cc2210463497c442593a/db188ca2/Slide_1",
+        "filename": "Slide_1",
+        "size": 112813,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/00d7f7e752487b3b2f42a7ec5e45f294/0864aa17",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/586244f2ac087ff365233c207c2083b6/fa606615",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/4348423cc99372fc70ff162bc4778450/eb5744a7",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attrEqrve9yRZIqON",
+        "url": "https://dl.airtable.com/.attachments/13b2c2aed9f69ba43d8547b292b7d0cb/a3b114de/Slide_2",
+        "filename": "Slide_2",
+        "size": 263613,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/624e5c16f8704869d341729894dc1c58/f789d6ef",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7b4bd0b7c78acd24c639905b360a354b/61273a37",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/9f9788f537e95ab31d9049251a6bc4cf/2c593b67",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attJpp4SVhA427aWO",
+        "url": "https://dl.airtable.com/.attachments/b3d7196b5deb98870aca22c610a001b7/a8487234/Slide_3",
+        "filename": "Slide_3",
+        "size": 193749,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/164e90777daa3c8441bdb4974ff1125d/99e2e802",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f342edf1c0a62d14de7c7aaf1a3950d1/14d75ef8",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/975325df3b048f497bfffac0ce49d0df/feb8aa22",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "att80p3UZRP5Kq9Vz",
+        "url": "https://dl.airtable.com/.attachments/9e363eb02c68bfa927c29ce3afd02a8c/d21207f2/Slide_4",
+        "filename": "Slide_4",
+        "size": 253338,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/50340d26f1d461c99ae013a27e4bec5b/3901b5ee",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/71c7c4de0b6a1287450a5a56983f25dc/8e0b98b4",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/85b5c1f2f572d6719eff12da48ef295c/b57f915e",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "Context Assigned": [
+      {
+        "id": "usr7F6wgKz1f26438",
+        "email": "jahuang@mail.harvard.edu",
+        "name": "Jessica Huang"
+      }
+    ],
+    "Last edited (simplified)": "2020-07-01T18:12:13.000Z",
+    "Last edited (experts say)": "2020-07-01T20:14:54.000Z",
+    "Last modified": "2020-07-14"
+  },
+  {
     "id": "recq1zzyVh3GSLrhz",
     "Question": "What short- and long-term effects does COVID-19 have on other body parts, including lungs, brain and kidney?",
     "Item status": "Published",
@@ -956,146 +1137,6 @@
     "Last modified": "2020-07-10"
   },
   {
-    "id": "recxA4c1KoE4AtNMa",
-    "Question": "What do we know so far about COVID-19 and alkalinity?",
-    "Item status": "Published",
-    "Source of the question": [
-      "Social Media"
-    ],
-    "Country question was sourced from": [
-      "USA"
-    ],
-    "Background & context": "In chemistry, _alkaline_ is an adjective that is sometimes used to describe a subset of bases that dissolve in water. Alkalinity, however, is a different term used by oceanographers and hydrologists to describe the capacity of water to resist pH changes that would make it more acidic, in contrast to basicity which refers to a measurement on the pH scale above 7. When food is described as alkaline, this is often based on misconceptions about the impacts of eating food on the pH of the body. Fluids associated with various organs and tissues in the body have different typical pH levels; for example, the stomach operates at an acidic pH for digestion. Eating food does not have a significant impact on blood pH as this is regulated by the body to stay relatively neutral (pH of 7.35 to 7.45).\n\nOne popular social media post incorrectly applies a research study about another type of coronavirus called mouse hepatitis type 4 (MHV4), and also lists food items with pH values that are inaccurate. For example, lemons are falsely listed to have a pH of 9.9 (the true pH is closer to 2-2.6) and avocados with a pH of 15.6 (the true pH is likely 6.27-6.58). For reference, the pH scale only goes from 0 to 14, and food products are generally within a pH range of about 2 to 8. **It is important to note that eating more alkaline food does not change the risk of COVID-19 infection or treat COVID-19.**\n",
-    "What our experts say": "Eating more acidic or alkaline foods is not related to an increased or decreased risk of COVID-19 infection. Widely circulated social media posts falsely suggest that the pH of COVID-19 ranges from 5.5 to 8.5. Often these posts advise readers to eat alkaline foods (specifically fruits and vegetables) with a pH of more than 8.5 to prevent COVID-19.  Viruses themselves do not have pH levels, because they are not water-based solutions. \n\nIn chemistry, pH (power of hydrogen, or potential for hydrogen) is a scale used for water-based solutions to indicate if they are acidic (pH below 7, with a lower pH indicating a stronger acid), neutral (pH around 7), or basic (pH above 7, with a higher indicating a stronger base). Since viruses are not water-based, the pH scale does not apply to the novel coronavirus SARS-CoV-2, the disease that causes COVID-19.\n\nWhile some illnesses or medications may cause blood pH levels to increase or decrease in our bodies, foods eaten as part of a regular diet do not have a significant impact on blood pH.  Saliva and urine pH may change in response to diet, but these changes are variable from person to person and** will not prevent or cure COVID-19.**\n\nThe posts in question seem to consistently refer to a 1991 paper in which another type of coronavirus, the coronavirus mouse hepatitis type 4 (MHV4), was studied in mouse or rat cells in a solution with a pH of 5.5 to 8.5.  Mice and rats are not the same as humans, and this study was not conducted in humans or on human cells. In addition, MHV4 is not the same as the SARS-Cov-2 virus that causes COVID-19, and this study was performed well before the SARS-Cov-2 was discovered in 2019.\n\nEating a well-balanced diet including a variety of fruits and vegetables can help support immune function which may help to prevent illness in general, but there is not enough evidence to suggest that a well-balanced diet would be effective in preventing or treating COVID-19.  \n",
-    "Glossary Terms": [
-      "recpN2xeifVcFx2Rq",
-      "recsuaXRvGHmDOp4A",
-      "recN0E4c0ZVOIyLJP",
-      "recRBN7gJLeGv6er4"
-    ],
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "prevention"
-    ],
-    "Other resources": "1. Approximate pH of Foods and Food Products, 2003 ([U.S. FDA Web Capture][1])\n2. pH Values of Common Foods and Ingredients ([Clemson][2])\n3. Complete Guide to Home Canning, Guide 1 Principles of Home Canning, 2015 ([USDA][3])\n4. Alteration of the pH Dependence of Coronavirus-Induced Cell Fusion: Effect of mutations in the Spike Glycoprotein, 1991 ([Journal of Virology][4])\n\n  [1]: https://webpal.org/SAFE/aaarecovery/2_food_storage/Processing/lacf-phs.htm\n  [2]: https://www.clemson.edu/extension/food/food2market/documents/ph_of_common_foods.pdf\n  [3]: https://nchfp.uga.edu/publications/usda/GUIDE01_HomeCan_rev0715.pdf\n  [4]: https://jvi.asm.org/content/jvi/65/4/1916.full.pdf\n",
-    "Answer Assigned": [
-      {
-        "id": "usroPZ4yKxHAs6odJ",
-        "email": "elarose@hsph.harvard.edu",
-        "name": "Emily LaRose"
-      }
-    ],
-    "Media": [
-      {
-        "id": "att6egsUEQxJa1qQm",
-        "url": "https://dl.airtable.com/.attachments/a2318aa93a51cc2210463497c442593a/db188ca2/Slide_1",
-        "filename": "Slide_1",
-        "size": 112813,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/00d7f7e752487b3b2f42a7ec5e45f294/0864aa17",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/586244f2ac087ff365233c207c2083b6/fa606615",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/4348423cc99372fc70ff162bc4778450/eb5744a7",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "attrEqrve9yRZIqON",
-        "url": "https://dl.airtable.com/.attachments/13b2c2aed9f69ba43d8547b292b7d0cb/a3b114de/Slide_2",
-        "filename": "Slide_2",
-        "size": 263613,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/624e5c16f8704869d341729894dc1c58/f789d6ef",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/7b4bd0b7c78acd24c639905b360a354b/61273a37",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/9f9788f537e95ab31d9049251a6bc4cf/2c593b67",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "attJpp4SVhA427aWO",
-        "url": "https://dl.airtable.com/.attachments/b3d7196b5deb98870aca22c610a001b7/a8487234/Slide_3",
-        "filename": "Slide_3",
-        "size": 193749,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/164e90777daa3c8441bdb4974ff1125d/99e2e802",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/f342edf1c0a62d14de7c7aaf1a3950d1/14d75ef8",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/975325df3b048f497bfffac0ce49d0df/feb8aa22",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "att80p3UZRP5Kq9Vz",
-        "url": "https://dl.airtable.com/.attachments/9e363eb02c68bfa927c29ce3afd02a8c/d21207f2/Slide_4",
-        "filename": "Slide_4",
-        "size": 253338,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/50340d26f1d461c99ae013a27e4bec5b/3901b5ee",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/71c7c4de0b6a1287450a5a56983f25dc/8e0b98b4",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/85b5c1f2f572d6719eff12da48ef295c/b57f915e",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ],
-    "Context Assigned": [
-      {
-        "id": "usr7F6wgKz1f26438",
-        "email": "jahuang@mail.harvard.edu",
-        "name": "Jessica Huang"
-      }
-    ],
-    "Last edited (simplified)": "2020-07-01T18:12:13.000Z",
-    "Last edited (experts say)": "2020-07-01T20:14:54.000Z",
-    "Last modified": "2020-07-10"
-  },
-  {
     "id": "recUpmaDPvAJXmrvJ",
     "Question": "Why are Brazil's cases surging right now?",
     "Item status": "Published",
@@ -1698,47 +1739,6 @@
     ],
     "Last edited (simplified)": "2020-07-09T20:59:49.000Z",
     "Last edited (experts say)": "2020-07-09T20:58:41.000Z",
-    "Last modified": "2020-07-09"
-  },
-  {
-    "id": "recLb3N3jf8NIqfhK",
-    "Question": "How effective is it to use only a face shield to protect from COVID-19?",
-    "Item status": "Published",
-    "Source of the question": [
-      "Social Media"
-    ],
-    "Country question was sourced from": [
-      "Nigeria"
-    ],
-    "Background & context": "Face shields are a type of personal protective equipment (PPE), along with masks, protective eye goggles, gloves, gowns, and other equipment. Proper use of PPE can help reduce the spread of COVID-19, yet some people are asking experts about minimum PPE recommendations. This may be due to access barriers (ex. cost, limited supply), use barriers (ex. heat, difficulty breathing, physical discomfort, aesthetics), cleaning and maintenance barriers, or other reasons. Face shields are easier to wear, disinfect, and reuse than cloth or surgical masks. It is important to remember that PPE is a risk reduction measure that lowers the chances of infection, which is different from risk avoidance measures (completely eliminating risks is not always possible, particularly when exposed to other people who could transmit COVID-19).\n",
-    "What our experts say": "Wearing only a face shield to protect from COVID-19 is not as effective as wearing a mask or wearing a face shield in combination with a mask. This is likely because masks reduce the number of respiratory droplets a person emits as their noses and mouths are covered on all sides. Face shields have the advantage of protecting the entire face, including the eyes, and often prevent people from touching their faces, but can cause more leakage. However, in the context of COVID-19, face shields cannot replace the use of face masks. Ideally, face shields should be used in combination with face masks. And if people can only do one or the other, then they should wear masks.\nIn the case of COVID-19 where many infected patients are asymptomatic or pre-symptomatic, the use of face masks is primarily recommended to ensure that infected patients do not spread the virus to others via respiratory droplets from their nose or mouth. There has not been sufficient research to fully understand how effective face shields alone prevent viral transmission from the person who wears it to surrounding individuals - a major benefit of surgical and cloth masks. For the most effective protection for one self and others, face shields are to be used in combination with a face mask.\n\n\n",
-    "Glossary Terms": [
-      "recuQuM83b2X3K9Bx"
-    ],
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "prevention",
-      "transmission",
-      "spread"
-    ],
-    "Other resources": "1. You're getting used to masks. Will you wear a face shield? ([NYT][1])\n\n  [1]: https://www.nytimes.com/2020/05/24/health/coronavirus-face-shields.html\n",
-    "Answer Assigned": [
-      {
-        "id": "usrd9fFFP3M4vtFx9",
-        "email": "nour@meedan.com",
-        "name": "Nour Sharara"
-      }
-    ],
-    "Context Assigned": [
-      {
-        "id": "usr7F6wgKz1f26438",
-        "email": "jahuang@mail.harvard.edu",
-        "name": "Jessica Huang"
-      }
-    ],
-    "Last edited (simplified)": "2020-07-01T01:07:44.000Z",
-    "Last edited (experts say)": "2020-07-09T19:33:27.000Z",
     "Last modified": "2020-07-09"
   },
   {
