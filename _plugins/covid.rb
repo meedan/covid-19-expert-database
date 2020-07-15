@@ -8,9 +8,9 @@ module Jekyll
       terms = term_ids
         .collect{ |id|
           [
-            Jekyll.sites[0].data['covid19']['glossary-en'].select{ |t| t['id'] == id },
-            Jekyll.sites[0].data['covid19']['glossary-fr'].select{ |t| t['id'] == id },
-            Jekyll.sites[0].data['covid19']['glossary-hi'].select{ |t| t['id'] == id }
+            Jekyll.sites[0].data['covid19']['glossary-en'].select{ |t| t['id'] == id }.collect{ |t| t.merge({ 'path' => '' }) },
+            Jekyll.sites[0].data['covid19']['glossary-fr'].select{ |t| t['id'] == id }.collect{ |t| t.merge({ 'path' => '/fr' }) },
+            Jekyll.sites[0].data['covid19']['glossary-hi'].select{ |t| t['id'] == id }.collect{ |t| t.merge({ 'path' => '/hi' }) }
           ]
         }
         .flatten
@@ -27,7 +27,7 @@ module Jekyll
         replacement = <<~GLOSSARY
           <a
             data-tippy-content="<h6>#{t['Term']}</h6>#{definition}"
-            href="/glossary/##{t['id']}"
+            href="#{t['path']}/glossary/##{t['id']}"
             class="glossary-term"
           >#{t['Term']}</a>
         GLOSSARY
