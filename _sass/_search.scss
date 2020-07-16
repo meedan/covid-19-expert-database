@@ -1,0 +1,62 @@
+.ais-search-box {
+    max-width: 100%;
+    margin-bottom: 15px;
+}
+
+li.ais-Hits-item ::marker {
+    display: none;
+}
+
+.ais-Hits-item .question-wrapper {
+    background-color: rgba(#efefef, 0.38);
+    padding-top: var(--space-1);
+    padding-bottom: var(--space-1);
+    .question {
+        font-size: 1.333rem;
+        line-height: 1.778rem;
+    }
+    .experts-say,
+    .category,
+    .last-modified {
+        font-size: 0.889rem;
+        line-height: 1.056rem;
+        color: var(--gray);
+    }
+    .category {
+        line-height: 1.5rem;
+    }
+    .with-media-preview {
+        display: flex;
+    }
+    .media-preview {
+        display: flex;
+        max-height: 4.111rem;
+        padding-left: 0.2rem;
+    }
+    .media-preview span {
+        flex: 1 0 auto;
+    }
+    .media-preview img {
+        max-width: 4.111rem;
+    }
+    .media-preview-count {
+        display: flex;
+        align-items: center;
+        background-color: rgba(#C4C4C4, 0.24);
+        padding-left: 0.2rem;
+        padding-right: 0.2rem;
+    }
+    &:hover {
+        
+        background-color: rgba(#efefef, 0.68);
+        border-left: 2px solid var(--edbGreen);
+        color: var(--edbGreen);
+        
+    }
+    &:visited {
+        
+            border-left: 2px solid var(--lightGray);
+            color: var(--gray);
+        
+    }
+}

@@ -26,6 +26,8 @@
             description = hit.body;
         }
 
+        let last_modified = hit.date;
+
         let breadcrumbs = '';
         if (hit._highlightResult.headings) {
             breadcrumbs = hit._highlightResult.headings.map(match => {
@@ -36,6 +38,15 @@
             <a href="${url}" title="${title}" class="question-wrapper">
                 <div class="question">
                     ${title}
+                </div>
+                <div class="experts-say">
+                    ${description}
+                </div>
+                <div class="category">
+
+                </div>
+                <div class="last-modified">
+                    ${last_modified}
                 </div>
             </a>
         `;
