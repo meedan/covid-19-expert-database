@@ -56,10 +56,11 @@
     search.addWidgets([
         instantsearch.widgets.searchBox({
             container: '#search-searchbar',
+            placeholder: 'What are you looking for?'
         }),
-        instantsearch.widgets.clearRefinements({
-            container: '#clear-refinements',
-        }),
+        // instantsearch.widgets.clearRefinements({
+        //     container: '#clear-refinements',
+        // }),
         instantsearch.widgets.refinementList({
             container: '#filters-categories',
             attribute: 'topics',
