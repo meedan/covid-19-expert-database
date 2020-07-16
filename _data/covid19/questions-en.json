@@ -1,5 +1,120 @@
 [
   {
+    "id": "recrralIEXZlkGqd5",
+    "Question": "How easily does COVID-19 spread from contaminated surfaces or animals?",
+    "Item status": "Published",
+    "Category": "Transmission",
+    "Subcategory": "On: COVID-19 & contaminated surfaces",
+    "Source of the question": [
+      "Social Media"
+    ],
+    "Country question was sourced from": [
+      "USA"
+    ],
+    "Background & context": "The public health community is continually learning about how the novel coronavirus spreads and what transmission routes are most conducive to its spread. Because of this continual learning in the public health community, there has been confusion in the public around how easily SARS-CoV-2 spreads and through which routes. This confusion is particularly centered around the amount of virus spread through surface transmission and airborne transmission, as person-to-person spread is the most well understood form of transmission as well as the main transmission route for the novel coronavirus. A large peak of confusion about transmission stemmed from edits made to the U.S. CDC page on how COVID-19 spreads, which some thought downplayed warning of surface transmission (the page has since been updated). \n\nSuch confusion has led to debate around the need to wipe down groceries, wear gloves, avoid petting neighborhood animals, and other steps to mitigate surface transmission. Though surface transmission is not thought to be the main way SARS-CoV-2 spreads, it is still a risk and should be responded to with precaution. One way to think about it is that virus spread from person-to-person is direct transmission, whereas virus stemming from a surface requires two intermediaries: 1) touching the virus on a surface, and then right after 2) touching your eyes, nose, or mouth. One is more direct and therefore more common, but both require caution.\n\n\n",
+    "What our experts say": "The U.S. Centers for Disease Control clarified that the virus that causes COVID-19 primarily spreads through close, person-to-person contact and travels through respiratory droplets that are produced when a person coughs, sneezes, or talks. The risk of contracting the virus from animals and pets is also considered to be low. While it is still possible to contract the virus from contaminated surfaces that may have been touched by someone who was infected, this is not a very common mode of transmission. However, this does not mean there is zero risk of transmission from touching contaminated surfaces. One study found that the virus can remain on surfaces like plastic and steel for 48-72 hours, and for up to 24 hours on cardboard. If a person touches a contaminated surface with traces of the virus and then proceeds to touch their eyes, nose, or mouth, they could still become infected if the surface contains large amounts of the virus. Since there is still a potential risk of transmission from touching contaminated surfaces, frequent hand washing with soap and water for 20 seconds is a great way to mitigate this risk, and a commonly recommended practice to avoid other respiratory infections in the process. \n",
+    "Glossary Terms": [
+      "rec5yviiSvJkufYvu"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\t\n",
+    "Topics": [
+      "contaminated",
+      "surface",
+      "animal",
+      "transmission"
+    ],
+    "Other resources": "1. COVID‑19 Strategy Update 14 April 2020 ([WHO][1])\n2. General Business Frequently Asked Questions ([U.S. CDC][2]) \n3. What’s the Risk of Catching Coronavirus From a Surface? ([NYT][3])\n4. How COVID-19 Spreads ([CDC][4])\n\n  [1]: https://www.who.int/docs/default-source/coronaviruse/covid-strategy-update-14april2020.pdf?sfvrsn=29da3ba0_19\n  [2]: https://www.cdc.gov/coronavirus/2019-ncov/community/general-business-faq.html#Reducing-the-Spread-of-COVID-19-in-Workplaces\n  [3]: https://www.nytimes.com/2020/05/28/well/live/whats-the-risk-of-catching-coronavirus-from-a-surface.html\n  [4]: https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-covid-spreads.html\n",
+    "Answer Assigned": [
+      {
+        "id": "usraKwS6t1i6IMrwY",
+        "email": "mmn452@mail.harvard.edu",
+        "name": "Mohit Nair"
+      }
+    ],
+    "Context Assigned": [
+      {
+        "id": "usryJw3d1ZhlxblnO",
+        "email": "jenna@meedan.com",
+        "name": "Jenna Sherman"
+      }
+    ],
+    "Last edited (simplified)": "2020-07-16T22:21:54.000Z",
+    "Last edited (experts say)": "2020-07-07T20:46:25.000Z",
+    "Last modified": "2020-07-16"
+  },
+  {
+    "id": "recqFRWiE9Y6nbUM5",
+    "Question": "What are the origins of the virus?",
+    "Item status": "Published",
+    "Category": "Origin",
+    "Subcategory": "On: The origin of COVID-19 ",
+    "Source of the question": [
+      "Social Media"
+    ],
+    "Country question was sourced from": [
+      "India",
+      "Kenya",
+      "USA"
+    ],
+    "Background & context": "Coronaviruses are a group of viruses that can cause a variety of different illnesses, but primarily upper-respiratory tract illnesses in humans. These illnesses include the common cold, severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS). Some viruses can originate in animals and later infect humans, and this can happen in a number of different ways, including: by eating meat or produce that has been contaminated by the virus, through the air or by touching a surface that was touched by an infected animal, through close contact with an infected animal, or through insect bites. Not all viruses transfer from animals to humans in all of these ways, it depends on the virus. The resources section contains more information about this. \n\n",
+    "What our experts say": "COVID-19 was first detected in the city of Wuhan, China in late 2019. The virus has since been partially traced back to a large seafood and animal market in the city of Wuhan, after several people who had been to the market became sick with the illness we now know as COVID-19. Scientists were able to use genetic tests to confirm that the virus was first identified in people and environmental samples in the city of Wuhan. Tests on the genetics of viruses, much like genetics in humans, can reveal a lot about their origins. When these genetic tests were done on the COVID-19 virus' genes, it revealed that the virus originated in an infected animal and mutated when that animal transferred the virus to a human, likely in the city of Wuhan. The details about that event, which is called a zoonotic transfer, are still being investigated.\n\nUPDATED: July 16, 2020: The majority of scientific studies now support the idea that the origin of the virus in animals was bats, specifically horseshoe bats, potentially from China or the neighboring countries of Myanmar, Laos and Vietnam. Scientists also suggest that the virus may have been passed to humans through an intermediate host before spreading to humans, but are unsure about what animal the host might have been, though pangolins and civets have been suggested. A potential combination between bats and pangolins as the  viral origin has also been noted. World Health Organization experts will soon travel to China and work with Chinese health officials to identify the source of the virus.\n\n\n",
+    "Glossary Terms": [
+      "recbQ95pvRq7nP9s3",
+      "recFSOdDjQBqJHnZ9"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "origin",
+      "bats",
+      "Wuhan",
+      "China"
+    ],
+    "Other resources": "1. Viral and host factors related to the clinical outcome of COVID-19 ([Nature][1])\n2. Genomic Study Points to Natural Origin of COVID-19 ([NIH][2]) \n3. Zoonotic diseases ([U.S. CDC][3]) \n4. Update and Interim Guidance on Outbreak of 2019 Novel Coronavirus (2019-nCoV) in Wuhan, China ([U.S. CDC][4]) \n5. Coronavirus Disease 2019 (COVID-19) ([U.S. CDC][5]) \n6. COVID-19: a novel zoonotic disease caused by a coronavirus from China: what we know and what we don’t ([NCBI][6])\n7. Six months of coronavirus: the mysteries scientists are still racing to solve ([Nature][7]) \n8. The biggest mystery: what it will take to trace the coronavirus source ([Nature][8]) \n9. Emergence of SARS-CoV-2 through recombination and strong purifying selection ([Science Advances][9]) \n10. WHO experts to travel to China ([WHO][10]) \n\n  [1]: https://www.nature.com/articles/s41586-020-2355-0\n  [2]: https://directorsblog.nih.gov/2020/03/26/genomic-research-points-to-natural-origin-of-covid-19/\n  [3]: https://www.cdc.gov/onehealth/basics/zoonotic-diseases.html\n  [4]: https://emergency.cdc.gov/han/han00426.asp\n  [5]: https://www.cdc.gov/media/dpk/diseases-and-conditions/coronavirus/coronavirus-2020.html\n  [6]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7086482/#R1\n  [7]: https://www.nature.com/articles/d41586-020-01989-z\n  [8]: https://www.nature.com/articles/d41586-020-01541-z\n  [9]: https://advances.sciencemag.org/content/6/27/eabb9153\n  [10]: https://www.who.int/news-room/detail/07-07-2020-who-experts-to-travel-to-china\n",
+    "How often revision needed": "Monthly",
+    "Expert Database (French)": [
+      "recbjW2CdPdJHM0wE"
+    ],
+    "Expert Database (Hindi)": [
+      "recI45JBg4AUfgdUv"
+    ],
+    "Editorial notes:": "\n",
+    "Last edited (simplified)": "2020-05-27T22:06:20.000Z",
+    "Last edited (experts say)": "2020-07-16T21:30:01.000Z",
+    "Last modified": "2020-07-16"
+  },
+  {
+    "id": "recjs5QXivxuhSxx4",
+    "Question": "Why should we all be wearing masks?",
+    "Item status": "Published",
+    "Background & context": "Masks are a type of personal protective equipment (PPE), along with face shields, protective eye goggles, gloves, gowns, and other equipment. Proper use of PPE can help reduce the spread of COVID-19. Wearing PPE is a risk reduction measure, not a risk avoidance measure, so masks can help lower (but not completely eliminate) the chances of getting infected or infecting someone else. Maintaining hygiene, physical distancing, and other measures are still recommended.\n",
+    "What our experts say": "In combination with hand washing and social distancing measures, it is important to wear masks to prevent the spread of COVID-19 because the virus spreads primarily through respiratory droplets released when people speak, cough, sneeze or sing. Some infected people may not appear ill or may develop symptoms at a later time, but they can still spread the virus without symptoms. Masks prevent people from spreading the virus to others, especially when we can't be 6 ft / 2m apart. Cloth masks primarily protect people in close proximity to the person wearing the mask by trapping droplets that are released from the wearer. Cloth masks can also protect the wearer by filtering out some virus particles trying to enter. \nMedical masks (N95 or FFP2) filter virus particles from entering more effectively than cloth masks and are designed to protect the wearer. Supplies of those are limited and generally reserved for doctors.\n\n",
+    "Glossary Terms": [
+      "recuQuM83b2X3K9Bx"
+    ],
+    "Other resources": "1. CDC calls on Americans to wear masks to prevent COVID-19 spread ([U.S. CDC][1])\n2. The growing scientific evidence for masks to fight Covid-19 ([Vox][2])\n3. Q&A: Masks and COVID-19 ([WHO][3])\n4. Considerations for Wearing Cloth Face Coverings ([US CDC][4])\n5. Why scientists say wearing masks shouldn't be controversial ([Science News][5])\n6. Physical distancing, face masks, and eye protection to prevent person-to-person transmission of SARS-CoV-2 and COVID-19: a systematic review and meta-analysis, 2020 ([Lancet][6])\n\n\n\n  [1]: https://www.cdc.gov/media/releases/2020/p0714-americans-to-wear-masks.html?utm_source=Global+Health+NOW+Main+List&utm_campaign=ba35be8398-EMAIL_CAMPAIGN_2020_07_14_03_18&utm_medium=email&utm_term=0_8d0d062dbd-ba35be8398-860399\n  [2]: https://www.vox.com/future-perfect/21299527/masks-coronavirus-covid-19-studies-research-evidence\n  [3]: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-on-covid-19-and-masks\n  [4]: https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover-guidance.html\n  [5]: https://www.sciencenews.org/article/covid-19-coronavirus-why-wearing-masks-controversial\n  [6]: https://www.thelancet.com/action/showPdf?pii=S0140-6736(20)31142-9\n",
+    "Answer Assigned": [
+      {
+        "id": "usroPZ4yKxHAs6odJ",
+        "email": "elarose@hsph.harvard.edu",
+        "name": "Emily LaRose"
+      }
+    ],
+    "Context Assigned": [
+      {
+        "id": "usr7F6wgKz1f26438",
+        "email": "jahuang@mail.harvard.edu",
+        "name": "Jessica Huang"
+      }
+    ],
+    "Last edited (simplified)": "2020-07-15T01:01:15.000Z",
+    "Last edited (experts say)": "2020-07-16T04:05:03.000Z",
+    "Last modified": "2020-07-16",
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n"
+  },
+  {
     "id": "rechQWZ1ctlJ81Vxn",
     "Question": "What does the scientific literature say about using hydroxychloroquine to prevent, treat or cure COVID-19?",
     "Item status": "Published",
@@ -77,34 +192,6 @@
     ],
     "Last edited (simplified)": "2020-07-01T01:07:44.000Z",
     "Last edited (experts say)": "2020-07-16T04:07:45.000Z",
-    "Last modified": "2020-07-16"
-  },
-  {
-    "id": "recjs5QXivxuhSxx4",
-    "Question": "Why should we all be wearing masks?",
-    "Item status": "Published",
-    "Background & context": "Masks are a type of personal protective equipment (PPE), along with face shields, protective eye goggles, gloves, gowns, and other equipment. Proper use of PPE can help reduce the spread of COVID-19. Wearing PPE is a risk reduction measure, not a risk avoidance measure, so masks can help lower (but not completely eliminate) the chances of getting infected or infecting someone else. Maintaining hygiene, physical distancing, and other measures are still recommended.\n",
-    "What our experts say": "In combination with hand washing and social distancing measures, it is important to wear masks to prevent the spread of COVID-19 because the virus spreads primarily through respiratory droplets released when people speak, cough, sneeze or sing. Some infected people may not appear ill or may develop symptoms at a later time, but they can still spread the virus without symptoms. Masks prevent people from spreading the virus to others, especially when we can't be 6 ft / 2m apart. Cloth masks primarily protect people in close proximity to the person wearing the mask by trapping droplets that are released from the wearer. Cloth masks can also protect the wearer by filtering out some virus particles trying to enter. \nMedical masks (N95 or FFP2) filter virus particles from entering more effectively than cloth masks and are designed to protect the wearer. Supplies of those are limited and generally reserved for doctors.\n\n",
-    "Glossary Terms": [
-      "recuQuM83b2X3K9Bx"
-    ],
-    "Other resources": "1. CDC calls on Americans to wear masks to prevent COVID-19 spread ([U.S. CDC][1])\n2. The growing scientific evidence for masks to fight Covid-19 ([Vox][2])\n3. Q&A: Masks and COVID-19 ([WHO][3])\n4. Considerations for Wearing Cloth Face Coverings ([US CDC][4])\n5. Why scientists say wearing masks shouldn't be controversial ([Science News][5])\n6. Physical distancing, face masks, and eye protection to prevent person-to-person transmission of SARS-CoV-2 and COVID-19: a systematic review and meta-analysis, 2020 ([Lancet][6])\n\n\n\n  [1]: https://www.cdc.gov/media/releases/2020/p0714-americans-to-wear-masks.html?utm_source=Global+Health+NOW+Main+List&utm_campaign=ba35be8398-EMAIL_CAMPAIGN_2020_07_14_03_18&utm_medium=email&utm_term=0_8d0d062dbd-ba35be8398-860399\n  [2]: https://www.vox.com/future-perfect/21299527/masks-coronavirus-covid-19-studies-research-evidence\n  [3]: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-on-covid-19-and-masks\n  [4]: https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover-guidance.html\n  [5]: https://www.sciencenews.org/article/covid-19-coronavirus-why-wearing-masks-controversial\n  [6]: https://www.thelancet.com/action/showPdf?pii=S0140-6736(20)31142-9\n",
-    "Answer Assigned": [
-      {
-        "id": "usroPZ4yKxHAs6odJ",
-        "email": "elarose@hsph.harvard.edu",
-        "name": "Emily LaRose"
-      }
-    ],
-    "Context Assigned": [
-      {
-        "id": "usr7F6wgKz1f26438",
-        "email": "jahuang@mail.harvard.edu",
-        "name": "Jessica Huang"
-      }
-    ],
-    "Last edited (simplified)": "2020-07-15T01:01:15.000Z",
-    "Last edited (experts say)": "2020-07-16T04:05:03.000Z",
     "Last modified": "2020-07-16"
   },
   {
@@ -847,47 +934,6 @@
     ],
     "Last edited (simplified)": "2020-06-26T14:55:20.000Z",
     "Last edited (experts say)": "2020-07-14T06:51:30.000Z",
-    "Last modified": "2020-07-14"
-  },
-  {
-    "id": "recqFRWiE9Y6nbUM5",
-    "Question": "What are the origins of the virus?",
-    "Item status": "Published",
-    "Category": "Origin",
-    "Subcategory": "On: The origin of COVID-19 ",
-    "Source of the question": [
-      "Social Media"
-    ],
-    "Country question was sourced from": [
-      "India",
-      "Kenya",
-      "USA"
-    ],
-    "Background & context": "Coronaviruses are a group of viruses that can cause a variety of different illnesses, but primarily upper-respiratory tract illnesses in humans. These illnesses include the common cold, severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS). Some viruses can originate in animals and later infect humans, and this can happen in a number of different ways, including: by eating meat or produce that has been contaminated by the virus, through the air or by touching a surface that was touched by an infected animal, through close contact with an infected animal, or through insect bites. Not all viruses transfer from animals to humans in all of these ways, it depends on the virus. The resources section contains more information about this. \n\n",
-    "What our experts say": "COVID-19 was first detected in the city of Wuhan, China in late 2019. The virus has since been partially traced back to a large seafood and animal market in the city of Wuhan, after several people who had been to the market became sick with the illness we now know as COVID-19. Scientists were able to use genetic tests to confirm that the virus was first identified in people and environmental samples in the city of Wuhan. Tests on the genetics of viruses, much like genetics in humans, can reveal a lot about their origins. When these genetic tests were done on the COVID-19 virus' genes, it revealed that the virus originated in an infected animal and mutated when that animal transferred the virus to a human, likely in the city of Wuhan. The details about that event, which is called a zoonotic transfer, are still being investigated.\n\n\n",
-    "Glossary Terms": [
-      "recbQ95pvRq7nP9s3",
-      "recFSOdDjQBqJHnZ9"
-    ],
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "origin",
-      "bats",
-      "Wuhan",
-      "China"
-    ],
-    "Other resources": "1. Viral and host factors related to the clinical outcome of COVID-19 ([Nature][1])\n2. Genomic Study Points to Natural Origin of COVID-19 ([NIH][2]) \n3. Zoonotic diseases ([U.S. CDC][3]) \n4. Update and Interim Guidance on Outbreak of 2019 Novel Coronavirus (2019-nCoV) in Wuhan, China ([U.S. CDC][4]) \n5. Coronavirus Disease 2019 (COVID-19) ([U.S. CDC][5]) \n6. COVID-19: a novel zoonotic disease caused by a coronavirus from China: what we know and what we don’t ([NCBI][6])\n\n  [1]: https://www.nature.com/articles/s41586-020-2355-0\n  [2]: https://directorsblog.nih.gov/2020/03/26/genomic-research-points-to-natural-origin-of-covid-19/\n  [3]: https://www.cdc.gov/onehealth/basics/zoonotic-diseases.html\n  [4]: https://emergency.cdc.gov/han/han00426.asp\n  [5]: https://www.cdc.gov/media/dpk/diseases-and-conditions/coronavirus/coronavirus-2020.html\n  [6]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7086482/#R1\n",
-    "How often revision needed": "Monthly",
-    "Expert Database (French)": [
-      "recbjW2CdPdJHM0wE"
-    ],
-    "Expert Database (Hindi)": [
-      "recI45JBg4AUfgdUv"
-    ],
-    "Editorial notes:": "\n",
-    "Last edited (simplified)": "2020-05-27T22:06:20.000Z",
-    "Last edited (experts say)": "2020-07-14T06:17:59.000Z",
     "Last modified": "2020-07-14"
   },
   {
@@ -2199,50 +2245,6 @@
     ],
     "Last edited (simplified)": "2020-07-06T20:37:14.000Z",
     "Last edited (experts say)": "2020-07-06T20:10:59.000Z",
-    "Last modified": "2020-07-08"
-  },
-  {
-    "id": "recrralIEXZlkGqd5",
-    "Question": "How easily does COVID-19 spread from contaminated surfaces or animals?",
-    "Item status": "Published",
-    "Category": "Transmission",
-    "Subcategory": "On: COVID-19 & contaminated surfaces",
-    "Source of the question": [
-      "Social Media"
-    ],
-    "Country question was sourced from": [
-      "USA"
-    ],
-    "Background & context": "The public health community is continually learning about how the novel coronavirus spreads and what transmission routes are most conducive to its spread. Because of this continual learning in the public health community, there has been confusion in the public around how easily SARS-CoV-2 spreads and through which routes. This confusion is particularly centered around the amount of virus spread through surface transmission and airborne transmission, as person-to-person spread is the most well understood form of transmission as well as the main transmission route for the novel coronavirus. A large peak of confusion about transmission stemmed from edits made to the U.S. CDC page on how COVID-19 spreads, which some thought downplayed warning of surface transmission (the page has since been updated). \n\nSuch confusion has led to debate around the need to wipe down groceries, wear gloves, avoid petting neighborhood animals, and other steps to mitigate surface transmission. Though surface transmission is not thought to be the main way SARS-CoV-2 spreads, it is still a risk and should be responded to with precaution. One way to think about it is that virus spread from person-to-person is direct transmission, whereas virus stemming from a surface requires two intermediaries: 1) touching the virus on a surface, and then right after 2) touching your eyes, nose, or mouth. One is more direct and therefore more common, but both require caution.\n",
-    "What our experts say": "The U.S. Centers for Disease Control clarified that the virus that causes COVID-19 primarily spreads through close, person-to-person contact and travels through respiratory droplets that are produced when a person coughs, sneezes, or talks. The risk of contracting the virus from animals and pets is also considered to be low. While it is still possible to contract the virus from contaminated surfaces that may have been touched by someone who was infected, this is not a very common mode of transmission. However, this does not mean there is zero risk of transmission from touching contaminated surfaces. One study found that the virus can remain on surfaces like plastic and steel for 48-72 hours, and for up to 24 hours on cardboard. If a person touches a contaminated surface with traces of the virus and then proceeds to touch their eyes, nose, or mouth, they could still become infected if the surface contains large amounts of the virus. Since there is still a potential risk of transmission from touching contaminated surfaces, frequent hand washing with soap and water for 20 seconds is a great way to mitigate this risk, and a commonly recommended practice to avoid other respiratory infections in the process. \n",
-    "Glossary Terms": [
-      "rec5yviiSvJkufYvu"
-    ],
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\t\n",
-    "Topics": [
-      "contaminated",
-      "surface",
-      "animal",
-      "transmission"
-    ],
-    "Other resources": "1. COVID‑19 Strategy Update 14 April 2020 ([WHO][1])\n2. General Business Frequently Asked Questions ([U.S. CDC][2]) \n3. What’s the Risk of Catching Coronavirus From a Surface? ([NYT][3])\n4. How COVID-19 Spreads ([CDC][4])\n\n  [1]: https://www.who.int/docs/default-source/coronaviruse/covid-strategy-update-14april2020.pdf?sfvrsn=29da3ba0_19\n  [2]: https://www.cdc.gov/coronavirus/2019-ncov/community/general-business-faq.html#Reducing-the-Spread-of-COVID-19-in-Workplaces\n  [3]: https://www.nytimes.com/2020/05/28/well/live/whats-the-risk-of-catching-coronavirus-from-a-surface.html\n  [4]: https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-covid-spreads.html\n",
-    "Answer Assigned": [
-      {
-        "id": "usraKwS6t1i6IMrwY",
-        "email": "mmn452@mail.harvard.edu",
-        "name": "Mohit Nair"
-      }
-    ],
-    "Context Assigned": [
-      {
-        "id": "usryJw3d1ZhlxblnO",
-        "email": "jenna@meedan.com",
-        "name": "Jenna Sherman"
-      }
-    ],
-    "Last edited (simplified)": "2020-07-08T03:17:34.000Z",
-    "Last edited (experts say)": "2020-07-07T20:46:25.000Z",
     "Last modified": "2020-07-08"
   },
   {

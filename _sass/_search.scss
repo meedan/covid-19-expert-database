@@ -3,8 +3,9 @@
     margin-bottom: 15px;
 }
 
-li.ais-Hits-item ::marker {
-    display: none;
+li.ais-Hits-item::marker {
+    font-size: 0.889rem;
+    color: var(--gray);
 }
 
 .ais-Hits-item .question-wrapper {
