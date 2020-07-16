@@ -6,7 +6,7 @@
             theme: 'term',
             allowHTML: true,
             interactive: true,
-            interactiveBorder: 30,
+            duration: [300, 50],
             arrow: false,
 		});
 

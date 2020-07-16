@@ -58,7 +58,8 @@
     }
 }
 
-.entry .answer {
+.entry .answer,
+.entry .context, {
      ul, 
      ol {
         padding-left: var(--space-2);
@@ -67,9 +68,20 @@
             margin-bottom: var(--space-1);
         }
      }
+     a {
+        text-decoration-color: var(--edbPaleGreen);
+        text-decoration-thickness: .125em;
+        text-underline-offset: 4px;
+     }
      a:hover {
          color: var(--edbGreen);
+         text-decoration-color: var(--edbGreen);
      }
+}
+
+.hi .entry .answer a,
+.hi .entry .context a {
+    text-underline-offset: 1.5px;
 }
 
 .entry .resources {
