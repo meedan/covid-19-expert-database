@@ -1,3 +1,4 @@
+
 {% if page.lang == 'en-US' %}
     {% assign questions = site.data.covid19.questions-en
         | where: 'Item status', 'Published'
@@ -17,7 +18,13 @@
         | reverse
     %}
 {% endif %}
-<div class="list-questions">
+<div class="search">
+    <div id="search-searchbar"></div>
+    <div id="clear-refinements"></div>
+    <div id="filters-categories"></div>
+    <div id="filters-lang"></div>
+</div>
+<div id="search-hits" class="list-questions">
     <div class="question-wrapper">
         <div class="question">
             {{ site.data.ui.t[page.lang].entry.question }} ({{ questions.size}})
