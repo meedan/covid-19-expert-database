@@ -111,6 +111,10 @@ page_gen:
     dir: '/hi/questions'
     filter: 'Item status'
     filter_condition: record['Item status'] == 'Published'
+  - data: 'covid19.glossary-en'
+    template: 'term'
+    name: 'Term'
+    dir: '/glossary'
 
 
 # Algolia search
@@ -120,6 +124,8 @@ algolia:
   search_only_api_key: d031b4f0809f3999da155451bffba6db
   nodes_to_index: 'p'
   files_to_exclude:
+    - fr/index.html
+    - hi/index.html
     - hi/**/index.html
     - about/index.html
     - fr/about/index.html
@@ -127,6 +133,15 @@ algolia:
     - glossary.html
     - fr/glossary.html
     - hi/glossary.html
+    - meet-our-experts/index.html
+    - hi/meet-our-experts/index.html
+    - fr/meet-our-experts/index.html
+    - ask-a-question/index.html
+    - hi/ask-a-question/index.html
+    - fr/ask-a-question/index.html
+    - thanks/index.html
+    - fr/thanks/index.html
+    - hi/thanks/index.html
     - /questions/what-does-the-scientific-literature-say-about-using-hydroxychloroquine-to-prevent-treat-or-cure-covid-19/index.html
     - /questions/what-do-we-know-so-far-about-airborne-transmission-and-how-does-it-differ-from-respiratory-droplet-transmission/index.html
     - /questions/what-are-the-many-benefits-of-testing/index.html
@@ -146,7 +161,37 @@ algolia:
     - /fr/questions/que-dit-la-science-sur-lexposition-au-soleil-et-le-covid-19/index.html
     - /fr/questions/la-vaccination-au-bcg-protege-t-elle-contre-la-covid-19-/index.html
 
+# Glossary
+algolia:
+  application_id: XVQE72Q0TQ
+  index_name: covid19_glossary
+  search_only_api_key: d031b4f0809f3999da155451bffba6db
+  nodes_to_index: 'h4, p'
+  files_to_exclude:
+    - /index.html
+    - /fr/index.html
+    - /hi/index.html
+    - /hi/**/index.html
+    - /about/index.html
+    - /fr/about/index.html
+    - /hi/about/index.html
+    - /questions/**/index.html
+    - /fr/questions/**/index.html
+    - /hi/questions/**/index.html
+    - /meet-our-experts/
+    - /meet-our-experts/index.html
+    - /hi/meet-our-experts/index.html
+    - /fr/meet-our-experts/index.html
+    - /ask-a-question/
+    - /ask-a-question/index.html
+    - /hi/ask-a-question/index.html
+    - /fr/ask-a-question/index.html
+    - /thanks/index.html
+    - /fr/thanks/index.html
+    - /hi/thanks/index.html
 
+
+# Airtable Fetch Configuration
 airtable:
   api_key: key3GwTpP3iINPkP1
   tables:
