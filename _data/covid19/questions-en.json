@@ -12,7 +12,7 @@
       "USA"
     ],
     "Background & context": "The public health community is continually learning about how the novel coronavirus spreads and what transmission routes are most conducive to its spread. Because of this continual learning in the public health community, there has been confusion in the public around how easily SARS-CoV-2 spreads and through which routes. This confusion is particularly centered around the amount of virus spread through surface transmission and airborne transmission, as person-to-person spread is the most well understood form of transmission as well as the main transmission route for the novel coronavirus. A large peak of confusion about transmission stemmed from edits made to the U.S. CDC page on how COVID-19 spreads, which some thought downplayed warning of surface transmission (the page has since been updated). \n\nSuch confusion has led to debate around the need to wipe down groceries, wear gloves, avoid petting neighborhood animals, and other steps to mitigate surface transmission. Though surface transmission is not thought to be the main way SARS-CoV-2 spreads, it is still a risk and should be responded to with precaution. One way to think about it is that virus spread from person-to-person is direct transmission, whereas virus stemming from a surface requires two intermediaries: 1) touching the virus on a surface, and then right after 2) touching your eyes, nose, or mouth. One is more direct and therefore more common, but both require caution.\n\n\n",
-    "What our experts say": "The U.S. Centers for Disease Control clarified that the virus that causes COVID-19 primarily spreads through close, person-to-person contact and travels through respiratory droplets that are produced when a person coughs, sneezes, or talks. The risk of contracting the virus from animals and pets is also considered to be low. While it is still possible to contract the virus from contaminated surfaces that may have been touched by someone who was infected, this is not a very common mode of transmission. However, this does not mean there is zero risk of transmission from touching contaminated surfaces. One study found that the virus can remain on surfaces like plastic and steel for 48-72 hours, and for up to 24 hours on cardboard. If a person touches a contaminated surface with traces of the virus and then proceeds to touch their eyes, nose, or mouth, they could still become infected if the surface contains large amounts of the virus. Since there is still a potential risk of transmission from touching contaminated surfaces, frequent hand washing with soap and water for 20 seconds is a great way to mitigate this risk, and a commonly recommended practice to avoid other respiratory infections in the process. \n",
+    "What our experts say": "According to the U.S. Centers for Disease Control (U.S. CDC) and Prevention, COVID-19 doesn't easily spread from contaminated surfaces to humans. While it is not like, it is still possible for the virus spread through contaminated surfaces. Recent studies also suggest that the more humid a region may be, the longer the virus may survive on surfaces. Another study found that the virus can remain on surfaces like plastic and steel for 48-72 hours, and for up to 24 hours on cardboard. If a person touches a contaminated surface with traces of the virus and then proceeds to touch their eyes, nose, or mouth, they could still become infected if the surface contains large amounts of the virus. So washing your hands for 20 seconds, avoiding touching your face, and cleaning surfaces often is an important step in stopping the potential spread of the virus. The agency also noted that the virus that causes COVID-19 primarily spreads through close, person-to-person contact - not through surface contamination - so continuing to maintain six feet/two meters of distance, wearing a mask, and staying home as much as possible are still key steps in combatting the virus.\n\nThe risk of contracting the virus from animals and pets is also considered to be low. The U.S. CDC noted in June 2020 that there is currently no evidence that animals have a significant role in spreading COVID-19 and the risk of animals spreading it to humans is low. However, more studies are needed to determine if and how a variety of animals might be impacted by the virus.\n\n",
     "Glossary Terms": [
       "rec5yviiSvJkufYvu"
     ],
@@ -24,7 +24,7 @@
       "animal",
       "transmission"
     ],
-    "Other resources": "1. COVID‑19 Strategy Update 14 April 2020 ([WHO][1])\n2. General Business Frequently Asked Questions ([U.S. CDC][2]) \n3. What’s the Risk of Catching Coronavirus From a Surface? ([NYT][3])\n4. How COVID-19 Spreads ([CDC][4])\n\n  [1]: https://www.who.int/docs/default-source/coronaviruse/covid-strategy-update-14april2020.pdf?sfvrsn=29da3ba0_19\n  [2]: https://www.cdc.gov/coronavirus/2019-ncov/community/general-business-faq.html#Reducing-the-Spread-of-COVID-19-in-Workplaces\n  [3]: https://www.nytimes.com/2020/05/28/well/live/whats-the-risk-of-catching-coronavirus-from-a-surface.html\n  [4]: https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-covid-spreads.html\n",
+    "Other resources": "1. COVID‑19 Strategy Update 14 April 2020 ([WHO][1])\n2. General Business Frequently Asked Questions ([U.S. CDC][2]) \n3. What’s the Risk of Catching Coronavirus From a Surface? ([NYT][3])\n4. How COVID-19 Spreads ([CDC][4])\n5. CDC updates COVID-19 transmission webpage to clarify information about types of spread ([U.S. CDC][5]) \n6. Likelihood of survival of coronavirus in a respiratory droplet deposited on a solid surface ([AIP][6]) \n7. COVID-19 and Animals ([U.S. CDC][7]) \n8. What’s the risk that animals will spread the coronavirus? ([Nature][8]) \n\n  [1]: https://www.who.int/docs/default-source/coronaviruse/covid-strategy-update-14april2020.pdf?sfvrsn=29da3ba0_19\n  [2]: https://www.cdc.gov/coronavirus/2019-ncov/community/general-business-faq.html#Reducing-the-Spread-of-COVID-19-in-Workplaces\n  [3]: https://www.nytimes.com/2020/05/28/well/live/whats-the-risk-of-catching-coronavirus-from-a-surface.html\n  [4]: https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-covid-spreads.html\n  [5]: https://www.cdc.gov/media/releases/2020/s0522-cdc-updates-covid-transmission.html\n  [6]: https://aip.scitation.org/doi/10.1063/5.0012009\n  [7]: https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/animals.html\n  [8]: https://www.nature.com/articles/d41586-020-01574-4\n",
     "Answer Assigned": [
       {
         "id": "usraKwS6t1i6IMrwY",
@@ -40,8 +40,303 @@
       }
     ],
     "Last edited (simplified)": "2020-07-16T22:21:54.000Z",
-    "Last edited (experts say)": "2020-07-07T20:46:25.000Z",
-    "Last modified": "2020-07-16"
+    "Last edited (experts say)": "2020-07-17T19:26:45.000Z",
+    "Last modified": "2020-07-17"
+  },
+  {
+    "id": "recjs5QXivxuhSxx4",
+    "Question": "Why should we all be wearing masks?",
+    "Item status": "Published",
+    "Source of the question": [
+      "Fact-checking organization"
+    ],
+    "Country question was sourced from": [
+      "Philippines"
+    ],
+    "Background & context": "Masks are a type of personal protective equipment (PPE), along with face shields, protective eye goggles, gloves, gowns, and other equipment. Proper use of PPE can help reduce the spread of COVID-19. Wearing PPE is a risk reduction measure, not a risk avoidance measure, so masks can help lower (but not completely eliminate) the chances of getting infected or infecting someone else. Maintaining hygiene, physical distancing, and other measures are still recommended.\n",
+    "What our experts say": "In combination with hand washing and social distancing measures, it is important to wear masks to prevent the spread of COVID-19 because the virus spreads primarily through respiratory droplets released when people speak, cough, sneeze or sing. Some infected people may not appear ill or may develop symptoms at a later time, but they can still spread the virus without symptoms. Masks prevent people from spreading the virus to others, especially when we can't be 6 ft / 2m apart. Cloth masks primarily protect people in close proximity to the person wearing the mask by trapping droplets that are released from the wearer. Cloth masks can also protect the wearer by filtering out some virus particles trying to enter. \nMedical masks (N95 or FFP2) filter virus particles from entering more effectively than cloth masks and are designed to protect the wearer. Supplies of those are limited and generally reserved for doctors.\n\n",
+    "Glossary Terms": [
+      "recuQuM83b2X3K9Bx"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Other resources": "1. CDC calls on Americans to wear masks to prevent COVID-19 spread ([U.S. CDC][1])\n2. The growing scientific evidence for masks to fight Covid-19 ([Vox][2])\n3. Q&A: Masks and COVID-19 ([WHO][3])\n4. Considerations for Wearing Cloth Face Coverings ([US CDC][4])\n5. Why scientists say wearing masks shouldn't be controversial ([Science News][5])\n6. Physical distancing, face masks, and eye protection to prevent person-to-person transmission of SARS-CoV-2 and COVID-19: a systematic review and meta-analysis, 2020 ([Lancet][6])\n\n\n\n  [1]: https://www.cdc.gov/media/releases/2020/p0714-americans-to-wear-masks.html?utm_source=Global+Health+NOW+Main+List&utm_campaign=ba35be8398-EMAIL_CAMPAIGN_2020_07_14_03_18&utm_medium=email&utm_term=0_8d0d062dbd-ba35be8398-860399\n  [2]: https://www.vox.com/future-perfect/21299527/masks-coronavirus-covid-19-studies-research-evidence\n  [3]: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-on-covid-19-and-masks\n  [4]: https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover-guidance.html\n  [5]: https://www.sciencenews.org/article/covid-19-coronavirus-why-wearing-masks-controversial\n  [6]: https://www.thelancet.com/action/showPdf?pii=S0140-6736(20)31142-9\n",
+    "Answer Assigned": [
+      {
+        "id": "usroPZ4yKxHAs6odJ",
+        "email": "elarose@hsph.harvard.edu",
+        "name": "Emily LaRose"
+      }
+    ],
+    "Context Assigned": [
+      {
+        "id": "usr7F6wgKz1f26438",
+        "email": "jahuang@mail.harvard.edu",
+        "name": "Jessica Huang"
+      }
+    ],
+    "Last edited (simplified)": "2020-07-15T01:01:15.000Z",
+    "Last edited (experts say)": "2020-07-16T04:05:03.000Z",
+    "Last modified": "2020-07-17"
+  },
+  {
+    "id": "recq1zzyVh3GSLrhz",
+    "Question": "What short- and long-term effects does COVID-19 have on other body parts, including lungs, brain and kidney?",
+    "Item status": "Published",
+    "Category": "Symptoms",
+    "Subcategory": "On: COVID-19 & short- and long-term effects",
+    "Source of the question": [
+      "Fact-checking organization"
+    ],
+    "Country question was sourced from": [
+      "Philippines"
+    ],
+    "Background & context": "Health practitioners, scientists, and journalists have reported major differences in COVID-19 symptoms from patient to patient. This includes differences in the severity of symptoms, in the duration of symptoms, and in the organs affected. For example, some patients have reported lingering impacts of COVID-19 that lasted months, and the long-term effects of the disease are not fully known yet. Recently, more news has been circulating about COVID-19 and its impact on the brain following the publication of a study on British patients who experienced symptoms ranging from brain inflammation and delirium to nerve damage and stroke.\n",
+    "What our experts say": "As COVID-19 is a new illness, we don't know all of its short- and long-term impacts yet. Most people (80%) infected with COVID-19 have mild or no symptoms. Some of the short-term impacts for people with mild symptoms include shortness of breath in the lungs and airways, fever, cough, and body aches. For more severe cases, the short-term impacts can be varied and affect several organs. These include pulmonary embolisms (lungs), strokes (brain), and kidney damage due to a lack of oxygen or blood clots. The more severe the case and symptoms of COVID-19 in a person, the more likely major organs are negatively impacted by it.\n\nThe long-term effects of COVID-19 are being studied now. However, exhaustion, anxiety, headaches, and muscle aches have been reported most often in patients reporting symptoms many weeks after the beginning of their infection with COVID-19. As it has only been six months since the discovery of the virus, the real long-term impacts remain unknown. For some people infected with the virus, their symptoms have lasted longer than 100 days. Recent studies that have documented long term symptoms include lung scarring; heart damage; neurocognitive impacts like dizziness, loss of taste and smell, and headaches; renal failure; limited lung capacity and difficulty breathing among many others. One notable aspect of the long-term impacts is that they also effect people who had mild cases, not just those who were hospitalized or had severe symptoms for weeks. Though most people recover from the virus within a few weeks, the long-term effects of the virus could impact many organs in different ways.\n\n\n",
+    "Glossary Terms": [
+      "reccJtjL0z55J1CPG",
+      "reciKuzcOIBjSFsU4"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "stroke",
+      "brain",
+      "lungs",
+      "kidney",
+      "renal failure",
+      "impact",
+      "short-term",
+      "long-term",
+      "blood clot",
+      "headache",
+      "dizziness ",
+      "neurocognitive"
+    ],
+    "Other resources": "1. Coronavirus ([WHO][1]) \n2. What Long-Term Effects Could COVID-19 Have on Your Lungs? ([Banner Health][2]) \n3. Association of Cardiac Injury With Mortality in Hospitalized Patients With COVID-19 in Wuhan, China ([JAMA][3]) \n4. Neurologic Manifestations of Hospitalized Patients With Coronavirus Disease 2019 in Wuhan, China ([JAMA][4]) \n5. Acute Pulmonary Embolism in COVID-19 Patients on CT Angiography and Relationship to D-Dimer Levels ([Radiology][5]) \n6. COVID-19 and Kidney Failure in the Acute Care Setting: Our Experience From Seattle ([AJKD][6]) \n7. The Long-Temr Health Effects of COVID-19 ([GAVI][7]) \n8. How Covid-19 can damage the brain ([BBC][8]) \n9. Neurologic Features in Severe SARS-CoV-2 Infection ([NEJM][9]) \n10. Coronavirus: Kidney Damage Caused by COVID-19 ([Hopkins Medicine][10])\n11. The emerging spectrum of COVID-19 neurology: clinical, radiological and laboratory findings ([Brain][11])\n12. What are the potential long-term effects of having COVID-19? ([AP][12]) \n13. Extrapulmonary manifestations of COVID-19, see [Figure 2][13] ([Nature][14])\n\n  [1]: https://www.who.int/health-topics/coronavirus#tab=tab_1\n  [2]: https://www.bannerhealth.com/healthcareblog/teach-me/what-long-term-effects-could-covid19-have-on-your-lungs\n  [3]: https://jamanetwork.com/journals/jamacardiology/fullarticle/2763524?resultClick=1\n  [4]: https://jamanetwork.com/journals/jamaneurology/fullarticle/2764549\n  [5]: https://pubs.rsna.org/doi/10.1148/radiol.2020201561\n  [6]: https://www.ajkd.org/article/S0272-6386(20)30618-1/fulltext\n  [7]: https://www.gavi.org/vaccineswork/long-term-health-effects-covid-19\n  [8]: https://www.bbc.com/future/article/20200622-the-long-term-effects-of-covid-19-infection\n  [9]: https://www.nejm.org/doi/full/10.1056/NEJMc2008597\n  [10]: https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/coronavirus-kidney-damage-caused-by-covid19\n  [11]: https://academic.oup.com/brain/article/doi/10.1093/brain/awaa240/5868408\n  [12]: https://apnews.com/113bef255eb0c33570f77e33515a6ca6\n  [13]: https://pbs.twimg.com/media/Ec6A_F3UwAAf76_.png\n  [14]: https://www.nature.com/articles/s41591-020-0968-3.pdf\n",
+    "Answer Assigned": [
+      {
+        "id": "usrDTYZtkXBziEsWP",
+        "email": "christin@mail.harvard.edu",
+        "name": "Christin Gilmer"
+      }
+    ],
+    "Context Assigned": [
+      {
+        "id": "usr7F6wgKz1f26438",
+        "email": "jahuang@mail.harvard.edu",
+        "name": "Jessica Huang"
+      }
+    ],
+    "Last edited (simplified)": "2020-07-14T00:53:17.000Z",
+    "Last edited (experts say)": "2020-07-14T01:02:44.000Z",
+    "Last modified": "2020-07-17"
+  },
+  {
+    "id": "recC2wUIEcU6WPCCA",
+    "Question": "Is there a specific process through which COVID-19 enters the body? Does COVID-19 first enter through the throat before it \"destroys\" the lungs?",
+    "Item status": "Published",
+    "Category": "Transmission",
+    "Subcategory": "On: COVID-19 & lungs",
+    "Source of the question": [
+      "Fact-checking organization"
+    ],
+    "Country question was sourced from": [
+      "Philippines"
+    ],
+    "Background & context": "As we learn more about COVID-19 and the way it is spread to humans, we will learn more about why the virus seems to impact the lungs of many people. Unlike most viruses humans come into contact with, COVID-19 is new, so humans have not had the ability to gradually build up their immune systems to defend themselves from the virus over time. This may be part of the reason why the virus continues to spread rapidly around the world and can cause significant symptoms in 20% of cases.\n",
+    "What our experts say": "COVID-19 enters the body through the nose, mouth, and eyes. This happens primarily when someone infected with the virus releases small droplets of liquid that contain part of the virus through actions like coughing, sneezing, speaking, or singing. These small bits of virus range in size, from the wet, teardrop-sized types of droplets you might see when you sneeze, to microscopic ones that are so light and dry, they might remain in the air for hours. When a person is in close contact with these droplets, the virus enters the body through these three areas. Then, the virus lands at the back of the throat, also called the top of the upper respiratory tract, in roughly 80% of people who have mild cases of infection. For other more severe cases, the virus can then move down to the lungs, potentially causing pneumonia, which happens in 15-20% of cases, although most recover. \n\nWhen COVID-19 spreads to the lungs, it does not mean that they will be \"destroyed.\" It means that there is an infection involving fluid within tiny branches of air tubes or sacs in the lungs called 'alveoli.' These air sacs may fill up with so much liquid or pus that they become swollen, and their walls can thicken, so it is hard for oxygen to be processed and delivered through the lungs, making it harder to breathe. \n\nEvery virus has a different way of infecting humans, though many viruses gain entry into the body through the nose, mouth, and eyes and often cause upper respiratory infections like COVID-19.\n\n\n \n\n",
+    "Glossary Terms": [
+      "rec5yviiSvJkufYvu",
+      "recTotk6ZnYu3ib8P",
+      "rect47sXxza5ALA3I"
+    ],
+    "Variation of the answer depending on country of residence": "No\t\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "pneumonia",
+      "lungs",
+      "transmission",
+      "droplet"
+    ],
+    "Other resources": "1. Q&A: How is COVID-19 transmitted? ([WHO][1]) \n2. Alveoli ([NCI][2]) \n3. Coronaviruses: An Overview of Their Replication and Pathogenesis ([NPHEC][3]) \n\n  [1]: https://www.who.int/news-room/q-a-detail/q-a-how-is-covid-19-transmitted\n  [2]: https://www.cancer.gov/publications/dictionaries/cancer-terms/def/alveoli\n  [3]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4369385/\n",
+    "Answer Assigned": [
+      {
+        "id": "usrDTYZtkXBziEsWP",
+        "email": "christin@mail.harvard.edu",
+        "name": "Christin Gilmer"
+      }
+    ],
+    "Context Assigned": [
+      {
+        "id": "usrDTYZtkXBziEsWP",
+        "email": "christin@mail.harvard.edu",
+        "name": "Christin Gilmer"
+      }
+    ],
+    "Last edited (simplified)": "2020-07-14T01:00:25.000Z",
+    "Last edited (experts say)": "2020-07-14T00:55:28.000Z",
+    "Last modified": "2020-07-17"
+  },
+  {
+    "id": "reclucIrtcCSCbOn6",
+    "Question": "Is the Russian vaccine a successful cure for COVID-19? ",
+    "Item status": "Published",
+    "Source of the question": [
+      "Fact-checking organization"
+    ],
+    "Country question was sourced from": [
+      "India"
+    ],
+    "Background & context": "Vaccines are not medicines that can treat or cure diseases, as they are made for prevention. Vaccines contain a weakened, killed, or partial form of the same germs that cause the disease in order to stimulate the body's immune response to develop immunity without having to get sick. The World Health Organization (WHO) reports that there are around 160 vaccines for COVID-19 in development as of July 6, 2020, with at least 21 vaccine candidates under clinical evaluation and 139 under pre-clinical evaluation. This includes U.K.'s Oxford University and AstraZeneca vaccine candidate that is currently in Phase 3 clinical trials with 5,000 people in Brazil and 4,000 people in the U.K., Australia's University of Queensland vaccine candidate that started phase one clinical trials with 120 people to be observed over 12 months (including a proportion of people assigned to receive a placebo for comparison), the U.S.'s Inovio Pharmaceuticals vaccine candidate that completed Phase 1 clinical trials with 40 people (reports suggest 94% had \"overall immune responses at week six after two doses\" and after eight weeks the vaccine candidate was considered \"safe and well-tolerated with no serious adverse events\"), and China's CanSino Biologics vaccine candidate that completed phase two clinical trials with 508 people and is planning to begin phase three clinical trials with 40,000 people from multiple countries.\n",
+    "What our experts say": "COVID-19 vaccines are being developed to prevent people from getting the disease, not to treat or cure patients who already have the disease. Many experts continue to caution that a vaccine may not be widely available until the end of 2020 or beginning of 2021, which would already be record-breaking timing for vaccine development.\n\nRecently, Russia's Sechenov First Moscow State Medical University announced that they are completing human clinical trials of a COVID-19 vaccine, with 18 people vaccinated on June 18 (to be discharged on July 15) and 20 people vaccinated on June 23 (to be discharged on July 20). This is one of several human clinical trials for COVID-19 vaccine candidates happening around the world, with some trials involving hundreds or thousands of people over observation periods of many months. Rigorous clinical trials are important to understand whether vaccine candidates are safe and without major negative side effects, as well as whether vaccine candidates are effective and can actually provide immunity for long periods of time.\n\nRussia's announcement of their human clinical trials has been accompanied by projections that the vaccine could be distributed in August and mass produced by private corporations in September. There are many challenges in scaling up from a vaccine candidate that has been tested on a few dozen people in one country to a commercially available vaccine that is available and suitable for millions of diverse people around the world. \n",
+    "Glossary Terms": [
+      "rec9qqItwSTjq3Eae",
+      "recMJMGqkERKGcbL5",
+      "recJK5tI9LgCGFRAU"
+    ],
+    "Variation of the answer depending on country of residence": "\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "\n",
+    "Other resources": "1. Vaccines: The Basics ([U.S. CDC][1])\n2. Russia Coronavirus Vaccine Could Be Distributed Next Month ([Newsweek][2])\n3. China's CanSino in talks for COVID-19 vaccine Phase III trial overseas ([Reuters][3])\n4. First data for Moderna Covid-19 vaccine show it spurs an immune response ([STAT News][4])\n\n  [1]: https://www.cdc.gov/vaccines/vpd/vpd-vac-basics.html\n  [2]: https://www.newsweek.com/russia-coronavirus-vaccine-could-distributed-next-month-1517398\n  [3]: https://www.reuters.com/article/us-health-coronavirus-china-vaccine/chinas-cansino-in-talks-for-covid-vaccine-phase-iii-trial-overseas-idUSKCN24C0HS\n  [4]: https://www.statnews.com/2020/07/14/moderna-covid19-vaccine-first-data-show-spurs-immune-response/\n",
+    "Answer Assigned": [
+      {
+        "id": "usr7F6wgKz1f26438",
+        "email": "jahuang@mail.harvard.edu",
+        "name": "Jessica Huang"
+      }
+    ],
+    "Context Assigned": [
+      {
+        "id": "usr7F6wgKz1f26438",
+        "email": "jahuang@mail.harvard.edu",
+        "name": "Jessica Huang"
+      }
+    ],
+    "Last edited (simplified)": "2020-07-15T02:07:10.000Z",
+    "Last edited (experts say)": "2020-07-15T01:24:12.000Z",
+    "Last modified": "2020-07-17"
+  },
+  {
+    "id": "recz1YK8aca1AExY3",
+    "Question": "What do we know about the inflammatory syndrome impacting children with COVID-19?",
+    "Item status": "Published",
+    "Background & context": "The U.S. Centers for Disease Control and Prevention (U.S. CDC) warns that risks of severe COVID-19 illness tend to increase with age, with people over 85 being at highest risk for hospitalization, intensive care, ventilation, and potentially death. Tragically, the lives of young people, including children, have also been lost during the COVID-19 pandemic. More evidence is emerging on how some young patients develop severe symptoms and complications related to COVID-19. Multisystem inflammatory syndrome in children (MIS-C) is a serious and potentially fatal condition in young people, which can appear similar to Kawasaki's disease. In mid-May 2020, the U.S. CDC asked doctors across the country to look out for MIS-C cases. In June 2020, another two studies found over 300 children with MIS-C in the United States, which was reported widely in the media. Researchers around the world continue to study why some children are seriously affected by COVID-19 when the majority of young people have had relatively mild cases.\n",
+    "What our experts say": "The majority of young people infected have had relatively mild cases of COVID-19. However, the U.S. Centers for Disease Control (U.S. CDC) recently identified the more severe multisystem inflammatory syndrome in children (MIS-C) as a new syndrome associated with the virus that causes COVID-19. This inflammatory syndrome was first identified in April 2020 and is characterized by inflammation in different body parts, including the heart, lungs, kidneys, brain, skin, eyes, or gastrointestinal organs. While MIS-C is rare, it can be deadly. Symptoms in children include fever, abdominal (gut) pain, vomiting, diarrhea, neck pain, rash, bloodshot eyes, or fatigue. This is a newly identified condition that requires more research, but doctors have observed that symptoms can develop within four weeks of exposure to the novel coronavirus. The inflammation can be managed with medicines that can prevent damage to vital organs. MIS-C occurs in young people under 21, according to its case definition, although it is thought to mostly affect children between the ages of 2 to 15 and is not commonly reported in babies. The U.S. CDC recommends immediately contacting a doctor if your child exhibits any of the symptoms of the inflammatory syndrome. We still do not know why some children experience symptoms, while others do not, and it is unclear if children with particular health conditions are more likely to get MIS-C. At this point, the best prevention measures include taking all precautions to avoid contracting the novel coronavirus, including hand washing, social distancing, avoiding public gatherings, and wearing masks.\n",
+    "Other resources": "1. Multisystem Inflammatory Syndrome ([U.S. CDC][1])\n2. For Parents: Multisystem Inflammatory Syndrome in Children (MIS-C) associated with COVID-19 ([U.S. CDC][2])\n3. MIS-C and COVID-19: Rare Inflammatory Syndrome in Kids and Teens ([Hopkins Medicine][3])\n4. Multisystem Inflammatory Syndrome in U.S. Children and Adolescents ([NEJM][4])\n5. Multisystem Inflammatory Syndrome in Children in New York State ([NEJM)][5]\n6. Researchers report nearly 300 cases of inflammatory syndrome tied to Covid-19 in kids ([STAT News][6])\n\n  [1]: https://www.cdc.gov/mis-c/index.html\n  [2]: https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/children/mis-c.html\n  [3]: https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/misc-and-covid19-rare-inflammatory-syndrome-in-kids-and-teens\n  [4]: http://Multisystem Inflammatory Syndrome in U.S. Children and Adolescents\n  [5]: https://www.nejm.org/doi/full/10.1056/NEJMoa2021756\n  [6]: https://www.statnews.com/2020/06/29/nejm-inflammation-children-covid19-misc/\n",
+    "Answer Assigned": [
+      {
+        "id": "usraKwS6t1i6IMrwY",
+        "email": "mmn452@mail.harvard.edu",
+        "name": "Mohit Nair"
+      }
+    ],
+    "Context Assigned": [
+      {
+        "id": "usr7F6wgKz1f26438",
+        "email": "jahuang@mail.harvard.edu",
+        "name": "Jessica Huang"
+      }
+    ],
+    "Last edited (simplified)": "2020-07-17T02:31:56.000Z",
+    "Last edited (experts say)": "2020-07-17T02:31:15.000Z",
+    "Last modified": "2020-07-17"
+  },
+  {
+    "id": "recFi8qUxcrBhBeb9",
+    "Question": "What does it mean for COVID-19 to impact the brain?",
+    "Item status": "Published",
+    "Category": "Symptoms",
+    "Subcategory": "On: COVID-19 & the brain",
+    "Background & context": "COVID-19 has been linked to a series of health complications beyond respiratory failure, including neurological complications that can potentially damage the brain. Recently, news has been circulating about how SARS-CoV-2, the virus that causes COVID-19, has been associated with many different neurological syndromes, including nerve damage, delirium, and stroke. While the condition is not very common, doctors are currently looking at data from individual patients from around the world to assess how it has impacted patients.\n\nThese neurological complications have also been reported during previous epidemics, such as the Severe Acute Respiratory Syndrome (SARS) epidemic in 2003 and the Middle East Respiratory Syndrome (MERS) outbreak more recently in 2012.\n",
+    "What our experts say": "Physicians and scientists are learning more about how COVID-19 impacts organs outside of the respiratory system, such as the brain. The emerging evidence has revealed that some COVID-19 patients experience neurological symptoms, which impact the nervous system, composed principally of the brain, spinal cord, nerves, and ganglia (cell bodies that relay nerve signals). \n\nIn early March 2020, observational data from 58 patients in France indicated the presence of neurological symptoms such as agitation, confusion, disorientation, and encephalopathy (brain damage). In April 2020, a study was published on 214 COVID-19 patients in China with \"severe infection,\" where over a third were reported to experience neurological symptoms, including acute cerebrovascular diseases and impaired consciousness.\n\nIn July 2020, another study on over 40 British patients provided additional evidence about neurological symptoms, ranging from brain inflammation and delirium to nerve damage and stroke. Some of these patients reported severe symptoms, such as strokes and paralysis resulting from nerve damage, while others experienced more minor symptoms like breathlessness and fatigue. Most of the cases with brain inflammation were diagnosed with acute disseminated encephalomyelitis (ADEM), which is a rare illness involving inflammation of the brain and spinal cord that results from viral infections. Data from London indicated an increase in ADEM cases for this study period during the pandemic, as the number of reported cases would typically have been expected over a 5-month period rather than a 5-week period in the city. \n\nSARS-CoV-2, the virus that causes COVID-19, was not detected in the cerebrospinal brain fluid of any of the British patients tested, which may suggest that the virus did not directly attack the brain and that the symptoms could have occurred post-infection.\n\nWith the increasing evidence of neurological symptoms, which have not been found to occur as commonly as respiratory symptoms, researchers and health care practitioners are continuing to observe patients around the world to learn more about how COVID-19 impacts on the brain. The long-term implications are still unclear, since COVID-19 is a new disease and there has not been enough time to observe the development of symptoms in patients over long periods of time.\n",
+    "Glossary Terms": [
+      "recR9wzTcTIDRvZxF",
+      "recsGjajfNl77jdAF"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n\n",
+    "Topics": [
+      "virus",
+      "symptoms",
+      "brain",
+      "inflammation"
+    ],
+    "Other resources": "1. Neurologic Manifestations of Hospitalized Patients With Coronavirus Disease 2019 in Wuhan, China ([JAMA][1]) \n2. Neurologic Features in Severe SARS-CoV-2 Infection ([NEJM][2]) \n3. The emerging spectrum of COVID-19 neurology: clinical, radiological and laboratory findings ([Brain][3])\n4. How Covid-19 can damage the brain ([BBC][4])\n5. Warning of serious brain disorders in people with mild coronavirus symptoms ([The Guardian][5])\n\n  [1]: https://jamanetwork.com/journals/jamaneurology/fullarticle/2764549\n  [2]: https://www.nejm.org/doi/full/10.1056/NEJMc2008597\n  [3]: https://academic.oup.com/brain/article/doi/10.1093/brain/awaa240/5868408\n  [4]: https://www.bbc.com/future/article/20200622-the-long-term-effects-of-covid-19-infection\n  [5]: https://www.theguardian.com/world/2020/jul/08/warning-of-serious-brain-disorders-in-people-with-mild-covid-symptoms\n",
+    "How often revision needed": "Weekly",
+    "Answer Assigned": [
+      {
+        "id": "usr7F6wgKz1f26438",
+        "email": "jahuang@mail.harvard.edu",
+        "name": "Jessica Huang"
+      }
+    ],
+    "Context Assigned": [
+      {
+        "id": "usraKwS6t1i6IMrwY",
+        "email": "mmn452@mail.harvard.edu",
+        "name": "Mohit Nair"
+      }
+    ],
+    "Last edited (simplified)": "2020-07-16T23:02:18.000Z",
+    "Last edited (experts say)": "2020-07-17T02:23:37.000Z",
+    "Last modified": "2020-07-17"
+  },
+  {
+    "id": "recYJj2fg6IEXFncp",
+    "Question": "How effective are Remdesivir and Favipiravir and can they be taken without medical supervision? ",
+    "Item status": "Published",
+    "Source of the question": [
+      "Social Media"
+    ],
+    "Country question was sourced from": [
+      "USA"
+    ],
+    "Background & context": "With efforts to find therapeutic options for the millions of patients suffering with COVID-19, there has been a rapid pace at drug evaluation. While some treatments are being evaluated and generic versions might be approved, there is still not enough data to confirm specific treatments for COVID-19 patients. Studies have found successful outcomes with Remdesivir, which has been approved in several countries. While these emergent use applications are an encouraging sign, it is important to monitor patients closely and report their outcomes or negative side effects. \n",
+    "What our experts say": "SARS-CoV-2/COVID-19 is a new infectious disease and, while there has been a lot of research aimed at identifying possible treatments, many therapies remain under investigation for both safety and effectiveness. \n \nIn a recent study funded by Gilead Sciences, a biopharmaceutical company, 53 patients with severe cases of COVID-19 were prescribed Remdesivir, and researchers observed clinical improvements, including a decreased need for breathing support, in 68% (36 of 53 patients) of the participants. While the initial data looks promising for this drug, it is important to note that this initial study was small and the drug has not been rigorously studied for COVID-19. In addition, the study did not include patients with mild or moderate COVID-19 symptoms. \n \nFavipiravir is also considered to be a possible treatment for COVID-19. A small study showed the virus being reduced faster with the drug in comparison to other medications. Without further study, there is not enough evidence suggesting effectiveness and safety.\n\nIn general, studies remain underway, and it is too early to determine which medications may be effective therapeutic options for COVID-19 patients. At present, Remdesivir has been given emergency use authorization in the U.S. and approval in Japan for severe COVID-19 cases. When either Remdesivir or Favipiravir is prescribed, it is important that medical providers monitor the patient's clinical condition noting effectiveness and possible negative side effects. Taking either drug without medical supervision is not recommended and may be harmful. \n",
+    "Glossary Terms": [
+      "rec9hdVoRIEkjJwtk"
+    ],
+    "Variation of the answer depending on country of residence": "Yes\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "treatment"
+    ],
+    "Other resources": "1. Compassionate Use of Remdesivir for Patients with Severe Covid-19. ([NEJM][1])\n2. Gilead Remdesivir Release. ([Gilead][2])\n3. Potential therapeutic agents against COVID-19: What we know so far ([J Chin Med Assoc][3])\n4. A review of the safety of favipiravir- a potential treatment in the COVID-19 pandemic? ([Journal of Virus Eradication][4])\n\n  [1]: https://www.nejm.org/doi/full/10.1056/NEJMoa2007016\n  [2]: https://www.gilead.com/news-and-press/press-room/press-releases/2020/6/gilead-announces-results-from-phase-3-trial-of-remdesivir-in-patients-with-moderate-covid-19\n  [3]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7176266/pdf/ca9-publish-ahead-of-print-10.1097.jcma.0000000000000318.pdf\n  [4]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7213073/pdf/jve-6-45.pdf\n",
+    "Answer Assigned": [
+      {
+        "id": "usrRCayeWUVUEsOXd",
+        "email": "saskia.vanrijn57@gmail.com",
+        "name": "Saskia Popescu"
+      }
+    ],
+    "Last edited (simplified)": "2020-06-24T02:10:02.000Z",
+    "Last edited (experts say)": "2020-06-26T14:33:18.000Z",
+    "Last modified": "2020-07-17"
+  },
+  {
+    "id": "rec5d5bDYQKs3umW2",
+    "Question": "What do we know about pregnant women and COVID-19?",
+    "Item status": "Published",
+    "Background & context": "While pregnant women might be at increased risk for severe COVID-19 disease, there is no data yet to show any pre-term complications. Since it is possible for pregnant women to transmit the virus to a newborn, it is common to test pregnant women pre-labor for the novel coronavirus. It is unknown if the virus is spread before, during, or after birth. \n\nThere have been documented cases of mistreatment, abuse, and obstetric violence of pregnant women globally in the context of COVID-19. Examples include limited prenatal care, lack of choice around who is in the delivery room, separation from newborns, and verbal abuse. The World Health Organization has issued guidance on pregnancy and COVID-19 aiming to address these concerns by discouraging negative actions such as newborn separation and forced cesarean sections.\n",
+    "What our experts say": "Currently, pregnant women are at an increased risk for severe COVID-19 disease, meaning that there is a higher chance they will require hospitalization and have more serious symptoms of the disease if they become infected. Preterm and other birth-related complications have not been associated with COVID-19 at this time. The U.S. Centers for Disease Control and Prevention (U.S. CDC) encourages pregnant women to take preventive measures and continue to seek prenatal care. If infected and contagious during labor, it is possible for the mother to spread the disease to the newborn. \n",
+    "Other resources": "1. COVID-19 and Pregnancy ([U.S. CDC][1])\n2. Q&A: Pregnancy, childbirth and COVID-19 ([WHO][2])\n3. How has COVID-19 affected women's rights during childbirth? Help us track this globally ([Open Democracy][3])\n\n  [1]: https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/pregnancy-breastfeeding.html\n  [2]: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-on-covid-19-pregnancy-and-childbirth\n  [3]: https://www.opendemocracy.net/en/5050/womens-rights-during-childbirth-help-us-track-globally/\n",
+    "Answer Assigned": [
+      {
+        "id": "usrRCayeWUVUEsOXd",
+        "email": "saskia.vanrijn57@gmail.com",
+        "name": "Saskia Popescu"
+      }
+    ],
+    "Context Assigned": [
+      {
+        "id": "usryJw3d1ZhlxblnO",
+        "email": "jenna@meedan.com",
+        "name": "Jenna Sherman"
+      }
+    ],
+    "Last edited (simplified)": "2020-07-17T02:18:28.000Z",
+    "Last edited (experts say)": "2020-07-17T02:15:14.000Z",
+    "Last modified": "2020-07-17"
   },
   {
     "id": "recqFRWiE9Y6nbUM5",
@@ -58,7 +353,7 @@
       "USA"
     ],
     "Background & context": "Coronaviruses are a group of viruses that can cause a variety of different illnesses, but primarily upper-respiratory tract illnesses in humans. These illnesses include the common cold, severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS). Some viruses can originate in animals and later infect humans, and this can happen in a number of different ways, including: by eating meat or produce that has been contaminated by the virus, through the air or by touching a surface that was touched by an infected animal, through close contact with an infected animal, or through insect bites. Not all viruses transfer from animals to humans in all of these ways, it depends on the virus. The resources section contains more information about this. \n\n",
-    "What our experts say": "COVID-19 was first detected in the city of Wuhan, China in late 2019. The virus has since been partially traced back to a large seafood and animal market in the city of Wuhan, after several people who had been to the market became sick with the illness we now know as COVID-19. Scientists were able to use genetic tests to confirm that the virus was first identified in people and environmental samples in the city of Wuhan. Tests on the genetics of viruses, much like genetics in humans, can reveal a lot about their origins. When these genetic tests were done on the COVID-19 virus' genes, it revealed that the virus originated in an infected animal and mutated when that animal transferred the virus to a human, likely in the city of Wuhan. The details about that event, which is called a zoonotic transfer, are still being investigated.\n\nUPDATED: July 16, 2020: The majority of scientific studies now support the idea that the origin of the virus in animals was bats, specifically horseshoe bats, potentially from China or the neighboring countries of Myanmar, Laos and Vietnam. Scientists also suggest that the virus may have been passed to humans through an intermediate host before spreading to humans, but are unsure about what animal the host might have been, though pangolins and civets have been suggested. A potential combination between bats and pangolins as the  viral origin has also been noted. World Health Organization experts will soon travel to China and work with Chinese health officials to identify the source of the virus.\n\n\n",
+    "What our experts say": "COVID-19 was first detected in the city of Wuhan, China in late 2019. The virus has since been partially traced back to a large seafood and animal market in the city of Wuhan, after several people who had been to the market became sick with the illness we now know as COVID-19. Scientists were able to use genetic tests to confirm that the virus was first identified in people and environmental samples in the city of Wuhan. Tests on the genetics of viruses, much like genetics in humans, can reveal a lot about their origins. When these genetic tests were done on the COVID-19 virus' genes, it revealed that the virus originated in an infected animal and mutated when that animal transferred the virus to a human, likely in the city of Wuhan. The details about that event, which is called a zoonotic transfer, are still being investigated.\n\nUPDATED: July 16, 2020: The majority of scientific studies now support the idea that the origin of the virus in animals was bats, specifically horseshoe bats, potentially from China or neighboring countries of Myanmar, Laos and Vietnam. Scientists also suggest that the virus may have been passed to humans through an intermediate host before spreading to humans, but are unsure about what animal the host might have been, though pangolins and civets have been suggested. A potential combination between bats and pangolins as the viral origin has also been noted. World Health Organization experts will soon travel to China and work with Chinese health officials to identify the source of the virus.\n\n\n",
     "Glossary Terms": [
       "recbQ95pvRq7nP9s3",
       "recFSOdDjQBqJHnZ9"
@@ -81,38 +376,72 @@
     ],
     "Editorial notes:": "\n",
     "Last edited (simplified)": "2020-05-27T22:06:20.000Z",
-    "Last edited (experts say)": "2020-07-16T21:30:01.000Z",
-    "Last modified": "2020-07-16"
+    "Last edited (experts say)": "2020-07-17T02:06:38.000Z",
+    "Last modified": "2020-07-17"
   },
   {
-    "id": "recjs5QXivxuhSxx4",
-    "Question": "Why should we all be wearing masks?",
+    "id": "recUf54dYwOUfEzIR",
+    "Question": "What do we know so far about COVID-19 and nursing homes?",
     "Item status": "Published",
-    "Background & context": "Masks are a type of personal protective equipment (PPE), along with face shields, protective eye goggles, gloves, gowns, and other equipment. Proper use of PPE can help reduce the spread of COVID-19. Wearing PPE is a risk reduction measure, not a risk avoidance measure, so masks can help lower (but not completely eliminate) the chances of getting infected or infecting someone else. Maintaining hygiene, physical distancing, and other measures are still recommended.\n",
-    "What our experts say": "In combination with hand washing and social distancing measures, it is important to wear masks to prevent the spread of COVID-19 because the virus spreads primarily through respiratory droplets released when people speak, cough, sneeze or sing. Some infected people may not appear ill or may develop symptoms at a later time, but they can still spread the virus without symptoms. Masks prevent people from spreading the virus to others, especially when we can't be 6 ft / 2m apart. Cloth masks primarily protect people in close proximity to the person wearing the mask by trapping droplets that are released from the wearer. Cloth masks can also protect the wearer by filtering out some virus particles trying to enter. \nMedical masks (N95 or FFP2) filter virus particles from entering more effectively than cloth masks and are designed to protect the wearer. Supplies of those are limited and generally reserved for doctors.\n\n",
+    "Category": "Transmission",
+    "Subcategory": "On: COVID-19 & nursing homes",
+    "Background & context": "Since the earliest outbreaks in the United States occurred in nursing care homes for the elderly, much speculation has surrounded older populations as they are high-risk for the virus. In addition, nursing home residents remain in enclosed spaces, are sometimes in close confines with others, and often have preexisting conditions, so their risk increases. \n\nIn response to this, most countries with large populations of people over 65 have created new regulations to make sure that patient, employee, and healthcare worker safety in these facilities is the highest priority. By using these new standards, the risks should be significantly reduced for residents and employees alike.\n",
+    "What our experts say": "The risk of exposure to the novel coronavirus that causes COVID-19 is particularly high in nursing homes, which cater to vulnerable older adults who often have chronic illnesses or underlying conditions. A nursing home in Kirkland, Washington was one of the first hotspots for the COVID-19 pandemic in the United States: the facility accounted for 30 out of the 46 deaths in Washington due to COVID-19 at the time. Since then, there have been several outbreaks in nursing homes across the United States, including in Montana and Utah, as of July 2020. The U.S. Centers for Disease Control also found that long-term nursing care facilities were vulnerable to outbreaks long before the COVID-19 pandemic: 80% of the 2,590 non-foodborne outbreaks of norovirus in the US from 2009 to 2012 were attributed to long-term care facilities.\n\nNursing home residents are vulnerable to severe complications and mortality from COVID-19, and residents often live close to one another, which makes it challenging to implement quarantine and social distancing measures. Close proximity to caregivers who assist multiple residents across different rooms in the facility can also contribute to transmission of the virus, especially if infection prevention control measures are inadequate. According to the Occupational Safety and Health Administration (OSHA), many staff lack access to paid sick leave, which may incentivize them to work even while experiencing symptoms of COVID-19. \n\nOSHA recommends encouraging long-term care facility or nursing home workers to stay home if they are sick, screen workers and residents regularly for symptoms of COVID-19, adhere to U.S. CDC visitation guidelines, maintain at least 6 feet / 2m between workers, visitors, and residents, stagger breaks to prevent overcrowding, and provide hand washing facilities and alcohol-based hand sanitizer throughout the nursing home. The U.S. CDC further recommends improvements in reporting COVID-19 cases from nursing home facilities, assigning at least one individual trained in infection and prevention control (IPC) to manage IPC on-site, screen visitors upon entry, and limit visitors (especially if they are experiencing symptoms), and create a robust testing plan for all employees and residents of the nursing home. There should also be guidelines in place to dedicate a separate unit of the nursing home to care for known or suspected COVID-19 patients to prevent further transmission. Visitation requirements can be tightened or relaxed depending on the number of cases in the community: the U.S. CDC recommends use of alternative methods such as video conferencing in lieu of in-person visits. Preventive measures include restricting all visitors except for compassionate care reasons, such as end-of-life care.\n",
     "Glossary Terms": [
-      "recuQuM83b2X3K9Bx"
+      "rec2UNEXbTkSCx30Q"
     ],
-    "Other resources": "1. CDC calls on Americans to wear masks to prevent COVID-19 spread ([U.S. CDC][1])\n2. The growing scientific evidence for masks to fight Covid-19 ([Vox][2])\n3. Q&A: Masks and COVID-19 ([WHO][3])\n4. Considerations for Wearing Cloth Face Coverings ([US CDC][4])\n5. Why scientists say wearing masks shouldn't be controversial ([Science News][5])\n6. Physical distancing, face masks, and eye protection to prevent person-to-person transmission of SARS-CoV-2 and COVID-19: a systematic review and meta-analysis, 2020 ([Lancet][6])\n\n\n\n  [1]: https://www.cdc.gov/media/releases/2020/p0714-americans-to-wear-masks.html?utm_source=Global+Health+NOW+Main+List&utm_campaign=ba35be8398-EMAIL_CAMPAIGN_2020_07_14_03_18&utm_medium=email&utm_term=0_8d0d062dbd-ba35be8398-860399\n  [2]: https://www.vox.com/future-perfect/21299527/masks-coronavirus-covid-19-studies-research-evidence\n  [3]: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-on-covid-19-and-masks\n  [4]: https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover-guidance.html\n  [5]: https://www.sciencenews.org/article/covid-19-coronavirus-why-wearing-masks-controversial\n  [6]: https://www.thelancet.com/action/showPdf?pii=S0140-6736(20)31142-9\n",
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "nursing home",
+      "transmission",
+      "prevention",
+      "spread"
+    ],
+    "Other resources": "1. Preparing for COVID-19 in Nursing Homes ([U.S. CDC][1])\n2. COVID-19 Guidance for Nursing Home and Long-Term Care Facility Workers ([OSHA][2]) \n3. Nursing Homes Are Ground Zero for COVID-19 Pandemic ([JAMA][3])\n4. Vital Signs: Foodborne Norovirus Outbreaks — United States, 2009–2012 ([U.S. CDC][4])\n\n  [1]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/long-term-care.html\n  [2]: https://www.osha.gov/Publications/OSHA4025.pdf\n  [3]: https://jamanetwork.com/channels/health-forum/fullarticle/2763666\n  [4]: https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6322a3.htm?s_cid=mm6322a3_w\n",
+    "How often revision needed": "Monthly",
     "Answer Assigned": [
+      {
+        "id": "usraKwS6t1i6IMrwY",
+        "email": "mmn452@mail.harvard.edu",
+        "name": "Mohit Nair"
+      }
+    ],
+    "Context Assigned": [
+      {
+        "id": "usryJw3d1ZhlxblnO",
+        "email": "jenna@meedan.com",
+        "name": "Jenna Sherman"
+      }
+    ],
+    "Last edited (simplified)": "2020-07-16T21:57:46.000Z",
+    "Last edited (experts say)": "2020-07-17T00:17:31.000Z",
+    "Last modified": "2020-07-17"
+  },
+  {
+    "id": "reccgbdzob0VzK2nF",
+    "Question": "Can someone get reinfected and get COVID-19 a second time?",
+    "Item status": "Published",
+    "Background & context": "As scientists, public health professionals, and doctors monitor the COVID-19 pandemic, they continue to learn about how the virus spreads, its symptoms, and other factors important to diagnosis, testing, monitoring, and long-term public health planning. The possibility of reinfection continues to be a prominent news headline with healthcare professionals reporting that some patients who had fully recovered from the virus later redeveloped symptoms. Some case reports detail how both symptom monitoring and testing have been performed, and, in some instances, patients have documented recovery of COVID-19 with negative virus test results only to become ill and test positive weeks or months later. \n\nWhile there are still many aspects of the virus and the pandemic that are unknown, recent research suggests that reinfection may be possible. Newer research shared with a preprint release on July 11th, 2020 found that COVID-19 antibodies function similarly to those from other coronaviruses that are associated with common colds. While the number of antibodies is higher in patients with more severe illness, reports suggest that the protective antibodies decrease relatively quickly (sometimes within 60 days)- especially in patients who had a mild case of COVID-19. Similarly, a population-based study from Spain examined antibodies of more than 50,000 people with possible exposure early in the pandemic and found that very few people have maintained antibodies to date- even those who lived in areas significantly impacted by the virus. Finally, a study done in primates (not humans) showed that COVID-19 immunity was maintained for 28 days following the original infection, but the study did not include longer range measures and, as an animal study, may not be directly comparable to humans.\n\nIt is important to note that, unlike other viruses, the number of antibodies needed to prevent reinfection with COVID-19 is unknown as is the level of antibodies needed to suggest that someone is “immune” to the virus. Studies to further understand immunity as well as the possibility for reinfection are ongoing.\n",
+    "What our experts say": "Scientists do not know for sure if people can become infected with COVID-19 a second time, but it may be possible. More evidence is needed to determine whether or not reinfection can occur. We are still learning a lot about what kind of natural defense - also known as immunity - a person has after being infected with SARS-CoV-2/COVID-19. Currently, there haven't been any documented cases of re-infection in scientific journals. In some cases, some patients have tested positive a second time for the virus but scientists think that this is most likely residual viral RNA (traces of the virus left in the body) that is being detected by very sensitive tests or through false-positive tests. As we learn more about long-term immunity and protection from re-infection, this could change, but currently we haven't seen published cases to support that it is occurring. For those concerned about antibody tests - tests used to determine whether or not a person was infected with COVID-19 in the past - it is important to note that a lack of antibodies several months after infection might not mean the person has no immunity against the virus and is susceptible to infection again. \n",
+    "Other resources": "1. Longitudinal evaluation and decline of antibody responses in SARS-CoV-2 infection ([MedRxiv][1])\n2. Direct observation of repeated infections with endemic coronaviruses ([J of Inf Disease][2])\n3. Prevalence of SARS-CoV-2 in Spain (ENE-COVID): a nationwide, population-based seroepidemiological study ([Lancet][3])\n4. Study in Primates Finds Acquired Immunity Prevents COVID-19 Reinfections ([NIH Director's Blog][4])\n5. Interview with Virologist Dr. Rasmussen ([Gizmodo][5])\n6. What Is COVID-19? ([JAMA][6]) \n\n  [1]: https://www.medrxiv.org/content/10.1101/2020.07.09.20148429v1.full.pdf\n  [2]: https://watermark.silverchair.com/jiaa392.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAqIwggKeBgkqhkiG9w0BBwagggKPMIICiwIBADCCAoQGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMiRbJCaojrVziOBHFAgEQgIICVexKUVWsCM8r04oJCJ2DPsP6vHvGEigqHpWW5jL_wb5GXNZdVL7bOCvm5VWLxP3N3_FCeNlLkiCXSddWR8sOG3UbOouN_hpBKr4mYdZ6gcI6jtE5rU_xfh0F9lJTu0pBX6IScsDQNGpbokEgqSk9QEK6H_0P4w3H8gf6h_jkfM72S_pPpCLksA2sOyP4frstixiN_MUKS_vx_BspvZENUnccZmgMBr9ielG5DCwLFj3HxAjRC_HiPLI8Nqn4aixyC1Ex6k7tmdZVx0B66c2pGv7VX04Ctxd4cxKTSIChWPacv2nejhG7ZGxiedfUCga25VlnSIjiyghHTNuu5EQhN9GhB0SlDcGkNCGcbuIvGdgzIeK-6ZZFdlTM8TcAHkducF7p0u4qxiQyHt0knoAqV6gxB6H9nsPJbO9eDlSFnlaekK1x1jVj3KYEijlB7oHyfXDvo3MGYoSQXF4cBejTUrfSBS6sjbD_uf0Pui-PJtti-VTlLyrumkRRLsutXTGDmo8V4iagTUWQQe6WEPh5emb8GYETdcRvAZx-otjFBtsagdq6L1ijVYYBRCg_QfmEow4wrEqMoK-o5_oZbInR_B-8eccbF5g3oNJhuSr4NSBXjd0Whhqe3LTf1IEvTz03Wv11sEUoPUbMbYmZlEJYYJf8BUR-5h267UeuU8IMFHxNsdTFJikB9y7hZgL8u_6_xdwE8MxJoIycHbRh4Dpv8Wz1QK55XC39-AvEuqdYuPNFvxJeU-KscfbpVX0-4AbdSoMlmwsl8eivzoFUOxZoK_MFt1ny-w\n  [3]: https://www.thelancet.com/action/showPdf?pii=S0140-6736(20)31483-5\n  [4]: https://directorsblog.nih.gov/2020/07/14/study-in-primates-finds-acquired-immunity-prevents-covid-19-reinfections/\n  [5]: https://gizmodo.com/what-s-the-evidence-for-covid-19-reinfection-1844364577\n  [6]: https://jamanetwork.com/journals/jama/fullarticle/2768390\n",
+    "Answer Assigned": [
+      {
+        "id": "usrRCayeWUVUEsOXd",
+        "email": "saskia.vanrijn57@gmail.com",
+        "name": "Saskia Popescu"
+      }
+    ],
+    "Context Assigned": [
       {
         "id": "usroPZ4yKxHAs6odJ",
         "email": "elarose@hsph.harvard.edu",
         "name": "Emily LaRose"
       }
     ],
-    "Context Assigned": [
-      {
-        "id": "usr7F6wgKz1f26438",
-        "email": "jahuang@mail.harvard.edu",
-        "name": "Jessica Huang"
-      }
-    ],
-    "Last edited (simplified)": "2020-07-15T01:01:15.000Z",
-    "Last edited (experts say)": "2020-07-16T04:05:03.000Z",
-    "Last modified": "2020-07-16",
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n"
+    "Last edited (simplified)": "2020-07-16T23:59:45.000Z",
+    "Last edited (experts say)": "2020-07-17T00:00:51.000Z",
+    "Last modified": "2020-07-17"
   },
   {
     "id": "rechQWZ1ctlJ81Vxn",
@@ -317,49 +646,6 @@
     "Last modified": "2020-07-15"
   },
   {
-    "id": "recC2wUIEcU6WPCCA",
-    "Question": "Is there a specific process through which COVID-19 enters the body? Does COVID-19 first enter through the throat before it \"destroys\" the lungs?",
-    "Item status": "Published",
-    "Category": "Transmission",
-    "Subcategory": "On: COVID-19 & lungs",
-    "Source of the question": [
-      "Partner Organization"
-    ],
-    "Background & context": "As we learn more about COVID-19 and the way it is spread to humans, we will learn more about why the virus seems to impact the lungs of many people. Unlike most viruses humans come into contact with, COVID-19 is new, so humans have not had the ability to gradually build up their immune systems to defend themselves from the virus over time. This may be part of the reason why the virus continues to spread rapidly around the world and can cause significant symptoms in 20% of cases.\n",
-    "What our experts say": "COVID-19 enters the body through the nose, mouth, and eyes. This happens primarily when someone infected with the virus releases small droplets of liquid that contain part of the virus through actions like coughing, sneezing, speaking, or singing. These small bits of virus range in size, from the wet, teardrop-sized types of droplets you might see when you sneeze, to microscopic ones that are so light and dry, they might remain in the air for hours. When a person is in close contact with these droplets, the virus enters the body through these three areas. Then, the virus lands at the back of the throat, also called the top of the upper respiratory tract, in roughly 80% of people who have mild cases of infection. For other more severe cases, the virus can then move down to the lungs, potentially causing pneumonia, which happens in 15-20% of cases, although most recover. \n\nWhen COVID-19 spreads to the lungs, it does not mean that they will be \"destroyed.\" It means that there is an infection involving fluid within tiny branches of air tubes or sacs in the lungs called 'alveoli.' These air sacs may fill up with so much liquid or pus that they become swollen, and their walls can thicken, so it is hard for oxygen to be processed and delivered through the lungs, making it harder to breathe. \n\nEvery virus has a different way of infecting humans, though many viruses gain entry into the body through the nose, mouth, and eyes and often cause upper respiratory infections like COVID-19.\n\n\n \n\n",
-    "Glossary Terms": [
-      "rec5yviiSvJkufYvu",
-      "recTotk6ZnYu3ib8P",
-      "rect47sXxza5ALA3I"
-    ],
-    "Variation of the answer depending on country of residence": "No\t\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "pneumonia",
-      "lungs",
-      "transmission",
-      "droplet"
-    ],
-    "Other resources": "1. Q&A: How is COVID-19 transmitted? ([WHO][1]) \n2. Alveoli ([NCI][2]) \n3. Coronaviruses: An Overview of Their Replication and Pathogenesis ([NPHEC][3]) \n\n  [1]: https://www.who.int/news-room/q-a-detail/q-a-how-is-covid-19-transmitted\n  [2]: https://www.cancer.gov/publications/dictionaries/cancer-terms/def/alveoli\n  [3]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4369385/\n",
-    "Answer Assigned": [
-      {
-        "id": "usrDTYZtkXBziEsWP",
-        "email": "christin@mail.harvard.edu",
-        "name": "Christin Gilmer"
-      }
-    ],
-    "Context Assigned": [
-      {
-        "id": "usrDTYZtkXBziEsWP",
-        "email": "christin@mail.harvard.edu",
-        "name": "Christin Gilmer"
-      }
-    ],
-    "Last edited (simplified)": "2020-07-14T01:00:25.000Z",
-    "Last edited (experts say)": "2020-07-14T00:55:28.000Z",
-    "Last modified": "2020-07-15"
-  },
-  {
     "id": "recZ1uyhYuOzT4coz",
     "Question": "Can disinfecting wipes be reused?",
     "Item status": "Published",
@@ -472,38 +758,6 @@
     ],
     "Last edited (simplified)": "2020-06-28T11:52:39.000Z",
     "Last edited (experts say)": "2020-06-29T11:02:01.000Z",
-    "Last modified": "2020-07-15"
-  },
-  {
-    "id": "reclucIrtcCSCbOn6",
-    "Question": "Is the Russian vaccine a successful cure for COVID-19? ",
-    "Item status": "Published",
-    "Background & context": "Vaccines are not medicines that can treat or cure diseases, as they are made for prevention. Vaccines contain a weakened, killed, or partial form of the same germs that cause the disease in order to stimulate the body's immune response to develop immunity without having to get sick. The World Health Organization (WHO) reports that there are around 160 vaccines for COVID-19 in development as of July 6, 2020, with at least 21 vaccine candidates under clinical evaluation and 139 under pre-clinical evaluation. This includes U.K.'s Oxford University and AstraZeneca vaccine candidate that is currently in Phase 3 clinical trials with 5,000 people in Brazil and 4,000 people in the U.K., Australia's University of Queensland vaccine candidate that started phase one clinical trials with 120 people to be observed over 12 months (including a proportion of people assigned to receive a placebo for comparison), the U.S.'s Inovio Pharmaceuticals vaccine candidate that completed Phase 1 clinical trials with 40 people (reports suggest 94% had \"overall immune responses at week six after two doses\" and after eight weeks the vaccine candidate was considered \"safe and well-tolerated with no serious adverse events\"), and China's CanSino Biologics vaccine candidate that completed phase two clinical trials with 508 people and is planning to begin phase three clinical trials with 40,000 people from multiple countries.\n",
-    "What our experts say": "COVID-19 vaccines are being developed to prevent people from getting the disease, not to treat or cure patients who already have the disease. Many experts continue to caution that a vaccine may not be widely available until the end of 2020 or beginning of 2021, which would already be record-breaking timing for vaccine development.\n\nRecently, Russia's Sechenov First Moscow State Medical University announced that they are completing human clinical trials of a COVID-19 vaccine, with 18 people vaccinated on June 18 (to be discharged on July 15) and 20 people vaccinated on June 23 (to be discharged on July 20). This is one of several human clinical trials for COVID-19 vaccine candidates happening around the world, with some trials involving hundreds or thousands of people over observation periods of many months. Rigorous clinical trials are important to understand whether vaccine candidates are safe and without major negative side effects, as well as whether vaccine candidates are effective and can actually provide immunity for long periods of time.\n\nRussia's announcement of their human clinical trials has been accompanied by projections that the vaccine could be distributed in August and mass produced by private corporations in September. There are many challenges in scaling up from a vaccine candidate that has been tested on a few dozen people in one country to a commercially available vaccine that is available and suitable for millions of diverse people around the world. \n",
-    "Glossary Terms": [
-      "rec9qqItwSTjq3Eae",
-      "recMJMGqkERKGcbL5",
-      "recJK5tI9LgCGFRAU"
-    ],
-    "Variation of the answer depending on country of residence": "\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "\n",
-    "Other resources": "1. Vaccines: The Basics ([U.S. CDC][1])\n2. Russia Coronavirus Vaccine Could Be Distributed Next Month ([Newsweek][2])\n3. China's CanSino in talks for COVID-19 vaccine Phase III trial overseas ([Reuters][3])\n4. First data for Moderna Covid-19 vaccine show it spurs an immune response ([STAT News][4])\n\n  [1]: https://www.cdc.gov/vaccines/vpd/vpd-vac-basics.html\n  [2]: https://www.newsweek.com/russia-coronavirus-vaccine-could-distributed-next-month-1517398\n  [3]: https://www.reuters.com/article/us-health-coronavirus-china-vaccine/chinas-cansino-in-talks-for-covid-vaccine-phase-iii-trial-overseas-idUSKCN24C0HS\n  [4]: https://www.statnews.com/2020/07/14/moderna-covid19-vaccine-first-data-show-spurs-immune-response/\n",
-    "Answer Assigned": [
-      {
-        "id": "usr7F6wgKz1f26438",
-        "email": "jahuang@mail.harvard.edu",
-        "name": "Jessica Huang"
-      }
-    ],
-    "Context Assigned": [
-      {
-        "id": "usr7F6wgKz1f26438",
-        "email": "jahuang@mail.harvard.edu",
-        "name": "Jessica Huang"
-      }
-    ],
-    "Last edited (simplified)": "2020-07-15T02:07:10.000Z",
-    "Last edited (experts say)": "2020-07-15T01:24:12.000Z",
     "Last modified": "2020-07-15"
   },
   {
@@ -644,56 +898,6 @@
     ],
     "Last edited (simplified)": "2020-07-01T18:12:13.000Z",
     "Last edited (experts say)": "2020-07-01T20:14:54.000Z",
-    "Last modified": "2020-07-14"
-  },
-  {
-    "id": "recq1zzyVh3GSLrhz",
-    "Question": "What short- and long-term effects does COVID-19 have on other body parts, including lungs, brain and kidney?",
-    "Item status": "Published",
-    "Category": "Symptoms",
-    "Subcategory": "On: COVID-19 & short- and long-term effects",
-    "Source of the question": [
-      "Partner Organization"
-    ],
-    "Background & context": "Health practitioners, scientists, and journalists have reported major differences in COVID-19 symptoms from patient to patient. This includes differences in the severity of symptoms, in the duration of symptoms, and in the organs affected. For example, some patients have reported lingering impacts of COVID-19 that lasted months, and the long-term effects of the disease are not fully known yet. Recently, more news has been circulating about COVID-19 and its impact on the brain following the publication of a study on British patients who experienced symptoms ranging from brain inflammation and delirium to nerve damage and stroke.\n",
-    "What our experts say": "As COVID-19 is a new illness, we don't know all of its short- and long-term impacts yet. Most people (80%) infected with COVID-19 have mild or no symptoms. Some of the short-term impacts for people with mild symptoms include shortness of breath in the lungs and airways, fever, cough, and body aches. For more severe cases, the short-term impacts can be varied and affect several organs. These include pulmonary embolisms (lungs), strokes (brain), and kidney damage due to a lack of oxygen or blood clots. The more severe the case and symptoms of COVID-19 in a person, the more likely major organs are negatively impacted by it.\n\nThe long-term effects of COVID-19 are being studied now. However, exhaustion, anxiety, headaches, and muscle aches have been reported most often in patients reporting symptoms many weeks after the beginning of their infection with COVID-19. As it has only been six months since the discovery of the virus, the real long-term impacts remain unknown. For some people infected with the virus, their symptoms have lasted longer than 100 days. Recent studies that have documented long term symptoms include lung scarring; heart damage; neurocognitive impacts like dizziness, loss of taste and smell, and headaches; renal failure; limited lung capacity and difficulty breathing among many others. One notable aspect of the long-term impacts is that they also effect people who had mild cases, not just those who were hospitalized or had severe symptoms for weeks. Though most people recover from the virus within a few weeks, the long-term effects of the virus could impact many organs in different ways.\n\n\n",
-    "Glossary Terms": [
-      "reccJtjL0z55J1CPG",
-      "reciKuzcOIBjSFsU4"
-    ],
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "stroke",
-      "brain",
-      "lungs",
-      "kidney",
-      "renal failure",
-      "impact",
-      "short-term",
-      "long-term",
-      "blood clot",
-      "headache",
-      "dizziness ",
-      "neurocognitive"
-    ],
-    "Other resources": "1. Coronavirus ([WHO][1]) \n2. What Long-Term Effects Could COVID-19 Have on Your Lungs? ([Banner Health][2]) \n3. Association of Cardiac Injury With Mortality in Hospitalized Patients With COVID-19 in Wuhan, China ([JAMA][3]) \n4. Neurologic Manifestations of Hospitalized Patients With Coronavirus Disease 2019 in Wuhan, China ([JAMA][4]) \n5. Acute Pulmonary Embolism in COVID-19 Patients on CT Angiography and Relationship to D-Dimer Levels ([Radiology][5]) \n6. COVID-19 and Kidney Failure in the Acute Care Setting: Our Experience From Seattle ([AJKD][6]) \n7. The Long-Temr Health Effects of COVID-19 ([GAVI][7]) \n8. How Covid-19 can damage the brain ([BBC][8]) \n9. Neurologic Features in Severe SARS-CoV-2 Infection ([NEJM][9]) \n10. Coronavirus: Kidney Damage Caused by COVID-19 ([Hopkins Medicine][10])\n11. The emerging spectrum of COVID-19 neurology: clinical, radiological and laboratory findings ([Brain][11])\n12. What are the potential long-term effects of having COVID-19? ([AP][12]) \n13. Extrapulmonary manifestations of COVID-19, see [Figure 2][13] ([Nature][14])\n\n  [1]: https://www.who.int/health-topics/coronavirus#tab=tab_1\n  [2]: https://www.bannerhealth.com/healthcareblog/teach-me/what-long-term-effects-could-covid19-have-on-your-lungs\n  [3]: https://jamanetwork.com/journals/jamacardiology/fullarticle/2763524?resultClick=1\n  [4]: https://jamanetwork.com/journals/jamaneurology/fullarticle/2764549\n  [5]: https://pubs.rsna.org/doi/10.1148/radiol.2020201561\n  [6]: https://www.ajkd.org/article/S0272-6386(20)30618-1/fulltext\n  [7]: https://www.gavi.org/vaccineswork/long-term-health-effects-covid-19\n  [8]: https://www.bbc.com/future/article/20200622-the-long-term-effects-of-covid-19-infection\n  [9]: https://www.nejm.org/doi/full/10.1056/NEJMc2008597\n  [10]: https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/coronavirus-kidney-damage-caused-by-covid19\n  [11]: https://academic.oup.com/brain/article/doi/10.1093/brain/awaa240/5868408\n  [12]: https://apnews.com/113bef255eb0c33570f77e33515a6ca6\n  [13]: https://pbs.twimg.com/media/Ec6A_F3UwAAf76_.png\n  [14]: https://www.nature.com/articles/s41591-020-0968-3.pdf\n",
-    "Answer Assigned": [
-      {
-        "id": "usrDTYZtkXBziEsWP",
-        "email": "christin@mail.harvard.edu",
-        "name": "Christin Gilmer"
-      }
-    ],
-    "Context Assigned": [
-      {
-        "id": "usr7F6wgKz1f26438",
-        "email": "jahuang@mail.harvard.edu",
-        "name": "Jessica Huang"
-      }
-    ],
-    "Last edited (simplified)": "2020-07-14T00:53:17.000Z",
-    "Last edited (experts say)": "2020-07-14T01:02:44.000Z",
     "Last modified": "2020-07-14"
   },
   {
@@ -2812,38 +3016,6 @@
     ],
     "Last edited (simplified)": "2020-06-11T21:51:59.000Z",
     "Last edited (experts say)": "2020-06-22T19:29:45.000Z",
-    "Last modified": "2020-07-07"
-  },
-  {
-    "id": "recYJj2fg6IEXFncp",
-    "Question": "How effective are Remdesivir and Favipiravir and can they be taken without medical supervision? ",
-    "Item status": "Published",
-    "Source of the question": [
-      "Social Media"
-    ],
-    "Country question was sourced from": [
-      "USA"
-    ],
-    "Background & context": "With efforts to find therapeutic options for the millions of patients suffering with COVID-19, there has been a rapid pace at drug evaluation. While some treatments are being evaluated and generic versions might be approved, there is still not enough data to confirm specific treatments for COVID-19 patients. Studies have found successful outcomes with Remdesivir, which has been approved in several countries. While these emergent use applications are an encouraging sign, it is important to monitor patients closely and report their outcomes or negative side effects. \n",
-    "What our experts say": "SARS-CoV-2/COVID-19 is a new infectious disease and, while there has been a lot of research aimed at identifying possible treatments, many therapies remain under investigation for both safety and effectiveness. \n \nIn a recent study funded by Gilead Sciences, a biopharmaceutical company, 53 patients with severe cases of COVID-19 were prescribed Remdesivir, and researchers observed clinical improvements, including a decreased need for breathing support, in 68% (36 of 53 patients) of the participants. While the initial data looks promising for this drug, it is important to note that this initial study was small and the drug has not been rigorously studied for COVID-19. In addition, the study did not include patients with mild or moderate COVID-19 symptoms. \n \nFavipiravir is also considered to be a possible treatment for COVID-19. A small study showed the virus being reduced faster with the drug in comparison to other medications. Without further study, there is not enough evidence suggesting effectiveness and safety.\n\nIn general, studies remain underway, and it is too early to determine which medications may be effective therapeutic options for COVID-19 patients. At present, Remdesivir has been given emergency use authorization in the U.S. and approval in Japan for severe COVID-19 cases. When either Remdesivir or Favipiravir is prescribed, it is important that medical providers monitor the patient's clinical condition noting effectiveness and possible negative side effects. Taking either drug without medical supervision is not recommended and may be harmful. \n",
-    "Glossary Terms": [
-      "rec9hdVoRIEkjJwtk"
-    ],
-    "Variation of the answer depending on country of residence": "Yes\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "treatment"
-    ],
-    "Other resources": "1. Compassionate Use of Remdesivir for Patients with Severe Covid-19. ([NEJM][1])\n2. Gilead Remdesivir Release. ([Gilead][2])\n3. Potential therapeutic agents against COVID-19: What we know so far ([J Chin Med Assoc][3])\n4. A review of the safety of favipiravir- a potential treatment in the COVID-19 pandemic? ([Journal of Virus Eradication][4])\n\n  [1]: https://www.nejm.org/doi/full/10.1056/NEJMoa2007016\n  [2]: https://www.gilead.com/news-and-press/press-room/press-releases/2020/6/gilead-announces-results-from-phase-3-trial-of-remdesivir-in-patients-with-moderate-covid-19\n  [3]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7176266/pdf/ca9-publish-ahead-of-print-10.1097.jcma.0000000000000318.pdf\n  [4]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7213073/pdf/jve-6-45.pdf\n",
-    "Answer Assigned": [
-      {
-        "id": "usrRCayeWUVUEsOXd",
-        "email": "saskia.vanrijn57@gmail.com",
-        "name": "Saskia Popescu"
-      }
-    ],
-    "Last edited (simplified)": "2020-06-24T02:10:02.000Z",
-    "Last edited (experts say)": "2020-06-26T14:33:18.000Z",
     "Last modified": "2020-07-07"
   },
   {
