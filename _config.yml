@@ -126,22 +126,12 @@ algolia:
   files_to_exclude:
     - fr/index.html
     - hi/index.html
-    - hi/**/index.html
-    - about/index.html
-    - fr/about/index.html
-    - hi/about/index.html
     - glossary.html
     - fr/glossary.html
     - hi/glossary.html
-    - meet-our-experts/index.html
-    - hi/meet-our-experts/index.html
-    - fr/meet-our-experts/index.html
-    - ask-a-question/index.html
-    - hi/ask-a-question/index.html
-    - fr/ask-a-question/index.html
-    - thanks/index.html
-    - fr/thanks/index.html
-    - hi/thanks/index.html
+    - glossary/**/index.html
+    - /fr/glossary/**/index.html
+    - /hi/glossary/**/index.html
     - /questions/what-does-the-scientific-literature-say-about-using-hydroxychloroquine-to-prevent-treat-or-cure-covid-19/index.html
     - /questions/what-do-we-know-so-far-about-airborne-transmission-and-how-does-it-differ-from-respiratory-droplet-transmission/index.html
     - /questions/what-are-the-many-benefits-of-testing/index.html
@@ -154,41 +144,58 @@ algolia:
     - /questions/are-there-ayurveda-cures-for-covid-19/index.html
     - /questions/how-are-migrant-laborers-in-india-being-impacted-by-the-covid-19-pandemic/index.html
     - /questions/is-there-any-relationship-between-the-use-of-antibiotics-and-treatment-of-covid-19/index.html
+    - /questions/is-being-vaccinated-with-bcg-protective-for-covid-19/index.html
     - /fr/questions/quel-est-le-lien-entre-lutilisation-des-antibiotiques-et-le-traitement-du-covid-19-/index.html
     - /fr/questions/que-dit-la-science-sur-lutilisation-de-lhydroxychloroquine-pour-prevenir-traiter-ou-guerir-le-covid-19-/index.html
     - /fr/questions/le-covid-19-peut-il-etre-transmis-par-une-personne-qui-ne-presente-aucun-symptome-/index.html
     - /fr/questions/le-port-de-gants-freine-t-il-la-propagation-de-covid-19-/index.html
     - /fr/questions/que-dit-la-science-sur-lexposition-au-soleil-et-le-covid-19/index.html
     - /fr/questions/la-vaccination-au-bcg-protege-t-elle-contre-la-covid-19-/index.html
+    - /hi/questions/recv1fibewvuuxato/index.html
+    - /hi/questions/rectmwxdfhifp6pdb/index.html
+    - /hi/questions/reci45jbg4aufgduv/index.html
+    - /hi/questions/recwunukde0kpkime/index.html
+    - /hi/questions/reckr9zdev3kkioty/index.html
+    - /hi/questions/recq6hvn8x5elieuc/index.html
+    - /hi/questions/recumsgr9xoujytgv/index.html
+    - /hi/questions/recghrwergppezj4b/index.html
+    - /hi/questions/rechsteypqyteuafa/index.html
+    - /hi/questions/recrcgvlvdn7xkmog/index.html
+    - /hi/questions/recnzyf0bkn6juj8i/index.html
+    - /hi/questions/recom14qzz4qpdgqr/index.html
+    - /hi/questions/recp8hn2n3yubwhjt/index.html
+    - /hi/questions/recn7oxpicfpvxq7u/index.html
+    - /hi/questions/reczxe6na5otsxnrc/index.html
+    - /hi/questions/recbsejrbckweuovp/index.html
 
 # Glossary
-algolia:
-  application_id: XVQE72Q0TQ
-  index_name: covid19_glossary
-  search_only_api_key: d031b4f0809f3999da155451bffba6db
-  nodes_to_index: 'h4, p'
-  files_to_exclude:
-    - /index.html
-    - /fr/index.html
-    - /hi/index.html
-    - /hi/**/index.html
-    - /about/index.html
-    - /fr/about/index.html
-    - /hi/about/index.html
-    - /questions/**/index.html
-    - /fr/questions/**/index.html
-    - /hi/questions/**/index.html
-    - /meet-our-experts/
-    - /meet-our-experts/index.html
-    - /hi/meet-our-experts/index.html
-    - /fr/meet-our-experts/index.html
-    - /ask-a-question/
-    - /ask-a-question/index.html
-    - /hi/ask-a-question/index.html
-    - /fr/ask-a-question/index.html
-    - /thanks/index.html
-    - /fr/thanks/index.html
-    - /hi/thanks/index.html
+# algolia:
+#   application_id: XVQE72Q0TQ
+#   index_name: covid19_glossary
+#   search_only_api_key: d031b4f0809f3999da155451bffba6db
+#   nodes_to_index: 'h4, p'
+#   files_to_exclude:
+#     - /index.html
+#     - /fr/index.html
+#     - /hi/index.html
+#     - /hi/**/index.html
+#     - /about/index.html
+#     - /fr/about/index.html
+#     - /hi/about/index.html
+#     - /questions/**/index.html
+#     - /fr/questions/**/index.html
+#     - /hi/questions/**/index.html
+#     - /meet-our-experts/
+#     - /meet-our-experts/index.html
+#     - /hi/meet-our-experts/index.html
+#     - /fr/meet-our-experts/index.html
+#     - /ask-a-question/
+#     - /ask-a-question/index.html
+#     - /hi/ask-a-question/index.html
+#     - /fr/ask-a-question/index.html
+#     - /thanks/index.html
+#     - /fr/thanks/index.html
+#     - /hi/thanks/index.html
 
 
 # Airtable Fetch Configuration

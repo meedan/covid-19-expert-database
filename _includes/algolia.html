@@ -13,16 +13,28 @@
 
     const hitTemplate = function (hit) {
         const url = `{{ site.baseurl }}${hit.url}#${hit.anchor}`;
-        const title = hit._highlightResult.title ? hit._highlightResult.title.value : 'NO TITLE!';
+        let title = '';
+        if (hit._highlightResult.title) {
+            title = hit._highlightResult.title.value;
+        } else {
+            title = hit['Question'];
+        }
 
         let description = '';
         if (hit.description) {
             description = hit.description;
         } else if (hit.short_description) {
             description = hit.short_description;
+        } else if (hit.content) {
+            description = hit.content;
         } else {
             description = hit.body;
         }
+
+        if(description) {
+            description = description.substring(0, 110).concat('...');
+        }
+        
 
         const last_modified = 'Last modified' in hit ? hit['Last modified'] : '';
 
@@ -73,6 +85,9 @@
             templates: {
                 item: hitTemplate,
             },
+        }),
+        instantsearch.widgets.stats({
+            container: '#stats',
         }),
     ]);
 
