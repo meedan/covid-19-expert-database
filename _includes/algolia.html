@@ -34,9 +34,11 @@
         if(description) {
             description = description.substring(0, 110).concat('...');
         }
-        
 
-        const last_modified = 'Last modified' in hit ? hit['Last modified'] : '';
+        const last_modified = 'Last modified' in hit ?
+            new Date(hit['Last modified'])
+                .toLocaleDateString(undefined, { weekday: undefined, year: 'numeric', month: 'long', day: 'numeric' })
+            : '';
 
         const breadcrumbs = hit._highlightResult.headings ?
             hit._highlightResult.headings.map(match => {
