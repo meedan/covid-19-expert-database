@@ -8,15 +8,13 @@
       searchClient: algoliasearch('XVQE72Q0TQ', 'd031b4f0809f3999da155451bffba6db'),
       searchFunction: function(helper) {
         helper.addDisjunctiveFacetRefinement('lang', '{{ page.lang }}').search();
-      }
+      },
     });
 
     const hitTemplate = function (hit) {
-        let url = `{{ site.baseurl }}${hit.url}#${hit.anchor}`;
-        let title = 'NO TITLE!';
-        if (hit._highlightResult.title) {
-            title = hit._highlightResult.title.value;
-        }
+        const url = `{{ site.baseurl }}${hit.url}#${hit.anchor}`;
+        const title = hit._highlightResult.title ? hit._highlightResult.title.value : 'NO TITLE!';
+
         let description = '';
         if (hit.description) {
             description = hit.description;
@@ -26,14 +24,15 @@
             description = hit.body;
         }
 
-        let last_modified = hit.date;
+        const last_modified = 'Last modified' in hit ? hit['Last modified'] : '';
 
-        let breadcrumbs = '';
-        if (hit._highlightResult.headings) {
-            breadcrumbs = hit._highlightResult.headings.map(match => {
+        const breadcrumbs = hit._highlightResult.headings ?
+            hit._highlightResult.headings.map(match => {
                 return `<span class="post-breadcrumb">${match.value}</span>`
-            }).join(' > ')
-        }
+            }).join(' > ') : '';
+
+        const topics = 'Topics' in hit ? hit['Topics'].join(', ') : '';
+
         return `
             <a href="${url}" title="${title}" class="question-wrapper">
                 <div class="question">
@@ -43,7 +42,7 @@
                     ${description}
                 </div>
                 <div class="category">
-
+                    ${topics}
                 </div>
                 <div class="last-modified">
                     ${last_modified}
