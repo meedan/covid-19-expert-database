@@ -24,7 +24,10 @@
             description = hit.body;
         }
 
-        const last_modified = 'Last modified' in hit ? hit['Last modified'] : '';
+        const last_modified = 'Last modified' in hit ?
+            new Date(hit['Last modified'])
+                .toLocaleDateString(undefined, { weekday: undefined, year: 'numeric', month: 'long', day: 'numeric' })
+            : '';
 
         const breadcrumbs = hit._highlightResult.headings ?
             hit._highlightResult.headings.map(match => {
