@@ -23,7 +23,7 @@ module Jekyll
       }
 
       terms.each{ |t|
-        definition = t['Definition']&.gsub('"', '\\"')
+        definition = t['Definition']&.chomp&.strip&.gsub('"', '&quot;')
         replacement = <<~GLOSSARY
           <a
             data-tippy-content="<h6>#{t['Term']}</h6>#{definition}"
