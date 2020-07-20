@@ -1,5 +1,387 @@
 [
   {
+    "id": "reckgFENw9gVgnWtC",
+    "Question": "How long is a person infected with COVID-19 contagious?",
+    "Item status": "Published",
+    "Category": "Spread",
+    "Subcategory": "On: COVID-19 & contagiousness",
+    "Source of the question": [
+      "Social Media"
+    ],
+    "Country question was sourced from": [
+      "USA"
+    ],
+    "Background & context": "As COVID-19 is a new virus that researchers have been studying for just under six months, we are still learning new information about it every day. This includes how long people might be contagious with the virus, though the evidence we have so far has given us a solid idea of this length of time for the vast majority of patients. There are still some outliers, but most patients fall within these time frames of contagiousness.\n",
+    "What our experts say": "Recent research has shown that a person infected with COVID-19 may be able to spread the virus up to 72 hours before they begin having any symptoms up to 10 days after symptoms completely disappear. New studies have suggested that people are the most infectious during the 48 hours before they start to experience any symptoms. People who have tested positive for COVID-19 but never develop any symptoms over the following 10 days from the time they took the test are likely no longer contagious. There are always exceptions to these guidelines, so experts still recommend completing 14 days of isolation after testing positive for the virus, being exposed to a person who has been infected with COVID-19, or developing any symptoms. The best way to ensure you are no long contagious is by having two negative COVID-19 tests 24 hours apart that are both negative.\n",
+    "Glossary Terms": [
+      "recOcmLKbzV6NUkAH"
+    ],
+    "Variation of the answer depending on country of residence": "No\t\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "contagious",
+      "symptoms"
+    ],
+    "Other resources": "1. Clinical Questions about COVID-19: Questions and Answers ([U.S. CDC][1])\n2. Harvard Medical School questions about COVID-19 exposure ([Harvard Health][2])\n\n  [1]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/faq.html\n  [2]: https://www.health.harvard.edu/diseases-and-conditions/if-youve-been-exposed-to-the-coronavirus\n",
+    "How often revision needed": "Bi-monthly",
+    "Answer Assigned": [
+      {
+        "id": "usrDTYZtkXBziEsWP",
+        "email": "christin@mail.harvard.edu",
+        "name": "Christin Gilmer"
+      }
+    ],
+    "Expert Database (Hindi)": [
+      "rec7shgDZuifvN3Lk"
+    ],
+    "Last edited (simplified)": "2020-06-15T18:54:13.000Z",
+    "Last edited (experts say)": "2020-06-23T00:52:05.000Z",
+    "Last modified": "2020-07-20"
+  },
+  {
+    "id": "recFGva1N4EIOvcyA",
+    "Question": "Are there ayurveda cures for COVID-19? ",
+    "Item status": "Published",
+    "Category": "Treatment",
+    "Subcategory": "On: COVID-19 & Ayurveda",
+    "Source of the question": [
+      "Newsroom"
+    ],
+    "Country question was sourced from": [
+      "India"
+    ],
+    "Background & context": "Ayurveda is one of the world's oldest systems of traditional medicine. Since there is no approved treatment for COVID-19 yet, many people are turning to alternative or traditional medicine for answers. The Chief Executive Officer (CEO) of a major manufacturer of herbal products, Patanjali,  has claimed that the company has found an Ayurvedic cure for COVID-19. Patanjali claims that COVID-19 patients showed a 100% recovery rate when administered the Ayurvedic medicine known as 'Coronil,' which is comprised of a mixture of Tulsi, Giloy, and Ashwagandha. It is unclear whether this was a randomized controlled trial, and the company has claimed it conducted a clinical case study with \"hundreds of positive patients,\" which showed \"100 percent favorable results.\" The clinical trials were claimed to have been conducted in two cities in India after securing regulatory approval last week. According to the press release, COVID-19 patients who were administered Ayurvedic medicine recovered in 2-14 days and tested negative for the virus, but no data has been released to the public yet.\n",
+    "What our experts say": "Ayurveda is ancient Indian medical system that focuses on natural, holistic approaches to physical and mental health. Currently, there is no evidence to indicate that Ayurvedic medicine cures or prevents COVID-19. Similar claims for Ayurvedic cures have been made in the past for other infectious diseases with no known cure, such as HIV/AIDS, without any reliable evidence. Such bold claims should always be treated with caution. \nIn this particular case, the CEO of a major manufacturer of herbal products has claimed to have produced an Ayurvedic cure without providing any independent data to support these claims. While the company claims to have tested hundreds of patients in a \"clinical case study\" which showed a 100% recovery rate, it is unclear whether any control group was included or whether the design of the study was strong enough to substantiate such claims. In addition, the company stated that all patients tested negative for the virus within 5-14 days after receiving the Ayurvedic medicine, but it is unclear how long each patient had the virus or were symptomatic. \nThe study also falsely claimed that Ayurvedic medicine is a cure for COVID-19 without disclosing how many patients were included in their research and how they can be sure that patients would not have tested negative naturally once the immune system fought off the infection over time. Ayurvedic medicine may be a helpful complement to Western medicine, and may not actively cause harm in some cases, but it should not be consumed as a cure for COVID-19. Instead, traditional prevention measures such as wearing masks and social distancing, should be followed to prevent infections.\n",
+    "Glossary Terms": [
+      "rec5OdFSvwX0mLrxy"
+    ],
+    "Variation of the answer depending on country of residence": "No\t\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "Ayurveda",
+      "traditional medicine",
+      "treatment",
+      "cure"
+    ],
+    "Other resources": "1. Ayurveda ([Hopkins medicine][1]) \n2. Coronil for COVID-19: Patanjali claims its Ayurvedic medicine can cure coronavirus infection ([Times Now][2]) \n3. Ayurvedic Medicine: In Depth ([NIH][3]) \n\n  [1]: https://www.hopkinsmedicine.org/health/wellness-and-prevention/ayurveda\n  [2]: https://www.timesnownews.com/health/article/coronil-for-covid-19-patanjali-claims-its-ayurveda-medicine-can-cure-coronavirus-infection/606723\n  [3]: https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth\n",
+    "Answer Assigned": [
+      {
+        "id": "usraKwS6t1i6IMrwY",
+        "email": "mmn452@mail.harvard.edu",
+        "name": "Mohit Nair"
+      }
+    ],
+    "Expert Database (Hindi)": [
+      "reclmbP3IRmRL4CmJ"
+    ],
+    "Media": [
+      {
+        "id": "att62bYKFoaB1kBPt",
+        "url": "https://dl.airtable.com/.attachments/bb06b0e6ff2f8b62c90814acb2e515bb/d35064a0/Slide1.png",
+        "filename": "Slide 1.png",
+        "size": 138326,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a9b5d03f2ba880dfbea94f9b99d77850/5f6ee3db",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a60adf097c1192766da816b5abbc3781/66782b39",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e639ac8039c79f3aab34bcd8ed0254ec/d935cb2c",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attOOrFAKoxf7doBG",
+        "url": "https://dl.airtable.com/.attachments/7789c0bf7b802efea872ff85512c7448/20e6271b/Slide2.png",
+        "filename": "Slide 2.png",
+        "size": 202113,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/314263ffd7ffc4b121e02d88224355a0/775a9627",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/89d3039a0b75bd94a9959829efc2aba5/63ba5964",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/cbaab4a9ae8cc04c7d7e60a994d28e40/457a3cbb",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attjafIc54Fim6jnC",
+        "url": "https://dl.airtable.com/.attachments/4963c046ec77b616abea74ae9a28985a/aed4ddd2/Slide3.png",
+        "filename": "Slide 3.png",
+        "size": 209233,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ee62da37be828760312321b8f2950005/5942f3bb",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b4a47bcb533a6eb50bc9401932af5d15/76009618",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/92eff96d58b9cfa5b2095eb12bcf8c84/7e37f50b",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "Last edited (simplified)": "2020-07-20T17:46:48.000Z",
+    "Last edited (experts say)": "2020-06-22T14:33:37.000Z",
+    "Last modified": "2020-07-20"
+  },
+  {
+    "id": "recSK7NRoa33YUdrv",
+    "Question": "Can COVID-19 be transmitted by a person who shows no symptoms?",
+    "Item status": "Published",
+    "Category": "Spread",
+    "Subcategory": "On: COVID-19 & asymptomatic & pre-symptomatic transmission",
+    "Source of the question": [
+      "Social Media"
+    ],
+    "Country question was sourced from": [
+      "USA"
+    ],
+    "Background & context": "The incubation period of the virus is the time between the moment a person is exposed to the virus and when they first show symptoms. During this period, the virus is multiplying in the body, and once enough of the virus has been replicated, people may indeed show symptoms. However, some people may well be infected with the virus even if they don't have any symptoms. For people who are pre-symptomatic and asymptomatic, they may still spread the virus to others during this period of time.\n",
+    "What our experts say": "According to current evidence, it is believed that people with no symptoms, who may be either asymptomatic or pre-symptomatic,** **are playing a major role in the transmission of COVID-19. That means symptom-based screening alone is unlikely to detect all of the infectious cases and control the transmission of COVID-19. The incubation period of COVID-19, which is the period between a person's exposure to the virus and the first sign of their symptoms (if they develop any at all), ranges from 5 to 14 days. Some people may be contagious during this 2-14 day incubation period before they have symptoms, making those cases \"pre-symptomatic\". The United States Centers for Disease Control (U.S. CDC) has stated that 40% of COVID-19 cases are potentially spread by people who are pre-symptomatic. Other people infected with COVID-19 may never show symptoms at all and are called \"asymptomatic\". Asymptomatic people are still contagious throughout the time they are infected with the virus until their body clears it. The U.S. CDC estimates that 35% of COVID-19 cases are asymptomatic.\n\nUPDATED: July 19, 2020: On July 10, 2020, the U.S. CDC has revised its estimates and now states they believe 40% of COVID-19 cases are asymptomatic. \n",
+    "Glossary Terms": [
+      "recE7xmnXgtg8ZanX",
+      "recJ4Q812SOdo1NGM",
+      "recx2PeCcs1Awb9rG",
+      "rec8po7cJXvqkaQYB",
+      "recbZcFUtsYMA9Vsh"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "asymptomatic",
+      "transmission",
+      "contagion",
+      "infection",
+      "spread",
+      "symptoms"
+    ],
+    "Other resources": "1. COVID-19 situation report ([WHO][1]) \n2. Presymptomatic SARS-CoV-2 Infections and Transmission in a Skilled Nursing Facility ([NEJM][2])\n3. Research letter: Asymptomatic SARS-CoV-2 Infection in Household Contacts of a Healthcare Provider, Wuhan, China ([U.S. CDC][3])\n4. A study about RT-PCR COVID-19 tests and their false-negative rate ([AIM][4])\n5. Research paper: The airborne lifetime of small speech droplets and their potential importance in SARS-CoV-2 transmission ([PNAS][5])\n6. CDC Pandemic Planning Scenarios ([U.S. CDC][6])\n\n  [1]: https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf\n  [2]: https://www.nejm.org/doi/full/10.1056/NEJMoa2008457\n  [3]: https://wwwnc.cdc.gov/eid/article/26/8/20-1016_article\n  [4]: https://www.acpjournals.org/doi/10.7326/M20-1495#.XrxprFvK46Y.twitter\n  [5]: https://www.pnas.org/content/early/2020/05/12/2006874117\n  [6]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/planning-scenarios.html\n",
+    "How often revision needed": "Monthly",
+    "Impact on public policy?": "No",
+    "Expert Database (French)": [
+      "reccy9EmiOk9SlhJ7"
+    ],
+    "Expert Database (Hindi)": [
+      "recWuNukdE0KpKIme"
+    ],
+    "Editorial notes:": "\n",
+    "Translation notes": "Okay I changed thhis detail",
+    "Last edited (simplified)": "2020-06-23T11:57:16.000Z",
+    "Last edited (experts say)": "2020-07-20T17:45:50.000Z",
+    "Last modified": "2020-07-20"
+  },
+  {
+    "id": "recSPXr3HPZ8WQcyO",
+    "Question": "What do we know so far about dexamethasone as a potential treatment for COVID-19?",
+    "Item status": "Published",
+    "Category": "Treatment",
+    "Subcategory": "On: COVID-19 and dexamethasone",
+    "Source of the question": [
+      "Newsroom"
+    ],
+    "Country question was sourced from": [
+      "USA"
+    ],
+    "Background & context": "Dexamethasone has recently been in the news due to its alleged early success in the RECOVERY (Randomised Evaluation of Covid-19 Therapy) trial, led by a team from Oxford University in the UK. This study is the world's largest and was launched in March to test six potential COVID-19 treatments - five pre-existing medications and convalescent plasma from recovered COVID-19 patients - to determine whether or not they can help treat cases of COVID-19. Though this study has received significant media attention since the search for any potential treatments is urgent, no study has been published by the RECOVERY team as of yet and no other countries have approved dexamethasone for severe cases of COVID-19. \n\n\n\n",
+    "What our experts say": "Dexamethasone is a low-cost, anti-inflammatory medication that is part of the corticosteroid family. Corticosteroids function similarly to the cortisol produced in the body's adrenal glands yet they are synthetically made. Corticosteroids are commonly prescribed to suppress the immune system and reduce swelling and itching common to allergic reactions. \nDexamethasone has been widely used since the 1960s, but it has recently been part of several studies exploring potential therapies for COVID-19. In the RECOVERY (Randomised Evaluation of Covid-19 Therapy) Trial at Oxford University (UK), the largest COVID-19 drug trial to date, researchers studied the impact of dexamethasone by comparing the roughly 2,000 patients who received the medication with the 4,000 patients who did not receive the medication. They found that the mortality risk was lowered for patients with severe cases of COVID-19 who were on ventilators or receiving oxygen. For patients with mild cases of COVID-19, beneficial effects were not observed. \nDexamethasone has not been approved as an official treatment for COVID-19 outside the United Kingdom thus far, and the World Health Organization (WHO) has urged caution since these results are preliminary, have yet to be evaluated through the peer-review process, and represent findings from only one trial. Despite this, the medication is currently being used in several countries as a part of various treatment strategies for COVID-19. The WHO has also recently added dexamethasone and other steroids into its treatment guidelines for COVID-19.\nIn two other recent studies using corticosteroidal medications (including dexamethasone) as potential treatments for COVID-19, one found a reduction in the number of days patients required ventilator support, and the other found that the corticosteroid medications were associated with an increased duration of illness (among other adverse impacts). Corticosteroids, including dexamethasone, are still an unproven treatment for COVID-19.\n",
+    "Glossary Terms": [
+      "rec5W6RYzptKevaPE"
+    ],
+    "Variation of the answer depending on country of residence": "Yes\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "treatment",
+      "United Kingdom",
+      "corticosteroid"
+    ],
+    "Other resources": "1. Dexamethasone (Oral Route) ([Mayo Clinic][1]) \n2. Low-cost dexamethasone reduces death by up to one third in hospitalised patients with severe respiratory complications of COVID-19 ([Oxford/RECOVERY][2]) \n3. Dexamethasone in Hospitalized Patients with Covid-19 — Preliminary Report ([NEJM/RECOVERY][3])\n4. WHO urges caution on 'breakthrough' coronavirus drug dexamethasone, citing early data ([CNBC][4]) \n5. U.K. approves use of life-saving coronavirus drug dexamethasone in ‘biggest breakthrough yet’ — it costs £5 per patient ([MarketWatch][5]) \n6. This national clinical trial aims to identify treatments that may be beneficial for people hospitalised with suspected or confirmed COVID-19 ([Oxford/RECOVERY][6]) \n7. Coronavirus: Dexamethasone proves first life-saving drug ([BBC][7]) \n8. Impact of corticosteroid therapy on outcomes of persons with SARS-CoV-2, SARS-CoV, or MERS-CoV infection: a systematic review and meta-analysis ([Nature][8]) \n9. Dexamethasone Treatment for the Acute Respiratory Distress Syndrome: A Multicentre, Randomised Controlled Trial ([The Lancet][9]) \n10. Q&A: Dexamethasone and COVID-19 ([WHO][10]) \n11. Dexamethasone in Hospitalized Patients with Covid-19 — Preliminary Report ([NEJM][11]) \n\n  [1]: https://www.mayoclinic.org/drugs-supplements/dexamethasone-oral-route/description/drg-20075207\n  [2]: https://www.recoverytrial.net/news/low-cost-dexamethasone-reduces-death-by-up-to-one-third-in-hospitalised-patients-with-severe-respiratory-complications-of-covid-19\n  [3]: https://www.nejm.org/doi/full/10.1056/NEJMoa2021436\n  [4]: https://www.cnbc.com/2020/06/17/coronavirus-update-who-urges-caution-on-dexamethasone-citing-early-data.html\n  [5]: https://www.marketwatch.com/story/uk-approves-use-of-life-saving-coronavirus-drug-dexamethasone-in-biggest-breakthrough-yet-2020-06-16\n  [6]: https://www.recoverytrial.net\n  [7]: https://www.bbc.com/news/health-53061281\n  [8]: https://www.nature.com/articles/s41375-020-0848-3\n  [9]: https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(19)30417-5/fulltext\n  [10]: https://www.who.int/news-room/q-a-detail/q-a-dexamethasone-and-covid-19\n  [11]: https://www.nejm.org/doi/full/10.1056/NEJMoa2021436?query=RP\n",
+    "How often revision needed": "Weekly",
+    "Impact on public policy?": "Potentially; first approved treatment in UK",
+    "Answer Assigned": [
+      {
+        "id": "usrDTYZtkXBziEsWP",
+        "email": "christin@mail.harvard.edu",
+        "name": "Christin Gilmer"
+      }
+    ],
+    "Expert Database (Hindi)": [
+      "recp8Hn2n3YuBwhjt"
+    ],
+    "Media": [
+      {
+        "id": "attYbdxViKV19YFeg",
+        "url": "https://dl.airtable.com/.attachments/50df63e6f14a3e3db93c09521433c9f4/48aafda1/Dexamethasone_v1_Meedan_8.png",
+        "filename": "Dexamethasone_v1_(Meedan)_(8).png",
+        "size": 136465,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/031b9ebd9b6e5573d6e8e3dc874ea683/cc228ef7",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3dba844be297366602b867ffa159f0fe/140a21f9",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a8ccecf267059ac01451e873635368aa/1b85a8e2",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attnLKfhKuZugz1XJ",
+        "url": "https://dl.airtable.com/.attachments/0f89485d695d7bb701ca95eb3d3b4217/ca6bf643/Dexamethasone_v1_Meedan_9.png",
+        "filename": "Dexamethasone_v1_(Meedan)_(9).png",
+        "size": 180804,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b06f731f1ac065d8bb49c25cb6b0e742/446f9b6e",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/1ad703cc8b6857bfcc10729e0baaecb4/9d4d4e8e",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/798e81a999faf8afdcbba3bac1253d54/3045cdd1",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attCjbA1rb9P5EUKE",
+        "url": "https://dl.airtable.com/.attachments/aa7ae0b98c95850e35ac2db58c77b13b/451dc99d/Dexamethasone_v1_Meedan_10.png",
+        "filename": "Dexamethasone_v1_(Meedan)_(10).png",
+        "size": 206849,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/8b7ee9b3270ba7f06541ddc3aea8c7df/b3dc9b9c",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/4f866c7ffc2a4b1aaac49c333c0e638c/6e521f56",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/db971c2c3fbbe5c4bed90f35c6bc4bce/43cd75ba",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "att5NmUAHxkZ5LcnD",
+        "url": "https://dl.airtable.com/.attachments/d9355c744df9118a21f8fee7f6ebf9d1/887213f6/Dexamethasone_v1_Meedan_11.png",
+        "filename": "Dexamethasone_v1_(Meedan)_(11).png",
+        "size": 225980,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e894aa691cb07e0319bcc578c09a8a1d/b5f42d97",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f939bd7ee74dea12e4be64a40ed9583c/2fe685bb",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c404b2e9cd7c0c5d5ce83486d2506f8c/8aaa15d6",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "Last edited (simplified)": "2020-06-25T02:15:36.000Z",
+    "Last edited (experts say)": "2020-06-25T18:50:18.000Z",
+    "Last modified": "2020-07-20"
+  },
+  {
+    "id": "recXUQjiQ2yaPXyxo",
+    "Question": "What do we know so far about airborne transmission and how does it differ from respiratory droplet transmission? ",
+    "Item status": "Published",
+    "Category": "Transmission",
+    "Subcategory": "Differences between airborne transmission and respiratory droplets",
+    "Background & context": "Respiratory droplet transmission happens when disease spreads through droplets expelled by an infected person, through coughing, sneezing, talking, or even just breathing; these droplets are larger than 5-10 micrometers. One micrometer is one millionth of a meter. Respiratory droplets are _relatively_ heavy, and fall to the ground quickly. In contrast, airborne transmission is when residue from droplets smaller than 5 micrometers, or dust particles carrying the virus, stay suspended in the air for longer and disperse farther by air currents. Scientists and the World Health Organization (WHO) have recognized that evidence is emerging on the possibility of airborne transmission, particularly in \"crowded, closed, poorly ventilated settings.\" If airborne transmission of COVID-19 is significant, this has major implications for containment efforts (ex. masks may be needed indoors and in socially-distant settings, ventilation systems may need to minimize recirculating air and find ways to filter or disinfect contaminated air, etc.). \n",
+    "What our experts say": "There is mounting evidence that COVID-19 can spread through airborne transmission, which is when a person infected with COVID-19 releases tiny droplets of fluid into the air called 'droplet nuclei' by coughing, sneezing, talking, or during medical procedures involving the release of these types of fluids. Droplet nuclei are very light, relatively dry, and microscopic in size so they can remain suspended in the air like a mist, which is why airborne transmission is also called 'aerosol transmission, and pose a risk of infection to people in close proximity. This is different from the prevailing theory that the virus spreads through bigger respiratory droplets that are heavier, fall to the ground relatively quickly, and do not remain suspended in the air or spread through the air. \n\nThe risk of airborne transmission remains under research**, **but it is potentially thought to be higher risk in enclosed spaces with poor ventilation. Retrospective analyses of \"super-spreader\" events, where a significant number of people have been infected at a single event, demonstrate that airborne transmission was likely responsible for infecting multiple people in the absence of direct, physical contact. One study analyzed an outbreak involving three separate families in a restaurant in Guangzhou, China and found that the spread pattern pointed to aerosol transmission due to poor ventilation in the restaurant. \n\nUntil July 7, 2020, the World Health Organization (WHO) continued to claim that evidence pointed to respiratory droplet transmission as the most plausible route of transmission for the virus, but 239 experts and public health professionals have cautioned against ruling out the possibility of airborne transmission and the WHO acknowledged emerging evidence regarding airborne transmission in poorly ventilated spaces on July 8, 2020. Public health experts have repeatedly warned that airborne transmission is most likely contributing to transmission, especially in indoor spaces, and recommendations should incorporate the need for sufficient ventilation, high efficiency filtration, and limiting crowded spaces, in addition to universal adoption of masks, social distancing, and frequent hand washing with soap and water.\n\nUPDATED: July 11, 2020: On July 9, 2020, the WHO has acknowledged that certain medical procedures can cause COVID-19 to be spread through airborne transmission. The group also noted that the potential for COVID-19 to spread through the air in crowded, indoor spaces that are inadequately ventilated \"cannot be ruled out.\" The WHO stated that more studies are urgently needed on this topic and reiterated their stance that the virus is primarily spread through contact and respiratory droplets.\n\n",
+    "Glossary Terms": [
+      "recy3qWpegJbN2rbV",
+      "recTotk6ZnYu3ib8P",
+      "rech6tPR0hLDA3JH3",
+      "rec5yviiSvJkufYvu"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No \n",
+    "Topics": [
+      "aerosol",
+      "airborne",
+      "transmission",
+      "droplet",
+      "respiratory droplets"
+    ],
+    "Other resources": "1. Modes of transmission of virus causing COVID-19: implications for IPC precaution recommendations ([WHO][1])\n2. Open Letter: It is Time to Address Airborne Transmission of COVID-19 ([Clinical Infectious Diseases][2])\n3. W.H.O. to Review Evidence of Airborne Transmission of Coronavirus ([NYT][3])\n4. 239 Experts With One Big Claim: The Coronavirus Is Airborne ([NYT][4])\n5. Evidence for probable aerosol transmission of SARS-CoV-2 in a poorly ventilated restaurant ([medRxiv][5])\n6. Scientists Urge WHO To Update Guidance On Airborne Transmission Of The Coronavirus ([NPR][6])\n7. Aerodynamic Characteristics and RNA Concentration of SARS-CoV-2 Aerosol in Wuhan Hospitals during COVID-19 Outbreak ([bioRxiv][7])\n8. Coronavirus: WHO rethinking how Covid-19 spreads in air ([BBC][8])\n9. Transmission of SARS-CoV-2: implications for infection prevention precautions ([WHO][9]) \n\n  [1]: https://www.who.int/news-room/commentaries/detail/modes-of-transmission-of-virus-causing-covid-19-implications-for-ipc-precaution-recommendations\n  [2]: https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/5867798\n  [3]: https://www.nytimes.com/2020/07/07/health/coronavirus-aerosols-who.html\n  [4]: https://www.nytimes.com/2020/07/04/health/239-experts-with-one-big-claim-the-coronavirus-is-airborne.html\n  [5]: https://www.medrxiv.org/content/10.1101/2020.04.16.20067728v1\n  [6]: https://www.npr.org/2020/07/06/887925721/scientists-urge-who-to-update-guidance-on-airborne-transmission-of-the-coronavir\n  [7]: https://www.biorxiv.org/content/10.1101/2020.03.08.982637v1\n  [8]: https://www.bbc.com/news/world-53329946\n  [9]: https://www.who.int/publications/i/item/modes-of-transmission-of-virus-causing-covid-19-implications-for-ipc-precaution-recommendations\n",
+    "How often revision needed": "Weekly",
+    "Answer Assigned": [
+      {
+        "id": "usraKwS6t1i6IMrwY",
+        "email": "mmn452@mail.harvard.edu",
+        "name": "Mohit Nair"
+      }
+    ],
+    "Context Assigned": [
+      {
+        "id": "usr7F6wgKz1f26438",
+        "email": "jahuang@mail.harvard.edu",
+        "name": "Jessica Huang"
+      }
+    ],
+    "Questions answered by entry": "What do we know so far about airborne transmission? How does it differ from respiratory droplet transmission?\n",
+    "Last edited (simplified)": "2020-07-13T22:07:16.000Z",
+    "Last edited (experts say)": "2020-07-14T21:01:58.000Z",
+    "Last modified": "2020-07-18"
+  },
+  {
     "id": "recrralIEXZlkGqd5",
     "Question": "How easily does COVID-19 spread from contaminated surfaces or animals?",
     "Item status": "Published",
@@ -901,50 +1283,6 @@
     "Last modified": "2020-07-14"
   },
   {
-    "id": "recXUQjiQ2yaPXyxo",
-    "Question": "What do we know so far about airborne transmission and how does it differ from respiratory droplet transmission? ",
-    "Item status": "Published",
-    "Category": "Transmission",
-    "Subcategory": "Differences between airborne transmission and respiratory droplets",
-    "Background & context": "Respiratory droplet transmission happens when disease spreads through droplets expelled by an infected person, through coughing, sneezing, talking, or even just breathing; these droplets are larger than 5-10 micrometers. One micrometer is one millionth of a meter. Respiratory droplets are _relatively_ heavy, and fall to the ground quickly. In contrast, airborne transmission is when residue from droplets smaller than 5 micrometers, or dust particles carrying the virus, stay suspended in the air for longer and disperse farther by air currents. Scientists and the World Health Organization (WHO) have recognized that evidence is emerging on the possibility of airborne transmission, particularly in \"crowded, closed, poorly ventilated settings.\" If airborne transmission of COVID-19 is significant, this has major implications for containment efforts (ex. masks may be needed indoors and in socially-distant settings, ventilation systems may need to minimize recirculating air and find ways to filter or disinfect contaminated air, etc.). \n",
-    "What our experts say": "There is mounting evidence that COVID-19 can spread through airborne transmission, which is when a person infected with COVID-19 releases tiny droplets of fluid into the air called 'droplet nuclei' by coughing, sneezing, talking, or during medical procedures involving the release of these types of fluids. Droplet nuclei are very light, relatively dry, and microscopic in size so they can remain suspended in the air like a mist, which is why airborne transmission is also called 'aerosol transmission, and pose a risk of infection to people in close proximity. This is different from the prevailing theory that the virus spreads through bigger respiratory droplets that are heavier, fall to the ground relatively quickly, and do not remain suspended in the air or spread through the air. \n\nThe risk of airborne transmission remains under research**, **but it is potentially thought to be higher risk in enclosed spaces with poor ventilation. Retrospective analyses of \"super-spreader\" events, where a significant number of people have been infected at a single event, demonstrate that airborne transmission was likely responsible for infecting multiple people in the absence of direct, physical contact. One study analyzed an outbreak involving three separate families in a restaurant in Guangzhou, China and found that the spread pattern pointed to aerosol transmission due to poor ventilation in the restaurant. \n\nUntil July 7, 2020, the World Health Organization (WHO) continued to claim that evidence pointed to respiratory droplet transmission as the most plausible route of transmission for the virus, but 239 experts and public health professionals have cautioned against ruling out the possibility of airborne transmission and the WHO acknowledged emerging evidence regarding airborne transmission in poorly ventilated spaces on July 8, 2020. Public health experts have repeatedly warned that airborne transmission is most likely contributing to transmission, especially in indoor spaces, and recommendations should incorporate the need for sufficient ventilation, high efficiency filtration, and limiting crowded spaces, in addition to universal adoption of masks, social distancing, and frequent hand washing with soap and water.\n\nUPDATED: July 11, 2020: On July 9, 2020, the WHO has acknowledged that certain medical procedures can cause COVID-19 to be spread through airborne transmission. The group also noted that the potential for COVID-19 to spread through the air in crowded, indoor spaces that are inadequately ventilated \"cannot be ruled out.\" The WHO stated that more studies are urgently needed on this topic and reiterated their stance that the virus is primarily spread through contact and respiratory droplets.\n\n",
-    "Glossary Terms": [
-      "recy3qWpegJbN2rbV",
-      "recTotk6ZnYu3ib8P",
-      "rech6tPR0hLDA3JH3",
-      "rec5yviiSvJkufYvu"
-    ],
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No \n",
-    "Topics": [
-      "aerosol",
-      "airborne",
-      "transmission",
-      "droplet",
-      "respiratory droplets"
-    ],
-    "Other resources": "1. Modes of transmission of virus causing COVID-19: implications for IPC precaution recommendations ([WHO][1])\n2. Open Letter: It is Time to Address Airborne Transmission of COVID-19 ([Clinical Infectious Diseases][2])\n3. W.H.O. to Review Evidence of Airborne Transmission of Coronavirus ([NYT][3])\n4. 239 Experts With One Big Claim: The Coronavirus Is Airborne ([NYT][4])\n5. Evidence for probable aerosol transmission of SARS-CoV-2 in a poorly ventilated restaurant ([medRxiv][5])\n6. Scientists Urge WHO To Update Guidance On Airborne Transmission Of The Coronavirus ([NPR][6])\n7. Aerodynamic Characteristics and RNA Concentration of SARS-CoV-2 Aerosol in Wuhan Hospitals during COVID-19 Outbreak ([bioRxiv][7])\n8. Coronavirus: WHO rethinking how Covid-19 spreads in air ([BBC][8])\n9. Transmission of SARS-CoV-2: implications for infection prevention precautions ([WHO][9]) \n\n  [1]: https://www.who.int/news-room/commentaries/detail/modes-of-transmission-of-virus-causing-covid-19-implications-for-ipc-precaution-recommendations\n  [2]: https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/5867798\n  [3]: https://www.nytimes.com/2020/07/07/health/coronavirus-aerosols-who.html\n  [4]: https://www.nytimes.com/2020/07/04/health/239-experts-with-one-big-claim-the-coronavirus-is-airborne.html\n  [5]: https://www.medrxiv.org/content/10.1101/2020.04.16.20067728v1\n  [6]: https://www.npr.org/2020/07/06/887925721/scientists-urge-who-to-update-guidance-on-airborne-transmission-of-the-coronavir\n  [7]: https://www.biorxiv.org/content/10.1101/2020.03.08.982637v1\n  [8]: https://www.bbc.com/news/world-53329946\n  [9]: https://www.who.int/publications/i/item/modes-of-transmission-of-virus-causing-covid-19-implications-for-ipc-precaution-recommendations\n",
-    "How often revision needed": "Weekly",
-    "Answer Assigned": [
-      {
-        "id": "usraKwS6t1i6IMrwY",
-        "email": "mmn452@mail.harvard.edu",
-        "name": "Mohit Nair"
-      }
-    ],
-    "Context Assigned": [
-      {
-        "id": "usr7F6wgKz1f26438",
-        "email": "jahuang@mail.harvard.edu",
-        "name": "Jessica Huang"
-      }
-    ],
-    "Questions answered by entry": "What do we know so far about airborne transmission? How does it differ from respiratory droplet transmission?\n",
-    "Last edited (simplified)": "2020-07-13T22:07:16.000Z",
-    "Last edited (experts say)": "2020-07-14T21:01:58.000Z",
-    "Last modified": "2020-07-14"
-  },
-  {
     "id": "recCC7GhsX2CKZJbs",
     "Question": "Is being vaccinated with BCG protective for COVID-19?",
     "Item status": "Published",
@@ -1840,145 +2178,6 @@
     "Last modified": "2020-07-10"
   },
   {
-    "id": "recSPXr3HPZ8WQcyO",
-    "Question": "What do we know so far about dexamethasone as a potential treatment for COVID-19?",
-    "Item status": "Published",
-    "Category": "Treatment",
-    "Subcategory": "On: COVID-19 and dexamethasone",
-    "Source of the question": [
-      "Newsroom"
-    ],
-    "Country question was sourced from": [
-      "USA"
-    ],
-    "Background & context": "Dexamethasone has recently been in the news due to its alleged early success in the RECOVERY (Randomised Evaluation of Covid-19 Therapy) trial, led by a team from Oxford University in the UK. This study is the world's largest and was launched in March to test six potential COVID-19 treatments - five pre-existing medications and convalescent plasma from recovered COVID-19 patients - to determine whether or not they can help treat cases of COVID-19. Though this study has received significant media attention since the search for any potential treatments is urgent, no study has been published by the RECOVERY team as of yet and no other countries have approved dexamethasone for severe cases of COVID-19. \n\n\n\n",
-    "What our experts say": "Dexamethasone is a low-cost, anti-inflammatory medication that is part of the corticosteroid family. Corticosteroids function similarly to the cortisol produced in the body's adrenal glands yet they are synthetically made. Corticosteroids are commonly prescribed to suppress the immune system and reduce swelling and itching common to allergic reactions. \nDexamethasone has been widely used since the 1960s, but it has recently been part of several studies exploring potential therapies for COVID-19. In the RECOVERY (Randomised Evaluation of Covid-19 Therapy) Trial at Oxford University (UK), the largest COVID-19 drug trial to date, researchers studied the impact of dexamethasone by comparing the roughly 2,000 patients who received the medication with the 4,000 patients who did not receive the medication. They found that the mortality risk was lowered for patients with severe cases of COVID-19 who were on ventilators or receiving oxygen. For patients with mild cases of COVID-19, beneficial effects were not observed. \nDexamethasone has not been approved as an official treatment for COVID-19 outside the United Kingdom thus far, and the World Health Organization (WHO) has urged caution since these results are preliminary, have yet to be evaluated through the peer-review process, and represent findings from only one trial. Despite this, the medication is currently being used in several countries as a part of various treatment strategies for COVID-19. The WHO has also recently added dexamethasone and other steroids into its treatment guidelines for COVID-19.\nIn two other recent studies using corticosteroidal medications (including dexamethasone) as potential treatments for COVID-19, one found a reduction in the number of days patients required ventilator support, and the other found that the corticosteroid medications were associated with an increased duration of illness (among other adverse impacts). Corticosteroids, including dexamethasone, are still an unproven treatment for COVID-19.\n",
-    "Glossary Terms": [
-      "rec5W6RYzptKevaPE"
-    ],
-    "Variation of the answer depending on country of residence": "Yes\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "treatment",
-      "United Kingdom",
-      "corticosteroid"
-    ],
-    "Other resources": "1. Dexamethasone (Oral Route) ([Mayo Clinic][1]) \n2. Low-cost dexamethasone reduces death by up to one third in hospitalised patients with severe respiratory complications of COVID-19 ([Oxford/RECOVERY][2]) \n3. WHO urges caution on 'breakthrough' coronavirus drug dexamethasone, citing early data ([CNBC][3]) \n4. U.K. approves use of life-saving coronavirus drug dexamethasone in ‘biggest breakthrough yet’ — it costs £5 per patient ([MarketWatch][4]) \n5. This national clinical trial aims to identify treatments that may be beneficial for people hospitalised with suspected or confirmed COVID-19 ([Oxford/RECOVERY][5]) \n6. Coronavirus: Dexamethasone proves first life-saving drug ([BBC][6]) \n7. Impact of corticosteroid therapy on outcomes of persons with SARS-CoV-2, SARS-CoV, or MERS-CoV infection: a systematic review and meta-analysis ([Nature][7]) \n8. Dexamethasone Treatment for the Acute Respiratory Distress Syndrome: A Multicentre, Randomised Controlled Trial ([The Lancet][8]) \n9. Q&A: Dexamethasone and COVID-19 ([WHO][9]) \n\n  [1]: https://www.mayoclinic.org/drugs-supplements/dexamethasone-oral-route/description/drg-20075207\n  [2]: https://www.recoverytrial.net/news/low-cost-dexamethasone-reduces-death-by-up-to-one-third-in-hospitalised-patients-with-severe-respiratory-complications-of-covid-19\n  [3]: https://www.cnbc.com/2020/06/17/coronavirus-update-who-urges-caution-on-dexamethasone-citing-early-data.html\n  [4]: https://www.marketwatch.com/story/uk-approves-use-of-life-saving-coronavirus-drug-dexamethasone-in-biggest-breakthrough-yet-2020-06-16\n  [5]: https://www.recoverytrial.net\n  [6]: https://www.bbc.com/news/health-53061281\n  [7]: https://www.nature.com/articles/s41375-020-0848-3\n  [8]: https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(19)30417-5/fulltext\n  [9]: https://www.who.int/news-room/q-a-detail/q-a-dexamethasone-and-covid-19\n",
-    "How often revision needed": "Weekly",
-    "Impact on public policy?": "Potentially; first approved treatment in UK",
-    "Answer Assigned": [
-      {
-        "id": "usrDTYZtkXBziEsWP",
-        "email": "christin@mail.harvard.edu",
-        "name": "Christin Gilmer"
-      }
-    ],
-    "Expert Database (Hindi)": [
-      "recp8Hn2n3YuBwhjt"
-    ],
-    "Media": [
-      {
-        "id": "attYbdxViKV19YFeg",
-        "url": "https://dl.airtable.com/.attachments/50df63e6f14a3e3db93c09521433c9f4/48aafda1/Dexamethasone_v1_Meedan_8.png",
-        "filename": "Dexamethasone_v1_(Meedan)_(8).png",
-        "size": 136465,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/031b9ebd9b6e5573d6e8e3dc874ea683/cc228ef7",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/3dba844be297366602b867ffa159f0fe/140a21f9",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/a8ccecf267059ac01451e873635368aa/1b85a8e2",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "attnLKfhKuZugz1XJ",
-        "url": "https://dl.airtable.com/.attachments/0f89485d695d7bb701ca95eb3d3b4217/ca6bf643/Dexamethasone_v1_Meedan_9.png",
-        "filename": "Dexamethasone_v1_(Meedan)_(9).png",
-        "size": 180804,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/b06f731f1ac065d8bb49c25cb6b0e742/446f9b6e",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/1ad703cc8b6857bfcc10729e0baaecb4/9d4d4e8e",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/798e81a999faf8afdcbba3bac1253d54/3045cdd1",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "attCjbA1rb9P5EUKE",
-        "url": "https://dl.airtable.com/.attachments/aa7ae0b98c95850e35ac2db58c77b13b/451dc99d/Dexamethasone_v1_Meedan_10.png",
-        "filename": "Dexamethasone_v1_(Meedan)_(10).png",
-        "size": 206849,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/8b7ee9b3270ba7f06541ddc3aea8c7df/b3dc9b9c",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/4f866c7ffc2a4b1aaac49c333c0e638c/6e521f56",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/db971c2c3fbbe5c4bed90f35c6bc4bce/43cd75ba",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "att5NmUAHxkZ5LcnD",
-        "url": "https://dl.airtable.com/.attachments/d9355c744df9118a21f8fee7f6ebf9d1/887213f6/Dexamethasone_v1_Meedan_11.png",
-        "filename": "Dexamethasone_v1_(Meedan)_(11).png",
-        "size": 225980,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/e894aa691cb07e0319bcc578c09a8a1d/b5f42d97",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/f939bd7ee74dea12e4be64a40ed9583c/2fe685bb",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/c404b2e9cd7c0c5d5ce83486d2506f8c/8aaa15d6",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ],
-    "Last edited (simplified)": "2020-06-25T02:15:36.000Z",
-    "Last edited (experts say)": "2020-06-25T18:50:18.000Z",
-    "Last modified": "2020-07-10"
-  },
-  {
     "id": "rec4vIYYUif72tS5C",
     "Question": "Why are scientists warning about an increase in zoonotic diseases impacting humans?",
     "Item status": "Published",
@@ -2596,52 +2795,6 @@
     ],
     "Last edited (simplified)": "2020-07-03T19:45:17.000Z",
     "Last edited (experts say)": "2020-07-01T20:27:02.000Z",
-    "Last modified": "2020-07-07"
-  },
-  {
-    "id": "recSK7NRoa33YUdrv",
-    "Question": "Can COVID-19 be transmitted by a person who shows no symptoms?",
-    "Item status": "Published",
-    "Category": "Spread",
-    "Subcategory": "On: COVID-19 & asymptomatic & pre-symptomatic transmission",
-    "Source of the question": [
-      "Social Media"
-    ],
-    "Country question was sourced from": [
-      "USA"
-    ],
-    "Background & context": "The incubation period of the virus is the time between the moment a person is exposed to the virus and when they first show symptoms. During this period, the virus is multiplying in the body, and once enough of the virus has been replicated, people may indeed show symptoms. However, some people may well be infected with the virus even if they don't have any symptoms. For people who are pre-symptomatic and asymptomatic, they may still spread the virus to others during this period of time.\n",
-    "What our experts say": "According to current evidence, it is believed that people with no symptoms, who may be either asymptomatic or pre-symptomatic,** **are playing a major role in the transmission of COVID-19. That means symptom-based screening alone is unlikely to detect all of the infectious cases and control the transmission of COVID-19. The incubation period of COVID-19, which is the period between a person's exposure to the virus and the first sign of their symptoms (if they develop any at all), ranges from 5 to 14 days. Some people may be contagious during this 5-14 day incubation period before they have symptoms, making those cases \"pre-symptomatic\". The Centers for Disease Control (CDC) has stated that 40% of COVID-19 cases are potentially spread by people who are pre-symptomatic. Other people infected with COVID-19 may never show symptoms at all and are called \"asymptomatic\". Asymptomatic people are still contagious throughout the time they are infected with the virus until their body clears it. The CDC estimates that 35% of COVID-19 cases are asymptomatic.\n",
-    "Glossary Terms": [
-      "recE7xmnXgtg8ZanX",
-      "recJ4Q812SOdo1NGM",
-      "recx2PeCcs1Awb9rG",
-      "rec8po7cJXvqkaQYB",
-      "recbZcFUtsYMA9Vsh"
-    ],
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "asymptomatic",
-      "transmission",
-      "contagion",
-      "infection",
-      "spread",
-      "symptoms"
-    ],
-    "Other resources": "1. COVID-19 situation report ([WHO][1]) \n2. Presymptomatic SARS-CoV-2 Infections and Transmission in a Skilled Nursing Facility ([NEJM][2])\n3. Research letter: Asymptomatic SARS-CoV-2 Infection in Household Contacts of a Healthcare Provider, Wuhan, China ([U.S. CDC][3])\n4. A study about RT-PCR COVID-19 tests and their false-negative rate ([AIM][4])\n5. Research paper: The airborne lifetime of small speech droplets and their potential importance in SARS-CoV-2 transmission ([PNAS][5])\n6. CDC Pandemic Planning Scenarios ([U.S. CDC][6])\n\n  [1]: https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf\n  [2]: https://www.nejm.org/doi/full/10.1056/NEJMoa2008457\n  [3]: https://wwwnc.cdc.gov/eid/article/26/8/20-1016_article\n  [4]: https://www.acpjournals.org/doi/10.7326/M20-1495#.XrxprFvK46Y.twitter\n  [5]: https://www.pnas.org/content/early/2020/05/12/2006874117\n  [6]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/planning-scenarios.html\n",
-    "How often revision needed": "Monthly",
-    "Impact on public policy?": "No",
-    "Expert Database (French)": [
-      "reccy9EmiOk9SlhJ7"
-    ],
-    "Expert Database (Hindi)": [
-      "recWuNukdE0KpKIme"
-    ],
-    "Editorial notes:": "\n",
-    "Translation notes": "Okay I changed thhis detail",
-    "Last edited (simplified)": "2020-06-23T11:57:16.000Z",
-    "Last edited (experts say)": "2020-05-27T03:35:45.000Z",
     "Last modified": "2020-07-07"
   },
   {
@@ -3966,120 +4119,6 @@
     "Last modified": "2020-06-25"
   },
   {
-    "id": "recFGva1N4EIOvcyA",
-    "Question": "Are there ayurveda cures for COVID-19? ",
-    "Item status": "Published",
-    "Category": "Treatment",
-    "Subcategory": "On: COVID-19 & Ayurveda",
-    "Source of the question": [
-      "Newsroom"
-    ],
-    "Country question was sourced from": [
-      "India"
-    ],
-    "Background & context": "Ayurveda is one of the world's oldest systems of traditional medicine. Since there is no approved treatment for COVID-19 yet, many people are turning to alternative or traditional medicine for answers. The Chief Executive Officer (CEO) of a major manufacturer of herbal products, Patanjali,  has claimed that the company has found an Ayurvedic cure for COVID-19. Patanjali claims that COVID-19 patients showed a 100% recovery rate when administered the Ayurvedic medicine known as 'Coronil,' which is comprised of a mixture of Tulsi, Giloy, and Ashwagandha. It is unclear whether this was a randomized controlled trial, and the company has claimed it conducted a clinical case study with \"hundreds of positive patients,\" which showed \"100 percent favorable results.\" The clinical trials were claimed to have been conducted in two cities in India after securing regulatory approval last week. According to the press release, COVID-19 patients who were administered Ayurvedic medicine recovered in 5-14 days and tested negative for the virus, but no data has been released to the public yet.\n",
-    "What our experts say": "Ayurveda is ancient Indian medical system that focuses on natural, holistic approaches to physical and mental health. Currently, there is no evidence to indicate that Ayurvedic medicine cures or prevents COVID-19. Similar claims for Ayurvedic cures have been made in the past for other infectious diseases with no known cure, such as HIV/AIDS, without any reliable evidence. Such bold claims should always be treated with caution. \nIn this particular case, the CEO of a major manufacturer of herbal products has claimed to have produced an Ayurvedic cure without providing any independent data to support these claims. While the company claims to have tested hundreds of patients in a \"clinical case study\" which showed a 100% recovery rate, it is unclear whether any control group was included or whether the design of the study was strong enough to substantiate such claims. In addition, the company stated that all patients tested negative for the virus within 5-14 days after receiving the Ayurvedic medicine, but it is unclear how long each patient had the virus or were symptomatic. \nThe study also falsely claimed that Ayurvedic medicine is a cure for COVID-19 without disclosing how many patients were included in their research and how they can be sure that patients would not have tested negative naturally once the immune system fought off the infection over time. Ayurvedic medicine may be a helpful complement to Western medicine, and may not actively cause harm in some cases, but it should not be consumed as a cure for COVID-19. Instead, traditional prevention measures such as wearing masks and social distancing, should be followed to prevent infections.\n",
-    "Glossary Terms": [
-      "rec5OdFSvwX0mLrxy"
-    ],
-    "Variation of the answer depending on country of residence": "No\t\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "Ayurveda",
-      "traditional medicine",
-      "treatment",
-      "cure"
-    ],
-    "Other resources": "1. Ayurveda ([Hopkins medicine][1]) \n2. Coronil for COVID-19: Patanjali claims its Ayurvedic medicine can cure coronavirus infection ([Times Now][2]) \n3. Ayurvedic Medicine: In Depth ([NIH][3]) \n\n  [1]: https://www.hopkinsmedicine.org/health/wellness-and-prevention/ayurveda\n  [2]: https://www.timesnownews.com/health/article/coronil-for-covid-19-patanjali-claims-its-ayurveda-medicine-can-cure-coronavirus-infection/606723\n  [3]: https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth\n",
-    "Answer Assigned": [
-      {
-        "id": "usraKwS6t1i6IMrwY",
-        "email": "mmn452@mail.harvard.edu",
-        "name": "Mohit Nair"
-      }
-    ],
-    "Expert Database (Hindi)": [
-      "reclmbP3IRmRL4CmJ"
-    ],
-    "Media": [
-      {
-        "id": "att62bYKFoaB1kBPt",
-        "url": "https://dl.airtable.com/.attachments/bb06b0e6ff2f8b62c90814acb2e515bb/d35064a0/Slide1.png",
-        "filename": "Slide 1.png",
-        "size": 138326,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/a9b5d03f2ba880dfbea94f9b99d77850/5f6ee3db",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/a60adf097c1192766da816b5abbc3781/66782b39",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/e639ac8039c79f3aab34bcd8ed0254ec/d935cb2c",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "attOOrFAKoxf7doBG",
-        "url": "https://dl.airtable.com/.attachments/7789c0bf7b802efea872ff85512c7448/20e6271b/Slide2.png",
-        "filename": "Slide 2.png",
-        "size": 202113,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/314263ffd7ffc4b121e02d88224355a0/775a9627",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/89d3039a0b75bd94a9959829efc2aba5/63ba5964",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/cbaab4a9ae8cc04c7d7e60a994d28e40/457a3cbb",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "attjafIc54Fim6jnC",
-        "url": "https://dl.airtable.com/.attachments/4963c046ec77b616abea74ae9a28985a/aed4ddd2/Slide3.png",
-        "filename": "Slide 3.png",
-        "size": 209233,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/ee62da37be828760312321b8f2950005/5942f3bb",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/b4a47bcb533a6eb50bc9401932af5d15/76009618",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/92eff96d58b9cfa5b2095eb12bcf8c84/7e37f50b",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ],
-    "Last edited (simplified)": "2020-06-17T15:48:47.000Z",
-    "Last edited (experts say)": "2020-06-22T14:33:37.000Z",
-    "Last modified": "2020-06-25"
-  },
-  {
     "id": "recbw6ac5kq8tsDHY",
     "Question": "How are migrant laborers in India being impacted by the COVID-19 pandemic?",
     "Item status": "Published",
@@ -4509,45 +4548,6 @@
     ],
     "Last edited (simplified)": "2020-06-01T18:10:40.000Z",
     "Last edited (experts say)": "2020-05-28T17:08:57.000Z",
-    "Last modified": "2020-06-25"
-  },
-  {
-    "id": "reckgFENw9gVgnWtC",
-    "Question": "How long is a person infected with COVID-19 contagious?",
-    "Item status": "Published",
-    "Category": "Spread",
-    "Subcategory": "On: COVID-19 & contagiousness",
-    "Source of the question": [
-      "Social Media"
-    ],
-    "Country question was sourced from": [
-      "USA"
-    ],
-    "Background & context": "As COVID-19 is a new virus that researchers have been studying for just under six months, we are still learning new information about it every day. This includes how long people might be contagious with the virus, though the evidence we have so far has given us a solid idea of this length of time for the vast majority of patients. There are still some outliers, but most patients fall within these time frames of contagiousness.\n",
-    "What our experts say": "Recent research has shown that a person infected with COVID-19 may be able to spread the virus up to 72 hours before they begin having any symptoms up to 10 days after symptoms completely disappear. New studies have suggested that people are the most infectious during the 48 hours before they start to experience any symptoms. People who have tested positive for COVID-19 but never develop any symptoms over the following 10 days from the time they took the test are likely no longer contagious. There are always exceptions to these guidelines, so experts still recommend completing 14 days of isolation after testing positive for the virus, being exposed to a person who has been infected with COVID-19, or developing any symptoms. The best way to ensure you are no long contagious is by having two negative COVID-19 tests 24 hours apart that are both negative.\n",
-    "Glossary Terms": [
-      "recOcmLKbzV6NUkAH"
-    ],
-    "Variation of the answer depending on country of residence": "No\t\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "contagious",
-      "symptoms"
-    ],
-    "Other resources": "1. Clinical Questions about COVID-19: Questions and Answers ([U.S. CDC][1])\n2. Harvard Medical School questions about COVID-19 exposure ([Harvard Health][2])\n\n  [1]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/faq.html\n  [2]: https://www.health.harvard.edu/diseases-and-conditions/if-youve-been-exposed-to-the-coronavirus\n",
-    "How often revision needed": "Bi-monthly",
-    "Answer Assigned": [
-      {
-        "id": "usrDTYZtkXBziEsWP",
-        "email": "christin@mail.harvard.edu",
-        "name": "Christin Gilmer"
-      }
-    ],
-    "Expert Database (Hindi)": [
-      "rec7shgDZuifvN3Lk"
-    ],
-    "Last edited (simplified)": "2020-06-15T18:54:13.000Z",
-    "Last edited (experts say)": "2020-06-23T00:52:05.000Z",
     "Last modified": "2020-06-25"
   },
   {

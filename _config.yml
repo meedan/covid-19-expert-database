@@ -115,6 +115,14 @@ page_gen:
     template: 'term'
     name: 'Term'
     dir: '/glossary'
+  - data: 'covid19.glossary-fr'
+    template: 'term'
+    name: 'Term'
+    dir: '/fr/glossary'
+  - data: 'covid19.glossary-hi'
+    template: 'term'
+    name: 'id'
+    dir: '/hi/glossary'
 
 
 # Algolia search
@@ -167,36 +175,6 @@ algolia:
     - /hi/questions/recn7oxpicfpvxq7u/index.html
     - /hi/questions/reczxe6na5otsxnrc/index.html
     - /hi/questions/recbsejrbckweuovp/index.html
-
-# Glossary
-# algolia:
-#   application_id: XVQE72Q0TQ
-#   index_name: covid19_glossary
-#   search_only_api_key: d031b4f0809f3999da155451bffba6db
-#   nodes_to_index: 'h4, p'
-#   files_to_exclude:
-#     - /index.html
-#     - /fr/index.html
-#     - /hi/index.html
-#     - /hi/**/index.html
-#     - /about/index.html
-#     - /fr/about/index.html
-#     - /hi/about/index.html
-#     - /questions/**/index.html
-#     - /fr/questions/**/index.html
-#     - /hi/questions/**/index.html
-#     - /meet-our-experts/
-#     - /meet-our-experts/index.html
-#     - /hi/meet-our-experts/index.html
-#     - /fr/meet-our-experts/index.html
-#     - /ask-a-question/
-#     - /ask-a-question/index.html
-#     - /hi/ask-a-question/index.html
-#     - /fr/ask-a-question/index.html
-#     - /thanks/index.html
-#     - /fr/thanks/index.html
-#     - /hi/thanks/index.html
-
 
 # Airtable Fetch Configuration
 airtable:

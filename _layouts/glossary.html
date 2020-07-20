@@ -2,15 +2,17 @@
 <html lang="{{ page.lang }}">
 {% include head.html %}
 
-<body>
+<body class="glossary">
   {% include header.html %}
   <div class="content-wrapper">
+    <h2>{{ site.data.ui.t[page.lang].menu.glossary }} (<div id="stats" class="stats"></div>)</h2>
     <div class="search">
-        <div id="search-searchbar"></div>
+      <div id="search-searchbar" class="searchbar"></div>
+      <div id="filters" class="filters">
         <div id="filters-lang"></div>
+      </div>
     </div>
-    <h2>{{ site.data.ui.t[page.lang].menu.glossary }} ({{ terms.size }})</h2>
-    <div id="search-hits" class="glossary"></div>
+    <div id="search-hits" class="glossary-terms"></div>
   </div>
   {% include newsletter.html %}
   {% include footer.html %}

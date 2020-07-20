@@ -13,7 +13,12 @@
 
     const hitTemplate = function (hit) {
         
-        const title = hit._highlightResult.title ? hit._highlightResult.title.value : 'NO TITLE!';
+        let title = '';
+        if (hit._highlightResult.title) {
+            title = hit._highlightResult.title.value;
+        } else {
+            title = hit['Term'];
+        }
 
         let description = '';
         if (hit['Definition']) {
@@ -26,9 +31,15 @@
             description = hit.body;
         }
 
+
+        let id = '';
+        if (hit['id']) {
+            id = hit['id']
+        }
+
         return `
             <div class="term">
-                <h4 id="">
+                <h4 id="${id}">
                     ${title}
                 </h4>
                 <div class="definition">
@@ -53,6 +64,9 @@
             templates: {
                 item: hitTemplate,
             },
+        }),
+        instantsearch.widgets.stats({
+            container: '#stats',
         }),
     ]);
 

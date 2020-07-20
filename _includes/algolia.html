@@ -35,6 +35,11 @@
             description = description.substring(0, 110).concat('...');
         }
 
+        let image = '';
+        if(hit.image) {
+            image = hit.image;
+        }
+
         const last_modified = 'Last modified' in hit ?
             new Date(hit['Last modified'])
                 .toLocaleDateString(undefined, { weekday: undefined, year: 'numeric', month: 'long', day: 'numeric' })
@@ -52,8 +57,18 @@
                 <div class="question">
                     ${title}
                 </div>
-                <div class="experts-say">
+                <div class="experts-say with-media-preview">
                     ${description}
+                    <span class="media-preview-wrapper">
+                        <span class="media-preview">
+                            <span class="media-preview-image">
+                                <img src="${image}" />
+                            </span>
+                            <span class="media-preview-count">
+                                +
+                            </span>
+                        </span>
+                    </span>
                 </div>
                 <div class="category">
                     ${topics}
