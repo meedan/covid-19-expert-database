@@ -1,5 +1,463 @@
 [
   {
+    "id": "recXb3N5IK5AseYsP",
+    "Question": "What does the science say about COVID-19 on surfaces?",
+    "Item status": "Published",
+    "Category": "Tranmission",
+    "Subcategory": "On: COVID-19 & surfaces",
+    "Source of the question": [
+      "Partner Organization"
+    ],
+    "Background & context": "The current science suggests that people most commonly become infected with COVID-19 through close contact with another infected person, even if the infected person is not showing symptoms. Close contact is when people are within about 6 feet (2 meters), and the infected person spreads the virus by coughing, sneezing, talking, or breathing into the close space.\n\nEven though the current science suggests that COVID-19 spreads most often through close personal contact, the public health community is continually learning about other ways that COVID-19 spreads. A major idea put forward is that COVID-19 could be spread from one person to another if the virus remains alive on surfaces like packages, food, plastic, or metals for long amounts of time, and that people touch their faces after having touched these surfaces. Multiple studies have analyzed how long the virus survives on different surfaces, and this evidence will continue to add to the understanding of the virus and how it is spread. This new evidence allows scientists to better understand whether or not people are likely to become infected by touching items in a market, collecting their mail or packages, or by contact with other surfaces in shared spaces (i.e. a table at a restaurant, a chair in an office) and public places (i.e. a bench at the park).\n",
+    "What our experts say": "The virus that causes COVID-19 primarily spreads through close, person-to-person contact, not through surface contamination. However, the virus can live on surfaces and the amount of time that COVID-19 can survive on a surface depends on the material of the surface. According to recent studies, COVID-19 can survive from 3 hours to 7 days on surfaces, though the virus' lifespan varies greatly on different areas.\n\nIt should be noted that the amount of living virus that is on a surface decreases over time. In practice, the amount of the virus on a surface usually drops dramatically in the first few hours. It is also important to note that even though some of the living virus might still be detected on a surface after several hours or days, it might not be present in a large enough quantity to make someone sick.  \n\nAccording to The Lancet and the New England Journal of Medicine, the living virus could be detected on different surfaces for varying periods of time:\n\n• **Aluminum**: 2-8 hours\n• **Stainless steel**: 2-7 days\n• **Paper**: 3 hours\n• **Copper**: 4 hours\n• **Cardboard**: 24 hours\n• **Cloth**: 2 days\n• **Wood**: 4 days\n• **Plastic**: 3-7 days\n• **Metal:** 5 days\n• **Glass**: 5 days\n• **Paper money**: 4 days\n• **Face masks**: 7 days (**_Note:_**_ A small amount of viable virus was still present on the outside of the mask after 7 days, but masks should be frequently washed, sanitized, or be used only once._)\n\nIf a person touches a contaminated surface with traces of the virus and then touches their eyes, nose, or mouth, they could become infected if the surface contains large amounts of the virus. This is why it is important to clean and disinfect any surfaces that people might come into contact with, especially those like doorknobs, cell phones, light switches, handles, countertops, sinks, toilets, and more. If possible, people should try to avoid touching high-contact surfaces in public. Washing your hands for 20 seconds, avoiding touching your face, maintaining six feet (two meters) of distance and wearing a mask are key steps in combatting the spread of the virus.\n\n",
+    "Variation of the answer depending on country of residence": "Yes; places with more humidity and higher temperatures may lead to the virus surviving a shorter amount of time\t\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\t\n",
+    "Topics": [
+      "viability",
+      "humidity",
+      "heat",
+      "survive",
+      "surface"
+    ],
+    "Other resources": "1. Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1 ([NEJM][1]) \n2. Stability of SARS-CoV-2 in different environmental conditions ([The Lancet][2]) \n3. How Long Will Coronavirus Survive on Surfaces? ([Cleveland Clinic][3]) \n4. How long does coronavirus live on surfaces? ([NASEM][4]) \n5. How long can the virus that causes COVID-19 live on surfaces?? ([Johns Hopkins][5]) \n6. How long does coronavirus last on surfaces? Stay in the air? ([SF Chronicle][6]) \n\n  [1]: https://www.nejm.org/doi/full/10.1056/NEJMc2004973\n  [2]: https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(20)30003-3/fulltext\n  [3]: https://health.clevelandclinic.org/how-long-will-coronavirus-survive-on-surfaces/\n  [4]: https://sites.nationalacademies.org/BasedOnScience/covid-19-how-long-does-coronavirus-live-on-surfaces/index.htm\n  [5]: https://hub.jhu.edu/2020/03/20/sars-cov-2-survive-on-surfaces/\n  [6]: https://www.sfchronicle.com/health/article/Coronavirus-FAQ-How-long-does-it-stay-on-15152021.php\n",
+    "Last edited (simplified)": "2020-07-21T00:10:33.000Z",
+    "Last edited (experts say)": "2020-07-20T23:27:49.000Z",
+    "Last modified": "2020-07-21"
+  },
+  {
+    "id": "recrralIEXZlkGqd5",
+    "Question": "How easily does COVID-19 spread from contaminated surfaces or animals?",
+    "Item status": "Published",
+    "Category": "Transmission",
+    "Subcategory": "On: COVID-19 & contaminated surfaces",
+    "Source of the question": [
+      "Social Media"
+    ],
+    "Country question was sourced from": [
+      "USA"
+    ],
+    "Background & context": "The public health community is continually learning about how the novel coronavirus spreads, and what transmission routes are most likely to make it spread. Because of this continual learning in the public health community, there has been public confusion around how easily SARS-CoV-2 spreads, and through which routes. \n\nConfusion is particularly centered around the virus spreading from touching an infected surface and the virus spreading from airborne transmission. Person-to-person spread is the most well understood form of transmission as well as the main transmission route for COVID-19. \n\nSuch confusion has led to debate around the need to wipe down groceries, wear gloves, avoid petting neighborhood animals, and other steps to mitigate surface transmission. Though surface transmission is not thought to be the main way SARS-CoV-2 spreads, it is still a risk and should be responded to with precaution. One way to think about it is that virus spread from person-to-person is direct transmission, whereas virus stemming from a surface requires two intermediaries: 1) touching the virus on a surface, and then right after 2) touching your eyes, nose, or mouth. One is more direct and therefore more common, but both require caution.\n\n\n",
+    "What our experts say": "According to the U.S. Centers for Disease Control  and Prevention, COVID-19 doesn't easily spread from contaminated surfaces to humans. While it is not likely, it is still possible for the virus to spread through contaminated surfaces. \n\nRecent studies suggest that the more humid a region may be, the longer the virus may survive on surfaces. Another study found that the virus can remain on surfaces like plastic and steel for 48-72 hours, and for up to 24 hours on cardboard. If a person touches a contaminated surface with traces of the virus and then proceeds to touch their eyes, nose, or mouth, they could still become infected if the surface contains large amounts of the virus. Washing your hands for 20 seconds, avoiding touching your face, and cleaning surfaces often is an important step in stopping the potential spread of the virus. The virus that causes COVID-19 primarily spreads through close, person-to-person contact, not through surface contamination, so continuing to maintain six feet (two meters) of distance, wearing a mask, and staying home as much as possible are the key steps in combatting the virus.\n\nThe risk of contracting the virus from the surfaces of animals and pets is also considered to be low. The U.S. CDC noted in June 2020 that there is currently no evidence that animals have a significant role in spreading COVID-19 and the risk of animals spreading it to humans is low. However, more studies are needed to determine if and how a variety of animals might be impacted by the virus.\n\n",
+    "Glossary Terms": [
+      "rec5yviiSvJkufYvu"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\t\n",
+    "Topics": [
+      "contaminated",
+      "surface",
+      "animal",
+      "transmission"
+    ],
+    "Other resources": "1. COVID‑19 Strategy Update 14 April 2020 ([WHO][1])\n2. General Business Frequently Asked Questions ([U.S. CDC][2]) \n3. What’s the Risk of Catching Coronavirus From a Surface? ([NYT][3])\n4. How COVID-19 Spreads ([CDC][4])\n5. CDC updates COVID-19 transmission webpage to clarify information about types of spread ([U.S. CDC][5]) \n6. Likelihood of survival of coronavirus in a respiratory droplet deposited on a solid surface ([AIP][6]) \n7. COVID-19 and Animals ([U.S. CDC][7]) \n8. What’s the risk that animals will spread the coronavirus? ([Nature][8]) \n\n  [1]: https://www.who.int/docs/default-source/coronaviruse/covid-strategy-update-14april2020.pdf?sfvrsn=29da3ba0_19\n  [2]: https://www.cdc.gov/coronavirus/2019-ncov/community/general-business-faq.html#Reducing-the-Spread-of-COVID-19-in-Workplaces\n  [3]: https://www.nytimes.com/2020/05/28/well/live/whats-the-risk-of-catching-coronavirus-from-a-surface.html\n  [4]: https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-covid-spreads.html\n  [5]: https://www.cdc.gov/media/releases/2020/s0522-cdc-updates-covid-transmission.html\n  [6]: https://aip.scitation.org/doi/10.1063/5.0012009\n  [7]: https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/animals.html\n  [8]: https://www.nature.com/articles/d41586-020-01574-4\n",
+    "Media": [
+      {
+        "id": "attBAcUroZCdT5GRE",
+        "url": "https://dl.airtable.com/.attachments/c2dbcff90ae0f78226b7fe9a959606e2/79d1da4f/Slide_1",
+        "filename": "Slide_1",
+        "size": 201961,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/08ec207b4cef7274af81b8ddeb3c1e8d/09a041a0",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6c36d938d11125b7b5022404749f0225/2246c8fc",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f1e52dbe4addda4c48d2712d4b4aca7b/f06b9dfa",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "att4VThIR5EQa3T3T",
+        "url": "https://dl.airtable.com/.attachments/837d51c0b4ea97af33fd15e45e045440/ed457cd8/Slide_2",
+        "filename": "Slide_2",
+        "size": 246437,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/9ca561a0e0d8640de2802269503aec27/1e2ef384",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7e25ace51f0f903d53eeb5f4b34c0e24/e92bd084",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/1e0f95a5c11b0f8a638db9c434386c8c/14d95381",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attQyX1aeBjXFwPNz",
+        "url": "https://dl.airtable.com/.attachments/6c87a899cca5a418a3d14cf2995d92ba/7b189dbc/Slide_3",
+        "filename": "Slide_3",
+        "size": 329915,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ef2552ea8baad7186212b627337b9607/3f8b28df",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/02a6b10e1e95e8c2096fc154cc7db791/be621bab",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/71fc727bd2cf938e35c4719e65e8a7a3/7ba35dae",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "Last edited (simplified)": "2020-07-17T21:43:30.000Z",
+    "Last edited (experts say)": "2020-07-17T21:50:56.000Z",
+    "Last modified": "2020-07-21"
+  },
+  {
+    "id": "rec73GJFaUH4wDGkr",
+    "Question": "Why are smell tests being proposed over temperature checks at workplaces?",
+    "Item status": "Published",
+    "Category": "Testing",
+    "Subcategory": "On: COVID-19 & smell tests",
+    "Source of the question": [
+      "Social Media"
+    ],
+    "Country question was sourced from": [
+      "USA"
+    ],
+    "Background & context": "There is growing interest in smell tests to supplement temperature testing during the current pandemic. Loss of smell, also called anosmia, is one of the possible symptoms of COVID-19. In some patients who have tested positive for COVID-19, loss of smell is the only reported symptom. The potential for a smell test serving as a better diagnostic for COVID-19 may lie in anosmia's unique link to COVID-19. Dr. Andrew Badley of the Mayo Clinic further explains this point as he stated “My impression is that anosmia is an earlier symptom of Covid-19 relative to fever, and some infected people can have anosmia and nothing else. So it’s potentially a more sensitive screen for asymptomatic patients.”\n\nAdditionally, temperature checks can be insufficient for screening because patients with COVID-19 may not have a fever, and there are other health conditions that can cause a fever. Loss of smell is more unique to COVID-19. While smell tests can be helpful to add to temperature screenings at workplaces, schools, airports, restaurants and other locations, it is important to remember that infected people can still transmit COVID-19 without showing any symptoms like fever or loss of smell.\n\n",
+    "What our experts say": "While many businesses and public spaces have begun using temperature checks as a way to try to identify people who might be infected with COVID-19, several studies have proposed that using a smell test in addition to a thermometer check may be a more accurate way of detecting potential cases. The reasons for this are numerous, and are mostly due to concerns about the effectiveness of temperature checks. Some of these issues include:\n- The fact that many people with COVID-19 never develop any symptoms such as fevers;\n- People with fevers might not have the virus at all and could have any number of other illnesses;\n- Infrared/non-contact thermometers are often inaccurate and operating errors may occur; and\n- People who take over-the-counter medication for fevers might be ill but will not present with a fever.\nUsing a temperature check alone is not an effective strategy to detect COVID-19 infections at public sites. On the other hand, the potential benefits of a smell test are numerous, as the loss of smell— also called 'anosmia'—is relatively unique to COVID-19, whereas fevers are common symptoms in many illnesses. \n\nFor instance, a recent preprint study (awaiting peer-review) showed that COVID-19 patients were 27 times more likely to have lost their sense of smell than people without the virus, but only 2.6 times more likely to have fever or chills than those without the virus. Another study demonstrated that people with a loss of smell are \"more than 10 times more likely to have COVID-19 than other causes of infection,\" according to Dr. Carol Yan, making it a more accurate marker for COVID-19 than a fever would likely be, as they have many other causes and are associated with many other illnesses. Reasons like this are why many health experts believe that a combination of a smell test in addition to temperature checks could more accurately test and identify people for COVID-19.\n\n",
+    "Glossary Terms": [
+      "rec6bCvXI9wPhOuCW"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "smell test",
+      "temperature",
+      "thermometer",
+      "anosmia",
+      "screening"
+    ],
+    "Other resources": "1. COVID‑19 Strategy Update 14 April 2020 ([WHO][1])\n2. General Business Frequently Asked Questions ([U.S. CDC][2]) \n3. Employers Rush to Adopt Virus Screening. The Tools May Not Help Much. ([NYT][3]) \n4. Augmented Curation of Clinical Notes from a Massive EHR System Reveals Symptoms of Impending COVID-19 Diagnosis ([medRxiv][4])\n5. Self‐reported olfactory loss associates with outpatient clinical course in COVID‐19 ([IFAR][5]) \n6. The implications of silent transmission for the control of COVID-19 outbreaks ([PNAS][6]) \n7. Fever checks are a flawed way to flag Covid-19 cases. Experts say smell tests might help ([STAT News][7]) \n\n  [1]: https://www.who.int/docs/default-source/coronaviruse/covid-strategy-update-14april2020.pdf?sfvrsn=29da3ba0_19\n  [2]: https://www.cdc.gov/coronavirus/2019-ncov/community/general-business-faq.html#Reducing-the-Spread-of-COVID-19-in-Workplaces\n  [3]: https://www.nytimes.com/2020/05/11/technology/coronavirus-worker-testing-privacy.html\n  [4]: https://www.medrxiv.org/content/10.1101/2020.04.19.20067660v4\n  [5]: https://onlinelibrary.wiley.com/doi/full/10.1002/alr.22592\n  [6]: https://www.pnas.org/content/early/2020/07/02/2008373117\n  [7]: https://www.statnews.com/2020/07/02/smell-tests-temperature-checks-covid19/\n",
+    "Media": [
+      {
+        "id": "attum7XtKv2pJ4VOx",
+        "url": "https://dl.airtable.com/.attachments/dc568a28f6989ba2251bb8f11f22d3d3/af98bdee/Slide_1",
+        "filename": "Slide_1",
+        "size": 164982,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/578dfeb3288ab44555dd3c157cf8bcce/898f10f6",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/4b83cecb94aeeebcab16c2347d009892/07aa21fe",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/bd4c15fa2523c23a07b14c78d69e746b/55da0463",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "att5uqKRlFZkOa5NY",
+        "url": "https://dl.airtable.com/.attachments/817da95bcff969350feef6fe5c19d7ce/67e1c562/Slide_2",
+        "filename": "Slide_2",
+        "size": 181376,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/84fa00108b93bf6acc3d6c043c6e7354/ca0b6bb8",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/cf6053a04b406a2b6becadee15138b07/6d0f3dab",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6fe3144d18bc933903407230e5808d2d/a5428884",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "att7UESfzmLIM2JGW",
+        "url": "https://dl.airtable.com/.attachments/13c1a348ece298433e695be137655d8b/5fa3887f/Slide_3",
+        "filename": "Slide_3",
+        "size": 184298,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/65796d65b2f585920836c9e19074e703/e111cf82",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/18832186c9a1274a90fabd60202909c2/b18816e5",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/9a44f6fc0aca8445733456d81d1aa3db/4b599692",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "att7bPCgWB4T4aewa",
+        "url": "https://dl.airtable.com/.attachments/61da79ef5d5f6b54c875b4764bb0c753/ef0c7d7e/Slide_4",
+        "filename": "Slide_4",
+        "size": 213759,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/4e81223da8cc0104c67ead30fa2353c0/2ba701f2",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/872e1a0813d712228c205c28e8606cc0/8063b3a0",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ed07cb57d36bbf7ecdc0c2fed2de5419/f5a329fc",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attt7iQtCcGSn2z0J",
+        "url": "https://dl.airtable.com/.attachments/107b904e1f2f3582d596fe055ee6cfa9/c84829b5/Slide_5",
+        "filename": "Slide_5",
+        "size": 217937,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/118b206e9d1a3d320d1b7584dd8bf832/efd3c603",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/1b699703616011e26fce894565acbc63/99bf92a6",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ba33d8240def250e26ed1f27321d69ff/d90c3c58",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "Last edited (simplified)": "2020-07-08T05:02:42.000Z",
+    "Last edited (experts say)": "2020-07-08T05:05:53.000Z",
+    "Last modified": "2020-07-21"
+  },
+  {
+    "id": "recXUQjiQ2yaPXyxo",
+    "Question": "What do we know so far about airborne transmission and how does it differ from respiratory droplet transmission? ",
+    "Item status": "Published",
+    "Category": "Transmission",
+    "Subcategory": "Differences between airborne transmission and respiratory droplets",
+    "Background & context": "Respiratory droplet transmission happens when disease spreads through droplets expelled by an infected person, through coughing, sneezing, talking, or even just breathing; these droplets are larger than 5-10 micrometers. One micrometer is one millionth of a meter. Respiratory droplets are _relatively_ heavy, and fall to the ground quickly. In contrast, airborne transmission is when residue from droplets smaller than 5 micrometers, or dust particles carrying the virus, stay suspended in the air for longer and disperse farther by air currents. Scientists and the World Health Organization (WHO) have recognized that evidence is emerging on the possibility of airborne transmission, particularly in \"crowded, closed, poorly ventilated settings.\" If airborne transmission of COVID-19 is significant, this has major implications for containment efforts (ex. masks may be needed indoors and in socially-distant settings, ventilation systems may need to minimize recirculating air and find ways to filter or disinfect contaminated air, etc.). \n",
+    "What our experts say": "There is mounting evidence that COVID-19 can spread through airborne transmission, which is when a person infected with COVID-19 releases tiny droplets of fluid into the air called 'droplet nuclei' by coughing, sneezing, talking, or during medical procedures involving the release of these types of fluids. Droplet nuclei are very light, relatively dry, and microscopic in size so they can remain suspended in the air like a mist, which is why airborne transmission is also called 'aerosol transmission, and pose a risk of infection to people in close proximity. This is different from the prevailing theory that the virus spreads through bigger respiratory droplets that are heavier, fall to the ground relatively quickly, and do not remain suspended in the air or spread through the air. \n\nThe risk of airborne transmission remains under research**, **but it is potentially thought to be higher risk in enclosed spaces with poor ventilation. Retrospective analyses of \"super-spreader\" events, where a significant number of people have been infected at a single event, demonstrate that airborne transmission was likely responsible for infecting multiple people in the absence of direct, physical contact. One study analyzed an outbreak involving three separate families in a restaurant in Guangzhou, China and found that the spread pattern pointed to aerosol transmission due to poor ventilation in the restaurant. \n\nUntil July 7, 2020, the World Health Organization (WHO) continued to claim that evidence pointed to respiratory droplet transmission as the most plausible route of transmission for the virus, but 239 experts and public health professionals have cautioned against ruling out the possibility of airborne transmission and the WHO acknowledged emerging evidence regarding airborne transmission in poorly ventilated spaces on July 8, 2020. Public health experts have repeatedly warned that airborne transmission is most likely contributing to transmission, especially in indoor spaces, and recommendations should incorporate the need for sufficient ventilation, high efficiency filtration, and limiting crowded spaces, in addition to universal adoption of masks, social distancing, and frequent hand washing with soap and water.\n\nUPDATED: July 11, 2020: On July 9, 2020, the WHO has acknowledged that certain medical procedures can cause COVID-19 to be spread through airborne transmission. The group also noted that the potential for COVID-19 to spread through the air in crowded, indoor spaces that are inadequately ventilated \"cannot be ruled out.\" The WHO stated that more studies are urgently needed on this topic and reiterated their stance that the virus is primarily spread through contact and respiratory droplets.\n\n",
+    "Glossary Terms": [
+      "recy3qWpegJbN2rbV",
+      "recTotk6ZnYu3ib8P",
+      "rech6tPR0hLDA3JH3",
+      "rec5yviiSvJkufYvu"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No \n",
+    "Topics": [
+      "aerosol",
+      "airborne",
+      "transmission",
+      "droplet",
+      "respiratory droplets"
+    ],
+    "Other resources": "1. Modes of transmission of virus causing COVID-19: implications for IPC precaution recommendations ([WHO][1])\n2. Open Letter: It is Time to Address Airborne Transmission of COVID-19 ([Clinical Infectious Diseases][2])\n3. W.H.O. to Review Evidence of Airborne Transmission of Coronavirus ([NYT][3])\n4. 239 Experts With One Big Claim: The Coronavirus Is Airborne ([NYT][4])\n5. Evidence for probable aerosol transmission of SARS-CoV-2 in a poorly ventilated restaurant ([medRxiv][5])\n6. Scientists Urge WHO To Update Guidance On Airborne Transmission Of The Coronavirus ([NPR][6])\n7. Aerodynamic Characteristics and RNA Concentration of SARS-CoV-2 Aerosol in Wuhan Hospitals during COVID-19 Outbreak ([bioRxiv][7])\n8. Coronavirus: WHO rethinking how Covid-19 spreads in air ([BBC][8])\n9. Transmission of SARS-CoV-2: implications for infection prevention precautions ([WHO][9]) \n\n  [1]: https://www.who.int/news-room/commentaries/detail/modes-of-transmission-of-virus-causing-covid-19-implications-for-ipc-precaution-recommendations\n  [2]: https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/5867798\n  [3]: https://www.nytimes.com/2020/07/07/health/coronavirus-aerosols-who.html\n  [4]: https://www.nytimes.com/2020/07/04/health/239-experts-with-one-big-claim-the-coronavirus-is-airborne.html\n  [5]: https://www.medrxiv.org/content/10.1101/2020.04.16.20067728v1\n  [6]: https://www.npr.org/2020/07/06/887925721/scientists-urge-who-to-update-guidance-on-airborne-transmission-of-the-coronavir\n  [7]: https://www.biorxiv.org/content/10.1101/2020.03.08.982637v1\n  [8]: https://www.bbc.com/news/world-53329946\n  [9]: https://www.who.int/publications/i/item/modes-of-transmission-of-virus-causing-covid-19-implications-for-ipc-precaution-recommendations\n",
+    "How often revision needed": "Weekly",
+    "Media": [
+      {
+        "id": "attOl7ELRWQ7ydV1K",
+        "url": "https://dl.airtable.com/.attachments/8059990d8523d6d1a93c20e2f4d9762e/d6498516/Slide_1",
+        "filename": "Slide_1",
+        "size": 356084,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e7cb0e9db7cade85a4c15a2051e638e3/ab31271e",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/95940d1910a9788da1045a1ee85c29de/241b70a2",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6f9c64ffe5c98da0e7c14ca94c5fdf1d/6b051071",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attOYOnFtFxS88Eal",
+        "url": "https://dl.airtable.com/.attachments/d2ab7dac2fce093daa4490383a2fdf51/6d1a0f1d/Slide_2",
+        "filename": "Slide_2",
+        "size": 244795,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/712e12b7235ad0cec2cc111dcc9cf478/dba0a7f4",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/4404e48bf383131f443138211f317b46/80a25c7c",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d7aeffebebbfe4a120ac37f88139cd94/6e5d950d",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "att7qY71spsF7dLNd",
+        "url": "https://dl.airtable.com/.attachments/ec3071e9469ecd3d9904cd3ae316ba7d/dd8e64cc/Slide_3",
+        "filename": "Slide_3",
+        "size": 240322,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b490dffe0163d5f738bec54e6b689090/b61db64e",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d4c60811be49ea16098b4342043b1834/108a3843",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/646c4bf3ba1b6faea80f866b21130336/080fe032",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "atteEuKu2zAAzHkAV",
+        "url": "https://dl.airtable.com/.attachments/74bca8eb1e7a32c9dbec7276424b599a/00b6cea0/Slide_4",
+        "filename": "Slide_4",
+        "size": 209706,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d8e44c19d2d97c78db8734586e94acf6/3781c235",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b8ba48ef224fc72844d673fe912f1926/10c42232",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b0595f522d85d98d317701b75faebed1/cf232113",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attDbix3ZZcazaunL",
+        "url": "https://dl.airtable.com/.attachments/47b4096a80f67ed37a007a221dea25ef/da5dd58d/Slide_6",
+        "filename": "Slide_6",
+        "size": 241192,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3cd9da129ef6ea2909a4c67d1512aa73/30c99389",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/95de5815f558913dd480a4082075a73a/046a2837",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/edde90f5fe4014de13ffa40c67d63b8a/4353ca3e",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attPnxG1Nr7vXhCq0",
+        "url": "https://dl.airtable.com/.attachments/20fe7d37507993bcf19e723edd7c3933/d4619b57/Slide_5",
+        "filename": "Slide_5",
+        "size": 201928,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7b056a5ff9a57660a1ae1266e6145bf7/95fa9663",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/1ffa30927ba3a11ffab382cee09e8aa1/76337492",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/11568dcbe8c64387769296220fab7a18/398c8faf",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "Questions answered by entry": "What do we know so far about airborne transmission? How does it differ from respiratory droplet transmission?\n",
+    "Last edited (simplified)": "2020-07-13T22:07:16.000Z",
+    "Last edited (experts say)": "2020-07-14T21:01:58.000Z",
+    "Last modified": "2020-07-21"
+  },
+  {
     "id": "reckgFENw9gVgnWtC",
     "Question": "How long is a person infected with COVID-19 contagious?",
     "Item status": "Published",
@@ -24,13 +482,6 @@
     ],
     "Other resources": "1. Clinical Questions about COVID-19: Questions and Answers ([U.S. CDC][1])\n2. Harvard Medical School questions about COVID-19 exposure ([Harvard Health][2])\n\n  [1]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/faq.html\n  [2]: https://www.health.harvard.edu/diseases-and-conditions/if-youve-been-exposed-to-the-coronavirus\n",
     "How often revision needed": "Bi-monthly",
-    "Answer Assigned": [
-      {
-        "id": "usrDTYZtkXBziEsWP",
-        "email": "christin@mail.harvard.edu",
-        "name": "Christin Gilmer"
-      }
-    ],
     "Expert Database (Hindi)": [
       "rec7shgDZuifvN3Lk"
     ],
@@ -64,13 +515,6 @@
       "cure"
     ],
     "Other resources": "1. Ayurveda ([Hopkins medicine][1]) \n2. Coronil for COVID-19: Patanjali claims its Ayurvedic medicine can cure coronavirus infection ([Times Now][2]) \n3. Ayurvedic Medicine: In Depth ([NIH][3]) \n\n  [1]: https://www.hopkinsmedicine.org/health/wellness-and-prevention/ayurveda\n  [2]: https://www.timesnownews.com/health/article/coronil-for-covid-19-patanjali-claims-its-ayurveda-medicine-can-cure-coronavirus-infection/606723\n  [3]: https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth\n",
-    "Answer Assigned": [
-      {
-        "id": "usraKwS6t1i6IMrwY",
-        "email": "mmn452@mail.harvard.edu",
-        "name": "Mohit Nair"
-      }
-    ],
     "Expert Database (Hindi)": [
       "reclmbP3IRmRL4CmJ"
     ],
@@ -225,13 +669,6 @@
     "Other resources": "1. Dexamethasone (Oral Route) ([Mayo Clinic][1]) \n2. Low-cost dexamethasone reduces death by up to one third in hospitalised patients with severe respiratory complications of COVID-19 ([Oxford/RECOVERY][2]) \n3. Dexamethasone in Hospitalized Patients with Covid-19 — Preliminary Report ([NEJM/RECOVERY][3])\n4. WHO urges caution on 'breakthrough' coronavirus drug dexamethasone, citing early data ([CNBC][4]) \n5. U.K. approves use of life-saving coronavirus drug dexamethasone in ‘biggest breakthrough yet’ — it costs £5 per patient ([MarketWatch][5]) \n6. This national clinical trial aims to identify treatments that may be beneficial for people hospitalised with suspected or confirmed COVID-19 ([Oxford/RECOVERY][6]) \n7. Coronavirus: Dexamethasone proves first life-saving drug ([BBC][7]) \n8. Impact of corticosteroid therapy on outcomes of persons with SARS-CoV-2, SARS-CoV, or MERS-CoV infection: a systematic review and meta-analysis ([Nature][8]) \n9. Dexamethasone Treatment for the Acute Respiratory Distress Syndrome: A Multicentre, Randomised Controlled Trial ([The Lancet][9]) \n10. Q&A: Dexamethasone and COVID-19 ([WHO][10]) \n11. Dexamethasone in Hospitalized Patients with Covid-19 — Preliminary Report ([NEJM][11]) \n\n  [1]: https://www.mayoclinic.org/drugs-supplements/dexamethasone-oral-route/description/drg-20075207\n  [2]: https://www.recoverytrial.net/news/low-cost-dexamethasone-reduces-death-by-up-to-one-third-in-hospitalised-patients-with-severe-respiratory-complications-of-covid-19\n  [3]: https://www.nejm.org/doi/full/10.1056/NEJMoa2021436\n  [4]: https://www.cnbc.com/2020/06/17/coronavirus-update-who-urges-caution-on-dexamethasone-citing-early-data.html\n  [5]: https://www.marketwatch.com/story/uk-approves-use-of-life-saving-coronavirus-drug-dexamethasone-in-biggest-breakthrough-yet-2020-06-16\n  [6]: https://www.recoverytrial.net\n  [7]: https://www.bbc.com/news/health-53061281\n  [8]: https://www.nature.com/articles/s41375-020-0848-3\n  [9]: https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(19)30417-5/fulltext\n  [10]: https://www.who.int/news-room/q-a-detail/q-a-dexamethasone-and-covid-19\n  [11]: https://www.nejm.org/doi/full/10.1056/NEJMoa2021436?query=RP\n",
     "How often revision needed": "Weekly",
     "Impact on public policy?": "Potentially; first approved treatment in UK",
-    "Answer Assigned": [
-      {
-        "id": "usrDTYZtkXBziEsWP",
-        "email": "christin@mail.harvard.edu",
-        "name": "Christin Gilmer"
-      }
-    ],
     "Expert Database (Hindi)": [
       "recp8Hn2n3YuBwhjt"
     ],
@@ -338,94 +775,6 @@
     "Last modified": "2020-07-20"
   },
   {
-    "id": "recXUQjiQ2yaPXyxo",
-    "Question": "What do we know so far about airborne transmission and how does it differ from respiratory droplet transmission? ",
-    "Item status": "Published",
-    "Category": "Transmission",
-    "Subcategory": "Differences between airborne transmission and respiratory droplets",
-    "Background & context": "Respiratory droplet transmission happens when disease spreads through droplets expelled by an infected person, through coughing, sneezing, talking, or even just breathing; these droplets are larger than 5-10 micrometers. One micrometer is one millionth of a meter. Respiratory droplets are _relatively_ heavy, and fall to the ground quickly. In contrast, airborne transmission is when residue from droplets smaller than 5 micrometers, or dust particles carrying the virus, stay suspended in the air for longer and disperse farther by air currents. Scientists and the World Health Organization (WHO) have recognized that evidence is emerging on the possibility of airborne transmission, particularly in \"crowded, closed, poorly ventilated settings.\" If airborne transmission of COVID-19 is significant, this has major implications for containment efforts (ex. masks may be needed indoors and in socially-distant settings, ventilation systems may need to minimize recirculating air and find ways to filter or disinfect contaminated air, etc.). \n",
-    "What our experts say": "There is mounting evidence that COVID-19 can spread through airborne transmission, which is when a person infected with COVID-19 releases tiny droplets of fluid into the air called 'droplet nuclei' by coughing, sneezing, talking, or during medical procedures involving the release of these types of fluids. Droplet nuclei are very light, relatively dry, and microscopic in size so they can remain suspended in the air like a mist, which is why airborne transmission is also called 'aerosol transmission, and pose a risk of infection to people in close proximity. This is different from the prevailing theory that the virus spreads through bigger respiratory droplets that are heavier, fall to the ground relatively quickly, and do not remain suspended in the air or spread through the air. \n\nThe risk of airborne transmission remains under research**, **but it is potentially thought to be higher risk in enclosed spaces with poor ventilation. Retrospective analyses of \"super-spreader\" events, where a significant number of people have been infected at a single event, demonstrate that airborne transmission was likely responsible for infecting multiple people in the absence of direct, physical contact. One study analyzed an outbreak involving three separate families in a restaurant in Guangzhou, China and found that the spread pattern pointed to aerosol transmission due to poor ventilation in the restaurant. \n\nUntil July 7, 2020, the World Health Organization (WHO) continued to claim that evidence pointed to respiratory droplet transmission as the most plausible route of transmission for the virus, but 239 experts and public health professionals have cautioned against ruling out the possibility of airborne transmission and the WHO acknowledged emerging evidence regarding airborne transmission in poorly ventilated spaces on July 8, 2020. Public health experts have repeatedly warned that airborne transmission is most likely contributing to transmission, especially in indoor spaces, and recommendations should incorporate the need for sufficient ventilation, high efficiency filtration, and limiting crowded spaces, in addition to universal adoption of masks, social distancing, and frequent hand washing with soap and water.\n\nUPDATED: July 11, 2020: On July 9, 2020, the WHO has acknowledged that certain medical procedures can cause COVID-19 to be spread through airborne transmission. The group also noted that the potential for COVID-19 to spread through the air in crowded, indoor spaces that are inadequately ventilated \"cannot be ruled out.\" The WHO stated that more studies are urgently needed on this topic and reiterated their stance that the virus is primarily spread through contact and respiratory droplets.\n\n",
-    "Glossary Terms": [
-      "recy3qWpegJbN2rbV",
-      "recTotk6ZnYu3ib8P",
-      "rech6tPR0hLDA3JH3",
-      "rec5yviiSvJkufYvu"
-    ],
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No \n",
-    "Topics": [
-      "aerosol",
-      "airborne",
-      "transmission",
-      "droplet",
-      "respiratory droplets"
-    ],
-    "Other resources": "1. Modes of transmission of virus causing COVID-19: implications for IPC precaution recommendations ([WHO][1])\n2. Open Letter: It is Time to Address Airborne Transmission of COVID-19 ([Clinical Infectious Diseases][2])\n3. W.H.O. to Review Evidence of Airborne Transmission of Coronavirus ([NYT][3])\n4. 239 Experts With One Big Claim: The Coronavirus Is Airborne ([NYT][4])\n5. Evidence for probable aerosol transmission of SARS-CoV-2 in a poorly ventilated restaurant ([medRxiv][5])\n6. Scientists Urge WHO To Update Guidance On Airborne Transmission Of The Coronavirus ([NPR][6])\n7. Aerodynamic Characteristics and RNA Concentration of SARS-CoV-2 Aerosol in Wuhan Hospitals during COVID-19 Outbreak ([bioRxiv][7])\n8. Coronavirus: WHO rethinking how Covid-19 spreads in air ([BBC][8])\n9. Transmission of SARS-CoV-2: implications for infection prevention precautions ([WHO][9]) \n\n  [1]: https://www.who.int/news-room/commentaries/detail/modes-of-transmission-of-virus-causing-covid-19-implications-for-ipc-precaution-recommendations\n  [2]: https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/5867798\n  [3]: https://www.nytimes.com/2020/07/07/health/coronavirus-aerosols-who.html\n  [4]: https://www.nytimes.com/2020/07/04/health/239-experts-with-one-big-claim-the-coronavirus-is-airborne.html\n  [5]: https://www.medrxiv.org/content/10.1101/2020.04.16.20067728v1\n  [6]: https://www.npr.org/2020/07/06/887925721/scientists-urge-who-to-update-guidance-on-airborne-transmission-of-the-coronavir\n  [7]: https://www.biorxiv.org/content/10.1101/2020.03.08.982637v1\n  [8]: https://www.bbc.com/news/world-53329946\n  [9]: https://www.who.int/publications/i/item/modes-of-transmission-of-virus-causing-covid-19-implications-for-ipc-precaution-recommendations\n",
-    "How often revision needed": "Weekly",
-    "Answer Assigned": [
-      {
-        "id": "usraKwS6t1i6IMrwY",
-        "email": "mmn452@mail.harvard.edu",
-        "name": "Mohit Nair"
-      }
-    ],
-    "Context Assigned": [
-      {
-        "id": "usr7F6wgKz1f26438",
-        "email": "jahuang@mail.harvard.edu",
-        "name": "Jessica Huang"
-      }
-    ],
-    "Questions answered by entry": "What do we know so far about airborne transmission? How does it differ from respiratory droplet transmission?\n",
-    "Last edited (simplified)": "2020-07-13T22:07:16.000Z",
-    "Last edited (experts say)": "2020-07-14T21:01:58.000Z",
-    "Last modified": "2020-07-18"
-  },
-  {
-    "id": "recrralIEXZlkGqd5",
-    "Question": "How easily does COVID-19 spread from contaminated surfaces or animals?",
-    "Item status": "Published",
-    "Category": "Transmission",
-    "Subcategory": "On: COVID-19 & contaminated surfaces",
-    "Source of the question": [
-      "Social Media"
-    ],
-    "Country question was sourced from": [
-      "USA"
-    ],
-    "Background & context": "The public health community is continually learning about how the novel coronavirus spreads, and what transmission routes are most likely to make it spread. Because of this continual learning in the public health community, there has been public confusion around how easily SARS-CoV-2 spreads, and through which routes. \n\nConfusion is particularly centered around the virus spreading from touching an infected surface and the virus spreading from airborne transmission. Person-to-person spread is the most well understood form of transmission as well as the main transmission route for COVID-19. \n\nSuch confusion has led to debate around the need to wipe down groceries, wear gloves, avoid petting neighborhood animals, and other steps to mitigate surface transmission. Though surface transmission is not thought to be the main way SARS-CoV-2 spreads, it is still a risk and should be responded to with precaution. One way to think about it is that virus spread from person-to-person is direct transmission, whereas virus stemming from a surface requires two intermediaries: 1) touching the virus on a surface, and then right after 2) touching your eyes, nose, or mouth. One is more direct and therefore more common, but both require caution.\n\n\n",
-    "What our experts say": "According to the U.S. Centers for Disease Control  and Prevention, COVID-19 doesn't easily spread from contaminated surfaces to humans. While it is not likely, it is still possible for the virus to spread through contaminated surfaces. \n\nRecent studies suggest that the more humid a region may be, the longer the virus may survive on surfaces. Another study found that the virus can remain on surfaces like plastic and steel for 48-72 hours, and for up to 24 hours on cardboard. If a person touches a contaminated surface with traces of the virus and then proceeds to touch their eyes, nose, or mouth, they could still become infected if the surface contains large amounts of the virus. Washing your hands for 20 seconds, avoiding touching your face, and cleaning surfaces often is an important step in stopping the potential spread of the virus. The virus that causes COVID-19 primarily spreads through close, person-to-person contact, not through surface contamination, so continuing to maintain six feet (two meters) of distance, wearing a mask, and staying home as much as possible are the key steps in combatting the virus.\n\nThe risk of contracting the virus from the surfaces of animals and pets is also considered to be low. The U.S. CDC noted in June 2020 that there is currently no evidence that animals have a significant role in spreading COVID-19 and the risk of animals spreading it to humans is low. However, more studies are needed to determine if and how a variety of animals might be impacted by the virus.\n\n",
-    "Glossary Terms": [
-      "rec5yviiSvJkufYvu"
-    ],
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\t\n",
-    "Topics": [
-      "contaminated",
-      "surface",
-      "animal",
-      "transmission"
-    ],
-    "Other resources": "1. COVID‑19 Strategy Update 14 April 2020 ([WHO][1])\n2. General Business Frequently Asked Questions ([U.S. CDC][2]) \n3. What’s the Risk of Catching Coronavirus From a Surface? ([NYT][3])\n4. How COVID-19 Spreads ([CDC][4])\n5. CDC updates COVID-19 transmission webpage to clarify information about types of spread ([U.S. CDC][5]) \n6. Likelihood of survival of coronavirus in a respiratory droplet deposited on a solid surface ([AIP][6]) \n7. COVID-19 and Animals ([U.S. CDC][7]) \n8. What’s the risk that animals will spread the coronavirus? ([Nature][8]) \n\n  [1]: https://www.who.int/docs/default-source/coronaviruse/covid-strategy-update-14april2020.pdf?sfvrsn=29da3ba0_19\n  [2]: https://www.cdc.gov/coronavirus/2019-ncov/community/general-business-faq.html#Reducing-the-Spread-of-COVID-19-in-Workplaces\n  [3]: https://www.nytimes.com/2020/05/28/well/live/whats-the-risk-of-catching-coronavirus-from-a-surface.html\n  [4]: https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-covid-spreads.html\n  [5]: https://www.cdc.gov/media/releases/2020/s0522-cdc-updates-covid-transmission.html\n  [6]: https://aip.scitation.org/doi/10.1063/5.0012009\n  [7]: https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/animals.html\n  [8]: https://www.nature.com/articles/d41586-020-01574-4\n",
-    "Answer Assigned": [
-      {
-        "id": "usraKwS6t1i6IMrwY",
-        "email": "mmn452@mail.harvard.edu",
-        "name": "Mohit Nair"
-      }
-    ],
-    "Context Assigned": [
-      {
-        "id": "usryJw3d1ZhlxblnO",
-        "email": "jenna@meedan.com",
-        "name": "Jenna Sherman"
-      }
-    ],
-    "Last edited (simplified)": "2020-07-17T21:43:30.000Z",
-    "Last edited (experts say)": "2020-07-17T21:50:56.000Z",
-    "Last modified": "2020-07-17"
-  },
-  {
     "id": "recjs5QXivxuhSxx4",
     "Question": "Why should we all be wearing masks?",
     "Item status": "Published",
@@ -443,20 +792,6 @@
     "Variation of the answer depending on country of residence": "No\n",
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
     "Other resources": "1. CDC calls on Americans to wear masks to prevent COVID-19 spread ([U.S. CDC][1])\n2. The growing scientific evidence for masks to fight Covid-19 ([Vox][2])\n3. Q&A: Masks and COVID-19 ([WHO][3])\n4. Considerations for Wearing Cloth Face Coverings ([US CDC][4])\n5. Why scientists say wearing masks shouldn't be controversial ([Science News][5])\n6. Physical distancing, face masks, and eye protection to prevent person-to-person transmission of SARS-CoV-2 and COVID-19: a systematic review and meta-analysis, 2020 ([Lancet][6])\n\n\n\n  [1]: https://www.cdc.gov/media/releases/2020/p0714-americans-to-wear-masks.html?utm_source=Global+Health+NOW+Main+List&utm_campaign=ba35be8398-EMAIL_CAMPAIGN_2020_07_14_03_18&utm_medium=email&utm_term=0_8d0d062dbd-ba35be8398-860399\n  [2]: https://www.vox.com/future-perfect/21299527/masks-coronavirus-covid-19-studies-research-evidence\n  [3]: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-on-covid-19-and-masks\n  [4]: https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover-guidance.html\n  [5]: https://www.sciencenews.org/article/covid-19-coronavirus-why-wearing-masks-controversial\n  [6]: https://www.thelancet.com/action/showPdf?pii=S0140-6736(20)31142-9\n",
-    "Answer Assigned": [
-      {
-        "id": "usroPZ4yKxHAs6odJ",
-        "email": "elarose@hsph.harvard.edu",
-        "name": "Emily LaRose"
-      }
-    ],
-    "Context Assigned": [
-      {
-        "id": "usr7F6wgKz1f26438",
-        "email": "jahuang@mail.harvard.edu",
-        "name": "Jessica Huang"
-      }
-    ],
     "Last edited (simplified)": "2020-07-15T01:01:15.000Z",
     "Last edited (experts say)": "2020-07-16T04:05:03.000Z",
     "Last modified": "2020-07-17"
@@ -496,20 +831,6 @@
       "neurocognitive"
     ],
     "Other resources": "1. Coronavirus ([WHO][1]) \n2. What Long-Term Effects Could COVID-19 Have on Your Lungs? ([Banner Health][2]) \n3. Association of Cardiac Injury With Mortality in Hospitalized Patients With COVID-19 in Wuhan, China ([JAMA][3]) \n4. Neurologic Manifestations of Hospitalized Patients With Coronavirus Disease 2019 in Wuhan, China ([JAMA][4]) \n5. Acute Pulmonary Embolism in COVID-19 Patients on CT Angiography and Relationship to D-Dimer Levels ([Radiology][5]) \n6. COVID-19 and Kidney Failure in the Acute Care Setting: Our Experience From Seattle ([AJKD][6]) \n7. The Long-Temr Health Effects of COVID-19 ([GAVI][7]) \n8. How Covid-19 can damage the brain ([BBC][8]) \n9. Neurologic Features in Severe SARS-CoV-2 Infection ([NEJM][9]) \n10. Coronavirus: Kidney Damage Caused by COVID-19 ([Hopkins Medicine][10])\n11. The emerging spectrum of COVID-19 neurology: clinical, radiological and laboratory findings ([Brain][11])\n12. What are the potential long-term effects of having COVID-19? ([AP][12]) \n13. Extrapulmonary manifestations of COVID-19, see [Figure 2][13] ([Nature][14])\n\n  [1]: https://www.who.int/health-topics/coronavirus#tab=tab_1\n  [2]: https://www.bannerhealth.com/healthcareblog/teach-me/what-long-term-effects-could-covid19-have-on-your-lungs\n  [3]: https://jamanetwork.com/journals/jamacardiology/fullarticle/2763524?resultClick=1\n  [4]: https://jamanetwork.com/journals/jamaneurology/fullarticle/2764549\n  [5]: https://pubs.rsna.org/doi/10.1148/radiol.2020201561\n  [6]: https://www.ajkd.org/article/S0272-6386(20)30618-1/fulltext\n  [7]: https://www.gavi.org/vaccineswork/long-term-health-effects-covid-19\n  [8]: https://www.bbc.com/future/article/20200622-the-long-term-effects-of-covid-19-infection\n  [9]: https://www.nejm.org/doi/full/10.1056/NEJMc2008597\n  [10]: https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/coronavirus-kidney-damage-caused-by-covid19\n  [11]: https://academic.oup.com/brain/article/doi/10.1093/brain/awaa240/5868408\n  [12]: https://apnews.com/113bef255eb0c33570f77e33515a6ca6\n  [13]: https://pbs.twimg.com/media/Ec6A_F3UwAAf76_.png\n  [14]: https://www.nature.com/articles/s41591-020-0968-3.pdf\n",
-    "Answer Assigned": [
-      {
-        "id": "usrDTYZtkXBziEsWP",
-        "email": "christin@mail.harvard.edu",
-        "name": "Christin Gilmer"
-      }
-    ],
-    "Context Assigned": [
-      {
-        "id": "usr7F6wgKz1f26438",
-        "email": "jahuang@mail.harvard.edu",
-        "name": "Jessica Huang"
-      }
-    ],
     "Last edited (simplified)": "2020-07-14T00:53:17.000Z",
     "Last edited (experts say)": "2020-07-14T01:02:44.000Z",
     "Last modified": "2020-07-17"
@@ -542,20 +863,6 @@
       "droplet"
     ],
     "Other resources": "1. Q&A: How is COVID-19 transmitted? ([WHO][1]) \n2. Alveoli ([NCI][2]) \n3. Coronaviruses: An Overview of Their Replication and Pathogenesis ([NPHEC][3]) \n\n  [1]: https://www.who.int/news-room/q-a-detail/q-a-how-is-covid-19-transmitted\n  [2]: https://www.cancer.gov/publications/dictionaries/cancer-terms/def/alveoli\n  [3]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4369385/\n",
-    "Answer Assigned": [
-      {
-        "id": "usrDTYZtkXBziEsWP",
-        "email": "christin@mail.harvard.edu",
-        "name": "Christin Gilmer"
-      }
-    ],
-    "Context Assigned": [
-      {
-        "id": "usrDTYZtkXBziEsWP",
-        "email": "christin@mail.harvard.edu",
-        "name": "Christin Gilmer"
-      }
-    ],
     "Last edited (simplified)": "2020-07-14T01:00:25.000Z",
     "Last edited (experts say)": "2020-07-14T00:55:28.000Z",
     "Last modified": "2020-07-17"
@@ -580,20 +887,6 @@
     "Variation of the answer depending on country of residence": "\n",
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "\n",
     "Other resources": "1. Vaccines: The Basics ([U.S. CDC][1])\n2. Russia Coronavirus Vaccine Could Be Distributed Next Month ([Newsweek][2])\n3. China's CanSino in talks for COVID-19 vaccine Phase III trial overseas ([Reuters][3])\n4. First data for Moderna Covid-19 vaccine show it spurs an immune response ([STAT News][4])\n\n  [1]: https://www.cdc.gov/vaccines/vpd/vpd-vac-basics.html\n  [2]: https://www.newsweek.com/russia-coronavirus-vaccine-could-distributed-next-month-1517398\n  [3]: https://www.reuters.com/article/us-health-coronavirus-china-vaccine/chinas-cansino-in-talks-for-covid-vaccine-phase-iii-trial-overseas-idUSKCN24C0HS\n  [4]: https://www.statnews.com/2020/07/14/moderna-covid19-vaccine-first-data-show-spurs-immune-response/\n",
-    "Answer Assigned": [
-      {
-        "id": "usr7F6wgKz1f26438",
-        "email": "jahuang@mail.harvard.edu",
-        "name": "Jessica Huang"
-      }
-    ],
-    "Context Assigned": [
-      {
-        "id": "usr7F6wgKz1f26438",
-        "email": "jahuang@mail.harvard.edu",
-        "name": "Jessica Huang"
-      }
-    ],
     "Last edited (simplified)": "2020-07-15T02:07:10.000Z",
     "Last edited (experts say)": "2020-07-15T01:24:12.000Z",
     "Last modified": "2020-07-17"
@@ -605,20 +898,6 @@
     "Background & context": "The U.S. Centers for Disease Control and Prevention (U.S. CDC) warns that risks of severe COVID-19 illness tend to increase with age, with people over 85 being at highest risk for hospitalization, intensive care, ventilation, and potentially death. Tragically, the lives of young people, including children, have also been lost during the COVID-19 pandemic. More evidence is emerging on how some young patients develop severe symptoms and complications related to COVID-19. Multisystem inflammatory syndrome in children (MIS-C) is a serious and potentially fatal condition in young people, which can appear similar to Kawasaki's disease. In mid-May 2020, the U.S. CDC asked doctors across the country to look out for MIS-C cases. In June 2020, another two studies found over 300 children with MIS-C in the United States, which was reported widely in the media. Researchers around the world continue to study why some children are seriously affected by COVID-19 when the majority of young people have had relatively mild cases.\n",
     "What our experts say": "The majority of young people infected have had relatively mild cases of COVID-19. However, the U.S. Centers for Disease Control (U.S. CDC) recently identified the more severe multisystem inflammatory syndrome in children (MIS-C) as a new syndrome associated with the virus that causes COVID-19. This inflammatory syndrome was first identified in April 2020 and is characterized by inflammation in different body parts, including the heart, lungs, kidneys, brain, skin, eyes, or gastrointestinal organs. While MIS-C is rare, it can be deadly. Symptoms in children include fever, abdominal (gut) pain, vomiting, diarrhea, neck pain, rash, bloodshot eyes, or fatigue. This is a newly identified condition that requires more research, but doctors have observed that symptoms can develop within four weeks of exposure to the novel coronavirus. The inflammation can be managed with medicines that can prevent damage to vital organs. MIS-C occurs in young people under 21, according to its case definition, although it is thought to mostly affect children between the ages of 2 to 15 and is not commonly reported in babies. The U.S. CDC recommends immediately contacting a doctor if your child exhibits any of the symptoms of the inflammatory syndrome. We still do not know why some children experience symptoms, while others do not, and it is unclear if children with particular health conditions are more likely to get MIS-C. At this point, the best prevention measures include taking all precautions to avoid contracting the novel coronavirus, including hand washing, social distancing, avoiding public gatherings, and wearing masks.\n",
     "Other resources": "1. Multisystem Inflammatory Syndrome ([U.S. CDC][1])\n2. For Parents: Multisystem Inflammatory Syndrome in Children (MIS-C) associated with COVID-19 ([U.S. CDC][2])\n3. MIS-C and COVID-19: Rare Inflammatory Syndrome in Kids and Teens ([Hopkins Medicine][3])\n4. Multisystem Inflammatory Syndrome in U.S. Children and Adolescents ([NEJM][4])\n5. Multisystem Inflammatory Syndrome in Children in New York State ([NEJM)][5]\n6. Researchers report nearly 300 cases of inflammatory syndrome tied to Covid-19 in kids ([STAT News][6])\n\n  [1]: https://www.cdc.gov/mis-c/index.html\n  [2]: https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/children/mis-c.html\n  [3]: https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/misc-and-covid19-rare-inflammatory-syndrome-in-kids-and-teens\n  [4]: http://Multisystem Inflammatory Syndrome in U.S. Children and Adolescents\n  [5]: https://www.nejm.org/doi/full/10.1056/NEJMoa2021756\n  [6]: https://www.statnews.com/2020/06/29/nejm-inflammation-children-covid19-misc/\n",
-    "Answer Assigned": [
-      {
-        "id": "usraKwS6t1i6IMrwY",
-        "email": "mmn452@mail.harvard.edu",
-        "name": "Mohit Nair"
-      }
-    ],
-    "Context Assigned": [
-      {
-        "id": "usr7F6wgKz1f26438",
-        "email": "jahuang@mail.harvard.edu",
-        "name": "Jessica Huang"
-      }
-    ],
     "Last edited (simplified)": "2020-07-17T02:31:56.000Z",
     "Last edited (experts say)": "2020-07-17T02:31:15.000Z",
     "Last modified": "2020-07-17"
@@ -645,20 +924,6 @@
     ],
     "Other resources": "1. Neurologic Manifestations of Hospitalized Patients With Coronavirus Disease 2019 in Wuhan, China ([JAMA][1]) \n2. Neurologic Features in Severe SARS-CoV-2 Infection ([NEJM][2]) \n3. The emerging spectrum of COVID-19 neurology: clinical, radiological and laboratory findings ([Brain][3])\n4. How Covid-19 can damage the brain ([BBC][4])\n5. Warning of serious brain disorders in people with mild coronavirus symptoms ([The Guardian][5])\n\n  [1]: https://jamanetwork.com/journals/jamaneurology/fullarticle/2764549\n  [2]: https://www.nejm.org/doi/full/10.1056/NEJMc2008597\n  [3]: https://academic.oup.com/brain/article/doi/10.1093/brain/awaa240/5868408\n  [4]: https://www.bbc.com/future/article/20200622-the-long-term-effects-of-covid-19-infection\n  [5]: https://www.theguardian.com/world/2020/jul/08/warning-of-serious-brain-disorders-in-people-with-mild-covid-symptoms\n",
     "How often revision needed": "Weekly",
-    "Answer Assigned": [
-      {
-        "id": "usr7F6wgKz1f26438",
-        "email": "jahuang@mail.harvard.edu",
-        "name": "Jessica Huang"
-      }
-    ],
-    "Context Assigned": [
-      {
-        "id": "usraKwS6t1i6IMrwY",
-        "email": "mmn452@mail.harvard.edu",
-        "name": "Mohit Nair"
-      }
-    ],
     "Last edited (simplified)": "2020-07-16T23:02:18.000Z",
     "Last edited (experts say)": "2020-07-17T02:23:37.000Z",
     "Last modified": "2020-07-17"
@@ -684,13 +949,6 @@
       "treatment"
     ],
     "Other resources": "1. Compassionate Use of Remdesivir for Patients with Severe Covid-19. ([NEJM][1])\n2. Gilead Remdesivir Release. ([Gilead][2])\n3. Potential therapeutic agents against COVID-19: What we know so far ([J Chin Med Assoc][3])\n4. A review of the safety of favipiravir- a potential treatment in the COVID-19 pandemic? ([Journal of Virus Eradication][4])\n\n  [1]: https://www.nejm.org/doi/full/10.1056/NEJMoa2007016\n  [2]: https://www.gilead.com/news-and-press/press-room/press-releases/2020/6/gilead-announces-results-from-phase-3-trial-of-remdesivir-in-patients-with-moderate-covid-19\n  [3]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7176266/pdf/ca9-publish-ahead-of-print-10.1097.jcma.0000000000000318.pdf\n  [4]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7213073/pdf/jve-6-45.pdf\n",
-    "Answer Assigned": [
-      {
-        "id": "usrRCayeWUVUEsOXd",
-        "email": "saskia.vanrijn57@gmail.com",
-        "name": "Saskia Popescu"
-      }
-    ],
     "Last edited (simplified)": "2020-06-24T02:10:02.000Z",
     "Last edited (experts say)": "2020-06-26T14:33:18.000Z",
     "Last modified": "2020-07-17"
@@ -702,20 +960,6 @@
     "Background & context": "While pregnant women might be at increased risk for severe COVID-19 disease, there is no data yet to show any pre-term complications. Since it is possible for pregnant women to transmit the virus to a newborn, it is common to test pregnant women pre-labor for the novel coronavirus. It is unknown if the virus is spread before, during, or after birth. \n\nThere have been documented cases of mistreatment, abuse, and obstetric violence of pregnant women globally in the context of COVID-19. Examples include limited prenatal care, lack of choice around who is in the delivery room, separation from newborns, and verbal abuse. The World Health Organization has issued guidance on pregnancy and COVID-19 aiming to address these concerns by discouraging negative actions such as newborn separation and forced cesarean sections.\n",
     "What our experts say": "Currently, pregnant women are at an increased risk for severe COVID-19 disease, meaning that there is a higher chance they will require hospitalization and have more serious symptoms of the disease if they become infected. Preterm and other birth-related complications have not been associated with COVID-19 at this time. The U.S. Centers for Disease Control and Prevention (U.S. CDC) encourages pregnant women to take preventive measures and continue to seek prenatal care. If infected and contagious during labor, it is possible for the mother to spread the disease to the newborn. \n",
     "Other resources": "1. COVID-19 and Pregnancy ([U.S. CDC][1])\n2. Q&A: Pregnancy, childbirth and COVID-19 ([WHO][2])\n3. How has COVID-19 affected women's rights during childbirth? Help us track this globally ([Open Democracy][3])\n\n  [1]: https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/pregnancy-breastfeeding.html\n  [2]: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-on-covid-19-pregnancy-and-childbirth\n  [3]: https://www.opendemocracy.net/en/5050/womens-rights-during-childbirth-help-us-track-globally/\n",
-    "Answer Assigned": [
-      {
-        "id": "usrRCayeWUVUEsOXd",
-        "email": "saskia.vanrijn57@gmail.com",
-        "name": "Saskia Popescu"
-      }
-    ],
-    "Context Assigned": [
-      {
-        "id": "usryJw3d1ZhlxblnO",
-        "email": "jenna@meedan.com",
-        "name": "Jenna Sherman"
-      }
-    ],
     "Last edited (simplified)": "2020-07-17T02:18:28.000Z",
     "Last edited (experts say)": "2020-07-17T02:15:14.000Z",
     "Last modified": "2020-07-17"
@@ -782,20 +1026,6 @@
     ],
     "Other resources": "1. Preparing for COVID-19 in Nursing Homes ([U.S. CDC][1])\n2. COVID-19 Guidance for Nursing Home and Long-Term Care Facility Workers ([OSHA][2]) \n3. Nursing Homes Are Ground Zero for COVID-19 Pandemic ([JAMA][3])\n4. Vital Signs: Foodborne Norovirus Outbreaks — United States, 2009–2012 ([U.S. CDC][4])\n\n  [1]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/long-term-care.html\n  [2]: https://www.osha.gov/Publications/OSHA4025.pdf\n  [3]: https://jamanetwork.com/channels/health-forum/fullarticle/2763666\n  [4]: https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6322a3.htm?s_cid=mm6322a3_w\n",
     "How often revision needed": "Monthly",
-    "Answer Assigned": [
-      {
-        "id": "usraKwS6t1i6IMrwY",
-        "email": "mmn452@mail.harvard.edu",
-        "name": "Mohit Nair"
-      }
-    ],
-    "Context Assigned": [
-      {
-        "id": "usryJw3d1ZhlxblnO",
-        "email": "jenna@meedan.com",
-        "name": "Jenna Sherman"
-      }
-    ],
     "Last edited (simplified)": "2020-07-16T21:57:46.000Z",
     "Last edited (experts say)": "2020-07-17T00:17:31.000Z",
     "Last modified": "2020-07-17"
@@ -807,20 +1037,6 @@
     "Background & context": "As scientists, public health professionals, and doctors monitor the COVID-19 pandemic, they continue to learn about how the virus spreads, its symptoms, and other factors important to diagnosis, testing, monitoring, and long-term public health planning. The possibility of reinfection continues to be a prominent news headline with healthcare professionals reporting that some patients who had fully recovered from the virus later redeveloped symptoms. Some case reports detail how both symptom monitoring and testing have been performed, and, in some instances, patients have documented recovery of COVID-19 with negative virus test results only to become ill and test positive weeks or months later. \n\nWhile there are still many aspects of the virus and the pandemic that are unknown, recent research suggests that reinfection may be possible. Newer research shared with a preprint release on July 11th, 2020 found that COVID-19 antibodies function similarly to those from other coronaviruses that are associated with common colds. While the number of antibodies is higher in patients with more severe illness, reports suggest that the protective antibodies decrease relatively quickly (sometimes within 60 days)- especially in patients who had a mild case of COVID-19. Similarly, a population-based study from Spain examined antibodies of more than 50,000 people with possible exposure early in the pandemic and found that very few people have maintained antibodies to date- even those who lived in areas significantly impacted by the virus. Finally, a study done in primates (not humans) showed that COVID-19 immunity was maintained for 28 days following the original infection, but the study did not include longer range measures and, as an animal study, may not be directly comparable to humans.\n\nIt is important to note that, unlike other viruses, the number of antibodies needed to prevent reinfection with COVID-19 is unknown as is the level of antibodies needed to suggest that someone is “immune” to the virus. Studies to further understand immunity as well as the possibility for reinfection are ongoing.\n",
     "What our experts say": "Scientists do not know for sure if people can become infected with COVID-19 a second time, but it may be possible. More evidence is needed to determine whether or not reinfection can occur. We are still learning a lot about what kind of natural defense - also known as immunity - a person has after being infected with SARS-CoV-2/COVID-19. Currently, there haven't been any documented cases of re-infection in scientific journals. In some cases, some patients have tested positive a second time for the virus but scientists think that this is most likely residual viral RNA (traces of the virus left in the body) that is being detected by very sensitive tests or through false-positive tests. As we learn more about long-term immunity and protection from re-infection, this could change, but currently we haven't seen published cases to support that it is occurring. For those concerned about antibody tests - tests used to determine whether or not a person was infected with COVID-19 in the past - it is important to note that a lack of antibodies several months after infection might not mean the person has no immunity against the virus and is susceptible to infection again. \n",
     "Other resources": "1. Longitudinal evaluation and decline of antibody responses in SARS-CoV-2 infection ([MedRxiv][1])\n2. Direct observation of repeated infections with endemic coronaviruses ([J of Inf Disease][2])\n3. Prevalence of SARS-CoV-2 in Spain (ENE-COVID): a nationwide, population-based seroepidemiological study ([Lancet][3])\n4. Study in Primates Finds Acquired Immunity Prevents COVID-19 Reinfections ([NIH Director's Blog][4])\n5. Interview with Virologist Dr. Rasmussen ([Gizmodo][5])\n6. What Is COVID-19? ([JAMA][6]) \n\n  [1]: https://www.medrxiv.org/content/10.1101/2020.07.09.20148429v1.full.pdf\n  [2]: https://watermark.silverchair.com/jiaa392.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAqIwggKeBgkqhkiG9w0BBwagggKPMIICiwIBADCCAoQGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMiRbJCaojrVziOBHFAgEQgIICVexKUVWsCM8r04oJCJ2DPsP6vHvGEigqHpWW5jL_wb5GXNZdVL7bOCvm5VWLxP3N3_FCeNlLkiCXSddWR8sOG3UbOouN_hpBKr4mYdZ6gcI6jtE5rU_xfh0F9lJTu0pBX6IScsDQNGpbokEgqSk9QEK6H_0P4w3H8gf6h_jkfM72S_pPpCLksA2sOyP4frstixiN_MUKS_vx_BspvZENUnccZmgMBr9ielG5DCwLFj3HxAjRC_HiPLI8Nqn4aixyC1Ex6k7tmdZVx0B66c2pGv7VX04Ctxd4cxKTSIChWPacv2nejhG7ZGxiedfUCga25VlnSIjiyghHTNuu5EQhN9GhB0SlDcGkNCGcbuIvGdgzIeK-6ZZFdlTM8TcAHkducF7p0u4qxiQyHt0knoAqV6gxB6H9nsPJbO9eDlSFnlaekK1x1jVj3KYEijlB7oHyfXDvo3MGYoSQXF4cBejTUrfSBS6sjbD_uf0Pui-PJtti-VTlLyrumkRRLsutXTGDmo8V4iagTUWQQe6WEPh5emb8GYETdcRvAZx-otjFBtsagdq6L1ijVYYBRCg_QfmEow4wrEqMoK-o5_oZbInR_B-8eccbF5g3oNJhuSr4NSBXjd0Whhqe3LTf1IEvTz03Wv11sEUoPUbMbYmZlEJYYJf8BUR-5h267UeuU8IMFHxNsdTFJikB9y7hZgL8u_6_xdwE8MxJoIycHbRh4Dpv8Wz1QK55XC39-AvEuqdYuPNFvxJeU-KscfbpVX0-4AbdSoMlmwsl8eivzoFUOxZoK_MFt1ny-w\n  [3]: https://www.thelancet.com/action/showPdf?pii=S0140-6736(20)31483-5\n  [4]: https://directorsblog.nih.gov/2020/07/14/study-in-primates-finds-acquired-immunity-prevents-covid-19-reinfections/\n  [5]: https://gizmodo.com/what-s-the-evidence-for-covid-19-reinfection-1844364577\n  [6]: https://jamanetwork.com/journals/jama/fullarticle/2768390\n",
-    "Answer Assigned": [
-      {
-        "id": "usrRCayeWUVUEsOXd",
-        "email": "saskia.vanrijn57@gmail.com",
-        "name": "Saskia Popescu"
-      }
-    ],
-    "Context Assigned": [
-      {
-        "id": "usroPZ4yKxHAs6odJ",
-        "email": "elarose@hsph.harvard.edu",
-        "name": "Emily LaRose"
-      }
-    ],
     "Last edited (simplified)": "2020-07-16T23:59:45.000Z",
     "Last edited (experts say)": "2020-07-17T00:00:51.000Z",
     "Last modified": "2020-07-17"
@@ -887,20 +1103,6 @@
       "spread"
     ],
     "Other resources": "1. You're getting used to masks. Will you wear a face shield? ([NYT][1])\n2. The growing scientific evidence for masks to fight Covid-19** **([Vox][2])\n3. CDC calls on Americans to wear masks to prevent COVID-19 spread ([U.S. CDC][3])\n\n\n  [1]: https://www.nytimes.com/2020/05/24/health/coronavirus-face-shields.html\n  [2]: https://www.vox.com/future-perfect/21299527/masks-coronavirus-covid-19-studies-research-evidence\n  [3]: https://www.cdc.gov/media/releases/2020/p0714-americans-to-wear-masks.html?utm_source=Global+Health+NOW+Main+List&utm_campaign=ba35be8398-EMAIL_CAMPAIGN_2020_07_14_03_18&utm_medium=email&utm_term=0_8d0d062dbd-ba35be8398-860399\n",
-    "Answer Assigned": [
-      {
-        "id": "usrd9fFFP3M4vtFx9",
-        "email": "nour@meedan.com",
-        "name": "Nour Sharara"
-      }
-    ],
-    "Context Assigned": [
-      {
-        "id": "usr7F6wgKz1f26438",
-        "email": "jahuang@mail.harvard.edu",
-        "name": "Jessica Huang"
-      }
-    ],
     "Last edited (simplified)": "2020-07-01T01:07:44.000Z",
     "Last edited (experts say)": "2020-07-16T04:07:45.000Z",
     "Last modified": "2020-07-16"
@@ -932,13 +1134,6 @@
       "transmission"
     ],
     "Other resources": "1. COVID-19: How much protection fo face masks offer? ([Mayo Clinic][1])\n2. Coronavirus disease (COVID-19) Technical Advice for Use of Masks ([WHO][2])\n3. How to wear a non-medical fabric mask safely ([WHO][3])\n4. Community Use Of Face Masks And COVID-19: Evidence From A Natural Experiment Of State Mandates In The US ([Health Affairs][4])\n5. How to wear a non-medical fabric mask safely ([WHO][5])\n6. The growing scientific evidence for masks to fight Covid-19 ([Vox][6])\n7. CDC calls on Americans to wear masks to prevent COVID-19 spread ([U.S. CDC][7])\n\n  [1]: https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/coronavirus-mask/art-20485449\n  [2]: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks&publication=advice-on-the-use-of-masks-in-the-community-during-home-care-and-in-healthcare-settings-in-the-context-of-the-novel-coronavirus-(2019-ncov)-outbreak\n  [3]: https://www.who.int/images/default-source/health-topics/coronavirus/clothing-masks-infographic---(web)-logo-who.png?sfvrsn=b15e3742_14\n  [4]: https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2020.00818\n  [5]: https://www.who.int/images/default-source/health-topics/coronavirus/clothing-masks-infographic--web---part-1.png?sfvrsn=679fb6f1_26\n  [6]: https://www.vox.com/future-perfect/21299527/masks-coronavirus-covid-19-studies-research-evidence\n  [7]: https://www.cdc.gov/media/releases/2020/p0714-americans-to-wear-masks.html?utm_source=Global+Health+NOW+Main+List&utm_campaign=ba35be8398-EMAIL_CAMPAIGN_2020_07_14_03_18&utm_medium=email&utm_term=0_8d0d062dbd-ba35be8398-860399\n",
-    "Answer Assigned": [
-      {
-        "id": "usraKwS6t1i6IMrwY",
-        "email": "mmn452@mail.harvard.edu",
-        "name": "Mohit Nair"
-      }
-    ],
     "Last edited (simplified)": "2020-06-26T16:48:11.000Z",
     "Last edited (experts say)": "2020-06-26T16:44:11.000Z",
     "Last modified": "2020-07-16"
@@ -972,13 +1167,6 @@
       "immunity"
     ],
     "Other resources": "1. Interim Guidelines for COVID-19 Antibody Testing ([U.S. CDC][1])\n2. Waiting for Certainty on Covid-19 Antibody Tests - At What Cost? ([NEJM][2])\n\n  [1]: https://www.cdc.gov/coronavirus/2019-ncov/lab/resources/antibody-tests-guidelines.html\n  [2]: https://www.nejm.org/doi/full/10.1056/NEJMp2017739?query=RP\n",
-    "Answer Assigned": [
-      {
-        "id": "usrd9fFFP3M4vtFx9",
-        "email": "nour@meedan.com",
-        "name": "Nour Sharara"
-      }
-    ],
     "Expert Database (Hindi)": [
       "recmCB2gfbWWiSPYm"
     ],
@@ -1009,20 +1197,6 @@
       "transmission"
     ],
     "Other resources": "1. Follow-up of asymptomatic patients with SARS-CoV-2 infection ([Clinical Microbiology and Infection][1]) \n2. Estimating the asymptomatic proportion of coronavirus disease 2019 (COVID-19) cases on board the Diamond Princess cruise ship, Yokohama, Japan, 2020. ([Eurosurveillance][2])\n3. COVID-19: in the footsteps of Ernest Shackleton ([BMJ][3]) \n4. SARS-CoV-2 Community Transmission During Shelter-in-Place in San Francisco ([medRxiv][4]) \n5. Estimating the extent of asymptomatic COVID-19 and its potential for community transmission: systematic review and meta-analysis ([medRxiv][5]) \n6. Prevalence of Asymptomatic SARS-CoV-2 Infection ([Annals of Internal Medicine][6]) \n7. In the W.H.O.’s Coronavirus Stumbles, Some Scientists See a Pattern ([New York Times][7]) \n8. White House Adviser Warned of Risks of Pandemic; Trump Misleads on Testing ([New York Times][8]) \n9. COVID-19 Pandemic Planning Scenarios ([U.S. CDC][9]) \n\n  [1]: https://www.clinicalmicrobiologyandinfection.com/article/S1198-743X(20)30169-5/fulltext\n  [2]: https://www.ncbi.nlm.nih.gov/research/coronavirus/publication/32183930\n  [3]: https://thorax.bmj.com/content/early/2020/06/09/thoraxjnl-2020-215091\n  [4]: https://www.medrxiv.org/content/10.1101/2020.06.15.20132233v1\n  [5]: https://www.medrxiv.org/content/10.1101/2020.05.10.20097543v2\n  [6]: https://www.acpjournals.org/doi/10.7326/M20-3012\n  [7]: https://www.nytimes.com/2020/06/09/health/coronavirus-asymptomatic-world-health-organization.html\n  [8]: https://www.nytimes.com/2020/04/06/world/coronavirus-live-news-updates.html\n  [9]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/planning-scenarios.html\n",
-    "Answer Assigned": [
-      {
-        "id": "usrDTYZtkXBziEsWP",
-        "email": "christin@mail.harvard.edu",
-        "name": "Christin Gilmer"
-      }
-    ],
-    "Context Assigned": [
-      {
-        "id": "usrDTYZtkXBziEsWP",
-        "email": "christin@mail.harvard.edu",
-        "name": "Christin Gilmer"
-      }
-    ],
     "Last edited (simplified)": "2020-07-09T15:59:05.000Z",
     "Last edited (experts say)": "2020-07-14T20:50:07.000Z",
     "Last modified": "2020-07-15"
@@ -1095,13 +1269,6 @@
       "waste water"
     ],
     "Other resources": "1. SARS-CoV-2 titers in wastewater foreshadow dynamics and clinical presentation of new COVID-19 cases ([medRxiv][1])\n2. SARS-CoV-2 RNA concentrations in primary municipal sewage sludge as a leading indicator of COVID-19 outbreak dynamics ([medRxiv][2])\n3. SARS-CoV-2 titers in wastewater are higher than expected from clinically confirmed cases ([medRxiv][3])\n\n  [1]: https://www.medrxiv.org/content/10.1101/2020.06.15.20117747v2\n  [2]: https://www.medrxiv.org/content/10.1101/2020.05.19.20105999v1\n  [3]: https://www.medrxiv.org/content/10.1101/2020.04.05.20051540v1\n",
-    "Answer Assigned": [
-      {
-        "id": "usrd9fFFP3M4vtFx9",
-        "email": "nour@meedan.com",
-        "name": "Nour Sharara"
-      }
-    ],
     "Expert Database (Hindi)": [
       "recMkZJD2fpzKkueR"
     ],
@@ -1131,13 +1298,6 @@
       "prevention"
     ],
     "Other resources": "1. Can a toilet promote virus transmission? From a fluid dynamics perspective ([Physics of fluid][1])\n2. Put a lid on it, folks: Flushing may release coronavirus-containing 'toilet plumes' ([WaPo][2])\n# \n\n  [1]: https://aip.scitation.org/doi/10.1063/5.0013318\n  [2]: https://www.washingtonpost.com/health/2020/06/16/coronavirus-toilet-flushing/\n",
-    "Answer Assigned": [
-      {
-        "id": "usrd9fFFP3M4vtFx9",
-        "email": "nour@meedan.com",
-        "name": "Nour Sharara"
-      }
-    ],
     "Last edited (simplified)": "2020-06-28T11:52:39.000Z",
     "Last edited (experts say)": "2020-06-29T11:02:01.000Z",
     "Last modified": "2020-07-15"
@@ -1166,13 +1326,6 @@
       "prevention"
     ],
     "Other resources": "1. Approximate pH of Foods and Food Products, 2003 ([U.S. FDA Web Capture][1])\n2. pH Values of Common Foods and Ingredients ([Clemson][2])\n3. Complete Guide to Home Canning, Guide 1 Principles of Home Canning, 2015 ([USDA][3])\n4. Alteration of the pH Dependence of Coronavirus-Induced Cell Fusion: Effect of mutations in the Spike Glycoprotein, 1991 ([Journal of Virology][4])\n\n  [1]: https://webpal.org/SAFE/aaarecovery/2_food_storage/Processing/lacf-phs.htm\n  [2]: https://www.clemson.edu/extension/food/food2market/documents/ph_of_common_foods.pdf\n  [3]: https://nchfp.uga.edu/publications/usda/GUIDE01_HomeCan_rev0715.pdf\n  [4]: https://jvi.asm.org/content/jvi/65/4/1916.full.pdf\n",
-    "Answer Assigned": [
-      {
-        "id": "usroPZ4yKxHAs6odJ",
-        "email": "elarose@hsph.harvard.edu",
-        "name": "Emily LaRose"
-      }
-    ],
     "Media": [
       {
         "id": "att6egsUEQxJa1qQm",
@@ -1271,13 +1424,6 @@
         }
       }
     ],
-    "Context Assigned": [
-      {
-        "id": "usr7F6wgKz1f26438",
-        "email": "jahuang@mail.harvard.edu",
-        "name": "Jessica Huang"
-      }
-    ],
     "Last edited (simplified)": "2020-07-01T18:12:13.000Z",
     "Last edited (experts say)": "2020-07-01T20:14:54.000Z",
     "Last modified": "2020-07-14"
@@ -1345,13 +1491,6 @@
     ],
     "Other resources": "1. Developing Covid-19 Vaccines at Pandemic Speed ([NEJM][1])\n2. Accelerating a safe and effective COVID-19 vaccine ([WHO][2])\n3. Dr. Anthony Fauci says there’s a chance coronavirus vaccine may not provide immunity for very long ([CNBC][3])\n\n  [1]: http://Developing Covid-19 Vaccines at Pandemic Speed\n  [2]: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov/accelerating-a-safe-and-effective-covid-19-vaccine\n  [3]: https://www.cnbc.com/2020/06/02/dr-anthony-fauci-says-theres-a-chance-coronavirus-vaccine-may-not-provide-immunity-for-very-long.html\n",
     "How often revision needed": "Weekly",
-    "Answer Assigned": [
-      {
-        "id": "usraKwS6t1i6IMrwY",
-        "email": "mmn452@mail.harvard.edu",
-        "name": "Mohit Nair"
-      }
-    ],
     "Media": [
       {
         "id": "att2MsXez9bcH4iNF",
@@ -1499,13 +1638,6 @@
     ],
     "Other resources": "1. A study on virus reaction in human infections ([NIH/NCBI][1])\n2. New data suggest people aren't getting reinfected with the coronavirus ([ScienceNews][2])\n3. Findings from investigation and analysis of re-positive cases ([Korean Centers for Disease Control and Prevention][3]) \n\n  [1]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3142679/\n  [2]: https://www.sciencenews.org/article/coronavirus-covid19-reinfection-immune-response\n  [3]: https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030\n",
     "Editorial notes:": "nice!\n",
-    "Context Assigned": [
-      {
-        "id": "usroPZ4yKxHAs6odJ",
-        "email": "elarose@hsph.harvard.edu",
-        "name": "Emily LaRose"
-      }
-    ],
     "Last edited (simplified)": "2020-07-08T03:13:08.000Z",
     "Last edited (experts say)": "2020-07-08T04:57:14.000Z",
     "Last modified": "2020-07-13"
@@ -1536,20 +1668,6 @@
       "steroid"
     ],
     "Other resources": "1. Inhaled corticosteroids: A rapid review of the evidence for treatment or prevention of COVID-19 ([Oxford Centre for Evidence-Based Medicine][1])\n2. Weathering the Cytokine Storm in Susceptible Patients with Severe SARS-CoV-2 Infection ([Journal of Allergy and Clinical Immunology][2])\n3. The inhaled corticosteroid ciclesonide blocks coronavirus RNA replication by targeting viral NSP15 ([bioRxiv][3])\n4. Budesonide (Inhalation Route) ([Mayo Clinic][4])\n5. Inhalers and Nebulizers ([John Hopkins University][5])\n\n  [1]: https://www.cebm.net/covid-19/inhaled-corticosteroids-a-rapid-review-of-the-evidence-for-treatment-or-prevention-of-covid-19/\n  [2]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7165083/\n  [3]: https://www.biorxiv.org/content/10.1101/2020.03.11.987016v1\n  [4]: https://www.mayoclinic.org/drugs-supplements/budesonide-inhalation-route/description/drg-20071233\n  [5]: https://www.hopkinsmedicine.org/health/conditions-and-diseases/inhalers-and-nebulizers\n",
-    "Answer Assigned": [
-      {
-        "id": "usrDTYZtkXBziEsWP",
-        "email": "christin@mail.harvard.edu",
-        "name": "Christin Gilmer"
-      }
-    ],
-    "Context Assigned": [
-      {
-        "id": "usr7F6wgKz1f26438",
-        "email": "jahuang@mail.harvard.edu",
-        "name": "Jessica Huang"
-      }
-    ],
     "Last edited (simplified)": "2020-07-10T02:23:35.000Z",
     "Last edited (experts say)": "2020-07-10T03:13:41.000Z",
     "Last modified": "2020-07-13"
@@ -1577,20 +1695,6 @@
       "vaccine"
     ],
     "Other resources": "1. ICMR process to develop vaccine to fight Covid 19 pandemic as per globally accepted norms of fast tracking ([ICMR][1])\n2. ICMR's Rush to Produce 'Indian Vaccine' for COVID-19 Suggests Politics is Driving Science ([The Wire][2])\n3. 'We are working day and night': India races to have coronavirus vaccine by 15th August ([Live Mint][3])\n\n  [1]: https://main.icmr.nic.in/sites/default/files/press_realease_files/ICMR_Press_Release_04072020.pdf\n  [2]: https://thewire.in/health/icmr-balram-bhargava-covaxin-clinical-trials-bharat-biotech-politics\n  [3]: https://www.livemint.com/news/india/-we-are-working-day-and-night-india-races-to-have-coronavirus-vaccine-by-15th-august-11593929050424.html\n",
-    "Answer Assigned": [
-      {
-        "id": "usraKwS6t1i6IMrwY",
-        "email": "mmn452@mail.harvard.edu",
-        "name": "Mohit Nair"
-      }
-    ],
-    "Context Assigned": [
-      {
-        "id": "usraKwS6t1i6IMrwY",
-        "email": "mmn452@mail.harvard.edu",
-        "name": "Mohit Nair"
-      }
-    ],
     "Last edited (simplified)": "2020-07-07T00:03:34.000Z",
     "Last edited (experts say)": "2020-07-07T00:44:02.000Z",
     "Last modified": "2020-07-13"
@@ -1620,13 +1724,6 @@
       "airborne"
     ],
     "Other resources": "1. Public Health Guidance for Community-Related Exposure ([U.S. CDC][1])\n2. Identifying airborne transmission as the dominant route for the spread of COVID-19 ([PNAS][2]) \n3. I. Review of Scientific Data Regarding Transmission of Infectious Agents in Healthcare Settings ([CDC][3]) \n4. Mounting evidence suggests coronavirus is airborne — but health advice has not caught up ([Nature][4]) \n5. It is Time to Address Airborne Transmission of COVID-19 ([CID][5]) \n6. Modes of transmission of virus causing COVID-19: implications for IPC precaution recommendations ([WHO][6])\n7. Open Letter: It is Time to Address Airborne Transmission of COVID-19 ([Clinical Infectious Diseases][5])\n8. Coronavirus: WHO rethinking how Covid-19 spreads in air ([BBC][7])\n\n  [1]: https://www.cdc.gov/coronavirus/2019-ncov/php/public-health-recommendations.html\n  [2]: https://www.pnas.org/content/117/26/14857\n  [3]: https://www.cdc.gov/infectioncontrol/guidelines/isolation/scientific-review.html\n  [4]: https://www.nature.com/articles/d41586-020-02058-1\n  [5]: https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/5867798\n  [6]: https://www.who.int/news-room/commentaries/detail/modes-of-transmission-of-virus-causing-covid-19-implications-for-ipc-precaution-recommendations\n  [7]: https://www.bbc.com/news/world-53329946\n",
-    "Answer Assigned": [
-      {
-        "id": "usrRCayeWUVUEsOXd",
-        "email": "saskia.vanrijn57@gmail.com",
-        "name": "Saskia Popescu"
-      }
-    ],
     "Last edited (simplified)": "2020-07-09T16:35:30.000Z",
     "Last edited (experts say)": "2020-07-13T16:09:40.000Z",
     "Last modified": "2020-07-13"
@@ -1701,13 +1798,6 @@
       "transmission"
     ],
     "Other resources": "1. Testing for COVID-19 ([U.S. CDC][1])\n2. The important role of serology for COVID-19 control ([Lancet][2])\n3. Disease Control, Civil Liberties, and Mass Testing — Calibrating Restrictions during the Covid-19 Pandemic ([NEJM][3])\n4. Testing data in the US ([U.S. CDC][4])\n5. Coronavirus Disease 2019 ([U.S. CDC][5])\n\n  [1]: https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/testing.html\n  [2]: https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30322-4/fulltext?tk=eo_8486e9ce-cebe-4df1-95f1-85f8d09ebd05_9xtbTcXSkB4rVgEFWKrNTSEWIJMnkj3G2byL\n  [3]: https://www.nejm.org/doi/full/10.1056/NEJMp2007637\n  [4]: https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/testing-in-us.html\n  [5]: https://www.cdc.gov/coronavirus/2019-ncov/covid-data/covidview/index.html\n",
-    "Answer Assigned": [
-      {
-        "id": "usraKwS6t1i6IMrwY",
-        "email": "mmn452@mail.harvard.edu",
-        "name": "Mohit Nair"
-      }
-    ],
     "Media": [
       {
         "id": "atteY7qe9JC2KUk9V",
@@ -1854,13 +1944,6 @@
         }
       }
     ],
-    "Context Assigned": [
-      {
-        "id": "usryJw3d1ZhlxblnO",
-        "email": "jenna@meedan.com",
-        "name": "Jenna Sherman"
-      }
-    ],
     "Last edited (simplified)": "2020-07-07T23:24:41.000Z",
     "Last edited (experts say)": "2020-07-09T15:12:31.000Z",
     "Last modified": "2020-07-13"
@@ -1890,13 +1973,6 @@
       "spread"
     ],
     "Other resources": "1. A study about viral shedding and transmission of COVID-19 ([Nature][1])\n2. WHO clarifies comments on asymptomatic spread of Covid-19 ([STAT][2])\n3. Prevalence of asymptomatic SARS-CoV-2 infection ([Annals of Internal Medicine][3])\n4. Asymptomatic Transmission, the Achilles’ Heel of Current Strategies to Control Covid-19 ([NEJM][4])\n5. Estimating the extent of asymptomatic COVID-19 and its potential for community transmission: systematic review and meta-analysis ([medRxiv][5]) \n\n  [1]: https://www.nature.com/articles/s41591-020-0869-5\n  [2]: https://www.statnews.com/2020/06/09/who-comments-asymptomatic-spread-covid-19/\n  [3]: https://www.acpjournals.org/doi/10.7326/M20-3012\n  [4]: https://www.nejm.org/doi/full/10.1056/NEJMe2009758\n  [5]: https://www.medrxiv.org/content/10.1101/2020.05.10.20097543v2\n",
-    "Context Assigned": [
-      {
-        "id": "usr7F6wgKz1f26438",
-        "email": "jahuang@mail.harvard.edu",
-        "name": "Jessica Huang"
-      }
-    ],
     "Last edited (simplified)": "2020-07-12T03:54:25.000Z",
     "Last edited (experts say)": "2020-07-12T03:54:11.000Z",
     "Last modified": "2020-07-12"
@@ -1927,13 +2003,6 @@
       "symptoms"
     ],
     "Other resources": "1. Thermometers: Understand the options Print ([Mayo Clinic][1])\n2. Screening Clients for COVID-19 at Homeless Shelters or Encampments ([U.S. CDC][2])\n\n  [1]: https://www.mayoclinic.org/diseases-conditions/fever/in-depth/thermometers/art-20046737\n  [2]: http://Screening Clients for COVID-19 at Homeless Shelters or Encampments\n",
-    "Answer Assigned": [
-      {
-        "id": "usraKwS6t1i6IMrwY",
-        "email": "mmn452@mail.harvard.edu",
-        "name": "Mohit Nair"
-      }
-    ],
     "Media": [
       {
         "id": "attIgqoIgmw7l7puR",
@@ -2008,13 +2077,6 @@
         }
       }
     ],
-    "Context Assigned": [
-      {
-        "id": "usr7F6wgKz1f26438",
-        "email": "jahuang@mail.harvard.edu",
-        "name": "Jessica Huang"
-      }
-    ],
     "Last edited (simplified)": "2020-07-07T04:10:40.000Z",
     "Last edited (experts say)": "2020-07-01T18:35:50.000Z",
     "Last modified": "2020-07-10"
@@ -2044,13 +2106,6 @@
     ],
     "Other resources": "1. COVID-19 in Brazil ([Pulmonology][1])\n2. Implications of social distancing in Brazil in the COVID-19 pandemic ([Infection Control & Hospital Epidemiology][2])\n3. Coronavirus panel ([Ministry of Health][3])\n4. COVID-19 Infection Rate In Rio’s Favelas Far Exceeds Official Count, A New Study Says ([Rio Prefeitura][4])\n5. Brazil Coronavirus Map and Case Count ([NYT][5])\n6. Modeling and forecasting the early evolution of the Covid-19 pandemic in Brazil ([arXiv][6])\n\n  [1]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7183991/\n  [2]: https://pdfs.semanticscholar.org/9c44/c27760a65c19a3210349a621d5ffb158ae1c.pdf\n  [3]: https://covid.saude.gov.br/\n  [4]: https://riocontraocorona.rio/noticias/prefeitura-divulga-resultado-da-primeira-etapa-de-pesquisa-sobre-covid-19-em-comunidades-cariocas/\n  [5]: https://www.nytimes.com/interactive/2020/world/americas/brazil-coronavirus-cases.html\n  [6]: https://arxiv.org/abs/2003.14288\n",
     "How often revision needed": "Weekly",
-    "Answer Assigned": [
-      {
-        "id": "usraKwS6t1i6IMrwY",
-        "email": "mmn452@mail.harvard.edu",
-        "name": "Mohit Nair"
-      }
-    ],
     "Media": [
       {
         "id": "att1zh7AsO8gkEd6o",
@@ -2200,13 +2255,6 @@
       "prevention"
     ],
     "Other resources": "1. 8 Zoonotic Diseases Shared Between Animals and People of Most Concern in the U.S. ([U.S. CDC][1]) \n2. Zoonotic disease: emerging public health threats in the Region ([WHO][2]) \n\n  [1]: https://www.cdc.gov/media/releases/2019/s0506-zoonotic-diseases-shared.html\n  [2]: http://www.emro.who.int/about-who/rc61/zoonotic-diseases.html\n",
-    "Answer Assigned": [
-      {
-        "id": "usrRCayeWUVUEsOXd",
-        "email": "saskia.vanrijn57@gmail.com",
-        "name": "Saskia Popescu"
-      }
-    ],
     "Expert Database (Hindi)": [
       "rec8K7WMOUHrc6dvt"
     ],
@@ -2319,20 +2367,6 @@
     "Background & context": "There are many fruits, vegetables, herbs, and dietary supplements that have been promoted as preventive therapies or cures for COVID-19. While _some _of these nutrition-based therapies have theoretical links to scientific research, based on previously conducted cellular studies, animal studies, or human studies, there is not significant scientific evidence on their impacts against SARS-CoV-2, the virus that causes COVID-19. The [World Health Organization][1] (WHO) and other health authorities have continually denounced these reports because there is no current scientific evidence suggesting that specific foods or dietary supplements prevent, treat, or cure COVID-19. \n\nIt is important to be aware of possible interactions between medications and some dietary supplements, and there are known risks that accompany supplement use for some patients (i.e, pregnant or lactating women, patients with kidney or liver disease). Some supplement products have been found to not have the components that are advertised on the product packaging, and may contain varied doses, or may contain other contaminants (i.e. heavy metals, pesticides) or additives.\n\n**Turmeric:** The primary active compound in Turmeric, curcumin, has been extensively studied for its anti-inflammatory and antimicrobial properties. In spite of its potential and successes in laboratory-based tests, most clinical trials in humans** **have not shown an effect, and more studies are needed to determine if or when curcumin may benefit people. Curcumin has not been studied in patients with COVID-19, though clinical trials have been proposed. The World Health Organization has a [specific statement][2] on their website suggesting that there is no current scientific evidence that turmeric prevents COVID-19. There is also no scientific evidence that turmeric can successfully treat or cure COVID-19.\n\n**Lemon:** Lemon is a great source of vitamin C and can be part of a healthy diet. The World Health Organization has a [specific statement][2] on their website suggesting that there is no current scientific evidence that lemon prevents COVID-19. There is also no scientific evidence that lemon can successfully treat or cure COVID-19.\n\n**Pineapple:** A variety of fruits (pineapple, mango, durian, and others) all may be included in a well-balanced diet to promote general health and well-being. The World Health Organization has a [specific statement][2] on their website suggesting that there is no current scientific evidence that these and other fruits prevent COVID-19. There is also no scientific evidence that fruits can successfully treat or cure COVID-19.\n\n**Onion:** As a member of the same family as garlic, onions are also known to have some antimicrobial and anti-inflammatory qualities, but studies are limited. To date, there are no studies that evaluate onions as a therapy for COVID-19, and there is no scientific evidence to suggest that onions will prevent, treat, or cure COVID-19.\n\n**Blackseed Oil**: (also called Nigella sativa) Black seed (or Nigella sativa) is used as a medicinal plant around the world and has been reportedly used to treat a variety of conditions from influenza to diabetes, inflammation to cough or fever. To date, black seed oil and its compounds have not been studied as a possible treatment or cure against COVID-19 in cell studies, animal studies, or human studies, though the idea has been proposed. Currently, there is no scientific evidence to suggest that black see oil will prevent, treat, or cure COVID-19.\n\n**Honey:** Honey may have some wound healing and antibacterial properties, but much of the published research focuses on topical (skin) application, which doesn't apply to COVID-19 because the virus is an internal infection. While it can be part of a healthy diet, honey is a source of sugar, and leading health organizations recommend limiting dietary sugar intake. Health experts have suggested that products like ginger, tea, or honey may make us feel better when we are sick, but that does not mean that these items cure or treat disease. There is also no scientific evidence that honey can successfully treat or cure COVID-19.\n\n**Garlic:** Garlic is a healthy food that may have some antimicrobial and anti-tumor properties, though study results are often mixed and there are limitations, gaps, and shortcomings in the published evidence. While it has been widely studied in preparations as a supplement, extract, and food, there is currently no evidence that garlic will prevent or treat COVID-19. The World Health Organization has a [specific statement][3] on their website suggesting that “there is no evidence from the current outbreak that eating garlic has protected people from the new coronavirus.” There is also no scientific evidence that garlic can successfully treat or cure COVID-19.\n\n**Tea:** Some teas may have health benefits, but evidence is limited because of difficulty studying the possible effect of tea alone. Health experts have suggested that products like ginger, tea, or honey may make us feel better when we are sick, but that does not mean that these items cure or treat disease. There is no scientific evidence to suggest that tea will prevent, treat, or cure COVID-19.\n\n**Ginger:** As a supplement, ginger is most commonly prescribed to help with nausea. Health experts have suggested that products like ginger, tea, or honey may make us feel better when we are sick, but that does not mean that these items cure or treat disease. There is no scientific evidence to suggest that ginger will prevent, treat, or cure COVID-19.\n\n**Zinc:** Zinc is a mineral that is used throughout the body and is needed for a healthy immune system. While zinc is available in many foods, use of zinc supplements has been shown to be helpful for wound healing and may shorten the duration of colds and acute diarrhea. Use of zinc should be guided by healthcare providers, since there are known side effects that may result from incorrect dosing. In addition, long-term zinc use is known to cause copper deficiency and is not recommended. There are clinical trials registered to study zinc (often in combinations with other vitamins, minerals, or medications) as a therapy for patients with COVID-19, but results are not available yet. While there are many scientists and health professionals that believe zinc may be a helpful therapy for COVID-19 based on its known benefits with other conditions, there is not enough scientific evidence to suggest that zinc supplementation will prevent, treat, or cure COVID-19.\n\n**Selenium:** Selenium is a mineral has many functions in the body; like other minerals, it is needed for a healthy immune system. Selenium is available in many foods and is also available in supplement form. Most selenium studies to date have focused on thyroid disease, cancer, and cardiovascular disease. Recently, there are scientific papers that have been published as “Letters to the Editor” and similar that suggest that selenium may be beneficial, but these papers are largely observational, have many limitations, and have not gone through the rigorous peer-review process to validate the research methods and claims made. Without further validation, they should be interpreted very cautiously. At present, there is not enough scientific evidence to suggest that selenium supplementation will prevent, treat, or cure COVID-19.\n\n  [1]: https://www.who.int/campaigns/connecting-the-world-to-combat-coronavirus/healthyathome/healthyathome---healthy-diet\n  [2]: https://www.who.int/southeastasia/outbreaks-and-emergencies/novel-coronavirus-2019/fact-or-fiction\n  [3]: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters\n",
     "What our experts say": "While a varied and balanced diet including fruits and vegetables does help to support the immune system in general, there is no evidence to suggest that special diets, consumption of particular foods, or taking vitamin, mineral, or herbal supplements will prevent, treat or cure COVID-19. \n\nFor information about the attributed of specific foods or drinks, please see the '**Background & Context**' section for this question.\n",
     "Other resources": "1. #HealthyatHome: Helath Diet, 2020 ([WHO][1])\n2. Coronavirus disease (COVID-19) advice for the public: Mythbusters ([WHO][2])\n3. Fact or Fiction: Novel Coronavirus 2019 ([WHO][3])\n4. Garlic: a review of potential therapeutic effects, 2014 ([Avicenna J Phytomed][4])\n5. Anti-infective Properties of the Golden Spice Curcumin, 2019 ([Front Microbiol][5])\n6. Curcumin as a potential treatment for COVID-19, Letter to the Editor, 2020 ([Phytotherapy Research][6])\n7. Turmeric, 2020 ([NIH NCCIH][7])\n8. Tea, 2020 ([NIH NCCIH][8])\n9. Ginger, 2020 ([NIH NCCIH][9])\n10. Safe use of complementary health products and practices, 2020 ([NIH NCCIH][10])\n11. Dietary Supplements, 2020 ([Merck Manual][11])\n12. About Herbs, Botanicals, & Other Products ([Memorial Sloan Kettering Cancer Center][12])\n13. Molecular docking, simulation and MM-PBSA studies of nigella sativa compounds: a computational quest to identify potential natural antiviral for COVID-19 treatment, 2020 ([J Biomol Struct Dyn][13])\n14. Zinc, 2020 ([NIH][14])\n15. Association between regional selenium status and reported outcome of COVID-19 cases in China, 2020 ([AJCN][15])\n16. Selenium, 2020 ([NIH][16])\n\n  [1]: https://www.who.int/campaigns/connecting-the-world-to-combat-coronavirus/healthyathome/healthyathome---healthy-diet\n  [2]: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters\n  [3]: https://www.who.int/southeastasia/outbreaks-and-emergencies/novel-coronavirus-2019/fact-or-fiction\n  [4]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4103721/\n  [5]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6509173/\n  [6]: https://onlinelibrary.wiley.com/doi/epdf/10.1002/ptr.6745\n  [7]: https://www.nccih.nih.gov/health/turmeric\n  [8]: https://www.nccih.nih.gov/health/tea\n  [9]: https://www.nccih.nih.gov/health/ginger\n  [10]: https://www.nccih.nih.gov/health/safety\n  [11]: https://www.merckmanuals.com/professional/special-subjects/dietary-supplements\n  [12]: https://www.mskcc.org/cancer-care/diagnosis-treatment/symptom-management/integrative-medicine/herbs\n  [13]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7298883/\n  [14]: https://ods.od.nih.gov/factsheets/Zinc-HealthProfessional/\n  [15]: https://academic.oup.com/ajcn/article/111/6/1297/5826147\n  [16]: https://ods.od.nih.gov/factsheets/Selenium-HealthProfessional/\n",
-    "Answer Assigned": [
-      {
-        "id": "usroPZ4yKxHAs6odJ",
-        "email": "elarose@hsph.harvard.edu",
-        "name": "Emily LaRose"
-      }
-    ],
-    "Context Assigned": [
-      {
-        "id": "usroPZ4yKxHAs6odJ",
-        "email": "elarose@hsph.harvard.edu",
-        "name": "Emily LaRose"
-      }
-    ],
     "Last edited (simplified)": "2020-07-10T13:21:30.000Z",
     "Last edited (experts say)": "2020-07-10T02:38:45.000Z",
     "Last modified": "2020-07-10"
@@ -2347,20 +2381,6 @@
       "receyjml9aL7IhxLF"
     ],
     "Other resources": "1. PubChem: Acetaminophen ([NLM][1])\n2. Acetaminophen, In LiverTox: Clinical and Research Information on Drug-Induced Liver Injury, 2016 ([NIDDKD][2])\n3. Commission on Human Medicines advice on ibuprofen and coronavirus (COVID-19), 2020 ([UK Government][3])\n4. Tweet from Olivier Véran, Health Minister of France, on March 14, 2020 ([Twitter][4])\n5. Tweet from the WHO, on March 18, 2020 ([Twitter][5])\n6. Drugs by Name, Generic and Brand: Acetaminophen ([Merck Manual Professional Version][6])\n\n  [1]: https://pubchem.ncbi.nlm.nih.gov/compound/acetaminophen\n  [2]: https://www.ncbi.nlm.nih.gov/books/NBK548162/\n  [3]: https://www.gov.uk/government/news/commission-on-human-medicines-advice-on-ibuprofen-and-coronavirus-covid-19\n  [4]: https://twitter.com/olivierveran/status/1238776545398923264\n  [5]: https://twitter.com/WHO/status/1240409217997189128\n  [6]: https://www.merckmanuals.com/professional/resources/brand-names-of-some-commonly-used-drugs\n",
-    "Answer Assigned": [
-      {
-        "id": "usrd9fFFP3M4vtFx9",
-        "email": "nour@meedan.com",
-        "name": "Nour Sharara"
-      }
-    ],
-    "Context Assigned": [
-      {
-        "id": "usroPZ4yKxHAs6odJ",
-        "email": "elarose@hsph.harvard.edu",
-        "name": "Emily LaRose"
-      }
-    ],
     "Last edited (simplified)": "2020-07-09T21:29:38.000Z",
     "Last edited (experts say)": "2020-07-10T02:58:13.000Z",
     "Last modified": "2020-07-10"
@@ -2396,20 +2416,6 @@
       "contagious"
     ],
     "Other resources": "1. Tracking changes in SARS-CoV-2 Spike: evidence that D614G increases infectivity of the COVID-19 virus ([Cell][1]) \n2. The D614G mutation in the SARS-CoV-2 spike protein reduces S1 shedding and increases infectivity ([bioRxiv][2]) \n3. This coronavirus mutation has taken over the world. Scientists are trying to understand why. ([Washington Post][3]) \n4. Viral Mutation Rates ([Journal of Virology][4])\n\n  [1]: https://www.cell.com/cell/fulltext/S0092-8674(20)30820-5\n  [2]: https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full.pdf\n  [3]: https://www.washingtonpost.com/science/2020/06/29/coronavirus-mutation-science/?arc404=true\n  [4]: https://jvi.asm.org/content/jvi/84/19/9733.full.pdf\n",
-    "Answer Assigned": [
-      {
-        "id": "usrDTYZtkXBziEsWP",
-        "email": "christin@mail.harvard.edu",
-        "name": "Christin Gilmer"
-      }
-    ],
-    "Context Assigned": [
-      {
-        "id": "usr7F6wgKz1f26438",
-        "email": "jahuang@mail.harvard.edu",
-        "name": "Jessica Huang"
-      }
-    ],
     "Last edited (simplified)": "2020-07-07T14:24:43.000Z",
     "Last edited (experts say)": "2020-07-08T02:41:28.000Z",
     "Last modified": "2020-07-09"
@@ -2427,13 +2433,6 @@
     "Background & context": "There have been many reports of people experiencing a variety of different symptoms as a result of COVID-19 infection. While some symptoms occur in just a few people, other symptoms are more common or “typical” for many people with COVID-19. Typical symptoms for most people with COVID-19 include fever, dry cough, and tiredness; and less common symptoms include headache, loss of taste or smell, rashes or discoloration on fingers or toes, diarrhea, and others according to the World Health Organization. The medical and scientific communities are continually learning about COVID-19 and its symptoms in people based on age, ethnicity, body composition, pre-existing medical conditions, and other factors. The World Health Organization, U.S. Centers for Disease Control and Prevention, and other leading health organizations are continually updating their public information to share what is currently known about the COVID-19 and its impacts.\n\n",
     "What our experts say": "COVID-19 can impact people in different ways, but most people who are infected with the virus will only have mild to moderate symptoms and won't need to be hospitalized. Most cases of the virus are not dangerous, but should be taken seriously. The World Health Organization says the most common symptoms are:\n- fever\n- dry cough\n- tiredness\n\nSymptoms fewer people have include: \n- aches and pains\n- sore throat\n- diarrhea\n- conjunctivitis\n- headache\n- loss of taste or smell\n- a rash on skin, or discoloration of fingers or toes\n\nSymptoms that are serious and mean people should contact a medical professional as soon as possible include:\n- difficulty breathing or shortness of breath\n- chest pain or pressure\n- loss of speech or movement\n\nBecause we are learning more about this virus every day, including new symptoms, it is important to pay attention to what your body is feeling and contact a medical professional if you begin to experience any of the above symptoms or notice any other changes in how you normally feel.\n\nAdditionally, the United States Centers for Disease Control People with COVID-19 have had a wide range of symptoms reported – ranging from mild symptoms to severe illness. This list does not include all possible symptoms, but these may appear **2-14 days after exposure** **to the virus**:\n- Fever or chills\n- Cough\n- Shortness of breath or difficulty breathing\n- Fatigue\n- Muscle or body aches\n- Headache\n- New loss of taste or smell\n- Sore throat\n- Congestion or runny nose\n- Nausea or vomiting\n- Diarrhea\n\nAdditionally, the United States Centers for Disease Control urges people to seek emergency medical care if they are experiencing any of these symptoms:\n- Trouble breathing\n- Persistent pain or pressure in the chest\n- New confusion\n- Inability to wake or stay awake\n- Bluish lips or face\n\n",
     "Other resources": "1. WHO overview of COVID-19 ([WHO][1])\n2. Symptoms of Coronavirus ([U.S. CDC][2]) \n3. Clinical Characteristics of Coronavirus Disease 2019 in China ([NEJM)][3]\n\n  [1]: https://www.who.int/health-topics/coronavirus#tab=tab_3\n  [2]: https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html\n  [3]: https://www.nejm.org/doi/full/10.1056/NEJMoa2002032\n",
-    "Context Assigned": [
-      {
-        "id": "usroPZ4yKxHAs6odJ",
-        "email": "elarose@hsph.harvard.edu",
-        "name": "Emily LaRose"
-      }
-    ],
     "Translation notes": "a note with remvoals or other stuff\n\nAdded/changed sentences: \n- [Roughly half of people with COVID-19 will have a fever and 2/3 will have a cough.]\n- \n",
     "Last edited (simplified)": "2020-07-09T22:37:00.000Z",
     "Last edited (experts say)": "2020-06-23T00:43:09.000Z",
@@ -2464,22 +2463,8 @@
       "ivermectin"
     ],
     "Other resources": "1. The FDA-approved drug ivermectin inhibits the replication of SARS-CoV-2 in vitro, 2020 ([Antiviral Research][1])\n2. FDA letter to stakeholders: do not use ivermectin intended for animals as treatment for COVID-19 in humans, 2020 ([US FDA][2])\n3. FAQ: COVID-19 and ivermectin intended for animals, 2020 ([US FDA][3])\n4. Ivermectin and COVID-19: a report in Antiviral research, widespread interest, an FDA warning, two letters to the editor and the authors' responses, 2020 ([Antiviral Res][4])\n5. ICON (Ivermectin in COvid Nineteen) study: Use of ivermectin is associated with lower mortality in hospitalized patients with COVID-19, 2020 ([medRxiv][5])\n6. COVID-19 Treatment Guidelines ([U.S. NIH][6]) \n7. Recommendation Regarding the Use of Ivermectin as a Treatment for COVID-19, 22 June 2020 ([PAHO][7])\n\n  [1]: https://www.sciencedirect.com/science/article/pii/S0166354220302011\n  [2]: https://www.fda.gov/animal-veterinary/product-safety-information/fda-letter-stakeholders-do-not-use-ivermectin-intended-animals-treatment-covid-19-humans\n  [3]: https://www.fda.gov/animal-veterinary/product-safety-information/faq-covid-19-and-ivermectin-intended-animals\n  [4]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7172803/\n  [5]: https://www.medrxiv.org/content/10.1101/2020.06.06.20124461v2.full.pdf\n  [6]: https://www.covid19treatmentguidelines.nih.gov/whats-new/\n  [7]: https://iris.paho.org/handle/10665.2/52372\n",
-    "Answer Assigned": [
-      {
-        "id": "usrDTYZtkXBziEsWP",
-        "email": "christin@mail.harvard.edu",
-        "name": "Christin Gilmer"
-      }
-    ],
     "Expert Database (Hindi)": [
       "recuMsGR9XouJYTgV"
-    ],
-    "Context Assigned": [
-      {
-        "id": "usroPZ4yKxHAs6odJ",
-        "email": "elarose@hsph.harvard.edu",
-        "name": "Emily LaRose"
-      }
     ],
     "Last edited (simplified)": "2020-07-09T20:59:49.000Z",
     "Last edited (experts say)": "2020-07-09T20:58:41.000Z",
@@ -2506,20 +2491,6 @@
       "treatment"
     ],
     "Other resources": "1. Use of herbal drugs to treat COVID-19 should be with caution ([Lancet][1])\n2. Rhodiola ([NIH][2]) \n\n  [1]: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31143-0/fulltext\n  [2]: https://www.nccih.nih.gov/health/rhodiola\n",
-    "Answer Assigned": [
-      {
-        "id": "usrRCayeWUVUEsOXd",
-        "email": "saskia.vanrijn57@gmail.com",
-        "name": "Saskia Popescu"
-      }
-    ],
-    "Context Assigned": [
-      {
-        "id": "usr7F6wgKz1f26438",
-        "email": "jahuang@mail.harvard.edu",
-        "name": "Jessica Huang"
-      }
-    ],
     "Last edited (simplified)": "2020-07-01T04:57:00.000Z",
     "Last edited (experts say)": "2020-07-03T05:54:12.000Z",
     "Last modified": "2020-07-09"
@@ -2549,67 +2520,8 @@
       "laboratory"
     ],
     "Other resources": "1. Multi-Stage Group Testing Improves Efficiency of Large-Scale COVID-19 Screening ([Journal of Clinical Virology][1]) \n2. Group Testing and Sparse Signal Recovery ([2008 42nd Asilomar Conference on Signals, Systems and Computers][2])\n3. Pooled testing with replication: a mass testing strategy for the COVID-19 pandemics ([medRxiv][3]) \n4. What is pool testing and how does it work? ([Washington Post][4]) \n5. Coronavirus Test Shortages Trigger a New Strategy: Group Screening ([Scientific American][5]) \n6. Pooling Coronavirus Tests Can Spare Scarce Supplies, But There's A Catch ([NPR][6])\n\n  [1]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7177109/\n  [2]: https://users.math.msu.edu/users/iwenmark/Papers/GIS-grouptest-2008.pdf\n  [3]: https://www.medrxiv.org/content/10.1101/2020.04.27.20076422v1.full.pdf\n  [4]: https://www.washingtonpost.com/health/what-is-pool-testing-and-how-does-it-work/2020/06/26/33eee7ea-b7e4-11ea-a510-55bf26485c93_story.html\n  [5]: https://www.scientificamerican.com/article/coronavirus-test-shortages-trigger-a-new-strategy-group-screening2/\n  [6]: https://www.npr.org/sections/health-shots/2020/07/06/886886255/pooling-coronavirus-tests-can-spare-scarce-supplies-but-theres-a-catch\n",
-    "Answer Assigned": [
-      {
-        "id": "usrDTYZtkXBziEsWP",
-        "email": "christin@mail.harvard.edu",
-        "name": "Christin Gilmer"
-      }
-    ],
-    "Context Assigned": [
-      {
-        "id": "usr7F6wgKz1f26438",
-        "email": "jahuang@mail.harvard.edu",
-        "name": "Jessica Huang"
-      }
-    ],
     "Last edited (simplified)": "2020-07-07T23:35:20.000Z",
     "Last edited (experts say)": "2020-07-08T16:30:55.000Z",
-    "Last modified": "2020-07-08"
-  },
-  {
-    "id": "rec73GJFaUH4wDGkr",
-    "Question": "Why are smell tests being proposed over temperature checks at workplaces?",
-    "Item status": "Published",
-    "Category": "Testing",
-    "Subcategory": "On: COVID-19 & smell tests",
-    "Source of the question": [
-      "Social Media"
-    ],
-    "Country question was sourced from": [
-      "USA"
-    ],
-    "Background & context": "There is growing interest in smell tests to supplement temperature testing during the current pandemic. Loss of smell, also called anosmia, is one of the possible symptoms of COVID-19. In some patients who have tested positive for COVID-19, loss of smell is the only reported symptom. The potential for a smell test serving as a better diagnostic for COVID-19 may lie in anosmia's unique link to COVID-19. Dr. Andrew Badley of the Mayo Clinic further explains this point as he stated “My impression is that anosmia is an earlier symptom of Covid-19 relative to fever, and some infected people can have anosmia and nothing else. So it’s potentially a more sensitive screen for asymptomatic patients.”\n\nAdditionally, temperature checks can be insufficient for screening because patients with COVID-19 may not have a fever, and there are other health conditions that can cause a fever. Loss of smell is more unique to COVID-19. While smell tests can be helpful to add to temperature screenings at workplaces, schools, airports, restaurants and other locations, it is important to remember that infected people can still transmit COVID-19 without showing any symptoms like fever or loss of smell.\n\n",
-    "What our experts say": "While many businesses and public spaces have begun using temperature checks as a way to try to identify people who might be infected with COVID-19, several studies have proposed that using a smell test in addition to a thermometer check may be a more accurate way of detecting potential cases. The reasons for this are numerous, and are mostly due to concerns about the effectiveness of temperature checks. Some of these issues include:\n- The fact that many people with COVID-19 never develop any symptoms such as fevers;\n- People with fevers might not have the virus at all and could have any number of other illnesses;\n- Infrared/non-contact thermometers are often inaccurate and operating errors may occur; and\n- People who take over-the-counter medication for fevers might be ill but will not present with a fever.\nUsing a temperature check alone is not an effective strategy to detect COVID-19 infections at public sites. On the other hand, the potential benefits of a smell test are numerous, as the loss of smell— also called 'anosmia'—is relatively unique to COVID-19, whereas fevers are common symptoms in many illnesses. \n\nFor instance, a recent preprint study (awaiting peer-review) showed that COVID-19 patients were 27 times more likely to have lost their sense of smell than people without the virus, but only 2.6 times more likely to have fever or chills than those without the virus. Another study demonstrated that people with a loss of smell are \"more than 10 times more likely to have COVID-19 than other causes of infection,\" according to Dr. Carol Yan, making it a more accurate marker for COVID-19 than a fever would likely be, as they have many other causes and are associated with many other illnesses. Reasons like this are why many health experts believe that a combination of a smell test in addition to temperature checks could more accurately test and identify people for COVID-19.\n\n",
-    "Glossary Terms": [
-      "rec6bCvXI9wPhOuCW"
-    ],
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "smell test",
-      "temperature",
-      "thermometer",
-      "anosmia",
-      "screening"
-    ],
-    "Other resources": "1. COVID‑19 Strategy Update 14 April 2020 ([WHO][1])\n2. General Business Frequently Asked Questions ([U.S. CDC][2]) \n3. Employers Rush to Adopt Virus Screening. The Tools May Not Help Much. ([NYT][3]) \n4. Augmented Curation of Clinical Notes from a Massive EHR System Reveals Symptoms of Impending COVID-19 Diagnosis ([medRxiv][4])\n5. Self‐reported olfactory loss associates with outpatient clinical course in COVID‐19 ([IFAR][5]) \n6. The implications of silent transmission for the control of COVID-19 outbreaks ([PNAS][6]) \n7. Fever checks are a flawed way to flag Covid-19 cases. Experts say smell tests might help ([STAT News][7]) \n\n  [1]: https://www.who.int/docs/default-source/coronaviruse/covid-strategy-update-14april2020.pdf?sfvrsn=29da3ba0_19\n  [2]: https://www.cdc.gov/coronavirus/2019-ncov/community/general-business-faq.html#Reducing-the-Spread-of-COVID-19-in-Workplaces\n  [3]: https://www.nytimes.com/2020/05/11/technology/coronavirus-worker-testing-privacy.html\n  [4]: https://www.medrxiv.org/content/10.1101/2020.04.19.20067660v4\n  [5]: https://onlinelibrary.wiley.com/doi/full/10.1002/alr.22592\n  [6]: https://www.pnas.org/content/early/2020/07/02/2008373117\n  [7]: https://www.statnews.com/2020/07/02/smell-tests-temperature-checks-covid19/\n",
-    "Answer Assigned": [
-      {
-        "id": "usrDTYZtkXBziEsWP",
-        "email": "christin@mail.harvard.edu",
-        "name": "Christin Gilmer"
-      }
-    ],
-    "Context Assigned": [
-      {
-        "id": "usr7F6wgKz1f26438",
-        "email": "jahuang@mail.harvard.edu",
-        "name": "Jessica Huang"
-      }
-    ],
-    "Last edited (simplified)": "2020-07-08T05:02:42.000Z",
-    "Last edited (experts say)": "2020-07-08T05:05:53.000Z",
     "Last modified": "2020-07-08"
   },
   {
@@ -2636,13 +2548,6 @@
     ],
     "Other resources": "1. Clinical Questions about COVID-19: Questions and Answers ([U.S. CDC][1])\n2. Interim Clinical Guidance for Management of Patients with Confirmed Coronavirus Disease (COVID-19) ([U.S. CDC][2]) \n3. COVID-19 and Multiorgan Response ([CPC][3]) \n4. Coronavirus disease (COVID-19) outbreak ([WHO][4]) \n5. COVID-19 Can Last for Several Months ([The Atlantic][5]) \n6. Researchers warn covid-19 could cause debilitating long-term illness in some patients ([Washington Post][6]) \n7. A woman says she's had 8 positive coronavirus tests in 50 days. How long can it really take to recover? ([CBS News][7]) \n8. Clearance and persistence of SARS‐CoV‐2 RNA in patients with COVID‐19 ([Journal of Medical Virology][8])\n\n  [1]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/faq.html\n  [2]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance-management-patients.html\n  [3]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7187881/\n  [4]: https://www.who.int/health-topics/coronavirus#tab=tab_2\n  [5]: https://www.theatlantic.com/health/archive/2020/06/covid-19-coronavirus-longterm-symptoms-months/612679/\n  [6]: https://www.washingtonpost.com/health/could-covid-19-cause-long-term-chronic-fatigue-and-illness-in-some-patients/2020/05/29/bcd5edb2-a02c-11ea-b5c9-570a91917d8d_story.html\n  [7]: https://www.cbsnews.com/news/coronavirus-symptoms-8-positive-tests-50-days/\n  [8]: https://www.researchgate.net/profile/Analia_Carmo2/publication/341834349_Clearance_and_Persistence_of_SARS-CoV-2_RNA_in_COVID-19_patients/links/5eeddc0f299bf1faac6657b7/Clearance-and-Persistence-of-SARS-CoV-2-RNA-in-COVID-19-patients.pdf\n",
     "How often revision needed": "Every 2 weeks for accuracy re: length of illness w/ symptoms from WHO; official reasons it can make people sick for months",
-    "Answer Assigned": [
-      {
-        "id": "usrDTYZtkXBziEsWP",
-        "email": "christin@mail.harvard.edu",
-        "name": "Christin Gilmer"
-      }
-    ],
     "Expert Database (Hindi)": [
       "recRqKZW3vHx1CRAV"
     ],
@@ -2676,13 +2581,6 @@
     ],
     "Other resources": "1. Endothelial cell infection and endotheliitis in COVID-19 ([Lancet][1]) \n2. Pulmonary Vascular Endothelialitis, Thrombosis, and Angiogenesis in Covid-19 ([NEJM][2]) \n3. Doctors race to understand inflammatory condition in kids ([Science][3]) \n4. COVID-19: the vasculature unleashed ([Nature][4]) \n5. COVID-19 and the Heart ([American Heart Association][5])\n\n  [1]: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30937-5/fulltext\n  [2]: https://www.nejm.org/doi/full/10.1056/NEJMoa2015432\n  [3]: https://science.sciencemag.org/content/368/6494/923\n  [4]: https://www.nature.com/articles/s41577-020-0343-0\n  [5]: https://www.ahajournals.org/doi/pdf/10.1161/CIRCRESAHA.120.317055\n",
     "How often revision needed": "Bi-weekly ",
-    "Context Assigned": [
-      {
-        "id": "usr7F6wgKz1f26438",
-        "email": "jahuang@mail.harvard.edu",
-        "name": "Jessica Huang"
-      }
-    ],
     "Last edited (simplified)": "2020-07-07T22:49:46.000Z",
     "Last edited (experts say)": "2020-07-07T13:50:16.000Z",
     "Last modified": "2020-07-08"
@@ -2704,13 +2602,6 @@
       "definition"
     ],
     "Other resources": "1. CDC Definition of Signs, Symptoms, and Conditions of Ill Travelers ([U.S. CDC][1])\n2. An article about fever and the immune system ([NIH/NCBI][2])\n3. An article about fevers promoting T lymphocyte trafficking ([Cell][3])\n4. Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19) ([WHO][4])\n5. Fever ([Mayo Clinic][5])\n\n  [1]: https://www.cdc.gov/quarantine/maritime/definitions-signs-symptoms-conditions-ill-travelers.html\n  [2]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4786079/\n  [3]: https://www.cell.com/immunity/fulltext/S1074-7613(18)30495-3\n  [4]: https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf\n  [5]: https://www.mayoclinic.org/diseases-conditions/fever/symptoms-causes/syc-20352759\n",
-    "Context Assigned": [
-      {
-        "id": "usroPZ4yKxHAs6odJ",
-        "email": "elarose@hsph.harvard.edu",
-        "name": "Emily LaRose"
-      }
-    ],
     "Last edited (simplified)": "2020-07-07T22:48:14.000Z",
     "Last edited (experts say)": "2020-07-08T00:23:03.000Z",
     "Last modified": "2020-07-08"
@@ -2737,13 +2628,6 @@
       "symptoms"
     ],
     "Other resources": "1. Coronavirus ([WHO][1])\n2. Malaria ([WHO][2])\n3. How COVID-19 is Affecting the Global Response to AIDS, Tuberculosis, and Malaria ([The Global Fund][3])\n4. COVID-19 and Malaria: A Symptom Screening Challenge for Malaria Endemic Countries ([International Journal of Infectious Diseases][4])\n5. 2019 World Malaria Report ([WHO][5])\n\n  [1]: https://www.who.int/health-topics/coronavirus#tab=tab_3\n  [2]: https://www.who.int/news-room/fact-sheets/detail/malaria\n  [3]: https://www.theglobalfight.org/covid-aids-tb-malaria/\n  [4]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7184246/\n  [5]: https://www.who.int/malaria/publications/world-malaria-report-2019/en/\n",
-    "Answer Assigned": [
-      {
-        "id": "usrd9fFFP3M4vtFx9",
-        "email": "nour@meedan.com",
-        "name": "Nour Sharara"
-      }
-    ],
     "Last edited (simplified)": "2020-06-26T14:19:45.000Z",
     "Last edited (experts say)": "2020-06-26T14:19:02.000Z",
     "Last modified": "2020-07-07"
@@ -2779,20 +2663,6 @@
       "nasal cavity"
     ],
     "Other resources": "1. Detection of severe acute respiratory syndrome Coronavirus-2 in the tears of patients with Coronavirus disease 2019 ([Nature][1])\n2. Medical School Ophthalmologists will Test Tears for COVID-19 ([University of Minnesota][2])\n3. Assessing Viral Shedding and Infectivity of Tears in Coronavirus Disease 2019 (COVID-19) Patients ([American Academy of Ophthamology][3]) \n4. Anatomy, Head and Neck, Eye Conjunctiva ([NIH][4]) \n5. Re: Yu et al.: Assessing Viral Shedding and Infectivity of Tears in Coronavirus Disease 2019 (COVID-19) Patients ([Ophthalmology][5]) \n6. Assay Techniques and Test Development for COVID-19 Diagnosis ([American Chemical Society][6]) \n\n  [1]: https://www.nature.com/articles/s41433-020-0965-2\n  [2]: https://med.umn.edu/news-events/medical-school-ophthalmologists-will-test-tears-covid-19\n  [3]: https://www.aaojournal.org/article/S0161-6420(20)30311-0/pdf\n  [4]: https://www.ncbi.nlm.nih.gov/books/NBK519502/\n  [5]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7247511/\n  [6]: https://pubs.acs.org/doi/10.1021/acscentsci.0c00501\n",
-    "Answer Assigned": [
-      {
-        "id": "usrDTYZtkXBziEsWP",
-        "email": "christin@mail.harvard.edu",
-        "name": "Christin Gilmer"
-      }
-    ],
-    "Context Assigned": [
-      {
-        "id": "usr7F6wgKz1f26438",
-        "email": "jahuang@mail.harvard.edu",
-        "name": "Jessica Huang"
-      }
-    ],
     "Last edited (simplified)": "2020-07-03T19:45:17.000Z",
     "Last edited (experts say)": "2020-07-01T20:27:02.000Z",
     "Last modified": "2020-07-07"
@@ -2855,13 +2725,6 @@
       "symptoms"
     ],
     "Other resources": "1. Coronavirus blood-clot mystery intensifies ([Nature][1]) \n2. COVID-19 and Coagulopathy: Frequently Asked Questions ([ASH][2]) \n3. For Parents: Multisystem Inflammatory Syndrome in Children (MIS-C) associated with COVID-19 ([U.S. CDC][3]) \n\n  [1]: https://www.nature.com/articles/d41586-020-01403-8\n  [2]: https://www.hematology.org/covid-19/covid-19-and-coagulopathy\n  [3]: https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/children/mis-c.html\n",
-    "Answer Assigned": [
-      {
-        "id": "usrRCayeWUVUEsOXd",
-        "email": "saskia.vanrijn57@gmail.com",
-        "name": "Saskia Popescu"
-      }
-    ],
     "Expert Database (Hindi)": [
       "recXOk6xPo9jDGiho"
     ],
@@ -2891,13 +2754,6 @@
       "transmission"
     ],
     "Other resources": "1. Transmission of SARS-CoV-2 in Domestic Cats ([NEJM][1])\n2. CDC article on Animals and COVID-19 ([U.S. CDC][2])\n3. American Veterinary Medical Association article about COVID-19 in animals ([AVMA][3])\n4. United States Department of Agriculture Foreign Agricultural Service report on control measures for the Dutch mink industry in response to COVID-19 ([USDA][4])\n5. Pets and Other Animals ([U.S. CDC][5])\n\n  [1]: https://www.nejm.org/doi/full/10.1056/NEJMc2013400?query=featured_coronavirus\n  [2]: https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/animals.html\n  [3]: https://www.avma.org/resources-tools/animal-health-and-welfare/covid-19/depth-summary-reports-naturally-acquired-sars-cov-2-infections-domestic-animals-and-farmed-or\n  [4]: https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Additional Control Measures for Dutch Mink Industry In Response to COVID-19_The Hague_Netherlands_05-19-2020\n  [5]: https://www.cdc.gov/coronavirus/2019-ncov/animals/pets-other-animals.html\n",
-    "Context Assigned": [
-      {
-        "id": "usr7F6wgKz1f26438",
-        "email": "jahuang@mail.harvard.edu",
-        "name": "Jessica Huang"
-      }
-    ],
     "Last edited (simplified)": "2020-07-07T06:31:29.000Z",
     "Last edited (experts say)": "2020-06-24T15:41:41.000Z",
     "Last modified": "2020-07-07"
@@ -2963,13 +2819,6 @@
       "business"
     ],
     "Other resources": "1. COVID‑19 Strategy Update 14 April 2020 ([WHO][1])\n2. General Business Frequently Asked Questions ([U.S. CDC][2]) \n3. Employers Rush to Adopt Virus Screening. The Tools May Not Help Much. ([NYT][3]) \n\n  [1]: https://www.who.int/docs/default-source/coronaviruse/covid-strategy-update-14april2020.pdf?sfvrsn=29da3ba0_19\n  [2]: https://www.cdc.gov/coronavirus/2019-ncov/community/general-business-faq.html#Reducing-the-Spread-of-COVID-19-in-Workplaces\n  [3]: https://www.nytimes.com/2020/05/11/technology/coronavirus-worker-testing-privacy.html\n",
-    "Answer Assigned": [
-      {
-        "id": "usrDTYZtkXBziEsWP",
-        "email": "christin@mail.harvard.edu",
-        "name": "Christin Gilmer"
-      }
-    ],
     "Last edited (simplified)": "2020-07-01T14:52:39.000Z",
     "Last edited (experts say)": "2020-07-06T19:30:51.000Z",
     "Last modified": "2020-07-07"
@@ -2997,13 +2846,6 @@
     ],
     "Other resources": "1. RDIF and ChemRar announce first interim results of clinical trials of Favipiravir drug’s effectiveness in coronavirus therapy ([RDIF][1])\n2. Breaking views - Corona Capital: Tech diversity, CNN’s middle age ([Reuters][2]) \n3. Russia Rolls Out First Approved COVID-19 Drug as Infections Pass 500,000 ([NYT][3]) \n4. 60,000 doses of avifavir, a COVID-19 treatment, to be delivered in June ([EPR][4]) \n\n  [1]: https://rdif.ru/Eng_fullNews/5174/\n  [2]: https://www.reuters.com/article/us-health-coronavirus-finance-breakingvi/breakingviews-corona-capital-tech-diversity-cnns-middle-age-idUSKBN2383JE\n  [3]: https://www.nytimes.com/reuters/2020/06/11/world/europe/11reuters-health-coronavirus-russia-cases.html\n  [4]: https://www.europeanpharmaceuticalreview.com/news/120478/60000-doses-of-avifavir-a-covid-19-treatment-to-be-delivered-in-june/\n",
     "How often revision needed": "Monthly",
-    "Answer Assigned": [
-      {
-        "id": "usryJw3d1ZhlxblnO",
-        "email": "jenna@meedan.com",
-        "name": "Jenna Sherman"
-      }
-    ],
     "Expert Database (Hindi)": [
       "recFtJtgluP9IrWp3"
     ],
@@ -3035,13 +2877,6 @@
       "transmission"
     ],
     "Other resources": "1. Covid case count nears 2-lakh mark, ICMR says ‘far away from peak’ ([Indian Express][1])\n2. Global report: India reports surge in Covid-19 cases as lockdown eased ([The Guardian][2])\n3. India Coronavirus Map and Case Count ([NYT][3])\n\n  [1]: https://indianexpress.com/article/india/coronavirus-cases-peak-icmr-6439847/\n  [2]: http://Global report: India reports surge in Covid-19 cases as lockdown eased\n  [3]: https://www.nytimes.com/interactive/2020/world/asia/india-coronavirus-cases.html\n",
-    "Answer Assigned": [
-      {
-        "id": "usraKwS6t1i6IMrwY",
-        "email": "mmn452@mail.harvard.edu",
-        "name": "Mohit Nair"
-      }
-    ],
     "Expert Database (Hindi)": [
       "recKPeD5FnTdztpcM"
     ],
@@ -3192,13 +3027,6 @@
       "treatment"
     ],
     "Other resources": "1. Combination Therapy ([Science Direct][1])\n2. Combination Therapy for COVID-19, Rajesh T. Gandhi, MD reviewing Hung IFN et al. Lancet 2020 May 8 ([NEJM][2])\n3. Here’s Exactly Where We Are with Vaccines and Treatments for COVID-19 ([Healthline][3])\n\n  [1]: http://Combination Therapy\n  [2]: https://www.jwatch.org/na51564/2020/05/14/combination-therapy-covid-19\n  [3]: https://www.healthline.com/health-news/heres-exactly-where-were-at-with-vaccines-and-treatments-for-covid-19\n",
-    "Answer Assigned": [
-      {
-        "id": "usryJw3d1ZhlxblnO",
-        "email": "jenna@meedan.com",
-        "name": "Jenna Sherman"
-      }
-    ],
     "Expert Database (Hindi)": [
       "recievVAiT0QfVDTa"
     ],
@@ -3232,13 +3060,6 @@
     "Expert Database (Hindi)": [
       "recn7OxPiCFpvXq7U"
     ],
-    "Context Assigned": [
-      {
-        "id": "usr7F6wgKz1f26438",
-        "email": "jahuang@mail.harvard.edu",
-        "name": "Jessica Huang"
-      }
-    ],
     "Last edited (simplified)": "2020-07-07T06:31:02.000Z",
     "Last edited (experts say)": "2020-06-24T15:27:28.000Z",
     "Last modified": "2020-07-07"
@@ -3269,13 +3090,6 @@
       "transmission"
     ],
     "Other resources": "1. COVID-19 Among Workers in Meat and Poultry Processing Facilities ― 19 States, April 2020 ([U.S. CDC][1])\n2. Washington’s largest meat-packing plant, hard-hit by COVID-19, to reopen Tuesday ([Seattle Times][2])\n3. Severe coronavirus outbreaks stagger some meat-packing plants in Washington ([Yakima Herald][3])\n\n  [1]: http://COVID-19 Among Workers in Meat and Poultry Processing Facilities ― 19 States, April 2020\n  [2]: http://Washington’s largest meat-packing plant, hard-hit by COVID-19, to reopen Tuesday\n  [3]: http://Severe coronavirus outbreaks stagger some meat-packing plants in Washington\n",
-    "Answer Assigned": [
-      {
-        "id": "usraKwS6t1i6IMrwY",
-        "email": "mmn452@mail.harvard.edu",
-        "name": "Mohit Nair"
-      }
-    ],
     "Last edited (simplified)": "2020-06-24T01:22:56.000Z",
     "Last edited (experts say)": "2020-06-26T15:59:29.000Z",
     "Last modified": "2020-07-07"
@@ -3307,13 +3121,6 @@
       "immunity boosters"
     ],
     "Other resources": "1. Homeopathy to holistically strengthen body's defences for coronavirus infection ([ARHF][1]) \n2. Interim Clinical Guidance for Management of Patients with Confirmed Coronavirus Disease (COVID-19) ([U.S. CDC][2]) \n\n  [1]: https://www.arhf.nl/coronavirus/docs/en/coronavirus-genus-epidemicus-3-April-2020.pdf\n  [2]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance-management-patients.html\n",
-    "Answer Assigned": [
-      {
-        "id": "usrRCayeWUVUEsOXd",
-        "email": "saskia.vanrijn57@gmail.com",
-        "name": "Saskia Popescu"
-      }
-    ],
     "Expert Database (Hindi)": [
       "rec17g4hTZOY6140S"
     ],
@@ -3343,13 +3150,6 @@
       "treatment"
     ],
     "Other resources": "1. Repurposing existing drugs offers a more rapid alternative to a vaccine ([Science Daily][1])\n2. Repurposed drugs may help scientists fight the new coronavirus ([ScienceNews][2])\n3. Drug repurposing for antimicrobial discovery ([Nature][3])\n4.  Deadly superbug could get a vigorous foe in repurposed antibiotic ([Phys.org][4])\n5. Leukemia drug nilotinib safe, shows promise against Alzheimer's disease ([UPI][5]) \n\n  [1]: https://www.sciencedaily.com/releases/2020/05/200507103641.htm\n  [2]: https://www.sciencenews.org/article/coronavirus-covid19-repurposed-treatments-drugs\n  [3]: https://www.nature.com/articles/s41564-019-0357-1\n  [4]: https://phys.org/news/2020-06-deadly-superbug-vigorous-foe-repurposed.htm\n  [5]: https://www.upi.com/Health_News/2020/05/29/Leukemia-drug-nilotinib-safe-shows-promise-against-Alzheimers-disease/4241590697832/?ur3=1\n",
-    "Answer Assigned": [
-      {
-        "id": "usrd9fFFP3M4vtFx9",
-        "email": "nour@meedan.com",
-        "name": "Nour Sharara"
-      }
-    ],
     "Expert Database (Hindi)": [
       "recB4DIF0RZD1Zrsb"
     ],
@@ -3502,20 +3302,6 @@
       "cure"
     ],
     "Other resources": "1. Alcohol and COVID-19: What You Need to Know ([WHO][1])\n2. Alcohol does not protect against COVID-19; Access should be restricted during lockdown ([WHO][2])\n3. Alcohol and the Immune System ([Alcohol Research: Current Reviews][3])\n\n  [1]: https://www.euro.who.int/__data/assets/pdf_file/0010/437608/Alcohol-and-COVID-19-what-you-need-to-know.pdf?ua=1\n  [2]: https://www.euro.who.int/en/health-topics/disease-prevention/alcohol-use/news/news/2020/04/alcohol-does-not-protect-against-covid-19-access-should-be-restricted-during-lockdown\n  [3]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4590612/\n",
-    "Answer Assigned": [
-      {
-        "id": "usrd9fFFP3M4vtFx9",
-        "email": "nour@meedan.com",
-        "name": "Nour Sharara"
-      }
-    ],
-    "Context Assigned": [
-      {
-        "id": "usr7F6wgKz1f26438",
-        "email": "jahuang@mail.harvard.edu",
-        "name": "Jessica Huang"
-      }
-    ],
     "Last edited (simplified)": "2020-07-01T19:09:30.000Z",
     "Last edited (experts say)": "2020-07-01T20:11:33.000Z",
     "Last modified": "2020-07-03"
@@ -3542,13 +3328,6 @@
       "symptoms"
     ],
     "Other resources": "1. COVID-19 Delirium research paper, ([Critical Care][1]) \n2. Delirium: a missing piece in the COVID-10 pandemic puzzle ([Age Aging][2])\n\n  [1]: https://link.springer.com/content/pdf/10.1186/s13054-020-02882-x.pdf\n  [2]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7239228/\n",
-    "Answer Assigned": [
-      {
-        "id": "usrRCayeWUVUEsOXd",
-        "email": "saskia.vanrijn57@gmail.com",
-        "name": "Saskia Popescu"
-      }
-    ],
     "Expert Database (Hindi)": [
       "rec15gZ2TyiR3EZLv"
     ],
@@ -3764,13 +3543,6 @@
     ],
     "Other resources": "1. o-Chlorobenzylidene Malononitrile (CS Riot Control Agent) Associated Acute Respiratory Illnesses in a U.S. Army Basic Combat Training Cohort ([Military Medicine)][1]\n2. Tear Gas (Pepper Spray) Toxicity ([PubMed][2])\n3. Teargas and pepper spray will accelerate spread of Covid-19, doctors warn ([The Guardian][3])\n4. Open letter advocating for an anti-racist public health response to demonstrations against systemic injustice occurring during the COVID-19 pandemic ([Open Letter][4])\n\n  [1]: https://academic.oup.com/milmed/article/179/7/793/4259353\n  [2]: https://www.ncbi.nlm.nih.gov/books/NBK544263/\n  [3]: https://www.theguardian.com/us-news/2020/jun/06/teargas-coronavirus-george-floyd-protests\n  [4]: https://drive.google.com/file/d/1Jyfn4Wd2i6bRi12ePghMHtX3ys1b7K1A/view\n",
     "How often revision needed": "Monthly",
-    "Answer Assigned": [
-      {
-        "id": "usraKwS6t1i6IMrwY",
-        "email": "mmn452@mail.harvard.edu",
-        "name": "Mohit Nair"
-      }
-    ],
     "Expert Database (Hindi)": [
       "recOQIzhwZapyh5J3"
     ],
@@ -3902,13 +3674,6 @@
       "spread"
     ],
     "Other resources": "1. WHO urges countries to move quickly to save lives from malaria in sub-Saharan Africa ([World Health Organization][1]) \n\n  [1]: http://WHO urges countries to move quickly to save lives from malaria in sub-Saharan Africa\n",
-    "Answer Assigned": [
-      {
-        "id": "usraKwS6t1i6IMrwY",
-        "email": "mmn452@mail.harvard.edu",
-        "name": "Mohit Nair"
-      }
-    ],
     "Expert Database (Hindi)": [
       "recx72V3iggGydtQr"
     ],
@@ -3980,13 +3745,6 @@
       "medication"
     ],
     "Other resources": "1. Llama antibody engineered to block coronavirus ([NIH][1])\n2. Structural Basis for Potent Neutralization of Betacoronaviruses by Single-Domain Camelid Antibodies ([Cell][2]) \n3. Llama Antibodies Neutralize Virus That Causes COVID-19, New Research Shows ([WBUR][3]) \n\n  [1]: https://www.nih.gov/news-events/nih-research-matters/llama-antibody-engineered-block-coronavirus\n  [2]: https://www.cell.com/cell/pdf/S0092-8674(20)30494-3.pdf?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867420304943%3Fshowall%3Dtrue\n  [3]: https://www.wbur.org/commonhealth/2020/05/16/llama-antibodies-can-neutralize-virus\n",
-    "Answer Assigned": [
-      {
-        "id": "usrDTYZtkXBziEsWP",
-        "email": "christin@mail.harvard.edu",
-        "name": "Christin Gilmer"
-      }
-    ],
     "Last edited (simplified)": "2020-07-01T18:27:30.000Z",
     "Last edited (experts say)": "2020-07-01T20:29:20.000Z",
     "Last modified": "2020-07-01"
@@ -4018,20 +3776,6 @@
     ],
     "Other resources": "1. The unequal toll of COVID-19 mortality by age in the United States: Quantifying racial/ethnic disparities ([Harvard Center for Population and Development Studies][1])\n2. Why are Blacks dying at higher rates from COVID-19? ([Brookings][2])\n3. African-American COVID-19 mortality ([JACC][3])\n\n  [1]: https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1266/2020/06/20_Bassett-Chen-Krieger_COVID-19_plus_age_working-paper_0612_Vol-19_No-3_with-cover.pdf\n  [2]: https://www.brookings.edu/blog/fixgov/2020/04/09/why-are-blacks-dying-at-higher-rates-from-covid-19/\n  [3]: https://www.onlinejacc.org/content/75/21/2746\n",
     "How often revision needed": "Monthly",
-    "Answer Assigned": [
-      {
-        "id": "usraKwS6t1i6IMrwY",
-        "email": "mmn452@mail.harvard.edu",
-        "name": "Mohit Nair"
-      }
-    ],
-    "Context Assigned": [
-      {
-        "id": "usr7F6wgKz1f26438",
-        "email": "jahuang@mail.harvard.edu",
-        "name": "Jessica Huang"
-      }
-    ],
     "Last edited (simplified)": "2020-07-01T14:36:40.000Z",
     "Last edited (experts say)": "2020-07-01T14:32:36.000Z",
     "Last modified": "2020-07-01"
@@ -4063,13 +3807,6 @@
       "prevention"
     ],
     "Other resources": "1. Prevent Getting Sick ([U.S. CDC][1]) \n\n  [1]: https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/index.html\n",
-    "Answer Assigned": [
-      {
-        "id": "usrd9fFFP3M4vtFx9",
-        "email": "nour@meedan.com",
-        "name": "Nour Sharara"
-      }
-    ],
     "Translation Done": [
       "French",
       "Hindi"
@@ -4104,13 +3841,6 @@
       "treatment"
     ],
     "Other resources": "1. Dr. Lipi Roy - Could the Polio Vaccine Curb the Coronavirus Pandemic ([Forbes][1])\n2. The use of oral polio vaccine (OPV) to prevent SARS-CoV2 ([Polio Eradication Initiative][2])\n\n  [1]: https://www.forbes.com/sites/lipiroy/2020/06/14/could-the-polio-vaccine-curb-the-coronavirus-pandemic/#14520b22332a\n  [2]: http://polioeradication.org/wp-content/uploads/2020/03/Use-of-OPV-and-COVID-20200421.pdf\n",
-    "Answer Assigned": [
-      {
-        "id": "usryJw3d1ZhlxblnO",
-        "email": "jenna@meedan.com",
-        "name": "Jenna Sherman"
-      }
-    ],
     "Expert Database (Hindi)": [
       "rec7bA8vT7nLLJsBt"
     ],
@@ -4145,13 +3875,6 @@
       "India"
     ],
     "Other resources": "1. India: COVID-19 Lockdown Puts Poor at Risk ([HRW][1])\n2. The Pandemic Exposes India’s Apathy Toward Migrant Workers ([The Atlantic][2]) \n3. Send migrant workers home in 15 days: India's top court to states ([Aljazeera][3])\n4. Bihar, Jharkhand and Odisha record big spikes as migrant workers return home ([Hindustan Times][4])\n5. Coronavirus lockdown: The Indian migrants dying to get home ([BBC][5])\n\n  [1]: https://www.hrw.org/news/2020/03/27/india-covid-19-lockdown-puts-poor-risk\n  [2]: https://www.theatlantic.com/ideas/archive/2020/04/the-pandemic-exposes-indias-two-worlds/609838/\n  [3]: https://www.aljazeera.com/news/2020/06/send-migrant-workers-home-15-days-india-top-court-states-200609073709386.html\n  [4]: https://www.hindustantimes.com/india-news/bihar-jharkhand-and-odisha-record-big-spikes-as-migrant-workers-return-home/story-6PfyWmDaJPbpkgeZpqTVhN.html\n  [5]: https://www.bbc.com/news/world-asia-india-52672764\n",
-    "Answer Assigned": [
-      {
-        "id": "usraKwS6t1i6IMrwY",
-        "email": "mmn452@mail.harvard.edu",
-        "name": "Mohit Nair"
-      }
-    ],
     "Expert Database (Hindi)": [
       "recq5h0Prcle128f9"
     ],
@@ -4305,13 +4028,6 @@
       "source"
     ],
     "Other resources": "1. First Reported Cases of SARS-CoV-2 Infection in Companion Animals ([U.S. CDC][1]) \n2. Coronavirus: A hunt for the 'missing link' host species ([BBC][2]) \n3. Virus Mutations Reveal How COVID-19 Really Spread ([Scientific American][3]) \n4. Animal source of the coronavirus continues to elude scientists ([Nature][4]) \n5. Infection of bat and human intestinal organoids by SARS-CoV-2 ([Nature][5]) \n6. Explainer: What we know about the origins of the coronavirus pandemic ([Reuters][6]) \n7. SARS-CoV-2 in animals ([AVMA][7]) \n8. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China ([The Lancet][8]) \n9. Genomic variations of COVID-19 suggest multiple outbreak sources of transmission ([medRxiv][9]) \n\n  [1]: https://www.cdc.gov/mmwr/volumes/69/wr/mm6923e3.htm?s_cid=mm6923e3_x\n  [2]: https://www.bbc.com/news/science-environment-52529830\n  [3]: https://www.scientificamerican.com/article/virus-mutations-reveal-how-covid-19-really-spread1/\n  [4]: https://www.nature.com/articles/d41586-020-01449-8\n  [5]: https://www.nature.com/articles/s41591-020-0912-6\n  [6]: https://www.reuters.com/article/us-health-coronavirus-china-origins-expl/explainer-what-we-know-about-the-origins-of-the-coronavirus-pandemic-idUSKBN23H1HQ\n  [7]: https://www.avma.org/resources-tools/animal-health-and-welfare/covid-19/sars-cov-2-animals-including-pets\n  [8]: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30183-5/fulltext# \n  [9]: https://www.medrxiv.org/content/10.1101/2020.02.25.20027953v1.full.pdf\n",
-    "Answer Assigned": [
-      {
-        "id": "usrDTYZtkXBziEsWP",
-        "email": "christin@mail.harvard.edu",
-        "name": "Christin Gilmer"
-      }
-    ],
     "Expert Database (Hindi)": [
       "recwnWJGFipJOsK7H"
     ],
@@ -4343,13 +4059,6 @@
       "outbreak"
     ],
     "Other resources": "1. The Protests will spread the coronavirus ([The Atlantic][1]) \n2. The Respiratory Health Risks of Large Crowds ([AATS][2])\n3. How to Protect Yourself & Others ([U.S. CDC][3])\n\n  [1]: https://www.theatlantic.com/health/archive/2020/06/protests-pandemic/612460/\n  [2]: https://www.atsjournals.org/doi/full/10.1513/AnnalsATS.201603-177ED\n  [3]: https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html\n",
-    "Answer Assigned": [
-      {
-        "id": "usrRCayeWUVUEsOXd",
-        "email": "saskia.vanrijn57@gmail.com",
-        "name": "Saskia Popescu"
-      }
-    ],
     "Expert Database (Hindi)": [
       "reci5ZkVYfbId4yH0"
     ],
@@ -4384,13 +4093,6 @@
       "marijuana"
     ],
     "Other resources": "1. Could cannabis terpene formulation treat COVID-19? ([Health Europa][1])\n2. Cannabidiol (CBD): what we know and what we don't ([Harvard][2])\n3. NIH Research on Marijuana and Cannabinoids ([National Institute on Drug Abuse][3])\n4. In Search of Preventative Strategies: Novel Anti-Inflammatory High-CBD Cannabis Sativa Extracts Modulate ACE2 Expression in COVID-19 Gateway Tissues ([Preprints][4])\n\n  [1]: https://www.healtheuropa.eu/cannabis-terpene-formulation-treat-covid-19/99586/\n  [2]: https://www.health.harvard.edu/blog/cannabidiol-cbd-what-we-know-and-what-we-dont-2018082414476\n  [3]: https://www.drugabuse.gov/drugs-abuse/marijuana/nih-research-marijuana-cannabinoids\n  [4]: https://www.preprints.org/manuscript/202004.0315/v1\n",
-    "Answer Assigned": [
-      {
-        "id": "usraKwS6t1i6IMrwY",
-        "email": "mmn452@mail.harvard.edu",
-        "name": "Mohit Nair"
-      }
-    ],
     "Expert Database (Hindi)": [
       "rec3F7UpkqC6pvtSM"
     ],
@@ -4424,13 +4126,6 @@
       "homeopathic"
     ],
     "Other resources": "1. Lancet review on Vitamin D and COVID-19 outcomes ([The Lancet][1])\n2. Aging Clinical and Experimental Research study on Vitamin D and the prevention of COVID-19 ([Aging][2])\n3. BMJ study on Vitamin D and COVID-19 ([BMJ][3])\n4. Pre-print study of patterns of COVID-19 mortality and Vitamin D ([SSRN][4])\n5. Pre-print study on the possible role of Vitamin D and cytokine storms in COVID-19 ([Medrxiv][5])\n6. Harvard review of Vitamin D ([HSPH][6])\n7. Journal of Investigative Medicine review of Vitamin D and the immune system ([JIM][7])\n\n  [1]: https://www.thelancet.com/journals/landia/article/PIIS2213-8587(20)30183-2/fulltext\n  [2]: https://link.springer.com/article/10.1007%2Fs40520-020-01570-8\n  [3]: https://nutrition.bmj.com/content/early/2020/05/15/bmjnph-2020-000089\n  [4]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3585561\n  [5]: https://www.medrxiv.org/content/10.1101/2020.04.08.20058578v4\n  [6]: https://www.hsph.harvard.edu/nutritionsource/vitamin-d/\n  [7]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3166406/\n",
-    "Answer Assigned": [
-      {
-        "id": "usrDTYZtkXBziEsWP",
-        "email": "christin@mail.harvard.edu",
-        "name": "Christin Gilmer"
-      }
-    ],
     "Expert Database (Hindi)": [
       "reco1sk8QaOHSDsDk"
     ],
@@ -4576,18 +4271,6 @@
     ],
     "Other resources": "1. Journal of Antimicrobial Chemotherapy research letter about favipiravir as a potential treatment for COVID-19 ([JAC][1])\n2. A Review of SARS-CoV-2 and the Ongoing Clinical Trials ([International Journal of Molecular Sciences][2])\n3. Coronavirus Disease (COVID-19) in Italy: Analysis of Risk Factors and Proposed Remedial Measures ([Frontiers in Medicine][3])\n4. The First 75 Days of Novel Coronavirus (SARS-CoV-2) Outbreak: Recent Advances, Prevention, and Treatment ([International Journal of Environmental Research and Public Health][4]) \n5. Engineering Experimental Treatment with Favipiravir for COVID-19: An Open-Label Control Study ([Engineering][5]) \n\n  [1]: https://academic.oup.com/jac/advance-article/doi/10.1093/jac/dkaa171/5838326\n  [2]: https://www.mdpi.com/1422-0067/21/7/2657\n  [3]: https://www.frontiersin.org/articles/10.3389/fmed.2020.00140/full\n  [4]: https://www.mdpi.com/1660-4601/17/7/2323#cite\n  [5]: https://www.sciencedirect.com/science/article/pii/S2095809920300631#!\n",
     "How often revision needed": "Bi-weekly",
-    "Answer Assigned": [
-      {
-        "id": "usrDTYZtkXBziEsWP",
-        "email": "christin@mail.harvard.edu",
-        "name": "Christin Gilmer"
-      },
-      {
-        "id": "usryJw3d1ZhlxblnO",
-        "email": "jenna@meedan.com",
-        "name": "Jenna Sherman"
-      }
-    ],
     "Expert Database (Hindi)": [
       "recZxe6na5otSxNrc"
     ],
