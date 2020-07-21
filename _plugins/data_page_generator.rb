@@ -80,17 +80,37 @@ module Jekyll
 
         if template == "entry"
           data['title'] = data['Question']
-          data['description'] = data['What our experts say']
+          data['description'] = data['What our experts say'].to_s.split[0...30].join(' ')
+          if data['Media']
+            data['image'] = data['Media'][0]['thumbnails']['large']['url']
+          end
         end
 
         if template == "entry-fr"
           data['title'] = data['Question']
-          data['description'] = data['Ce que disent nos experts']
+          data['description'] = data['What our experts say'].to_s.split[0...30].join(' ')
         end
 
         if template == "entry-hi"
-          data['title'] = data['सवाल']
-          data['description'] = data['हमारे विशेषज्ञ क्या कहते हैं']
+          data['title'] = data['Question']
+          data['description'] = data['What our experts say'].to_s.split[0...30].join(' ')
+        end
+
+        if dir == "/glossary"
+          data['lang'] = 'en-US'
+        end
+
+        if dir == "/fr/glossary"
+          data['lang'] = 'fr'
+        end
+
+        if dir == "/hi/glossary"
+          data['lang'] = 'hi'
+        end
+
+        if template == "term"
+          data['title'] = data['Term']
+          data['description'] = data['Definition'].to_s.split[0...30].join(' ')
         end
 
         # if template == "entry"

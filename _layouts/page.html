@@ -12,7 +12,7 @@ lang: en-US
       <h2 class="lead">{{ page.description }}</h2>
     {% endif %}
     {% if page.slug == '/' %}
-      {% include module_list_questions.html %}
+      {% include module_search.html %}
     {% endif %}
     {% if page.body['en-US'] %}
       <div class="content">
@@ -40,6 +40,7 @@ lang: en-US
   {% include newsletter.html %}
   {% include footer.html %}
   {% include js.html %}
+  {% include algolia.html %}
 </body>
 
 </html>

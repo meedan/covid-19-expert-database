@@ -1,0 +1,27 @@
+---
+slug: term
+---
+<!DOCTYPE html>
+<html lang="{{ page.lang }}">
+{% include head.html %}
+
+<body>
+  {% include header.html %}
+  <div class="content-wrapper">
+    <div class="glossary">
+        
+            <div class="term">
+                <h4 id="{{ page['id'] }}">{{ page['Term'] }}</h4>
+                <div class="definition">
+                    {{ page['Definition'] }}
+                </div>
+            </div>
+        
+    </div>
+  </div>
+  {% include newsletter.html %}
+  {% include footer.html %}
+  {% include js.html %}
+</body>
+
+</html>

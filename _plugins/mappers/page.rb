@@ -1,11 +1,11 @@
 class PageMapper < ::Jekyll::Contentful::Mappers::Base
-  
+
     def map
-  
+
       require 'date'
-  
+
       result = super
-  
+
       entry.sys.each do |k, v|
         name, value = map_field k, v
         result['sys'][name] = value
@@ -14,12 +14,12 @@ class PageMapper < ::Jekyll::Contentful::Mappers::Base
       if result['slug']
         result['slug'] = result['slug']['en-US']
       end
-        
+
 
       if result['title']['fr']
         result['title-fr'] = result['title']['fr']
       end
-      
+
       if result['title']['hi']
         result['title-hi'] = result['title']['hi']
       end

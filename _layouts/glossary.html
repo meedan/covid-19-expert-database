@@ -2,43 +2,22 @@
 <html lang="{{ page.lang }}">
 {% include head.html %}
 
-<body>
+<body class="glossary">
   {% include header.html %}
   <div class="content-wrapper">
-    {% if page.lang == 'hi' %}
-        {% 
-            assign terms = site.data.covid19.glossary-hi 
-            | where_exp: "item","item['Status'] == 'Published'" 
-        %}
-    {% elsif page.lang == 'fr' %}
-        {% 
-            assign terms = site.data.covid19.glossary-fr 
-            | where_exp: "item","item.Status == 'Published'" 
-        %}
-    {% else %}
-        {% 
-            assign terms = site.data.covid19.glossary-en
-            | where_exp: "item","item.Status == 'Published'" 
-        %}
-    {% endif %}
-    <h2>{{ site.data.ui.t[page.lang].menu.glossary }} ({{ terms.size }})</h2>
-    <div class="glossary">
-        {% for term in terms %}
-            {% assign t = term.Term %}
-            {% assign d = term.Definition | markdownify %}
-            
-            <div class="term">
-                <h4 id="{{ term.id }}">{{ t }}</h4>
-                <div class="definition">
-                    {{ d }}
-                </div>
-            </div>
-        {% endfor %}
+    <h2>{{ site.data.ui.t[page.lang].menu.glossary }} (<div id="stats" class="stats"></div>)</h2>
+    <div class="search">
+      <div id="search-searchbar" class="searchbar"></div>
+      <div id="filters" class="filters">
+        <div id="filters-lang"></div>
+      </div>
     </div>
+    <div id="search-hits" class="glossary-terms"></div>
   </div>
   {% include newsletter.html %}
   {% include footer.html %}
   {% include js.html %}
+  {% include algolia-glossary.html %}
 </body>
 
 </html>

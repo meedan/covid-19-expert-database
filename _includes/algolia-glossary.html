@@ -1,0 +1,75 @@
+<!-- Including InstantSearch.js library and styling -->
+<script src="https://cdn.jsdelivr.net/npm/algoliasearch@4/dist/algoliasearch-lite.umd.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4"></script>
+
+<script>
+    const search = instantsearch({
+      indexName: 'covid19_glossary',
+      searchClient: algoliasearch('XVQE72Q0TQ', 'd031b4f0809f3999da155451bffba6db'),
+      searchFunction: function(helper) {
+        helper.addDisjunctiveFacetRefinement('lang', '{{ page.lang }}').search();
+      },
+    });
+
+    const hitTemplate = function (hit) {
+        
+        let title = '';
+        if (hit._highlightResult.title) {
+            title = hit._highlightResult.title.value;
+        } else {
+            title = hit['Term'];
+        }
+
+        let description = '';
+        if (hit['Definition']) {
+            description = hit['Definition']
+        } else if (hit.description) {
+            description = hit.description;
+        } else if (hit.short_description) {
+            description = hit.short_description;
+        } else {
+            description = hit.body;
+        }
+
+
+        let id = '';
+        if (hit['id']) {
+            id = hit['id']
+        }
+
+        return `
+            <div class="term">
+                <h4 id="${id}">
+                    ${title}
+                </h4>
+                <div class="definition">
+                    ${description}
+                </div>
+            </a>
+        `;
+    }
+
+    // Adding searchbar and results widgets
+    search.addWidgets([
+        instantsearch.widgets.searchBox({
+            container: '#search-searchbar',
+            placeholder: 'What are you looking for?'
+        }),
+        instantsearch.widgets.refinementList({
+            container: '#filters-lang',
+            attribute: 'lang',
+        }),
+        instantsearch.widgets.hits({
+            container: '#search-hits',
+            templates: {
+                item: hitTemplate,
+            },
+        }),
+        instantsearch.widgets.stats({
+            container: '#stats',
+        }),
+    ]);
+
+    // Starting the search
+    search.start();
+</script>
