@@ -11,12 +11,16 @@
   <link rel="stylesheet" type="text/css" href="/css/normalize.min.css">
   <link rel="stylesheet" type="text/css" href="/css/main.css">
 
-
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl }}">
   {% if page.custom_css %}
     {% for stylesheet in page.custom_css %}
     <link rel="stylesheet" href="/css/{{ stylesheet }}.css" media="screen" type="text/css">
     {% endfor %}
+  {% endif %}
+  
+  {% if page.slug == '/' %}
+    <!-- Algolia css reset -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@7.3.1/themes/reset-min.css" integrity="sha256-t2ATOGCtAIZNnzER679jwcFcKYfLlw01gli6F6oszk8=" crossorigin="anonymous">
   {% endif %}
   
   {% if page.lang == 'hi' or page.description-hi %}

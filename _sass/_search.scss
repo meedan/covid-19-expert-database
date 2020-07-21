@@ -57,6 +57,9 @@
         &::-ms-input-placeholder { /* Microsoft Edge */
             color: var(--blackInk);
         }
+        &:hover {
+            background: none;
+        }
     }
     button,
     .ais-SearchBox-loadingIndicator {
