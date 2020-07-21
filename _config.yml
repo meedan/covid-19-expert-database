@@ -134,6 +134,7 @@ algolia:
   settings: 
     distinct: true
   files_to_exclude:
+    - /index.html
     - fr/index.html
     - hi/index.html
     - glossary.html

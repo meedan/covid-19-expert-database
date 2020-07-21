@@ -2,6 +2,7 @@ module Jekyll
   module Algolia
     module Hooks
       def self.before_indexing_each(record, node, context)
+        
         # if record[:Category]
         #   record[:categories] = record[:Category]
         #   record[:content_type] = 'question'
@@ -34,6 +35,9 @@ module Jekyll
         record.delete(:tags)
         record.delete(:'Last edited (simplified)')
         record.delete(:'Last edited (experts say)')
+
+        # Do not send homepage
+        return nil if record[:url] == '/'
 
         record
       end
