@@ -38,7 +38,6 @@
         border: 0;
         border-bottom: 1px solid var(--blackInk);
         margin: 0;
-        line-height: 2.5rem;
         font-size: 1.333rem;
         line-height: 1.778rem;
         height: 2.5rem;
@@ -59,7 +58,29 @@
             color: var(--blackInk);
         }
     }
-    
+    button,
+    .ais-SearchBox-loadingIndicator {
+        border: 0 none;
+        background: none;
+        border-bottom: 1px solid var(--blackInk);
+        font-size: 1.333rem;
+        line-height: 1.778rem;
+        height: 2.5rem;
+        padding-right: var(--space-1);
+        svg {
+            width: 20px;
+            height: 20px;
+        }
+    }
+}
+
+.ais-SearchBox-submit {
+    order: -1;
+}
+
+.ais-SearchBox-loadingIndicator {
+    display: flex;
+    align-items: center;
 }
 
 .ais-search-box {
