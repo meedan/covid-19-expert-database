@@ -14,9 +14,7 @@
     const hitTemplate = function (hit) {
         const url = `{{ site.baseurl }}${hit.url}#${hit.anchor}`;
         let title = '';
-        if (hit._highlightResult.title) {
-            title = hit._highlightResult.title.value;
-        } else {
+        if (hit['Question']) {
             title = hit['Question'];
         }
 
@@ -25,13 +23,11 @@
             description = hit.description;
         } else if (hit.short_description) {
             description = hit.short_description;
-        } else if (hit.content) {
-            description = hit.content;
         } else {
             description = hit.body;
         }
 
-        if(description) {
+        if (description) {
             description = description.substring(0, 110).concat('...');
         }
 
@@ -51,11 +47,6 @@
             new Date(hit['Last modified'])
                 .toLocaleDateString(undefined, { weekday: undefined, year: 'numeric', month: 'long', day: 'numeric' })
             : '';
-
-        const breadcrumbs = hit._highlightResult.headings ?
-            hit._highlightResult.headings.map(match => {
-                return `<span class="post-breadcrumb">${match.value}</span>`
-            }).join(' > ') : '';
 
         const topics = 'Topics' in hit ? hit['Topics'].join(', ') : '';
 
