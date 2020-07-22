@@ -59,9 +59,6 @@
         &::-ms-input-placeholder { /* Microsoft Edge */
             color: var(--blackInk);
         }
-        &:hover {
-            background: none;
-        }
     }
     button,
     .ais-SearchBox-loadingIndicator {
@@ -88,11 +85,6 @@
 .ais-search-box {
     max-width: 100%;
     margin-bottom: 15px;
-}
-
-li.ais-Hits-item::marker {
-    font-size: 0.889rem;
-    color: var(--gray);
 }
 
 .ais-Hits-item .question-wrapper {
@@ -135,17 +127,13 @@ li.ais-Hits-item::marker {
         padding-right: 0.2rem;
     }
     &:hover {
-        
         background-color: rgba(#efefef, 0.68);
         border-left: 2px solid var(--edbGreen);
         color: var(--edbGreen);
-        
     }
     &:visited {
-        
-            border-left: 2px solid var(--lightGray);
-            color: var(--gray);
-        
+        border-left: 2px solid var(--lightGray);
+        color: var(--gray);
     }
 }
 
