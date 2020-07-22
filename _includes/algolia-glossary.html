@@ -49,6 +49,12 @@
         `;
     }
 
+    const statTemplate = function(stat) {
+        if (stat.hasNoResults) return "No results";
+        if (stat.hasOneResult) return "1 result";
+        if (stat.hasManyResults) return `${stat.nbHits} results`;
+    }
+
     // Adding searchbar and results widgets
     search.addWidgets([
         instantsearch.widgets.searchBox({
@@ -67,6 +73,9 @@
         }),
         instantsearch.widgets.stats({
             container: '#stats',
+            templates: {
+                text: statTemplate,
+            },
         }),
         instantsearch.widgets.poweredBy({
             container: '#powered-by',

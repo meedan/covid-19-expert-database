@@ -16,7 +16,11 @@
     font-size: 0.889rem;
     line-height: 1.056rem;
     @media (min-width: 1px) and (max-width: #{$width-tablet}) {
-        display: none;
+        font-size: 1.333rem;
+        line-height: 1.778rem;
+        & > :not(.question) {
+            display: none;
+        }
     }
 }
 
