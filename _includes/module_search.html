@@ -1,0 +1,25 @@
+<div class="search">
+    <div id="search-searchbar" class="searchbar"></div>
+    <div id="filters" class="filters">
+        <div id="filters-categories" class="filters-categories"></div>
+        <div id="clear-refinements"></div>
+        <div id="filters-lang"></div>
+    </div>
+</div>
+<div class="list-questions">
+    <div class="question-wrapper question-wrapper-header">
+        <div class="question">
+            {{ site.data.ui.t[page.lang].entry.question }} (<div id="stats" class="stats"></div>)
+        </div>
+        <div class="experts-say">
+            {{ site.data.ui.t[page.lang].entry.what-our-experts-say }} 
+        </div>
+        <div class="category">
+            {{ site.data.ui.t[page.lang].entry.tags }} 
+        </div>
+        <div class="last-modified">{{ site.data.ui.t[page.lang].entry.last-modified }}</div>
+    </div>
+
+    <div id="search-hits" class="search-hits"></div>
+    <div id="powered-by" class="powered-by"></div>
+</div>

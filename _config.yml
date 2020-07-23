@@ -111,18 +111,40 @@ page_gen:
     dir: '/hi/questions'
     filter: 'Item status'
     filter_condition: record['Item status'] == 'Published'
+  - data: 'covid19.glossary-en'
+    template: 'term'
+    name: 'Term'
+    dir: '/glossary'
+  - data: 'covid19.glossary-fr'
+    template: 'term'
+    name: 'Term'
+    dir: '/fr/glossary'
+  - data: 'covid19.glossary-hi'
+    template: 'term'
+    name: 'id'
+    dir: '/hi/glossary'
 
 
 # Algolia search
 algolia:
   application_id: XVQE72Q0TQ
   index_name: covid19
+  search_only_api_key: d031b4f0809f3999da155451bffba6db
   nodes_to_index: 'p'
+  settings: 
+    distinct: true
   files_to_exclude:
-    - hi/**/index.html
+    - /index.html
+    - fr/index.html
+    - hi/index.html
+    - glossary.html
+    - fr/glossary.html
+    - hi/glossary.html
+    - glossary/**/index.html
+    - /fr/glossary/**/index.html
+    - /hi/glossary/**/index.html
 
-
-
+# Airtable Fetch Configuration
 airtable:
   api_key: key3GwTpP3iINPkP1
   tables:

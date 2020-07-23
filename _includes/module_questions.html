@@ -1,0 +1,47 @@
+<div class="search">
+    <div id="search-searchbar"></div>
+    <div id="clear-refinements"></div>
+    <div id="filters-categories"></div>
+    <div id="filters-lang"></div>
+</div>
+{% if page.lang == 'en-US' %}
+    {% assign questions = site.data.covid19.questions
+        | sort: 'Last modified'
+        | reverse
+    %}
+{% elsif page.lang == 'fr' %}
+    {% assign questions = site.data.covid19.questions-fr
+        | sort: 'Last modified'
+        | reverse
+    %}
+{% elsif page.lang == 'hi' %}
+    {% assign questions = site.data.covid19.questions-hi
+        | sort: 'Last modified'
+        | reverse
+    %}
+{% endif %}
+<div id="search-hits" class="questions">
+    <!-- <ol class="ais-Hits-list">
+    {% for question in questions %}
+    {% if page.lang == 'en-US' %}
+        {% assign q = question.Question %}
+        {% assign url = question.Question | sanitize_filename | prepend: '/questions/' %}
+        {% assign last_modified = question['Last modified'] | convert_to_date | date: "%-d %B %Y" %}
+    {% elsif page.lang == 'fr' %}
+        {% assign q = question.Question %}
+        {% assign url = question['English Question'] | sanitize_filename | prepend: '/fr/questions/' %}
+        {% assign last_modified = question['Dernière révision'] | convert_to_date | date: "%-d %B %Y" %}
+    {% elsif page.lang == 'hi' %}
+        {% assign q = question['सवाल'] %}
+        {% assign url = question['English Question'] | sanitize_filename | prepend: '/hi/questions/' %}
+        {% assign last_modified = question['अंतिम बदल गया'] | convert_to_date | date: "%-d %B %Y" %}
+    {% endif %}
+        <li class="ais-Hits-item"><a href="{{ url }}" title="{{ q }}" class="question-wrapper">
+            <div class="question">
+                {{ q }}
+            </div>
+        </a></li>
+
+    {% endfor %}
+    </ol> -->
+</div>

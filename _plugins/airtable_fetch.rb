@@ -75,6 +75,12 @@ Jekyll::Hooks.register :site, :after_init do |site|
 				record['fields'].each do |key, value|
 					if key =~ /\(internal\)/i
 						record['fields'].delete(key)
+					elsif key =~ /English/i
+						record['fields'].delete(key)	
+					elsif key =~ /without/i
+						record['fields'].delete(key)
+					elsif key =~ /Assigned/i
+						record['fields'].delete(key)		
 					else
 						target[key.strip] = record['fields'].delete(key)
 					end
