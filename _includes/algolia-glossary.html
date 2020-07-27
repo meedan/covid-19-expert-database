@@ -31,11 +31,7 @@
             description = hit.body;
         }
 
-
-        let id = '';
-        if (hit['id']) {
-            id = hit['id']
-        }
+        const id = hit.id ? hit['id'] : '';
 
         return `
             <div class="term">

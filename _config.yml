@@ -111,18 +111,6 @@ page_gen:
     dir: '/hi/questions'
     filter: 'Item status'
     filter_condition: record['Item status'] == 'Published'
-  - data: 'covid19.glossary-en'
-    template: 'term'
-    name: 'Term'
-    dir: '/glossary'
-  - data: 'covid19.glossary-fr'
-    template: 'term'
-    name: 'Term'
-    dir: '/fr/glossary'
-  - data: 'covid19.glossary-hi'
-    template: 'term'
-    name: 'id'
-    dir: '/hi/glossary'
 
 
 # Algolia search
@@ -166,7 +154,7 @@ airtable:
       app_id: appKBFbOCN23iz8eF
       target: 'covid19'
       sheets:
-        - name: 'Expert Database (French)'
+        - name: 'DB (French)'
           view: 'COVID-19 Expert Database (French)'
           target: 'questions-fr'
     - name: 'glossary'
@@ -180,7 +168,7 @@ airtable:
       app_id: appKBFbOCN23iz8eF
       target: 'covid19'
       sheets:
-        - name: 'Expert Database (Hindi)'
+        - name: 'DB (Hindi)'
           view: 'COVID-19 Expert Database (Hindi)'
           target: 'questions-hi' 
     - name: 'glossary'

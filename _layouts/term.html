@@ -1,5 +1,6 @@
 ---
 slug: term
+test: glossary
 ---
 <!DOCTYPE html>
 <html lang="{{ page.lang }}">
@@ -13,7 +14,7 @@ slug: term
             <div class="term">
                 <h4 id="{{ page['id'] }}">{{ page['Term'] }}</h4>
                 <div class="definition">
-                    {{ page['Definition'] }}
+                    {{ page['Definition'] | markdownify }}
                 </div>
             </div>
         

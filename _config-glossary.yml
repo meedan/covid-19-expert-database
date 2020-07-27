@@ -1,3 +1,19 @@
+# Generate glossary pages from Contentful data files
+page_gen-dirs: true
+page_gen:
+  - data: 'covid19.glossary-en'
+    template: 'term'
+    name: 'Term'
+    dir: '/glossary'
+  - data: 'covid19.glossary-fr'
+    template: 'term'
+    name: 'Term'
+    dir: '/fr/glossary'
+  - data: 'covid19.glossary-hi'
+    template: 'term'
+    name: 'id'
+    dir: '/hi/glossary'
+
 # Glossary
 algolia:
   application_id: XVQE72Q0TQ
@@ -25,4 +41,3 @@ algolia:
     - /thanks/index.html
     - /fr/thanks/index.html
     - /hi/thanks/index.html
-    
