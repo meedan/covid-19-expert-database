@@ -1,8 +1,653 @@
 [
   {
+    "id": "recwnCbclyAAZHewu",
+    "Question": "UPDATE: What do we know so far about COVID-19 and nursing homes?",
+    "Status": "Published",
+    "Category": "Transmission",
+    "Subcategory": "On: COVID-19 & nursing homes",
+    "Source of the question": [
+      "Partner Organization"
+    ],
+    "Country question was sourced from": [
+      "USA"
+    ],
+    "Background & context": "The outbreak of COVID-19 in the United States was first reported in long-term care facilities, also called nursing homes, in Washington state in February 2020. These early outbreaks involved people over the age fo 65, often with underlying health conditions like heart disease or breathing problems, which means the COVID-19 risks faced by these groups were numerous. Additionally, nursing homes are housed in enclosed buildings and have staff members that care for multiple residents making these facilities excellent hosts for viral spreading. Shortly before February, staff members and the family members of nursing home residents traveled often around the country and internationally and were not self-isolating since the United States had not had a substantial outbreak at this time. This likely allowed cases to spread rapidly from staff and family members to residents of nursing homes.\n\nIn response to these early nursing home outbreaks, several government agencies that oversee these facilities and the nursing homes themselves created stricter policies to prevent the future spread of the virus. Since then, conditions have improved in many facilities, but more research needs to be completed to completely understand the reasons for these initial outbreaks.\n",
+    "What our experts say": "Nursing homes, like long-term care facilities, are uniquely vulnerable to COVID-19 transmission. COVID-19 is like many other respiratory viruses and can easily be transmitted between people in enclosed spaces. This is why we consider these facilities high risk for transmission. \nSince many residents at nursing homes have preexisting conditions (i.e. heart disease or breathing problems) they are at a greater risk for severe disease if they get COVID-19. \nMore research has shown that COVID-19 infections were common in nursing homes, for both residents and staff, as nursing homes often do not have enough resources dedicated to infection prevention like guidelines to follow, dedicated staff members, and specific equipment. In addition, the shared living spaces like cafeterias and group rooms make it hard to isolate patients. Nursing homes are vulnerable areas for COVID-19 transmission. \n",
+    "Glossary Terms": [
+      "recgTRrJAT5jjNnDr",
+      "recPzol0r3VBYAXD6",
+      "recFG7Vf7ekUiDwon"
+    ],
+    "Variation of the answer depending on country of residence": "Yes; depending on the location\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "nursing home",
+      "transmission",
+      "outbreak"
+    ],
+    "Other resources": "1. Nursing Home COVID Data ([CMS][1])\n2. CIDRAP - COVID Frequency in Nursing Homes ([June 2020][2])\n3. Epidemiology of Covid-19 in a Long-Term Care Facility in King County, Washington ([NEJM][3]) \n\n  [1]: https://data.cms.gov/stories/s/COVID-19-Nursing-Home-Data/bkwz-xpvg/\n  [2]: https://www.cidrap.umn.edu/news-perspective/2020/06/nursing-homes-might-account-40-us-covid-19-deaths\n  [3]: https://www.nejm.org/doi/full/10.1056/NEJMoa2005412\n",
+    "Last edited (simplified)": "2020-07-29T18:46:39.000Z",
+    "Last edited (experts say)": "2020-07-29T18:44:26.000Z",
+    "Last modified": "2020-07-29"
+  },
+  {
+    "id": "recO53s7i9ioAfKKv",
+    "Question": "What is the difference between exposure and infection to a virus?",
+    "Status": "Published",
+    "Background & context": "We are exposed to viruses, chemicals, sunlight, and many other things every day. In general, exposure suggests that someone has been in an area where they may have come into contact with a foreign substance called a pathogen (a virus, bacteria, or other tiny organism) that can cause a disease. In the case of COVID-19, the pathogen is a respiratory virus. \n\nAn infection happens when a pathogen that causes an illness gets into our body (i.e. lungs, skin, eyes, throat, stomach, blood). A virus may enter the body through contact with mucous membranes. These membranes are tissues in the body that line parts of your ear, eyes, nose, throat, digestive tract and other parts of the body that are exposed to air like wounds on the skin. Once the virus enters the body, it enters into cells and is able to spread and cause inflammation. Inflammation causes a person to develop symptoms of infection. Common symptoms of COVID-19 infection include fever, fatigue, cough, and shortness of breath. But scientists are discovering new symptoms associated with COVID-19 every day.\n\nFor COVID-19, some people who are exposed to the virus never become infected. The U.S. Centers for Disease Control and Prevention suggests that there is an increased risk of infection for people who are exposed to the virus by being in close contact (within 6 feet or about 2 meters for 15 minutes or longer) with an infected person. The time between exposure to the virus and the appearance of symptoms of infection is currently being studied by many researchers, but we are still learning about this process. For people who become ill with COVID-19, research has shown that symptoms of infection usually begin about five days after someone is exposed to the virus, and 97.5% of people who are exposed to the virus will show symptoms within 11.5 days.\n",
+    "What our experts say": "When it comes to infectious diseases, \"exposure\" means coming into contact with a virus or bacteria. Infection happens when someone is exposed and actually becomes sick from the exposure. Exposure does not always lead to an infection. If the time a person is exposed to the virus is very short, if the amount of virus that enters the body is not in a large enough quantity, or if the body's immune system is able to quickly fight it off, then exposure will be less likely to lead to infection. \n\nMany things have to happen for an exposure to result in an infection, especially the ways in which a person was exposed to the virus. In the case of the virus that causes COVID-19, exposure takes place usually by breathing in the virus through the nose or the mouth, and sometimes the virus enters our bodies through the eyes. People can be \"exposed\" to different viruses in different ways, such as by eating food with a virus on it, or getting bit by a mosquito or other animal that carries a virus. Again, in the case of COVID-19, exposure typically happens by breathing in the virus through the nose or the mouth.\n\nOther factors that can impact whether an exposure leads to an infection include whether the germ is a virus, a bacteria or a parasite; how strong or \"infectious\" it is; and the strength of our body defense system (immune system). \n\nFor example, you could be exposed to whooping cough (pertussis) by someone in the same room as you, but whether or not you end up being infected depends on several factors. These factors include how close to the person you were, how long you were exposed for, and if you are vaccinated against whooping cough.\n",
+    "Other resources": "1. Public Health Guidance for Community-Related Exposure, 2020 ([US CDC][1])\n2. Coronavirus Symptoms Start About Five Days After Exposure, Johns Hopkins Study Finds, 2020 ([JHU][2]) \n3. The Incubation Period of Coronavirus Disease 2019 (COVID-19) From Publicly Reported Confirmed Cases: Estimation and Application, 2020 ([Annals of Int Med][3])\n4. Introduction to Epidemiology ([CDC][4]).\n\n  [1]: https://www.cdc.gov/coronavirus/2019-ncov/php/public-health-recommendations.html\n  [2]: https://hub.jhu.edu/2020/03/09/coronavirus-incubation-period/\n  [3]: https://www.acpjournals.org/doi/10.7326/M20-0504\n  [4]: https://www.cdc.gov/csels/dsepd/ss1978/lesson1/section9.html\n",
+    "Last edited (simplified)": "2020-07-29T18:34:31.000Z",
+    "Last edited (experts say)": "2020-07-29T18:31:17.000Z",
+    "Last modified": "2020-07-29"
+  },
+  {
+    "id": "recabh4pzUPxHxLq1",
+    "Question": "Does wearing a mask reduce your oxygen level?",
+    "Status": "Published",
+    "Category": "Prevention",
+    "Subcategory": "On: COVID-19 & masks",
+    "Source of the question": [
+      "Partner Organization"
+    ],
+    "Country question was sourced from": [
+      "Nigeria"
+    ],
+    "Background & context": "Recently, a huge amount of misinformation has come out regarding face masks and their potential impacts on people. Since the World Health Organization and U.S. CDC have recommended wearing masks to prevent the spread of COVID-19, face masks have become a target of political discussions. This is likely due to the fact that in the early months of 2020, face masks were not yet recommended by these groups for a number of reasons, including a lack of evidence that they would be effective (since then research has been conducted and we have proof of their effectiveness) and a general shortage of masks for doctors and healthcare professionals. As more research studies were completed and more evidence made it clear that face masks were effective in helping the spread of COVID-19, the face mask policies also changed.\n",
+    "What our experts say": "No. There is no proof that wearing a mask can reduce oxygen levels, also known as hypoxia. The United States Centers for Disease Control and Prevention (U.S. CDC) recommend wearing cloth masks in public, which are not too tight on our faces and allow for easy breathing.\n\nEven doctors and healthcare professionals wearing N95 masks (which fit very tightly around the face and are made to create a seal around the edge of the mask) are not at risk of hypoxia. However, for any person with preexisting lung or breathing problems in general, they should speak with their doctors about their concerns regarding masks. \n",
+    "Glossary Terms": [
+      "recCEG85awzcotyRi",
+      "recqnngV0Ej32WU8H",
+      "recZuNf7uTj0VplMB"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "prevention",
+      "face masks",
+      "hypoxia"
+    ],
+    "Other resources": "1. From the Frontlines: The Truth About Masks and COVID-19 ([ALA][1]) \n2. Proper N95 Respirator Use for Respiratory Protection Preparedness ([U.S. CDC][2]) \n3. CDC calls on Americans to wear masks to prevent COVID-19 spread ([U.S. CDC][3]) \n\n  [1]: https://www.lung.org/blog/covid-masks\n  [2]: https://blogs.cdc.gov/niosh-science-blog/2020/03/16/n95-preparedness/\n  [3]: https://www.cdc.gov/media/releases/2020/p0714-americans-to-wear-masks.html\n",
+    "Last edited (simplified)": "2020-07-29T17:17:21.000Z",
+    "Last edited (experts say)": "2020-07-29T17:56:41.000Z",
+    "Last modified": "2020-07-29"
+  },
+  {
+    "id": "recSOnnQBIkFxZ8t8",
+    "Question": "Is there a cure for COVID-19? What is the cure?\n",
+    "Status": "Published",
+    "Category": "Treatment",
+    "Subcategory": "On: COVID-19 & treatments",
+    "Background & context": "The word 'cure' is a broad one that technically means a procedure or drug that ends a certain medical condition, and implies a complete restoration of health. The word 'treatment,' on the other hand, technically means a procedure or drug that improves a certain medical condition, but doesn't necessarily end it. This distinction is important because there is currently no cure for COVID-19, but there are treatments in use, namely Remdesivir, which is under emergency use authorization (EUA) by the U.S. FDA, and Dexamethasone, which was previously approved by the FDA to treat a range of other health conditions. None of these treatments, however, are officially approved for COVID-19. There are multiple studies being conducted around the world to test a variety of cures, treatments, and preventative vaccines for COVID-19.\n",
+    "What our experts say": "As of July 28, 2020, there is no known cure for COVID-19, but there are ways to manage the symptoms of the disease. Healthcare professionals around the world are researching various treatments for COVID-19, including drugs that already exist to treat other conditions to see if they may be effective against COVID-19 as well.\n\nNo treatments are currently approved by the U.S. Food and Drug Administration (FDA) for COVID-19, but because COVID-19 is a public health crisis, doctors can treat patients using some drugs that are not technically approved for COVID-19. Emergency use authorization enables unapproved medical products or unapproved uses of approved medical products to be used for diagnosis, treatment or prevention in an emergency setting, even if the treatments may still be under further study.\n\nRemdesivir, an antiviral drug manufactured by Gilead Sciences that stops the virus from replicating, received emergency use authorization by the U.S. FDA. It reportedly reduced the recovery time for hospitalized patients from 15 days to 11 days, and early results indicate that it may reduce mortality among patients who are very sick from COVID-19. \n\nIn terms of clinical management of symptoms, the U.S. National Institutes of Health (NIH) COVID-19 treatment guidelines indicate that Remdesivir supplies are limited and should be prioritized for patients who need it most (hospitalized patients who require supplemental oxygen). The guidelines also recommend the use of dexamethasone, a steroid that can reduce inflammation, for patients who require ventilators or supplemental oxygen. Healthcare professionals use ventilators and supplemental oxygen to ensure that hospitalized patients have a healthy supply of oxygen in the body, and monitor patients accordingly. At present, there is no other cure for COVID-19.\n",
+    "Glossary Terms": [
+      "recjILnexcCRlyBIb",
+      "recROlYn1QcWitPtM",
+      "recb7T7hH9zHd3k1R"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "treatment",
+      "cure"
+    ],
+    "Other resources": "1. COVID-19 Treatment Guidelines ([NIH][1])\n2. Information for Clinicians on Investigational Therapeutics for Patients with COVID-19 ([U.S. CDC][2])\n3. Coronavirus Drug and Treatment Tracker ([NYT][3])\n\n  [1]: https://www.covid19treatmentguidelines.nih.gov/whats-new/\n  [2]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/therapeutic-options.html\n  [3]: https://www.nytimes.com/interactive/2020/science/coronavirus-drugs-treatments.html?campaign_id=57&emc=edit_ne_20200716&instance_id=20375&nl=evening-briefing&regi_id=71929514&segment_id=33593&te=1&user_id=c41309fa5b77747bb39cd151b03fb771\n",
+    "Last edited (simplified)": "2020-07-29T17:34:46.000Z",
+    "Last edited (experts say)": "2020-07-29T17:26:08.000Z",
+    "Last modified": "2020-07-29"
+  },
+  {
+    "id": "recFGva1N4EIOvcyA",
+    "Question": "Are there ayurveda cures for COVID-19? ",
+    "Status": "Published",
+    "Category": "Treatment",
+    "Subcategory": "On: COVID-19 & Ayurveda",
+    "Source of the question": [
+      "Newsroom"
+    ],
+    "Country question was sourced from": [
+      "India"
+    ],
+    "Background & context": "Ayurveda is one of the world's oldest systems of traditional medicine. Since there is no approved treatment for COVID-19 yet, many people are turning to alternative or traditional medicine for answers. The Chief Executive Officer (CEO) of a major manufacturer of herbal products, Patanjali,  has claimed that the company has found an Ayurvedic cure for COVID-19. Patanjali claims that COVID-19 patients showed a 100% recovery rate when administered the Ayurvedic medicine known as 'Coronil,' which is comprised of a mixture of Tulsi, Giloy, and Ashwagandha. It is unclear whether this was a randomized controlled trial, and the company has claimed it conducted a clinical case study with \"hundreds of positive patients,\" which showed \"100 percent favorable results.\" The clinical trials were claimed to have been conducted in two cities in India after securing regulatory approval last week. According to the press release, COVID-19 patients who were administered Ayurvedic medicine recovered in 2-14 days and tested negative for the virus, but no data has been released to the public yet.\n",
+    "What our experts say": "Ayurveda is ancient Indian medical system that focuses on natural, holistic approaches to physical and mental health. Currently, there is no evidence to indicate that Ayurvedic medicine cures or prevents COVID-19. Similar claims for Ayurvedic cures have been made in the past for other infectious diseases with no known cure, such as HIV/AIDS, without any reliable evidence. Such bold claims should always be treated with caution. \nIn this particular case, the CEO of a major manufacturer of herbal products has claimed to have produced an Ayurvedic cure without providing any independent data to support these claims. While the company claims to have tested hundreds of patients in a \"clinical case study\" which showed a 100% recovery rate, it is unclear whether any control group was included or whether the design of the study was strong enough to substantiate such claims. In addition, the company stated that all patients tested negative for the virus within 5-14 days after receiving the Ayurvedic medicine, but it is unclear how long each patient had the virus or were symptomatic. \nThe study also falsely claimed that Ayurvedic medicine is a cure for COVID-19 without disclosing how many patients were included in their research and how they can be sure that patients would not have tested negative naturally once the immune system fought off the infection over time. Ayurvedic medicine may be a helpful complement to Western medicine, and may not actively cause harm in some cases, but it should not be consumed as a cure for COVID-19. Instead, traditional prevention measures such as wearing masks and social distancing, should be followed to prevent infections.\n",
+    "Glossary Terms": [
+      "rec5OdFSvwX0mLrxy"
+    ],
+    "Variation of the answer depending on country of residence": "No\t\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "Ayurveda",
+      "traditional medicine",
+      "treatment",
+      "cure"
+    ],
+    "Other resources": "1. Ayurveda ([Hopkins medicine][1]) \n2. Coronil for COVID-19: Patanjali claims its Ayurvedic medicine can cure coronavirus infection ([Times Now][2]) \n3. Ayurvedic Medicine: In Depth ([NIH][3]) \n\n  [1]: https://www.hopkinsmedicine.org/health/wellness-and-prevention/ayurveda\n  [2]: https://www.timesnownews.com/health/article/coronil-for-covid-19-patanjali-claims-its-ayurveda-medicine-can-cure-coronavirus-infection/606723\n  [3]: https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth\n",
+    "DB (French)": [
+      "rec7BYjKbOXXPXqji"
+    ],
+    "DB (Hindi)": [
+      "reclmbP3IRmRL4CmJ"
+    ],
+    "Media": [
+      {
+        "id": "att62bYKFoaB1kBPt",
+        "url": "https://dl.airtable.com/.attachments/bb06b0e6ff2f8b62c90814acb2e515bb/d35064a0/Slide1.png",
+        "filename": "Slide 1.png",
+        "size": 138326,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a9b5d03f2ba880dfbea94f9b99d77850/5f6ee3db",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a60adf097c1192766da816b5abbc3781/66782b39",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e639ac8039c79f3aab34bcd8ed0254ec/d935cb2c",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attOOrFAKoxf7doBG",
+        "url": "https://dl.airtable.com/.attachments/7789c0bf7b802efea872ff85512c7448/20e6271b/Slide2.png",
+        "filename": "Slide 2.png",
+        "size": 202113,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/314263ffd7ffc4b121e02d88224355a0/775a9627",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/89d3039a0b75bd94a9959829efc2aba5/63ba5964",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/cbaab4a9ae8cc04c7d7e60a994d28e40/457a3cbb",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attjafIc54Fim6jnC",
+        "url": "https://dl.airtable.com/.attachments/4963c046ec77b616abea74ae9a28985a/aed4ddd2/Slide3.png",
+        "filename": "Slide 3.png",
+        "size": 209233,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ee62da37be828760312321b8f2950005/5942f3bb",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b4a47bcb533a6eb50bc9401932af5d15/76009618",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/92eff96d58b9cfa5b2095eb12bcf8c84/7e37f50b",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "In translated DBs?": "Yes",
+    "DB (Telugu)": [
+      "receIVMKgezSttngc"
+    ],
+    "Expert Database (Spanish)": [
+      "recx4oGyN9QjhEUaO"
+    ],
+    "DB (Arabic)": [
+      "recRoPBkgRM5vp5jD"
+    ],
+    "DB (Bengali)": [
+      "recfHLfuqC1OkvghP"
+    ],
+    "DB (Portuguese)": [
+      "recQIm7IowaKsdUhp"
+    ],
+    "Last edited (simplified)": "2020-07-20T17:46:48.000Z",
+    "Last edited (experts say)": "2020-06-22T14:33:37.000Z",
+    "Last modified": "2020-07-29"
+  },
+  {
+    "id": "recZ1uyhYuOzT4coz",
+    "Question": "Can disinfecting wipes be reused?",
+    "Status": "Published",
+    "Category": "Transmission",
+    "Subcategory": "On: COVID-19 & disinfecting wipes",
+    "Source of the question": [
+      "Social Media"
+    ],
+    "Country question was sourced from": [
+      "Canada"
+    ],
+    "Background & context": "Current evidence suggests that SARS-CoV-2 may remain viable for hours to days on surfaces made from a variety of materials. Therefore, cleaning of visibly dirty surfaces followed by disinfection is a best practice measure for prevention of COVID-19 and other viral respiratory illnesses in households and community settings. In this context, disinfecting can be used to disinfect frequently touched surfaces (for example: tables, doorknobs, light switches, handles, desks, toilets, faucets, sinks, and electronics). Disinfecting wipes are usually are wet wipes commercially available and containing chemicals, for example, EPA-registered disinfectants, or alcohol-based wipes (minimum 70% of alcohol) to kill germs on surfaces. However, transmission of COVID-19 occurs much more commonly through respiratory droplets than through touching objects and surfaces, like doorknobs, countertops, keyboards, toys, etc. \n\n",
+    "What our experts say": "Disinfectant wipes should never be reused. Reusing wipes will move germs from one surface to another, which is potentially harmful in the current pandemic. In order for any surface to be properly disinfected, the U.S. CDC recommends following the instructions on each product carefully and leaving the disinfectant on the surface for 3-5 minutes. This means the surface needs to be wet for this period of time, and you may need to use more than one disinfectant wipe depending on the size of the surface. However, you should never reuse the same disinfectant wipe.\n",
+    "Glossary Terms": [
+      "recjGuHkvGujLMjV7",
+      "recMZLIWKC45HMVao"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "prevention",
+      "disinfectant",
+      "virus",
+      "transmission"
+    ],
+    "Other resources": "1. How To Clean and Disinfect Schools To Help Slow the Spread of Flu ([U.S. CDC][1]) \n2. Cleaning and Disinfection for Households ([U.S. CDC][2])\n\n  [1]: https://www.cdc.gov/flu/school/cleaning.htm\n  [2]: https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cleaning-disinfection.html\n",
+    "DB (French)": [
+      "recR1yoAIRcVB6ZmT"
+    ],
+    "DB (Hindi)": [
+      "recNZYf0Bkn6jUj8I",
+      "recPlCNtmjyjbvUsf"
+    ],
+    "In translated DBs?": "Yes",
+    "DB (Telugu)": [
+      "recqU3F5R4pEIhola"
+    ],
+    "Expert Database (Spanish)": [
+      "recJgwzToZG5wsVfM"
+    ],
+    "DB (Arabic)": [
+      "rec3AXuFRHCRKd6oB"
+    ],
+    "DB (Bengali)": [
+      "recrTT8P1sRAzjhmN"
+    ],
+    "DB (Portuguese)": [
+      "rec2Uu03Zm0wH1Vmn"
+    ],
+    "Last edited (simplified)": "2020-07-15T18:07:15.000Z",
+    "Last edited (experts say)": "2020-05-28T04:34:13.000Z",
+    "Last modified": "2020-07-29"
+  },
+  {
+    "id": "recenUqXFNVYnafXz",
+    "Question": "How can I protect myself if I am attending a protest or mass gathering?",
+    "Status": "Published",
+    "Subcategory": "On: COVID-19 & protests",
+    "Source of the question": [
+      "Social Media"
+    ],
+    "Country question was sourced from": [
+      "USA"
+    ],
+    "Background & context": "Protests and mass gatherings take place outdoors, which means in principle that the outdoor air can dilute the virus and reduce the risk of inhaling the virus with each breath. However, in practice, attending protests and mass gatherings still carry a significant risk of COVID-19 transmission. This is because when attending a protest it can be hard to practice social distancing (being 6 feet apart from one another) and that people can be speaking and shouting while standing close to one another, increasing the risk of transmission. In addition, tear gas and pepper spray are often used in protests to break up crowds. These can cause people to tear up and remove their masks to cough a lot, because of trouble breathing. These actions both increase respiratory secretions from the eyes, nose and mouth, further increasing the risk of COVID-19 transmission.\n",
+    "What our experts say": "Attending protests or mass gatherings can increase the risk of catching COVID-19 or spreading the disease. This is especially so given the large amount of people who are infected with COVID-19 but do not have any symptoms (pre-symptomatic and asymptomatic), and may feel well enough to attend a mass gathering like a protest or march. In this context, there are a few steps you can take to reduce the risk of COVID-19 transmission. These include first of all wearing a mask and trying to maintain a certain distance from other people at the protest - 6 feet (or 2 m) where possible. Additionally, wearing heat resistant gloves and eye protection (ex: sunglasses) is also recommended. Since yelling - even through a mask - can increase the spread of respiratory droplets due to the force that pushes them out, it is recommended to choose signs or drums (or similar noise makers) if you want to express a message. To prevent further spread of the virus, it is recommended to stick to a 'buddy group' when participating in protests to keep the number of close contacts low. In the event one person in the group is found to be infected with COVID-19, it will be easier to contact all the people who came into close contact with that person and take the recommended public health measures. Similarly, it is recommended for protesters to get tested if possible after taking part in protests. In the US, some states are offering free testing for protesters. Finally, make sure to carry hand sanitizer to disinfect your hands as much as needed and carry water to keep hydrated.\n\n\n",
+    "Glossary Terms": [
+      "rec2UNEXbTkSCx30Q",
+      "rec5yviiSvJkufYvu",
+      "recx2PeCcs1Awb9rG"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "protest",
+      "demonstration",
+      "protection",
+      "prevention"
+    ],
+    "Other resources": "1. Prevent Getting Sick ([U.S. CDC][1]) \n\n  [1]: https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/index.html\n",
+    "DB (French)": [
+      "recXxSw89QoFa83ZD"
+    ],
+    "DB (Hindi)": [
+      "recHFmRubql8a7rx7"
+    ],
+    "In translated DBs?": "Yes",
+    "DB (Telugu)": [
+      "recRw1nsGm7FPWjmb"
+    ],
+    "Expert Database (Spanish)": [
+      "recaSuhgdho6D7QgN"
+    ],
+    "DB (Arabic)": [
+      "recucVc2GZkSRS1pC"
+    ],
+    "DB (Bengali)": [
+      "recSvRQcQKzBGYcnO"
+    ],
+    "DB (Portuguese)": [
+      "rectwsIqOEIxOGQno"
+    ],
+    "Last edited (simplified)": "2020-06-11T23:13:43.000Z",
+    "Last edited (experts say)": "2020-06-17T15:45:00.000Z",
+    "Last modified": "2020-07-29"
+  },
+  {
+    "id": "recUakBDhgsxJwFic",
+    "Question": "Can cannabis prevent, treat or cure COVID-19?",
+    "Status": "Published",
+    "Category": "Treatment, Cure, Prevention",
+    "Subcategory": "On: COVID-19 & cannabis",
+    "Source of the question": [
+      "Social Media"
+    ],
+    "Country question was sourced from": [
+      "Canada"
+    ],
+    "Background & context": "In recent years, there has been a significant interest in the development of therapies and other consumer products derived from cannabis and its components, including cannabidiol (CBD). The U.S. FDA has approved only one CBD product, a prescription drug product to treat two rare, severe forms of epilepsy. In the context of COVID-19, media reported the results of a preprint study indicating the possibility that cannabis could prevent COVID-19 by blocking the virus' entry into the lungs. This study has not gone through the peer review process, has not been assessed by peers, and has not published in any scientific journal. \n",
+    "What our experts say": "There is no reliable evidence so far to suggest that cannabis can prevent, treat or cure COVID-19. One pre-print (a type of study that is yet to be peer-reviewed) from Canada suggests possible anti-inflammatory properties in cannabis may be effective in future treatments of the disease. The study also suggests that cannabis could be used to prevent infection from the SARS-CoV-2 virus that causes COVID-19. SARS-CoV-2 gains entry into cells in the human body by interacting with the ACE2 receptor protein, which is found on the surface of many cells. This study suggests that cannabidiol (CBD), one of the active ingredients in cannabis, may affect the virus' ability to bind to the ACE2 receptor protein and enter cells. However, none of the claims in the pre-print study have been validated in large-scale studies, and pre-print data should always be treated with caution. \n\nAnother lab, in Israel, is studying the effects of cannabis on the immune system's response to COVID-19 and analyzing the potential for molecules in cannabis to prevent the virus from entering cells and spreading. This research, however, has been undertaken by a cannabis research and development company based in Israel, and not independently verified by other scientific studies that are not linked to the cannabis industry. At this point, there is insufficient independent research to make any claims about the use of cannabis in preventing, treating, or curing COVID-19.\n",
+    "Glossary Terms": [
+      "rec8sQHhdcKiEVR9f",
+      "recwkZVfZQxlVPfdW",
+      "recI2hC2wrx5GLTn6"
+    ],
+    "Variation of the answer depending on country of residence": "No\n\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n\n",
+    "Topics": [
+      "cannabis",
+      "treatment",
+      "prevention",
+      "marijuana"
+    ],
+    "Other resources": "1. Could cannabis terpene formulation treat COVID-19? ([Health Europa][1])\n2. Cannabidiol (CBD): what we know and what we don't ([Harvard][2])\n3. NIH Research on Marijuana and Cannabinoids ([National Institute on Drug Abuse][3])\n4. In Search of Preventative Strategies: Novel Anti-Inflammatory High-CBD Cannabis Sativa Extracts Modulate ACE2 Expression in COVID-19 Gateway Tissues ([Preprints][4])\n\n  [1]: https://www.healtheuropa.eu/cannabis-terpene-formulation-treat-covid-19/99586/\n  [2]: https://www.health.harvard.edu/blog/cannabidiol-cbd-what-we-know-and-what-we-dont-2018082414476\n  [3]: https://www.drugabuse.gov/drugs-abuse/marijuana/nih-research-marijuana-cannabinoids\n  [4]: https://www.preprints.org/manuscript/202004.0315/v1\n",
+    "DB (French)": [
+      "recqi3pOFpURsQnNr"
+    ],
+    "DB (Hindi)": [
+      "rec3F7UpkqC6pvtSM"
+    ],
+    "In translated DBs?": "Yes",
+    "DB (Telugu)": [
+      "rec8Ax1rNk6fkZPEU"
+    ],
+    "Expert Database (Spanish)": [
+      "recrW0VfkfnG8amyw"
+    ],
+    "DB (Arabic)": [
+      "recLgrQ1NXjsmVxHl"
+    ],
+    "DB (Bengali)": [
+      "rec9znubXIybb1IFx"
+    ],
+    "DB (Portuguese)": [
+      "recKAYmpVCH7jJmF7"
+    ],
+    "Last edited (simplified)": "2020-06-03T20:21:33.000Z",
+    "Last edited (experts say)": "2020-06-03T22:20:17.000Z",
+    "Last modified": "2020-07-29"
+  },
+  {
+    "id": "rec1ozIUD6hRFzkYw",
+    "Question": "What do we know about Alum as an alternative for sanitizer?",
+    "Status": "Published",
+    "Subcategory": "On: COVID-19 and sanitizers",
+    "Source of the question": [
+      "Newsroom"
+    ],
+    "Country question was sourced from": [
+      "USA"
+    ],
+    "Background & context": "To ensure the efficacy of disinfectants or cleaning agents, multiple tests need to be conducted to establish that the substance in question can kill multiple bacteria, virus and/or fungi. Alum has, in some studies, shown the ability to kill bacteria, but has not shown efficacy against enveloped viruses like COVID-19.\n",
+    "What our experts say": "Alum (also called potassium alum or aluminum potassium sulfate) has been widely used in cosmetics, pharmaceuticals, food, and even textiles, but it has not been tested against viruses. While alum has some antimicrobial and anti fungal properties, it has not been shown to be an effective alternative for sanitizer or disinfectants. It is possible that there might be research, in the future, regarding the use of alum as an anti-viral disinfectant and cleaner, but the current literature does not support its use as an alternative to those on the EPA List N disinfectants with claims against Emerging Viral Pathogens.\n",
+    "Glossary Terms": [
+      "recAFuzwLppTBDIPe",
+      "recHytNA8slfllwKF"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "alum",
+      "disinfectants",
+      "cleaning"
+    ],
+    "Other resources": "1. Review of Alum and Sundry Application ([ACTA Scientific Microbiology][1])\n\n  [1]: https://actascientific.com/ASMI/pdf/ASMI-03-0553.pdf\n",
+    "DB (French)": [
+      "recPkJ5SuaRbWr2Z8"
+    ],
+    "DB (Hindi)": [
+      "reca8vJYJ5Hwjlo0O"
+    ],
+    "In translated DBs?": "Yes",
+    "DB (Telugu)": [
+      "recT82TX94rE65XFa"
+    ],
+    "Expert Database (Spanish)": [
+      "reccuvNLGZI5UguzM"
+    ],
+    "DB (Arabic)": [
+      "recwOWIx9HER81FIB"
+    ],
+    "DB (Bengali)": [
+      "recU7SmHjsTAX7QGN"
+    ],
+    "DB (Portuguese)": [
+      "recv8teVhm2w5PuGn"
+    ],
+    "Last edited (simplified)": "2020-06-03T20:30:03.000Z",
+    "Last edited (experts say)": "2020-06-03T20:28:42.000Z",
+    "Last modified": "2020-07-29"
+  },
+  {
+    "id": "rechQWZ1ctlJ81Vxn",
+    "Question": "What does the scientific literature say about using hydroxychloroquine to prevent, treat or cure COVID-19?",
+    "Status": "Published",
+    "Category": "Treatment",
+    "Subcategory": "On: COVID-19 & hydroxychloroquine",
+    "Source of the question": [
+      "Social Media"
+    ],
+    "Country question was sourced from": [
+      "India"
+    ],
+    "Background & context": "Hydroxycloroquine is a medication currently prescribed for preventing or treating malaria, an infectious disease that can be transmitted to humans from mosquitos. It is also prescribed as a treatment for rheumatoid arthritis and lupus, which are both autoimmune diseases.\nWhen faced with an unknown virus like COVID-19 and without a specific vaccine and treatment, one of the best medical strategies is to look among the medications already available and clinically tested to see if any of them are effective. As their risks, benefits, and side effects have already been studied (without allowing safety tests to be ignored), this could speed up research. One of these is hydroxychloroquine. \nWhen trying to find treatments for COVID-19, hydroxychloroquine was tested on hospitalized patients. However, the results from this research do not represent evidence significant enough to recommend hydroxychloroquine for treating COVID-19. At the same time, some research studies have also shown some serious negative consequences (incl. serious heart rhythm problems) associated with the use of hydroxychloroquine in the treatment of COVID-19. More studies are underway.\n\n",
+    "What our experts say": "Ongoing clinical trials are testing how safe and effective chloroquine and hydroxychloroquine are as treatments for COVID-19. So far, clinical trials and scientific analyses have not produced high quality evidence showing efficacy of these medications as a treatment, and some studies have even reported higher rates of adverse events (including cardiac issues) in hospitalized patients treated with hydroxychloroquine. As things stand, hydroxychloroquine is not a recognized prevention, treatment or cure for COVID-19.\nIn this context, there are research studies underway to find out whether taking this medication can prevent people from getting infected with coronavirus once they have been exposed. Other studies are still investigating the efficacy and safety of the drug as a treatment at different stages of the illness, including randomized controlled trials with a large number of patients enrolled.\nAround the world, some countries have moved ahead and authorized chloroquine or hydroxychloroquine for the treatment of COVID-19 despite limited clinical evidence supporting its efficacy. This decision follows some preliminary results coming out of China and France in March 2020, where a few small clinical trials showed limited success of the medication.\nIn the Unites States, on March 27th 2020, the Food and Drug Administration (FDA) has granted a special permission (Emergency Authorization Use) to use chloroquine and hydroxychloroquine in emergency situations for treatment of COVID-19. This did not constitute a formal approval of the drug, but rather a possibility given to American doctors to use chloroquine and hydroxychloroquine in the treatment of COVID-19 if the doctor has no other options and after discussing with the patients the risks involved. On June 15th 2020, the U.S. FDA has revoked the special permission to use chloroquine and hydroxychloroquine in emergency situations for COVID-19 citing that these drugs are unlikely to be effective in treating COVID-19 and highlighting serious cardiac adverse events and other serious side effects reported in studies.\n",
+    "Glossary Terms": [
+      "recM4p8QOERmuESKr",
+      "recAiJYWSxD5F1Lz1",
+      "recJ1c8DQQVGmXfzM",
+      "recjILnexcCRlyBIb"
+    ],
+    "Variation of the answer depending on country of residence": "Yes - some countries have included chloroquine and hydroxychloroquine in their treatment protocol despite the fact that the World Health Organization has not recognized it as a treatment as they await further clinical trial results.\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "prevention",
+      "treatment",
+      "cure",
+      "hydroxychloroquine"
+    ],
+    "Other resources": "1. FDA revokes the emergency use authorization for chloroquine and hydroxychloroquine ([U.S. FDA][1])\n2. FDA cautions against the use of hydroxychloroquine or chloroquine for COVID-19 outside of the hospital setting or a clinical trial due to a risk of heart rhythm problems ([U.S. FDA][2])\n3. Research paper: Hydroxychloroquine in patients with mainly mild to moderate coronavirus disease 2019: open label, randomised controlled trial ([BMJ][3])\n4. Hydroxychloroquine with or without Azithromycin in Mild-to-Moderate Covid-19 ([NEJM][4])\n5. Hydroxychloroquine use against SARS-CoV-2 infection in non-human primates ([Nature][5])\n6. Investigational therapeutics for patients with COVID-19 ([U.S. CDC][6]) \n7. Research Update: Hydroxychloroquine in Nonhospitalized Adults With Early COVID-19 ([AIM][7])\n8. Trial update: Effect of Hydroxychloroquine in Hospitalized Patients with COVID-19: Preliminary results from a multi-centre, randomized, controlled trial. ([medRxiv][8])\n9. Trial update: No clinical benefit from use of hydroxychloroquine in hospitalized patients with COVID-19 ([Recovery Trial][9])\n10. Information about \"compassionate use\" ([U.S. FDA][10]) \n11. Research paper: A Randomized Trial of Hydroxychloroquine as Postexposure Prophylaxis for Covid-19 ([NEJM][11])\n12. Hydroxychloroquine or Chloroquine for Treatment or Prophylaxis of COVID-19: A Living Systematic Review ([AIM][12])\n13. Research paper: Hydroxychloroquine in patients with mainly mild to moderate coronavirus disease 2019: open label, randomised controlled trial ([BMJ][3])\n14. Research paper: Association of Treatment With Hydroxychloroquine or Azithromycin With In-Hospital Mortality in Patients With COVID-19 in New York State ([JAMA][13])\n15. Research paper: Observational Study of Hydroxychloroquine in Hospitalized Patients with Covid-19 ([NEJM][14])\n\n\n  [1]: https://www.fda.gov/emergency-preparedness-and-response/mcm-legal-regulatory-and-policy-framework/emergency-use-authorization#coviddrugs\n  [2]: https://www.fda.gov/drugs/drug-safety-and-availability/fda-cautions-against-use-hydroxychloroquine-or-chloroquine-covid-19-outside-hospital-setting-or\n  [3]: https://www.bmj.com/content/369/bmj.m1849\n  [4]: https://www.nejm.org/doi/full/10.1056/NEJMoa2019014?query=featured_home\n  [5]: https://www.nature.com/articles/s41586-020-2558-4?utm_source=twitter&utm_medium=social&utm_content=organic&utm_campaign=NGMT_USG_JC01_GL_Nature\n  [6]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/therapeutic-options.html\n  [7]: https://www.acpjournals.org/doi/10.7326/M20-4207\n  [8]: https://www.medrxiv.org/content/10.1101/2020.07.15.20151852v1\n  [9]: https://www.recoverytrial.net/news/statement-from-the-chief-investigators-of-the-randomised-evaluation-of-covid-19-therapy-recovery-trial-on-hydroxychloroquine-5-june-2020-no-clinical-benefit-from-use-of-hydroxychloroquine-in-hospitalised-patients-with-covid-19\n  [10]: https://www.fda.gov/news-events/public-health-focus/expanded-access\n  [11]: https://www.nejm.org/doi/full/10.1056/NEJMoa2016638?query=featured_home\n  [12]: https://www.acpjournals.org/doi/10.7326/M20-2496\n  [13]: https://jamanetwork.com/journals/jama/fullarticle/2766117\n  [14]: https://www.nejm.org/doi/full/10.1056/NEJMoa2012410\n",
+    "DB (French)": [
+      "recAj0TYj97UNUWtk"
+    ],
+    "DB (Hindi)": [
+      "recTMwxdfhiFP6PdB"
+    ],
+    "In translated DBs?": "Yes",
+    "DB (Telugu)": [
+      "recN5EPDGr3rmysv8"
+    ],
+    "Expert Database (Spanish)": [
+      "rec6r7JrdmkSaJZpK"
+    ],
+    "DB (Arabic)": [
+      "recqLyEdG4gEouayz"
+    ],
+    "DB (Bengali)": [
+      "recO4uinQPvndAlwL"
+    ],
+    "DB (Portuguese)": [
+      "recp55aBOJEjliZwl"
+    ],
+    "Last edited (simplified)": "2020-05-27T22:05:06.000Z",
+    "Last edited (experts say)": "2020-06-15T16:47:15.000Z",
+    "Last modified": "2020-07-28"
+  },
+  {
+    "id": "reccgbdzob0VzK2nF",
+    "Question": "Can someone get reinfected and get COVID-19 a second time?",
+    "Status": "Published",
+    "Background & context": "As scientists, public health professionals, and doctors monitor the COVID-19 pandemic, they continue to learn about how the virus spreads, its symptoms, and other factors important to diagnosis, testing, monitoring, and long-term public health planning. The possibility of reinfection continues to be a prominent news headline with healthcare professionals reporting that some patients who had fully recovered from the virus later redeveloped symptoms. Some case reports detail how both symptom monitoring and testing have been performed, and, in some instances, patients have documented recovery of COVID-19 with negative virus test results only to become ill and test positive weeks or months later. \n\nWhile there are still many aspects of the virus and the pandemic that are unknown, recent research suggests that reinfection may be possible. Newer research shared with a preprint release on July 11th, 2020 found that COVID-19 antibodies function similarly to those from other coronaviruses that are associated with common colds. While the number of antibodies is higher in patients with more severe illness, reports suggest that the protective antibodies decrease relatively quickly (sometimes within 60 days)- especially in patients who had a mild case of COVID-19. Similarly, a population-based study from Spain examined antibodies of more than 50,000 people with possible exposure early in the pandemic and found that very few people have maintained antibodies to date- even those who lived in areas significantly impacted by the virus. Finally, a study done in primates (not humans) showed that COVID-19 immunity was maintained for 28 days following the original infection, but the study did not include longer range measures and, as an animal study, may not be directly comparable to humans.\n\nIt is important to note that, unlike other viruses, the number of antibodies needed to prevent reinfection with COVID-19 is unknown as is the level of antibodies needed to suggest that someone is “immune” to the virus. Studies to further understand immunity as well as the possibility for reinfection are ongoing.\n",
+    "What our experts say": "Scientists do not know for sure if people can become infected with COVID-19 a second time, but it may be possible. More evidence is needed to determine whether or not reinfection can occur. We are still learning a lot about what kind of natural defense - also known as immunity - a person has after being infected with SARS-CoV-2/COVID-19. Currently, there haven't been any documented cases of re-infection in scientific journals. In some cases, some patients have tested positive a second time for the virus but scientists think that this is most likely residual viral RNA (traces of the virus left in the body) that is being detected by very sensitive tests or through false-positive tests. As we learn more about long-term immunity and protection from re-infection, this could change, but currently we haven't seen published cases to support that it is occurring. For those concerned about antibody tests - tests used to determine whether or not a person was infected with COVID-19 in the past - it is important to note that a lack of antibodies several months after infection might not mean the person has no immunity against the virus and is susceptible to infection again. \n",
+    "Other resources": "1. Longitudinal evaluation and decline of antibody responses in SARS-CoV-2 infection ([MedRxiv][1])\n2. Direct observation of repeated infections with endemic coronaviruses ([J of Inf Disease][2])\n3. Prevalence of SARS-CoV-2 in Spain (ENE-COVID): a nationwide, population-based seroepidemiological study ([Lancet][3])\n4. Study in Primates Finds Acquired Immunity Prevents COVID-19 Reinfections ([NIH Director's Blog][4])\n5. Interview with Virologist Dr. Rasmussen ([Gizmodo][5])\n6. What Is COVID-19? ([JAMA][6]) \n\n  [1]: https://www.medrxiv.org/content/10.1101/2020.07.09.20148429v1.full.pdf\n  [2]: https://watermark.silverchair.com/jiaa392.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAqIwggKeBgkqhkiG9w0BBwagggKPMIICiwIBADCCAoQGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMiRbJCaojrVziOBHFAgEQgIICVexKUVWsCM8r04oJCJ2DPsP6vHvGEigqHpWW5jL_wb5GXNZdVL7bOCvm5VWLxP3N3_FCeNlLkiCXSddWR8sOG3UbOouN_hpBKr4mYdZ6gcI6jtE5rU_xfh0F9lJTu0pBX6IScsDQNGpbokEgqSk9QEK6H_0P4w3H8gf6h_jkfM72S_pPpCLksA2sOyP4frstixiN_MUKS_vx_BspvZENUnccZmgMBr9ielG5DCwLFj3HxAjRC_HiPLI8Nqn4aixyC1Ex6k7tmdZVx0B66c2pGv7VX04Ctxd4cxKTSIChWPacv2nejhG7ZGxiedfUCga25VlnSIjiyghHTNuu5EQhN9GhB0SlDcGkNCGcbuIvGdgzIeK-6ZZFdlTM8TcAHkducF7p0u4qxiQyHt0knoAqV6gxB6H9nsPJbO9eDlSFnlaekK1x1jVj3KYEijlB7oHyfXDvo3MGYoSQXF4cBejTUrfSBS6sjbD_uf0Pui-PJtti-VTlLyrumkRRLsutXTGDmo8V4iagTUWQQe6WEPh5emb8GYETdcRvAZx-otjFBtsagdq6L1ijVYYBRCg_QfmEow4wrEqMoK-o5_oZbInR_B-8eccbF5g3oNJhuSr4NSBXjd0Whhqe3LTf1IEvTz03Wv11sEUoPUbMbYmZlEJYYJf8BUR-5h267UeuU8IMFHxNsdTFJikB9y7hZgL8u_6_xdwE8MxJoIycHbRh4Dpv8Wz1QK55XC39-AvEuqdYuPNFvxJeU-KscfbpVX0-4AbdSoMlmwsl8eivzoFUOxZoK_MFt1ny-w\n  [3]: https://www.thelancet.com/action/showPdf?pii=S0140-6736(20)31483-5\n  [4]: https://directorsblog.nih.gov/2020/07/14/study-in-primates-finds-acquired-immunity-prevents-covid-19-reinfections/\n  [5]: https://gizmodo.com/what-s-the-evidence-for-covid-19-reinfection-1844364577\n  [6]: https://jamanetwork.com/journals/jama/fullarticle/2768390\n",
+    "DB (French)": [
+      "recKDU3ZXsRvXXFlC"
+    ],
+    "DB (Hindi)": [
+      "recfva7VUWttebYlH"
+    ],
+    "Media": [
+      {
+        "id": "attVCeSSLQBj8CL3u",
+        "url": "https://dl.airtable.com/.attachments/794bac94a5aa3a0fbb7cfb3b96ee7078/00917583/Slide_1",
+        "filename": "Slide_1",
+        "size": 155379,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d20a2e4228506d007d5b67922ad4c87a/2ffa47fa",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/03c540bcea38b848bc80974a5771940d/e16bf7be",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/40a39b9042c5a6f7b679966cf32cfb91/0ffcb2df",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "att293enxUBTVLvpt",
+        "url": "https://dl.airtable.com/.attachments/11453ccc071224749591d33020267939/33087e70/Slide_2",
+        "filename": "Slide_2",
+        "size": 220233,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/884e0f6f2b08be377f151aaae77d1f09/c7f2e629",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/51974b3233fe0eeb2021cfc08399b40c/dd204546",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ba7530bc6721e00beeb1f1d562cad5e1/54154851",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attNTFyZiA4l3nL8K",
+        "url": "https://dl.airtable.com/.attachments/df0c77bbc6456d3f0bc3865ef42902bc/f1a62caa/Slide_3",
+        "filename": "Slide_3",
+        "size": 213043,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5d47973602d6c21e4495278fd07578f7/372a8b07",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e667610602cd67bf69ed2287a44f4318/2badeaf1",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/35eac3e36576f96e6a06a2a8c6e5469d/82ab2a13",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attX9kNSuieda79Pv",
+        "url": "https://dl.airtable.com/.attachments/c9b801ba80f39197ac69fcbd0044d308/cccc8aa5/Slide_4",
+        "filename": "Slide_4",
+        "size": 162707,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b09e171348bd9eb1be315b3654875e91/e0c90023",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/4a5e8e50d0378c9d1ebf04c315d6f8f2/19abbece",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e4e5f6b6660e62c6fb27e17c0e0b9e7c/5d65b970",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attvmoxVv3UODgYkE",
+        "url": "https://dl.airtable.com/.attachments/225e045627edbe49aab385fdffee9a2e/ab3e0226/Slide_5",
+        "filename": "Slide_5",
+        "size": 269476,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c76822ae16e3a71bc78ecae0cfef3070/166d90f8",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/520c2fb4934562981bf4d55db12c70f5/53d5d588",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3fb69d25f3140df7a74c1c38a4921b2d/75a759ed",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "In translated DBs?": "Yes",
+    "DB (Telugu)": [
+      "recgbvYdsLOeJZr7J"
+    ],
+    "Expert Database (Spanish)": [
+      "reczxYS1ZG5FxaY1l"
+    ],
+    "DB (Arabic)": [
+      "recTRpNNso1rLV9aa"
+    ],
+    "DB (Bengali)": [
+      "rechalrXC9gaA1k8m"
+    ],
+    "DB (Portuguese)": [
+      "recSbWjbA3p6IJY8W"
+    ],
+    "Last edited (simplified)": "2020-07-16T23:59:45.000Z",
+    "Last edited (experts say)": "2020-07-17T00:00:51.000Z",
+    "Last modified": "2020-07-27"
+  },
+  {
     "id": "recYvTpiS4HB4XVtT",
     "Question": "What do we know about the association between blood type and severe reaction to COVID-19",
-    "Item status": "Published",
+    "Status": "Published",
     "Background & context": "The media is now reporting on how more recent studies found that blood type is not linked to risks of intubation or death from COVID-19, after adjusting for other factors like age and gender identity. Furthermore, it is important to note that Type O blood does not mean immunity to COVID-19.\n---\nUPDATED: July 27, 2020: Please note that COVID-19 is a new disease, where scientists are continuing to learn more and release new publications. The latest and most accurate answer can be found above.\n\nAs part of the ongoing search for explanations about why the novel coronavirus SARS-CoV-2 impacts people differently, ranging from no symptoms to death, recent research and news articles have reported on potential associations between patient blood type and COVID-19 disease severity. Blood types are determined by the presence or absence of certain antigens in the blood, which are molecules that help your immune system use to detect a foreign threat or invader. Everyone has a blood type - A, B, AB, or O - so these recent findings have the potential to impact many people.\n\nResearch into how Type A blood could be associated with more severe COVID-19 symptoms helps inform the work of medical professionals. The hope is that evolving scientific knowledge will help medical professionals better determine which patients are at higher risk and may need additional care.\n",
     "What our experts say": "As of now, there is not enough evidence to indicate whether or not there may be some connection between blood type and COVID-19 risk, though the link is likely to be minimal if it does exist. Studies previously cited in the news suggested that Type A blood could be associated with higher risks of severe cases of COVID-19, included studies that had not yet been assessed by scientific experts (referred to in science as the peer-review process). One of these recent studies had been peer-reviewed and published in the New England Journal of Medicine (NEJM); however it used genes to determine the blood type, which is a method that is not very accurate.  \n\nTwo more recent studies from Columbia University and Massachusetts General Hospital in the U.S. found that blood type is not associated with risks of intubation or death from COVID-19, after adjusting for other factors. While scientists continue to learn more, age and underlying health conditions remain more significant risk factors for severe COVID-19 symptoms, and Type A blood is not thought to be a major risk factor at this time. \n\nWhile some studies have suggested a potential risk reduction for people with Type O blood, not all the studies have been peer-reviewed and the use of blood donors as study participants can give the appearance of Type O being more protective than it is (Type O blood is over-represented in blood donors, compared to the general population). Type O blood does not mean immunity to COVID-19.\n---\nUPDATED: July 27, 2020: Please note that COVID-19 is a new disease, where scientists are continuing to learn more and release new publications. The latest and most accurate answer can be found above.\n\nEuropean scientists have recently found a strong link between different types of the gene that determines our blood type and COVID-19. This genetic variation - having type A blood - was associated with an increased risk of respiratory distress in patients with Covid-19; meaning these patients would be more likely to require oxygen or go on a ventilator. Scientists are actively trying to understand why patients with Type A blood seem to be at higher risk of developing serious cases of COVID-19 and more studies are underway to confirm these findings and explain the underlying mechanism. Genetic studies like these raise the possibility that administering DNA tests to patients who test positive for COVID-19 could perhaps help identify patients who will need advanced care. \n\nResearchers have been looking for clues that would explain why some individuals become ill with COVID-19 whereas others do not, even though they test positive for the virus. These teams are also working to discover why some patients become more ill than others when they become infected with COVID-19. One such area of research is our DNA - the long molecule in the nucleus of our cells that contains our unique genetic code.\n\n\n",
     "Glossary Terms": [
@@ -32,7 +677,7 @@
   {
     "id": "rec4kQXR2QgCNdlgs",
     "Question": "Can convalescent plasma help treat COVID-19?",
-    "Item status": "Published",
+    "Status": "Published",
     "Background & context": "Using convalescent plasma from individuals who were previously infected to treat sick individuals has been in practice for nearly 100 years for several diseases including polio, influenza, and Ebola. Plasma is the liquid portion of the blood and contains disease-specific antibodies that helped fight the infection in a recovered individual, and that may help fight the infection in a newly infected recipient. As a result, convalescent plasma is being explored as an option for prevention and treatment of COVID-19.\n\nIn March 2020, the US Federal Drug Administration (FDA) announced an emergency investigational process to allow doctors to treat serious cases with convalescent plasma. In April 2020, the FDA announced a National Expanded Access Protocol through the Mayo Clinic that expanded convalescent plasma treatment to include adults at risk of severe disease in addition to adults with severe cases. Additionally, a number of clinical trials are underway to study the efficacy of convalescent plasma in preventing or treating COVID-19 in a range of cases. \n\nMore research is still necessary to determine if convalescent plasma is effective and safe as a treatment for COVID-19. Scientists are working to identify whether it might help reduce severity of illness, shorten the duration of illness, or even prevent death associated with COVID-19.\n",
     "What our experts say": "When someone has been infected with COVID-19, their body's immune system produces substances called antibodies that work to destroy the virus. These antibodies can usually be found in the blood of people after they recover from the virus, specifically in the liquid portion of the blood called 'plasma.' Because the antibodies in plasma helped the infected person fight off the virus and improve their health, researchers are studying whether or not transferring plasma from patients who have recovered or are almost fully recovered (also called 'convalescent') to patients currently infected with the virus can help their immune systems fight off the infection as well. This experimental use of convalescent plasma for COVID-19 is not an approved treatment by the World Health Organization or the United States Centers for Disease Control and Prevention, but there is some indication that it might be beneficial in the early stages of a COVID-19 infection. More research needs to be conducted before scientists reach a consensus about any benefits or negative impacts plasma may have in infected patients.\n",
     "Other resources": "1. Convalescent Plasma and COVID-19 ([JAMA][1])\n2. Recommendations for Investigational COVID-19 Convalescent Plasma ([U.S. FDA][2])\n3. COVID-19 and Convalescent Plasma: Frequently Asked Questions ([American Society of Hematology][3])\n4. Deployment of convalescent plasma for the prevention and treatment of COVID-19 ([Journal of Clinical Investigation][4])\n\n  [1]: https://jamanetwork.com/journals/jama/fullarticle/2767351\n  [2]: https://www.fda.gov/vaccines-blood-biologics/investigational-new-drug-ind-or-device-exemption-ide-process-cber/recommendations-investigational-covid-19-convalescent-plasma\n  [3]: https://www.hematology.org/covid-19/covid-19-and-convalescent-plasma\n  [4]: https://www.jci.org/articles/view/138745\n",
@@ -41,64 +686,9 @@
     "Last modified": "2020-07-27"
   },
   {
-    "id": "rechQWZ1ctlJ81Vxn",
-    "Question": "What does the scientific literature say about using hydroxychloroquine to prevent, treat or cure COVID-19?",
-    "Item status": "Published",
-    "Category": "Treatment",
-    "Subcategory": "On: COVID-19 & hydroxychloroquine",
-    "Source of the question": [
-      "Social Media"
-    ],
-    "Country question was sourced from": [
-      "India"
-    ],
-    "Background & context": "Hydroxycloroquine is a medication currently prescribed for preventing or treating malaria, an infectious disease that can be transmitted to humans from mosquitos. It is also prescribed as a treatment for rheumatoid arthritis and lupus, which are both autoimmune diseases.\nWhen faced with an unknown virus like COVID-19 and without a specific vaccine and treatment, one of the best medical strategies is to look among the medications already available and clinically tested to see if any of them are effective. As their risks, benefits, and side effects have already been studied (without allowing safety tests to be ignored), this could speed up research. One of these is hydroxychloroquine. \nWhen trying to find treatments for COVID-19, hydroxychloroquine was tested on hospitalized patients. However, the results from this research do not represent evidence significant enough to recommend hydroxychloroquine for treating COVID-19. At the same time, some research studies have also shown some serious negative consequences (incl. serious heart rhythm problems) associated with the use of hydroxychloroquine in the treatment of COVID-19. More studies are underway.\n\n",
-    "What our experts say": "Ongoing clinical trials are testing how safe and effective chloroquine and hydroxychloroquine are as treatments for COVID-19. So far, clinical trials and scientific analyses have not produced high quality evidence showing efficacy of these medications as a treatment, and some studies have even reported higher rates of adverse events (including cardiac issues) in hospitalized patients treated with hydroxychloroquine. As things stand, hydroxychloroquine is not a recognized prevention, treatment or cure for COVID-19.\nIn this context, there are research studies underway to find out whether taking this medication can prevent people from getting infected with coronavirus once they have been exposed. Other studies are still investigating the efficacy and safety of the drug as a treatment at different stages of the illness, including randomized controlled trials with a large number of patients enrolled.\nAround the world, some countries have moved ahead and authorized chloroquine or hydroxychloroquine for the treatment of COVID-19 despite limited clinical evidence supporting its efficacy. This decision follows some preliminary results coming out of China and France in March 2020, where a few small clinical trials showed limited success of the medication.\nIn the Unites States, on March 27th 2020, the Food and Drug Administration (FDA) has granted a special permission (Emergency Authorization Use) to use chloroquine and hydroxychloroquine in emergency situations for treatment of COVID-19. This did not constitute a formal approval of the drug, but rather a possibility given to American doctors to use chloroquine and hydroxychloroquine in the treatment of COVID-19 if the doctor has no other options and after discussing with the patients the risks involved. On June 15th 2020, the U.S. FDA has revoked the special permission to use chloroquine and hydroxychloroquine in emergency situations for COVID-19 citing that these drugs are unlikely to be effective in treating COVID-19 and highlighting serious cardiac adverse events and other serious side effects reported in studies.\n",
-    "Glossary Terms": [
-      "recM4p8QOERmuESKr",
-      "recAiJYWSxD5F1Lz1",
-      "recJ1c8DQQVGmXfzM",
-      "recjILnexcCRlyBIb"
-    ],
-    "Variation of the answer depending on country of residence": "Yes - some countries have included chloroquine and hydroxychloroquine in their treatment protocol despite the fact that the World Health Organization has not recognized it as a treatment as they await further clinical trial results.\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "prevention",
-      "treatment",
-      "cure",
-      "hydroxychloroquine"
-    ],
-    "Other resources": "1. FDA revokes the emergency use authorization for chloroquine and hydroxychloroquine ([U.S. FDA][1])\n2. FDA cautions against the use of hydroxychloroquine or chloroquine for COVID-19 outside of the hospital setting or a clinical trial due to a risk of heart rhythm problems ([U.S. FDA][2])\n3. Investigational therapeutics for patients with COVID-19 ([U.S. CDC][3]) \n4. Research Update: Hydroxychloroquine in Nonhospitalized Adults With Early COVID-19 ([AIM][4])\n5. Trial update: Effect of Hydroxychloroquine in Hospitalized Patients with COVID-19: Preliminary results from a multi-centre, randomized, controlled trial. ([medRxiv][5])\n6. Trial update: No clinical benefit from use of hydroxychloroquine in hospitalized patients with COVID-19 ([Recovery Trial][6])\n7. Information about \"compassionate use\" ([U.S. FDA][7]) \n8. Research paper: A Randomized Trial of Hydroxychloroquine as Postexposure Prophylaxis for Covid-19 ([NEJM][8])\n9. Hydroxychloroquine or Chloroquine for Treatment or Prophylaxis of COVID-19: A Living Systematic Review ([AIM][9])\n10. Research paper: Hydroxychloroquine in patients with mainly mild to moderate coronavirus disease 2019: open label, randomised controlled trial ([BMJ][10])\n11. Research paper: Association of Treatment With Hydroxychloroquine or Azithromycin With In-Hospital Mortality in Patients With COVID-19 in New York State ([JAMA][11])\n12. Research paper: Observational Study of Hydroxychloroquine in Hospitalized Patients with Covid-19 ([NEJM][12])\n13. Research paper: Hydroxychloroquine in patients with mainly mild to moderate coronavirus disease 2019: open label, randomised controlled trial ([BMJ][10])\n14. Hydroxychloroquine with or without Azithromycin in Mild-to-Moderate Covid-19 ([NEJM][13])\n\n\n  [1]: https://www.fda.gov/emergency-preparedness-and-response/mcm-legal-regulatory-and-policy-framework/emergency-use-authorization#coviddrugs\n  [2]: https://www.fda.gov/drugs/drug-safety-and-availability/fda-cautions-against-use-hydroxychloroquine-or-chloroquine-covid-19-outside-hospital-setting-or\n  [3]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/therapeutic-options.html\n  [4]: https://www.acpjournals.org/doi/10.7326/M20-4207\n  [5]: https://www.medrxiv.org/content/10.1101/2020.07.15.20151852v1\n  [6]: https://www.recoverytrial.net/news/statement-from-the-chief-investigators-of-the-randomised-evaluation-of-covid-19-therapy-recovery-trial-on-hydroxychloroquine-5-june-2020-no-clinical-benefit-from-use-of-hydroxychloroquine-in-hospitalised-patients-with-covid-19\n  [7]: https://www.fda.gov/news-events/public-health-focus/expanded-access\n  [8]: https://www.nejm.org/doi/full/10.1056/NEJMoa2016638?query=featured_home\n  [9]: https://www.acpjournals.org/doi/10.7326/M20-2496\n  [10]: https://www.bmj.com/content/369/bmj.m1849\n  [11]: https://jamanetwork.com/journals/jama/fullarticle/2766117\n  [12]: https://www.nejm.org/doi/full/10.1056/NEJMoa2012410\n  [13]: https://www.nejm.org/doi/full/10.1056/NEJMoa2019014?query=featured_home\n",
-    "DB (French)": [
-      "recAj0TYj97UNUWtk"
-    ],
-    "DB (Hindi)": [
-      "recTMwxdfhiFP6PdB"
-    ],
-    "In translated DBs?": "Yes",
-    "DB (Telugu)": [
-      "recN5EPDGr3rmysv8"
-    ],
-    "Expert Database (Spanish)": [
-      "rec6r7JrdmkSaJZpK"
-    ],
-    "DB (Arabic)": [
-      "recqLyEdG4gEouayz"
-    ],
-    "DB (Bengali)": [
-      "recO4uinQPvndAlwL"
-    ],
-    "DB (Portuguese)": [
-      "recp55aBOJEjliZwl"
-    ],
-    "Last edited (simplified)": "2020-05-27T22:05:06.000Z",
-    "Last edited (experts say)": "2020-06-15T16:47:15.000Z",
-    "Last modified": "2020-07-27"
-  },
-  {
     "id": "recUU9xtTzmcGAk9Y",
     "Question": "What are medical reasons people can't wear masks? ",
-    "Item status": "Published",
+    "Status": "Published",
     "Country question was sourced from": [
       "USA"
     ],
@@ -138,7 +728,7 @@
   {
     "id": "recjs5QXivxuhSxx4",
     "Question": "Why should we all be wearing masks?",
-    "Item status": "Published",
+    "Status": "Published",
     "Source of the question": [
       "Fact-checking organization"
     ],
@@ -180,42 +770,9 @@
     "Last modified": "2020-07-27"
   },
   {
-    "id": "reccgbdzob0VzK2nF",
-    "Question": "Can someone get reinfected and get COVID-19 a second time?",
-    "Item status": "Published",
-    "Background & context": "As scientists, public health professionals, and doctors monitor the COVID-19 pandemic, they continue to learn about how the virus spreads, its symptoms, and other factors important to diagnosis, testing, monitoring, and long-term public health planning. The possibility of reinfection continues to be a prominent news headline with healthcare professionals reporting that some patients who had fully recovered from the virus later redeveloped symptoms. Some case reports detail how both symptom monitoring and testing have been performed, and, in some instances, patients have documented recovery of COVID-19 with negative virus test results only to become ill and test positive weeks or months later. \n\nWhile there are still many aspects of the virus and the pandemic that are unknown, recent research suggests that reinfection may be possible. Newer research shared with a preprint release on July 11th, 2020 found that COVID-19 antibodies function similarly to those from other coronaviruses that are associated with common colds. While the number of antibodies is higher in patients with more severe illness, reports suggest that the protective antibodies decrease relatively quickly (sometimes within 60 days)- especially in patients who had a mild case of COVID-19. Similarly, a population-based study from Spain examined antibodies of more than 50,000 people with possible exposure early in the pandemic and found that very few people have maintained antibodies to date- even those who lived in areas significantly impacted by the virus. Finally, a study done in primates (not humans) showed that COVID-19 immunity was maintained for 28 days following the original infection, but the study did not include longer range measures and, as an animal study, may not be directly comparable to humans.\n\nIt is important to note that, unlike other viruses, the number of antibodies needed to prevent reinfection with COVID-19 is unknown as is the level of antibodies needed to suggest that someone is “immune” to the virus. Studies to further understand immunity as well as the possibility for reinfection are ongoing.\n",
-    "What our experts say": "Scientists do not know for sure if people can become infected with COVID-19 a second time, but it may be possible. More evidence is needed to determine whether or not reinfection can occur. We are still learning a lot about what kind of natural defense - also known as immunity - a person has after being infected with SARS-CoV-2/COVID-19. Currently, there haven't been any documented cases of re-infection in scientific journals. In some cases, some patients have tested positive a second time for the virus but scientists think that this is most likely residual viral RNA (traces of the virus left in the body) that is being detected by very sensitive tests or through false-positive tests. As we learn more about long-term immunity and protection from re-infection, this could change, but currently we haven't seen published cases to support that it is occurring. For those concerned about antibody tests - tests used to determine whether or not a person was infected with COVID-19 in the past - it is important to note that a lack of antibodies several months after infection might not mean the person has no immunity against the virus and is susceptible to infection again. \n",
-    "Other resources": "1. Longitudinal evaluation and decline of antibody responses in SARS-CoV-2 infection ([MedRxiv][1])\n2. Direct observation of repeated infections with endemic coronaviruses ([J of Inf Disease][2])\n3. Prevalence of SARS-CoV-2 in Spain (ENE-COVID): a nationwide, population-based seroepidemiological study ([Lancet][3])\n4. Study in Primates Finds Acquired Immunity Prevents COVID-19 Reinfections ([NIH Director's Blog][4])\n5. Interview with Virologist Dr. Rasmussen ([Gizmodo][5])\n6. What Is COVID-19? ([JAMA][6]) \n\n  [1]: https://www.medrxiv.org/content/10.1101/2020.07.09.20148429v1.full.pdf\n  [2]: https://watermark.silverchair.com/jiaa392.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAqIwggKeBgkqhkiG9w0BBwagggKPMIICiwIBADCCAoQGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMiRbJCaojrVziOBHFAgEQgIICVexKUVWsCM8r04oJCJ2DPsP6vHvGEigqHpWW5jL_wb5GXNZdVL7bOCvm5VWLxP3N3_FCeNlLkiCXSddWR8sOG3UbOouN_hpBKr4mYdZ6gcI6jtE5rU_xfh0F9lJTu0pBX6IScsDQNGpbokEgqSk9QEK6H_0P4w3H8gf6h_jkfM72S_pPpCLksA2sOyP4frstixiN_MUKS_vx_BspvZENUnccZmgMBr9ielG5DCwLFj3HxAjRC_HiPLI8Nqn4aixyC1Ex6k7tmdZVx0B66c2pGv7VX04Ctxd4cxKTSIChWPacv2nejhG7ZGxiedfUCga25VlnSIjiyghHTNuu5EQhN9GhB0SlDcGkNCGcbuIvGdgzIeK-6ZZFdlTM8TcAHkducF7p0u4qxiQyHt0knoAqV6gxB6H9nsPJbO9eDlSFnlaekK1x1jVj3KYEijlB7oHyfXDvo3MGYoSQXF4cBejTUrfSBS6sjbD_uf0Pui-PJtti-VTlLyrumkRRLsutXTGDmo8V4iagTUWQQe6WEPh5emb8GYETdcRvAZx-otjFBtsagdq6L1ijVYYBRCg_QfmEow4wrEqMoK-o5_oZbInR_B-8eccbF5g3oNJhuSr4NSBXjd0Whhqe3LTf1IEvTz03Wv11sEUoPUbMbYmZlEJYYJf8BUR-5h267UeuU8IMFHxNsdTFJikB9y7hZgL8u_6_xdwE8MxJoIycHbRh4Dpv8Wz1QK55XC39-AvEuqdYuPNFvxJeU-KscfbpVX0-4AbdSoMlmwsl8eivzoFUOxZoK_MFt1ny-w\n  [3]: https://www.thelancet.com/action/showPdf?pii=S0140-6736(20)31483-5\n  [4]: https://directorsblog.nih.gov/2020/07/14/study-in-primates-finds-acquired-immunity-prevents-covid-19-reinfections/\n  [5]: https://gizmodo.com/what-s-the-evidence-for-covid-19-reinfection-1844364577\n  [6]: https://jamanetwork.com/journals/jama/fullarticle/2768390\n",
-    "DB (French)": [
-      "recKDU3ZXsRvXXFlC"
-    ],
-    "DB (Hindi)": [
-      "recfva7VUWttebYlH"
-    ],
-    "In translated DBs?": "Yes",
-    "DB (Telugu)": [
-      "recgbvYdsLOeJZr7J"
-    ],
-    "Expert Database (Spanish)": [
-      "reczxYS1ZG5FxaY1l"
-    ],
-    "DB (Arabic)": [
-      "recTRpNNso1rLV9aa"
-    ],
-    "DB (Bengali)": [
-      "rechalrXC9gaA1k8m"
-    ],
-    "DB (Portuguese)": [
-      "recSbWjbA3p6IJY8W"
-    ],
-    "Last edited (simplified)": "2020-07-16T23:59:45.000Z",
-    "Last edited (experts say)": "2020-07-17T00:00:51.000Z",
-    "Last modified": "2020-07-27"
-  },
-  {
     "id": "recUf54dYwOUfEzIR",
     "Question": "What do we know so far about COVID-19 and nursing homes?",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "Transmission",
     "Subcategory": "On: COVID-19 & nursing homes",
     "Background & context": "Since the earliest outbreaks in the United States occurred in nursing care homes for the elderly, much speculation has surrounded older populations as they are high-risk for the virus. In addition, nursing home residents remain in enclosed spaces, are sometimes in close confines with others, and often have preexisting conditions, so their risk increases. \n\nIn response to this, most countries with large populations of people over 65 have created new regulations to make sure that patient, employee, and healthcare worker safety in these facilities is the highest priority. By using these new standards, the risks should be significantly reduced for residents and employees alike.\n",
@@ -262,7 +819,7 @@
   {
     "id": "recrVbGv8aiD1jTq8",
     "Question": "What do we know so far about \"COVID toes\"?",
-    "Item status": "Published",
+    "Status": "Published",
     "Source of the question": [
       "Fact-checking organization"
     ],
@@ -309,7 +866,7 @@
   {
     "id": "recN7xZOc6jUGgDCA",
     "Question": "Are there any side effects of using hand sanitizer?",
-    "Item status": "Published",
+    "Status": "Published",
     "Background & context": "The virus causing COVID-19 can spread from touching an infected surface, from exposure to respiratory droplets, and from airborne transmission. Person-to-person spread (i.e. not from touching surfaces) is the most well understood form of transmission, as well as the main transmission route for COVID-19. Hand sanitizer is one way to clean your hands after touching surfaces and/or interacting with people, particularly when hand-washing is not an option. The U.S. Centers for Disease Control and Prevention (U.S. CDC) recommends soap and water for hand hygiene whenever possible and especially during cooking, after using the restroom, before eating, and when hands are visibly soiled. When using hand sanitizer, it is important to rub it over the entire surface of hands until dry.\n",
     "What our experts say": "Side-effects of hand sanitizer are short-term and often mild. The side effects are usually related to skin irritation, like cracking and bleeding, due to either irritation from the product or overuse and drying of the skin. It is important to always check the label to ensure safe use. Ingestion or use around the eyes and nose can cause irritation. \n\nAlcohol-based hand sanitizer should contain at least 60% alcohol to be effective. Hand sanitizer is a good way to clean hands when soap and water isn't available and is effective against the virus that causes COVID-19.\n\n\nUPDATED: July 24, 2020: The U.S. Food and Drug Administration (FDA) has recently issued a warning on the increase in hand sanitizer products containing methanol, instead of ethanol. Methanol, or wood alcohol, is a toxic substance when absorbed through the skin or when ingested that can lead to blindness, hospitalizations, or death. At least 75 brands of hand sanitizer have been recalled for safety reasons, and the FDA also warns against false labels claiming a hand sanitizer product is \"FDA-approved\" (because the FDA has not and does not approve any hand sanitizer products). Hand sanitizer products should be stored out of the reach of children to help prevent accidental ingestion. If you become exposed to hand sanitizer containing methanol and are experiencing symptoms, seek immediate treatment for potential reversal of methanol poisoning. \n",
     "Glossary Terms": [
@@ -346,7 +903,7 @@
   {
     "id": "rec5d5bDYQKs3umW2",
     "Question": "What do we know about pregnant women and COVID-19?",
-    "Item status": "Published",
+    "Status": "Published",
     "Background & context": "While pregnant women might be at increased risk for severe COVID-19 disease, there is no data yet to show any pre-term complications. Since it is possible for pregnant women to transmit the virus to a newborn, it is common to test pregnant women pre-labor for the novel coronavirus. It is unknown if the virus is spread before, during, or after birth. \n\nThere have been documented cases of mistreatment, abuse, and obstetric violence of pregnant women globally in the context of COVID-19. Examples include limited prenatal care, lack of choice around who is in the delivery room, separation from newborns, and verbal abuse. The World Health Organization has issued guidance on pregnancy and COVID-19 aiming to address these concerns by discouraging negative actions such as newborn separation and forced cesarean sections.\n",
     "What our experts say": "Currently, pregnant women are at an increased risk for severe COVID-19 disease, meaning that there is a higher chance they will require hospitalization and have more serious symptoms of the disease if they become infected. Preterm and other birth-related complications have not been associated with COVID-19 at this time. The U.S. Centers for Disease Control and Prevention (U.S. CDC) encourages pregnant women to take preventive measures and continue to seek prenatal care. If infected and contagious during labor, it is possible for the mother to spread the disease to the newborn. \n",
     "Other resources": "1. COVID-19 and Pregnancy ([U.S. CDC][1])\n2. Q&A: Pregnancy, childbirth and COVID-19 ([WHO][2])\n3. How has COVID-19 affected women's rights during childbirth? Help us track this globally ([Open Democracy][3])\n\n  [1]: https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/pregnancy-breastfeeding.html\n  [2]: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-on-covid-19-pregnancy-and-childbirth\n  [3]: https://www.opendemocracy.net/en/5050/womens-rights-during-childbirth-help-us-track-globally/\n",
@@ -501,7 +1058,7 @@
   {
     "id": "recq1zzyVh3GSLrhz",
     "Question": "What short- and long-term effects does COVID-19 have on other body parts, including lungs, brain and kidney?",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "Symptoms",
     "Subcategory": "On: COVID-19 & short- and long-term effects",
     "Source of the question": [
@@ -660,7 +1217,7 @@
   {
     "id": "rec2shxecDOlAie8Q",
     "Question": "What do we know about the Moderna vaccine so far?",
-    "Item status": "Published",
+    "Status": "Published",
     "Background & context": "Over 165 vaccines against the coronavirus are in development around the world, and approximately 25 are in human trials. Moderna was the first American company to test a vaccine in humans. The genetic vaccine, which uses genetic material from the virus (called mRNA) to prompt the immune system to fight the virus, was developed by researchers at the U.S. National Institute of Allergy and Infectious Diseases. Because this vaccine was the first to be tried in humans as part of a clinical trial, it has been widely discussed and followed, and has gained more media attention recently due to Moderna publishing promising Phase 1 results on July 14, and announcing that they are moving into a Phase 3 trial starting July 27. A phase 2 trial in 600 healthy adults is ongoing. Moderna hopes to have the vaccine ready by early 2021.\n\nThe results from the Moderna Phase 1 trial show that those who received the vaccine produced more antibodies that neutralized the virus **-- **meaning the antibodies successfully defended cells from the virus by blocking any effect the virus has biologically**.** These results have prompted wider discussion of a few open questions regarding the success of this vaccine and the others in development: 1) Can the production of antibodies predict protection against an infection? 2) Can antibodies predict protection against the level of infection, and 3) Will the antibodies produced last for a long time? and if yes, for how long? Research is ongoing to answer these questions. \n",
     "What our experts say": "Following encouraging results of phase 1 vaccine clinical trials, Moderna's COVID-19 vaccine is expected to start phase 3 trials on July 27, 2020 with 30,000 participants age 18 and older. A phase 2 trial in 600 healthy adults is ongoing. There are typically three phases of vaccine clinical trials, where Phase 3 is the last one conducted on a large amount of people. Phase 3 seeks to confirm results obtained in Phase 1 and Phase 2 with respect to safety and efficacy of the vaccine before approving it for manufacturing and distribution. In the upcoming Moderna Phase 3 trial, patients will be randomly assigned to receive two vaccine doses or a placebo.** **A placebo is a harmless, inactive substance that physically looks like the vaccine being tested, so researchers can make a comparison.\n\nModerna published early results in the New England Journal of Medicine (NEJM) on July 14, 2020, based on Phase 1 trials with 45 participants, between age 18 and 55, receiving two vaccine doses each. The participants were split evenly into 3 groups to test different amounts of the vaccine: 25, 100, and 250 micrograms. While no major safety concerns were found that would stop the trials, over half of the participants experienced side effects such as fatigue, chills, headache, muscle aches, and pain at the injection site. The participants receiving the highest vaccine dose (250 micrograms) had more severe side effects. A phase 2 trial is ongoing and is evaluating doses of 50 and 100 micrograms in participants. The next phase (Phase 3) of the clinical trial will focus on studying the middle vaccine amount (100 micrograms).\n\nBy day 43 of the Phase 1 trial, researchers observed immune responses in all participants that could reduce the ability of SARS-CoV-2, the virus that causes COVID-19, to infect people by 80% or more. By day 57, participants who received 100 micrograms of the vaccine had average levels of neutralizing antibodies that were about twice the average levels found in patients who have recovered from COVID-19. Neutralizing antibodies, made from plasma cells (a type of white blood cell), are a subset of antibodies (special proteins that help the body to fight viruses, bacteria, and other threats that can make people sick) that reduce the ability of a virus to infect cells and cause disease. More research is being conducted to ensure the Moderna vaccine is safe for use by diverse populations, and effective in providing long-term immunity that can protect people from getting sick when exposed to the virus.\n\n",
     "Glossary Terms": [
@@ -704,7 +1261,7 @@
   {
     "id": "recOiBtU1KHxAQAgq",
     "Question": "Will transmission of COVID-19 slow down in the summer?",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "Spread",
     "Subcategory": "On: COVID-19 transmission during the summer",
     "Source of the question": [
@@ -755,63 +1312,9 @@
     "Last modified": "2020-07-24"
   },
   {
-    "id": "recQZ5Gya03eOGb8l",
-    "Question": "What is the impact of Vitamin C on COVID-19?",
-    "Item status": "Published",
-    "Category": "Treatment, Cure, Prevention",
-    "Subcategory": "On: COVID-19 & vitamin C",
-    "Source of the question": [
-      "Newsroom",
-      "Social Media"
-    ],
-    "Country question was sourced from": [
-      "USA",
-      "Canada",
-      "South Africa"
-    ],
-    "Background & context": "Vitamin C is a vitamin that is naturally present in some foods, and is added to others. Consuming Vitamin C is important because, though the body needs it for a variety of reasons, it is not something that the human body can readily make on its own. More information about this is available in the additional resources section. \n",
-    "What our experts say": "Vitamin C cannot prevent you from getting sick or from contracting COVID-19. It is neither a cure nor a prevention method for the virus. Contrary to popular belief, regular Vitamin C has never been proven to lower the number of colds people contract. It _might_ help reduce the length of time someone is sick with a cold, as well as the severity of a cold, but even the research on that is still unclear and evolving. Right now, studies around the world are trying to determine if Vitamin C might help people with COVID-19, but no evidence shows that taking Vitamin C can impact people who have the virus.\n",
-    "Glossary Terms": [
-      "recOMUWrX4F2d53iC"
-    ],
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "vitamin C",
-      "immune system",
-      "prevention"
-    ],
-    "Other resources": "1. Debunking COVID-19 (coronavirus) myths ([Mayo Clinic][1]) \n2. Vitamin C for Preventing and Treating the Common Cold ([NCBI][2])  \n3. Vitamin C and Immune Function ([NCBI][3]) \n4. Vitamin C ([Mayo Clinic][4]) \n\n  [1]: https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/coronavirus-myths/art-20485720\n  [2]: https://www.ncbi.nlm.nih.gov/pubmed/23440782\n  [3]: https://www.ncbi.nlm.nih.gov/pubmed/29099763\n  [4]: https://www.mayoclinic.org/drugs-supplements-vitamin-c/art-20363932\n",
-    "DB (French)": [
-      "recD1hQ5hwPZnyPCX"
-    ],
-    "DB (Hindi)": [
-      "recoJqIP70s9YSG3W"
-    ],
-    "In translated DBs?": "Yes",
-    "DB (Telugu)": [
-      "recuClScJD4aP21f2"
-    ],
-    "Expert Database (Spanish)": [
-      "recNYOM0gylBDdy9E"
-    ],
-    "DB (Arabic)": [
-      "rec7ifHMJghnRYJit"
-    ],
-    "DB (Bengali)": [
-      "recvBblWT1w6G4UgF"
-    ],
-    "DB (Portuguese)": [
-      "rec6CMdaRVF2OMygf"
-    ],
-    "Last edited (simplified)": "2020-05-15T23:45:58.000Z",
-    "Last edited (experts say)": "2020-05-14T15:18:11.000Z",
-    "Last modified": "2020-07-24"
-  },
-  {
     "id": "reckgFENw9gVgnWtC",
     "Question": "How long is a person infected with COVID-19 contagious?",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "Spread",
     "Subcategory": "On: COVID-19 & contagiousness",
     "Source of the question": [
@@ -862,7 +1365,7 @@
   {
     "id": "recllQqVLGnigxKql",
     "Question": "What is the latest research regarding sexual transmission of COVID-19?",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "Transmission",
     "Subcategory": "On: COVID-19 & sexual transmission",
     "Source of the question": [
@@ -916,7 +1419,7 @@
   {
     "id": "recoVpGV8P1VgMvtc",
     "Question": "What are the symptoms of COVID-19?",
-    "Item status": "Published",
+    "Status": "Published",
     "Source of the question": [
       "Social Media"
     ],
@@ -956,7 +1459,7 @@
   {
     "id": "recqFRWiE9Y6nbUM5",
     "Question": "What are the origins of the virus?",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "Origin",
     "Subcategory": "On: The origin of COVID-19 ",
     "Source of the question": [
@@ -1013,7 +1516,7 @@
   {
     "id": "recrNXw7eBw8czwGW",
     "Question": "What is the latest research around sunbathing and COVID-19?",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "Prevention",
     "Subcategory": "On: COVID-19 & sunbathing",
     "Source of the question": [
@@ -1066,7 +1569,7 @@
   {
     "id": "recr69VbqahSOTu3Y",
     "Question": "Does wearing gloves protect against or stop the spread of COVID-19?",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "Spread",
     "Subcategory": "On: COVID-19 & wearing gloves",
     "Source of the question": [
@@ -1123,7 +1626,7 @@
   {
     "id": "recu8V6IGjMveS5Ku",
     "Question": "Is there any relationship between the use of antibiotics and treatment of COVID-19?",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "Treatment",
     "Subcategory": "On: COVID-19 & antibiotics ",
     "Source of the question": [
@@ -1182,7 +1685,7 @@
   {
     "id": "recCC7GhsX2CKZJbs",
     "Question": "Is being vaccinated with BCG protective for COVID-19?",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "Treatment",
     "Subcategory": "On: COVID-19 & vaccines",
     "Source of the question": [
@@ -1234,7 +1737,7 @@
   {
     "id": "recE68fRyDEYYEuIr",
     "Question": "Can the virus be transmitted through the air?",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "Transmission",
     "Subcategory": "On: COVID-19 & aerosol transmission",
     "Source of the question": [
@@ -1292,7 +1795,7 @@
   {
     "id": "recf6cuE8pK9p9UeO",
     "Question": "What does it mean for a study to be a pre-print?",
-    "Item status": "Published",
+    "Status": "Published",
     "Subcategory": "On: Pre-print studies",
     "Source of the question": [
       "Newsroom"
@@ -1343,7 +1846,7 @@
   {
     "id": "reczxZFNnUFSbpNxf",
     "Question": "Can COVID-19 be transmitted through pool water?",
-    "Item status": "Published",
+    "Status": "Published",
     "Subcategory": "On: COVID-19 & pool water",
     "Source of the question": [
       "Social Media"
@@ -1396,7 +1899,7 @@
   {
     "id": "recYyHq4Ec1FWbNtQ",
     "Question": "What are the three phases of vaccine testing?",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "Treatment",
     "Source of the question": [
       "Social Media"
@@ -1445,7 +1948,7 @@
   {
     "id": "recBkQVlmOqcxKt8t",
     "Question": " Can animals with no symptoms spread COVID?",
-    "Item status": "Published",
+    "Status": "Published",
     "Source of the question": [
       "Social Media"
     ],
@@ -1493,7 +1996,7 @@
   {
     "id": "recUvk0IltcWA8G8O",
     "Question": "Can face masks be shared? ",
-    "Item status": "Published",
+    "Status": "Published",
     "Subcategory": "On: COVID-19 and face masks",
     "Source of the question": [
       "Fact-checking organization"
@@ -1544,7 +2047,7 @@
   {
     "id": "recNc4mA4qLSS9LqG",
     "Question": "What does it mean to have a fever?",
-    "Item status": "Published",
+    "Status": "Published",
     "Source of the question": [
       "Newsroom"
     ],
@@ -1587,7 +2090,7 @@
   {
     "id": "recQoylvV8fLvS6xm",
     "Question": "What do we know about pre-symptomatic and asymptomatic transmissions?",
-    "Item status": "Published",
+    "Status": "Published",
     "Source of the question": [
       "Social Media"
     ],
@@ -1638,7 +2141,7 @@
   {
     "id": "rectAcElYXyyJvFjs",
     "Question": "What does it mean if the virus is reactivated?",
-    "Item status": "Published",
+    "Status": "Published",
     "Source of the question": [
       "Social Media"
     ],
@@ -1683,63 +2186,9 @@
     "Last modified": "2020-07-24"
   },
   {
-    "id": "recZ1uyhYuOzT4coz",
-    "Question": "Can disinfecting wipes be reused?",
-    "Item status": "Published",
-    "Category": "Transmission",
-    "Subcategory": "On: COVID-19 & disinfecting wipes",
-    "Source of the question": [
-      "Social Media"
-    ],
-    "Country question was sourced from": [
-      "Canada"
-    ],
-    "Background & context": "Current evidence suggests that SARS-CoV-2 may remain viable for hours to days on surfaces made from a variety of materials. Therefore, cleaning of visibly dirty surfaces followed by disinfection is a best practice measure for prevention of COVID-19 and other viral respiratory illnesses in households and community settings. In this context, disinfecting can be used to disinfect frequently touched surfaces (for example: tables, doorknobs, light switches, handles, desks, toilets, faucets, sinks, and electronics). Disinfecting wipes are usually are wet wipes commercially available and containing chemicals, for example, EPA-registered disinfectants, or alcohol-based wipes (minimum 70% of alcohol) to kill germs on surfaces. However, transmission of COVID-19 occurs much more commonly through respiratory droplets than through touching objects and surfaces, like doorknobs, countertops, keyboards, toys, etc. \n\n",
-    "What our experts say": "Disinfectant wipes should never be reused. Reusing wipes will move germs from one surface to another, which is potentially harmful in the current pandemic. In order for any surface to be properly disinfected, the U.S. CDC recommends following the instructions on each product carefully and leaving the disinfectant on the surface for 3-5 minutes. This means the surface needs to be wet for this period of time, and you may need to use more than one disinfectant wipe depending on the size of the surface. However, you should never reuse the same disinfectant wipe.\n",
-    "Glossary Terms": [
-      "recjGuHkvGujLMjV7",
-      "recMZLIWKC45HMVao"
-    ],
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "prevention",
-      "disinfectant",
-      "virus",
-      "transmission"
-    ],
-    "Other resources": "1. How To Clean and Disinfect Schools To Help Slow the Spread of Flu ([U.S. CDC][1]) \n2. Cleaning and Disinfection for Households ([U.S. CDC][2])\n\n  [1]: https://www.cdc.gov/flu/school/cleaning.htm\n  [2]: https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cleaning-disinfection.html\n",
-    "DB (French)": [
-      "recR1yoAIRcVB6ZmT"
-    ],
-    "DB (Hindi)": [
-      "recNZYf0Bkn6jUj8I",
-      "recPlCNtmjyjbvUsf"
-    ],
-    "In translated DBs?": "Yes",
-    "DB (Telugu)": [
-      "recqU3F5R4pEIhola"
-    ],
-    "Expert Database (Spanish)": [
-      "recJgwzToZG5wsVfM"
-    ],
-    "DB (Arabic)": [
-      "rec3AXuFRHCRKd6oB"
-    ],
-    "DB (Bengali)": [
-      "recrTT8P1sRAzjhmN"
-    ],
-    "DB (Portuguese)": [
-      "rec2Uu03Zm0wH1Vmn"
-    ],
-    "Last edited (simplified)": "2020-07-15T18:07:15.000Z",
-    "Last edited (experts say)": "2020-05-28T04:34:13.000Z",
-    "Last modified": "2020-07-24"
-  },
-  {
     "id": "recoUFwhHZm9niCaP",
     "Question": "Can COVID-19 be spread through money?",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "Transmission",
     "Subcategory": "On: COVID-19 & money",
     "Source of the question": [
@@ -1789,7 +2238,7 @@
   {
     "id": "recJdTUlHe5fd1cw1",
     "Question": "Why has Iceland had fewer deaths of COVID-19 than other countries?",
-    "Item status": "Published",
+    "Status": "Published",
     "Background & context": "Media reports suggest that Iceland successfully “beat” coronavirus or “eliminated” the case curve that many countries have been taking measures to flatten. Unlike many countries, early planning and preparedness was instituted to ensure that the country was able to track and trace anyone possibly exposed to an infected person. Iceland began preparing for COVID-19 before any cases had been reported in the country. By employing law enforcement officers, nurses, and a criminologist, the team was able to use their skills as detectives to track both people and the virus once the first case was identified. As cases increased, the tracing team also increased and included epidemiologists, physicians, and other health professionals; and the country expanded testing to the highest per-capita rate in the world. Though Iceland did not ever institute a lockdown, individuals who were exposed and infected had to quarantined and some types of business were closed (i.e. night clubs, hair salons).\n",
     "What our experts say": "Iceland, a country with 365,000 people has registered 10 deaths from COVID-19, prompting many analyses and news articles over its success in containing the pandemic. Iceland has a small population spread over a very large geography, with hundreds of miles of the Atlantic Ocean separating it from the rest of the Nordic region. This gives it a natural advantage in fighting an infectious disease like COVID-19 that spreads through people, and whose transmission increases exponentially in high density areas. \nIn addition, Iceland took very rapid decisions to respond to the virus on its territory and prevent infections transmission, as soon as they observed the pandemic unfolding in China and Europe, even before cases were registered in Iceland. Hospitals were testing people arriving from abroad for a month before the first confirmed case in Iceland, and a media campaign urged hand washing and social distancing. The country put early restrictions on nursing homes to protect vulnerable segments of the population, and also closed high schools and universities. When cases were declared in Iceland and increasing at a fast rate, Iceland implemented very rigorously the test-trace-isolate strategy of containing infectious diseases. All contacts of confirmed cases were located and ordered to quarantine themselves for 14 days. Their policy of testing and tracking to find and isolate infected people, was comprehensive as it was not limited only to people experiencing symptoms but also to asymptomatic people. Their extensive contact tracing effort relied on teams on a large number of people mobilized, including nurses, police officers and health care professionals. \nIceland was able to test such large numbers of people, thanks to a partnership with a private sector company named [deCODE Genetics][1], based in Reykjavik, Iceland.\n\n  [1]: https://www.decode.com/\n",
     "Other resources": "1. How Iceland Beat the Coronavirus ([The New Yorker][1])\n2. Research article: Spread of SARS-CoV-2 in the Icelandic Population ([NEJM][2])\n\n  [1]: https://www.newyorker.com/magazine/2020/06/08/how-iceland-beat-the-coronavirus\n  [2]: https://www.nejm.org/doi/10.1056/NEJMoa2006100\n",
@@ -1822,7 +2271,7 @@
   {
     "id": "recpt1R0CCrgLqFhO",
     "Question": "Is favipiravir effective in treating COVID-19?",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "Treatment",
     "Subcategory": "On: COVID-19 and treatment",
     "Source of the question": [
@@ -1874,7 +2323,7 @@
   {
     "id": "rec9IztunceMs1e9L",
     "Question": "What do we know about why COVID-19 impacts Black communities in the U.S. more aggressively than others?",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "Treatment, Cure, Prevention",
     "Subcategory": "On: COVID-19 & disparities",
     "Source of the question": [
@@ -1927,7 +2376,7 @@
   {
     "id": "rec7awl8Ed6xdZIiv",
     "Question": "Does Vitamin D help prevent or treat COVID-19?",
-    "Item status": "Published",
+    "Status": "Published",
     "Subcategory": "On: COVID-19 & Vitamin D",
     "Source of the question": [
       "Social Media"
@@ -1977,62 +2426,9 @@
     "Last modified": "2020-07-24"
   },
   {
-    "id": "recenUqXFNVYnafXz",
-    "Question": "How can I protect myself if I am attending a protest or mass gathering?",
-    "Item status": "Published",
-    "Subcategory": "On: COVID-19 & protests",
-    "Source of the question": [
-      "Social Media"
-    ],
-    "Country question was sourced from": [
-      "USA"
-    ],
-    "Background & context": "Protests and mass gatherings take place outdoors, which means in principle that the outdoor air can dilute the virus and reduce the risk of inhaling the virus with each breath. However, in practice, attending protests and mass gatherings still carry a significant risk of COVID-19 transmission. This is because when attending a protest it can be hard to practice social distancing (being 6 feet apart from one another) and that people can be speaking and shouting while standing close to one another, increasing the risk of transmission. In addition, tear gas and pepper spray are often used in protests to break up crowds. These can cause people to tear up and remove their masks to cough a lot, because of trouble breathing. These actions both increase respiratory secretions from the eyes, nose and mouth, further increasing the risk of COVID-19 transmission.\n",
-    "What our experts say": "Attending protests or mass gatherings can increase the risk of catching COVID-19 or spreading the disease. This is especially so given the large amount of people who are infected with COVID-19 but do not have any symptoms (pre-symptomatic and asymptomatic), and may feel well enough to attend a mass gathering like a protest or march. In this context, there are a few steps you can take to reduce the risk of COVID-19 transmission. These include first of all wearing a mask and trying to maintain a certain distance from other people at the protest - 6 feet (or 2 m) where possible. Additionally, wearing heat resistant gloves and eye protection (ex: sunglasses) is also recommended. Since yelling - even through a mask - can increase the spread of respiratory droplets due to the force that pushes them out, it is recommended to choose signs or drums (or similar noise makers) if you want to express a message. To prevent further spread of the virus, it is recommended to stick to a 'buddy group' when participating in protests to keep the number of close contacts low. In the event one person in the group is found to be infected with COVID-19, it will be easier to contact all the people who came into close contact with that person and take the recommended public health measures. Similarly, it is recommended for protesters to get tested if possible after taking part in protests. In the US, some states are offering free testing for protesters. Finally, make sure to carry hand sanitizer to disinfect your hands as much as needed and carry water to keep hydrated.\n\n\n",
-    "Glossary Terms": [
-      "rec2UNEXbTkSCx30Q",
-      "rec5yviiSvJkufYvu",
-      "recx2PeCcs1Awb9rG"
-    ],
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "protest",
-      "demonstration",
-      "protection",
-      "prevention"
-    ],
-    "Other resources": "1. Prevent Getting Sick ([U.S. CDC][1]) \n\n  [1]: https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/index.html\n",
-    "DB (French)": [
-      "recXxSw89QoFa83ZD"
-    ],
-    "DB (Hindi)": [
-      "recHFmRubql8a7rx7"
-    ],
-    "In translated DBs?": "Yes",
-    "DB (Telugu)": [
-      "recRw1nsGm7FPWjmb"
-    ],
-    "Expert Database (Spanish)": [
-      "recaSuhgdho6D7QgN"
-    ],
-    "DB (Arabic)": [
-      "recucVc2GZkSRS1pC"
-    ],
-    "DB (Bengali)": [
-      "recSvRQcQKzBGYcnO"
-    ],
-    "DB (Portuguese)": [
-      "rectwsIqOEIxOGQno"
-    ],
-    "Last edited (simplified)": "2020-06-11T23:13:43.000Z",
-    "Last edited (experts say)": "2020-06-17T15:45:00.000Z",
-    "Last modified": "2020-07-24"
-  },
-  {
     "id": "rec1KveB4FFU90Equ",
     "Question": "What do we know so far about COVID-19 losing its potency?",
-    "Item status": "Published",
+    "Status": "Published",
     "Subcategory": "On: COVID-19 & potency",
     "Source of the question": [
       "Newsroom"
@@ -2085,112 +2481,9 @@
     "Last modified": "2020-07-24"
   },
   {
-    "id": "rec1ozIUD6hRFzkYw",
-    "Question": "What do we know about Alum as an alternative for sanitizer?",
-    "Item status": "Published",
-    "Subcategory": "On: COVID-19 and sanitizers",
-    "Source of the question": [
-      "Newsroom"
-    ],
-    "Country question was sourced from": [
-      "USA"
-    ],
-    "Background & context": "To ensure the efficacy of disinfectants or cleaning agents, multiple tests need to be conducted to establish that the substance in question can kill multiple bacteria, virus and/or fungi. Alum has, in some studies, shown the ability to kill bacteria, but has not shown efficacy against enveloped viruses like COVID-19.\n",
-    "What our experts say": "Alum (also called potassium alum or aluminum potassium sulfate) has been widely used in cosmetics, pharmaceuticals, food, and even textiles, but it has not been tested against viruses. While alum has some antimicrobial and anti fungal properties, it has not been shown to be an effective alternative for sanitizer or disinfectants. It is possible that there might be research, in the future, regarding the use of alum as an anti-viral disinfectant and cleaner, but the current literature does not support its use as an alternative to those on the EPA List N disinfectants with claims against Emerging Viral Pathogens.\n",
-    "Glossary Terms": [
-      "recAFuzwLppTBDIPe"
-    ],
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "alum",
-      "disinfectants",
-      "cleaning"
-    ],
-    "Other resources": "1. Review of Alum and Sundry Application ([ACTA Scientific Microbiology][1])\n\n  [1]: https://actascientific.com/ASMI/pdf/ASMI-03-0553.pdf\n",
-    "DB (French)": [
-      "recPkJ5SuaRbWr2Z8"
-    ],
-    "DB (Hindi)": [
-      "reca8vJYJ5Hwjlo0O"
-    ],
-    "In translated DBs?": "Yes",
-    "DB (Telugu)": [
-      "recT82TX94rE65XFa"
-    ],
-    "Expert Database (Spanish)": [
-      "reccuvNLGZI5UguzM"
-    ],
-    "DB (Arabic)": [
-      "recwOWIx9HER81FIB"
-    ],
-    "DB (Bengali)": [
-      "recU7SmHjsTAX7QGN"
-    ],
-    "DB (Portuguese)": [
-      "recv8teVhm2w5PuGn"
-    ],
-    "Last edited (simplified)": "2020-06-03T20:30:03.000Z",
-    "Last edited (experts say)": "2020-06-03T20:28:42.000Z",
-    "Last modified": "2020-07-24"
-  },
-  {
-    "id": "recUakBDhgsxJwFic",
-    "Question": "Can cannabis prevent, treat or cure COVID-19?",
-    "Item status": "Published",
-    "Category": "Treatment, Cure, Prevention",
-    "Subcategory": "On: COVID-19 & cannabis",
-    "Source of the question": [
-      "Social Media"
-    ],
-    "Country question was sourced from": [
-      "Canada"
-    ],
-    "Background & context": "In recent years, there has been a significant interest in the development of therapies and other consumer products derived from cannabis and its components, including cannabidiol (CBD). The U.S. FDA has approved only one CBD product, a prescription drug product to treat two rare, severe forms of epilepsy. In the context of COVID-19, media reported the results of a preprint study indicating the possibility that cannabis could prevent COVID-19 by blocking the virus' entry into the lungs. This study has not gone through the peer review process, has not been assessed by peers, and has not published in any scientific journal. \n",
-    "What our experts say": "There is no reliable evidence so far to suggest that cannabis can prevent, treat or cure COVID-19. One pre-print (a type of study that is yet to be peer-reviewed) from Canada suggests possible anti-inflammatory properties in cannabis may be effective in future treatments of the disease. The study also suggests that cannabis could be used to prevent infection from the SARS-CoV-2 virus that causes COVID-19. SARS-CoV-2 gains entry into cells in the human body by interacting with the ACE2 receptor protein, which is found on the surface of many cells. This study suggests that cannabidiol (CBD), one of the active ingredients in cannabis, may affect the virus' ability to bind to the ACE2 receptor protein and enter cells. However, none of the claims in the pre-print study have been validated in large-scale studies, and pre-print data should always be treated with caution. \n\nAnother lab, in Israel, is studying the effects of cannabis on the immune system's response to COVID-19 and analyzing the potential for molecules in cannabis to prevent the virus from entering cells and spreading. This research, however, has been undertaken by a cannabis research and development company based in Israel, and not independently verified by other scientific studies that are not linked to the cannabis industry. At this point, there is insufficient independent research to make any claims about the use of cannabis in preventing, treating, or curing COVID-19.\n",
-    "Glossary Terms": [
-      "rec8sQHhdcKiEVR9f",
-      "recwkZVfZQxlVPfdW"
-    ],
-    "Variation of the answer depending on country of residence": "No\n\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n\n",
-    "Topics": [
-      "cannabis",
-      "treatment",
-      "prevention",
-      "marijuana"
-    ],
-    "Other resources": "1. Could cannabis terpene formulation treat COVID-19? ([Health Europa][1])\n2. Cannabidiol (CBD): what we know and what we don't ([Harvard][2])\n3. NIH Research on Marijuana and Cannabinoids ([National Institute on Drug Abuse][3])\n4. In Search of Preventative Strategies: Novel Anti-Inflammatory High-CBD Cannabis Sativa Extracts Modulate ACE2 Expression in COVID-19 Gateway Tissues ([Preprints][4])\n\n  [1]: https://www.healtheuropa.eu/cannabis-terpene-formulation-treat-covid-19/99586/\n  [2]: https://www.health.harvard.edu/blog/cannabidiol-cbd-what-we-know-and-what-we-dont-2018082414476\n  [3]: https://www.drugabuse.gov/drugs-abuse/marijuana/nih-research-marijuana-cannabinoids\n  [4]: https://www.preprints.org/manuscript/202004.0315/v1\n",
-    "DB (French)": [
-      "recqi3pOFpURsQnNr"
-    ],
-    "DB (Hindi)": [
-      "rec3F7UpkqC6pvtSM"
-    ],
-    "In translated DBs?": "Yes",
-    "DB (Telugu)": [
-      "rec8Ax1rNk6fkZPEU"
-    ],
-    "Expert Database (Spanish)": [
-      "recrW0VfkfnG8amyw"
-    ],
-    "DB (Arabic)": [
-      "recLgrQ1NXjsmVxHl"
-    ],
-    "DB (Bengali)": [
-      "rec9znubXIybb1IFx"
-    ],
-    "DB (Portuguese)": [
-      "recKAYmpVCH7jJmF7"
-    ],
-    "Last edited (simplified)": "2020-06-03T20:21:33.000Z",
-    "Last edited (experts say)": "2020-06-03T22:20:17.000Z",
-    "Last modified": "2020-07-24"
-  },
-  {
     "id": "reccgTQWarmDQ9sQ9",
     "Question": "Will recent protests lead to an outbreak or second wave of infections?",
-    "Item status": "Published",
+    "Status": "Published",
     "Subcategory": "On: COVID-19 & second wave of infections",
     "Source of the question": [
       "Social Media"
@@ -2240,7 +2533,7 @@
   {
     "id": "reco2uYADZHn5mpCd",
     "Question": "What do people mean when they refer to COVID-19 as being a blood vessel disease?",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "Symptoms",
     "Source of the question": [
       "Newsroom"
@@ -2292,7 +2585,7 @@
   {
     "id": "recTj4FeSoGfkue5a",
     "Question": "Can tear gas help spread COVID-19?",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "Transmission",
     "Subcategory": "On: COVID-19 & tear gas",
     "Source of the question": [
@@ -2443,7 +2736,7 @@
   {
     "id": "recty8XEu0TS4nJuj",
     "Question": "Why has India reported a significant surge in cases of COVID-19?",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "Transmission",
     "Subcategory": "On: COVID-19 & transmission",
     "Source of the question": [
@@ -2615,7 +2908,7 @@
   {
     "id": "recp0leXTiAvzw4cH",
     "Question": "Can we trust antibody tests to tell who has been infected and who hasn't?",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "Testing",
     "Subcategory": "On: COVID-19 & antibody tests",
     "Source of the question": [
@@ -2670,7 +2963,7 @@
   {
     "id": "recbwOwl3dwdrh1iY",
     "Question": "Why does COVID-19 make some people sick for months?",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "Symptoms",
     "Source of the question": [
       "Social Media"
@@ -2720,7 +3013,7 @@
   {
     "id": "recRIjHM0TPx23tcU",
     "Question": "Can we use sewage water to detect COVID-19 in a community?",
-    "Item status": "Published",
+    "Status": "Published",
     "Subcategory": "On: COVID-19 & waste water",
     "Source of the question": [
       "Newsroom"
@@ -2772,7 +3065,7 @@
   {
     "id": "rec7DJ38UBOLWSnqC",
     "Question": "Why don't we know what animal COVID-19 came from?",
-    "Item status": "Published",
+    "Status": "Published",
     "Subcategory": "On: COVID-19 & animal origins",
     "Source of the question": [
       "Social Media"
@@ -2822,7 +3115,7 @@
   {
     "id": "recbw6ac5kq8tsDHY",
     "Question": "How are migrant laborers in India being impacted by the COVID-19 pandemic?",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "Transmission",
     "Subcategory": "On: COVID-19 & migration",
     "Source of the question": [
@@ -2997,7 +3290,7 @@
   {
     "id": "recUpPiSLjtZ01GPP",
     "Question": "What do we know about camphora 1m and arsenic album 30 — homoeopathic immunity boosters — that are being recommended as a treatment in India?",
-    "Item status": "Published",
+    "Status": "Published",
     "Subcategory": "On: COVID-19 & immunity boosters",
     "Source of the question": [
       "Newsroom"
@@ -3050,7 +3343,7 @@
   {
     "id": "recTXvz6ulqo2CENE",
     "Question": "Why are we repurposing old drugs to fight new diseases, and what might be the implications for COVID-19?",
-    "Item status": "Published",
+    "Status": "Published",
     "Source of the question": [
       "Newsroom"
     ],
@@ -3220,7 +3513,7 @@
   {
     "id": "recESQ72kwFjyWXWi",
     "Question": "What do we know about the use of the drug avifavir to treat COVID-19?",
-    "Item status": "Published",
+    "Status": "Published",
     "Subcategory": "On: COVID-19 & avifavir",
     "Source of the question": [
       "Social Media"
@@ -3269,7 +3562,7 @@
   {
     "id": "rec4vIYYUif72tS5C",
     "Question": "Why are scientists warning about an increase in zoonotic diseases impacting humans?",
-    "Item status": "Published",
+    "Status": "Published",
     "Source of the question": [
       "Social Media"
     ],
@@ -3416,7 +3709,7 @@
   {
     "id": "rec5mweIOKMurWcRK",
     "Question": "What kind of impact can COVID-19 have on blood and circulation?",
-    "Item status": "Published",
+    "Status": "Published",
     "Source of the question": [
       "Newsroom"
     ],
@@ -3462,135 +3755,9 @@
     "Last modified": "2020-07-24"
   },
   {
-    "id": "recFGva1N4EIOvcyA",
-    "Question": "Are there ayurveda cures for COVID-19? ",
-    "Item status": "Published",
-    "Category": "Treatment",
-    "Subcategory": "On: COVID-19 & Ayurveda",
-    "Source of the question": [
-      "Newsroom"
-    ],
-    "Country question was sourced from": [
-      "India"
-    ],
-    "Background & context": "Ayurveda is one of the world's oldest systems of traditional medicine. Since there is no approved treatment for COVID-19 yet, many people are turning to alternative or traditional medicine for answers. The Chief Executive Officer (CEO) of a major manufacturer of herbal products, Patanjali,  has claimed that the company has found an Ayurvedic cure for COVID-19. Patanjali claims that COVID-19 patients showed a 100% recovery rate when administered the Ayurvedic medicine known as 'Coronil,' which is comprised of a mixture of Tulsi, Giloy, and Ashwagandha. It is unclear whether this was a randomized controlled trial, and the company has claimed it conducted a clinical case study with \"hundreds of positive patients,\" which showed \"100 percent favorable results.\" The clinical trials were claimed to have been conducted in two cities in India after securing regulatory approval last week. According to the press release, COVID-19 patients who were administered Ayurvedic medicine recovered in 2-14 days and tested negative for the virus, but no data has been released to the public yet.\n",
-    "What our experts say": "Ayurveda is ancient Indian medical system that focuses on natural, holistic approaches to physical and mental health. Currently, there is no evidence to indicate that Ayurvedic medicine cures or prevents COVID-19. Similar claims for Ayurvedic cures have been made in the past for other infectious diseases with no known cure, such as HIV/AIDS, without any reliable evidence. Such bold claims should always be treated with caution. \nIn this particular case, the CEO of a major manufacturer of herbal products has claimed to have produced an Ayurvedic cure without providing any independent data to support these claims. While the company claims to have tested hundreds of patients in a \"clinical case study\" which showed a 100% recovery rate, it is unclear whether any control group was included or whether the design of the study was strong enough to substantiate such claims. In addition, the company stated that all patients tested negative for the virus within 5-14 days after receiving the Ayurvedic medicine, but it is unclear how long each patient had the virus or were symptomatic. \nThe study also falsely claimed that Ayurvedic medicine is a cure for COVID-19 without disclosing how many patients were included in their research and how they can be sure that patients would not have tested negative naturally once the immune system fought off the infection over time. Ayurvedic medicine may be a helpful complement to Western medicine, and may not actively cause harm in some cases, but it should not be consumed as a cure for COVID-19. Instead, traditional prevention measures such as wearing masks and social distancing, should be followed to prevent infections.\n",
-    "Glossary Terms": [
-      "rec5OdFSvwX0mLrxy"
-    ],
-    "Variation of the answer depending on country of residence": "No\t\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "Ayurveda",
-      "traditional medicine",
-      "treatment",
-      "cure"
-    ],
-    "Other resources": "1. Ayurveda ([Hopkins medicine][1]) \n2. Coronil for COVID-19: Patanjali claims its Ayurvedic medicine can cure coronavirus infection ([Times Now][2]) \n3. Ayurvedic Medicine: In Depth ([NIH][3]) \n\n  [1]: https://www.hopkinsmedicine.org/health/wellness-and-prevention/ayurveda\n  [2]: https://www.timesnownews.com/health/article/coronil-for-covid-19-patanjali-claims-its-ayurveda-medicine-can-cure-coronavirus-infection/606723\n  [3]: https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth\n",
-    "DB (French)": [
-      "rec7BYjKbOXXPXqji"
-    ],
-    "DB (Hindi)": [
-      "reclmbP3IRmRL4CmJ"
-    ],
-    "Media": [
-      {
-        "id": "att62bYKFoaB1kBPt",
-        "url": "https://dl.airtable.com/.attachments/bb06b0e6ff2f8b62c90814acb2e515bb/d35064a0/Slide1.png",
-        "filename": "Slide 1.png",
-        "size": 138326,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/a9b5d03f2ba880dfbea94f9b99d77850/5f6ee3db",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/a60adf097c1192766da816b5abbc3781/66782b39",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/e639ac8039c79f3aab34bcd8ed0254ec/d935cb2c",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "attOOrFAKoxf7doBG",
-        "url": "https://dl.airtable.com/.attachments/7789c0bf7b802efea872ff85512c7448/20e6271b/Slide2.png",
-        "filename": "Slide 2.png",
-        "size": 202113,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/314263ffd7ffc4b121e02d88224355a0/775a9627",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/89d3039a0b75bd94a9959829efc2aba5/63ba5964",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/cbaab4a9ae8cc04c7d7e60a994d28e40/457a3cbb",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "attjafIc54Fim6jnC",
-        "url": "https://dl.airtable.com/.attachments/4963c046ec77b616abea74ae9a28985a/aed4ddd2/Slide3.png",
-        "filename": "Slide 3.png",
-        "size": 209233,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/ee62da37be828760312321b8f2950005/5942f3bb",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/b4a47bcb533a6eb50bc9401932af5d15/76009618",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/92eff96d58b9cfa5b2095eb12bcf8c84/7e37f50b",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ],
-    "In translated DBs?": "Yes",
-    "DB (Telugu)": [
-      "receIVMKgezSttngc"
-    ],
-    "Expert Database (Spanish)": [
-      "recx4oGyN9QjhEUaO"
-    ],
-    "DB (Arabic)": [
-      "recRoPBkgRM5vp5jD"
-    ],
-    "DB (Bengali)": [
-      "recfHLfuqC1OkvghP"
-    ],
-    "DB (Portuguese)": [
-      "recQIm7IowaKsdUhp"
-    ],
-    "Last edited (simplified)": "2020-07-20T17:46:48.000Z",
-    "Last edited (experts say)": "2020-06-22T14:33:37.000Z",
-    "Last modified": "2020-07-24"
-  },
-  {
     "id": "rec2BhpwmJG6sqPaK",
     "Question": "Does COVID-19 impact men worse than women?",
-    "Item status": "Published",
+    "Status": "Published",
     "Source of the question": [
       "Newsroom"
     ],
@@ -3637,7 +3804,7 @@
   {
     "id": "rec5CB2EhWwQ6bTAh",
     "Question": "What is COVID-19 delirium?",
-    "Item status": "Published",
+    "Status": "Published",
     "Source of the question": [
       "Social Media"
     ],
@@ -3807,7 +3974,7 @@
   {
     "id": "rec74MaH5G2VOowuC",
     "Question": "Why are health experts worried about other infectious disease outbreaks right now? ",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "Transmission",
     "Subcategory": "On: COVID-19 & infectious disease outbreaks",
     "Source of the question": [
@@ -3859,7 +4026,7 @@
   {
     "id": "reciHqvo2ldywmQrQ",
     "Question": "Could the oral polio vaccine be a solution for Covid-19?",
-    "Item status": "Published",
+    "Status": "Published",
     "Source of the question": [
       "Newsroom"
     ],
@@ -3908,7 +4075,7 @@
   {
     "id": "recSPXr3HPZ8WQcyO",
     "Question": "What do we know so far about dexamethasone as a potential treatment for COVID-19?",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "Treatment",
     "Subcategory": "On: COVID-19 and dexamethasone",
     "Source of the question": [
@@ -4059,7 +4226,7 @@
   {
     "id": "recFNFFgJEbL489Op",
     "Question": "What are dual treatments and are there any available for COVID-19 right now?",
-    "Item status": "Published",
+    "Status": "Published",
     "Source of the question": [
       "Newsroom"
     ],
@@ -4106,7 +4273,7 @@
   {
     "id": "recfFhB5k7C0pSTyr",
     "Question": "How does COVID-19 differ from malaria?",
-    "Item status": "Published",
+    "Status": "Published",
     "Source of the question": [
       "Social Media"
     ],
@@ -4154,7 +4321,7 @@
   {
     "id": "recYJj2fg6IEXFncp",
     "Question": "How effective are Remdesivir and Favipiravir and can they be taken without medical supervision? ",
-    "Item status": "Published",
+    "Status": "Published",
     "Source of the question": [
       "Social Media"
     ],
@@ -4201,7 +4368,7 @@
   {
     "id": "recNhNi9YMJidUo7K",
     "Question": "How soon can we have a COVID-19 vaccine? ",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "Prevention",
     "Subcategory": "On COVID-19 & vaccines",
     "Source of the question": [
@@ -4376,7 +4543,7 @@
   {
     "id": "recUpmaDPvAJXmrvJ",
     "Question": "Why are Brazil's cases surging right now?",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "Transmission",
     "Subcategory": "On: COVID-19 & Brazil",
     "Source of the question": [
@@ -4549,7 +4716,7 @@
   {
     "id": "recAyLjodHbPpG1dA",
     "Question": "Why are meat and pork plants having so many outbreaks?",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "Transmission",
     "Subcategory": "On: COVID-19 & meat processing plants",
     "Source of the question": [
@@ -4601,7 +4768,7 @@
   {
     "id": "recdSj2U4jms12Bhy",
     "Question": "Can the coronavirus spread when we flush the toilet?",
-    "Item status": "Published",
+    "Status": "Published",
     "Source of the question": [
       "Social Media"
     ],
@@ -4649,7 +4816,7 @@
   {
     "id": "recZElAZYPfbc4Pa3",
     "Question": "Is it safe to wear a mask?",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "Prevention",
     "Subcategory": "On: COVID-19 & masks",
     "Source of the question": [
@@ -4702,7 +4869,7 @@
   {
     "id": "rec8zcMD0iZGhQTje",
     "Question": "How reliable are temperature checks for re-opening businesses?",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "Prevention",
     "Subcategory": "On: COVID-19 & business reopenings",
     "Source of the question": [
@@ -4755,7 +4922,7 @@
   {
     "id": "rec2r563GIPIaxuGS",
     "Question": "How are llamas being used to fight COVID-19?",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "Treatment",
     "Subcategory": "On: COVID-19 & llamas",
     "Source of the question": [
@@ -4807,7 +4974,7 @@
   {
     "id": "recxA4c1KoE4AtNMa",
     "Question": "What do we know so far about COVID-19 and alkalinity?",
-    "Item status": "Published",
+    "Status": "Published",
     "Source of the question": [
       "Social Media"
     ],
@@ -4955,7 +5122,7 @@
   {
     "id": "recGc8EkSPcnV1kkW",
     "Question": "Can traditional Chinese medicine like rhodiola or forsythia help treat COVID-19?",
-    "Item status": "Published",
+    "Status": "Published",
     "Source of the question": [
       "Social Media"
     ],
@@ -5002,7 +5169,7 @@
   {
     "id": "recDVXuo3vURm7OFU",
     "Question": "Can you explain how the COVID-19 test using tears works?",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "Testing",
     "Subcategory": "On: COVID-19 & Testing",
     "Source of the question": [
@@ -5059,7 +5226,7 @@
   {
     "id": "recu8mvHonrGr57Z6",
     "Question": "Do digital thermometers kill neurons or damage the brain when a person's temperature is getting checked?",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "Symptoms",
     "Subcategory": "On: COVID-19 & digital thermometers",
     "Source of the question": [
@@ -5185,7 +5352,7 @@
   {
     "id": "recisKOQNAShlHmql",
     "Question": "What are the many benefits of testing?",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "Testing",
     "Subcategory": "On: COVID-19 & testing",
     "Source of the question": [
@@ -5382,7 +5549,7 @@
   {
     "id": "recLb3N3jf8NIqfhK",
     "Question": "How effective is it to use only a face shield to protect from COVID-19?",
-    "Item status": "Published",
+    "Status": "Published",
     "Source of the question": [
       "Social Media"
     ],
@@ -5431,7 +5598,7 @@
   {
     "id": "reciWQ04Q5wcSF1Zr",
     "Question": "Can drinking alcohol prevent or cure COVID-19?\n",
-    "Item status": "Published",
+    "Status": "Published",
     "Source of the question": [
       "Social Media"
     ],
@@ -5480,7 +5647,7 @@
   {
     "id": "rec6CUlk7DgaOFxkC",
     "Question": "Is ivermectin a proven treatment for COVID-19?",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "On: COVID-19 & ivermectin",
     "Source of the question": [
       "Partner Organization"
@@ -5531,7 +5698,7 @@
   {
     "id": "recQKR1FPhzdFFvZO",
     "Question": "What is pool testing and why is it being used?",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "On: COVID-19 & pool testing",
     "Source of the question": [
       "Social Media"
@@ -5582,7 +5749,7 @@
   {
     "id": "recuRBvIUfjcJfEOX",
     "Question": "What do we know about the new strain of this virus that is more infectious than the first strains?",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "On: COVID-19 & viral mutations",
     "Source of the question": [
       "Social Media"
@@ -5639,7 +5806,7 @@
   {
     "id": "recpqhWtstGhdaZXy",
     "Question": "Are any of the following foods or drinks, alone or in combination with other, effective in treating or curing COVID-19: turmeric, lemon, pineapple, onion, blackseed oil, honey, garlic, tea, ginger, zinc, or selenium?",
-    "Item status": "Published",
+    "Status": "Published",
     "Background & context": "There are many fruits, vegetables, herbs, and dietary supplements that have been promoted as preventive therapies or cures for COVID-19. While _some _of these nutrition-based therapies have theoretical links to scientific research, based on previously conducted cellular studies, animal studies, or human studies, there is not significant scientific evidence on their impacts against SARS-CoV-2, the virus that causes COVID-19. The [World Health Organization][1] (WHO) and other health authorities have continually denounced these reports because there is no current scientific evidence suggesting that specific foods or dietary supplements prevent, treat, or cure COVID-19. \n\nIt is important to be aware of possible interactions between medications and some dietary supplements, and there are known risks that accompany supplement use for some patients (i.e, pregnant or lactating women, patients with kidney or liver disease). Some supplement products have been found to not have the components that are advertised on the product packaging, and may contain varied doses, or may contain other contaminants (i.e. heavy metals, pesticides) or additives.\n\n**Turmeric:** The primary active compound in Turmeric, curcumin, has been extensively studied for its anti-inflammatory and antimicrobial properties. In spite of its potential and successes in laboratory-based tests, most clinical trials in humans** **have not shown an effect, and more studies are needed to determine if or when curcumin may benefit people. Curcumin has not been studied in patients with COVID-19, though clinical trials have been proposed. The World Health Organization has a [specific statement][2] on their website suggesting that there is no current scientific evidence that turmeric prevents COVID-19. There is also no scientific evidence that turmeric can successfully treat or cure COVID-19.\n\n**Lemon:** Lemon is a great source of vitamin C and can be part of a healthy diet. The World Health Organization has a [specific statement][2] on their website suggesting that there is no current scientific evidence that lemon prevents COVID-19. There is also no scientific evidence that lemon can successfully treat or cure COVID-19.\n\n**Pineapple:** A variety of fruits (pineapple, mango, durian, and others) all may be included in a well-balanced diet to promote general health and well-being. The World Health Organization has a [specific statement][2] on their website suggesting that there is no current scientific evidence that these and other fruits prevent COVID-19. There is also no scientific evidence that fruits can successfully treat or cure COVID-19.\n\n**Onion:** As a member of the same family as garlic, onions are also known to have some antimicrobial and anti-inflammatory qualities, but studies are limited. To date, there are no studies that evaluate onions as a therapy for COVID-19, and there is no scientific evidence to suggest that onions will prevent, treat, or cure COVID-19.\n\n**Blackseed Oil**: (also called Nigella sativa) Black seed (or Nigella sativa) is used as a medicinal plant around the world and has been reportedly used to treat a variety of conditions from influenza to diabetes, inflammation to cough or fever. To date, black seed oil and its compounds have not been studied as a possible treatment or cure against COVID-19 in cell studies, animal studies, or human studies, though the idea has been proposed. Currently, there is no scientific evidence to suggest that black see oil will prevent, treat, or cure COVID-19.\n\n**Honey:** Honey may have some wound healing and antibacterial properties, but much of the published research focuses on topical (skin) application, which doesn't apply to COVID-19 because the virus is an internal infection. While it can be part of a healthy diet, honey is a source of sugar, and leading health organizations recommend limiting dietary sugar intake. Health experts have suggested that products like ginger, tea, or honey may make us feel better when we are sick, but that does not mean that these items cure or treat disease. There is also no scientific evidence that honey can successfully treat or cure COVID-19.\n\n**Garlic:** Garlic is a healthy food that may have some antimicrobial and anti-tumor properties, though study results are often mixed and there are limitations, gaps, and shortcomings in the published evidence. While it has been widely studied in preparations as a supplement, extract, and food, there is currently no evidence that garlic will prevent or treat COVID-19. The World Health Organization has a [specific statement][3] on their website suggesting that “there is no evidence from the current outbreak that eating garlic has protected people from the new coronavirus.” There is also no scientific evidence that garlic can successfully treat or cure COVID-19.\n\n**Tea:** Some teas may have health benefits, but evidence is limited because of difficulty studying the possible effect of tea alone. Health experts have suggested that products like ginger, tea, or honey may make us feel better when we are sick, but that does not mean that these items cure or treat disease. There is no scientific evidence to suggest that tea will prevent, treat, or cure COVID-19.\n\n**Ginger:** As a supplement, ginger is most commonly prescribed to help with nausea. Health experts have suggested that products like ginger, tea, or honey may make us feel better when we are sick, but that does not mean that these items cure or treat disease. There is no scientific evidence to suggest that ginger will prevent, treat, or cure COVID-19.\n\n**Zinc:** Zinc is a mineral that is used throughout the body and is needed for a healthy immune system. While zinc is available in many foods, use of zinc supplements has been shown to be helpful for wound healing and may shorten the duration of colds and acute diarrhea. Use of zinc should be guided by healthcare providers, since there are known side effects that may result from incorrect dosing. In addition, long-term zinc use is known to cause copper deficiency and is not recommended. There are clinical trials registered to study zinc (often in combinations with other vitamins, minerals, or medications) as a therapy for patients with COVID-19, but results are not available yet. While there are many scientists and health professionals that believe zinc may be a helpful therapy for COVID-19 based on its known benefits with other conditions, there is not enough scientific evidence to suggest that zinc supplementation will prevent, treat, or cure COVID-19.\n\n**Selenium:** Selenium is a mineral has many functions in the body; like other minerals, it is needed for a healthy immune system. Selenium is available in many foods and is also available in supplement form. Most selenium studies to date have focused on thyroid disease, cancer, and cardiovascular disease. Recently, there are scientific papers that have been published as “Letters to the Editor” and similar that suggest that selenium may be beneficial, but these papers are largely observational, have many limitations, and have not gone through the rigorous peer-review process to validate the research methods and claims made. Without further validation, they should be interpreted very cautiously. At present, there is not enough scientific evidence to suggest that selenium supplementation will prevent, treat, or cure COVID-19.\n\n  [1]: https://www.who.int/campaigns/connecting-the-world-to-combat-coronavirus/healthyathome/healthyathome---healthy-diet\n  [2]: https://www.who.int/southeastasia/outbreaks-and-emergencies/novel-coronavirus-2019/fact-or-fiction\n  [3]: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters\n",
     "What our experts say": "While a varied and balanced diet including fruits and vegetables does help to support the immune system in general, there is no evidence to suggest that special diets, consumption of particular foods, or taking vitamin, mineral, or herbal supplements will prevent, treat or cure COVID-19. \n\nFor information about the attributed of specific foods or drinks, please see the '**Background & Context**' section for this question.\n",
     "Other resources": "1. #HealthyatHome: Helath Diet, 2020 ([WHO][1])\n2. Coronavirus disease (COVID-19) advice for the public: Mythbusters ([WHO][2])\n3. Fact or Fiction: Novel Coronavirus 2019 ([WHO][3])\n4. Garlic: a review of potential therapeutic effects, 2014 ([Avicenna J Phytomed][4])\n5. Anti-infective Properties of the Golden Spice Curcumin, 2019 ([Front Microbiol][5])\n6. Curcumin as a potential treatment for COVID-19, Letter to the Editor, 2020 ([Phytotherapy Research][6])\n7. Turmeric, 2020 ([NIH NCCIH][7])\n8. Tea, 2020 ([NIH NCCIH][8])\n9. Ginger, 2020 ([NIH NCCIH][9])\n10. Safe use of complementary health products and practices, 2020 ([NIH NCCIH][10])\n11. Dietary Supplements, 2020 ([Merck Manual][11])\n12. About Herbs, Botanicals, & Other Products ([Memorial Sloan Kettering Cancer Center][12])\n13. Molecular docking, simulation and MM-PBSA studies of nigella sativa compounds: a computational quest to identify potential natural antiviral for COVID-19 treatment, 2020 ([J Biomol Struct Dyn][13])\n14. Zinc, 2020 ([NIH][14])\n15. Association between regional selenium status and reported outcome of COVID-19 cases in China, 2020 ([AJCN][15])\n16. Selenium, 2020 ([NIH][16])\n\n  [1]: https://www.who.int/campaigns/connecting-the-world-to-combat-coronavirus/healthyathome/healthyathome---healthy-diet\n  [2]: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters\n  [3]: https://www.who.int/southeastasia/outbreaks-and-emergencies/novel-coronavirus-2019/fact-or-fiction\n  [4]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4103721/\n  [5]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6509173/\n  [6]: https://onlinelibrary.wiley.com/doi/epdf/10.1002/ptr.6745\n  [7]: https://www.nccih.nih.gov/health/turmeric\n  [8]: https://www.nccih.nih.gov/health/tea\n  [9]: https://www.nccih.nih.gov/health/ginger\n  [10]: https://www.nccih.nih.gov/health/safety\n  [11]: https://www.merckmanuals.com/professional/special-subjects/dietary-supplements\n  [12]: https://www.mskcc.org/cancer-care/diagnosis-treatment/symptom-management/integrative-medicine/herbs\n  [13]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7298883/\n  [14]: https://ods.od.nih.gov/factsheets/Zinc-HealthProfessional/\n  [15]: https://academic.oup.com/ajcn/article/111/6/1297/5826147\n  [16]: https://ods.od.nih.gov/factsheets/Selenium-HealthProfessional/\n",
@@ -5672,7 +5839,7 @@
   {
     "id": "recZ4lv0SN8LMlFvF",
     "Question": "Is a high dosage of paracetamol effective in treating or curing COVID-19?",
-    "Item status": "Published",
+    "Status": "Published",
     "Background & context": "Paracetamol is an analgesic (pain reliever) that can address minor to moderate cases of aches, pains, and fever. A common brand name of Acetaminophen is Tylenol. Acetaminophen is often confused with ibuprofen, another pain reliever that is commonly referred to as Advil, one of the commercial brands of ibuprofen. The main difference between the two is that ibuprofen has anti-inflammatory effects, making it a non-steroidal anti-inflammatory drug (NSAID) whereas acetaminophen does not, and therefore is not considered an NSAID.\n\nConfusion between the two was exacerbated in the context of COVID-19 following a tweet in mid-March by France’s Minister of Solidarity and Health, which claimed that taking anti-inflammatory drugs (such as Advil) could contribute to worsening a COVID-19 infection, and that acetaminophen (such as Tylenol) should be taken instead. The WHO initially took a similar position, recommending that ibuprofen be avoided for treating symptoms of COVID-19, but changed their stance on March 19 to say that they do not recommend avoiding ibuprofen to treat COVID-19 symptoms. Though there is no strong evidence that ibuprofen worsens COVID-19 symptoms, some public health bodies such as UK's National Health Service only recommend taking acetaminophen for COVID-19 symptoms.\n\nAccording to the U.S. National Institute of Diabetes and Digestive and Kidney Diseases, the daily _maximum_ oral dose for adults is 3 grams per day though other sources (including the Merck Manual) suggest that up to 4 grams per day is generally well tolerated in healthy adults. Paracetamol can be toxic to the liver in high doses or when used in combination with alcohol, some other medications, or for patients with existing liver or kidney problems, those who are malnourished or underweight, or those of advanced age. It is important to follow packaging instructions carefully when taking this or any over the counter medications, and a medical professional should be consulted for additional, personalized guidance.\n\n\n",
     "What our experts say": "Paracetamol can help relieve symptoms associated with COVID-19, but it cannot cure the viral infection.\n\nParacetamol, also known as acetaminophen, is a medication commonly used for mild to moderate pain and aches relief, and fever reduction. Since some people infected with COVID-19 experience fever, body aches and headaches, this drug has been prescribed to relieve those symptoms. Paracetamol can provide some relief for patients with these symptoms, but it is not a cure against COVID-19.\n\nParacetamol made news headlines early in the pandemic because some governments, including the United Kingdom and France, and the World Health Organization encouraged people with COVID-19 to take paracetamol rather than ibuprofen – another drug used to help manage symptoms like fever, headache, or body aches. At the time, there were concerns about a link between ibuprofen and other drugs that could be prescribed to COVID-19 patients (such as non-steroidal anti-inflammatory (NSAID) drugs) that could lead to an increased risk for illness or for worsening of COVID-19 symptoms. As the pandemic evolved, the WHO changed their stance on March 19 2020 to say that they do not recommend avoiding ibuprofen to treat COVID-19 symptoms. \n\nWhile paracetamol is routinely used to relieve COVID-19 symptoms, it is important to strictly respect the dosage prescribed as stated on the medication bottle. The dosage of paracetamol for adults is 1-2 500 milligram tablets up to four times in 24 hours, with at least four hours in between doses. Any higher amount can be dangerous and is not advised.\n",
     "Glossary Terms": [
@@ -5708,7 +5875,7 @@
   {
     "id": "recgfRiqVgG4lMH4w",
     "Question": "What do we know so far about the ability of asymptomatic people to transmit the virus?",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "On: COVID-19 & asymptomatic carriers",
     "Source of the question": [
       "Newsroom"
@@ -5757,7 +5924,7 @@
   {
     "id": "recAvJuac1TZ49MjL",
     "Question": "If COVID-19 is transmitted via airborne particles, how might testing change?",
-    "Item status": "Published",
+    "Status": "Published",
     "Source of the question": [
       "Social Media"
     ],
@@ -5808,7 +5975,7 @@
   {
     "id": "recrralIEXZlkGqd5",
     "Question": "How easily does COVID-19 spread from contaminated surfaces or animals?",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "Transmission",
     "Subcategory": "On: COVID-19 & contaminated surfaces",
     "Source of the question": [
@@ -5934,7 +6101,7 @@
   {
     "id": "rec73GJFaUH4wDGkr",
     "Question": "Why are smell tests being proposed over temperature checks at workplaces?",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "Testing",
     "Subcategory": "On: COVID-19 & smell tests",
     "Source of the question": [
@@ -6109,7 +6276,7 @@
   {
     "id": "recm3J9EyzMDr8Diz",
     "Question": "Is it true that India's Bharat Biotech is not too far away from finding a vaccine for COVID-19 as they have now been approved for human trials?",
-    "Item status": "Published",
+    "Status": "Published",
     "Source of the question": [
       "Partner Organization"
     ],
@@ -6158,7 +6325,7 @@
   {
     "id": "receKnYroVO0B9I3X",
     "Question": "What do we know so far about nebulizer-inhaled steroids as a treatment or cure for COVID-19?",
-    "Item status": "Published",
+    "Status": "Published",
     "Subcategory": "Steroid",
     "Source of the question": [
       "Partner Organization"
@@ -6210,7 +6377,7 @@
   {
     "id": "recXUQjiQ2yaPXyxo",
     "Question": "What do we know so far about airborne transmission and how does it differ from respiratory droplet transmission? ",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "Transmission",
     "Subcategory": "Differences between airborne transmission and respiratory droplets",
     "Background & context": "Respiratory droplet transmission happens when disease spreads through droplets expelled by an infected person, through coughing, sneezing, talking, or even just breathing; these droplets are larger than 5-10 micrometers. One micrometer is one millionth of a meter. Respiratory droplets are _relatively_ heavy, and fall to the ground quickly. In contrast, airborne transmission is when residue from droplets smaller than 5 micrometers, or dust particles carrying the virus, stay suspended in the air for longer and disperse farther by air currents. Scientists and the World Health Organization (WHO) have recognized that evidence is emerging on the possibility of airborne transmission, particularly in \"crowded, closed, poorly ventilated settings.\" If airborne transmission of COVID-19 is significant, this has major implications for containment efforts (ex. masks may be needed indoors and in socially-distant settings, ventilation systems may need to minimize recirculating air and find ways to filter or disinfect contaminated air, etc.). \n",
@@ -6408,7 +6575,7 @@
   {
     "id": "recC2wUIEcU6WPCCA",
     "Question": "Is there a specific process through which COVID-19 enters the body? Does COVID-19 first enter through the throat before it \"destroys\" the lungs?",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "Transmission",
     "Subcategory": "On: COVID-19 & lungs",
     "Source of the question": [
@@ -6462,7 +6629,7 @@
   {
     "id": "recz1YK8aca1AExY3",
     "Question": "What do we know about the inflammatory syndrome impacting children with COVID-19?",
-    "Item status": "Published",
+    "Status": "Published",
     "Background & context": "The U.S. Centers for Disease Control and Prevention (U.S. CDC) warns that risks of severe COVID-19 illness tend to increase with age, with people over 85 being at highest risk for hospitalization, intensive care, ventilation, and potentially death. Tragically, the lives of young people, including children, have also been lost during the COVID-19 pandemic. More evidence is emerging on how some young patients develop severe symptoms and complications related to COVID-19. Multisystem inflammatory syndrome in children (MIS-C) is a serious and potentially fatal condition in young people, which can appear similar to Kawasaki's disease. In mid-May 2020, the U.S. CDC asked doctors across the country to look out for MIS-C cases. In June 2020, another two studies found over 300 children with MIS-C in the United States, which was reported widely in the media. Researchers around the world continue to study why some children are seriously affected by COVID-19 when the majority of young people have had relatively mild cases.\n",
     "What our experts say": "The majority of young people infected have had relatively mild cases of COVID-19. However, the U.S. Centers for Disease Control (U.S. CDC) recently identified the more severe multisystem inflammatory syndrome in children (MIS-C) as a new syndrome associated with the virus that causes COVID-19. This inflammatory syndrome was first identified in April 2020 and is characterized by inflammation in different body parts, including the heart, lungs, kidneys, brain, skin, eyes, or gastrointestinal organs. While MIS-C is rare, it can be deadly. Symptoms in children include fever, abdominal (gut) pain, vomiting, diarrhea, neck pain, rash, bloodshot eyes, or fatigue. This is a newly identified condition that requires more research, but doctors have observed that symptoms can develop within four weeks of exposure to the novel coronavirus. The inflammation can be managed with medicines that can prevent damage to vital organs. MIS-C occurs in young people under 21, according to its case definition, although it is thought to mostly affect children between the ages of 2 to 15 and is not commonly reported in babies. The U.S. CDC recommends immediately contacting a doctor if your child exhibits any of the symptoms of the inflammatory syndrome. We still do not know why some children experience symptoms, while others do not, and it is unclear if children with particular health conditions are more likely to get MIS-C. At this point, the best prevention measures include taking all precautions to avoid contracting the novel coronavirus, including hand washing, social distancing, avoiding public gatherings, and wearing masks.\n",
     "Other resources": "1. Multisystem Inflammatory Syndrome ([U.S. CDC][1])\n2. For Parents: Multisystem Inflammatory Syndrome in Children (MIS-C) associated with COVID-19 ([U.S. CDC][2])\n3. MIS-C and COVID-19: Rare Inflammatory Syndrome in Kids and Teens ([Hopkins Medicine][3])\n4. Multisystem Inflammatory Syndrome in U.S. Children and Adolescents ([NEJM][4])\n5. Multisystem Inflammatory Syndrome in Children in New York State ([NEJM)][5]\n6. Researchers report nearly 300 cases of inflammatory syndrome tied to Covid-19 in kids ([STAT News][6])\n\n  [1]: https://www.cdc.gov/mis-c/index.html\n  [2]: https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/children/mis-c.html\n  [3]: https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/misc-and-covid19-rare-inflammatory-syndrome-in-kids-and-teens\n  [4]: http://Multisystem Inflammatory Syndrome in U.S. Children and Adolescents\n  [5]: https://www.nejm.org/doi/full/10.1056/NEJMoa2021756\n  [6]: https://www.statnews.com/2020/06/29/nejm-inflammation-children-covid19-misc/\n",
@@ -6495,7 +6662,7 @@
   {
     "id": "recFi8qUxcrBhBeb9",
     "Question": "What does it mean for COVID-19 to impact the brain?",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "Symptoms",
     "Subcategory": "On: COVID-19 & the brain",
     "Background & context": "COVID-19 has been linked to a series of health complications beyond respiratory failure, including neurological complications that can potentially damage the brain. Recently, news has been circulating about how SARS-CoV-2, the virus that causes COVID-19, has been associated with many different neurological syndromes, including nerve damage, delirium, and stroke. While the condition is not very common, doctors are currently looking at data from individual patients from around the world to assess how it has impacted patients.\n\nThese neurological complications have also been reported during previous epidemics, such as the Severe Acute Respiratory Syndrome (SARS) epidemic in 2003 and the Middle East Respiratory Syndrome (MERS) outbreak more recently in 2012.\n",
@@ -6543,7 +6710,7 @@
   {
     "id": "reclucIrtcCSCbOn6",
     "Question": "Is the Russian vaccine a successful cure for COVID-19? ",
-    "Item status": "Published",
+    "Status": "Published",
     "Source of the question": [
       "Fact-checking organization"
     ],
@@ -6589,7 +6756,7 @@
   {
     "id": "reci5KRmNIo5UfFt5",
     "Question": "What are human challenge trials for vaccines?",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "Prevention",
     "Subcategory": "On: COVID-19 & vaccines",
     "Source of the question": [
@@ -6641,7 +6808,7 @@
   {
     "id": "recmlODv0JQ3RSw7c",
     "Question": "If there is no cure for COVID-19, what are people getting treated for in hospitals?",
-    "Item status": "Published",
+    "Status": "Published",
     "Background & context": "People who are admitted to the hospital need care that cannot be provided at home or in a clinic—whether or not there is a cure or specific treatment for their illness. While hospitalized patients may have had surgery to fix a broken bone, or may be given medicines to cure a bacterial infection or kill cancer cells, other therapies are given to patients to help them feel better even though they cannot cure the illness that actually causes their symptoms. For example, supportive care may include things like oxygen or special inhaled medications to help patients breathe better, fluids given intravenously to prevent or treat dehydration, or medications to decrease inflammation or fever. All of these therapies are commonly used in the hospital, but they are not designed to cure a patient of an infection, cancer, or other condition.\n",
     "What our experts say": "People with severe COVID-19 illness often require medical care due to the symptoms they experience, like trouble breathing, chest pressure, fatigue, etc. While there is no specific treatment or cure for COVID-19, as it is a new viral infection, people are receiving supportive treatment to help them recover, though some people eventually die as a result of the virus. Supportive treatment is treatment that helps to alleviate the symptoms caused by an illness but can't actually cure the illness itself. Supportive care gives symptoms relief while the infection naturally subsides over time, at which point the symptoms diminish greatly and patients can go back home. Examples of this include giving oxygen to a patient, injecting steroids to reduce inflammation, giving ventilation to help them breathe, and other necessary medical interventions that do not stop the virus but do treat the more severe symptoms.\n",
     "Glossary Terms": [
@@ -6677,7 +6844,7 @@
   {
     "id": "recP2wUhfv8fzchxH",
     "Question": "What is the best measure (cases, deaths or hospitalizations) for measuring the level of infection in a community?",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "Transmission",
     "Subcategory": "On: COVID-19 & epidemiology",
     "Background & context": "There are many numbers and statistical values that are commonly in the news to show how well countries are doing at managing the COVID-19 pandemic. Some countries are reporting very high numbers of infected people (cases) and some are reporting very high numbers of deaths. \n\nIf we were to compare two groups (Group A and Group B) that each had 1,000 deaths, at a glance, the numbers may appear similar.  If we were to find out, however, that Group A had 10,000 people with the virus and 1,000 died, that would mean that 10% of those infected in the population had died. If Group B had 100,000 people with the virus and 1,000 died, that would mean that 1% of those infected in the population had died.  The difference between Group A and Group B is much more significant when viewed this way; the patients in Group A were far more likely to die than those in Group B.\n\nThough there is scientific evidence that suggests that older people or those with existing medical conditions like diabetes, obesity, and high blood pressure are at higher risk of becoming infected and seriously ill from COVID-19, genetics, dietary habits, and other factors may play an important role. True susceptibility to the virus is challenging to measure. Not everyone who is exposed to the virus becomes infected, and not everyone who is infected develops symptoms. \n",
@@ -6724,7 +6891,7 @@
   {
     "id": "rech4v50JJeU3kcVw",
     "Question": "Are children less susceptible to contracting the novel coronavirus?",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "Transmission",
     "Subcategory": "On: COVID-19 & children",
     "Background & context": "As many countries struggle to determine if or when it may be safe to reopen schools, childcare centers, and playgrounds, researchers and scientists are still evaluating how likely children are to become ill from COVID-19 and how likely they are to spread the virus amongst one another, to other family members, or more broadly in the community. While current scientific evidence suggests that children are less likely to become as sick as adults, children are still able to become ill, may require hospitalization, and may die as a result of COVID-19. It is not clear why children are less likely than adults to become ill, but experts generally believe that differences are related to immunity - the body's natural defense mechanism whose function is to help fight infections.\n\nIf children do become infected with COVID-19, they may still spread the virus to parents or other adults at home, teachers at school, or other adults that they come into contact with in the community (i.e. churches, stores, social events). Children infected with the virus tend to have mild, cold-like symptoms (if they have symptoms at all), which caregivers may not recognize as COVID-19. In addition, they may not wash their hands enough or correctly, may not practice social distancing, may touch their faces often, and may not wear masks correctly (if they are over two years old and are able to wear masks). \n\nWhile scientific evidence does suggest that children with COVID-19 are less likely to become seriously ill than adults, experts argue that children alone cannot be considered when determining if or when it may be safe to open schools, childcare centers, and playgrounds. Ensuring safety for children, families, caregivers, teachers, and the community is important as scientists, doctors, and policy-makers consider further plans to respond to and plan for the next phases of the pandemic.\n",
@@ -6771,7 +6938,7 @@
   {
     "id": "recXb3N5IK5AseYsP",
     "Question": "What does the science say about COVID-19 on surfaces?",
-    "Item status": "Published",
+    "Status": "Published",
     "Category": "Tranmission",
     "Subcategory": "On: COVID-19 & surfaces",
     "Source of the question": [

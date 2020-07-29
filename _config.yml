@@ -103,14 +103,14 @@ page_gen:
     template: 'entry-fr'
     name: 'Question'
     dir: '/fr/questions'
-    filter: 'Item status'
-    filter_condition: record['Item status'] == 'Published'
+    filter: 'Status'
+    filter_condition: record['Status'] == 'Published'
   - data: 'covid19.questions-hi'
     template: 'entry-hi'
     name: 'id'
     dir: '/hi/questions'
-    filter: 'Item status'
-    filter_condition: record['Item status'] == 'Published'
+    filter: 'Status'
+    filter_condition: record['Status'] == 'Published'
 
 
 # Algolia search
