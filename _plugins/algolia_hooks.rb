@@ -35,6 +35,21 @@ module Jekyll
         record.delete(:tags)
         record.delete(:'Last edited (simplified)')
         record.delete(:'Last edited (experts say)')
+        record.delete(:'EN What our experts say')
+        record.delete(:'EN Background and context')
+        record.delete(:'EN Background & context')
+        record.delete(:'EN Glossary')
+        record.delete(:'EN Other resources')
+        record.delete(:'EN Variation of the answer depending on country of residence')
+        record.delete(:'EN Source of the question')
+        record.delete(:'EN Country question was sourced from')
+        record.delete(:'EN Does this answer vary depending on your race, 
+        ethnicity, age, sex or other demographic factors?')
+        record.delete(:'EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?')
+        record.delete(:'EN Subcategory')
+        record.delete(:'EN Category')
+        record.delete(:'EN Question')
+        record.delete(:'EN Topics')
 
         # Do not send homepage
         return nil if record[:url] == '/'

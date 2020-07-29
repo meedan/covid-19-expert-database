@@ -2,7 +2,7 @@
   {
     "id": "rec6vNnYlTtVahGRO",
     "Term": "usage compassionnel",
-    "Definition": "Le terme \"usage compassionnel\" se réfère à l'utilisation de traitements expérimentaux pouvant potentiellement sauver la vie de patients souffrant d'une maladie pour laquelle aucun traitement autorisé satisfaisant n’existe et/ou qui ne peuvent participer à un essai clinique. Pour de nombreux patients ces traitements représentent leur dernier espoir de guérison.\n",
+    "Definition": "Le terme « usage compassionnel » réfère à l’utilisation de traitements expérimentaux pouvant potentiellement sauver la vie de patients souffrant d’une maladie pour laquelle aucun traitement autorisé satisfaisant n’existe ou qui ne peuvent pas participer à un essai clinique. Pour de nombreux patients, ces traitements représentent leur dernier espoir de guérison.\n",
     "Status": "Published",
     "EN Term": [
       "recsuWy4EfRZwvcmh"
@@ -10,12 +10,12 @@
     "EN Definition": [
       "According to the U.S. National Institutes of Health, compassionate use - also called 'expanded access' - is a way to provide an investigational therapy to a patient who is not eligible to receive that therapy in a clinical trial, but who has a serious or life-threatening illness for which other treatments are not available. Compassionate use allows patients to receive promising but not yet fully studied or approved cancer therapies when no other treatment option exists. Also called expanded access."
     ],
-    "Last Modified": "2020-05-27T20:59:15.000Z"
+    "Last Modified": "2020-07-29T14:40:40.000Z"
   },
   {
     "id": "rec5NviyR1bKlIVTa",
     "Term": "incubation",
-    "Definition": "Selon l'Organisation mondiale de la santé, la période d'incubation est le temps qui s'écoule entre l'exposition au virus (infection) et l'apparition des symptômes.\n",
+    "Definition": "Selon l’Organisation mondiale de la santé, la période d’incubation est le temps qui s’écoule entre l’exposition au virus (infection) et l’apparition des symptômes.\n",
     "Status": "Published",
     "Questions using this term": [
       "reccy9EmiOk9SlhJ7"
@@ -26,12 +26,12 @@
     "EN Definition": [
       "According to the World Health Organization, the incubation period is the time between exposure to the virus (becoming infected) and symptom onset."
     ],
-    "Last Modified": "2020-05-27T20:59:17.000Z"
+    "Last Modified": "2020-07-29T14:41:17.000Z"
   },
   {
     "id": "recdwSm7f3It0F5Eq",
     "Term": "asymptomatique",
-    "Definition": "Les infections asymptomatiques surviennent lorsqu'une personne est infectée par une maladie mais ne présente pas de symptômes pendant la durée de son infection.\n",
+    "Definition": "Les infections asymptomatiques surviennent quand une personne est infectée par une maladie, mais ne présente aucun symptôme durant son infection.\n",
     "Status": "Published",
     "Questions using this term": [
       "reccy9EmiOk9SlhJ7"
@@ -42,12 +42,12 @@
     "EN Definition": [
       "Asymptomatic infections occur when a person is infected with an illness but does not have symptoms during the duration of their infection."
     ],
-    "Last Modified": "2020-05-27T21:10:32.000Z"
+    "Last Modified": "2020-07-29T14:42:17.000Z"
   },
   {
     "id": "rec4IrZTOe3lpz98t",
     "Term": "présymptomatique",
-    "Definition": "Les infections présymptomatiques se produisent lorsqu'une personne est infectée mais ne présente pas encore les symptômes d'une maladie. Il peut y avoir un décalage de quelques jours entre le moment où une personne est infectée et celui où elle commence à présenter des symptômes. \n",
+    "Definition": "Les infections présymptomatiques se produisent quand une personne est infectée, mais ne présente pas encore les symptômes d’une maladie. Il peut y avoir un décalage de quelques jours entre le moment où une personne est infectée et celui où elle commence à présenter des symptômes. \n",
     "Status": "Published",
     "Questions using this term": [
       "reccy9EmiOk9SlhJ7"
@@ -58,12 +58,12 @@
     "EN Definition": [
       "Pre-symptomatic infections occur when a person is infected but does not yet display symptoms of an illness or disease. There can be a lag of a few days between the moment a person is infected and when they start experiencing symptoms. "
     ],
-    "Last Modified": "2020-05-27T20:59:23.000Z"
+    "Last Modified": "2020-07-29T14:46:18.000Z"
   },
   {
     "id": "recxD9dPlL1W8DCs2",
     "Term": "transmission",
-    "Definition": "Selon les Centres pour le contrôle et la prévention des maladies des États-Unis, la transmission fait référence à la façon dont les germes sont déplacés d'une personne infectée à une autre personne auparavant non infectée. Les germes ne se déplacent pas d'eux-mêmes. Les germes dépendent des personnes, de l'environnement et/ou de l'équipement médical (dans les établissements de soins) pour se déplacer. \n\n\n",
+    "Definition": "Selon les Centres pour le contrôle et la prévention des maladies des États-Unis, la transmission référence à la façon dont les germes sont déplacés d'une personne infectée à une autre personne auparavant non infectée. Les germes ne se déplacent pas d'eux-mêmes. Les germes dépendent des personnes, de l'environnement et/ou de l'équipement médical (dans les établissements de soins) pour se déplacer. \n\n\n",
     "Status": "Published",
     "Questions using this term": [
       "reccy9EmiOk9SlhJ7",
@@ -75,7 +75,7 @@
     "EN Definition": [
       "According to the U.S. Centers for Disease Control, transmission refers to the way germs are moved towards a non-infected person. Germs don’t move themselves. Germs depend on people, the environment, and/or medical equipment (in healthcare settings) to move. "
     ],
-    "Last Modified": "2020-05-27T20:59:55.000Z"
+    "Last Modified": "2020-07-29T14:46:41.000Z"
   },
   {
     "id": "recN1KGOfbDmvsGiU",
@@ -254,22 +254,6 @@
     "Last Modified": "2020-05-27T21:03:00.000Z"
   },
   {
-    "id": "recHFrxN3qEXqWTDa",
-    "Term": "gouttelette",
-    "Definition": " Les gouttelettes provenant des voies respiratoires sont produites quand une personne tousse, éternue ou parle. Ces gouttelettes sont généralement lourdes et parcourent moins de deux mètres avant de tomber sur le sol. Ces gouttelettes contiennent de minuscules parties d'un virus (particules)et peuvent transmettre des infections lorsqu’elles viennent en contact avec les yeux, le nez ou la bouche d’une autre personne. \nCes gouttelettes peuvent aussi propager des maladies entre les personnes lorsqu'une personne touche une surface sur laquelle une gouttelette respiratoire a atterri, puis touche ses yeux, sa bouche, son nez ou une autre partie de son corps. \nContrairement aux agents pathogènes aérosols, les gouttelettes respiratoires sont de plus grande taille, ne se déplacent pas aussi loin et ne restent pas longtemps dans l'air. La plupart des maladies respiratoires sont propagées par les gouttelettes respiratoires. \n\n",
-    "Status": "Published",
-    "Questions using this term": [
-      "recrYDVoINSZiwvJh"
-    ],
-    "EN Term": [
-      "rec5yviiSvJkufYvu"
-    ],
-    "EN Definition": [
-      "Respiratory droplets are small drops of a liquid, usually water, that are produced from humans sneezing, coughing, talking, breathing, singing, yawning, or even just breathing, that fall to the ground and surfaces over several minutes and travel over a short range: up to 2 feet (60 cm). These droplets contain tiny parts of a virus (particles), so they can spread illnesses between people when someone touches a surface that a respiratory droplet has landed on and then touches their eyes, mouth, or nose or other body part. Unlike aerosolized pathogens, respiratory droplets are larger in size at over 5-10μm (hence being referred to also as 'large droplets'), don't travel as far, and don't remain in the air for long periods of time. Most respiratory illnesses are spread by respiratory droplets. \n"
-    ],
-    "Last Modified": "2020-05-27T21:02:59.000Z"
-  },
-  {
     "id": "recH0gr95OweWQ1ng",
     "Term": "germes",
     "Definition": "Selon les Centres pour le contrôle et la prévention des maladies des États-Unis, les germes font partie de la vie quotidienne et se trouvent dans l'air, le sol, l'eau, ainsi qu'à l'extérieur et à l'intérieur de notre corps. Certains germes sont utiles, d'autres sont nuisibles. De nombreux germes vivent à l'extérieur et à l'intérieur de notre corps sans causer de dommages et certains nous aident même à rester en bonne santé. Seule une petite partie des germes est connue pour provoquer des infections. Les germes sont également connus sous le nom d'agents infectieux et désignent un virus, une bactérie ou un autre microbe.\n",
@@ -287,7 +271,7 @@
   },
   {
     "id": "recgshltWbnQ59A6k",
-    "Term": "Transmission aérienne",
+    "Term": "transmission aérienne",
     "Definition": "La transmission aérienne se produit quand des particules infectieuses provenant des voies respiratoires d’une personne qui tousse, éternue ou parle sont transportées par des courants d’air et se déplacent sur de longues distances. Ces particules sont très petites et restent en suspension dans l’air. Elles peuvent être inhalées par une autre personne. Ce mode de transmission est peu fréquent. À titre d’exemple, c’est le mode impliqué dans la transmission de la tuberculose, la rougeole, etc. \n",
     "Status": "Published",
     "EN Term": [
@@ -296,7 +280,7 @@
     "EN Definition": [
       "Aerosol transmission or airborne transmission occurs when tiny drops of a germ or infectious agent (droplet nuclei, or evaporated residues from droplets expelled by an infected person) that can cause a disease (pathogen) stay in the air for some time after someone coughs, sneezes, talks, vomits, sings, laughs, or exhales and these drops become a fine mist (aerosolized). These small particles, known as aerosols, can travel sizable distances even though they may not be visible to the human eye. Airborne transmission can also sometimes occur from dust particles carrying the virus.\n\nWhen another person comes into contact with contaminated aerosolized mist, they become exposed to the pathogen hanging in the air as well. Unlike respiratory droplets, aerosolized pathogens are mostly dry, light, very small (under 5μm); these smaller particles can stay suspended in the air for longer and be dispersed farther by air currents, traveling short and long distances as they remain in the air. Some medical and cleaning procedures can also cause aerosol transmission of a pathogen like flushing toilets or putting a tube into a patient's throat to help them breathe."
     ],
-    "Last Modified": "2020-05-27T21:02:52.000Z"
+    "Last Modified": "2020-07-29T15:51:19.000Z"
   },
   {
     "id": "recAvIYWiEsqWpO9E",
