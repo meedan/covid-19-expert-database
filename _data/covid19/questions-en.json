@@ -1,5 +1,200 @@
 [
   {
+    "id": "recbwOwl3dwdrh1iY",
+    "Question": "Why does COVID-19 make some people sick for months?",
+    "Status": "Published",
+    "Category": "Symptoms",
+    "Source of the question": [
+      "Social Media"
+    ],
+    "Country question was sourced from": [
+      "USA",
+      "United Kingdom"
+    ],
+    "Background and context": "COVID-19 has been shown to have varying effects on different individuals, including symptoms and secondary health effects. This range of outcomes makes it difficult to know the estimate length of impact COVID-19 might have on an individual. One example of a secondary outcome is [myalgic encephalomyelitis/chronic fatigue syndrome][1] (ME/CFS) — a long-term reappearance of symptoms — clusters of which have followed many infectious outbreaks. Increased data and corresponding analysis will help to provide more empirical evidence on how long COVID-19 adversely impacts individuals, what symptoms are most prevalent, and what secondary outcomes are most common. \n\n  [1]: https://www.cdc.gov/me-cfs/index.html\n",
+    "What our experts say": "Because the COVID-19 virus is new, we still don't know why some people might become sick longer than others—but we do know that people infected with COVID-19 who have severe symptoms tend to have symptoms for longer than those with mild cases. \n\nDifferences in immune responses, including lower levels of antibody production, can impact how long patients remain sick with COVID-19. COVID-19 can impact many organs, which might help explain why the virus can cause symptoms that continue over a longer period of time in some patients. Akiko Iwasaki, a Yale immunology doctor, believes some potential reasons the virus lasts longer in some patients is because the virus might remain in one of the organs that is not tested by nasal swabs; that non-living parts of the virus can still cause your immune system to overreact like the virus is still alive and reproducing in your body when it isn't really doing that; and the virus might not be present in your body any longer, but your immune system is stuck in the state of fighting it off. \n\nAdditionally, after becoming infected with different viruses, your body can take a while to heal. So even if you don't have the virus anymore, you may continue coughing and not be able to breathe as well as you normally do, since your throat and lungs have yet to fully heal and recover.\n\nCurrently, the majority of patients infected with COVID-19 have symptoms for several days - 6 weeks.\n\n\n",
+    "Glossary Terms": [
+      "recqwr4O57SOjNZYx"
+    ],
+    "Variation of the answer depending on country of residence": "No\t\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\t\n",
+    "Topics": [
+      "symptoms"
+    ],
+    "Other resources": "1. Clinical Questions about COVID-19: Questions and Answers ([U.S. CDC][1])\n2. Interim Clinical Guidance for Management of Patients with Confirmed Coronavirus Disease (COVID-19) ([U.S. CDC][2]) \n3. COVID-19 and Multiorgan Response ([CPC][3]) \n4. Coronavirus disease (COVID-19) outbreak ([WHO][4]) \n5. COVID-19 Can Last for Several Months ([The Atlantic][5]) \n6. Researchers warn covid-19 could cause debilitating long-term illness in some patients ([Washington Post][6]) \n7. A woman says she's had 8 positive coronavirus tests in 50 days. How long can it really take to recover? ([CBS News][7]) \n8. Clearance and persistence of SARS‐CoV‐2 RNA in patients with COVID‐19 ([Journal of Medical Virology][8])\n\n  [1]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/faq.html\n  [2]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance-management-patients.html\n  [3]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7187881/\n  [4]: https://www.who.int/health-topics/coronavirus#tab=tab_2\n  [5]: https://www.theatlantic.com/health/archive/2020/06/covid-19-coronavirus-longterm-symptoms-months/612679/\n  [6]: https://www.washingtonpost.com/health/could-covid-19-cause-long-term-chronic-fatigue-and-illness-in-some-patients/2020/05/29/bcd5edb2-a02c-11ea-b5c9-570a91917d8d_story.html\n  [7]: https://www.cbsnews.com/news/coronavirus-symptoms-8-positive-tests-50-days/\n  [8]: https://www.researchgate.net/profile/Analia_Carmo2/publication/341834349_Clearance_and_Persistence_of_SARS-CoV-2_RNA_in_COVID-19_patients/links/5eeddc0f299bf1faac6657b7/Clearance-and-Persistence-of-SARS-CoV-2-RNA-in-COVID-19-patients.pdf\n",
+    "How often revision needed": "Every 2 weeks for accuracy re: length of illness w/ symptoms from WHO; official reasons it can make people sick for months",
+    "DB (French)": [
+      "rec4cOu2yhlycFpKZ"
+    ],
+    "DB (Hindi)": [
+      "recRqKZW3vHx1CRAV"
+    ],
+    "In translated DBs?": "Yes",
+    "DB (Telugu)": [
+      "recrywZhw8D1DwgC3"
+    ],
+    "DB (Spanish)": [
+      "recKUZT533UsrHNwF"
+    ],
+    "DB (Arabic)": [
+      "rec4eqORwLQeFsYFu"
+    ],
+    "DB (Bengali)": [
+      "recsxms1Gw5Xuy9DG"
+    ],
+    "DB (Portuguese)": [
+      "rec3yXkfEqeTCgNDg"
+    ],
+    "Last edited (simplified)": "2020-07-06T20:37:14.000Z",
+    "Last edited (experts say)": "2020-07-30T22:07:04.000Z",
+    "Last modified": "2020-07-30"
+  },
+  {
+    "id": "recUvk0IltcWA8G8O",
+    "Question": "Can face masks be shared? ",
+    "Status": "Published",
+    "Subcategory": "On: COVID-19 and face masks",
+    "Source of the question": [
+      "Fact-checking organization"
+    ],
+    "Country question was sourced from": [
+      "Nigeria"
+    ],
+    "Background and context": "Personal protective equipment (PPE) should be single-person use and not shared between people unless it is able to be disinfected, like facehsields or goggles. Masks become contaminated during use and pose a risk if shared between people. The only exception to this would be if a fabric mask is appropriately washed and dried in a dryer (high temp) between uses. \n",
+    "What our experts say": "No. Personal protective equipment that cannot be disinfected, like a cloth or surgical mask, should not be shared between people. Over time, these masks become dirty and have wear and tear. Since masks come into contact with our mouth and nose, they easily become contaminated and should not be shared. \n",
+    "Glossary Terms": [
+      "reclKahoPRbBLqUKg"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "face masks",
+      "prevention",
+      "respiratory droplets",
+      "aerosol"
+    ],
+    "Other resources": "1. N95 Respirators, Surgical Masks, and Face Masks ([U.S. FDA][1]) \n\n  [1]: https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/n95-respirators-surgical-masks-and-face-masks\n",
+    "DB (French)": [
+      "recBbIwmcDGuUcsGR"
+    ],
+    "DB (Hindi)": [
+      "recjqzoOLEwA1mSPs"
+    ],
+    "In translated DBs?": "Yes",
+    "DB (Telugu)": [
+      "recH8Jl9RdNSvbVE0"
+    ],
+    "DB (Spanish)": [
+      "rec0ucfXo84jjmsyC"
+    ],
+    "DB (Arabic)": [
+      "reckODaJRQ05x7DHr"
+    ],
+    "DB (Bengali)": [
+      "recI7zOT1BfOmdOFD"
+    ],
+    "DB (Portuguese)": [
+      "recj8aG7ZvoKuVsFd"
+    ],
+    "Last edited (simplified)": "2020-06-04T20:55:29.000Z",
+    "Last edited (experts say)": "2020-06-04T20:53:58.000Z",
+    "Last modified": "2020-07-30"
+  },
+  {
+    "id": "rechQWZ1ctlJ81Vxn",
+    "Question": "What does the scientific literature say about using hydroxychloroquine to prevent, treat or cure COVID-19?",
+    "Status": "Published",
+    "Category": "Treatment",
+    "Subcategory": "On: COVID-19 & hydroxychloroquine",
+    "Source of the question": [
+      "Social Media"
+    ],
+    "Country question was sourced from": [
+      "India"
+    ],
+    "Background and context": "Hydroxycloroquine is a medication currently prescribed for preventing or treating malaria, an infectious disease that can be transmitted to humans from mosquitos. It is also prescribed as a treatment for rheumatoid arthritis and lupus, which are both autoimmune diseases.\nWhen faced with an unknown virus like COVID-19 and without a specific vaccine and treatment, one of the best medical strategies is to look among the medications already available and clinically tested to see if any of them are effective. As their risks, benefits, and side effects have already been studied (without allowing safety tests to be ignored), this could speed up research. One of these is hydroxychloroquine. \nWhen trying to find treatments for COVID-19, hydroxychloroquine was tested on hospitalized patients. However, the results from this research do not represent evidence significant enough to recommend hydroxychloroquine for treating COVID-19. At the same time, some research studies have also shown some serious negative consequences (incl. serious heart rhythm problems) associated with the use of hydroxychloroquine in the treatment of COVID-19. More studies are underway.\n\n",
+    "What our experts say": "Ongoing clinical trials are testing how safe and effective chloroquine and hydroxychloroquine are as treatments for COVID-19. So far, clinical trials and scientific analyses have not produced high quality evidence showing efficacy of these medications as a treatment, and some studies have even reported higher rates of adverse events (including cardiac issues) in hospitalized patients treated with hydroxychloroquine. As things stand, hydroxychloroquine is not a recognized prevention, treatment or cure for COVID-19.\nIn this context, there are research studies underway to find out whether taking this medication can prevent people from getting infected with coronavirus once they have been exposed. Other studies are still investigating the efficacy and safety of the drug as a treatment at different stages of the illness, including randomized controlled trials with a large number of patients enrolled.\nAround the world, some countries have moved ahead and authorized chloroquine or hydroxychloroquine for the treatment of COVID-19 despite limited clinical evidence supporting its efficacy. This decision follows some preliminary results coming out of China and France in March 2020, where a few small clinical trials showed limited success of the medication.\nIn the Unites States, on March 27th 2020, the Food and Drug Administration (FDA) has granted a special permission (Emergency Authorization Use) to use chloroquine and hydroxychloroquine in emergency situations for treatment of COVID-19. This did not constitute a formal approval of the drug, but rather a possibility given to American doctors to use chloroquine and hydroxychloroquine in the treatment of COVID-19 if the doctor has no other options and after discussing with the patients the risks involved. On June 15th 2020, the U.S. FDA has revoked the special permission to use chloroquine and hydroxychloroquine in emergency situations for COVID-19 citing that these drugs are unlikely to be effective in treating COVID-19 and highlighting serious cardiac adverse events and other serious side effects reported in studies.\n",
+    "Glossary Terms": [
+      "recM4p8QOERmuESKr",
+      "recAiJYWSxD5F1Lz1",
+      "recJ1c8DQQVGmXfzM",
+      "recjILnexcCRlyBIb"
+    ],
+    "Variation of the answer depending on country of residence": "Yes - some countries have included chloroquine and hydroxychloroquine in their treatment protocol despite the fact that the World Health Organization has not recognized it as a treatment as they await further clinical trial results.\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "prevention",
+      "treatment",
+      "cure",
+      "hydroxychloroquine"
+    ],
+    "Other resources": "1. FDA revokes the emergency use authorization for chloroquine and hydroxychloroquine ([U.S. FDA][1])\n2. FDA cautions against the use of hydroxychloroquine or chloroquine for COVID-19 outside of the hospital setting or a clinical trial due to a risk of heart rhythm problems ([U.S. FDA][2])\n3. Research paper: Hydroxychloroquine in patients with mainly mild to moderate coronavirus disease 2019: open label, randomised controlled trial ([BMJ][3])\n4. Hydroxychloroquine with or without Azithromycin in Mild-to-Moderate Covid-19 ([NEJM][4])\n5. Hydroxychloroquine use against SARS-CoV-2 infection in non-human primates ([Nature][5])\n6. Investigational therapeutics for patients with COVID-19 ([U.S. CDC][6]) \n7. Research Update: Hydroxychloroquine in Nonhospitalized Adults With Early COVID-19 ([AIM][7])\n8. Trial update: Effect of Hydroxychloroquine in Hospitalized Patients with COVID-19: Preliminary results from a multi-centre, randomized, controlled trial. ([medRxiv][8])\n9. Trial update: No clinical benefit from use of hydroxychloroquine in hospitalized patients with COVID-19 ([Recovery Trial][9])\n10. Information about \"compassionate use\" ([U.S. FDA][10]) \n11. Research paper: A Randomized Trial of Hydroxychloroquine as Postexposure Prophylaxis for Covid-19 ([NEJM][11])\n12. Hydroxychloroquine or Chloroquine for Treatment or Prophylaxis of COVID-19: A Living Systematic Review ([AIM][12])\n13. Research paper: Hydroxychloroquine in patients with mainly mild to moderate coronavirus disease 2019: open label, randomised controlled trial ([BMJ][3])\n14. Research paper: Association of Treatment With Hydroxychloroquine or Azithromycin With In-Hospital Mortality in Patients With COVID-19 in New York State ([JAMA][13])\n15. Research paper: Observational Study of Hydroxychloroquine in Hospitalized Patients with Covid-19 ([NEJM][14])\n\n\n  [1]: https://www.fda.gov/emergency-preparedness-and-response/mcm-legal-regulatory-and-policy-framework/emergency-use-authorization#coviddrugs\n  [2]: https://www.fda.gov/drugs/drug-safety-and-availability/fda-cautions-against-use-hydroxychloroquine-or-chloroquine-covid-19-outside-hospital-setting-or\n  [3]: https://www.bmj.com/content/369/bmj.m1849\n  [4]: https://www.nejm.org/doi/full/10.1056/NEJMoa2019014?query=featured_home\n  [5]: https://www.nature.com/articles/s41586-020-2558-4?utm_source=twitter&utm_medium=social&utm_content=organic&utm_campaign=NGMT_USG_JC01_GL_Nature\n  [6]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/therapeutic-options.html\n  [7]: https://www.acpjournals.org/doi/10.7326/M20-4207\n  [8]: https://www.medrxiv.org/content/10.1101/2020.07.15.20151852v1\n  [9]: https://www.recoverytrial.net/news/statement-from-the-chief-investigators-of-the-randomised-evaluation-of-covid-19-therapy-recovery-trial-on-hydroxychloroquine-5-june-2020-no-clinical-benefit-from-use-of-hydroxychloroquine-in-hospitalised-patients-with-covid-19\n  [10]: https://www.fda.gov/news-events/public-health-focus/expanded-access\n  [11]: https://www.nejm.org/doi/full/10.1056/NEJMoa2016638?query=featured_home\n  [12]: https://www.acpjournals.org/doi/10.7326/M20-2496\n  [13]: https://jamanetwork.com/journals/jama/fullarticle/2766117\n  [14]: https://www.nejm.org/doi/full/10.1056/NEJMoa2012410\n",
+    "DB (French)": [
+      "recAj0TYj97UNUWtk"
+    ],
+    "DB (Hindi)": [
+      "recTMwxdfhiFP6PdB"
+    ],
+    "In translated DBs?": "Yes",
+    "DB (Telugu)": [
+      "recN5EPDGr3rmysv8"
+    ],
+    "DB (Spanish)": [
+      "rec6r7JrdmkSaJZpK"
+    ],
+    "DB (Bengali)": [
+      "recO4uinQPvndAlwL"
+    ],
+    "DB (Portuguese)": [
+      "recp55aBOJEjliZwl"
+    ],
+    "Last edited (simplified)": "2020-05-27T22:05:06.000Z",
+    "Last edited (experts say)": "2020-06-15T16:47:15.000Z",
+    "Last modified": "2020-07-30",
+    "DB (Arabic)": [
+      "recqLyEdG4gEouayz"
+    ]
+  },
+  {
+    "id": "recRNOP1DQIw90RaZ",
+    "Question": "When do we consider someone with COVID-19 to have recovered?",
+    "Status": "Published",
+    "Background and context": "As COVID-19 spreads, so does the number of individuals who have recovered since thankfully most patients who have COVID-19 recover from the disease. There is ongoing debate and uncertainty regarding when and on what basis can we consider that a patient has recovered from COVID-19. \n\nIn summary, deciding when a patient has recovered from COVID-19 is more complicated than just judging by the moment the patient feels better. The definition of \"recovery\" needs to include more than just the complete improvement of the patient and the absence of symptoms. \n\nDefinitions of recovery vary a lot between countries and can still be subjective to the individual patient, because more severe cases may have symptoms that last longer, and in some cases individuals can test positive even if they are no longer infectious (i.e. they can't transmit the virus to other people). \n",
+    "What our experts say": "Different institutions (including hospitals, clinics, public health agencies, and government agencies) have used different criteria to define when someone with COVID-19 is considered recovered. These criteria are often used to decide when someone can be allowed to leave the hospital or can stop isolation. A review of COVID-19 recovery guidelines being used around the world show most doctors agree on the following criteria:\n1) The patient no longer has symptoms, AND\n2) The patient has negative test results (such as those swabs taken from the nose and throat) showing the virus is no longer in the upper respiratory tract. \nBoth of these criteria should be considered in combination before determining recovery. Negative test results are important because people can spread the virus even if they have no symptoms or their symptoms have stopped. \n\nIn addition, the European Centre for Disease Control and Prevention (ECDC) has also suggested considering the following criteria to determine if a patient has recovered:\n3) Positive serological or antibody test results from blood samples. \nAntibody tests can show if your immune system has produced antibodies to fight off COVID-19 which would signal that you had been infected with the virus. Antibody tests are typically done at least 1-3 weeks after a patient first experiences symptoms. \n\nIt is not always possible to use these recommended criteria to determine recovery. For example, some people with COVID-19 experience only mild symptoms (fatigue, shortness of breath, etc.) yet are not hospitalized because these symptoms are not severe enough. These mild symptoms can however persist over long periods of time (weeks to months) which further complicates how to define recovery from COVID-19.\n",
+    "Glossary Terms": [
+      "recmajcAORyuqhZPc",
+      "recz6LiyrAkeNejA2",
+      "recPNexvQiug4RFJu",
+      "recOfgrqkPp7aa14o"
+    ],
+    "Other resources": "1. Discharge criteria for confirmed COVID-19 cases – When is it safe to discharge COVID-19 cases from the hospital or end home isolation?  ([European CDC][1])\n2. Discontinuation of Isolation for Persons with COVID-19 Not in Healthcare Settings ([U.S. CDC][2])\n3. Duration of Isolation and Precautions for Adults with COVID-19 ([U.S. CDC][3])\n\n  [1]: https://www.ecdc.europa.eu/sites/default/files/documents/COVID-19-Discharge-criteria.pdf\n  [2]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/disposition-in-home-patients.html\n  [3]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/duration-isolation.html\n",
+    "Last edited (simplified)": "2020-07-30T14:33:40.000Z",
+    "Last edited (experts say)": "2020-07-30T14:43:29.000Z",
+    "Last modified": "2020-07-30",
+    "DB (French)": [
+      "reccgAszbsy0mDb8P"
+    ],
+    "DB (Hindi)": [
+      "recGg5GrEARJJISwI"
+    ],
+    "DB (Telugu)": [
+      "recux85y7hUPT6GBO"
+    ],
+    "DB (Spanish)": [
+      "recc3jBd4Jma9ddxE"
+    ],
+    "DB (Arabic)": [
+      "recurf1nCbLstiTkv"
+    ],
+    "DB (Bengali)": [
+      "reck9dTXXz06jEssE"
+    ],
+    "DB (Portuguese)": [
+      "recOobvP0b19NIhlE"
+    ],
+    "In translated DBs?": "Yes"
+  },
+  {
     "id": "rec7awl8Ed6xdZIiv",
     "Question": "Does Vitamin D help prevent or treat COVID-19?",
     "Status": "Published",
@@ -277,45 +472,6 @@
     "Last edited (experts say)": "2020-05-27T21:58:32.000Z",
     "Last modified": "2020-07-30",
     "Category": "Research"
-  },
-  {
-    "id": "recRNOP1DQIw90RaZ",
-    "Question": "When do we consider someone with COVID-19 to have recovered?",
-    "Status": "Published",
-    "Background and context": "As COVID-19 spreads, so does the number of individuals who have recovered since thankfully most patients who have COVID-19 recover from the disease. There is ongoing debate and uncertainty regarding when and on what basis can we consider that a patient has recovered from COVID-19. \n\nIn summary, deciding when a patient has recovered from COVID-19 is more complicated than just judging by the moment the patient feels better. The definition of \"recovery\" needs to include more than just the complete improvement of the patient and the absence of symptoms. \n\nDefinitions of recovery vary a lot between countries and can still be subjective to the individual patient, because more severe cases may have symptoms that last longer, and in some cases individuals can test positive even if they are no longer infectious (i.e. they can't transmit the virus to other people). \n",
-    "What our experts say": "Different institutions (including hospitals, clinics, public health agencies, and government agencies) have used different criteria to define when someone with COVID-19 is considered recovered. These criteria are often used to decide when someone can be allowed to leave the hospital or can stop isolation. A review of COVID-19 recovery guidelines being used around the world show most doctors agree on the following criteria:\n1) The patient no longer has symptoms, AND\n2) The patient has negative test results (such as those swabs taken from the nose and throat) showing the virus is no longer in the upper respiratory tract. \nBoth of these criteria should be considered in combination before determining recovery. Negative test results are important because people can spread the virus even if they have no symptoms or their symptoms have stopped. \n\nIn addition, the European Centre for Disease Control and Prevention (ECDC) has also suggested considering the following criteria to determine if a patient has recovered:\n3) Positive serological or antibody test results from blood samples. \nAntibody tests can show if your immune system has produced antibodies to fight off COVID-19 which would signal that you had been infected with the virus. Antibody tests are typically done at least 1-3 weeks after a patient first experiences symptoms. \n\nIt is not always possible to use these recommended criteria to determine recovery. For example, some people with COVID-19 experience only mild symptoms (fatigue, shortness of breath, etc.) yet are not hospitalized because these symptoms are not severe enough. These mild symptoms can however persist over long periods of time (weeks to months) which further complicates how to define recovery from COVID-19.\n",
-    "Glossary Terms": [
-      "recmajcAORyuqhZPc",
-      "recz6LiyrAkeNejA2",
-      "recPNexvQiug4RFJu",
-      "recOfgrqkPp7aa14o"
-    ],
-    "Other resources": "1. Discharge criteria for confirmed COVID-19 cases – When is it safe to discharge COVID-19 cases from the hospital or end home isolation?  ([European CDC][1])\n2. Discontinuation of Isolation for Persons with COVID-19 Not in Healthcare Settings ([U.S. CDC][2])\n3. Duration of Isolation and Precautions for Adults with COVID-19 ([U.S. CDC][3])\n\n  [1]: https://www.ecdc.europa.eu/sites/default/files/documents/COVID-19-Discharge-criteria.pdf\n  [2]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/disposition-in-home-patients.html\n  [3]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/duration-isolation.html\n",
-    "Last edited (simplified)": "2020-07-30T14:33:40.000Z",
-    "Last edited (experts say)": "2020-07-30T14:43:29.000Z",
-    "Last modified": "2020-07-30",
-    "DB (French)": [
-      "reccgAszbsy0mDb8P"
-    ],
-    "DB (Hindi)": [
-      "recGg5GrEARJJISwI"
-    ],
-    "DB (Telugu)": [
-      "recux85y7hUPT6GBO"
-    ],
-    "DB (Spanish)": [
-      "recc3jBd4Jma9ddxE"
-    ],
-    "DB (Arabic)": [
-      "recurf1nCbLstiTkv"
-    ],
-    "DB (Bengali)": [
-      "reck9dTXXz06jEssE"
-    ],
-    "DB (Portuguese)": [
-      "recOobvP0b19NIhlE"
-    ],
-    "In translated DBs?": "Yes"
   },
   {
     "id": "recSOnnQBIkFxZ8t8",
@@ -825,56 +981,6 @@
     ],
     "Last edited (simplified)": "2020-07-01T01:07:44.000Z",
     "Last edited (experts say)": "2020-07-30T15:11:56.000Z",
-    "Last modified": "2020-07-30"
-  },
-  {
-    "id": "recbwOwl3dwdrh1iY",
-    "Question": "Why does COVID-19 make some people sick for months?",
-    "Status": "Published",
-    "Category": "Symptoms",
-    "Source of the question": [
-      "Social Media"
-    ],
-    "Country question was sourced from": [
-      "USA",
-      "United Kingdom"
-    ],
-    "Background and context": "COVID-19 has been shown to have varying effects on different individuals, including symptoms and secondary health effects. This range of outcomes makes it difficult to know the estimate length of impact COVID-19 might have on an individual. One example of a secondary outcome is [myalgic encephalomyelitis/chronic fatigue syndrome][1] (ME/CFS) — a long-term reappearance of symptoms — clusters of which have followed many infectious outbreaks. Increased data and corresponding analysis will help to provide more empirical evidence on how long COVID-19 adversely impacts individuals, what symptoms are most prevalent, and what secondary outcomes are most common. \n\n  [1]: https://www.cdc.gov/me-cfs/index.html\n",
-    "What our experts say": "Because the COVID-19 virus is new, we still don't know why some people might become sick longer than others—but we do know that people infected with COVID-19 who have severe symptoms tend to have symptoms for longer than those with mild cases. \n\nDifferences in immune responses, including lower levels of antibody production, can impact how long patients remain sick with COVID-19. A study from Portugal published in June 2020 found that some patients who took longer to have two consecutive negative tests showed milder symptoms and lower antibodies levels.\n\nCOVID-19 can impact many organs, which might help explain why the virus can cause symptoms that continue over a longer period of time in some patients. Akiko Iwasaki, a Yale immunology doctor, believes some potential reasons the virus lasts longer in some patients is because the virus might remain in one of the organs that is not tested by nasal swabs; that non-living parts of the virus can still cause your immune system to overreact like the virus is still alive and reproducing in your body when it isn't really doing that; and the virus might not be present in your body any longer, but your immune system is stuck in the state of fighting it off. \n\nAdditionally, after becoming infected with different viruses, your body can take a while to heal. So even if you don't have the virus anymore, you may continue coughing and not be able to breathe as well as you normally do, since your throat and lungs have yet to fully heal and recover.\n\nCurrently, the majority of patients infected with COVID-19 have symptoms for 2-6 weeks.\n\n\n",
-    "Glossary Terms": [
-      "recqwr4O57SOjNZYx"
-    ],
-    "Variation of the answer depending on country of residence": "No\t\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\t\n",
-    "Topics": [
-      "symptoms"
-    ],
-    "Other resources": "1. Clinical Questions about COVID-19: Questions and Answers ([U.S. CDC][1])\n2. Interim Clinical Guidance for Management of Patients with Confirmed Coronavirus Disease (COVID-19) ([U.S. CDC][2]) \n3. COVID-19 and Multiorgan Response ([CPC][3]) \n4. Coronavirus disease (COVID-19) outbreak ([WHO][4]) \n5. COVID-19 Can Last for Several Months ([The Atlantic][5]) \n6. Researchers warn covid-19 could cause debilitating long-term illness in some patients ([Washington Post][6]) \n7. A woman says she's had 8 positive coronavirus tests in 50 days. How long can it really take to recover? ([CBS News][7]) \n8. Clearance and persistence of SARS‐CoV‐2 RNA in patients with COVID‐19 ([Journal of Medical Virology][8])\n\n  [1]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/faq.html\n  [2]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance-management-patients.html\n  [3]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7187881/\n  [4]: https://www.who.int/health-topics/coronavirus#tab=tab_2\n  [5]: https://www.theatlantic.com/health/archive/2020/06/covid-19-coronavirus-longterm-symptoms-months/612679/\n  [6]: https://www.washingtonpost.com/health/could-covid-19-cause-long-term-chronic-fatigue-and-illness-in-some-patients/2020/05/29/bcd5edb2-a02c-11ea-b5c9-570a91917d8d_story.html\n  [7]: https://www.cbsnews.com/news/coronavirus-symptoms-8-positive-tests-50-days/\n  [8]: https://www.researchgate.net/profile/Analia_Carmo2/publication/341834349_Clearance_and_Persistence_of_SARS-CoV-2_RNA_in_COVID-19_patients/links/5eeddc0f299bf1faac6657b7/Clearance-and-Persistence-of-SARS-CoV-2-RNA-in-COVID-19-patients.pdf\n",
-    "How often revision needed": "Every 2 weeks for accuracy re: length of illness w/ symptoms from WHO; official reasons it can make people sick for months",
-    "DB (French)": [
-      "rec4cOu2yhlycFpKZ"
-    ],
-    "DB (Hindi)": [
-      "recRqKZW3vHx1CRAV"
-    ],
-    "In translated DBs?": "Yes",
-    "DB (Telugu)": [
-      "recrywZhw8D1DwgC3"
-    ],
-    "DB (Spanish)": [
-      "recKUZT533UsrHNwF"
-    ],
-    "DB (Arabic)": [
-      "rec4eqORwLQeFsYFu"
-    ],
-    "DB (Bengali)": [
-      "recsxms1Gw5Xuy9DG"
-    ],
-    "DB (Portuguese)": [
-      "rec3yXkfEqeTCgNDg"
-    ],
-    "Last edited (simplified)": "2020-07-06T20:37:14.000Z",
-    "Last edited (experts say)": "2020-07-06T20:10:59.000Z",
     "Last modified": "2020-07-30"
   },
   {
@@ -1462,61 +1568,6 @@
     "Last edited (simplified)": "2020-06-11T23:13:43.000Z",
     "Last edited (experts say)": "2020-06-17T15:45:00.000Z",
     "Last modified": "2020-07-29"
-  },
-  {
-    "id": "rechQWZ1ctlJ81Vxn",
-    "Question": "What does the scientific literature say about using hydroxychloroquine to prevent, treat or cure COVID-19?",
-    "Status": "Published",
-    "Category": "Treatment",
-    "Subcategory": "On: COVID-19 & hydroxychloroquine",
-    "Source of the question": [
-      "Social Media"
-    ],
-    "Country question was sourced from": [
-      "India"
-    ],
-    "Background and context": "Hydroxycloroquine is a medication currently prescribed for preventing or treating malaria, an infectious disease that can be transmitted to humans from mosquitos. It is also prescribed as a treatment for rheumatoid arthritis and lupus, which are both autoimmune diseases.\nWhen faced with an unknown virus like COVID-19 and without a specific vaccine and treatment, one of the best medical strategies is to look among the medications already available and clinically tested to see if any of them are effective. As their risks, benefits, and side effects have already been studied (without allowing safety tests to be ignored), this could speed up research. One of these is hydroxychloroquine. \nWhen trying to find treatments for COVID-19, hydroxychloroquine was tested on hospitalized patients. However, the results from this research do not represent evidence significant enough to recommend hydroxychloroquine for treating COVID-19. At the same time, some research studies have also shown some serious negative consequences (incl. serious heart rhythm problems) associated with the use of hydroxychloroquine in the treatment of COVID-19. More studies are underway.\n\n",
-    "What our experts say": "Ongoing clinical trials are testing how safe and effective chloroquine and hydroxychloroquine are as treatments for COVID-19. So far, clinical trials and scientific analyses have not produced high quality evidence showing efficacy of these medications as a treatment, and some studies have even reported higher rates of adverse events (including cardiac issues) in hospitalized patients treated with hydroxychloroquine. As things stand, hydroxychloroquine is not a recognized prevention, treatment or cure for COVID-19.\nIn this context, there are research studies underway to find out whether taking this medication can prevent people from getting infected with coronavirus once they have been exposed. Other studies are still investigating the efficacy and safety of the drug as a treatment at different stages of the illness, including randomized controlled trials with a large number of patients enrolled.\nAround the world, some countries have moved ahead and authorized chloroquine or hydroxychloroquine for the treatment of COVID-19 despite limited clinical evidence supporting its efficacy. This decision follows some preliminary results coming out of China and France in March 2020, where a few small clinical trials showed limited success of the medication.\nIn the Unites States, on March 27th 2020, the Food and Drug Administration (FDA) has granted a special permission (Emergency Authorization Use) to use chloroquine and hydroxychloroquine in emergency situations for treatment of COVID-19. This did not constitute a formal approval of the drug, but rather a possibility given to American doctors to use chloroquine and hydroxychloroquine in the treatment of COVID-19 if the doctor has no other options and after discussing with the patients the risks involved. On June 15th 2020, the U.S. FDA has revoked the special permission to use chloroquine and hydroxychloroquine in emergency situations for COVID-19 citing that these drugs are unlikely to be effective in treating COVID-19 and highlighting serious cardiac adverse events and other serious side effects reported in studies.\n",
-    "Glossary Terms": [
-      "recM4p8QOERmuESKr",
-      "recAiJYWSxD5F1Lz1",
-      "recJ1c8DQQVGmXfzM",
-      "recjILnexcCRlyBIb"
-    ],
-    "Variation of the answer depending on country of residence": "Yes - some countries have included chloroquine and hydroxychloroquine in their treatment protocol despite the fact that the World Health Organization has not recognized it as a treatment as they await further clinical trial results.\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "prevention",
-      "treatment",
-      "cure",
-      "hydroxychloroquine"
-    ],
-    "Other resources": "1. FDA revokes the emergency use authorization for chloroquine and hydroxychloroquine ([U.S. FDA][1])\n2. FDA cautions against the use of hydroxychloroquine or chloroquine for COVID-19 outside of the hospital setting or a clinical trial due to a risk of heart rhythm problems ([U.S. FDA][2])\n3. Research paper: Hydroxychloroquine in patients with mainly mild to moderate coronavirus disease 2019: open label, randomised controlled trial ([BMJ][3])\n4. Hydroxychloroquine with or without Azithromycin in Mild-to-Moderate Covid-19 ([NEJM][4])\n5. Hydroxychloroquine use against SARS-CoV-2 infection in non-human primates ([Nature][5])\n6. Investigational therapeutics for patients with COVID-19 ([U.S. CDC][6]) \n7. Research Update: Hydroxychloroquine in Nonhospitalized Adults With Early COVID-19 ([AIM][7])\n8. Trial update: Effect of Hydroxychloroquine in Hospitalized Patients with COVID-19: Preliminary results from a multi-centre, randomized, controlled trial. ([medRxiv][8])\n9. Trial update: No clinical benefit from use of hydroxychloroquine in hospitalized patients with COVID-19 ([Recovery Trial][9])\n10. Information about \"compassionate use\" ([U.S. FDA][10]) \n11. Research paper: A Randomized Trial of Hydroxychloroquine as Postexposure Prophylaxis for Covid-19 ([NEJM][11])\n12. Hydroxychloroquine or Chloroquine for Treatment or Prophylaxis of COVID-19: A Living Systematic Review ([AIM][12])\n13. Research paper: Hydroxychloroquine in patients with mainly mild to moderate coronavirus disease 2019: open label, randomised controlled trial ([BMJ][3])\n14. Research paper: Association of Treatment With Hydroxychloroquine or Azithromycin With In-Hospital Mortality in Patients With COVID-19 in New York State ([JAMA][13])\n15. Research paper: Observational Study of Hydroxychloroquine in Hospitalized Patients with Covid-19 ([NEJM][14])\n\n\n  [1]: https://www.fda.gov/emergency-preparedness-and-response/mcm-legal-regulatory-and-policy-framework/emergency-use-authorization#coviddrugs\n  [2]: https://www.fda.gov/drugs/drug-safety-and-availability/fda-cautions-against-use-hydroxychloroquine-or-chloroquine-covid-19-outside-hospital-setting-or\n  [3]: https://www.bmj.com/content/369/bmj.m1849\n  [4]: https://www.nejm.org/doi/full/10.1056/NEJMoa2019014?query=featured_home\n  [5]: https://www.nature.com/articles/s41586-020-2558-4?utm_source=twitter&utm_medium=social&utm_content=organic&utm_campaign=NGMT_USG_JC01_GL_Nature\n  [6]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/therapeutic-options.html\n  [7]: https://www.acpjournals.org/doi/10.7326/M20-4207\n  [8]: https://www.medrxiv.org/content/10.1101/2020.07.15.20151852v1\n  [9]: https://www.recoverytrial.net/news/statement-from-the-chief-investigators-of-the-randomised-evaluation-of-covid-19-therapy-recovery-trial-on-hydroxychloroquine-5-june-2020-no-clinical-benefit-from-use-of-hydroxychloroquine-in-hospitalised-patients-with-covid-19\n  [10]: https://www.fda.gov/news-events/public-health-focus/expanded-access\n  [11]: https://www.nejm.org/doi/full/10.1056/NEJMoa2016638?query=featured_home\n  [12]: https://www.acpjournals.org/doi/10.7326/M20-2496\n  [13]: https://jamanetwork.com/journals/jama/fullarticle/2766117\n  [14]: https://www.nejm.org/doi/full/10.1056/NEJMoa2012410\n",
-    "DB (French)": [
-      "recAj0TYj97UNUWtk"
-    ],
-    "DB (Hindi)": [
-      "recTMwxdfhiFP6PdB"
-    ],
-    "In translated DBs?": "Yes",
-    "DB (Telugu)": [
-      "recN5EPDGr3rmysv8"
-    ],
-    "DB (Spanish)": [
-      "rec6r7JrdmkSaJZpK"
-    ],
-    "DB (Arabic)": [
-      "recqLyEdG4gEouayz"
-    ],
-    "DB (Bengali)": [
-      "recO4uinQPvndAlwL"
-    ],
-    "DB (Portuguese)": [
-      "recp55aBOJEjliZwl"
-    ],
-    "Last edited (simplified)": "2020-05-27T22:05:06.000Z",
-    "Last edited (experts say)": "2020-06-15T16:47:15.000Z",
-    "Last modified": "2020-07-28"
   },
   {
     "id": "reccgbdzob0VzK2nF",
@@ -2717,57 +2768,6 @@
     ],
     "Last edited (simplified)": "2020-07-07T06:31:29.000Z",
     "Last edited (experts say)": "2020-06-24T15:41:41.000Z",
-    "Last modified": "2020-07-24"
-  },
-  {
-    "id": "recUvk0IltcWA8G8O",
-    "Question": "Can face masks be shared? ",
-    "Status": "Published",
-    "Subcategory": "On: COVID-19 and face masks",
-    "Source of the question": [
-      "Fact-checking organization"
-    ],
-    "Country question was sourced from": [
-      "Nigeria"
-    ],
-    "Background and context": "Personal protective equipment (PPE) should be single-person use and not shared between people unless it is able to be disinfected, like facehsields or goggles. Masks become contaminated during use and pose a risk if shared between people. The only exception to this would be if a fabric mask is appropriately washed and dried in a dryer (high temp) between uses. \n",
-    "What our experts say": "No. Personal protective equipment that cannot be disinfected, like a cloth or surgical mask, should not be shared between people. Over time, these masks become dirty and have wear and tear. Since masks come into contact with our mouth and nose, they easily become contaminated and should not be shared. \n",
-    "Glossary Terms": [
-      "reclKahoPRbBLqUKg"
-    ],
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "face masks",
-      "prevention",
-      "respiratory droplets",
-      "aerosol"
-    ],
-    "Other resources": "1. N95 Respirators, Surgical Masks, and Face Masks ([U.S. FDA][1]) \n\n  [1]: https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/n95-respirators-surgical-masks-and-face-masks\n",
-    "DB (French)": [
-      "recBbIwmcDGuUcsGR"
-    ],
-    "DB (Hindi)": [
-      "recjqzoOLEwA1mSPs"
-    ],
-    "In translated DBs?": "Yes",
-    "DB (Telugu)": [
-      "recH8Jl9RdNSvbVE0"
-    ],
-    "DB (Spanish)": [
-      "rec0ucfXo84jjmsyC"
-    ],
-    "DB (Arabic)": [
-      "reckODaJRQ05x7DHr"
-    ],
-    "DB (Bengali)": [
-      "recI7zOT1BfOmdOFD"
-    ],
-    "DB (Portuguese)": [
-      "recj8aG7ZvoKuVsFd"
-    ],
-    "Last edited (simplified)": "2020-06-04T20:55:29.000Z",
-    "Last edited (experts say)": "2020-06-04T20:53:58.000Z",
     "Last modified": "2020-07-24"
   },
   {
