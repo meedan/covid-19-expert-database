@@ -309,6 +309,11 @@ body.hi header nav {
     margin: 1.188rem auto 0 0;
 }
 
+.content-wrapper blockquote {
+    border-left: 2px solid var(--blackInk);
+    padding-left: var(--space-2);
+}
+
 .content-wrapper .disclaimer {
     margin-top: var(--space-4);
 }

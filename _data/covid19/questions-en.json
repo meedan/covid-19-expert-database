@@ -1,5 +1,44 @@
 [
   {
+    "id": "recRNOP1DQIw90RaZ",
+    "Question": "When do we consider someone with COVID-19 to have recovered?",
+    "Status": "Published",
+    "Background and context": "As COVID-19 spreads, so does the number of individuals who have recovered since thankfully most patients who have COVID-19 recover from the disease. There is ongoing debate and uncertainty regarding when and on what basis can we consider that a patient has recovered from COVID-19. \n\nIn summary, deciding when a patient has recovered from COVID-19 is more complicated than just judging by the moment the patient feels better. The definition of \"recovery\" needs to include more than just the complete improvement of the patient and the absence of symptoms. \n\nDefinitions of recovery vary a lot between countries and can still be subjective to the individual patient, because more severe cases may have symptoms that last longer, and in some cases individuals can test positive even if they are no longer infectious (i.e. they can't transmit the virus to other people). \n",
+    "What our experts say": "Different institutions (including hospitals, clinics, public health agencies, and government agencies) have used different criteria to define when someone with COVID-19 is considered recovered. These criteria are often used to decide when someone can be allowed to leave the hospital or can stop isolation. A review of COVID-19 recovery guidelines being used around the world show most doctors agree on the following criteria:\n1) Clinical: The patient no longer has symptoms, and\n2) Laboratory: The patient has negative test results (testing through swabs taken from the nose and throat) showing the virus is no longer present in the upper respiratory system.\nBoth of these criteria should be considered in combination to determine recovery. Negative test results are important because people can still spread the virus even if they have no symptoms or their symptoms have stopped. \n\nIn addition, the European Centre for Disease Control and Prevention (ECDC) suggests also considering the following criteria to determine if a patient has recovered:\n3) Positive serological or antibody test results from blood samples. \nAntibody tests can show if your immune system has produced antibodies to fight off COVID-19 which would signal that you had been infected with the virus. Antibody tests are typically done at least 1-3 weeks after a patient first experiences symptoms. However, antibody test results should not be used on their own to determine recovery - they should be used in combination with the other two criteria.\n\nIt is not always possible to use these recommended criteria to determine recovery. For example, some people with COVID-19 experience only mild symptoms (fatigue, shortness of breath, etc.) yet are not hospitalized because these symptoms are not severe enough. These mild symptoms can however persist over long periods of time (weeks to months) which further complicates how to decide if someone has recovered or not from COVID-19.\n",
+    "Glossary Terms": [
+      "recmajcAORyuqhZPc",
+      "recz6LiyrAkeNejA2",
+      "recPNexvQiug4RFJu",
+      "recOfgrqkPp7aa14o"
+    ],
+    "Other resources": "1. Discharge criteria for confirmed COVID-19 cases – When is it safe to discharge COVID-19 cases from the hospital or end home isolation?  ([European CDC][1])\n2. Discontinuation of Isolation for Persons with COVID-19 Not in Healthcare Settings ([U.S. CDC][2])\n3. Duration of Isolation and Precautions for Adults with COVID-19 ([U.S. CDC][3])\n\n  [1]: https://www.ecdc.europa.eu/sites/default/files/documents/COVID-19-Discharge-criteria.pdf\n  [2]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/disposition-in-home-patients.html\n  [3]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/duration-isolation.html\n",
+    "Last edited (simplified)": "2020-07-30T14:33:40.000Z",
+    "Last edited (experts say)": "2020-07-30T23:18:46.000Z",
+    "Last modified": "2020-07-30",
+    "DB (French)": [
+      "reccgAszbsy0mDb8P"
+    ],
+    "DB (Hindi)": [
+      "recGg5GrEARJJISwI"
+    ],
+    "DB (Telugu)": [
+      "recux85y7hUPT6GBO"
+    ],
+    "DB (Spanish)": [
+      "recc3jBd4Jma9ddxE"
+    ],
+    "DB (Arabic)": [
+      "recurf1nCbLstiTkv"
+    ],
+    "DB (Bengali)": [
+      "reck9dTXXz06jEssE"
+    ],
+    "DB (Portuguese)": [
+      "recOobvP0b19NIhlE"
+    ],
+    "In translated DBs?": "Yes"
+  },
+  {
     "id": "recUvk0IltcWA8G8O",
     "Question": "Can face masks be shared? ",
     "Status": "Published",
@@ -332,45 +371,6 @@
     "DB (Arabic)": [
       "recqLyEdG4gEouayz"
     ]
-  },
-  {
-    "id": "recRNOP1DQIw90RaZ",
-    "Question": "When do we consider someone with COVID-19 to have recovered?",
-    "Status": "Published",
-    "Background and context": "As COVID-19 spreads, so does the number of individuals who have recovered since thankfully most patients who have COVID-19 recover from the disease. There is ongoing debate and uncertainty regarding when and on what basis can we consider that a patient has recovered from COVID-19. \n\nIn summary, deciding when a patient has recovered from COVID-19 is more complicated than just judging by the moment the patient feels better. The definition of \"recovery\" needs to include more than just the complete improvement of the patient and the absence of symptoms. \n\nDefinitions of recovery vary a lot between countries and can still be subjective to the individual patient, because more severe cases may have symptoms that last longer, and in some cases individuals can test positive even if they are no longer infectious (i.e. they can't transmit the virus to other people). \n",
-    "What our experts say": "Different institutions (including hospitals, clinics, public health agencies, and government agencies) have used different criteria to define when someone with COVID-19 is considered recovered. These criteria are often used to decide when someone can be allowed to leave the hospital or can stop isolation. A review of COVID-19 recovery guidelines being used around the world show most doctors agree on the following criteria:\n1) The patient no longer has symptoms, AND\n2) The patient has negative test results (such as those swabs taken from the nose and throat) showing the virus is no longer in the upper respiratory tract. \nBoth of these criteria should be considered in combination before determining recovery. Negative test results are important because people can spread the virus even if they have no symptoms or their symptoms have stopped. \n\nIn addition, the European Centre for Disease Control and Prevention (ECDC) has also suggested considering the following criteria to determine if a patient has recovered:\n3) Positive serological or antibody test results from blood samples. \nAntibody tests can show if your immune system has produced antibodies to fight off COVID-19 which would signal that you had been infected with the virus. Antibody tests are typically done at least 1-3 weeks after a patient first experiences symptoms. \n\nIt is not always possible to use these recommended criteria to determine recovery. For example, some people with COVID-19 experience only mild symptoms (fatigue, shortness of breath, etc.) yet are not hospitalized because these symptoms are not severe enough. These mild symptoms can however persist over long periods of time (weeks to months) which further complicates how to define recovery from COVID-19.\n",
-    "Glossary Terms": [
-      "recmajcAORyuqhZPc",
-      "recz6LiyrAkeNejA2",
-      "recPNexvQiug4RFJu",
-      "recOfgrqkPp7aa14o"
-    ],
-    "Other resources": "1. Discharge criteria for confirmed COVID-19 cases – When is it safe to discharge COVID-19 cases from the hospital or end home isolation?  ([European CDC][1])\n2. Discontinuation of Isolation for Persons with COVID-19 Not in Healthcare Settings ([U.S. CDC][2])\n3. Duration of Isolation and Precautions for Adults with COVID-19 ([U.S. CDC][3])\n\n  [1]: https://www.ecdc.europa.eu/sites/default/files/documents/COVID-19-Discharge-criteria.pdf\n  [2]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/disposition-in-home-patients.html\n  [3]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/duration-isolation.html\n",
-    "Last edited (simplified)": "2020-07-30T14:33:40.000Z",
-    "Last edited (experts say)": "2020-07-30T14:43:29.000Z",
-    "Last modified": "2020-07-30",
-    "DB (French)": [
-      "reccgAszbsy0mDb8P"
-    ],
-    "DB (Hindi)": [
-      "recGg5GrEARJJISwI"
-    ],
-    "DB (Telugu)": [
-      "recux85y7hUPT6GBO"
-    ],
-    "DB (Spanish)": [
-      "recc3jBd4Jma9ddxE"
-    ],
-    "DB (Arabic)": [
-      "recurf1nCbLstiTkv"
-    ],
-    "DB (Bengali)": [
-      "reck9dTXXz06jEssE"
-    ],
-    "DB (Portuguese)": [
-      "recOobvP0b19NIhlE"
-    ],
-    "In translated DBs?": "Yes"
   },
   {
     "id": "recNhNi9YMJidUo7K",
