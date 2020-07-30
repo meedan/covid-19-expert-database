@@ -13,6 +13,9 @@
     "Hindi": [
       "recpvWgHuWkU6XwLw"
     ],
+    "Spanish": [
+      "recQfhoZlSo1oOwpa"
+    ],
     "Bengali": [
       "recCagvfdC6anCFqU"
     ],
@@ -26,7 +29,8 @@
     "Questions using this term": [
       "recu8V6IGjMveS5Ku",
       "rec1KveB4FFU90Equ",
-      "rec7awl8Ed6xdZIiv"
+      "rec7awl8Ed6xdZIiv",
+      "recu5zvFnlQeNTxk8"
     ],
     "Status": "Published",
     "French": [
@@ -34,6 +38,9 @@
     ],
     "Hindi": [
       "rec9V6fXai4eHkuFg"
+    ],
+    "Spanish": [
+      "reckMZnrdvYNqRNmI"
     ],
     "Bengali": [
       "recOp4OrXCRJQymee"
@@ -55,6 +62,9 @@
     ],
     "Hindi": [
       "recHmMAGrkmpcw79C"
+    ],
+    "Spanish": [
+      "rec8AF1HoV58wHKJV"
     ],
     "Bengali": [
       "recTbR51Mjn4gR57b",
@@ -85,12 +95,39 @@
     "Hindi": [
       "recumLFRn21ADhA5P"
     ],
+    "Spanish": [
+      "recuCUHYOP4IDnXVf"
+    ],
+    "Arabic": [
+      "reccWzuSrSjTisV3I"
+    ],
     "Bengali": [
       "recvccUgrhJYz3YSv",
       "recKkBpJxRNTHf7oP"
     ],
     "In translation glossaries?": "Partial",
     "Completed Translations?": "Partial"
+  },
+  {
+    "id": "rech6tPR0hLDA3JH3",
+    "Term": "aerosol/airborne transmission",
+    "Definition": "Aerosol transmission or airborne transmission occurs when tiny drops of a germ or infectious agent (droplet nuclei, or evaporated residues from droplets expelled by an infected person) that can cause a disease (pathogen) stay in the air for some time after someone coughs, sneezes, talks, vomits, sings, laughs, or exhales and these drops become a fine mist (aerosolized). Droplet nuclei can also be considered evaporated residues from droplets. These small particles, known as aerosols, can travel sizable distances even though they may not be visible to the human eye. Airborne transmission can also sometimes occur from dust particles carrying the virus.\n\n\nWhen another person comes into contact with contamhinateds aerosolized mist, they become exposed to the pathogen hanging in the air as well. Unlike respiratory droplets, aerosolized pathogens are mostly dry, light, very small (under 5μm); these smaller particles can stay suspended in the air for longer and be dispersed farther by air currents, traveling short and long distances as they remain in the air. Some medical and cleaning procedures can also cause aerosol transmission of a pathogen like flushing toilets or putting a tube into a patient's throat to help them breathe.\n",
+    "Questions using this term": [
+      "recE68fRyDEYYEuIr",
+      "recAvJuac1TZ49MjL",
+      "recXUQjiQ2yaPXyxo",
+      "recN7xZOc6jUGgDCA"
+    ],
+    "Status": "Published",
+    "French": [
+      "recyEdXsLqUa2Tp7K"
+    ],
+    "Hindi": [
+      "recGvUUwg7Xc2hGu1"
+    ],
+    "Bengali": [
+      "rec7iT9Cxd8QtYLjs"
+    ]
   },
   {
     "id": "recE7xmnXgtg8ZanX",
@@ -108,6 +145,9 @@
     ],
     "Spanish": [
       "rectI8UgDG1ppNrsw"
+    ],
+    "Arabic": [
+      "recBRi9rb9Y4P0EBT"
     ],
     "Bengali": [
       "recjZelO75WPKI88X"
@@ -211,6 +251,9 @@
     "Hindi": [
       "reczbKcCGvheX1NEG"
     ],
+    "Spanish": [
+      "rec6y0A45b1v1uJ7x"
+    ],
     "Bengali": [
       "recyfTJ3t9OZ96dJB"
     ],
@@ -230,6 +273,9 @@
     ],
     "Hindi": [
       "rec2L5948RtOdwUvt"
+    ],
+    "Spanish": [
+      "recOxCiZtxLRijRIX"
     ],
     "Bengali": [
       "rec5UN4rM2igwCqSr"
@@ -251,6 +297,9 @@
     "Hindi": [
       "recejGTgDAdePzb8w"
     ],
+    "Spanish": [
+      "recF5slQAOiuqoOnS"
+    ],
     "Bengali": [
       "rec4LjHCXWGEoHiGx"
     ],
@@ -269,7 +318,11 @@
       "reccwo5NJI2cHb2Wl"
     ],
     "Hindi": [
-      "recoT0Suijyl09026"
+      "recoT0Suijyl09026",
+      "reczaKsoi1HvRS38I"
+    ],
+    "Spanish": [
+      "recyjyhxcdAU77qlB"
     ],
     "Bengali": [
       "recIZgcOnQCXtZZrr"
@@ -368,6 +421,9 @@
     "Hindi": [
       "reclJ0qg45eaAKc5Y"
     ],
+    "Spanish": [
+      "recl94UEAa5yYi7zD"
+    ],
     "Bengali": [
       "recP5GccXZBwoESTJ"
     ],
@@ -387,6 +443,9 @@
     ],
     "Hindi": [
       "recAYEKHJopH7eLnK"
+    ],
+    "Spanish": [
+      "rec27uPxr3icWnwpo"
     ],
     "Bengali": [
       "rec2SFVT4P9JUlBHK"
@@ -410,6 +469,9 @@
       "recMXimhUEB5WZmaB",
       "reccaQvb4UuRQ1Cs0"
     ],
+    "Spanish": [
+      "recKxnl6uRfcN4LmC"
+    ],
     "Bengali": [
       "reccHzZYGTYTahDZS"
     ],
@@ -429,6 +491,9 @@
     ],
     "Hindi": [
       "recgefUCGHLZs8agE"
+    ],
+    "Spanish": [
+      "recc2aj8jjnUtbTzJ"
     ],
     "Bengali": [
       "recNJ89TVk9m8EAfi"
@@ -461,7 +526,8 @@
       "recxD9dPlL1W8DCs2"
     ],
     "Hindi": [
-      "recoSjkjIXTwTk7nQ"
+      "recoSjkjIXTwTk7nQ",
+      "recdT1HQ8HAH78MgQ"
     ],
     "Spanish": [
       "reclUq6FzDxK0oxZr"
@@ -486,6 +552,12 @@
     "Hindi": [
       "recvlJ88yP7woxpJV"
     ],
+    "Spanish": [
+      "recawALyCFhmBaT3y"
+    ],
+    "Arabic": [
+      "reckH5fGvvet20dys"
+    ],
     "Bengali": [
       "recIZfTgU7dylLsAJ"
     ],
@@ -509,6 +581,10 @@
     "Spanish": [
       "recukhMZjCrJiPK7p"
     ],
+    "Arabic": [
+      "recHjIQafnQlMFwG6",
+      "recnGFL4FruiOPuh5"
+    ],
     "Bengali": [
       "recPuQi1bDq4cLoyB"
     ],
@@ -529,6 +605,9 @@
     "Hindi": [
       "recEZ19AbC5Q219wm"
     ],
+    "Spanish": [
+      "rec9U92a4u2UcMqZg"
+    ],
     "Bengali": [
       "receGgTWnCKPePPzV"
     ],
@@ -548,6 +627,12 @@
     ],
     "Hindi": [
       "recnFPG2gdeETqbEA"
+    ],
+    "Spanish": [
+      "recDLGc4K2wFMA3T1"
+    ],
+    "Arabic": [
+      "recDM23LVzk0IjF9j"
     ],
     "Bengali": [
       "rec7dMcRe2Pl6LJev"
