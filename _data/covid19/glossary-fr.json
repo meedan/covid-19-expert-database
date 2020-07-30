@@ -1,22 +1,9 @@
 [
   {
-    "id": "rec6vNnYlTtVahGRO",
-    "Term": "usage compassionnel",
-    "Definition": "Le terme « usage compassionnel » réfère à l’utilisation de traitements expérimentaux pouvant potentiellement sauver la vie de patients souffrant d’une maladie pour laquelle aucun traitement autorisé satisfaisant n’existe ou qui ne peuvent pas participer à un essai clinique. Pour de nombreux patients, ces traitements représentent leur dernier espoir de guérison.\n",
-    "Status": "Published",
-    "EN Term": [
-      "recsuWy4EfRZwvcmh"
-    ],
-    "EN Definition": [
-      "According to the U.S. National Institutes of Health, compassionate use - also called 'expanded access' - is a way to provide an investigational therapy to a patient who is not eligible to receive that therapy in a clinical trial, but who has a serious or life-threatening illness for which other treatments are not available. Compassionate use allows patients to receive promising but not yet fully studied or approved cancer therapies when no other treatment option exists. Also called expanded access."
-    ],
-    "Last Modified": "2020-07-29T14:40:40.000Z"
-  },
-  {
     "id": "rec5NviyR1bKlIVTa",
-    "Term": "incubation",
+    "Term": "période d’incubation",
     "Definition": "Selon l’Organisation mondiale de la santé, la période d’incubation est le temps qui s’écoule entre l’exposition au virus (infection) et l’apparition des symptômes.\n",
-    "Status": "Published",
+    "Status": "Ready for expert review",
     "Questions using this term": [
       "reccy9EmiOk9SlhJ7"
     ],
@@ -26,48 +13,17 @@
     "EN Definition": [
       "According to the World Health Organization, the incubation period is the time between exposure to the virus (becoming infected) and symptom onset."
     ],
-    "Last Modified": "2020-07-29T14:41:17.000Z"
-  },
-  {
-    "id": "recdwSm7f3It0F5Eq",
-    "Term": "asymptomatique",
-    "Definition": "Les infections asymptomatiques surviennent quand une personne est infectée par une maladie, mais ne présente aucun symptôme durant son infection.\n",
-    "Status": "Published",
-    "Questions using this term": [
-      "reccy9EmiOk9SlhJ7"
-    ],
-    "EN Term": [
-      "recx2PeCcs1Awb9rG"
-    ],
-    "EN Definition": [
-      "Asymptomatic infections occur when a person is infected with an illness but does not have symptoms during the duration of their infection."
-    ],
-    "Last Modified": "2020-07-29T14:42:17.000Z"
-  },
-  {
-    "id": "rec4IrZTOe3lpz98t",
-    "Term": "présymptomatique",
-    "Definition": "Les infections présymptomatiques se produisent quand une personne est infectée, mais ne présente pas encore les symptômes d’une maladie. Il peut y avoir un décalage de quelques jours entre le moment où une personne est infectée et celui où elle commence à présenter des symptômes. \n",
-    "Status": "Published",
-    "Questions using this term": [
-      "reccy9EmiOk9SlhJ7"
-    ],
-    "EN Term": [
-      "recbZcFUtsYMA9Vsh"
-    ],
-    "EN Definition": [
-      "Pre-symptomatic infections occur when a person is infected but does not yet display symptoms of an illness or disease. There can be a lag of a few days between the moment a person is infected and when they start experiencing symptoms. "
-    ],
-    "Last Modified": "2020-07-29T14:46:18.000Z"
+    "Last Modified": "2020-07-29T21:02:36.000Z"
   },
   {
     "id": "recxD9dPlL1W8DCs2",
     "Term": "transmission",
-    "Definition": "Selon les Centres pour le contrôle et la prévention des maladies des États-Unis, la transmission référence à la façon dont les germes sont déplacés d'une personne infectée à une autre personne auparavant non infectée. Les germes ne se déplacent pas d'eux-mêmes. Les germes dépendent des personnes, de l'environnement et/ou de l'équipement médical (dans les établissements de soins) pour se déplacer. \n\n\n",
-    "Status": "Published",
+    "Definition": "Selon les Centres pour le contrôle et la prévention des maladies des États-Unis, on entend par « transmission » la façon dont les germes sont déplacés vers une personne non infectée. Les germes ne se déplacent pas d’eux-mêmes. Pour se déplacer, les germes dépendent de personnes, de l’environnement ou de l’équipement médical (dans les environnements de soins de santé). \n\n\n",
+    "Status": "Ready for expert review",
     "Questions using this term": [
       "reccy9EmiOk9SlhJ7",
-      "recjXAWxtpH214q4o"
+      "recjXAWxtpH214q4o",
+      "rec3EisBjaWNuh52z"
     ],
     "EN Term": [
       "rec2UNEXbTkSCx30Q"
@@ -75,143 +31,16 @@
     "EN Definition": [
       "According to the U.S. Centers for Disease Control, transmission refers to the way germs are moved towards a non-infected person. Germs don’t move themselves. Germs depend on people, the environment, and/or medical equipment (in healthcare settings) to move. "
     ],
-    "Last Modified": "2020-07-29T14:46:41.000Z"
-  },
-  {
-    "id": "recN1KGOfbDmvsGiU",
-    "Term": "grippe",
-    "Definition": "La grippe saisonnière est une infection virale aiguë provoquée par un virus grippal. Selon les Centres pour le contrôle et la prévention des maladies des États-Unis, les virus de la grippe saisonnière sont des virus A et B qui se propagent et provoquent des maladies chez les personnes. Les virus de la grippe saisonnière provoquent des épidémies annuelles de grippe aux États-Unis et en Europe pendant l'automne, l'hiver et le printemps, et circulent parmi les personnes dans le monde entier. Les virus de la grippe saisonnière A et B évoluent continuellement de manière imprévisible.\n\n",
-    "Status": "Published",
-    "Questions using this term": [
-      "recpBz5mkWp9d4kae"
-    ],
-    "EN Term": [
-      "recDalYrz2m23kS2e"
-    ],
-    "EN Definition": [
-      "According to the U.S. Centers for Disease Control, seasonal influenza viruses are influenza A and B viruses that spread and cause illness in people during the time of year known as the “flu season.” Seasonal influenza viruses cause annual U.S. influenza epidemics during fall, winter, and spring, and circulate among people worldwide. Seasonal influenza A and B viruses are continually undergoing evolution in unpredictable ways."
-    ],
-    "Last Modified": "2020-05-27T20:59:57.000Z"
-  },
-  {
-    "id": "reczZiLfjgDKGWXZp",
-    "Term": "ultraviolets (UV)",
-    "Definition": "Selon les Centres pour le contrôle et la prévention des maladies des États-Unis, les rayons ultraviolets (UV) font partie de la lumière du soleil qui est une forme invisible de rayonnement. Les rayons UV peuvent pénétrer et modifier la structure des cellules de la peau. Il existe trois types de rayons UV : les ultraviolets A (UVA), les ultraviolets B (UVB) et les ultraviolets C (UVC). Les UVA sont la source la plus abondante de rayonnement solaire à la surface de la terre et pénètrent au-delà de la couche supérieure de la peau humaine. Les scientifiques pensent que les rayons UVA peuvent endommager les tissus conjonctifs et augmenter le risque de cancer de la peau. Les rayons UVB pénètrent moins profondément dans la peau, mais peuvent quand même causer certaines formes de cancer de la peau. Les rayons UVC naturels ne présentent pas de risque pour les travailleurs car ils sont absorbés par l'atmosphère terrestre.\n",
-    "Status": "Published",
-    "Questions using this term": [
-      "rec5gU4AbShoWGNjF"
-    ],
-    "EN Term": [
-      "recjOgLIjiAbiBH5F"
-    ],
-    "EN Definition": [
-      "According to the U.S. Centers for Disease Control, ultraviolet (UV) rays are a part of sunlight that is an invisible form of radiation. UV rays can penetrate and change the structure of skin cells. There are three types of UV rays: ultraviolet A (UVA), ultraviolet B (UVB), and ultraviolet C (UVC). UVA is the most abundant source of solar radiation at the earth’s surface and penetrates beyond the top layer of human skin. Scientists believe that UVA radiation can cause damage to connective tissue and increase a person’s risk for developing skin cancer. UVB rays penetrate less deeply into skin, but can still cause some forms of skin cancer. Natural UVC rays do not pose a risk to workers because they are absorbed by the Earth’s atmosphere."
-    ],
-    "Last Modified": "2020-05-27T20:59:59.000Z"
-  },
-  {
-    "id": "recy2g3HZCckzrsKx",
-    "Term": "stériles",
-    "Definition": "Selon les Centres pour le contrôle et la prévention des maladies des États-Unis, lorsqu'une chose est stérile, elle est dans un état où elle est exempte de tout micro-organisme vivant. Cela signifie qu'un objet stérile est totalement propre et exempt de bactéries et de germes vivants.\n",
-    "Status": "Published",
-    "Questions using this term": [
-      "recrYDVoINSZiwvJh"
-    ],
-    "EN Term": [
-      "recUAN8C73rkuPWX9"
-    ],
-    "EN Definition": [
-      "According to the U.S. Centers for Disease Control, when something is sterile it is in a state of being free from all living microorganisms. This means that a sterile object is totally clean and free from bacteria and living germs."
-    ],
-    "Last Modified": "2020-05-27T21:00:04.000Z"
-  },
-  {
-    "id": "recF5ZskHxC3iLoRg",
-    "Term": "BCG",
-    "Definition": "Selon les Instituts nationaux de la santé des États-Unis, le vaccin bacille Calmette-Guérine (BCG) est un vaccin utilisé pour prévenir la tuberculose chez les personnes qui présentent un risque élevé de tuberculose ou dans les endroits où la tuberculose est courante.\n",
-    "Status": "Published",
-    "Questions using this term": [
-      "rec7DbR8cpUtj6laV"
-    ],
-    "EN Term": [
-      "recUx8LCQGkRdxG3B"
-    ],
-    "EN Definition": [
-      "According to the U.S. National Institutes of Health, the bacille Calmette-Guerine (BCG) vaccine is a vaccine used to prevent tuberculosis (TB) in people who are at a high risk of TB or where TB is common."
-    ],
-    "Last Modified": "2020-05-27T21:00:06.000Z"
-  },
-  {
-    "id": "rec6TkHKY7sNXMmZV",
-    "Term": "tuberculose",
-    "Definition": "Selon l'Organisation mondiale de la santé, la tuberculose est causée par une bactérie (Mycobacterium tuberculosis) qui affecte le plus souvent les poumons. La tuberculose est curable et évitable. \nLa tuberculose se propage quand quelqu'un qui a la tuberculose tousse, éternue, rit, chante ou parle fort et contamine l'air ambiant avec de minuscules gouttelettes contenant le germe vivant. Si ces gouttelettes sont respirées par une autre personne, cette dernière devient infectée.\n\nEnviron un quart de la population mondiale est porteuse d'une tuberculose latente, ce qui signifie que ces personnes ont été infectées par le bacille tuberculeux mais ne sont pas (encore) malades et ne peuvent pas transmettre la maladie\n\nLes personnes infectées par des bactéries tuberculeuses courent un risque de 5 à 15 % de tomber malade de la tuberculose au cours de leur vie. Cependant, les personnes dont le système immunitaire est affaibli, comme les personnes vivant avec le VIH, la malnutrition ou le diabète, ou les personnes qui fument, ont un risque beaucoup plus élevé de tomber malades.\n\nLorsqu'une personne développe une tuberculose active, les symptômes (tels que la toux, la fièvre, les sueurs nocturnes ou la perte de poids) peuvent être légers pendant plusieurs mois. Cela peut entraîner des retards dans la recherche de soins et entraîner la transmission des bactéries à d'autres personnes. Les personnes atteintes de tuberculose active peuvent infecter 10 à 15 autres personnes par le biais de contacts étroits au cours d'une année. \n",
-    "Status": "Published",
-    "Questions using this term": [
-      "rec7DbR8cpUtj6laV"
-    ],
-    "EN Term": [
-      "rec9SYUCp1ULDd0UL"
-    ],
-    "EN Definition": [
-      "According to the World Health Organization, tuberculosis (TB) is caused by bacteria (Mycobacterium tuberculosis) that most often affect the lungs. Tuberculosis is curable and preventable. TB is spread from person to person through the air. When people with lung TB cough, sneeze or spit, they propel the TB germs into the air. A person needs to inhale only a few of these germs to become infected.\nAbout one-quarter of the world's population has latent TB, which means people have been infected by TB bacteria but are not (yet) ill with the disease and cannot transmit the disease.\nPeople infected with TB bacteria have a 5–15% lifetime risk of falling ill with TB. Persons with compromised immune systems, such as people living with HIV, malnutrition or diabetes, or people who use tobacco, have a higher risk of falling ill.\nWhen a person develops active TB disease, the symptoms (such as cough, fever, night sweats, or weight loss) may be mild for many months. This can lead to delays in seeking care, and results in transmission of the bacteria to others. People with active TB can infect 5–15 other people through close contact over the course of a year."
-    ],
-    "Last Modified": "2020-05-27T21:03:07.000Z"
-  },
-  {
-    "id": "reccwo5NJI2cHb2Wl",
-    "Term": "zoonose",
-    "Definition": "Les zoonoses sont des maladies infectieuses que les animaux peuvent transmettre aux humains, surtout lorsqu'ils sont en étroit contact avec eux. Comme les humains, tous les animaux transportent des germes. Selon les Centres pour le contrôle et la prévention des maladies des États-Unis, ces germes peuvent se propager par contact direct, par contact indirect, par transmission vectorielle (comme un moustique ou une tique), par transmission alimentaire et par transmission hybride (par l'eau).\n",
-    "Status": "Published",
-    "Questions using this term": [
-      "recbjW2CdPdJHM0wE"
-    ],
-    "EN Term": [
-      "recFSOdDjQBqJHnZ9"
-    ],
-    "EN Definition": [
-      "Zoonoses are infectious diseases that animals can transmit to humans, especially when they are in close contact with them. Like humans, all animals carry germs. According to the U.S. Centers for Disease Control, these germs can be spread between animals and humans through direct contact, indirect contact, vector-borne transmission (like a mosquito or tick), foodborne transmission, and waterborne transmission.\n"
-    ],
-    "Last Modified": "2020-05-27T21:03:09.000Z"
-  },
-  {
-    "id": "recbMekD6UXPWJAi6",
-    "Term": "analyse génomique",
-    "Definition": "Selon la revue scientifique multidisciplinaire Nature, l'analyse génomique est l'identification, la mesure ou la comparaison de caractéristiques génomiques telles que la séquence d'ADN, la variation structurelle, l'expression des gènes ou l'annotation des éléments régulateurs et fonctionnels à l'échelle génomique. Ce type d'analyse utilise des méthodes de laboratoire pour examiner un ensemble de gènes afin de mieux comprendre les origines, le contexte, les relations et les fonctions de l'ADN et de l'ARN dans un organisme vivant.\n",
-    "Status": "Published",
-    "Questions using this term": [
-      "recbjW2CdPdJHM0wE"
-    ],
-    "EN Term": [
-      "recbQ95pvRq7nP9s3"
-    ],
-    "EN Definition": [
-      "According to the multidisciplinary science journal Nature, genomic analysis is the identification, measurement or comparison of genomic features such as DNA sequence, structural variation, gene expression, or regulatory and functional element annotation at a genomic scale. This type of analysis uses laboratory methods to look at a set of genes to better understand the origins, background, relationships, and functions of the DNA and RNA in a living organism."
-    ],
-    "Last Modified": "2020-05-27T21:03:11.000Z"
-  },
-  {
-    "id": "recRdDn65UcHnA63p",
-    "Term": "virus",
-    "Definition": "Selon les Centres pour le contrôle et la prévention des maladies des États-Unis, un virus est un organisme infectieux minuscule qui se multiplie à l'intérieur des cellules et provoque des maladies telles que la varicelle, la rougeole, les oreillons, la rubéole, la coqueluche et l'hépatite. Les virus sont plus petits que les bactéries et ont besoin de cellules ou de tissus vivants pour se développer et se reproduire. Les antibiotiques sont des médicaments utilisés pour traiter les infections bactériennes. Les antibiotiques ne sont pas efficaces contre les infections virales.\n\n",
-    "Status": "Published",
-    "Questions using this term": [
-      "recXOlSZvyEECnqkk"
-    ],
-    "EN Term": [
-      "recnFUXyIZy81Rj1I"
-    ],
-    "EN Definition": [
-      "According to the U.S. Centers for Diseases Control, a virus is a tiny organism that multiplies within cells and causes disease such as chickenpox, measles, mumps, rubella, pertussis and hepatitis. Viruses are not affected by antibiotics, the drugs used to kill bacteria. Viruses are smaller in size than bacteria and require living cells or tissues in order to grow and reproduce. "
-    ],
-    "Last Modified": "2020-05-27T21:03:13.000Z"
+    "Last Modified": "2020-07-29T22:20:01.000Z"
   },
   {
     "id": "recn0lT3zfEhVv8Eo",
     "Term": "bactérie",
-    "Definition": "Selon les Centres pour le contrôle et la prévention des maladies des États-Unis, les bactéries sont des germes. Elles vivent dans l'environnement et partout à l'intérieur et à l'extérieur de notre corps. La plupart des bactéries sont inoffensives et même utiles pour l'humain, mais certaines peuvent provoquer des infections, comme l'angine streptococcique. Ces organismes microscopiques sont constitués d'une seule cellule et peuvent survivre dans de nombreux types d'environnements différents, et pas seulement dans les êtres vivants. Les antibiotiques peuvent être utilisés pour traiter les infections bactériennes. \n",
-    "Status": "Published",
+    "Definition": "Selon les Centres pour le contrôle et la prévention des maladies des États-Unis, les bactéries sont des germes. Elles vivent dans l’environnement et partout à l’intérieur et à l’extérieur de nos corps. La plupart des bactéries sont inoffensives et même utiles pour l’humain, mais certaines peuvent provoquer des infections telles que la pharyngite streptococcique. Ces organismes microscopiques sont unicellulaires et peuvent survivre dans toutes sortes d’environnements différents, pas seulement dans les êtres vivants. Les médicaments antibiotiques peuvent être utilisés pour tuer les bactéries. \n",
+    "Status": "Ready for expert review",
     "Questions using this term": [
-      "recXOlSZvyEECnqkk"
+      "recXOlSZvyEECnqkk",
+      "recPkJ5SuaRbWr2Z8"
     ],
     "EN Term": [
       "recAFuzwLppTBDIPe"
@@ -219,99 +48,249 @@
     "EN Definition": [
       "According to the U.S. Centers for Disease Control, bacteria are germs. They live in the environment and all over the inside and outside of our bodies. Most bacteria are harmless and even helpful to people, but some can cause infections, like strep throat. These microscopic organisms are made up of one single cell, and can survive in many different types of environments, not just living things. Antibiotic medications can be used to kill bacteria."
     ],
-    "Last Modified": "2020-05-27T21:03:15.000Z"
+    "Last Modified": "2020-07-30T20:30:43.000Z"
   },
   {
-    "id": "recGkbysvb9KPYi3m",
-    "Term": "infection secondaire",
-    "Definition": "Une infection secondaire est une infection qui se produit pendant ou après le traitement d'une première infection. Les infections secondaires peuvent survenir chez les personnes dont l'immunité est affaiblie par une première infection ou par un traitement médicamenteux.\n\n",
-    "Status": "Published",
+    "id": "recHFrxN3qEXqWTDa",
+    "Term": "gouttelettes provenant de l’appareil respiratoire",
+    "Definition": " Les gouttelettes provenant de l’appareil respiratoire sont produites quand une personne tousse, éternue ou parle. Ces gouttelettes sont généralement lourdes et parcourent moins de deux mètres avant de tomber sur le sol. Ces gouttelettes contiennent de minuscules parties d’un virus (particules) et peuvent transmettre des infections si elles viennent en contact avec les yeux, le nez ou la bouche d’une autre personne. \nCes gouttelettes peuvent aussi propager des maladies entre les personnes si une personne touche une surface sur laquelle une gouttelette respiratoire a atterri, puis touche ses yeux, sa bouche, son nez ou une autre partie de son corps. \nContrairement aux agents pathogènes aérosols, les gouttelettes provenant de l’appareil respiratoire sont de plus grande taille, ne se déplacent pas aussi loin et ne restent pas longtemps dans l’air. La plupart des maladies respiratoires sont propagées par les gouttelettes provenant de l’appareil respiratoire. \n\n",
+    "Status": "Ready for expert review",
     "Questions using this term": [
-      "recXOlSZvyEECnqkk"
+      "recrYDVoINSZiwvJh",
+      "recBVqNYCcZL2zeqx",
+      "reccv7wTonNKiuovS"
     ],
     "EN Term": [
-      "rechTyFW9yFtRWh8o"
+      "rec5yviiSvJkufYvu"
     ],
     "EN Definition": [
-      "A secondary infection is an infection that takes place either during or following the treatment of an existing infection. Some of the causes of a secondary infection might include changes in the immune system of a person resulting from the first infection, or if the treatment for the first infection led to the secondary infection."
+      "Respiratory droplets are small drops of a liquid, usually water, that are produced from humans sneezing, coughing, talking, breathing, singing, yawning, or even just breathing, that fall to the ground and surfaces over several minutes and travel over a short range: up to 2 feet (60 cm). These droplets contain tiny parts of a virus (particles), so they can spread illnesses between people when someone touches a surface that a respiratory droplet has landed on and then touches their eyes, mouth, or nose or other body part. Unlike aerosolized pathogens, respiratory droplets are larger in size at over 5-10μm (hence being referred to also as 'large droplets'), don't travel as far, and don't remain in the air for long periods of time. Most respiratory illnesses are spread by respiratory droplets. \n"
     ],
-    "Last Modified": "2020-05-27T21:03:18.000Z"
+    "Last Modified": "2020-07-29T23:59:55.000Z"
   },
   {
-    "id": "recvR7KM6VedZfxmX",
-    "Term": "essais cliniques",
-    "Definition": "Selon les Instituts nationaux de la santé des États-Unis, les essais cliniques sont des études scientifiques effectuées sur des personnes et visant à évaluer une intervention médicale, chirurgicale ou comportementale. Ils constituent le principal moyen pour les chercheurs de découvrir si un nouveau traitement, comme un nouveau médicament, un nouveau régime alimentaire ou un dispositif médical (par exemple, un stimulateur cardiaque) est sûr et efficace chez les humains. Souvent, un essai clinique est utilisé pour savoir si un nouveau traitement est plus efficace et/ou a des effets secondaires moins nocifs que le traitement standard. L’objectif premier d’un essai clinique portant sur un produit de santé est donc d’évaluer ses effets sur la santé des humains, en testant le produit chez un ou des groupe(s) de volontaires sains ou malades.\nD'autres essais cliniques permettent de tester les moyens de détecter une maladie à un stade précoce, parfois avant l'apparition des symptômes. D'autres encore testent les moyens de prévenir un problème de santé. Un essai clinique peut également porter sur les moyens d'améliorer la vie des personnes atteintes d'une maladie mortelle ou d'un problème de santé chronique. Avant que l’agence de réglementation des produits biologiques (Food and Drug Administration-FDA) américaine n'autorise le lancement d'un essai clinique, les scientifiques effectuent des tests de laboratoire et des études sur des animaux afin de tester la sécurité et l'efficacité d'une thérapie potentielle. Si ces études montrent des résultats favorables, la FDA donne son accord pour que l'intervention soit testée sur des humains.\n\n\n",
-    "Status": "Published",
+    "id": "recYZMZsE8pHUmeFj",
+    "Term": "désinfection",
+    "Definition": "La désinfection est un procédé qui tue les germes et d’autres minuscules organismes porteurs de maladies (appelés micro-organismes), habituellement sur les revêtements durs, et qui empêche leur propagation. Il y a habituellement désinfection après utilisation de chaleur, de radiation, ou après application de produits chimiques sur une surface, ce qui détruit les bactéries et autres micro-organismes nocifs (sauf les spores).\n",
+    "Status": "Ready for expert review",
     "Questions using this term": [
-      "recAj0TYj97UNUWtk"
+      "reccv7wTonNKiuovS"
     ],
     "EN Term": [
-      "recM4p8QOERmuESKr"
+      "rec4crPh6OQvCngsk"
     ],
     "EN Definition": [
-      "According to the U.S. National Institutes of Health, clinical trials are research studies performed in people that are aimed at evaluating a medical, surgical, or behavioral intervention. They are the primary way that researchers find out if a new treatment, like a new drug or diet or medical device (for example, a pacemaker) is safe and effective in people. Often, a clinical trial is used to learn if a new treatment is more effective and/or has less harmful side effects than the standard treatment. Clinical trials require testing the health intervention in groups of volunteers which include, depending on the trials, healthy individuals and/or patients with a known health issue.\nOther clinical trials test ways to find a disease early, sometimes before there are symptoms. Still, others test ways to prevent a health problem. A clinical trial may also look at how to make life better for people living with a life-threatening disease or a chronic health problem. \nBefore the U.S. Food and Drug Administration (FDA) approves a clinical trial to begin, scientists perform laboratory tests and studies in animals to test a potential therapy’s safety and efficacy. If these studies show favorable results, the FDA gives approval for the intervention to be tested in humans."
+      "Disinfection is a process that kills germs and other tiny disease-carrying organisms (called 'microorganisms'), usually on hard surfaces, which stops them from spreading. Disinfection usually happens after using heat, radiation, or chemicals are applied to a surface that destroys bacteria and other harmful microorganisms (except spores). "
     ],
-    "Last Modified": "2020-05-27T21:03:00.000Z"
+    "Last Modified": "2020-07-29T23:22:12.000Z"
   },
   {
-    "id": "recH0gr95OweWQ1ng",
-    "Term": "germes",
-    "Definition": "Selon les Centres pour le contrôle et la prévention des maladies des États-Unis, les germes font partie de la vie quotidienne et se trouvent dans l'air, le sol, l'eau, ainsi qu'à l'extérieur et à l'intérieur de notre corps. Certains germes sont utiles, d'autres sont nuisibles. De nombreux germes vivent à l'extérieur et à l'intérieur de notre corps sans causer de dommages et certains nous aident même à rester en bonne santé. Seule une petite partie des germes est connue pour provoquer des infections. Les germes sont également connus sous le nom d'agents infectieux et désignent un virus, une bactérie ou un autre microbe.\n",
-    "Status": "Published",
+    "id": "recJecVrFicvxvKUo",
+    "Term": "viable",
+    "Definition": "Quand quelque chose est capable de vivre ou de se développer dans des conditions favorables.\n",
+    "Status": "Ready for expert review",
     "Questions using this term": [
-      "recrYDVoINSZiwvJh"
+      "recBVqNYCcZL2zeqx"
     ],
     "EN Term": [
-      "rec39wm7MuK12bTI3"
+      "recSf7dMrMv3l3Tcl"
     ],
     "EN Definition": [
-      "According to the U.S. Centers for Disease Control, germs are microorganisms and a part of everyday life. They can be found in our air, soil, water, and in and on our bodies. Some germs are helpful, others are harmful. Many germs live in and on our bodies without causing harm and some even help us to stay healthy. Only a small portion of germs are known to cause infection. Germs are also known as infectious agents and refer to a virus, bacteria, or other microbe."
+      "When something is able to live or develop under favorable conditions."
     ],
-    "Last Modified": "2020-05-27T21:13:30.000Z"
+    "Last Modified": "2020-07-29T20:04:29.000Z"
   },
   {
-    "id": "recgshltWbnQ59A6k",
-    "Term": "transmission aérienne",
-    "Definition": "La transmission aérienne se produit quand des particules infectieuses provenant des voies respiratoires d’une personne qui tousse, éternue ou parle sont transportées par des courants d’air et se déplacent sur de longues distances. Ces particules sont très petites et restent en suspension dans l’air. Elles peuvent être inhalées par une autre personne. Ce mode de transmission est peu fréquent. À titre d’exemple, c’est le mode impliqué dans la transmission de la tuberculose, la rougeole, etc. \n",
-    "Status": "Published",
+    "id": "recreu6otYgCCdR8J",
+    "Term": "désinfectant",
+    "Definition": "D’après les Centres de contrôle et de prévention des maladies des États-Unis, un désinfectant est un produit chimique qui détruit la plupart des germes de façon physique ou chimique. Un désinfectant tue les germes sur une surface particulière, ce qui diminue les risques de transmission de l’infection.\n",
+    "Status": "Ready for expert review",
+    "Questions using this term": [
+      "recR1yoAIRcVB6ZmT"
+    ],
+    "EN Term": [
+      "recjGuHkvGujLMjV7"
+    ],
+    "EN Definition": [
+      "According to the U.S. Centers for Disease Control, a disinfectant is a chemical that destroys most germs by physical or chemical means. A disinfectant kills germs on a particular surface, which lowers the risk of spreading infection. "
+    ],
+    "Last Modified": "2020-07-29T22:20:36.000Z"
+  },
+  {
+    "id": "recGB7tFNL1tqgk51",
+    "Term": "prévention",
+    "Definition": "D’après les Centres de contrôle et de prévention des maladies des États-Unis, les activités de prévention peuvent être réparties en trois grandes catégories : 1. Prévention primaire : les interventions telles que la vaccination et la modification des comportements dangereux (mauvaises habitudes alimentaires, consommation de tabac), afin de prévenir la maladie avant qu’elle ne se déclare. 2. Prévention secondaire : le dépistage (p. ex. la mammographie ou le contrôle régulier de la pression artérielle), afin d’identifier les maladies aussi précocement que possible, avant l’apparition de signes et symptômes. 3. Prévention tertiaire : les interventions pour gérer la maladie après diagnostic (p. ex. la chimiothérapie, la réadaptation) afin de ralentir ou d’arrêter la progression de la maladie et d’autres complications.\n",
+    "Status": "Ready for expert review",
+    "Questions using this term": [
+      "recR1yoAIRcVB6ZmT"
+    ],
+    "EN Term": [
+      "recMZLIWKC45HMVao"
+    ],
+    "EN Definition": [
+      "Prevention activities can typically be categorized into three areas, according to the U.S. Centers for Disease Control. 1. Primary Prevention—interventions such as vaccinations or altering risky behaviors (poor eating habits, tobacco use) to prevent disease before it occurs. 2. Secondary Prevention—screening (i.e. mammography or regular blood pressure testing) to identify diseases in the earliest stages, before the onset of signs and symptoms. 3. Tertiary Prevention—interventions to manage the disease post diagnosis (i.e. chemotherapy, rehabilitation) in order to slow or stop disease progression and further complications."
+    ],
+    "Last Modified": "2020-07-29T22:20:42.000Z"
+  },
+  {
+    "id": "recyEdXsLqUa2Tp7K",
+    "Term": "transmission par aérosol ou par voie aérienne",
+    "Definition": "La transmission par aérosol ou par voie aérienne a lieu quand de minuscules gouttes de germe ou d’agent infectieux (noyaux de condensation ou résidus évaporés de gouttelettes expulsées par une personne infectée), qui peuvent entraîner la présence aérienne d’une maladie (agent pathogène) pendant un certain temps après que quelqu’un a toussé, éternué, parlé, vomi, chanté, ri, expiré, et après transformation de ces gouttelettes en fine brume (aérosolisation). Ces petites particules connues sous le nom d’aérosols peuvent voyager sur des distances importantes, bien qu’elles soient invisibles à l’œil humain. Il peut aussi parfois y avoir transmission par voie aérienne provoquée par des particules de poussière qui portent le virus.\n\nQuand une autre personne entre en contact avec une brume aérosolisée contaminée, cette personne est aussi exposée à l’agent pathogène en suspension dans l’air. Contrairement aux gouttelettes provenant de l’appareil respiratoire, les agents pathogènes aérosolisés sont principalement secs, légers, très petits (moins de 5 μm) ; ces particules plus petites peuvent rester plus longtemps en suspension dans l’air et être dispersées plus loin par les courants d’air, parcourant des distances plus ou moins longues tout en restant avant l’air. Certaines procédures médicales ou de nettoyage peuvent aussi entraîner la transmission d’un agent pathogène par voie aérienne, telles que tirer la chasse d’eau ou introduire un tube dans la gorge d’un patient afin de l’aider à respirer.\n",
+    "Status": "Ready for expert review",
+    "Questions using this term": [
+      "recBVqNYCcZL2zeqx"
+    ],
     "EN Term": [
       "rech6tPR0hLDA3JH3"
     ],
     "EN Definition": [
-      "Aerosol transmission or airborne transmission occurs when tiny drops of a germ or infectious agent (droplet nuclei, or evaporated residues from droplets expelled by an infected person) that can cause a disease (pathogen) stay in the air for some time after someone coughs, sneezes, talks, vomits, sings, laughs, or exhales and these drops become a fine mist (aerosolized). These small particles, known as aerosols, can travel sizable distances even though they may not be visible to the human eye. Airborne transmission can also sometimes occur from dust particles carrying the virus.\n\nWhen another person comes into contact with contaminated aerosolized mist, they become exposed to the pathogen hanging in the air as well. Unlike respiratory droplets, aerosolized pathogens are mostly dry, light, very small (under 5μm); these smaller particles can stay suspended in the air for longer and be dispersed farther by air currents, traveling short and long distances as they remain in the air. Some medical and cleaning procedures can also cause aerosol transmission of a pathogen like flushing toilets or putting a tube into a patient's throat to help them breathe."
+      "Aerosol transmission or airborne transmission occurs when tiny drops of a germ or infectious agent (droplet nuclei, or evaporated residues from droplets expelled by an infected person) that can cause a disease (pathogen) stay in the air for some time after someone coughs, sneezes, talks, vomits, sings, laughs, or exhales and these drops become a fine mist (aerosolized). Droplet nuclei can also be considered evaporated residues from droplets. These small particles, known as aerosols, can travel sizable distances even though they may not be visible to the human eye. Airborne transmission can also sometimes occur from dust particles carrying the virus.\n\n\nWhen another person comes into contact with contamhinateds aerosolized mist, they become exposed to the pathogen hanging in the air as well. Unlike respiratory droplets, aerosolized pathogens are mostly dry, light, very small (under 5μm); these smaller particles can stay suspended in the air for longer and be dispersed farther by air currents, traveling short and long distances as they remain in the air. Some medical and cleaning procedures can also cause aerosol transmission of a pathogen like flushing toilets or putting a tube into a patient's throat to help them breathe."
     ],
-    "Last Modified": "2020-07-29T15:51:19.000Z"
+    "Last Modified": "2020-07-29T22:20:14.000Z"
   },
   {
-    "id": "recAvIYWiEsqWpO9E",
-    "Term": "événement indésirable",
-    "Definition": "Un événement indésirable peut être toute manifestation nocive (par exemple un symptôme ou une maladie) survenant chez une personne qui fait partie d'une recherche biomédicale (ex: un essai clinique), que cet événement soit lié ou non à la recherche ou au produit de santé sur lequel porte cette recherche.\n",
-    "Status": "Published",
+    "id": "recCYcD4Cqkl22arV",
+    "Term": "infectieux/infectieuse",
+    "Definition": "Quand quelque chose est infectieux, cela signifie qu’un organisme qui cause une maladie peut être passé d’une personne, d’une plante ou d’un animal à un autre. En matière de maladies infectieuses, l’Organisation mondiale de la santé dit qu’elles sont « causées par des micro-organismes pathogènes tels que les bactéries, les virus, les parasites ou les champignons ; les maladies peuvent être transmises directement ou indirectement d’une personne à une autre ».\n",
+    "Status": "Ready for expert review",
     "Questions using this term": [
-      "recAj0TYj97UNUWtk"
+      "recBVqNYCcZL2zeqx"
     ],
     "EN Term": [
-      "recAiJYWSxD5F1Lz1"
+      "recMOA1iUEl0oP2Vi"
     ],
     "EN Definition": [
-      "An adverse event (also referred to as an adverse experience) can be any unfavorable and unintended sign (e.g., an abnormal laboratory finding), symptom, or disease temporarily associated with the use of a medication, without any judgment about causality or relationship to the medication. "
+      "When something is infectious, it means that an organism that causes disease is able to be passed from a person, plant, or animal to another. In terms of infectious diseases, the World Health Organization says these are \"caused by pathogenic microorganisms, such as bacteria, viruses, parasites or fungi; the diseases can be spread, directly or indirectly, from one person to another.\""
     ],
-    "Last Modified": "2020-05-27T21:02:54.000Z"
+    "Last Modified": "2020-07-29T22:20:47.000Z"
   },
   {
-    "id": "recid3z2x1uYoo6xq",
-    "Term": "essai contrôlé randomisé",
-    "Definition": "Un essai contrôlé randomisé (ECR) est considéré comme la façon la plus objective d'évaluer le résultat d'une intervention. Dans le cas le plus simple, une population pertinente est définie, les patients aux prises avec la maladie que le médicament est destiné à traiter, par exemple. La population est répartie selon une méthode impartiale quelconque (idéalement, des numéros aléatoires générés par ordinateur) entre le groupe d'intervention et le groupe témoin. Cette répartition n'est pas connue des patients et, dans le meilleur des cas, des chercheurs et des évaluateurs non plus. Les patients reçoivent le traitement qui leur a été assigné (soit le traitement actif, soit le placébo) pendant une période prédéterminée, et sont suivis pour assurer le respect de la posologie et l'enregistrement de tous les effets indésirables. Des données sur les résultats sont recueillies à des moments préétablis. Au terme de l'essai, toutes les données sont analysées pour déterminer s'il existe une différence entre les groupes. \n",
-    "Status": "Published",
+    "id": "rectGx1TwAGePCyfG",
+    "Term": "systèmes de ventilation",
+    "Definition": "Les systèmes de ventilation sont les différentes façons de faire voyager l’air de l’extérieur vers l’intérieur des bâtiments, telles que les portes et les fenêtres ouvertes, les systèmes de chauffage, de ventilation et de climatisation.\n",
+    "Status": "Ready for expert review",
     "Questions using this term": [
-      "recAj0TYj97UNUWtk"
+      "recBVqNYCcZL2zeqx"
     ],
     "EN Term": [
-      "recjILnexcCRlyBIb"
+      "recRXYuU3tstg6EO0"
     ],
     "EN Definition": [
-      "A randomized controlled trial (RCT) is a type of scientific experiment that aims to reduce certain sources of bias when testing the effectiveness of new treatments. In these studies, people are randomly (by chance alone) assigned to a group to receive an intervention. One group—the experimental group—receives the intervention being assessed, while the other—usually called the control group—has an alternative intervention, such as the standard medical treatment, a placebo (\"sugar pill\") or no intervention at all. The groups are followed under conditions of the trial design and outcomes are compared to see how effective the experimental intervention was in comparison to the control."
+      "Ventilation systems are the ways that air flows from the outside through the inside of buildings like open doors and windows or heating, ventilation, and air conditioning (HVAC) systems. "
     ],
-    "Last Modified": "2020-05-27T21:02:50.000Z"
+    "Last Modified": "2020-07-29T20:19:11.000Z"
+  },
+  {
+    "id": "recEhkHsPoGdWn9E1",
+    "Term": "transmission indirecte (sans contact)",
+    "Definition": "Il y a transmission indirecte si aucun contact direct d’être humain à être humain n’a eu lieu, mais qu’un agent pathogène peut quand même se propager (être transmis) d’une personne, d’une plante, d’un animal à un autre. Par exemple, quand une personne infectée tousse ou éternue, les gouttelettes provenant de son appareil respiratoire tombent sur une surface qu’une autre personne touche. Si l’autre personne touche ensuite sa propre bouche ou son nez, elle se sera potentiellement exposée à cet agent pathogène et pourra aussi être infectée.\n",
+    "Status": "Ready for expert review",
+    "Questions using this term": [
+      "recBVqNYCcZL2zeqx"
+    ],
+    "EN Term": [
+      "recfxNeRDVhNKMgNe"
+    ],
+    "EN Definition": [
+      "Indirect transmission occurs when there is no direct human-to-human contact but a pathogen is still capable of being spread (transmitted) from one person, animal, or plant to another. An example of indirect transmission is when respiratory droplets from the cough or sneeze of an infected person fall onto a surface that another person touches. When the other person then touches their own mouth or nose, they have potentially exposed themselves to this pathogen and become infected as well. "
+    ],
+    "Last Modified": "2020-07-29T20:32:17.000Z"
+  },
+  {
+    "id": "recqwusfYxBjzTxUy",
+    "Term": "transmission communautaire",
+    "Definition": "D’après les Centres de contrôle et de prévention des maladies des États-Unis, « la propagation communautaire est la propagation d’une maladie dont la source de l’infection est inconnue. Il est cependant aussi possible que le patient ait été exposé à un voyageur infecté de retour chez lui ». Ce genre de transmission signifie aussi qu’une personne qui a été infectée par transmission communautaire l’a été sans avoir visité la source géographique ou la région de l’éclosion ni par un contact proche avec une autre personne, mais qu’elle a plutôt été infectée à l’intérieur de sa communauté dans le sens large du terme, à partir d’une source inconnue.\n",
+    "Status": "Ready for expert review",
+    "Questions using this term": [
+      "reccv7wTonNKiuovS"
+    ],
+    "EN Term": [
+      "rec8po7cJXvqkaQYB"
+    ],
+    "EN Definition": [
+      "According to the Centers for Disease Control, \"Community spread means spread of an illness for which the source of infection is unknown. It’s also possible, however, that the patient may have been exposed to a returned traveler who was infected.\" This type of transmissions also means that a person who was infected through community transmission did so without going to the geographical source or region of the outbreak or through close contact with another person, and instead became infected within their community at large but through an unknown source.\n\n"
+    ],
+    "Last Modified": "2020-07-29T23:58:54.000Z"
+  },
+  {
+    "id": "recsAn4Fibm7Oc0Cd",
+    "Questions using this term": [
+      "reccv7wTonNKiuovS"
+    ],
+    "Last Modified": "2020-07-30T15:01:51.000Z",
+    "Term": "piscine",
+    "EN Term": [
+      "recyEDVrAGriFphQH"
+    ],
+    "EN Definition": [
+      "A pool - often called a swimming pool - is a hole in the ground or structure that containts water in which people can swim."
+    ],
+    "Definition": "Une piscine est un bassin enterré ou une structure qui contient de l’eau dans laquelle on peut nager.\n",
+    "Status": "Ready for expert review"
+  },
+  {
+    "id": "recbU9QWhipv7Vh08",
+    "Questions using this term": [
+      "recC1x2wLaMrtU222",
+      "recqi3pOFpURsQnNr"
+    ],
+    "Last Modified": "2020-07-30T19:22:13.000Z",
+    "Term": "contrôle par les pairs",
+    "EN Term": [
+      "rec8sQHhdcKiEVR9f"
+    ],
+    "EN Definition": [
+      "Peer-reviewed journals are publications in which scientific contributions have been vetted by experts in the relevant field."
+    ],
+    "Status": "Ready for expert review",
+    "Definition": "Les journaux évalués par des pairs sont des publications dans lesquelles les contributions scientifiques ont été contrôlées par des experts dans le domaine concerné.\n"
+  },
+  {
+    "id": "recpsPOs42si1Us8I",
+    "Term": "cannabidiol",
+    "Last Modified": "2020-07-30T19:33:35.000Z",
+    "Questions using this term": [
+      "recqi3pOFpURsQnNr"
+    ],
+    "EN Term": [
+      "recwkZVfZQxlVPfdW"
+    ],
+    "EN Definition": [
+      "According to the Harvard Medical School, cannabidiol (CBD) is one of the main active ingredients of cannabis (marijuana). It is derived directly from the hemp plant.\n"
+    ],
+    "Status": "Ready for expert review",
+    "Definition": "D’après la faculté de médecine de Harvard, le cannabidiol (CBD) est l’un des principaux ingrédients actifs du cannabis (marijuana). Il est directement dérivé du chanvre.\n"
+  },
+  {
+    "id": "recR2lJJWxcwgnYeD",
+    "Term": "cannabis",
+    "Last Modified": "2020-07-30T19:44:18.000Z",
+    "Questions using this term": [
+      "recqi3pOFpURsQnNr"
+    ],
+    "Status": "Ready for expert review",
+    "EN Term": [
+      "recI2hC2wrx5GLTn6"
+    ],
+    "EN Definition": [
+      "Cannabis, also known as marijuana among other names, is a psychoactive drug from the cannabis plant used primarily for medical or recreational purposes."
+    ],
+    "Definition": "Le cannabis, connu aussi entre autres sous le nom de marijuana, est une drogue psychoactive dérivée de la plante de cannabis, utilisée principalement à des fins médicales et récréatives.\n"
+  },
+  {
+    "id": "recGqKLSTXFxhV3JM",
+    "Term": "alun",
+    "Last Modified": "2020-07-30T20:40:59.000Z",
+    "Questions using this term": [
+      "recPkJ5SuaRbWr2Z8"
+    ],
+    "Status": "Ready for expert review",
+    "EN Term": [
+      "recHytNA8slfllwKF"
+    ],
+    "EN Definition": [
+      "A colorless astringent compound that is a hydrated double sulfate of aluminum and potassium, used in solution medicinally and in dyeing and tanning."
+    ],
+    "Definition": "Un composé astringent incolore constitué d’un double sulfate hydraté d’aluminium et de potassium, utilisé dans les solutions médicinales, la teinture et la tannerie.\n"
   }
 ]

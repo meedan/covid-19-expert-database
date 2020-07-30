@@ -1,0 +1,22 @@
+{% assign authors = include.data %}
+
+{% for a in authors %}
+
+    {% 
+        assign contributors = site.data.contentful.spaces.contributors.contributor 
+        | where_exp: "item","item.sys.id == a.sys.id"
+    %}
+
+    {% for contributor in contributors %}
+    {% if a.size == 1 %}
+        {{ contributor.name }} 
+    {% endif %}
+    {% if a.size > 1 %}
+        {% if forloop.last %}
+            {{ contributor.name | append: "" }} 
+        {% else %}
+            {{ contributor.name | append: ", " }} 
+        {% endif %}
+    {% endif %}
+    {% endfor %}
+{% endfor %}

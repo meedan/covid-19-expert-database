@@ -1,0 +1,29 @@
+{% assign story_list = site.data.contentful.spaces.moduleStories.moduleStories 
+    | where_exp: "item","item.sys.id == '4hDOrsmcTmB60zhqrzF6Xp'"
+%}
+<div class="posts">
+    {% for story in story_list[0].stories %}
+        <a href="//meedan.com/blog/{{ story.slug }}" class="post">
+            <h4>{{ story.title }}</h4>
+            <div class="description">
+                {{ story.body | markdownify | truncate: 120 }}
+            </div>
+            {% if story.alt_date %}
+                {% assign published_on = story.alt_date %}
+            {% else %}
+                {% assign published_on = story.sys.created_at %}
+            {% endif %}
+            <div class="post-meta">
+                <span>
+                    {% 
+                        include words_by.html 
+                        data=story.words_by 
+                    %}
+                </span>
+                <span>
+                    {{ published_on | date: "%-d %B %Y" }}
+                </span>
+            </div>
+        </a>
+    {% endfor %}
+</div>

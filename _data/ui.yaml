@@ -8,6 +8,7 @@ t:
       hindi: "हिंदी"
       glossary: "Glossary"
       about: "About"
+      blog: "Blog"
     newsletter:
       lead: "This database is updated regularly."
       cta: "Catch up on weekly highlights from award-winning journalist and medical doctor, Dr. Seema Yasmin, by <a href='//meedan.com/checklist'>subscribing to our newsletter</a>."
@@ -65,6 +66,8 @@ t:
       variation-by-demographic: "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?"
       media: "Media"
       glossary-terms: "Glossary Terms"
+    blog:
+      recent-posts: "Recent Posts"
   fr:
     site-name: "Covid-19 Expert Database"
     ask-a-question: "Poser une question"
@@ -74,6 +77,7 @@ t:
       hindi: "हिंदी"
       glossary: "Glossaire"
       about: "En savoir plus"
+      blog: "Blog"
     newsletter:
       lead: "Cette base de données est mise à jour régulièrement."
       cta: "Retrouvez les temps forts de la semaine avec Dr Seema Yasmin, médecin et journaliste primée, en vous inscrivant à notre newsletter."
@@ -130,6 +134,8 @@ t:
       variation-by-demographic: "Cette réponse varie-t-elle en fonction de votre race, origine ethnique, âge, de votre sexe ou d'autres facteurs démographiques ?"
       media: "Media"
       glossary-terms: "Glossaire"
+    blog:
+      recent-posts: "Recent Posts"
   hi:
     site-name: "Covid-19 Expert Database"
     ask-a-question: "प्रश्न पूछें"
@@ -139,6 +145,7 @@ t:
       hindi: "हिंदी"
       glossary: "शब्दकोष"
       about: "हमारे बारे में"
+      blog: "Blog"
     newsletter:
       lead: "यह डेटाबेस नियमित रूप से अपडेट किया जाता है।"
       cta: "आप हमारे न्यूज़लेटर की सदस्यता ले सकते हैं और पुरस्कार विजेता पत्रकार और चिकित्सक डॉक्टर डॉक्टर यास्मीन से साप्ताहिक हाइलाइट देख सकते हैं।"
@@ -195,3 +202,5 @@ t:
       variation-by-demographic: "क्या यह उत्तर आपकी नस्ल, जातीयता, आय, आयु, लिंग या अन्य जनसांख्यिकीय कारकों के आधार पर बदलता है?"
       media: "Media"
       glossary-terms: "शब्दकोष"
+    blog:
+      recent-posts: "Recent Posts"

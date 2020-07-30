@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang }}">
+{% include head.html %}
+
+<body class="blog">
+  {% include header.html %}
+  <div class="content-wrapper">
+    <h2>{{ site.data.ui.t[page.lang].blog.recent-posts }}</h2>
+    {% include module_stories.html %}
+  </div>
+  {% include newsletter.html %}
+  {% include footer.html %}
+  {% include js.html %}
+  {% include algolia-glossary.html %}
+</body>
+
+</html>

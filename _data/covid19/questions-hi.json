@@ -264,7 +264,7 @@
       "Monthly"
     ],
     "EN What our experts say": [
-      "According to current evidence, it is believed that people with no symptoms, who may be either asymptomatic or pre-symptomatic, are playing a major role in the transmission of COVID-19. That means symptom-based screening alone is unlikely to detect all of the infectious cases and control the transmission of COVID-19. The incubation period of COVID-19, which is the period between a person's exposure to the virus and the first sign of their symptoms (if they develop any at all), ranges from 5 to 14 days. Some people may be contagious during this 2-14 day incubation period before they have symptoms, making those cases \"pre-symptomatic\". The United States Centers for Disease Control (U.S. CDC) has stated that 40% of COVID-19 cases are potentially spread by people who are pre-symptomatic. Other people infected with COVID-19 may never show symptoms at all and are called \"asymptomatic\". Asymptomatic people are still contagious throughout the time they are infected with the virus until their body clears it. The U.S. CDC estimates that 35% of COVID-19 cases are asymptomatic.\n\nUPDATED: July 19, 2020: On July 10, 2020, the U.S. CDC has revised its estimates and now states they believe 40% of COVID-19 cases are asymptomatic. "
+      "According to current evidence, it is believed that people with no symptoms, who may be either asymptomatic or pre-symptomatic, are playing a major role in the transmission of COVID-19. That means symptom-based screening alone is unlikely to detect all of the infectious cases and control the transmission of COVID-19. The incubation period of COVID-19, which is the period between a person's exposure to the virus and the first sign of their symptoms (if they develop any at all), ranges from 5 to 14 days. Some people may be contagious during this 5-14 day incubation period before they have symptoms, making those cases \"pre-symptomatic\". The Centers for Disease Control (CDC) has stated that 40% of COVID-19 cases are potentially spread by people who are pre-symptomatic. Other people infected with COVID-19 may never show symptoms at all and are called \"asymptomatic\". Asymptomatic people are still contagious throughout the time they are infected with the virus until their body clears it. The CDC estimates that 35% of COVID-19 cases are asymptomatic.\n\nUPDATED: July 19, 2020: On July 10, 2020, the U.S. CDC has revised its estimates and now states they believe 40% of COVID-19 cases are asymptomatic"
     ],
     "EN Background & context": [
       "The incubation period of the virus is the time between the moment a person is exposed to the virus and when they first show symptoms. During this period, the virus is multiplying in the body, and once enough of the virus has been replicated, people may indeed show symptoms. However, some people may well be infected with the virus even if they don't have any symptoms. For people who are pre-symptomatic and asymptomatic, they may still spread the virus to others during this period of time."
@@ -478,7 +478,7 @@
     "Experts say last edited (translation)": "2020-06-30T21:37:57.000Z",
     "Last modified": "2020-06-30",
     "EN What our experts say": [
-      null
+      "Vitamin C cannot prevent you from getting sick or from contracting COVID-19. It is neither a cure nor a prevention method for the virus. Contrary to popular belief, regular Vitamin C has never been proven to lower the number of colds people contract. It might help reduce the length of time someone is sick with a cold, as well as the severity of a cold, but even the research on that is still unclear and evolving. Right now, studies around the world are trying to determine if Vitamin C might help people with COVID-19, but no evidence shows that taking Vitamin C can impact people who have the virus."
     ],
     "EN Background & context": [
       "Vitamin C is a vitamin that is naturally present in some foods, and is added to others. Consuming Vitamin C is important because, though the body needs it for a variety of reasons, it is not something that the human body can readily make on its own. More information about this is available in the additional resources section. "
@@ -615,7 +615,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Background last edited (Translation)": "2020-07-03T23:03:11.000Z",
     "Experts say last edited (translation)": "2020-07-03T23:02:59.000Z",
-    "Last modified": "2020-07-03",
+    "Last modified": "2020-07-30",
     "EN What our experts say": [
       "As of now, there is not enough evidence to support the use of Ivermectin to treat COVID-19. \n\nIvermectin has been used to treat infectious diseases in humans and animals for over thirty years, primarily for treating parasitic roundworm infections in the intestinal tract, skin, and eyes. The medication has not been approved as a treatment for COVID-19 by the World Health Organization (WHO). A regional office of the WHO, called the Pan American Health Organization (PAHO), has advised against the use of ivermectin for any purposes other than those for which its use is authorized. \n\nAs of now, PAHO and WHO recommend that the use of ivermectin for new uses like COVID-19 only be used in research studies so scientists can determine if using ivermectin is safe and effective. There are currently more than 30 studies on ivermectin underway."
     ],
@@ -645,7 +645,8 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ]
+    ],
+    "Internal notes": "[@Erin McConnell][1] Source of question in EN is \"partner org\" and HI translation is newsroom and social media tag. Also I think translating Canada as कॅनेडा sounds better than कनाडा.\n\n  [1]: https://airtable.com/appKBFbOCN23iz8eF/menYkhN4JqPz91siO/usrizsZa8YaW2o92W?recordId=recuMsGR9XouJYTgV&fieldId=fldX2KkeGtEiBsSN4\n"
   },
   {
     "id": "recghRwerGPpEzj4B",
@@ -844,6 +845,9 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
+    ],
+    "EN Category": [
+      "Research"
     ]
   },
   {
@@ -1021,6 +1025,9 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
+    ],
+    "EN Category": [
+      "Transmission"
     ]
   },
   {
