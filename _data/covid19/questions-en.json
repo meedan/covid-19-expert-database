@@ -1,55 +1,5 @@
 [
   {
-    "id": "recbwOwl3dwdrh1iY",
-    "Question": "Why does COVID-19 make some people sick for months?",
-    "Status": "Published",
-    "Category": "Symptoms",
-    "Source of the question": [
-      "Social Media"
-    ],
-    "Country question was sourced from": [
-      "USA",
-      "United Kingdom"
-    ],
-    "Background and context": "COVID-19 has been shown to have varying effects on different individuals, including symptoms and secondary health effects. This range of outcomes makes it difficult to know the estimate length of impact COVID-19 might have on an individual. One example of a secondary outcome is [myalgic encephalomyelitis/chronic fatigue syndrome][1] (ME/CFS) — a long-term reappearance of symptoms — clusters of which have followed many infectious outbreaks. Increased data and corresponding analysis will help to provide more empirical evidence on how long COVID-19 adversely impacts individuals, what symptoms are most prevalent, and what secondary outcomes are most common. \n\n  [1]: https://www.cdc.gov/me-cfs/index.html\n",
-    "What our experts say": "Because the COVID-19 virus is new, we still don't know why some people might become sick longer than others—but we do know that people infected with COVID-19 who have severe symptoms tend to have symptoms for longer than those with mild cases. \n\nDifferences in immune responses, including lower levels of antibody production, can impact how long patients remain sick with COVID-19. COVID-19 can impact many organs, which might help explain why the virus can cause symptoms that continue over a longer period of time in some patients. Akiko Iwasaki, a Yale immunology doctor, believes some potential reasons the virus lasts longer in some patients is because the virus might remain in one of the organs that is not tested by nasal swabs; that non-living parts of the virus can still cause your immune system to overreact like the virus is still alive and reproducing in your body when it isn't really doing that; and the virus might not be present in your body any longer, but your immune system is stuck in the state of fighting it off. \n\nAdditionally, after becoming infected with different viruses, your body can take a while to heal. So even if you don't have the virus anymore, you may continue coughing and not be able to breathe as well as you normally do, since your throat and lungs have yet to fully heal and recover.\n\nCurrently, the majority of patients infected with COVID-19 have symptoms for several days - 6 weeks.\n\n\n",
-    "Glossary Terms": [
-      "recqwr4O57SOjNZYx"
-    ],
-    "Variation of the answer depending on country of residence": "No\t\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\t\n",
-    "Topics": [
-      "symptoms"
-    ],
-    "Other resources": "1. Clinical Questions about COVID-19: Questions and Answers ([U.S. CDC][1])\n2. Interim Clinical Guidance for Management of Patients with Confirmed Coronavirus Disease (COVID-19) ([U.S. CDC][2]) \n3. COVID-19 and Multiorgan Response ([CPC][3]) \n4. Coronavirus disease (COVID-19) outbreak ([WHO][4]) \n5. COVID-19 Can Last for Several Months ([The Atlantic][5]) \n6. Researchers warn covid-19 could cause debilitating long-term illness in some patients ([Washington Post][6]) \n7. A woman says she's had 8 positive coronavirus tests in 50 days. How long can it really take to recover? ([CBS News][7]) \n8. Clearance and persistence of SARS‐CoV‐2 RNA in patients with COVID‐19 ([Journal of Medical Virology][8])\n\n  [1]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/faq.html\n  [2]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance-management-patients.html\n  [3]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7187881/\n  [4]: https://www.who.int/health-topics/coronavirus#tab=tab_2\n  [5]: https://www.theatlantic.com/health/archive/2020/06/covid-19-coronavirus-longterm-symptoms-months/612679/\n  [6]: https://www.washingtonpost.com/health/could-covid-19-cause-long-term-chronic-fatigue-and-illness-in-some-patients/2020/05/29/bcd5edb2-a02c-11ea-b5c9-570a91917d8d_story.html\n  [7]: https://www.cbsnews.com/news/coronavirus-symptoms-8-positive-tests-50-days/\n  [8]: https://www.researchgate.net/profile/Analia_Carmo2/publication/341834349_Clearance_and_Persistence_of_SARS-CoV-2_RNA_in_COVID-19_patients/links/5eeddc0f299bf1faac6657b7/Clearance-and-Persistence-of-SARS-CoV-2-RNA-in-COVID-19-patients.pdf\n",
-    "How often revision needed": "Every 2 weeks for accuracy re: length of illness w/ symptoms from WHO; official reasons it can make people sick for months",
-    "DB (French)": [
-      "rec4cOu2yhlycFpKZ"
-    ],
-    "DB (Hindi)": [
-      "recRqKZW3vHx1CRAV"
-    ],
-    "In translated DBs?": "Yes",
-    "DB (Telugu)": [
-      "recrywZhw8D1DwgC3"
-    ],
-    "DB (Spanish)": [
-      "recKUZT533UsrHNwF"
-    ],
-    "DB (Arabic)": [
-      "rec4eqORwLQeFsYFu"
-    ],
-    "DB (Bengali)": [
-      "recsxms1Gw5Xuy9DG"
-    ],
-    "DB (Portuguese)": [
-      "rec3yXkfEqeTCgNDg"
-    ],
-    "Last edited (simplified)": "2020-07-06T20:37:14.000Z",
-    "Last edited (experts say)": "2020-07-30T22:07:04.000Z",
-    "Last modified": "2020-07-30"
-  },
-  {
     "id": "recUvk0IltcWA8G8O",
     "Question": "Can face masks be shared? ",
     "Status": "Published",
@@ -98,6 +48,234 @@
     ],
     "Last edited (simplified)": "2020-06-04T20:55:29.000Z",
     "Last edited (experts say)": "2020-06-04T20:53:58.000Z",
+    "Last modified": "2020-07-30"
+  },
+  {
+    "id": "recrralIEXZlkGqd5",
+    "Question": "How easily does COVID-19 spread from contaminated surfaces or animals?",
+    "Status": "Published",
+    "Category": "Transmission",
+    "Subcategory": "On: COVID-19 & contaminated surfaces",
+    "Source of the question": [
+      "Social Media"
+    ],
+    "Country question was sourced from": [
+      "USA"
+    ],
+    "Background and context": "The public health community is continually learning about how the novel coronavirus spreads, and what transmission routes are most likely to make it spread. Because of this continual learning in the public health community, there has been public confusion around how easily SARS-CoV-2 spreads, and through which routes. \n\nConfusion is particularly centered around the virus spreading from touching an infected surface and the virus spreading from airborne transmission. Person-to-person spread is the most well understood form of transmission as well as the main transmission route for COVID-19. \n\nSuch confusion has led to debate around the need to wipe down groceries, wear gloves, avoid petting neighborhood animals, and other steps to mitigate surface transmission. Though surface transmission is not thought to be the main way SARS-CoV-2 spreads, it is still a risk and should be responded to with precaution. One way to think about it is that virus spread from person-to-person is direct transmission, whereas virus stemming from a surface requires two intermediaries: 1) touching the virus on a surface, and then right after 2) touching your eyes, nose, or mouth. One is more direct and therefore more common, but both require caution.\n\n\n",
+    "What our experts say": "According to the U.S. Centers for Disease Control  and Prevention, COVID-19 doesn't easily spread from contaminated surfaces to humans. While it is not likely, it is still possible for the virus to spread through contaminated surfaces. \n\nRecent studies suggest that the more humid a region may be, the longer the virus may survive on surfaces. Another study found that the virus can remain on surfaces like plastic and steel for 48-72 hours, and for up to 24 hours on cardboard. If a person touches a contaminated surface with traces of the virus and then proceeds to touch their eyes, nose, or mouth, they could still become infected if the surface contains large amounts of the virus. Washing your hands for 20 seconds, avoiding touching your face, and cleaning surfaces often is an important step in stopping the potential spread of the virus. The virus that causes COVID-19 primarily spreads through close, person-to-person contact, not through surface contamination, so continuing to maintain six feet (two meters) of distance, wearing a mask, and staying home as much as possible are the key steps in combatting the virus.\n\nThe risk of contracting the virus from the surfaces of animals and pets is also considered to be low. The U.S. CDC noted in June 2020 that there is currently no evidence that animals have a significant role in spreading COVID-19 and the risk of animals spreading it to humans is low. However, more studies are needed to determine if and how a variety of animals might be impacted by the virus.\n\n",
+    "Glossary Terms": [
+      "rec5yviiSvJkufYvu"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\t\n",
+    "Topics": [
+      "contaminated",
+      "surface",
+      "animal",
+      "transmission"
+    ],
+    "Other resources": "1. COVID‑19 Strategy Update 14 April 2020 ([WHO][1])\n2. General Business Frequently Asked Questions ([U.S. CDC][2]) \n3. What’s the Risk of Catching Coronavirus From a Surface? ([NYT][3])\n4. How COVID-19 Spreads ([U.S. CDC][4])\n5. CDC updates COVID-19 transmission webpage to clarify information about types of spread ([U.S. CDC][5]) \n6. Likelihood of survival of coronavirus in a respiratory droplet deposited on a solid surface ([AIP][6]) \n7. COVID-19 and Animals ([U.S. CDC][7]) \n8. What’s the risk that animals will spread the coronavirus? ([Nature][8]) \n\n  [1]: https://www.who.int/docs/default-source/coronaviruse/covid-strategy-update-14april2020.pdf?sfvrsn=29da3ba0_19\n  [2]: https://www.cdc.gov/coronavirus/2019-ncov/community/general-business-faq.html#Reducing-the-Spread-of-COVID-19-in-Workplaces\n  [3]: https://www.nytimes.com/2020/05/28/well/live/whats-the-risk-of-catching-coronavirus-from-a-surface.html\n  [4]: https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-covid-spreads.html\n  [5]: https://www.cdc.gov/media/releases/2020/s0522-cdc-updates-covid-transmission.html\n  [6]: https://aip.scitation.org/doi/10.1063/5.0012009\n  [7]: https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/animals.html\n  [8]: https://www.nature.com/articles/d41586-020-01574-4\n",
+    "DB (French)": [
+      "recBPOfZTwHoKrU7J"
+    ],
+    "DB (Hindi)": [
+      "recoFA0c2kysT1Sul"
+    ],
+    "Media": [
+      {
+        "id": "attBAcUroZCdT5GRE",
+        "url": "https://dl.airtable.com/.attachments/c2dbcff90ae0f78226b7fe9a959606e2/79d1da4f/Slide_1",
+        "filename": "Slide_1",
+        "size": 201961,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/08ec207b4cef7274af81b8ddeb3c1e8d/09a041a0",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6c36d938d11125b7b5022404749f0225/2246c8fc",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f1e52dbe4addda4c48d2712d4b4aca7b/f06b9dfa",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "att4VThIR5EQa3T3T",
+        "url": "https://dl.airtable.com/.attachments/837d51c0b4ea97af33fd15e45e045440/ed457cd8/Slide_2",
+        "filename": "Slide_2",
+        "size": 246437,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/9ca561a0e0d8640de2802269503aec27/1e2ef384",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7e25ace51f0f903d53eeb5f4b34c0e24/e92bd084",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/1e0f95a5c11b0f8a638db9c434386c8c/14d95381",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attQyX1aeBjXFwPNz",
+        "url": "https://dl.airtable.com/.attachments/6c87a899cca5a418a3d14cf2995d92ba/7b189dbc/Slide_3",
+        "filename": "Slide_3",
+        "size": 329915,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ef2552ea8baad7186212b627337b9607/3f8b28df",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/02a6b10e1e95e8c2096fc154cc7db791/be621bab",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/71fc727bd2cf938e35c4719e65e8a7a3/7ba35dae",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "In translated DBs?": "Yes",
+    "DB (Telugu)": [
+      "rec1IpViUZJCYJMv5"
+    ],
+    "DB (Spanish)": [
+      "reck4SP6rU03MUjpH"
+    ],
+    "DB (Arabic)": [
+      "recEojKSUCWP0Fuyw"
+    ],
+    "DB (Bengali)": [
+      "rec2Hfo24nbyPLFwI"
+    ],
+    "DB (Portuguese)": [
+      "recDIQgg2hkuXtjwi"
+    ],
+    "Last edited (simplified)": "2020-07-17T21:43:30.000Z",
+    "Last edited (experts say)": "2020-07-17T21:50:56.000Z",
+    "Last modified": "2020-07-30"
+  },
+  {
+    "id": "rec7awl8Ed6xdZIiv",
+    "Question": "Does Vitamin D help prevent or treat COVID-19?",
+    "Status": "Published",
+    "Subcategory": "On: COVID-19 & Vitamin D",
+    "Source of the question": [
+      "Social Media"
+    ],
+    "Country question was sourced from": [
+      "USA"
+    ],
+    "Background and context": "Vitamin D is an essential nutrient, which means your body needs it but cannot make it on its own. This is why people have to get their Vitamin D from foods like salmon or egg yolks, supplements, or from spending short amounts of time in the sun. Vitamin D helps ensure your body's immune system and its cells are working well so they can respond to infections and viruses. In addition to its help in retaining calcium levels in the body and promoting bone health, Vitamin D can also potentially reduce cancer cell growth, help minimize inflammation, and help control infections. \n",
+    "What our experts say": "It is too early to tell whether or not Vitamin D can help treat COVID-19. As of now, Vitamin D has not been tested for its effectiveness in treating COVID-19 patients, so there is no evidence that it can prevent or treat the virus. A recent study looked at data from 20 European countries and noted that in places where more people had cases of Vitamin D deficiency, they also had higher rates of COVID-19 cases and deaths. While this study suggested a possible relationship between lower levels of Vitamin D and poor COVID-19 health outcomes, there is no evidence that Vitamin D levels actually caused more cases or deaths related to COVID-19. \n\nOther studies have noted potential links between low Vitamin D levels and COVID-19, but no consensus has been reached on what the potential impact of the vitamin is on the virus. Researchers are now working on several studies to determine if Vitamin D can be effective in treating COVID-19.\n",
+    "Glossary Terms": [
+      "recnFUXyIZy81Rj1I"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "Calcium",
+      "Vitamin D",
+      "prevention",
+      "treatment",
+      "homeopathic"
+    ],
+    "Other resources": "1. Lancet review on Vitamin D and COVID-19 outcomes ([The Lancet][1])\n2. Aging Clinical and Experimental Research study on Vitamin D and the prevention of COVID-19 ([Aging][2])\n3. BMJ study on Vitamin D and COVID-19 ([BMJ][3])\n4. Pre-print study of patterns of COVID-19 mortality and Vitamin D ([SSRN][4])\n5. Pre-print study on the possible role of Vitamin D and cytokine storms in COVID-19 ([Medrxiv][5])\n6. Harvard review of Vitamin D ([HSPH][6])\n7. Journal of Investigative Medicine review of Vitamin D and the immune system ([JIM][7])\n\n  [1]: https://www.thelancet.com/journals/landia/article/PIIS2213-8587(20)30183-2/fulltext\n  [2]: https://link.springer.com/article/10.1007%2Fs40520-020-01570-8\n  [3]: https://nutrition.bmj.com/content/early/2020/05/15/bmjnph-2020-000089\n  [4]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3585561\n  [5]: https://www.medrxiv.org/content/10.1101/2020.04.08.20058578v4\n  [6]: https://www.hsph.harvard.edu/nutritionsource/vitamin-d/\n  [7]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3166406/\n",
+    "DB (French)": [
+      "recgur7UqWESGFk8T"
+    ],
+    "DB (Hindi)": [
+      "reco1sk8QaOHSDsDk"
+    ],
+    "In translated DBs?": "Yes",
+    "DB (Telugu)": [
+      "recpDxEPAA9r6srCb"
+    ],
+    "DB (Spanish)": [
+      "recIZ0yD7vqSUDYwN"
+    ],
+    "DB (Arabic)": [
+      "rec2jrtpAdmE8o9FC"
+    ],
+    "DB (Bengali)": [
+      "recqCn7zKYBnXukDO"
+    ],
+    "DB (Portuguese)": [
+      "rec1DYZNISKj5cYDo"
+    ],
+    "Last edited (simplified)": "2020-06-03T21:07:17.000Z",
+    "Last edited (experts say)": "2020-06-04T16:24:46.000Z",
+    "Last modified": "2020-07-30"
+  },
+  {
+    "id": "recbwOwl3dwdrh1iY",
+    "Question": "Why does COVID-19 make some people sick for months?",
+    "Status": "Published",
+    "Category": "Symptoms",
+    "Source of the question": [
+      "Social Media"
+    ],
+    "Country question was sourced from": [
+      "USA",
+      "United Kingdom"
+    ],
+    "Background and context": "COVID-19 has been shown to have varying effects on different individuals, including symptoms and secondary health effects. This range of outcomes makes it difficult to know the estimate length of impact COVID-19 might have on an individual. One example of a secondary outcome is [myalgic encephalomyelitis/chronic fatigue syndrome][1] (ME/CFS) — a long-term reappearance of symptoms — clusters of which have followed many infectious outbreaks. Increased data and corresponding analysis will help to provide more empirical evidence on how long COVID-19 adversely impacts individuals, what symptoms are most prevalent, and what secondary outcomes are most common. \n\n  [1]: https://www.cdc.gov/me-cfs/index.html\n",
+    "What our experts say": "Because the COVID-19 virus is new, we still don't know why some people might become sick longer than others—but we do know that people infected with COVID-19 who have severe symptoms tend to have symptoms for longer than those with mild cases. \n\nDifferences in immune responses, including lower levels of antibody production, can impact how long patients remain sick with COVID-19. COVID-19 can impact many organs, which might help explain why the virus can cause symptoms that continue over a longer period of time in some patients. Akiko Iwasaki, a Yale immunology doctor, believes some potential reasons the virus lasts longer in some patients is because the virus might remain in one of the organs that is not tested by nasal swabs; that non-living parts of the virus can still cause your immune system to overreact like the virus is still alive and reproducing in your body when it isn't really doing that; and the virus might not be present in your body any longer, but your immune system is stuck in the state of fighting it off. \n\nAdditionally, after becoming infected with different viruses, your body can take a while to heal. So even if you don't have the virus anymore, you may continue coughing and not be able to breathe as well as you normally do, since your throat and lungs have yet to fully heal and recover.\n\nCurrently, the majority of patients infected with COVID-19 have symptoms for several days - 6 weeks.\n\n\n",
+    "Glossary Terms": [
+      "recqwr4O57SOjNZYx"
+    ],
+    "Variation of the answer depending on country of residence": "No\t\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\t\n",
+    "Topics": [
+      "symptoms"
+    ],
+    "Other resources": "1. Clinical Questions about COVID-19: Questions and Answers ([U.S. CDC][1])\n2. Interim Clinical Guidance for Management of Patients with Confirmed Coronavirus Disease (COVID-19) ([U.S. CDC][2]) \n3. COVID-19 and Multiorgan Response ([CPC][3]) \n4. Coronavirus disease (COVID-19) outbreak ([WHO][4]) \n5. COVID-19 Can Last for Several Months ([The Atlantic][5]) \n6. Researchers warn covid-19 could cause debilitating long-term illness in some patients ([Washington Post][6]) \n7. A woman says she's had 8 positive coronavirus tests in 50 days. How long can it really take to recover? ([CBS News][7]) \n8. Clearance and persistence of SARS‐CoV‐2 RNA in patients with COVID‐19 ([Journal of Medical Virology][8])\n\n  [1]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/faq.html\n  [2]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance-management-patients.html\n  [3]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7187881/\n  [4]: https://www.who.int/health-topics/coronavirus#tab=tab_2\n  [5]: https://www.theatlantic.com/health/archive/2020/06/covid-19-coronavirus-longterm-symptoms-months/612679/\n  [6]: https://www.washingtonpost.com/health/could-covid-19-cause-long-term-chronic-fatigue-and-illness-in-some-patients/2020/05/29/bcd5edb2-a02c-11ea-b5c9-570a91917d8d_story.html\n  [7]: https://www.cbsnews.com/news/coronavirus-symptoms-8-positive-tests-50-days/\n  [8]: https://www.researchgate.net/profile/Analia_Carmo2/publication/341834349_Clearance_and_Persistence_of_SARS-CoV-2_RNA_in_COVID-19_patients/links/5eeddc0f299bf1faac6657b7/Clearance-and-Persistence-of-SARS-CoV-2-RNA-in-COVID-19-patients.pdf\n",
+    "How often revision needed": "Every 2 weeks for accuracy re: length of illness w/ symptoms from WHO; official reasons it can make people sick for months",
+    "DB (French)": [
+      "rec4cOu2yhlycFpKZ"
+    ],
+    "DB (Hindi)": [
+      "recRqKZW3vHx1CRAV"
+    ],
+    "In translated DBs?": "Yes",
+    "DB (Telugu)": [
+      "recrywZhw8D1DwgC3"
+    ],
+    "DB (Spanish)": [
+      "recKUZT533UsrHNwF"
+    ],
+    "DB (Arabic)": [
+      "rec4eqORwLQeFsYFu"
+    ],
+    "DB (Bengali)": [
+      "recsxms1Gw5Xuy9DG"
+    ],
+    "DB (Portuguese)": [
+      "rec3yXkfEqeTCgNDg"
+    ],
+    "Last edited (simplified)": "2020-07-06T20:37:14.000Z",
+    "Last edited (experts say)": "2020-07-30T22:07:04.000Z",
     "Last modified": "2020-07-30"
   },
   {
@@ -193,58 +371,6 @@
       "recOobvP0b19NIhlE"
     ],
     "In translated DBs?": "Yes"
-  },
-  {
-    "id": "rec7awl8Ed6xdZIiv",
-    "Question": "Does Vitamin D help prevent or treat COVID-19?",
-    "Status": "Published",
-    "Subcategory": "On: COVID-19 & Vitamin D",
-    "Source of the question": [
-      "Social Media"
-    ],
-    "Country question was sourced from": [
-      "USA"
-    ],
-    "Background and context": "Vitamin D is an essential nutrient, which means your body needs it but cannot make it on its own. This is why people have to get their Vitamin D from foods like salmon or egg yolks, supplements, or from spending short amounts of time in the sun. Vitamin D helps ensure your body's immune system and its cells are working well so they can respond to infections and viruses. In addition to its help in retaining calcium levels in the body and promoting bone health, Vitamin D can also potentially reduce cancer cell growth, help minimize inflammation, and help control infections. \n",
-    "What our experts say": "It is too early to tell whether or not Vitamin D can help treat COVID-19. As of now, Vitamin D has not been tested for its effectiveness in treating COVID-19 patients, so there is no evidence that it can prevent or treat the virus. A recent study looked at data from 20 European countries and noted that in places where more people had cases of Vitamin D deficiency, they also had higher rates of COVID-19 cases and deaths. While this study suggested a possible relationship between lower levels of Vitamin D and poor COVID-19 health outcomes, there is no evidence that Vitamin D levels actually caused more cases or deaths related to COVID-19. \n\nOther studies have noted potential links between low Vitamin D levels and COVID-19, but no consensus has been reached on what the potential impact of the vitamin is on the virus. Researchers are now working on several studies to determine if Vitamin D can be effective in treating COVID-19.\n",
-    "Glossary Terms": [
-      "recnFUXyIZy81Rj1I"
-    ],
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "Calcium",
-      "Vitamin D",
-      "prevention",
-      "treatment",
-      "homeopathic"
-    ],
-    "Other resources": "1. Lancet review on Vitamin D and COVID-19 outcomes ([The Lancet][1])\n2. Aging Clinical and Experimental Research study on Vitamin D and the prevention of COVID-19 ([Aging][2])\n3. BMJ study on Vitamin D and COVID-19 ([BMJ][3])\n4. Pre-print study of patterns of COVID-19 mortality and Vitamin D ([SSRN][4])\n5. Pre-print study on the possible role of Vitamin D and cytokine storms in COVID-19 ([Medrxiv][5])\n6. Harvard review of Vitamin D ([HSPH][6])\n7. Journal of Investigative Medicine review of Vitamin D and the immune system ([JIM][7])\n\n  [1]: https://www.thelancet.com/journals/landia/article/PIIS2213-8587(20)30183-2/fulltext\n  [2]: https://link.springer.com/article/10.1007%2Fs40520-020-01570-8\n  [3]: https://nutrition.bmj.com/content/early/2020/05/15/bmjnph-2020-000089\n  [4]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3585561\n  [5]: https://www.medrxiv.org/content/10.1101/2020.04.08.20058578v4\n  [6]: https://www.hsph.harvard.edu/nutritionsource/vitamin-d/\n  [7]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3166406/\n",
-    "DB (French)": [
-      "recgur7UqWESGFk8T"
-    ],
-    "DB (Hindi)": [
-      "reco1sk8QaOHSDsDk"
-    ],
-    "In translated DBs?": "Yes",
-    "DB (Telugu)": [
-      "recpDxEPAA9r6srCb"
-    ],
-    "DB (Spanish)": [
-      "recIZ0yD7vqSUDYwN"
-    ],
-    "DB (Arabic)": [
-      "rec2jrtpAdmE8o9FC"
-    ],
-    "DB (Bengali)": [
-      "recqCn7zKYBnXukDO"
-    ],
-    "DB (Portuguese)": [
-      "rec1DYZNISKj5cYDo"
-    ],
-    "Last edited (simplified)": "2020-06-03T21:07:17.000Z",
-    "Last edited (experts say)": "2020-06-04T16:24:46.000Z",
-    "Last modified": "2020-07-30"
   },
   {
     "id": "recNhNi9YMJidUo7K",
@@ -981,132 +1107,6 @@
     ],
     "Last edited (simplified)": "2020-07-01T01:07:44.000Z",
     "Last edited (experts say)": "2020-07-30T15:11:56.000Z",
-    "Last modified": "2020-07-30"
-  },
-  {
-    "id": "recrralIEXZlkGqd5",
-    "Question": "How easily does COVID-19 spread from contaminated surfaces or animals?",
-    "Status": "Published",
-    "Category": "Transmission",
-    "Subcategory": "On: COVID-19 & contaminated surfaces",
-    "Source of the question": [
-      "Social Media"
-    ],
-    "Country question was sourced from": [
-      "USA"
-    ],
-    "Background and context": "The public health community is continually learning about how the novel coronavirus spreads, and what transmission routes are most likely to make it spread. Because of this continual learning in the public health community, there has been public confusion around how easily SARS-CoV-2 spreads, and through which routes. \n\nConfusion is particularly centered around the virus spreading from touching an infected surface and the virus spreading from airborne transmission. Person-to-person spread is the most well understood form of transmission as well as the main transmission route for COVID-19. \n\nSuch confusion has led to debate around the need to wipe down groceries, wear gloves, avoid petting neighborhood animals, and other steps to mitigate surface transmission. Though surface transmission is not thought to be the main way SARS-CoV-2 spreads, it is still a risk and should be responded to with precaution. One way to think about it is that virus spread from person-to-person is direct transmission, whereas virus stemming from a surface requires two intermediaries: 1) touching the virus on a surface, and then right after 2) touching your eyes, nose, or mouth. One is more direct and therefore more common, but both require caution.\n\n\n",
-    "What our experts say": "According to the U.S. Centers for Disease Control  and Prevention, COVID-19 doesn't easily spread from contaminated surfaces to humans. While it is not likely, it is still possible for the virus to spread through contaminated surfaces. \n\nRecent studies suggest that the more humid a region may be, the longer the virus may survive on surfaces. Another study found that the virus can remain on surfaces like plastic and steel for 48-72 hours, and for up to 24 hours on cardboard. If a person touches a contaminated surface with traces of the virus and then proceeds to touch their eyes, nose, or mouth, they could still become infected if the surface contains large amounts of the virus. Washing your hands for 20 seconds, avoiding touching your face, and cleaning surfaces often is an important step in stopping the potential spread of the virus. The virus that causes COVID-19 primarily spreads through close, person-to-person contact, not through surface contamination, so continuing to maintain six feet (two meters) of distance, wearing a mask, and staying home as much as possible are the key steps in combatting the virus.\n\nThe risk of contracting the virus from the surfaces of animals and pets is also considered to be low. The U.S. CDC noted in June 2020 that there is currently no evidence that animals have a significant role in spreading COVID-19 and the risk of animals spreading it to humans is low. However, more studies are needed to determine if and how a variety of animals might be impacted by the virus.\n\n",
-    "Glossary Terms": [
-      "rec5yviiSvJkufYvu"
-    ],
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\t\n",
-    "Topics": [
-      "contaminated",
-      "surface",
-      "animal",
-      "transmission"
-    ],
-    "Other resources": "1. COVID‑19 Strategy Update 14 April 2020 ([WHO][1])\n2. General Business Frequently Asked Questions ([U.S. CDC][2]) \n3. What’s the Risk of Catching Coronavirus From a Surface? ([NYT][3])\n4. How COVID-19 Spreads ([U.S. CDC][4])\n5. CDC updates COVID-19 transmission webpage to clarify information about types of spread ([U.S. CDC][5]) \n6. Likelihood of survival of coronavirus in a respiratory droplet deposited on a solid surface ([AIP][6]) \n7. COVID-19 and Animals ([U.S. CDC][7]) \n8. What’s the risk that animals will spread the coronavirus? ([Nature][8]) \n\n  [1]: https://www.who.int/docs/default-source/coronaviruse/covid-strategy-update-14april2020.pdf?sfvrsn=29da3ba0_19\n  [2]: https://www.cdc.gov/coronavirus/2019-ncov/community/general-business-faq.html#Reducing-the-Spread-of-COVID-19-in-Workplaces\n  [3]: https://www.nytimes.com/2020/05/28/well/live/whats-the-risk-of-catching-coronavirus-from-a-surface.html\n  [4]: https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-covid-spreads.html\n  [5]: https://www.cdc.gov/media/releases/2020/s0522-cdc-updates-covid-transmission.html\n  [6]: https://aip.scitation.org/doi/10.1063/5.0012009\n  [7]: https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/animals.html\n  [8]: https://www.nature.com/articles/d41586-020-01574-4\n",
-    "DB (French)": [
-      "recBPOfZTwHoKrU7J"
-    ],
-    "DB (Hindi)": [
-      "recoFA0c2kysT1Sul"
-    ],
-    "Media": [
-      {
-        "id": "attBAcUroZCdT5GRE",
-        "url": "https://dl.airtable.com/.attachments/c2dbcff90ae0f78226b7fe9a959606e2/79d1da4f/Slide_1",
-        "filename": "Slide_1",
-        "size": 201961,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/08ec207b4cef7274af81b8ddeb3c1e8d/09a041a0",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/6c36d938d11125b7b5022404749f0225/2246c8fc",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/f1e52dbe4addda4c48d2712d4b4aca7b/f06b9dfa",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "att4VThIR5EQa3T3T",
-        "url": "https://dl.airtable.com/.attachments/837d51c0b4ea97af33fd15e45e045440/ed457cd8/Slide_2",
-        "filename": "Slide_2",
-        "size": 246437,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/9ca561a0e0d8640de2802269503aec27/1e2ef384",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/7e25ace51f0f903d53eeb5f4b34c0e24/e92bd084",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/1e0f95a5c11b0f8a638db9c434386c8c/14d95381",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "attQyX1aeBjXFwPNz",
-        "url": "https://dl.airtable.com/.attachments/6c87a899cca5a418a3d14cf2995d92ba/7b189dbc/Slide_3",
-        "filename": "Slide_3",
-        "size": 329915,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/ef2552ea8baad7186212b627337b9607/3f8b28df",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/02a6b10e1e95e8c2096fc154cc7db791/be621bab",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/71fc727bd2cf938e35c4719e65e8a7a3/7ba35dae",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ],
-    "In translated DBs?": "Yes",
-    "DB (Telugu)": [
-      "rec1IpViUZJCYJMv5"
-    ],
-    "DB (Spanish)": [
-      "reck4SP6rU03MUjpH"
-    ],
-    "DB (Arabic)": [
-      "recEojKSUCWP0Fuyw"
-    ],
-    "DB (Bengali)": [
-      "rec2Hfo24nbyPLFwI"
-    ],
-    "DB (Portuguese)": [
-      "recDIQgg2hkuXtjwi"
-    ],
-    "Last edited (simplified)": "2020-07-17T21:43:30.000Z",
-    "Last edited (experts say)": "2020-07-17T21:50:56.000Z",
     "Last modified": "2020-07-30"
   },
   {

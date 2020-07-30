@@ -134,7 +134,7 @@ page_gen:
 # Algolia search
 algolia:
   application_id: XVQE72Q0TQ
-  index_name: covid19
+  index_name: covid19_dev
   search_only_api_key: d031b4f0809f3999da155451bffba6db
   nodes_to_index: 'p'
   settings: 
