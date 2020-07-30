@@ -29,6 +29,10 @@
       cols="30" rows="5"></textarea>
   </div>
   <div class="form-group">
+    <label for="deadline">{{ site.data.ui.t[page.lang].form.deadline-label }}</label>
+    <input id="deadline" type="text" name="deadline" placeholder="{{ site.data.ui.t[page.lang].form.deadline-placeholder }}">
+  </div>
+  <div class="form-group">
     <input type="checkbox" name="follow-up" class="switch" id="follow-up" checked>
     <label class="switch" for="follow-up">{{ site.data.ui.t[page.lang].form.follow-up-label }}</label>
   </div>
