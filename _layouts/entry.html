@@ -27,7 +27,7 @@ record_type: question
         {% include module_ask_a_question.html %}
         <h3 class="section-title">{{ site.data.ui.t[page.lang].entry.context-and-background }}</h3>
         <div class="context">
-            {{ page['Background & context'] | markdownify | glossarify: page['Glossary Terms'] }}
+            {{ page['Background and context'] | markdownify | glossarify: page['Glossary Terms'] }}
         </div>
         {% include data.html %}
         {% include media.html %}

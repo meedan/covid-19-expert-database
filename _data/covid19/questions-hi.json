@@ -587,6 +587,7 @@
     "id": "recuMsGR9XouJYTgV",
     "Question": "धूप सेंकने और कोविड-19 के सम्बंध में शोध क्या कहता है?",
     "Status": "Published",
+    "Internal notes": "[@Erin McConnell][1] Source of question in EN is \"partner org\" and HI translation is newsroom and social media tag. Also I think translating Canada as कॅनेडा sounds better than कनाडा.\n\n  [1]: https://airtable.com/appKBFbOCN23iz8eF/menYkhN4JqPz91siO/usrizsZa8YaW2o92W?recordId=recuMsGR9XouJYTgV&fieldId=fldX2KkeGtEiBsSN4\n",
     "Category": "निवारण",
     "Subcategory": "के बारे में: कोविड​​-19 और धूप सेंकना",
     "Source of the question": [
@@ -837,6 +838,9 @@
     "EN Country question was sourced from": [
       "USA"
     ],
+    "EN Category": [
+      "Research"
+    ],
     "EN Subcategory": [
       "On: Pre-print studies"
     ],
@@ -1016,6 +1020,9 @@
     ],
     "EN Country question was sourced from": [
       "USA"
+    ],
+    "EN Category": [
+      "Transmission"
     ],
     "EN Subcategory": [
       "On: COVID-19 & pool water"

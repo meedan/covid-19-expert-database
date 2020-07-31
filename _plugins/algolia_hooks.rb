@@ -13,7 +13,6 @@ module Jekyll
         # if record[:Term]
         #   record[:content_type] = 'glossary'
         # end
-        # record.delete(:'Background & context')
         record.delete(:content)
         record.delete(:'Other resources')
         record.delete(:html)
@@ -63,6 +62,7 @@ module Jekyll
         return true if filepath =~ %r{ask-a-question}
         return true if filepath =~ %r{thanks}
         return true if filepath =~ %r{meet-our-experts}
+        return true if filepath =~ %r{share}
         false
       end
       
