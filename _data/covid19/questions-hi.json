@@ -333,7 +333,7 @@
     ],
     "Background last edited (Translation)": "2020-06-30T02:21:27.000Z",
     "Experts say last edited (translation)": "2020-06-30T02:21:17.000Z",
-    "Last modified": "2020-06-30",
+    "Last modified": "2020-07-31",
     "EN What our experts say": [
       "The science is unclear on whether the spread of COVID-19 will decrease in the warmer summer months. Some viruses, like those that cause the common cold and flu, don't spread as easily in warm weather. We don't know for sure how COVID-19 will react to changing temperatures. At this stage, temperature-related transmission reductions are hypothetical."
     ],
@@ -367,7 +367,8 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ]
+    ],
+    "Internal notes": "[@Erin McConnell][1] Can we put विषय for mentioning on in subcategory because के बारे में looks some middle part of sentence\n\n  [1]: https://airtable.com/appKBFbOCN23iz8eF/menaBv9giRAd2H53H/usrizsZa8YaW2o92W?recordId=recCq6AMpxSN3gjOF&fieldId=fldX2KkeGtEiBsSN4\n"
   },
   {
     "id": "recKr9zDEV3KkIoty",
@@ -646,8 +647,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Internal notes": "[@Erin McConnell][1] Source of question in EN is \"partner org\" and HI translation is newsroom and social media tag. Also I think translating Canada as कॅनेडा sounds better than कनाडा.\n\n  [1]: https://airtable.com/appKBFbOCN23iz8eF/menYkhN4JqPz91siO/usrizsZa8YaW2o92W?recordId=recuMsGR9XouJYTgV&fieldId=fldX2KkeGtEiBsSN4\n"
+    ]
   },
   {
     "id": "recghRwerGPpEzj4B",
@@ -849,9 +849,6 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "EN Category": [
-      "Research"
     ]
   },
   {
@@ -1032,9 +1029,6 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "EN Category": [
-      "Transmission"
     ]
   },
   {
