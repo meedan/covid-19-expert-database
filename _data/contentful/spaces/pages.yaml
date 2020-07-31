@@ -129,7 +129,7 @@ page:
     - sys:
         id: 7sOeWskK689sgFsKfczg7D
         created_at: !ruby/object:DateTime 2020-05-13 21:26:02.232000000 Z
-        updated_at: !ruby/object:DateTime 2020-07-03 14:49:00.352000000 Z
+        updated_at: !ruby/object:DateTime 2020-07-30 18:37:11.742000000 Z
         content_type_id: moduleContributors
         revision: 3
       title:
@@ -154,6 +154,8 @@ page:
             id: 3MDM05wtxjGNQC5PY7gIpT
         - sys:
             id: 6UfhbEJXnLVdsbrRf0tvrs
+        - sys:
+            id: 4b3FUNTqn4QfR56LbTg5cq
   title-en: Meet Our Experts
 - sys:
     id: 4rsYkahaSHvaiC75qy2xby

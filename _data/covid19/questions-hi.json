@@ -646,7 +646,8 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ]
+    ],
+    "Internal notes": "[@Erin McConnell][1] Source of question in EN is \"partner org\" and HI translation is newsroom and social media tag. Also I think translating Canada as कॅनेडा sounds better than कनाडा.\n\n  [1]: https://airtable.com/appKBFbOCN23iz8eF/menYkhN4JqPz91siO/usrizsZa8YaW2o92W?recordId=recuMsGR9XouJYTgV&fieldId=fldX2KkeGtEiBsSN4\n"
   },
   {
     "id": "recghRwerGPpEzj4B",
@@ -848,6 +849,9 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
+    ],
+    "EN Category": [
+      "Research"
     ]
   },
   {
@@ -1028,6 +1032,9 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
+    ],
+    "EN Category": [
+      "Transmission"
     ]
   },
   {

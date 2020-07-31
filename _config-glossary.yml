@@ -17,7 +17,7 @@ page_gen:
 # Glossary
 algolia:
   application_id: XVQE72Q0TQ
-  index_name: covid19_glossary
+  index_name: covid19_glossary_dev
   search_only_api_key: d031b4f0809f3999da155451bffba6db
   nodes_to_index: 'h4, p'
   files_to_exclude:
