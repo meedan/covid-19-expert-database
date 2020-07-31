@@ -1,200 +1,139 @@
 [
   {
-    "id": "recXUQjiQ2yaPXyxo",
-    "Question": "What do we know so far about airborne transmission and how does it differ from respiratory droplet transmission? ",
+    "id": "rechQWZ1ctlJ81Vxn",
+    "Question": "What does the scientific literature say about using hydroxychloroquine to prevent, treat or cure COVID-19?",
     "Status": "Published",
-    "Category": "Transmission",
-    "Subcategory": "Differences between airborne transmission and respiratory droplets",
-    "Background and context": "Respiratory droplet transmission happens when disease spreads through droplets expelled by an infected person, through coughing, sneezing, talking, or even just breathing; these droplets are larger than 5-10 micrometers. One micrometer is one millionth of a meter. Respiratory droplets are _relatively_ heavy, and fall to the ground quickly. In contrast, airborne transmission is when residue from droplets smaller than 5 micrometers, or dust particles carrying the virus, stay suspended in the air for longer and disperse farther by air currents. Scientists and the World Health Organization (WHO) have recognized that evidence is emerging on the possibility of airborne transmission, particularly in \"crowded, closed, poorly ventilated settings.\" If airborne transmission of COVID-19 is significant, this has major implications for containment efforts (ex. masks may be needed indoors and in socially-distant settings, ventilation systems may need to minimize recirculating air and find ways to filter or disinfect contaminated air, etc.). \n",
-    "What our experts say": "There is mounting evidence that COVID-19 can spread through airborne transmission, which is when a person infected with COVID-19 releases tiny droplets of fluid into the air called 'droplet nuclei' by coughing, sneezing, talking, or during medical procedures involving the release of these types of fluids. Droplet nuclei are very light, relatively dry, and microscopic in size so they can remain suspended in the air like a mist, which is why airborne transmission is also called 'aerosol transmission, and pose a risk of infection to people in close proximity. This is different from the prevailing theory that the virus spreads through bigger respiratory droplets that are heavier, fall to the ground relatively quickly, and do not remain suspended in the air or spread through the air. \n\nThe risk of airborne transmission remains under research**, **but it is potentially thought to be higher risk in enclosed spaces with poor ventilation. Retrospective analyses of \"super-spreader\" events, where a significant number of people have been infected at a single event, demonstrate that airborne transmission was likely responsible for infecting multiple people in the absence of direct, physical contact. One study analyzed an outbreak involving three separate families in a restaurant in Guangzhou, China and found that the spread pattern pointed to aerosol transmission due to poor ventilation in the restaurant. Yet another study found that aerosol transmission was most likely the predominant route of COVID-19 transmission among passengers aboard the Diamond Princess Cruise Ship outbreak.\n\nUntil July 7, 2020, the World Health Organization (WHO) continued to claim that evidence pointed to respiratory droplet transmission as the most plausible route of transmission for the virus, but 239 experts and public health professionals have cautioned against ruling out the possibility of airborne transmission and the WHO acknowledged emerging evidence regarding airborne transmission in poorly ventilated spaces on July 8, 2020. Public health experts have repeatedly warned that airborne transmission is most likely contributing to transmission, especially in indoor spaces, and recommendations should incorporate the need for sufficient ventilation, high efficiency filtration, and limiting crowded spaces, in addition to universal adoption of masks, social distancing, and frequent hand washing with soap and water.\n\nUPDATED: July 31, 2020: On July 9, 2020, the WHO has acknowledged that certain medical procedures can cause COVID-19 to be spread through airborne transmission. The group also noted that the potential for COVID-19 to spread through the air in crowded, indoor spaces that are inadequately ventilated \"cannot be ruled out.\" The WHO stated that more studies are urgently needed on this topic and reiterated their stance that the virus is primarily spread through contact and respiratory droplets.\n\n",
+    "Category": "Treatment",
+    "Subcategory": "On: COVID-19 & hydroxychloroquine",
+    "Source of the question": [
+      "Social Media"
+    ],
+    "Country question was sourced from": [
+      "India"
+    ],
+    "Background and context": "Hydroxycloroquine is a medication currently prescribed for preventing or treating malaria, an infectious disease that can be transmitted to humans from mosquitos. It is also prescribed as a treatment for rheumatoid arthritis and lupus, which are both autoimmune diseases.\nWhen faced with an unknown virus like COVID-19 and without a specific vaccine and treatment, one of the best medical strategies is to look among the medications already available and clinically tested to see if any of them are effective. As their risks, benefits, and side effects have already been studied (without allowing safety tests to be ignored), this could speed up research. One of these is hydroxychloroquine. \nWhen trying to find treatments for COVID-19, hydroxychloroquine was tested on hospitalized patients. However, the results from this research do not represent evidence significant enough to recommend hydroxychloroquine for treating COVID-19. At the same time, some research studies have also shown some serious negative consequences (incl. serious heart rhythm problems) associated with the use of hydroxychloroquine in the treatment of COVID-19. More studies are underway.\n\n",
+    "What our experts say": "Ongoing clinical trials are testing how safe and effective chloroquine and hydroxychloroquine are as treatments for COVID-19. So far, clinical trials and scientific analyses have not produced high quality evidence showing efficacy of these medications as a treatment, and some studies have even reported higher rates of adverse events (including cardiac issues) in hospitalized patients treated with hydroxychloroquine. As things stand, hydroxychloroquine is not a recognized prevention, treatment or cure for COVID-19.\nIn this context, there are research studies underway to find out whether taking this medication can prevent people from getting infected with coronavirus once they have been exposed. Other studies are still investigating the efficacy and safety of the drug as a treatment at different stages of the illness, including randomized controlled trials with a large number of patients enrolled.\nAround the world, some countries have moved ahead and authorized chloroquine or hydroxychloroquine for the treatment of COVID-19 despite limited clinical evidence supporting its efficacy. This decision follows some preliminary results coming out of China and France in March 2020, where a few small clinical trials showed limited success of the medication.\nIn the Unites States, on March 27th 2020, the Food and Drug Administration (FDA) has granted a special permission (Emergency Authorization Use) to use chloroquine and hydroxychloroquine in emergency situations for treatment of COVID-19. This did not constitute a formal approval of the drug, but rather a possibility given to American doctors to use chloroquine and hydroxychloroquine in the treatment of COVID-19 if the doctor has no other options and after discussing with the patients the risks involved. On June 15th 2020, the U.S. FDA has revoked the special permission to use chloroquine and hydroxychloroquine in emergency situations for COVID-19 citing that these drugs are unlikely to be effective in treating COVID-19 and highlighting serious cardiac adverse events and other serious side effects reported in studies.\n",
     "Glossary Terms": [
-      "recy3qWpegJbN2rbV",
-      "recTotk6ZnYu3ib8P",
-      "rech6tPR0hLDA3JH3",
-      "rec5yviiSvJkufYvu"
+      "recM4p8QOERmuESKr",
+      "recAiJYWSxD5F1Lz1",
+      "recJ1c8DQQVGmXfzM",
+      "recjILnexcCRlyBIb"
     ],
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No \n",
+    "Variation of the answer depending on country of residence": "Yes - some countries have included chloroquine and hydroxychloroquine in their treatment protocol despite the fact that the World Health Organization has not recognized it as a treatment as they await further clinical trial results.\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
     "Topics": [
-      "aerosol",
-      "airborne",
-      "transmission",
-      "droplet",
-      "respiratory droplets"
+      "prevention",
+      "treatment",
+      "cure",
+      "hydroxychloroquine"
     ],
-    "Other resources": "1. Modes of transmission of virus causing COVID-19: implications for IPC precaution recommendations ([WHO][1])\n2. Open Letter: It is Time to Address Airborne Transmission of COVID-19 ([Clinical Infectious Diseases][2])\n3. W.H.O. to Review Evidence of Airborne Transmission of Coronavirus ([NYT][3])\n4. Mechanistic Transmission Modeling of COVID-19 on the Diamond Princess Cruise Ship Demonstrates the Importance of Aerosol Transmission ([medRxiv][4])\n5. 239 Experts With One Big Claim: The Coronavirus Is Airborne ([NYT][5])\n6. Evidence for probable aerosol transmission of SARS-CoV-2 in a poorly ventilated restaurant ([medRxiv][6])\n7. Scientists Urge WHO To Update Guidance On Airborne Transmission Of The Coronavirus ([NPR][7])\n8. Aerodynamic Characteristics and RNA Concentration of SARS-CoV-2 Aerosol in Wuhan Hospitals during COVID-19 Outbreak ([bioRxiv][8])\n9. Coronavirus: WHO rethinking how Covid-19 spreads in air ([BBC][9])\n10. Transmission of SARS-CoV-2: implications for infection prevention precautions ([WHO][10]) \n\n  [1]: https://www.who.int/news-room/commentaries/detail/modes-of-transmission-of-virus-causing-covid-19-implications-for-ipc-precaution-recommendations\n  [2]: https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/5867798\n  [3]: https://www.nytimes.com/2020/07/07/health/coronavirus-aerosols-who.html\n  [4]: https://www.medrxiv.org/content/10.1101/2020.07.13.20153049v1\n  [5]: https://www.nytimes.com/2020/07/04/health/239-experts-with-one-big-claim-the-coronavirus-is-airborne.html\n  [6]: https://www.medrxiv.org/content/10.1101/2020.04.16.20067728v1\n  [7]: https://www.npr.org/2020/07/06/887925721/scientists-urge-who-to-update-guidance-on-airborne-transmission-of-the-coronavir\n  [8]: https://www.biorxiv.org/content/10.1101/2020.03.08.982637v1\n  [9]: https://www.bbc.com/news/world-53329946\n  [10]: https://www.who.int/publications/i/item/modes-of-transmission-of-virus-causing-covid-19-implications-for-ipc-precaution-recommendations\n",
-    "How often revision needed": "Weekly",
+    "Other resources": "1. FDA revokes the emergency use authorization for chloroquine and hydroxychloroquine ([U.S. FDA][1])\n2. FDA cautions against the use of hydroxychloroquine or chloroquine for COVID-19 outside of the hospital setting or a clinical trial due to a risk of heart rhythm problems ([U.S. FDA][2])\n3. Research paper: Hydroxychloroquine in patients with mainly mild to moderate coronavirus disease 2019: open label, randomised controlled trial ([BMJ][3])\n4. Hydroxychloroquine with or without Azithromycin in Mild-to-Moderate Covid-19 ([NEJM][4])\n5. Hydroxychloroquine use against SARS-CoV-2 infection in non-human primates ([Nature][5])\n6. Investigational therapeutics for patients with COVID-19 ([U.S. CDC][6]) \n7. Research Update: Hydroxychloroquine in Nonhospitalized Adults With Early COVID-19 ([AIM][7])\n8. Trial update: Effect of Hydroxychloroquine in Hospitalized Patients with COVID-19: Preliminary results from a multi-centre, randomized, controlled trial. ([medRxiv][8])\n9. Trial update: No clinical benefit from use of hydroxychloroquine in hospitalized patients with COVID-19 ([Recovery Trial][9])\n10. Information about \"compassionate use\" ([U.S. FDA][10]) \n11. Research paper: A Randomized Trial of Hydroxychloroquine as Postexposure Prophylaxis for Covid-19 ([NEJM][11])\n12. Hydroxychloroquine or Chloroquine for Treatment or Prophylaxis of COVID-19: A Living Systematic Review ([AIM][12])\n13. Research paper: Hydroxychloroquine in patients with mainly mild to moderate coronavirus disease 2019: open label, randomised controlled trial ([BMJ][3])\n14. Research paper: Association of Treatment With Hydroxychloroquine or Azithromycin With In-Hospital Mortality in Patients With COVID-19 in New York State ([JAMA][13])\n15. Research paper: Observational Study of Hydroxychloroquine in Hospitalized Patients with Covid-19 ([NEJM][14])\n\n\n  [1]: https://www.fda.gov/emergency-preparedness-and-response/mcm-legal-regulatory-and-policy-framework/emergency-use-authorization#coviddrugs\n  [2]: https://www.fda.gov/drugs/drug-safety-and-availability/fda-cautions-against-use-hydroxychloroquine-or-chloroquine-covid-19-outside-hospital-setting-or\n  [3]: https://www.bmj.com/content/369/bmj.m1849\n  [4]: https://www.nejm.org/doi/full/10.1056/NEJMoa2019014?query=featured_home\n  [5]: https://www.nature.com/articles/s41586-020-2558-4?utm_source=twitter&utm_medium=social&utm_content=organic&utm_campaign=NGMT_USG_JC01_GL_Nature\n  [6]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/therapeutic-options.html\n  [7]: https://www.acpjournals.org/doi/10.7326/M20-4207\n  [8]: https://www.medrxiv.org/content/10.1101/2020.07.15.20151852v1\n  [9]: https://www.recoverytrial.net/news/statement-from-the-chief-investigators-of-the-randomised-evaluation-of-covid-19-therapy-recovery-trial-on-hydroxychloroquine-5-june-2020-no-clinical-benefit-from-use-of-hydroxychloroquine-in-hospitalised-patients-with-covid-19\n  [10]: https://www.fda.gov/news-events/public-health-focus/expanded-access\n  [11]: https://www.nejm.org/doi/full/10.1056/NEJMoa2016638?query=featured_home\n  [12]: https://www.acpjournals.org/doi/10.7326/M20-2496\n  [13]: https://jamanetwork.com/journals/jama/fullarticle/2766117\n  [14]: https://www.nejm.org/doi/full/10.1056/NEJMoa2012410\n",
     "DB (French)": [
-      "recv5sGussa9GmX26"
+      "recAj0TYj97UNUWtk"
     ],
     "DB (Hindi)": [
-      "recQsQedv6T3fLr8y"
+      "recTMwxdfhiFP6PdB"
     ],
-    "Media": [
-      {
-        "id": "attOl7ELRWQ7ydV1K",
-        "url": "https://dl.airtable.com/.attachments/8059990d8523d6d1a93c20e2f4d9762e/d6498516/Slide_1",
-        "filename": "Slide_1",
-        "size": 356084,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/e7cb0e9db7cade85a4c15a2051e638e3/ab31271e",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/95940d1910a9788da1045a1ee85c29de/241b70a2",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/6f9c64ffe5c98da0e7c14ca94c5fdf1d/6b051071",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "attOYOnFtFxS88Eal",
-        "url": "https://dl.airtable.com/.attachments/d2ab7dac2fce093daa4490383a2fdf51/6d1a0f1d/Slide_2",
-        "filename": "Slide_2",
-        "size": 244795,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/712e12b7235ad0cec2cc111dcc9cf478/dba0a7f4",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/4404e48bf383131f443138211f317b46/80a25c7c",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/d7aeffebebbfe4a120ac37f88139cd94/6e5d950d",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "att7qY71spsF7dLNd",
-        "url": "https://dl.airtable.com/.attachments/ec3071e9469ecd3d9904cd3ae316ba7d/dd8e64cc/Slide_3",
-        "filename": "Slide_3",
-        "size": 240322,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/b490dffe0163d5f738bec54e6b689090/b61db64e",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/d4c60811be49ea16098b4342043b1834/108a3843",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/646c4bf3ba1b6faea80f866b21130336/080fe032",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "atteEuKu2zAAzHkAV",
-        "url": "https://dl.airtable.com/.attachments/74bca8eb1e7a32c9dbec7276424b599a/00b6cea0/Slide_4",
-        "filename": "Slide_4",
-        "size": 209706,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/d8e44c19d2d97c78db8734586e94acf6/3781c235",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/b8ba48ef224fc72844d673fe912f1926/10c42232",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/b0595f522d85d98d317701b75faebed1/cf232113",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "attDbix3ZZcazaunL",
-        "url": "https://dl.airtable.com/.attachments/47b4096a80f67ed37a007a221dea25ef/da5dd58d/Slide_6",
-        "filename": "Slide_6",
-        "size": 241192,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/3cd9da129ef6ea2909a4c67d1512aa73/30c99389",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/95de5815f558913dd480a4082075a73a/046a2837",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/edde90f5fe4014de13ffa40c67d63b8a/4353ca3e",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "attPnxG1Nr7vXhCq0",
-        "url": "https://dl.airtable.com/.attachments/20fe7d37507993bcf19e723edd7c3933/d4619b57/Slide_5",
-        "filename": "Slide_5",
-        "size": 201928,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/7b056a5ff9a57660a1ae1266e6145bf7/95fa9663",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/1ffa30927ba3a11ffab382cee09e8aa1/76337492",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/11568dcbe8c64387769296220fab7a18/398c8faf",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ],
-    "Questions answered by entry": "What do we know so far about airborne transmission? How does it differ from respiratory droplet transmission?\n",
     "In translated DBs?": "Yes",
     "DB (Telugu)": [
-      "recFGLlMPppAcZ3jw"
+      "recN5EPDGr3rmysv8"
     ],
     "DB (Spanish)": [
-      "recY2efAmkG10aAd8"
+      "rec6r7JrdmkSaJZpK"
     ],
     "DB (Arabic)": [
-      "recimFamP2CNeVLmX"
+      "recqLyEdG4gEouayz"
     ],
     "DB (Bengali)": [
-      "recGFBOwZNRw31Wk9"
+      "recO4uinQPvndAlwL"
     ],
     "DB (Portuguese)": [
-      "rechGcGKXH0sbJAkJ"
+      "recp55aBOJEjliZwl"
     ],
-    "Last edited (simplified)": "2020-07-13T22:07:16.000Z",
-    "Last edited (experts say)": "2020-07-31T14:58:20.000Z",
+    "Last edited (simplified)": "2020-07-31T20:04:49.000Z",
+    "Last edited (experts say)": "2020-06-15T16:47:15.000Z",
+    "Last modified": "2020-07-31"
+  },
+  {
+    "id": "rec94a8OYovZrmVEs",
+    "Question": "How do pulse oximeters work and are digital versions effective?",
+    "Status": "Published",
+    "Category": "Prevention",
+    "Subcategory": "On: COVID-19 & pulse oximeters",
+    "Source of the question": [
+      "Partner Organization"
+    ],
+    "Country question was sourced from": [
+      "India"
+    ],
+    "Background and context": "A recent viral WhatsApp message circulating on closed threads in India claimed that everybody should download a digital app that functions like a digital pulse oximeter and measures oxygen levels in the blood. Digital apps claiming to accurately measure blood oxygen levels may be very inaccurate.\n\nPulse oximeters—the real ones— are used to track oxygen levels in the blood and monitor heart rate, since low oxygen levels are reported among patients experiencing severe cases of COVID-19. They are popular because they can present warning signs of an upcoming problem before it's too late. However, doctors only recommend pulse oximeters for some patients who have either been diagnosed with COVID-19 or who have other underlying health conditions. The quality of digital pulse oximeters can vary, and these devices should not be used to diagnose COVID-19, as low blood oxygen levels can occur due to a wide range of diseases. In general, public health agencies like the U.S. Centers for Disease Control do not recommend purchasing a digital pulse oximeter to track your blood oxygen levels unless directed by a doctor or in specific high-risk areas like nursing homes. If you feel like you're getting sick or experiencing any symptoms of COVID-19, you should contact a doctor right away. \n",
+    "What our experts say": "A pulse oximeter is a small non-invasive, clip-like device that attaches to a finger or ear lobe to measure the level of oxygen in blood. The device sends small beams of light through the blood and then measures how much light reflects off of red blood cells. More reflection of light means more oxygen saturation, less reflection of light means less oxygen saturation. \n\nTypically a digital pulse oximeter is clipped on the tip of your finger, and you may experience a small amount of pressure without any pain during the reading. The device provides a reading of \"oxygen saturation level\" and heart rate. An oxygen saturation level of at least 95% is normal for most healthy individuals. \n\nDigital pulse oximeters are easy-to-use and painless, and most versions are quite accurate. With any digital reading, however, there is always a risk of inaccurate readings. Hospitals and other medical settings have high-quality devices, but the quality of other digital versions on the market can vary. In general, doctors recommend pulse oximeters for patients with certain underlying health conditions and lung diseases, including patients with COVID-19, to monitor their symptoms. But you should not buy a pulse oximeter to self-diagnose or monitor symptoms unless directed by a doctor.\n",
+    "Glossary Terms": [
+      "rect196eVKcIMcns5",
+      "recIU1uU78tFKq4Ws"
+    ],
+    "Variation of the answer depending on country of residence": "No\t\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "pulse oximeter",
+      "oxygen saturation",
+      "symptoms"
+    ],
+    "Other resources": "1. Pulse Oximetry ([Hopkins Medicine][1])\n2. Should You Get a Pulse Oximeter to Measure Blood Oxygen Levels? ([Cleveland Clinic][2])\n3. Coronavirus FAQS: What's A Pulse Oximeter? Is It A Good Idea To Buy One? ([NPR][3])\n\n  [1]: https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/pulse-oximetry\n  [2]: https://health.clevelandclinic.org/should-you-get-a-pulse-oximeter-to-measure-blood-oxygen-levels/\n  [3]: https://www.npr.org/sections/goatsandsoda/2020/05/01/848400469/coronavirus-faqs-whats-a-pulse-oximeter-is-it-a-good-idea-to-buy-one\n",
+    "Last edited (simplified)": "2020-07-31T20:01:28.000Z",
+    "Last edited (experts say)": "2020-07-31T19:57:41.000Z",
+    "Last modified": "2020-07-31"
+  },
+  {
+    "id": "recRIjHM0TPx23tcU",
+    "Question": "Can we use sewage water to detect COVID-19 in a community?",
+    "Status": "Published",
+    "Subcategory": "On: COVID-19 & waste water",
+    "Source of the question": [
+      "Newsroom"
+    ],
+    "Country question was sourced from": [
+      "Canada"
+    ],
+    "Background and context": "Sewage contains valuable information on human health as viruses, bacteria, and chemical metabolites are excreted in urine and stool and provide a readout of an individual’s health status. In some diseases, people excrete viruses before they show symptoms, meaning that sewage can provide an early indicator of disease spread before people start seeking care. The technical term for analyzing sewage as a source of public health information is [Wastewater-Based Epidemiology (WBE)][1]. \n(Source: [Biobot Analytics][2])\n\n  [1]: https://cen.acs.org/environment/water/monitor-health-citiesresidents-look-further/96/i18\n  [2]: https://www.biobot.io/\n",
+    "What our experts say": "SARS-CoV-2 is the virus that causes COVID-19. It leaves the human body through our waste, so flushing the toilet with that waste means traces of the virus can be found in  sewage water. This is why COVID-19 has been recently detected in sewage water in regions that have tested for it. By collecting water from sewers, scientists in the U.S. and Europe are now testing sewage for the virus, using it as a collective sample to measure infection levels among thousands of people. Recent studies have shown that sewage water can be used as an early diagnostic tool for determining where potential COVID-19 cases might be occurring in a city. A recent study showed that measuring virus levels in municipal sewage helped researchers predict where forthcoming COVID-19 cases would be coming from a week before people began testing positive for the virus in that area. They did this by comparing the amount of virus found in the sewage water with the amount of confirmed cases in an area's hospitals. \nWe have observed that estimating the true number of COVID-19 cases is extremely challenging; these estimates often lead to underestimating the true scope of the pandemic in a community because many people are never tested for the virus even if they are ill. Moreover, asymptomatic patients or those with mild symptoms may never seek out testing and therefore won't be counted; but they can still transmit the virus. In this context, measuring overall virus levels in sewage over time could indicate the scope of the pandemic; indicate whether an outbreak is growing or shrinking; and can act as a surveillance system that would allow to detect new waves of an outbreak before patients develop symptoms and go to hospitals. \n\n(Source: [Biobot Analytics][1])\n\n  [1]: https://www.biobot.io/\n",
+    "Glossary Terms": [
+      "recFIn1ipbOFsoZsR",
+      "rec8jvvjIb2QmeUrA"
+    ],
+    "Variation of the answer depending on country of residence": "Yes\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "virus",
+      "spread",
+      "sewage water",
+      "waste water"
+    ],
+    "Other resources": "1. SARS-CoV-2 titers in wastewater foreshadow dynamics and clinical presentation of new COVID-19 cases ([medRxiv][1])\n2. SARS-CoV-2 RNA concentrations in primary municipal sewage sludge as a leading indicator of COVID-19 outbreak dynamics ([medRxiv][2])\n3. SARS-CoV-2 titers in wastewater are higher than expected from clinically confirmed cases ([medRxiv][3])\n\n  [1]: https://www.medrxiv.org/content/10.1101/2020.06.15.20117747v2\n  [2]: https://www.medrxiv.org/content/10.1101/2020.05.19.20105999v1\n  [3]: https://www.medrxiv.org/content/10.1101/2020.04.05.20051540v1\n",
+    "DB (French)": [
+      "recWPdGv9b1FzK2CA"
+    ],
+    "DB (Hindi)": [
+      "recMkZJD2fpzKkueR"
+    ],
+    "In translated DBs?": "Yes",
+    "DB (Telugu)": [
+      "reclGOZ5COTW6Rvyw"
+    ],
+    "DB (Spanish)": [
+      "recE2hTT9JanU22s8"
+    ],
+    "DB (Arabic)": [
+      "recYmIOFCr698NdBX"
+    ],
+    "DB (Bengali)": [
+      "recmFEsPMclSXToz9"
+    ],
+    "DB (Portuguese)": [
+      "recXGfk3K6uO5B2zJ"
+    ],
+    "Last edited (simplified)": "2020-06-11T23:32:51.000Z",
+    "Last edited (experts say)": "2020-06-24T20:41:05.000Z",
     "Last modified": "2020-07-31"
   },
   {
@@ -827,61 +766,6 @@
     ],
     "Last edited (simplified)": "2020-07-06T20:37:14.000Z",
     "Last edited (experts say)": "2020-07-30T22:07:04.000Z",
-    "Last modified": "2020-07-30"
-  },
-  {
-    "id": "rechQWZ1ctlJ81Vxn",
-    "Question": "What does the scientific literature say about using hydroxychloroquine to prevent, treat or cure COVID-19?",
-    "Status": "Published",
-    "Category": "Treatment",
-    "Subcategory": "On: COVID-19 & hydroxychloroquine",
-    "Source of the question": [
-      "Social Media"
-    ],
-    "Country question was sourced from": [
-      "India"
-    ],
-    "Background and context": "Hydroxycloroquine is a medication currently prescribed for preventing or treating malaria, an infectious disease that can be transmitted to humans from mosquitos. It is also prescribed as a treatment for rheumatoid arthritis and lupus, which are both autoimmune diseases.\nWhen faced with an unknown virus like COVID-19 and without a specific vaccine and treatment, one of the best medical strategies is to look among the medications already available and clinically tested to see if any of them are effective. As their risks, benefits, and side effects have already been studied (without allowing safety tests to be ignored), this could speed up research. One of these is hydroxychloroquine. \nWhen trying to find treatments for COVID-19, hydroxychloroquine was tested on hospitalized patients. However, the results from this research do not represent evidence significant enough to recommend hydroxychloroquine for treating COVID-19. At the same time, some research studies have also shown some serious negative consequences (incl. serious heart rhythm problems) associated with the use of hydroxychloroquine in the treatment of COVID-19. More studies are underway.\n\n",
-    "What our experts say": "Ongoing clinical trials are testing how safe and effective chloroquine and hydroxychloroquine are as treatments for COVID-19. So far, clinical trials and scientific analyses have not produced high quality evidence showing efficacy of these medications as a treatment, and some studies have even reported higher rates of adverse events (including cardiac issues) in hospitalized patients treated with hydroxychloroquine. As things stand, hydroxychloroquine is not a recognized prevention, treatment or cure for COVID-19.\nIn this context, there are research studies underway to find out whether taking this medication can prevent people from getting infected with coronavirus once they have been exposed. Other studies are still investigating the efficacy and safety of the drug as a treatment at different stages of the illness, including randomized controlled trials with a large number of patients enrolled.\nAround the world, some countries have moved ahead and authorized chloroquine or hydroxychloroquine for the treatment of COVID-19 despite limited clinical evidence supporting its efficacy. This decision follows some preliminary results coming out of China and France in March 2020, where a few small clinical trials showed limited success of the medication.\nIn the Unites States, on March 27th 2020, the Food and Drug Administration (FDA) has granted a special permission (Emergency Authorization Use) to use chloroquine and hydroxychloroquine in emergency situations for treatment of COVID-19. This did not constitute a formal approval of the drug, but rather a possibility given to American doctors to use chloroquine and hydroxychloroquine in the treatment of COVID-19 if the doctor has no other options and after discussing with the patients the risks involved. On June 15th 2020, the U.S. FDA has revoked the special permission to use chloroquine and hydroxychloroquine in emergency situations for COVID-19 citing that these drugs are unlikely to be effective in treating COVID-19 and highlighting serious cardiac adverse events and other serious side effects reported in studies.\n",
-    "Glossary Terms": [
-      "recM4p8QOERmuESKr",
-      "recAiJYWSxD5F1Lz1",
-      "recJ1c8DQQVGmXfzM",
-      "recjILnexcCRlyBIb"
-    ],
-    "Variation of the answer depending on country of residence": "Yes - some countries have included chloroquine and hydroxychloroquine in their treatment protocol despite the fact that the World Health Organization has not recognized it as a treatment as they await further clinical trial results.\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "prevention",
-      "treatment",
-      "cure",
-      "hydroxychloroquine"
-    ],
-    "Other resources": "1. FDA revokes the emergency use authorization for chloroquine and hydroxychloroquine ([U.S. FDA][1])\n2. FDA cautions against the use of hydroxychloroquine or chloroquine for COVID-19 outside of the hospital setting or a clinical trial due to a risk of heart rhythm problems ([U.S. FDA][2])\n3. Research paper: Hydroxychloroquine in patients with mainly mild to moderate coronavirus disease 2019: open label, randomised controlled trial ([BMJ][3])\n4. Hydroxychloroquine with or without Azithromycin in Mild-to-Moderate Covid-19 ([NEJM][4])\n5. Hydroxychloroquine use against SARS-CoV-2 infection in non-human primates ([Nature][5])\n6. Investigational therapeutics for patients with COVID-19 ([U.S. CDC][6]) \n7. Research Update: Hydroxychloroquine in Nonhospitalized Adults With Early COVID-19 ([AIM][7])\n8. Trial update: Effect of Hydroxychloroquine in Hospitalized Patients with COVID-19: Preliminary results from a multi-centre, randomized, controlled trial. ([medRxiv][8])\n9. Trial update: No clinical benefit from use of hydroxychloroquine in hospitalized patients with COVID-19 ([Recovery Trial][9])\n10. Information about \"compassionate use\" ([U.S. FDA][10]) \n11. Research paper: A Randomized Trial of Hydroxychloroquine as Postexposure Prophylaxis for Covid-19 ([NEJM][11])\n12. Hydroxychloroquine or Chloroquine for Treatment or Prophylaxis of COVID-19: A Living Systematic Review ([AIM][12])\n13. Research paper: Hydroxychloroquine in patients with mainly mild to moderate coronavirus disease 2019: open label, randomised controlled trial ([BMJ][3])\n14. Research paper: Association of Treatment With Hydroxychloroquine or Azithromycin With In-Hospital Mortality in Patients With COVID-19 in New York State ([JAMA][13])\n15. Research paper: Observational Study of Hydroxychloroquine in Hospitalized Patients with Covid-19 ([NEJM][14])\n\n\n  [1]: https://www.fda.gov/emergency-preparedness-and-response/mcm-legal-regulatory-and-policy-framework/emergency-use-authorization#coviddrugs\n  [2]: https://www.fda.gov/drugs/drug-safety-and-availability/fda-cautions-against-use-hydroxychloroquine-or-chloroquine-covid-19-outside-hospital-setting-or\n  [3]: https://www.bmj.com/content/369/bmj.m1849\n  [4]: https://www.nejm.org/doi/full/10.1056/NEJMoa2019014?query=featured_home\n  [5]: https://www.nature.com/articles/s41586-020-2558-4?utm_source=twitter&utm_medium=social&utm_content=organic&utm_campaign=NGMT_USG_JC01_GL_Nature\n  [6]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/therapeutic-options.html\n  [7]: https://www.acpjournals.org/doi/10.7326/M20-4207\n  [8]: https://www.medrxiv.org/content/10.1101/2020.07.15.20151852v1\n  [9]: https://www.recoverytrial.net/news/statement-from-the-chief-investigators-of-the-randomised-evaluation-of-covid-19-therapy-recovery-trial-on-hydroxychloroquine-5-june-2020-no-clinical-benefit-from-use-of-hydroxychloroquine-in-hospitalised-patients-with-covid-19\n  [10]: https://www.fda.gov/news-events/public-health-focus/expanded-access\n  [11]: https://www.nejm.org/doi/full/10.1056/NEJMoa2016638?query=featured_home\n  [12]: https://www.acpjournals.org/doi/10.7326/M20-2496\n  [13]: https://jamanetwork.com/journals/jama/fullarticle/2766117\n  [14]: https://www.nejm.org/doi/full/10.1056/NEJMoa2012410\n",
-    "DB (French)": [
-      "recAj0TYj97UNUWtk"
-    ],
-    "DB (Hindi)": [
-      "recTMwxdfhiFP6PdB"
-    ],
-    "In translated DBs?": "Yes",
-    "DB (Telugu)": [
-      "recN5EPDGr3rmysv8"
-    ],
-    "DB (Spanish)": [
-      "rec6r7JrdmkSaJZpK"
-    ],
-    "DB (Arabic)": [
-      "recqLyEdG4gEouayz"
-    ],
-    "DB (Bengali)": [
-      "recO4uinQPvndAlwL"
-    ],
-    "DB (Portuguese)": [
-      "recp55aBOJEjliZwl"
-    ],
-    "Last edited (simplified)": "2020-05-27T22:05:06.000Z",
-    "Last edited (experts say)": "2020-06-15T16:47:15.000Z",
     "Last modified": "2020-07-30"
   },
   {
@@ -3906,58 +3790,6 @@
     ],
     "Last edited (simplified)": "2020-07-15T21:22:09.000Z",
     "Last edited (experts say)": "2020-06-24T19:53:58.000Z",
-    "Last modified": "2020-07-24"
-  },
-  {
-    "id": "recRIjHM0TPx23tcU",
-    "Question": "Can we use sewage water to detect COVID-19 in a community?",
-    "Status": "Published",
-    "Subcategory": "On: COVID-19 & waste water",
-    "Source of the question": [
-      "Newsroom"
-    ],
-    "Country question was sourced from": [
-      "Canada"
-    ],
-    "Background and context": "Sewage contains valuable information on human health as viruses, bacteria, and chemical metabolites are excreted in urine and stool and provide a readout of an individual’s health status. In some diseases, people excrete viruses before they show symptoms, meaning that sewage can provide an early indicator of disease spread before people start seeking care. The technical term for analyzing sewage as a source of public health information is [Wastewater-Based Epidemiology (WBE)][1]. \n(Source: [Biobot Analytics][2])\n\n  [1]: https://cen.acs.org/environment/water/monitor-health-citiesresidents-look-further/96/i18\n  [2]: https://www.biobot.io/\n",
-    "What our experts say": "SARS-CoV-2 is the virus that causes COVID-19. It leaves the human body through our waste, so flushing the toilet with that waste means traces of the virus can be found in  sewage water. This is why COVID-19 has been recently detected in sewage water in regions that have tested for it. By collecting water from sewers, scientists in the U.S. and Europe are now testing sewage for the virus, using it as a collective sample to measure infection levels among thousands of people. Recent studies have shown that sewage water can be used as an early diagnostic tool for determining where potential COVID-19 cases might be occurring in a city. A recent study showed that measuring virus levels in municipal sewage helped researchers predict where forthcoming COVID-19 cases would be coming from a week before people began testing positive for the virus in that area. They did this by comparing the amount of virus found in the sewage water with the amount of confirmed cases in an area's hospitals. \nWe have observed that estimating the true number of COVID-19 cases is extremely challenging; these estimates often lead to underestimating the true scope of the pandemic in a community because many people are never tested for the virus even if they are ill. Moreover, asymptomatic patients or those with mild symptoms may never seek out testing and therefore won't be counted; but they can still transmit the virus. In this context, measuring overall virus levels in sewage over time could indicate the scope of the pandemic; indicate whether an outbreak is growing or shrinking; and can act as a surveillance system that would allow to detect new waves of an outbreak before patients develop symptoms and go to hospitals. \n\n(Source: [Biobot Analytics][1])\n\n  [1]: https://www.biobot.io/\n",
-    "Glossary Terms": [
-      "recFIn1ipbOFsoZsR",
-      "rec8jvvjIb2QmeUrA"
-    ],
-    "Variation of the answer depending on country of residence": "Yes\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "virus",
-      "spread",
-      "sewage water",
-      "waste water"
-    ],
-    "Other resources": "1. SARS-CoV-2 titers in wastewater foreshadow dynamics and clinical presentation of new COVID-19 cases ([medRxiv][1])\n2. SARS-CoV-2 RNA concentrations in primary municipal sewage sludge as a leading indicator of COVID-19 outbreak dynamics ([medRxiv][2])\n3. SARS-CoV-2 titers in wastewater are higher than expected from clinically confirmed cases ([medRxiv][3])\n\n  [1]: https://www.medrxiv.org/content/10.1101/2020.06.15.20117747v2\n  [2]: https://www.medrxiv.org/content/10.1101/2020.05.19.20105999v1\n  [3]: https://www.medrxiv.org/content/10.1101/2020.04.05.20051540v1\n",
-    "DB (French)": [
-      "recWPdGv9b1FzK2CA"
-    ],
-    "DB (Hindi)": [
-      "recMkZJD2fpzKkueR"
-    ],
-    "In translated DBs?": "Yes",
-    "DB (Telugu)": [
-      "reclGOZ5COTW6Rvyw"
-    ],
-    "DB (Spanish)": [
-      "recE2hTT9JanU22s8"
-    ],
-    "DB (Arabic)": [
-      "recYmIOFCr698NdBX"
-    ],
-    "DB (Bengali)": [
-      "recmFEsPMclSXToz9"
-    ],
-    "DB (Portuguese)": [
-      "recXGfk3K6uO5B2zJ"
-    ],
-    "Last edited (simplified)": "2020-06-11T23:32:51.000Z",
-    "Last edited (experts say)": "2020-06-24T20:41:05.000Z",
     "Last modified": "2020-07-24"
   },
   {

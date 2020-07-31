@@ -307,6 +307,7 @@
     "id": "recCq6AMpxSN3gjOF",
     "Question": "क्या कोविड-19 का प्रसार गर्मियों में कम होगा?",
     "Status": "Published",
+    "Internal notes": "[@Erin McConnell][1] Can we put विषय for mentioning on in subcategory because के बारे में looks some middle part of sentence\n\n  [1]: https://airtable.com/appKBFbOCN23iz8eF/menaBv9giRAd2H53H/usrizsZa8YaW2o92W?recordId=recCq6AMpxSN3gjOF&fieldId=fldX2KkeGtEiBsSN4\n",
     "Category": "फैलाव",
     "Subcategory": "के बारे में: गर्मियों के दौरान कोविड​​-19 का फैलाव",
     "Source of the question": [
@@ -367,8 +368,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Internal notes": "[@Erin McConnell][1] Can we put विषय for mentioning on in subcategory because के बारे में looks some middle part of sentence\n\n  [1]: https://airtable.com/appKBFbOCN23iz8eF/menaBv9giRAd2H53H/usrizsZa8YaW2o92W?recordId=recCq6AMpxSN3gjOF&fieldId=fldX2KkeGtEiBsSN4\n"
+    ]
   },
   {
     "id": "recKr9zDEV3KkIoty",

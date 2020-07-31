@@ -21,8 +21,10 @@
     "Topics": [
       "antibiotiques",
       "infection bactérienne",
+      "prévention",
       "traitement",
-      "cure"
+      "virus",
+      "médicament"
     ],
     "Other resources": "1. Q&A on coronaviruses (COVID-19) ([WHO][1])\n2. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study ([The Lancet][2])   \n3. Rates of Co-infection Between SARS-CoV-2 and Other Respiratory Pathogens ([JAMA Network][3])\n4. Difference between a bacteria and a virus ([Mayo Clinic][4]) \n\n  [1]: https://www.who.int/news-room/q-a-detail/q-a-coronaviruses   http://www.med.umich.edu/asp/pdf/adult_guidelines/COVID-19-treatment.pdf\n  [2]: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30211-7/fulltext\n  [3]: https://jamanetwork.com/journals/jama/fullarticle/2764787\n  [4]: https://www.mayoclinic.org/diseases-conditions/infectious-diseases/expert-answers/infectious-disease/faq-20058098\n",
     "EN Question": [
@@ -32,7 +34,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "Non\n",
     "Background last edited (translation)": "2020-05-14T05:20:02.000Z",
     "Experts say last edited (translation)": "2020-05-14T05:21:40.000Z",
-    "Last modified": "2020-07-29",
+    "Last modified": "2020-07-31",
     "EN Glossary Terms": [
       "reco5k0tpirgGDeqb",
       "recnFUXyIZy81Rj1I",
@@ -77,84 +79,10 @@
     ]
   },
   {
-    "id": "recAj0TYj97UNUWtk",
-    "Question": "Que dit la science sur l'utilisation de l'hydroxychloroquine pour prévenir, traiter ou guérir le COVID-19 ?",
-    "Status": "Published",
-    "Category": "Traitement",
-    "Subcategory": "Sur : COVID-19 et hydroxychloroquine",
-    "Source of the question": [
-      "Médias sociaux"
-    ],
-    "Country question was sourced from": [
-      "Inde"
-    ],
-    "Background and context": "L'hydroxycloroquine est un médicament actuellement prescrit pour prévenir ou traiter la malaria, une maladie infectieuse qui peut être transmise à l'homme par les moustiques. Il est également prescrit comme traitement de la polyarthrite rhumatoïde et du lupus, qui sont toutes les deux des maladies auto-immunes.\nFace à un virus inconnu et en l’absence de vaccin et de traitement spécifiques, une des stratégies thérapeutiques consiste à regarder parmi les médicaments déjà disponibles et cliniquement testés, si l’un d’entre eux est efficace. Leurs balances bénéfices/risques et leurs effets secondaires ayant déjà été étudiés (sans toutefois permettre l’impasse sur les tests de sécurité), cela pourrait accélérer la recherche. Parmi ceux-là : l’hydroxychloroquine. \nLors de la recherche de traitements pour COVID-19, l'hydroxychloroquine a été testée sur des patients. Cependant, les résultats de cette recherche n'ont jusqu'à présent pas permis de recommander l'hydroxychloroquine pour le traitement de la COVID-19. Dans certaines de ces études, des consequences négatives sur l'état des patients ont été observées en association  avec la prise d'hydroxychloroquine.\n",
-    "What our experts say": "Les essais cliniques en cours testent l'efficacité et la sécurité de la chloroquine et de l'hydroxychloroquine comme traitements pour la COVID-19. Jusqu'à présent, les essais cliniques et les analyses scientifiques n'ont pas produit de preuves de haute qualité (données probantes) montrant l'efficacité de ces médicaments en tant que traitement, et certaines études ont même signalé des taux plus élevés d'événements indésirables (y compris des problèmes cardiaques) chez les patients hospitalisés traités à l'hydroxychloroquine. A l'heure actuelle, l'hydroxychloroquine n'est pas un moyen de prévention ni un traitement reconnu pour la COVID-19.\nDans ce contexte, des études sont en cours pour savoir si la prise de ce médicament en prévention peut empêcher les gens d'être infectés par le coronavirus s'ils sont exposés au virus ; d'autres études examinent encore son efficacité et sa sécurité en tant que traitement en fonction du degré de sévérité de la maladie, dans le cadre d'essais contrôlés randomisés avec un grand nombre de patients inscrits.\nA travers le monde, certains pays sont allés de l'avant et ont autorisé la chloroquine ou l'hydroxychloroquine pour le traitement du COVID-19, malgré le peu de preuves cliniques concernant son efficacité. Cette décision fait suite à des résultats préliminaires obtenus en Chine et en France en mars 2020, où quelques essais cliniques de petite taille ont montré que le médicament n'avait eu qu'un succès limité.\nAux États-Unis, l’agence de réglementation des produits biologiques (Food and Drug Administration-FDA), a accordé une autorisation spéciale pour utiliser la chloroquine et l'hydroxychloroquine dans les essais cliniques et les situations d'urgence relatives à la COVID-19. Ceci ne constitue pas une approbation formelle du médicament, mais plutôt une possibilité donnée aux médecins américains d'utiliser la chloroquine et l'hydroxychloroquine dans les essais cliniques et dans le traitement de COVID-19 si le médecin n'a pas d'autres options.\n\n",
-    "Glossary Terms": [
-      "recvR7KM6VedZfxmX",
-      "recAvIYWiEsqWpO9E",
-      "recid3z2x1uYoo6xq"
-    ],
-    "Topics": [
-      "Hydroxychloroquine",
-      "prévention",
-      "traitement",
-      "cure"
-    ],
-    "Other resources": "1. FDA cautions against the use of hydroxychloroquine or chloroquine for COVID-19 outside of the hospital setting or a clinical trial due to a risk of heart rhythm problems ([U.S. FDA][1])\n2. Investigational therapeutics for patients with COVID-19 ([U.S. CDC][2]) \n3. Trial update: No clinical benefit from use of hydroxychloroquine in hospitalized patients with COVID-19 ([Recovery Trial][3])\n4. Information about \"compassionate use\" ([U.S. FDA][4]) \n5. Research paper: A Randomized Trial of Hydroxychloroquine as Postexposure Prophylaxis for Covid-19 ([NEJM][5])\n6. Hydroxychloroquine or Chloroquine for Treatment or Prophylaxis of COVID-19: A Living Systematic Review ([AIM][6])\n7. Research paper: Hydroxychloroquine in patients with mainly mild to moderate coronavirus disease 2019: open label, randomised controlled trial ([BMJ][7])\n8. Research paper: Association of Treatment With Hydroxychloroquine or Azithromycin With In-Hospital Mortality in Patients With COVID-19 in New York State ([JAMA][8])\n9. Research paper: Observational Study of Hydroxychloroquine in Hospitalized Patients with Covid-19 ([NEJM][9])\n10. Research paper: Hydroxychloroquine in patients with mainly mild to moderate coronavirus disease 2019: open label, randomised controlled trial ([BMJ][7])\n\n  [1]: https://www.fda.gov/drugs/drug-safety-and-availability/fda-cautions-against-use-hydroxychloroquine-or-chloroquine-covid-19-outside-hospital-setting-or\n  [2]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/therapeutic-options.html\n  [3]: https://www.recoverytrial.net/news/statement-from-the-chief-investigators-of-the-randomised-evaluation-of-covid-19-therapy-recovery-trial-on-hydroxychloroquine-5-june-2020-no-clinical-benefit-from-use-of-hydroxychloroquine-in-hospitalised-patients-with-covid-19\n  [4]: https://www.fda.gov/news-events/public-health-focus/expanded-access\n  [5]: https://www.nejm.org/doi/full/10.1056/NEJMoa2016638?query=featured_home\n  [6]: https://www.acpjournals.org/doi/10.7326/M20-2496\n  [7]: https://www.bmj.com/content/369/bmj.m1849\n  [8]: https://jamanetwork.com/journals/jama/fullarticle/2766117\n  [9]: https://www.nejm.org/doi/full/10.1056/NEJMoa2012410\n",
-    "EN Question": [
-      "rechQWZ1ctlJ81Vxn"
-    ],
-    "Variation of the answer depending on country of residence": "Oui - certains pays ont inclus l'hydroxychloroquine dans leur protocole de traitement, bien que l'Organisation mondiale de la santé (OMS) ne reconnaisse pas ce médicament comme un traitement, car ils attendent les résultats des essais cliniques.\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "Non\n",
-    "Background last edited (translation)": "2020-05-18T01:45:24.000Z",
-    "Experts say last edited (translation)": "2020-05-26T23:04:11.000Z",
-    "Last modified": "2020-07-29",
-    "EN Glossary Terms": [
-      "recM4p8QOERmuESKr",
-      "recAiJYWSxD5F1Lz1",
-      "recJ1c8DQQVGmXfzM",
-      "recjILnexcCRlyBIb"
-    ],
-    "EN Topics": [
-      "prevention",
-      "treatment",
-      "cure",
-      "hydroxychloroquine"
-    ],
-    "EN Category": [
-      "Treatment"
-    ],
-    "EN Subcategory": [
-      "On: COVID-19 & hydroxychloroquine"
-    ],
-    "EN Source of the Question": [
-      "Social Media"
-    ],
-    "EN Country question was sourced from": [
-      "India"
-    ],
-    "EN What our experts say": [
-      "Ongoing clinical trials are testing how safe and effective chloroquine and hydroxychloroquine are as treatments for COVID-19. So far, clinical trials and scientific analyses have not produced high quality evidence showing efficacy of these medications as a treatment, and some studies have even reported higher rates of adverse events (including cardiac issues) in hospitalized patients treated with hydroxychloroquine. As things stand, hydroxychloroquine is not a recognized prevention, treatment or cure for COVID-19.\nIn this context, there are research studies underway to find out whether taking this medication can prevent people from getting infected with coronavirus once they have been exposed. Other studies are still investigating the efficacy and safety of the drug as a treatment at different stages of the illness, including randomized controlled trials with a large number of patients enrolled.\nAround the world, some countries have moved ahead and authorized chloroquine or hydroxychloroquine for the treatment of COVID-19 despite limited clinical evidence supporting its efficacy. This decision follows some preliminary results coming out of China and France in March 2020, where a few small clinical trials showed limited success of the medication.\nIn the Unites States, on March 27th 2020, the Food and Drug Administration (FDA) has granted a special permission (Emergency Authorization Use) to use chloroquine and hydroxychloroquine in emergency situations for treatment of COVID-19. This did not constitute a formal approval of the drug, but rather a possibility given to American doctors to use chloroquine and hydroxychloroquine in the treatment of COVID-19 if the doctor has no other options and after discussing with the patients the risks involved. On June 15th 2020, the U.S. FDA has revoked the special permission to use chloroquine and hydroxychloroquine in emergency situations for COVID-19 citing that these drugs are unlikely to be effective in treating COVID-19 and highlighting serious cardiac adverse events and other serious side effects reported in studies."
-    ],
-    "EN Background and context": [
-      "Hydroxycloroquine is a medication currently prescribed for preventing or treating malaria, an infectious disease that can be transmitted to humans from mosquitos. It is also prescribed as a treatment for rheumatoid arthritis and lupus, which are both autoimmune diseases.\nWhen faced with an unknown virus like COVID-19 and without a specific vaccine and treatment, one of the best medical strategies is to look among the medications already available and clinically tested to see if any of them are effective. As their risks, benefits, and side effects have already been studied (without allowing safety tests to be ignored), this could speed up research. One of these is hydroxychloroquine. \nWhen trying to find treatments for COVID-19, hydroxychloroquine was tested on hospitalized patients. However, the results from this research do not represent evidence significant enough to recommend hydroxychloroquine for treating COVID-19. At the same time, some research studies have also shown some serious negative consequences (incl. serious heart rhythm problems) associated with the use of hydroxychloroquine in the treatment of COVID-19. More studies are underway.\n"
-    ],
-    "EN Other resources": [
-      "1. FDA revokes the emergency use authorization for chloroquine and hydroxychloroquine (U.S. FDA)\n2. FDA cautions against the use of hydroxychloroquine or chloroquine for COVID-19 outside of the hospital setting or a clinical trial due to a risk of heart rhythm problems (U.S. FDA)\n3. Research paper: Hydroxychloroquine in patients with mainly mild to moderate coronavirus disease 2019: open label, randomised controlled trial (BMJ)\n4. Hydroxychloroquine with or without Azithromycin in Mild-to-Moderate Covid-19 (NEJM)\n5. Hydroxychloroquine use against SARS-CoV-2 infection in non-human primates (Nature)\n6. Investigational therapeutics for patients with COVID-19 (U.S. CDC) \n7. Research Update: Hydroxychloroquine in Nonhospitalized Adults With Early COVID-19 (AIM)\n8. Trial update: Effect of Hydroxychloroquine in Hospitalized Patients with COVID-19: Preliminary results from a multi-centre, randomized, controlled trial. (medRxiv)\n9. Trial update: No clinical benefit from use of hydroxychloroquine in hospitalized patients with COVID-19 (Recovery Trial)\n10. Information about \"compassionate use\" (U.S. FDA) \n11. Research paper: A Randomized Trial of Hydroxychloroquine as Postexposure Prophylaxis for Covid-19 (NEJM)\n12. Hydroxychloroquine or Chloroquine for Treatment or Prophylaxis of COVID-19: A Living Systematic Review (AIM)\n13. Research paper: Hydroxychloroquine in patients with mainly mild to moderate coronavirus disease 2019: open label, randomised controlled trial (BMJ)\n14. Research paper: Association of Treatment With Hydroxychloroquine or Azithromycin With In-Hospital Mortality in Patients With COVID-19 in New York State (JAMA)\n15. Research paper: Observational Study of Hydroxychloroquine in Hospitalized Patients with Covid-19 (NEJM)\n\n"
-    ],
-    "EN Variation of the answer depending on country of residence": [
-      "Yes - some countries have included chloroquine and hydroxychloroquine in their treatment protocol despite the fact that the World Health Organization has not recognized it as a treatment as they await further clinical trial results."
-    ],
-    "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
-      "No"
-    ]
-  },
-  {
     "id": "recbjW2CdPdJHM0wE",
     "Question": "Quelles sont les origines du virus ?",
     "Status": "Published",
-    "Category": "Origines",
+    "Category": "Origine",
     "Subcategory": "Sur : COVID-19 et origines",
     "Source of the question": [
       "Médias sociaux"
@@ -171,10 +99,10 @@
       "recbMekD6UXPWJAi6"
     ],
     "Topics": [
-      "origines",
+      "origine",
+      "chauve-souris",
       "Wuhan",
-      "Chine",
-      "chauve souris"
+      "Chine"
     ],
     "Other resources": "1. Genomic analysis findings for origin of COVID-19 ([NIH][1]) \n2. Zoonotic diseases description ([CDC][2]) \n3. Background on COVID-19 origin ([CDC][3]) \n4. COVID-19 information page ([CDC][4]) \n5. Research article: COVID-19: a novel zoonotic disease caused by a coronavirus from China: what we know and what we don’t ([NCBI][5])\n\n  [1]: https://directorsblog.nih.gov/2020/03/26/genomic-research-points-to-natural-origin-of-covid-19/\n  [2]: https://www.cdc.gov/onehealth/basics/zoonotic-diseases.html\n  [3]: https://emergency.cdc.gov/han/han00426.asp\n  [4]: https://www.cdc.gov/media/dpk/diseases-and-conditions/coronavirus/coronavirus-2020.html\n  [5]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7086482/#R1\n",
     "EN Question": [
@@ -184,7 +112,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "Non\n",
     "Background last edited (translation)": "2020-05-15T00:13:36.000Z",
     "Experts say last edited (translation)": "2020-05-15T00:11:43.000Z",
-    "Last modified": "2020-07-29",
+    "Last modified": "2020-07-31",
     "EN Glossary Terms": [
       "recbQ95pvRq7nP9s3",
       "recFSOdDjQBqJHnZ9"
@@ -232,7 +160,7 @@
     "id": "recpBz5mkWp9d4kae",
     "Question": "Le retour de l'été et de la chaleur va-t-il freiner la propagation du coronavirus ?",
     "Status": "Published",
-    "Category": "Transmission",
+    "Category": "Propagation",
     "Subcategory": "Sur : Transmission de la COVID-19 pendant l'été",
     "Source of the question": [
       "Organisme de vérification des faits"
@@ -247,7 +175,10 @@
     ],
     "Topics": [
       "variabilité saisonnière",
-      "infection"
+      "infection",
+      "saisonnalité",
+      "tendances",
+      "schémas"
     ],
     "Other resources": "1. COVID-19 Resource Center ([Harvard][1]) \n2. Will warm weather slow spread of novel coronavirus? ([NIH][2])\n\n  [1]: https://www.health.harvard.edu/diseases-and-conditions/coronavirus-resource-center\n  [2]: https://directorsblog.nih.gov/2020/06/02/will-warm-weather-slow-spread-of-novel-coronavirus/\n",
     "EN Question": [
@@ -257,7 +188,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "Non\n",
     "Background last edited (translation)": "2020-05-14T04:14:03.000Z",
     "Experts say last edited (translation)": "2020-05-14T04:17:28.000Z",
-    "Last modified": "2020-07-29",
+    "Last modified": "2020-07-31",
     "EN Glossary Terms": [
       "recDalYrz2m23kS2e"
     ],
@@ -300,7 +231,7 @@
     "id": "recD1hQ5hwPZnyPCX",
     "Question": "Quel est l'impact de la vitamine C sur la COVID-19 ?",
     "Status": "Published",
-    "Category": "Traitement, Cure, Prévention",
+    "Category": "Traitement, Remède, Prévention",
     "Subcategory": "Sur : COVID-19 et vitamine C",
     "Source of the question": [
       "Médias sociaux",
@@ -317,7 +248,9 @@
       "recCMLHJbe4MXCiEp"
     ],
     "Topics": [
-      "Vitamin C"
+      "Vitamin C",
+      "système immunitaire",
+      "prévention"
     ],
     "Other resources": "1. Debunk of COVID-19 myths around the use of supplements ([Mayo Clinic][1]) \n2. Research paper: Vitamin C and the common cold ([NCBI][2])  \n3. Research paper: Vitamin C and the immune system ([NCBI][3]) \n4. General information about Vitamin C ([Mayo Clinic][4]) \n\n  [1]: https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/coronavirus-myths/art-20485720\n  [2]: https://www.ncbi.nlm.nih.gov/pubmed/23440782\n  [3]: https://www.ncbi.nlm.nih.gov/pubmed/29099763\n  [4]: https://www.mayoclinic.org/drugs-supplements-vitamin-c/art-20363932\n",
     "EN Question": [
@@ -327,7 +260,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "Non\n",
     "Background last edited (translation)": "2020-05-14T04:27:03.000Z",
     "Experts say last edited (translation)": "2020-05-14T16:17:43.000Z",
-    "Last modified": "2020-07-29",
+    "Last modified": "2020-07-31",
     "EN Glossary Terms": [
       "recOMUWrX4F2d53iC"
     ],
@@ -387,9 +320,10 @@
     ],
     "Topics": [
       "sperme",
+      "COVID-19",
       "transmission sexuelle",
       "MST",
-      "IST"
+      "ITS"
     ],
     "Other resources": "1. Research paper: A study to examine the prevalence of SARS-CoV-2, the virus responsible for COVID-19, in semen ([JAMA][1]) \n\n  [1]: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2765654\n",
     "EN Question": [
@@ -399,7 +333,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "Non\n",
     "Background last edited (translation)": "2020-05-14T23:30:47.000Z",
     "Experts say last edited (translation)": "2020-05-14T23:31:43.000Z",
-    "Last modified": "2020-07-29",
+    "Last modified": "2020-07-31",
     "EN Glossary Terms": [
       "rec2UNEXbTkSCx30Q"
     ],
@@ -444,7 +378,7 @@
     "Question": "Le port de gants freine-t-il la propagation de COVID-19 ?",
     "Status": "Published",
     "Internal notes": "\n",
-    "Category": "Transmission",
+    "Category": "Propagation",
     "Subcategory": "Sur : COVID-19 et port de gants",
     "Source of the question": [
       "Organisme de vérification des faits"
@@ -457,9 +391,10 @@
       "recH0gr95OweWQ1ng"
     ],
     "Topics": [
+      "goutte",
       "gouttelettes provenant de l’appareil respiratoire",
-      "lavage des mains",
       "gants",
+      "lavage des mains",
       "prévention",
       "propagation"
     ],
@@ -471,7 +406,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "Non\n",
     "Background last edited (translation)": "2020-05-17T00:07:24.000Z",
     "Experts say last edited (translation)": "2020-05-17T00:00:55.000Z",
-    "Last modified": "2020-07-29",
+    "Last modified": "2020-07-31",
     "EN Glossary Terms": [
       "recUAN8C73rkuPWX9",
       "rec5yviiSvJkufYvu",
@@ -536,8 +471,8 @@
     ],
     "Topics": [
       "ultraviolet",
-      "soleil",
-      "UV"
+      "UV",
+      "soleil"
     ],
     "Other resources": "1. A pre-print study about decontamination and COVID-19 ([medRxiv][1])\n2. WHO Mythbusters ([WHO][2])\n3. New York Times article about ongoing UVC studies on medical equipment ([New York Times][3])\n4. A study evaluating Vitamin D in the human body and its potential impacts on COVID-10 ([Aging Clinical and Experimental Research][4])\n5. A study on Vitamin D Supplementation and the prevention of acute respiratory infection ([BMJ][5])\n\n\n  [1]: https://www.medrxiv.org/content/10.1101/2020.04.02.20051409v1.full.pdf\n  [2]: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters\n  [3]: https://www.nytimes.com/2020/03/20/health/coronavirus-masks-reuse.html\n  [4]: https://link.springer.com/article/10.1007/s40520-020-01570-8\n  [5]: https://www.bmj.com/content/356/bmj.i6583\n",
     "EN Question": [
@@ -547,7 +482,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "Non\n",
     "Background last edited (translation)": "2020-05-29T03:35:48.000Z",
     "Experts say last edited (translation)": "2020-05-29T03:10:18.000Z",
-    "Last modified": "2020-07-29",
+    "Last modified": "2020-07-31",
     "EN Glossary Terms": [
       "recjOgLIjiAbiBH5F"
     ],
@@ -606,7 +541,8 @@
     ],
     "Topics": [
       "prévention",
-      "vaccin"
+      "vaccin",
+      "BCG"
     ],
     "Other resources": "1. Research paper: SARS-CoV-2 rates in BCG-vaccinated and -unvaccinated young adults ([JAMA][1]) \n2. Scientific brief: BCG vaccination and COVID-19 ([WHO][2]) \n\n  [1]: https://jamanetwork.com/journals/jama/fullarticle/2766182\n  [2]: https://www.who.int/news-room/commentaries/detail/bacille-calmette-guérin-(bcg)-vaccination-and-covid-19\n",
     "EN Question": [
@@ -616,7 +552,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "Non\n",
     "Background last edited (translation)": "2020-05-14T05:04:31.000Z",
     "Experts say last edited (translation)": "2020-05-14T05:05:28.000Z",
-    "Last modified": "2020-07-29",
+    "Last modified": "2020-07-31",
     "EN Glossary Terms": [
       "rec9SYUCp1ULDd0UL",
       "recUx8LCQGkRdxG3B"

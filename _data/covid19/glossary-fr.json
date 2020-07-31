@@ -53,6 +53,22 @@
     "Last Modified": "2020-07-30T20:30:43.000Z"
   },
   {
+    "id": "recvR7KM6VedZfxmX",
+    "Term": "essai clinique",
+    "Definition": "Selon les Instituts nationaux de santé des États-Unis, les essais cliniques sont des études de recherche effectuées sur des personnes, dont le but est d’évaluer une intervention médicale, chirurgicale ou comportementale. Pour les chercheurs, ils sont le moyen principal de découvrir si un nouveau traitement, tel qu’un nouveau médicament, un nouveau régime alimentaire ou un nouveau dispositif médical (par exemple un stimulateur cardiaque) est sûr et efficace chez l’humain. L’objectif d’un essai clinique est souvent de savoir si un nouveau traitement est plus efficace ou présente des effets secondaires moins nocifs que le traitement habituel. Les essais cliniques exigent de tester l’intervention de santé sur des groupes de volontaires qui comprennent, selon les études, des personnes en santé ou des patients avec un problème de santé connu.\nD’autres essais cliniques testent les moyens de détection précoce d’une maladie, parfois avant l’apparition de symptômes. D’autres testent les moyens de prévenir un problème de santé. Un essai clinique peut également viser à améliorer la vie de personnes atteintes d’une affection mettant en danger la vie du malade ou d’un problème de santé chronique.\nAvant que l’Agence américaine des produits alimentaires et médicamenteux (FDA) n’autorise le début d’un essai clinique, des scientifiques effectuent des essais en laboratoire et des études sur des animaux afin de tester la sécurité et l’efficacité d’une thérapie potentielle. Si ces études démontrent des résultats favorables, la FDA donne son accord pour que l’intervention soit testée sur des humains.\n\n\n",
+    "Status": "Ready for expert review",
+    "Questions using this term": [
+      "recAj0TYj97UNUWtk"
+    ],
+    "EN Term": [
+      "recM4p8QOERmuESKr"
+    ],
+    "EN Definition": [
+      "According to the U.S. National Institutes of Health, clinical trials are research studies performed on people, that are aimed at evaluating a medical, surgical, or behavioral intervention. They are the primary way that researchers find out if a new treatment, like a new drug or diet or medical device (for example, a pacemaker) is safe and effective in people. Often, a clinical trial is used to learn if a new treatment is more effective and/or has less harmful side effects than the standard treatment. Clinical trials require testing the health intervention in groups of volunteers which include, depending on the trials, healthy individuals and/or patients with a known health issue.\nOther clinical trials test ways to find a disease early, sometimes before there are symptoms. Still, others test ways to prevent a health problem. A clinical trial may also look at how to make life better for people living with a life-threatening disease or a chronic health problem. \nBefore the U.S. Food and Drug Administration (FDA) approves a clinical trial to begin, scientists perform laboratory tests and studies in animals to test a potential therapy’s safety and efficacy. If these studies show favorable results, the FDA gives approval for the intervention to be tested in humans."
+    ],
+    "Last Modified": "2020-07-31T20:58:19.000Z"
+  },
+  {
     "id": "recHFrxN3qEXqWTDa",
     "Term": "gouttelettes provenant de l’appareil respiratoire",
     "Definition": " Les gouttelettes provenant de l’appareil respiratoire sont produites quand une personne tousse, éternue ou parle. Ces gouttelettes sont généralement lourdes et parcourent moins de deux mètres avant de tomber sur le sol. Ces gouttelettes contiennent de minuscules parties d’un virus (particules) et peuvent transmettre des infections si elles viennent en contact avec les yeux, le nez ou la bouche d’une autre personne. \nCes gouttelettes peuvent aussi propager des maladies entre les personnes si une personne touche une surface sur laquelle une gouttelette respiratoire a atterri, puis touche ses yeux, sa bouche, son nez ou une autre partie de son corps. \nContrairement aux agents pathogènes aérosols, les gouttelettes provenant de l’appareil respiratoire sont de plus grande taille, ne se déplacent pas aussi loin et ne restent pas longtemps dans l’air. La plupart des maladies respiratoires sont propagées par les gouttelettes provenant de l’appareil respiratoire. \n\n",
@@ -307,5 +323,17 @@
       "reclKahoPRbBLqUKg"
     ],
     "Last Modified": "2020-07-30T22:17:50.000Z"
+  },
+  {
+    "id": "recGJIRWMViHAbHfQ",
+    "Term": "eaux usées",
+    "Last Modified": "2020-07-31T18:46:28.000Z",
+    "Questions using this term": [
+      "recWPdGv9b1FzK2CA"
+    ],
+    "EN Term": [
+      "recFIn1ipbOFsoZsR"
+    ],
+    "Status": "Ready for expert review"
   }
 ]

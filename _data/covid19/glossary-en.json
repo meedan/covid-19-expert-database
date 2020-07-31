@@ -13,6 +13,9 @@
     "Hindi": [
       "recpvWgHuWkU6XwLw"
     ],
+    "Telugu": [
+      "recwgQKLXNzLm4HJu"
+    ],
     "Spanish": [
       "recQfhoZlSo1oOwpa"
     ],
@@ -20,10 +23,7 @@
       "recCagvfdC6anCFqU"
     ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial",
-    "Telugu": [
-      "recwgQKLXNzLm4HJu"
-    ]
+    "Completed Translations?": "Partial"
   },
   {
     "id": "recnFUXyIZy81Rj1I",
@@ -42,6 +42,9 @@
     "Hindi": [
       "rec9V6fXai4eHkuFg"
     ],
+    "Telugu": [
+      "rec7OLgbZFW89Ilvq"
+    ],
     "Spanish": [
       "reckMZnrdvYNqRNmI"
     ],
@@ -49,10 +52,7 @@
       "recOp4OrXCRJQymee"
     ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial",
-    "Telugu": [
-      "rec7OLgbZFW89Ilvq"
-    ]
+    "Completed Translations?": "Partial"
   },
   {
     "id": "recAFuzwLppTBDIPe",
@@ -69,6 +69,9 @@
     "Hindi": [
       "recHmMAGrkmpcw79C"
     ],
+    "Telugu": [
+      "rechzNM7NajQl4Uxh"
+    ],
     "Spanish": [
       "rec8AF1HoV58wHKJV"
     ],
@@ -77,10 +80,7 @@
       "recuLOY1MUErgxwcl"
     ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial",
-    "Telugu": [
-      "rechzNM7NajQl4Uxh"
-    ]
+    "Completed Translations?": "Partial"
   },
   {
     "id": "rec5yviiSvJkufYvu",
@@ -104,6 +104,9 @@
     "Hindi": [
       "recumLFRn21ADhA5P"
     ],
+    "Telugu": [
+      "recb2XGbylkdsCIGZ"
+    ],
     "Spanish": [
       "recuCUHYOP4IDnXVf"
     ],
@@ -115,10 +118,7 @@
       "recKkBpJxRNTHf7oP"
     ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial",
-    "Telugu": [
-      "recb2XGbylkdsCIGZ"
-    ]
+    "Completed Translations?": "Partial"
   },
   {
     "id": "rech6tPR0hLDA3JH3",
@@ -137,14 +137,14 @@
     "Hindi": [
       "recGvUUwg7Xc2hGu1"
     ],
-    "Bengali": [
-      "rec7iT9Cxd8QtYLjs"
+    "Telugu": [
+      "rec2c7J2nkDaKbqdU"
     ],
     "Spanish": [
       "recU5BJ3JvrsSLZmg"
     ],
-    "Telugu": [
-      "rec2c7J2nkDaKbqdU"
+    "Bengali": [
+      "rec7iT9Cxd8QtYLjs"
     ]
   },
   {
@@ -161,6 +161,9 @@
     "Hindi": [
       "recYKHvSvNzJNTF7p"
     ],
+    "Telugu": [
+      "rec77PcknkkSk2zMu"
+    ],
     "Spanish": [
       "rectI8UgDG1ppNrsw"
     ],
@@ -171,10 +174,7 @@
       "recjZelO75WPKI88X"
     ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial",
-    "Telugu": [
-      "rec77PcknkkSk2zMu"
-    ]
+    "Completed Translations?": "Partial"
   },
   {
     "id": "recJ4Q812SOdo1NGM",
@@ -215,6 +215,12 @@
     ],
     "In translation glossaries?": "Partial",
     "Completed Translations?": "Partial"
+  },
+  {
+    "id": "rec3XmnugOMexQiQA",
+    "Term": "experimental treatment",
+    "Definition": "An experimental treatment is a medication or therapy that is being tested to evaluate if it is effective against an illness or medical condition. Experimental treatments may be existing medications or therapies that are known to work in treating one illness that are tried as a treatment for another illness (i.e. when an antiviral medication is used to treat a new virus, early treatments are considered experimental because it is unclear as to whether or not the medication will work). Experimental treatments may also be new medications or treatments that have not been used before. In addition to learning whether experimental treatments treat particular illnesses, the experimental process evaluates the therapies for possible side effects.\n",
+    "Status": "Published"
   },
   {
     "id": "recZZhsMRrNyDPnjg",
@@ -272,6 +278,9 @@
     "Hindi": [
       "reczbKcCGvheX1NEG"
     ],
+    "Telugu": [
+      "recoFOjFvjwyRGNXb"
+    ],
     "Spanish": [
       "rec6y0A45b1v1uJ7x"
     ],
@@ -279,10 +288,7 @@
       "recyfTJ3t9OZ96dJB"
     ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial",
-    "Telugu": [
-      "recoFOjFvjwyRGNXb"
-    ]
+    "Completed Translations?": "Partial"
   },
   {
     "id": "recRog4Fq88ayf62O",
@@ -316,6 +322,9 @@
     "Hindi": [
       "rec2L5948RtOdwUvt"
     ],
+    "Telugu": [
+      "recFNj4aag3xSf1oC"
+    ],
     "Spanish": [
       "recOxCiZtxLRijRIX"
     ],
@@ -323,10 +332,7 @@
       "rec5UN4rM2igwCqSr"
     ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial",
-    "Telugu": [
-      "recFNj4aag3xSf1oC"
-    ]
+    "Completed Translations?": "Partial"
   },
   {
     "id": "recbQ95pvRq7nP9s3",
@@ -342,6 +348,9 @@
     "Hindi": [
       "recejGTgDAdePzb8w"
     ],
+    "Telugu": [
+      "recjjr2dCTVWwkbO4"
+    ],
     "Spanish": [
       "recF5slQAOiuqoOnS"
     ],
@@ -349,10 +358,7 @@
       "rec4LjHCXWGEoHiGx"
     ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial",
-    "Telugu": [
-      "recjjr2dCTVWwkbO4"
-    ]
+    "Completed Translations?": "Partial"
   },
   {
     "id": "recFSOdDjQBqJHnZ9",
@@ -368,6 +374,9 @@
     "Hindi": [
       "recoT0Suijyl09026"
     ],
+    "Telugu": [
+      "rec2UAIP9xLHRNqAP"
+    ],
     "Spanish": [
       "recyjyhxcdAU77qlB"
     ],
@@ -375,10 +384,7 @@
       "recIZgcOnQCXtZZrr"
     ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial",
-    "Telugu": [
-      "rec2UAIP9xLHRNqAP"
-    ]
+    "Completed Translations?": "Partial"
   },
   {
     "id": "recx2PeCcs1Awb9rG",
@@ -399,20 +405,20 @@
       "recypAy3afHXH1Zu6",
       "recqKp1dyI5UdWWIs"
     ],
+    "Telugu": [
+      "reccUpd5rLlM0v3E7"
+    ],
     "Spanish": [
       "reckp71KABvdqIGZy"
+    ],
+    "Arabic": [
+      "rece5c86HXGZ6dMS5"
     ],
     "Bengali": [
       "rechNV98fTjsB5uxV"
     ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial",
-    "Telugu": [
-      "reccUpd5rLlM0v3E7"
-    ],
-    "Arabic": [
-      "rece5c86HXGZ6dMS5"
-    ]
+    "Completed Translations?": "Partial"
   },
   {
     "id": "recbZcFUtsYMA9Vsh",
@@ -431,20 +437,20 @@
       "recOeLKYm8ZH9Z07g",
       "recweA2Zhre2qkTpA"
     ],
+    "Telugu": [
+      "recojskwxMtX22Rbh"
+    ],
     "Spanish": [
       "recHwyX8zQzWk6Vo4"
+    ],
+    "Arabic": [
+      "rec0SIpJuWBL4hIfi"
     ],
     "Bengali": [
       "recA12Sm04IeagXAN"
     ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial",
-    "Telugu": [
-      "recojskwxMtX22Rbh"
-    ],
-    "Arabic": [
-      "rec0SIpJuWBL4hIfi"
-    ]
+    "Completed Translations?": "Partial"
   },
   {
     "id": "rec9qqItwSTjq3Eae",
@@ -488,6 +494,9 @@
     "Hindi": [
       "recfzLZmTL7a03mVg"
     ],
+    "Telugu": [
+      "recnhST9odxY4UMS8"
+    ],
     "Spanish": [
       "rec1qmhcwfCuouJCl"
     ],
@@ -495,10 +504,7 @@
       "reclmkuFydbGZYvYo"
     ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial",
-    "Telugu": [
-      "recnhST9odxY4UMS8"
-    ]
+    "Completed Translations?": "Partial"
   },
   {
     "id": "recUx8LCQGkRdxG3B",
@@ -514,6 +520,9 @@
     "Hindi": [
       "reclJ0qg45eaAKc5Y"
     ],
+    "Telugu": [
+      "rec3fbIhHRGEuRlKK"
+    ],
     "Spanish": [
       "recl94UEAa5yYi7zD"
     ],
@@ -521,10 +530,7 @@
       "recP5GccXZBwoESTJ"
     ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial",
-    "Telugu": [
-      "rec3fbIhHRGEuRlKK"
-    ]
+    "Completed Translations?": "Partial"
   },
   {
     "id": "rec9SYUCp1ULDd0UL",
@@ -540,6 +546,9 @@
     "Hindi": [
       "recAYEKHJopH7eLnK"
     ],
+    "Telugu": [
+      "reco7DCijqxjwJi4S"
+    ],
     "Spanish": [
       "rec27uPxr3icWnwpo"
     ],
@@ -547,15 +556,12 @@
       "rec2SFVT4P9JUlBHK"
     ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial",
-    "Telugu": [
-      "reco7DCijqxjwJi4S"
-    ]
+    "Completed Translations?": "Partial"
   },
   {
     "id": "recM4p8QOERmuESKr",
     "Term": "clinical trial",
-    "Definition": "According to the U.S. National Institutes of Health, clinical trials are research studies performed in people that are aimed at evaluating a medical, surgical, or behavioral intervention. They are the primary way that researchers find out if a new treatment, like a new drug or diet or medical device (for example, a pacemaker) is safe and effective in people. Often, a clinical trial is used to learn if a new treatment is more effective and/or has less harmful [side effects][1] than the standard treatment. Clinical trials require testing the health intervention in groups of volunteers which include, depending on the trials, healthy individuals and/or patients with a known health issue.\nOther clinical trials test ways to find a disease early, sometimes before there are symptoms. Still, others test ways to prevent a health problem. A clinical trial may also look at how to make life better for people living with a life-threatening disease or a chronic health problem. \nBefore the [U.S. Food and Drug Administration][2] (FDA) approves a clinical trial to begin, scientists perform laboratory tests and studies in animals to test a potential therapy’s safety and efficacy. If these studies show favorable results, the FDA gives approval for the intervention to be tested in humans.\n\n  [1]: https://www.nia.nih.gov/health/safe-use-medicines-older-adults\n  [2]: https://www.fda.gov/\n",
+    "Definition": "According to the U.S. National Institutes of Health, clinical trials are research studies performed on people, that are aimed at evaluating a medical, surgical, or behavioral intervention. They are the primary way that researchers find out if a new treatment, like a new drug or diet or medical device (for example, a pacemaker) is safe and effective in people. Often, a clinical trial is used to learn if a new treatment is more effective and/or has less harmful [side effects][1] than the standard treatment. Clinical trials require testing the health intervention in groups of volunteers which include, depending on the trials, healthy individuals and/or patients with a known health issue.\nOther clinical trials test ways to find a disease early, sometimes before there are symptoms. Still, others test ways to prevent a health problem. A clinical trial may also look at how to make life better for people living with a life-threatening disease or a chronic health problem. \nBefore the [U.S. Food and Drug Administration][2] (FDA) approves a clinical trial to begin, scientists perform laboratory tests and studies in animals to test a potential therapy’s safety and efficacy. If these studies show favorable results, the FDA gives approval for the intervention to be tested in humans.\n\n  [1]: https://www.nia.nih.gov/health/safe-use-medicines-older-adults\n  [2]: https://www.fda.gov/\n",
     "Questions using this term": [
       "rechQWZ1ctlJ81Vxn",
       "rec2shxecDOlAie8Q"
@@ -568,6 +574,9 @@
       "recMXimhUEB5WZmaB",
       "reccaQvb4UuRQ1Cs0"
     ],
+    "Telugu": [
+      "recco8gpj38l6ZYVb"
+    ],
     "Spanish": [
       "recKxnl6uRfcN4LmC"
     ],
@@ -575,10 +584,7 @@
       "reccHzZYGTYTahDZS"
     ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial",
-    "Telugu": [
-      "recco8gpj38l6ZYVb"
-    ]
+    "Completed Translations?": "Partial"
   },
   {
     "id": "recjOgLIjiAbiBH5F",
@@ -594,21 +600,21 @@
     "Hindi": [
       "recgefUCGHLZs8agE"
     ],
+    "Telugu": [
+      "recZqP0wuaRd5by7g",
+      "rec4pTANNdZRJrcAy"
+    ],
     "Spanish": [
       "recc2aj8jjnUtbTzJ"
+    ],
+    "Arabic": [
+      "rec15dOPskLMCgJig"
     ],
     "Bengali": [
       "recNJ89TVk9m8EAfi"
     ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial",
-    "Arabic": [
-      "rec15dOPskLMCgJig"
-    ],
-    "Telugu": [
-      "recZqP0wuaRd5by7g",
-      "rec4pTANNdZRJrcAy"
-    ]
+    "Completed Translations?": "Partial"
   },
   {
     "id": "rec2UNEXbTkSCx30Q",
@@ -638,20 +644,20 @@
       "recoSjkjIXTwTk7nQ",
       "recdT1HQ8HAH78MgQ"
     ],
+    "Telugu": [
+      "rec0qVfMby5wl0Bts"
+    ],
     "Spanish": [
       "reclUq6FzDxK0oxZr"
+    ],
+    "Arabic": [
+      "recTrqruipuUtorj7"
     ],
     "Bengali": [
       "rec1aismnWAuw0um1"
     ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial",
-    "Arabic": [
-      "recTrqruipuUtorj7"
-    ],
-    "Telugu": [
-      "rec0qVfMby5wl0Bts"
-    ]
+    "Completed Translations?": "Partial"
   },
   {
     "id": "recUAN8C73rkuPWX9",
@@ -667,6 +673,9 @@
     "Hindi": [
       "recvlJ88yP7woxpJV"
     ],
+    "Telugu": [
+      "recrb6rAlDvu07T60"
+    ],
     "Spanish": [
       "recawALyCFhmBaT3y"
     ],
@@ -677,10 +686,7 @@
       "recIZfTgU7dylLsAJ"
     ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial",
-    "Telugu": [
-      "recrb6rAlDvu07T60"
-    ]
+    "Completed Translations?": "Partial"
   },
   {
     "id": "recOMUWrX4F2d53iC",
@@ -696,6 +702,9 @@
     "Hindi": [
       "recRfA2NGuTR1WT1G"
     ],
+    "Telugu": [
+      "rec9gq1cxvc0FrTp7"
+    ],
     "Spanish": [
       "recukhMZjCrJiPK7p"
     ],
@@ -707,10 +716,7 @@
       "recPuQi1bDq4cLoyB"
     ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial",
-    "Telugu": [
-      "rec9gq1cxvc0FrTp7"
-    ]
+    "Completed Translations?": "Partial"
   },
   {
     "id": "rec4gz4UIxctLqy94",
@@ -741,6 +747,9 @@
     "Hindi": [
       "recEZ19AbC5Q219wm"
     ],
+    "Telugu": [
+      "recdVy4basHA5B6gf"
+    ],
     "Spanish": [
       "rec9U92a4u2UcMqZg"
     ],
@@ -748,10 +757,7 @@
       "receGgTWnCKPePPzV"
     ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial",
-    "Telugu": [
-      "recdVy4basHA5B6gf"
-    ]
+    "Completed Translations?": "Partial"
   },
   {
     "id": "recwhS0IsusP5qFNc",
@@ -776,6 +782,9 @@
     "Hindi": [
       "recnFPG2gdeETqbEA"
     ],
+    "Telugu": [
+      "recOSTfV7XHp1qBnt"
+    ],
     "Spanish": [
       "recDLGc4K2wFMA3T1"
     ],
@@ -786,9 +795,25 @@
       "rec7dMcRe2Pl6LJev"
     ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial",
-    "Telugu": [
-      "recOSTfV7XHp1qBnt"
-    ]
+    "Completed Translations?": "Partial"
+  },
+  {
+    "id": "recCEG85awzcotyRi",
+    "Term": "N95 mask",
+    "Definition": "N95 masks (or N95 respirators) are special masks that protect the wearer from breathing in very small airborne particles. They are regulated to ensure that they meet strict standards for safety. Other countries use other codes for masks that meet the same requirements as N95 masks in the U.S.; some examples of other N95-type masks include the KN95 in China and FFP2 in European countries.\n\nThe U.S. Centers for Disease Control and Prevention has stated the N95 masks should not be used by the general public to prevent themselves from COVID-19 because N95 masks should be reserved for health care workers and medical first responders.\n",
+    "Questions using this term": [
+      "recZElAZYPfbc4Pa3",
+      "recabh4pzUPxHxLq1"
+    ],
+    "Status": "Published"
+  },
+  {
+    "id": "recde2XyBQC0lDace",
+    "Term": "supportive care",
+    "Definition": "Supportive care is medical care that treats symptoms of illness (i.e. fever, breathing problems, diarrhea) without treating or curing the disease or illness that is causing the symptoms. Supportive care may include medications, breathing treatments, physical therapy, psychotherapy, or other treatments.  Supportive therapy may be provided in the hospital, clinic, or at home.\n",
+    "Questions using this term": [
+      "recmlODv0JQ3RSw7c"
+    ],
+    "Status": "Published"
   }
 ]
