@@ -1,5 +1,437 @@
 [
   {
+    "id": "recqFRWiE9Y6nbUM5",
+    "Question": "What are the origins of the virus?",
+    "Status": "Published",
+    "Category": "Origin",
+    "Subcategory": "On: The origin of COVID-19 ",
+    "Source of the question": [
+      "Social Media"
+    ],
+    "Country question was sourced from": [
+      "India",
+      "Kenya",
+      "USA"
+    ],
+    "Background and context": "Coronaviruses are a group of viruses that can cause a variety of different illnesses, but primarily upper-respiratory tract illnesses in humans. These illnesses include the common cold, severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS). Some viruses can originate in animals and later infect humans, and this can happen in a number of different ways, including: by eating meat or produce that has been contaminated by the virus, through the air or by touching a surface that was touched by an infected animal, through close contact with an infected animal, or through insect bites. Not all viruses transfer from animals to humans in all of these ways, it depends on the virus. The resources section contains more information about this. \n\n",
+    "What our experts say": "COVID-19 was first detected in the city of Wuhan, China in late 2019. The virus has since been partially traced back to a large seafood and animal market in the city of Wuhan, after several people who had been to the market became sick with the illness we now know as COVID-19. Scientists were able to use genetic tests to confirm that the virus was first identified in people and environmental samples in the city of Wuhan. Tests on the genetics of viruses, much like genetics in humans, can reveal a lot about their origins. When these genetic tests were done on the COVID-19 virus' genes, it revealed that the virus originated in an infected animal and mutated when that animal transferred the virus to a human, likely in the city of Wuhan. The details about that event, which is called a zoonotic transfer, are still being investigated.\n\nUPDATED: July 16, 2020: The majority of scientific studies now support the idea that the origin of the virus in animals was bats, specifically horseshoe bats, potentially from China or neighboring countries of Myanmar, Laos and Vietnam. Scientists also suggest that the virus may have been passed to humans through an intermediate host before spreading to humans, but are unsure about what animal the host might have been, though pangolins and civets have been suggested. A potential combination between bats and pangolins as the viral origin has also been noted. World Health Organization experts will soon travel to China and work with Chinese health officials to identify the source of the virus.\n\n\n",
+    "Glossary Terms": [
+      "recbQ95pvRq7nP9s3",
+      "recFSOdDjQBqJHnZ9"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "origin",
+      "bats",
+      "Wuhan",
+      "China"
+    ],
+    "Other resources": "1. Viral and host factors related to the clinical outcome of COVID-19 ([Nature][1])\n2. Genomic Study Points to Natural Origin of COVID-19 ([NIH][2]) \n3. Zoonotic diseases ([U.S. CDC][3]) \n4. Update and Interim Guidance on Outbreak of 2019 Novel Coronavirus (2019-nCoV) in Wuhan, China ([U.S. CDC][4]) \n5. Coronavirus Disease 2019 (COVID-19) ([U.S. CDC][5]) \n6. COVID-19: a novel zoonotic disease caused by a coronavirus from China: what we know and what we don’t ([NCBI][6])\n7. Six months of coronavirus: the mysteries scientists are still racing to solve ([Nature][7]) \n8. The biggest mystery: what it will take to trace the coronavirus source ([Nature][8]) \n9. Emergence of SARS-CoV-2 through recombination and strong purifying selection ([Science Advances][9]) \n10. WHO experts to travel to China ([WHO][10]) \n\n  [1]: https://www.nature.com/articles/s41586-020-2355-0\n  [2]: https://directorsblog.nih.gov/2020/03/26/genomic-research-points-to-natural-origin-of-covid-19/\n  [3]: https://www.cdc.gov/onehealth/basics/zoonotic-diseases.html\n  [4]: https://emergency.cdc.gov/han/han00426.asp\n  [5]: https://www.cdc.gov/media/dpk/diseases-and-conditions/coronavirus/coronavirus-2020.html\n  [6]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7086482/#R1\n  [7]: https://www.nature.com/articles/d41586-020-01989-z\n  [8]: https://www.nature.com/articles/d41586-020-01541-z\n  [9]: https://advances.sciencemag.org/content/6/27/eabb9153\n  [10]: https://www.who.int/news-room/detail/07-07-2020-who-experts-to-travel-to-china\n",
+    "How often revision needed": "Monthly",
+    "DB (French)": [
+      "recbjW2CdPdJHM0wE"
+    ],
+    "DB (Hindi)": [
+      "recI45JBg4AUfgdUv"
+    ],
+    "Editorial notes:": "\n",
+    "In translated DBs?": "Yes",
+    "DB (Telugu)": [
+      "rec7Y7yZKPzYOaUcQ"
+    ],
+    "DB (Spanish)": [
+      "recqkAsNhKQpClr6s"
+    ],
+    "DB (Arabic)": [
+      "recKE1nzKsMbQ6Cfh"
+    ],
+    "DB (Bengali)": [
+      "rec8XX1JUd1UFcNdt"
+    ],
+    "DB (Portuguese)": [
+      "recJYyTXS7aQNUrd3"
+    ],
+    "Last edited (simplified)": "2020-05-27T22:06:20.000Z",
+    "Last edited (experts say)": "2020-07-17T02:06:38.000Z",
+    "Last modified": "2020-07-31"
+  },
+  {
+    "id": "recYvTpiS4HB4XVtT",
+    "Question": "What do we know about the association between blood type and severe reaction to COVID-19",
+    "Status": "Published",
+    "Background and context": "The media is now reporting on how more recent studies found that blood type is not linked to risks of intubation or death from COVID-19, after adjusting for other factors like age and gender identity. Furthermore, it is important to note that Type O blood does not mean immunity to COVID-19.\n\n_Updated:_ _July 27, 2020: Please note that COVID-19 is a new disease, where scientists are continuing to learn more and release new publications. The latest and most accurate answer can be found above._\n",
+    "What our experts say": "As of now, there is not enough evidence to indicate whether or not there may be some connection between blood type and COVID-19 risk, though the link is likely to be minimal if it does exist. Studies previously cited in the news suggested that Type A blood could be associated with higher risks of severe cases of COVID-19, included studies that had not yet been assessed by scientific experts (referred to in science as the peer-review process). One of these recent studies had been peer-reviewed and published in the New England Journal of Medicine (NEJM); however it used genes to determine the blood type, which is a method that is not very accurate.  \n\nTwo more recent studies from Columbia University and Massachusetts General Hospital in the U.S. found that blood type is not associated with risks of intubation or death from COVID-19, after adjusting for other factors. While scientists continue to learn more, age and underlying health conditions remain more significant risk factors for severe COVID-19 symptoms, and Type A blood is not thought to be a major risk factor at this time. \n\nWhile some studies have suggested a potential risk reduction for people with Type O blood, not all the studies have been peer-reviewed and the use of blood donors as study participants can give the appearance of Type O being more protective than it is (Type O blood is over-represented in blood donors, compared to the general population). Type O blood does not mean immunity to COVID-19.\n\n_Updated: July 27, 2020: Please note that COVID-19 is a new disease, where scientists are continuing to learn more and release new publications. The latest and most accurate answer can be found above._\n\n",
+    "Glossary Terms": [
+      "rechQcO5gs3FZMcPs",
+      "recvEcanaG84OrPm4",
+      "rectkO1d0FhUHQ0Of",
+      "recmajcAORyuqhZPc"
+    ],
+    "Other resources": "1. Genes, Blood Type Tied to Risk of Severe COVID-19 ([NIH][1])\n2. The ABO blood group locus and a chromosome 3 gene cluster associate with SARS-CoV-2 respiratory failure in an Italian-Spanish genome-wide association and analysis ([medRxiv][2])\n3. Genes May Leave Some People More Vulnerable to Severe Covid-19 ([NYT][3])\n4. Is there a relationship between blood type and covid-19 infection? ([MIT Technology Review][4])\n5. Genomewide Association Study of Severe Covid-19 with Respiratory Failure ([NEJM][5])\n6. Testing the association between blood type and COVID-19 infection, intubation, and death ([medRxiv][6])\n7. Relationship between the ABO Blood Group and the COVID-19 Susceptibility  ([medRxiv][7])\n8. Blood type and outcomes in patients with COVID-19  ([Annals of Hematology][8])\n9. COVID and Blood Type ([Harvard Medical School][9])\n\n  [1]: https://directorsblog.nih.gov/2020/06/18/genes-blood-type-tied-to-covid-19-risk-of-severe-disease/\n  [2]: https://www.medrxiv.org/content/10.1101/2020.05.31.20114991v1\n  [3]: https://www.nytimes.com/2020/06/03/health/coronavirus-blood-type-genetics.html?searchResultPosition=2\n  [4]: https://www.technologyreview.com/2020/07/14/1005173/blood-type-covid-19-coronavirus-infection/\n  [5]: https://www.nejm.org/doi/full/10.1056/NEJMoa2020283\n  [6]: https://www.medrxiv.org/content/10.1101/2020.04.08.20058073v1.full.pdf\n  [7]: https://www.medrxiv.org/content/10.1101/2020.03.11.20031096v2.full.pdf\n  [8]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7354354/\n  [9]: https://hms.harvard.edu/news/covid-blood-type?utm_source=twitter&utm_medium=social&utm_campaign=hms-twitter-general\n",
+    "DB (French)": [
+      "rec1Y0HsS4cS3Iqfl"
+    ],
+    "DB (Hindi)": [
+      "recujJwcnURttidkS"
+    ],
+    "In translated DBs?": "Yes",
+    "DB (Telugu)": [
+      "reciM0dGEyU4Mt1XC"
+    ],
+    "DB (Spanish)": [
+      "recImbO7B6S8dfbyK"
+    ],
+    "DB (Arabic)": [
+      "reckMAWuSzRcPgce3"
+    ],
+    "DB (Bengali)": [
+      "reci4OWYt0YN1ockY"
+    ],
+    "DB (Portuguese)": [
+      "rec7QTdBAZsJxcYzT"
+    ],
+    "Last edited (simplified)": "2020-07-31T13:49:50.000Z",
+    "Last edited (experts say)": "2020-07-31T13:49:10.000Z",
+    "Last modified": "2020-07-31"
+  },
+  {
+    "id": "recXUQjiQ2yaPXyxo",
+    "Question": "What do we know so far about airborne transmission and how does it differ from respiratory droplet transmission? ",
+    "Status": "Published",
+    "Category": "Transmission",
+    "Subcategory": "Differences between airborne transmission and respiratory droplets",
+    "Background and context": "Respiratory droplet transmission happens when disease spreads through droplets expelled by an infected person, through coughing, sneezing, talking, or even just breathing; these droplets are larger than 5-10 micrometers. One micrometer is one millionth of a meter. Respiratory droplets are _relatively_ heavy, and fall to the ground quickly. In contrast, airborne transmission is when residue from droplets smaller than 5 micrometers, or dust particles carrying the virus, stay suspended in the air for longer and disperse farther by air currents. Scientists and the World Health Organization (WHO) have recognized that evidence is emerging on the possibility of airborne transmission, particularly in \"crowded, closed, poorly ventilated settings.\" If airborne transmission of COVID-19 is significant, this has major implications for containment efforts (ex. masks may be needed indoors and in socially-distant settings, ventilation systems may need to minimize recirculating air and find ways to filter or disinfect contaminated air, etc.). \n",
+    "What our experts say": "There is mounting evidence that COVID-19 can spread through airborne transmission, which is when a person infected with COVID-19 releases tiny droplets of fluid into the air called 'droplet nuclei' by coughing, sneezing, talking, or during medical procedures involving the release of these types of fluids. Droplet nuclei are very light, relatively dry, and microscopic in size so they can remain suspended in the air like a mist, which is why airborne transmission is also called 'aerosol transmission, and pose a risk of infection to people in close proximity. This is different from the prevailing theory that the virus spreads through bigger respiratory droplets that are heavier, fall to the ground relatively quickly, and do not remain suspended in the air or spread through the air. \n\nThe risk of airborne transmission remains under research**, **but it is potentially thought to be higher risk in enclosed spaces with poor ventilation. Retrospective analyses of \"super-spreader\" events, where a significant number of people have been infected at a single event, demonstrate that airborne transmission was likely responsible for infecting multiple people in the absence of direct, physical contact. One study analyzed an outbreak involving three separate families in a restaurant in Guangzhou, China and found that the spread pattern pointed to aerosol transmission due to poor ventilation in the restaurant. \n\nUntil July 7, 2020, the World Health Organization (WHO) continued to claim that evidence pointed to respiratory droplet transmission as the most plausible route of transmission for the virus, but 239 experts and public health professionals have cautioned against ruling out the possibility of airborne transmission and the WHO acknowledged emerging evidence regarding airborne transmission in poorly ventilated spaces on July 8, 2020. Public health experts have repeatedly warned that airborne transmission is most likely contributing to transmission, especially in indoor spaces, and recommendations should incorporate the need for sufficient ventilation, high efficiency filtration, and limiting crowded spaces, in addition to universal adoption of masks, social distancing, and frequent hand washing with soap and water.\n\nUPDATED: July 11, 2020: On July 9, 2020, the WHO has acknowledged that certain medical procedures can cause COVID-19 to be spread through airborne transmission. The group also noted that the potential for COVID-19 to spread through the air in crowded, indoor spaces that are inadequately ventilated \"cannot be ruled out.\" The WHO stated that more studies are urgently needed on this topic and reiterated their stance that the virus is primarily spread through contact and respiratory droplets.\n\n",
+    "Glossary Terms": [
+      "recy3qWpegJbN2rbV",
+      "recTotk6ZnYu3ib8P",
+      "rech6tPR0hLDA3JH3",
+      "rec5yviiSvJkufYvu"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No \n",
+    "Topics": [
+      "aerosol",
+      "airborne",
+      "transmission",
+      "droplet",
+      "respiratory droplets"
+    ],
+    "Other resources": "1. Modes of transmission of virus causing COVID-19: implications for IPC precaution recommendations ([WHO][1])\n2. Open Letter: It is Time to Address Airborne Transmission of COVID-19 ([Clinical Infectious Diseases][2])\n3. W.H.O. to Review Evidence of Airborne Transmission of Coronavirus ([NYT][3])\n4. 239 Experts With One Big Claim: The Coronavirus Is Airborne ([NYT][4])\n5. Evidence for probable aerosol transmission of SARS-CoV-2 in a poorly ventilated restaurant ([medRxiv][5])\n6. Scientists Urge WHO To Update Guidance On Airborne Transmission Of The Coronavirus ([NPR][6])\n7. Aerodynamic Characteristics and RNA Concentration of SARS-CoV-2 Aerosol in Wuhan Hospitals during COVID-19 Outbreak ([bioRxiv][7])\n8. Coronavirus: WHO rethinking how Covid-19 spreads in air ([BBC][8])\n9. Transmission of SARS-CoV-2: implications for infection prevention precautions ([WHO][9]) \n\n  [1]: https://www.who.int/news-room/commentaries/detail/modes-of-transmission-of-virus-causing-covid-19-implications-for-ipc-precaution-recommendations\n  [2]: https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/5867798\n  [3]: https://www.nytimes.com/2020/07/07/health/coronavirus-aerosols-who.html\n  [4]: https://www.nytimes.com/2020/07/04/health/239-experts-with-one-big-claim-the-coronavirus-is-airborne.html\n  [5]: https://www.medrxiv.org/content/10.1101/2020.04.16.20067728v1\n  [6]: https://www.npr.org/2020/07/06/887925721/scientists-urge-who-to-update-guidance-on-airborne-transmission-of-the-coronavir\n  [7]: https://www.biorxiv.org/content/10.1101/2020.03.08.982637v1\n  [8]: https://www.bbc.com/news/world-53329946\n  [9]: https://www.who.int/publications/i/item/modes-of-transmission-of-virus-causing-covid-19-implications-for-ipc-precaution-recommendations\n",
+    "How often revision needed": "Weekly",
+    "DB (French)": [
+      "recv5sGussa9GmX26"
+    ],
+    "DB (Hindi)": [
+      "recQsQedv6T3fLr8y"
+    ],
+    "Media": [
+      {
+        "id": "attOl7ELRWQ7ydV1K",
+        "url": "https://dl.airtable.com/.attachments/8059990d8523d6d1a93c20e2f4d9762e/d6498516/Slide_1",
+        "filename": "Slide_1",
+        "size": 356084,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e7cb0e9db7cade85a4c15a2051e638e3/ab31271e",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/95940d1910a9788da1045a1ee85c29de/241b70a2",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6f9c64ffe5c98da0e7c14ca94c5fdf1d/6b051071",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attOYOnFtFxS88Eal",
+        "url": "https://dl.airtable.com/.attachments/d2ab7dac2fce093daa4490383a2fdf51/6d1a0f1d/Slide_2",
+        "filename": "Slide_2",
+        "size": 244795,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/712e12b7235ad0cec2cc111dcc9cf478/dba0a7f4",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/4404e48bf383131f443138211f317b46/80a25c7c",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d7aeffebebbfe4a120ac37f88139cd94/6e5d950d",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "att7qY71spsF7dLNd",
+        "url": "https://dl.airtable.com/.attachments/ec3071e9469ecd3d9904cd3ae316ba7d/dd8e64cc/Slide_3",
+        "filename": "Slide_3",
+        "size": 240322,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b490dffe0163d5f738bec54e6b689090/b61db64e",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d4c60811be49ea16098b4342043b1834/108a3843",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/646c4bf3ba1b6faea80f866b21130336/080fe032",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "atteEuKu2zAAzHkAV",
+        "url": "https://dl.airtable.com/.attachments/74bca8eb1e7a32c9dbec7276424b599a/00b6cea0/Slide_4",
+        "filename": "Slide_4",
+        "size": 209706,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d8e44c19d2d97c78db8734586e94acf6/3781c235",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b8ba48ef224fc72844d673fe912f1926/10c42232",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b0595f522d85d98d317701b75faebed1/cf232113",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attDbix3ZZcazaunL",
+        "url": "https://dl.airtable.com/.attachments/47b4096a80f67ed37a007a221dea25ef/da5dd58d/Slide_6",
+        "filename": "Slide_6",
+        "size": 241192,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3cd9da129ef6ea2909a4c67d1512aa73/30c99389",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/95de5815f558913dd480a4082075a73a/046a2837",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/edde90f5fe4014de13ffa40c67d63b8a/4353ca3e",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attPnxG1Nr7vXhCq0",
+        "url": "https://dl.airtable.com/.attachments/20fe7d37507993bcf19e723edd7c3933/d4619b57/Slide_5",
+        "filename": "Slide_5",
+        "size": 201928,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7b056a5ff9a57660a1ae1266e6145bf7/95fa9663",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/1ffa30927ba3a11ffab382cee09e8aa1/76337492",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/11568dcbe8c64387769296220fab7a18/398c8faf",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "Questions answered by entry": "What do we know so far about airborne transmission? How does it differ from respiratory droplet transmission?\n",
+    "In translated DBs?": "Yes",
+    "DB (Telugu)": [
+      "recFGLlMPppAcZ3jw"
+    ],
+    "DB (Spanish)": [
+      "recY2efAmkG10aAd8"
+    ],
+    "DB (Arabic)": [
+      "recimFamP2CNeVLmX"
+    ],
+    "DB (Bengali)": [
+      "recGFBOwZNRw31Wk9"
+    ],
+    "DB (Portuguese)": [
+      "rechGcGKXH0sbJAkJ"
+    ],
+    "Last edited (simplified)": "2020-07-13T22:07:16.000Z",
+    "Last edited (experts say)": "2020-07-14T21:01:58.000Z",
+    "Last modified": "2020-07-31"
+  },
+  {
+    "id": "recgfRiqVgG4lMH4w",
+    "Question": "What do we know so far about the ability of asymptomatic people to transmit the virus?",
+    "Status": "Published",
+    "Category": "On: COVID-19 & asymptomatic carriers",
+    "Source of the question": [
+      "Newsroom"
+    ],
+    "Background and context": "There is concern about transmission by people without symptoms because this makes disease prevention more challenging. For example, while it is a helpful public health measure to recommend that people self-isolate when ill, it is insufficient to stop the spread of the novel coronavirus when someone who never develops symptoms or who has not yet developed symptoms can still infect others.\n",
+    "What our experts say": "Asymptomatic people, which are defined as people who do not have symptoms but have been infected with COVID-19, have significant potential to spread the virus to hundreds people. We don't know exactly how many people are asymptomatic, but estimates range from a small percentage (4%) up to as many as 81% of cases in some settings. However, the U.S. Centers for Disease Control's (U.S. CDC) director estimated that roughly 35% of people infected with COVID-19 may never have symptoms. Meanwhile, Dr. Anthony Fauci, a member of the White House coronavirus task force and U.S. Director of the National Institute of Allergy and Infectious Diseases, estimated that 25% - 50% of cases were asymptomatic. Some studies have noted that asymptomatic carriers might be the biggest spreaders of COVID-19 in certain populations. There is also evidence to suggest that pre-symptomatic people infected with COVID-19  - people who eventually develop symptoms but haven't had any yet - spread the most amount of virus in the time before they have symptoms.\n\nIt is important to note that people without any symptoms are capable of transmitting the virus to others, and may be spreading it without ever knowing they are infected. This is why it is so important that everyone wear masks, wash their hands vigorously for 20 seconds, and maintain a distance of six feet between themselves and others. \n\nUPDATED July 11, 2020: The U.S. CDC has revised its \"current best estimate\" and now advises that it estimates 40% of people infected with COVID-19 are asymptomatic. The World Health Organization has yet to provide an official estimate and noted that it will vary across populations.\n",
+    "Glossary Terms": [
+      "recx2PeCcs1Awb9rG",
+      "recbZcFUtsYMA9Vsh",
+      "reclKahoPRbBLqUKg"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "asymptomatic",
+      "pre-symptomatic",
+      "transmission"
+    ],
+    "Other resources": "1. Follow-up of asymptomatic patients with SARS-CoV-2 infection ([Clinical Microbiology and Infection][1]) \n2. Estimating the asymptomatic proportion of coronavirus disease 2019 (COVID-19) cases on board the Diamond Princess cruise ship, Yokohama, Japan, 2020. ([Eurosurveillance][2])\n3. COVID-19: in the footsteps of Ernest Shackleton ([BMJ][3]) \n4. SARS-CoV-2 Community Transmission During Shelter-in-Place in San Francisco ([medRxiv][4]) \n5. Estimating the extent of asymptomatic COVID-19 and its potential for community transmission: systematic review and meta-analysis ([medRxiv][5]) \n6. Prevalence of Asymptomatic SARS-CoV-2 Infection ([Annals of Internal Medicine][6]) \n7. In the W.H.O.’s Coronavirus Stumbles, Some Scientists See a Pattern ([New York Times][7]) \n8. White House Adviser Warned of Risks of Pandemic; Trump Misleads on Testing ([New York Times][8]) \n9. COVID-19 Pandemic Planning Scenarios ([U.S. CDC][9]) \n\n  [1]: https://www.clinicalmicrobiologyandinfection.com/article/S1198-743X(20)30169-5/fulltext\n  [2]: https://www.ncbi.nlm.nih.gov/research/coronavirus/publication/32183930\n  [3]: https://thorax.bmj.com/content/early/2020/06/09/thoraxjnl-2020-215091\n  [4]: https://www.medrxiv.org/content/10.1101/2020.06.15.20132233v1\n  [5]: https://www.medrxiv.org/content/10.1101/2020.05.10.20097543v2\n  [6]: https://www.acpjournals.org/doi/10.7326/M20-3012\n  [7]: https://www.nytimes.com/2020/06/09/health/coronavirus-asymptomatic-world-health-organization.html\n  [8]: https://www.nytimes.com/2020/04/06/world/coronavirus-live-news-updates.html\n  [9]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/planning-scenarios.html\n",
+    "DB (French)": [
+      "reccQdEg3vmYTt4Mr"
+    ],
+    "DB (Hindi)": [
+      "recZtbTsR4v0zcLyf"
+    ],
+    "In translated DBs?": "Yes",
+    "DB (Telugu)": [
+      "recAuVCvRPrpfmMV9"
+    ],
+    "DB (Spanish)": [
+      "recTQowjoKIQ3xjPL"
+    ],
+    "DB (Arabic)": [
+      "recdaPr5RsEChiuYA"
+    ],
+    "DB (Bengali)": [
+      "recBtL5f1dTl6oFWM"
+    ],
+    "DB (Portuguese)": [
+      "reccumXtZ72he6jWm"
+    ],
+    "Last edited (simplified)": "2020-07-09T15:59:05.000Z",
+    "Last edited (experts say)": "2020-07-14T20:50:07.000Z",
+    "Last modified": "2020-07-31"
+  },
+  {
+    "id": "recCC7GhsX2CKZJbs",
+    "Question": "Is being vaccinated with BCG protective for COVID-19?",
+    "Status": "Published",
+    "Category": "Treatment",
+    "Subcategory": "On: COVID-19 & vaccines",
+    "Source of the question": [
+      "Social Media"
+    ],
+    "Country question was sourced from": [
+      "Senegal"
+    ],
+    "Background and context": "The BGC vaccine, or the bacille Calmette-Guerin vaccine, is a vaccine for tuberculosis (TB) disease. This vaccine is used in many countries that have high rates of tuberculosis in order to prevent the disease from spreading. As public health researchers try and understand the low case numbers and death count in sub-Saharan Africa and parts of South-East Asia from COVID-19, hypotheses have emerged about the protective power of the BCG vaccine against the coronavirus because of a correlation between countries where the BCG vaccine is widely used and the low number of COVID-19 cases reported in those countries. Recent studies published on this topic do not support the idea that BCG vaccination in childhood has a protective effect against COVID-19 in adulthood. More studies are underway as it's still not clear yet how the BCG vaccine interacts with the virus that causes COVID-19.\n\n",
+    "What our experts say": "Multiple studies are exploring the link between BCG vaccination policies in various countries, and the relatively lower number of COVID-19 cases and deaths in those countries. Recent studies published do not support the idea that BCG vaccination in childhood is a cause of protection against COVID-19 in adulthood. The World Health Organization (WHO) has published a note on this topic that stated that in the absence of evidence, WHO does not recommend BCG vaccination for the prevention of COVID-19. More studies are underway. \n\nUPDATED: July 11, 2020: A recent study published in the Proceedings of the National Academy of Sciences (U.S.) noted that after they accounted for differences in variables like income, age distribution, and access to health services, countries with higher BCG vaccination rates had lower peak mortality rates from COVID-19. However, though there is an association between BCG vaccination and reduced severity of COVID-19 observed in this epidemiological study, it does not mean that there is sufficient enough evidence to consider BCG vaccination a cause of protection from severe COVID-19. There is not enough evidence to support whether or not BCG vaccines can offer protection against severe COVID-19 symptoms and death, and we will continue to update this answer as study results targeting the vaccine  are published.\n",
+    "Glossary Terms": [
+      "rec9SYUCp1ULDd0UL",
+      "recUx8LCQGkRdxG3B"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "prevention",
+      "vaccine",
+      "BCG"
+    ],
+    "Other resources": "1. SARS-CoV-2 Rates in BCG-Vaccinated and Unvaccinated Young Adults ([JAMA][1]) \n2. Bacille Calmette-Guérin (BCG) vaccination and COVID-19 ([WHO][2]) \n3. BCG vaccine protection from severe coronavirus disease 2019 (COVID-19) ([PNAS][3]) \n\n  [1]: https://jamanetwork.com/journals/jama/fullarticle/2766182\n  [2]: https://www.who.int/news-room/commentaries/detail/bacille-calmette-guérin-(bcg)-vaccination-and-covid-19\n  [3]: https://www.pnas.org/content/early/2020/07/07/2008410117\n",
+    "DB (French)": [
+      "rec7DbR8cpUtj6laV"
+    ],
+    "DB (Hindi)": [
+      "recghRwerGPpEzj4B"
+    ],
+    "In translated DBs?": "Yes",
+    "DB (Telugu)": [
+      "recuixMlTCiX1DTTK"
+    ],
+    "DB (Spanish)": [
+      "recNE0G9qxzoPOqNm"
+    ],
+    "DB (Arabic)": [
+      "rec7YrBVTfva3zBWb"
+    ],
+    "DB (Bengali)": [
+      "recvhnf530KTSFMUn"
+    ],
+    "DB (Portuguese)": [
+      "rec6iY7j1UTP0nqUX"
+    ],
+    "Last edited (simplified)": "2020-05-28T19:09:48.000Z",
+    "Last edited (experts say)": "2020-07-14T20:47:03.000Z",
+    "Last modified": "2020-07-31"
+  },
+  {
+    "id": "recN7xZOc6jUGgDCA",
+    "Question": "Are there any side effects of using hand sanitizer?",
+    "Status": "Published",
+    "Background and context": "The virus causing COVID-19 can spread from touching an infected surface, from exposure to respiratory droplets, and from airborne transmission. Person-to-person spread (i.e. not from touching surfaces) is the most well understood form of transmission, as well as the main transmission route for COVID-19. Hand sanitizer is one way to clean your hands after touching surfaces and/or interacting with people, particularly when hand-washing is not an option. The U.S. Centers for Disease Control and Prevention (U.S. CDC) recommends soap and water for hand hygiene whenever possible and especially during cooking, after using the restroom, before eating, and when hands are visibly soiled. When using hand sanitizer, it is important to rub it over the entire surface of hands until dry.\n",
+    "What our experts say": "Side-effects of hand sanitizer are short-term and often mild. The side effects are usually related to skin irritation, like cracking and bleeding, due to either irritation from the product or overuse and drying of the skin. It is important to always check the label to ensure safe use. Ingestion or use around the eyes and nose can cause irritation. \n\nAlcohol-based hand sanitizer should contain at least 60% alcohol to be effective. Hand sanitizer is a good way to clean hands when soap and water isn't available and is effective against the virus that causes COVID-19.\n\nThe U.S. Food and Drug Administration (FDA) has recently issued a warning on the increase in hand sanitizer products containing methanol, instead of ethanol. Methanol, or wood alcohol, is a toxic substance when absorbed through the skin or when ingested that can lead to blindness, hospitalizations, or death. At least 75 brands of hand sanitizer have been recalled for safety reasons, and the FDA also warns against false labels claiming a hand sanitizer product is \"FDA-approved\" (because the FDA has not and does not approve any hand sanitizer products). Hand sanitizer products should be stored out of the reach of children to help prevent accidental ingestion. If you become exposed to hand sanitizer containing methanol and are experiencing symptoms, seek immediate treatment for potential reversal of methanol poisoning. \n\n\n_This information was updated July 24, 2020_\n",
+    "Glossary Terms": [
+      "rech6tPR0hLDA3JH3",
+      "rec5yviiSvJkufYvu"
+    ],
+    "Other resources": "1. Safely Using Hand Sanitizer ([U.S. FDA][1])\n2. Hand Sanitizer Use Out and About ([U.S. CDC][2])\n3. FDA Updates on Hand Sanitizers with Methanol ([U.S. FDA][3])\n4. FDA expands hand sanitizer recall to at least 75 brands across the U.S. ([NBC News][4])\n\n  [1]: https://www.fda.gov/consumers/consumer-updates/safely-using-hand-sanitizer\n  [2]: https://www.cdc.gov/handwashing/hand-sanitizer-use.html\n  [3]: https://www.fda.gov/drugs/drug-safety-and-availability/fda-updates-hand-sanitizers-methanol\n  [4]: https://www.nbcnews.com/health/health-news/fda-expands-hand-sanitizer-recall-least-75-brands-across-u-n1234246\n",
+    "DB (French)": [
+      "recIVQTKiG3cEhdcu"
+    ],
+    "DB (Hindi)": [
+      "recv9UIRYE5hQWU3w"
+    ],
+    "In translated DBs?": "Yes",
+    "DB (Telugu)": [
+      "recKyxSns6hcp48PL"
+    ],
+    "DB (Spanish)": [
+      "rec3U0MbZ1yDdfFJn"
+    ],
+    "DB (Arabic)": [
+      "recnerHXsJupr0QSc"
+    ],
+    "DB (Bengali)": [
+      "recLxnl7CuJ8g61Qo"
+    ],
+    "DB (Portuguese)": [
+      "recmyYdlAoS4oOFQY"
+    ],
+    "Last edited (simplified)": "2020-07-22T21:24:14.000Z",
+    "Last edited (experts say)": "2020-07-31T13:52:26.000Z",
+    "Last modified": "2020-07-31"
+  },
+  {
     "id": "recsAUeofWqkiI3Hs",
     "Question": "What do genes have to do with our bodies' reactions to COVID-19?",
     "Status": "Published",
@@ -969,45 +1401,6 @@
     "Last modified": "2020-07-30"
   },
   {
-    "id": "recYvTpiS4HB4XVtT",
-    "Question": "What do we know about the association between blood type and severe reaction to COVID-19",
-    "Status": "Published",
-    "Background and context": "The media is now reporting on how more recent studies found that blood type is not linked to risks of intubation or death from COVID-19, after adjusting for other factors like age and gender identity. Furthermore, it is important to note that Type O blood does not mean immunity to COVID-19.\n---\nUPDATED: July 27, 2020: Please note that COVID-19 is a new disease, where scientists are continuing to learn more and release new publications. The latest and most accurate answer can be found above.\n\nAs part of the ongoing search for explanations about why the novel coronavirus SARS-CoV-2 impacts people differently, ranging from no symptoms to death, recent research and news articles have reported on potential associations between patient blood type and COVID-19 disease severity. Blood types are determined by the presence or absence of certain antigens in the blood, which are molecules that help your immune system use to detect a foreign threat or invader. Everyone has a blood type - A, B, AB, or O - so these recent findings have the potential to impact many people.\n\nResearch into how Type A blood could be associated with more severe COVID-19 symptoms helps inform the work of medical professionals. The hope is that evolving scientific knowledge will help medical professionals better determine which patients are at higher risk and may need additional care.\n",
-    "What our experts say": "As of now, there is not enough evidence to indicate whether or not there may be some connection between blood type and COVID-19 risk, though the link is likely to be minimal if it does exist. Studies previously cited in the news suggested that Type A blood could be associated with higher risks of severe cases of COVID-19, included studies that had not yet been assessed by scientific experts (referred to in science as the peer-review process). One of these recent studies had been peer-reviewed and published in the New England Journal of Medicine (NEJM); however it used genes to determine the blood type, which is a method that is not very accurate.  \n\nTwo more recent studies from Columbia University and Massachusetts General Hospital in the U.S. found that blood type is not associated with risks of intubation or death from COVID-19, after adjusting for other factors. While scientists continue to learn more, age and underlying health conditions remain more significant risk factors for severe COVID-19 symptoms, and Type A blood is not thought to be a major risk factor at this time. \n\nWhile some studies have suggested a potential risk reduction for people with Type O blood, not all the studies have been peer-reviewed and the use of blood donors as study participants can give the appearance of Type O being more protective than it is (Type O blood is over-represented in blood donors, compared to the general population). Type O blood does not mean immunity to COVID-19.\n---\nUPDATED: July 27, 2020: Please note that COVID-19 is a new disease, where scientists are continuing to learn more and release new publications. The latest and most accurate answer can be found above.\n\nEuropean scientists have recently found a strong link between different types of the gene that determines our blood type and COVID-19. This genetic variation - having type A blood - was associated with an increased risk of respiratory distress in patients with Covid-19; meaning these patients would be more likely to require oxygen or go on a ventilator. Scientists are actively trying to understand why patients with Type A blood seem to be at higher risk of developing serious cases of COVID-19 and more studies are underway to confirm these findings and explain the underlying mechanism. Genetic studies like these raise the possibility that administering DNA tests to patients who test positive for COVID-19 could perhaps help identify patients who will need advanced care. \n\nResearchers have been looking for clues that would explain why some individuals become ill with COVID-19 whereas others do not, even though they test positive for the virus. These teams are also working to discover why some patients become more ill than others when they become infected with COVID-19. One such area of research is our DNA - the long molecule in the nucleus of our cells that contains our unique genetic code.\n\n\n",
-    "Glossary Terms": [
-      "rechQcO5gs3FZMcPs",
-      "recvEcanaG84OrPm4",
-      "rectkO1d0FhUHQ0Of",
-      "recmajcAORyuqhZPc"
-    ],
-    "Other resources": "1. Genes, Blood Type Tied to Risk of Severe COVID-19 ([NIH][1])\n2. The ABO blood group locus and a chromosome 3 gene cluster associate with SARS-CoV-2 respiratory failure in an Italian-Spanish genome-wide association and analysis ([medRxiv][2])\n3. Genes May Leave Some People More Vulnerable to Severe Covid-19 ([NYT][3])\n4. Is there a relationship between blood type and covid-19 infection? ([MIT Technology Review][4])\n5. Genomewide Association Study of Severe Covid-19 with Respiratory Failure ([NEJM][5])\n6. Testing the association between blood type and COVID-19 infection, intubation, and death ([medRxiv][6])\n7. Relationship between the ABO Blood Group and the COVID-19 Susceptibility  ([medRxiv][7])\n8. Blood type and outcomes in patients with COVID-19  ([Annals of Hematology][8])\n9. COVID and Blood Type ([Harvard Medical School][9])\n\n  [1]: https://directorsblog.nih.gov/2020/06/18/genes-blood-type-tied-to-covid-19-risk-of-severe-disease/\n  [2]: https://www.medrxiv.org/content/10.1101/2020.05.31.20114991v1\n  [3]: https://www.nytimes.com/2020/06/03/health/coronavirus-blood-type-genetics.html?searchResultPosition=2\n  [4]: https://www.technologyreview.com/2020/07/14/1005173/blood-type-covid-19-coronavirus-infection/\n  [5]: https://www.nejm.org/doi/full/10.1056/NEJMoa2020283\n  [6]: https://www.medrxiv.org/content/10.1101/2020.04.08.20058073v1.full.pdf\n  [7]: https://www.medrxiv.org/content/10.1101/2020.03.11.20031096v2.full.pdf\n  [8]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7354354/\n  [9]: https://hms.harvard.edu/news/covid-blood-type?utm_source=twitter&utm_medium=social&utm_campaign=hms-twitter-general\n",
-    "DB (French)": [
-      "rec1Y0HsS4cS3Iqfl"
-    ],
-    "DB (Hindi)": [
-      "recujJwcnURttidkS"
-    ],
-    "In translated DBs?": "Yes",
-    "DB (Telugu)": [
-      "reciM0dGEyU4Mt1XC"
-    ],
-    "DB (Spanish)": [
-      "recImbO7B6S8dfbyK"
-    ],
-    "DB (Arabic)": [
-      "reckMAWuSzRcPgce3"
-    ],
-    "DB (Bengali)": [
-      "reci4OWYt0YN1ockY"
-    ],
-    "DB (Portuguese)": [
-      "rec7QTdBAZsJxcYzT"
-    ],
-    "Last edited (simplified)": "2020-07-27T14:50:30.000Z",
-    "Last edited (experts say)": "2020-07-27T14:50:01.000Z",
-    "Last modified": "2020-07-30"
-  },
-  {
     "id": "recXb3N5IK5AseYsP",
     "Question": "What does the science say about COVID-19 on surfaces?",
     "Status": "Published",
@@ -1883,43 +2276,6 @@
     "Last modified": "2020-07-27"
   },
   {
-    "id": "recN7xZOc6jUGgDCA",
-    "Question": "Are there any side effects of using hand sanitizer?",
-    "Status": "Published",
-    "Background and context": "The virus causing COVID-19 can spread from touching an infected surface, from exposure to respiratory droplets, and from airborne transmission. Person-to-person spread (i.e. not from touching surfaces) is the most well understood form of transmission, as well as the main transmission route for COVID-19. Hand sanitizer is one way to clean your hands after touching surfaces and/or interacting with people, particularly when hand-washing is not an option. The U.S. Centers for Disease Control and Prevention (U.S. CDC) recommends soap and water for hand hygiene whenever possible and especially during cooking, after using the restroom, before eating, and when hands are visibly soiled. When using hand sanitizer, it is important to rub it over the entire surface of hands until dry.\n",
-    "What our experts say": "Side-effects of hand sanitizer are short-term and often mild. The side effects are usually related to skin irritation, like cracking and bleeding, due to either irritation from the product or overuse and drying of the skin. It is important to always check the label to ensure safe use. Ingestion or use around the eyes and nose can cause irritation. \n\nAlcohol-based hand sanitizer should contain at least 60% alcohol to be effective. Hand sanitizer is a good way to clean hands when soap and water isn't available and is effective against the virus that causes COVID-19.\n\n\nUPDATED: July 24, 2020: The U.S. Food and Drug Administration (FDA) has recently issued a warning on the increase in hand sanitizer products containing methanol, instead of ethanol. Methanol, or wood alcohol, is a toxic substance when absorbed through the skin or when ingested that can lead to blindness, hospitalizations, or death. At least 75 brands of hand sanitizer have been recalled for safety reasons, and the FDA also warns against false labels claiming a hand sanitizer product is \"FDA-approved\" (because the FDA has not and does not approve any hand sanitizer products). Hand sanitizer products should be stored out of the reach of children to help prevent accidental ingestion. If you become exposed to hand sanitizer containing methanol and are experiencing symptoms, seek immediate treatment for potential reversal of methanol poisoning. \n",
-    "Glossary Terms": [
-      "rech6tPR0hLDA3JH3",
-      "rec5yviiSvJkufYvu"
-    ],
-    "Other resources": "1. Safely Using Hand Sanitizer ([U.S. FDA][1])\n2. Hand Sanitizer Use Out and About ([U.S. CDC][2])\n3. FDA Updates on Hand Sanitizers with Methanol ([U.S. FDA][3])\n4. FDA expands hand sanitizer recall to at least 75 brands across the U.S. ([NBC News][4])\n\n  [1]: https://www.fda.gov/consumers/consumer-updates/safely-using-hand-sanitizer\n  [2]: https://www.cdc.gov/handwashing/hand-sanitizer-use.html\n  [3]: https://www.fda.gov/drugs/drug-safety-and-availability/fda-updates-hand-sanitizers-methanol\n  [4]: https://www.nbcnews.com/health/health-news/fda-expands-hand-sanitizer-recall-least-75-brands-across-u-n1234246\n",
-    "DB (French)": [
-      "recIVQTKiG3cEhdcu"
-    ],
-    "DB (Hindi)": [
-      "recv9UIRYE5hQWU3w"
-    ],
-    "In translated DBs?": "Yes",
-    "DB (Telugu)": [
-      "recKyxSns6hcp48PL"
-    ],
-    "DB (Spanish)": [
-      "rec3U0MbZ1yDdfFJn"
-    ],
-    "DB (Arabic)": [
-      "recnerHXsJupr0QSc"
-    ],
-    "DB (Bengali)": [
-      "recLxnl7CuJ8g61Qo"
-    ],
-    "DB (Portuguese)": [
-      "recmyYdlAoS4oOFQY"
-    ],
-    "Last edited (simplified)": "2020-07-22T21:24:14.000Z",
-    "Last edited (experts say)": "2020-07-27T03:23:16.000Z",
-    "Last modified": "2020-07-27"
-  },
-  {
     "id": "rec5d5bDYQKs3umW2",
     "Question": "What do we know about pregnant women and COVID-19?",
     "Status": "Published",
@@ -2423,63 +2779,6 @@
     "Last modified": "2020-07-24"
   },
   {
-    "id": "recqFRWiE9Y6nbUM5",
-    "Question": "What are the origins of the virus?",
-    "Status": "Published",
-    "Category": "Origin",
-    "Subcategory": "On: The origin of COVID-19 ",
-    "Source of the question": [
-      "Social Media"
-    ],
-    "Country question was sourced from": [
-      "India",
-      "Kenya",
-      "USA"
-    ],
-    "Background and context": "Coronaviruses are a group of viruses that can cause a variety of different illnesses, but primarily upper-respiratory tract illnesses in humans. These illnesses include the common cold, severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS). Some viruses can originate in animals and later infect humans, and this can happen in a number of different ways, including: by eating meat or produce that has been contaminated by the virus, through the air or by touching a surface that was touched by an infected animal, through close contact with an infected animal, or through insect bites. Not all viruses transfer from animals to humans in all of these ways, it depends on the virus. The resources section contains more information about this. \n\n",
-    "What our experts say": "COVID-19 was first detected in the city of Wuhan, China in late 2019. The virus has since been partially traced back to a large seafood and animal market in the city of Wuhan, after several people who had been to the market became sick with the illness we now know as COVID-19. Scientists were able to use genetic tests to confirm that the virus was first identified in people and environmental samples in the city of Wuhan. Tests on the genetics of viruses, much like genetics in humans, can reveal a lot about their origins. When these genetic tests were done on the COVID-19 virus' genes, it revealed that the virus originated in an infected animal and mutated when that animal transferred the virus to a human, likely in the city of Wuhan. The details about that event, which is called a zoonotic transfer, are still being investigated.\n\nUPDATED: July 16, 2020: The majority of scientific studies now support the idea that the origin of the virus in animals was bats, specifically horseshoe bats, potentially from China or neighboring countries of Myanmar, Laos and Vietnam. Scientists also suggest that the virus may have been passed to humans through an intermediate host before spreading to humans, but are unsure about what animal the host might have been, though pangolins and civets have been suggested. A potential combination between bats and pangolins as the viral origin has also been noted. World Health Organization experts will soon travel to China and work with Chinese health officials to identify the source of the virus.\n\n\n",
-    "Glossary Terms": [
-      "recbQ95pvRq7nP9s3",
-      "recFSOdDjQBqJHnZ9"
-    ],
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "origin",
-      "bats",
-      "Wuhan",
-      "China"
-    ],
-    "Other resources": "1. Viral and host factors related to the clinical outcome of COVID-19 ([Nature][1])\n2. Genomic Study Points to Natural Origin of COVID-19 ([NIH][2]) \n3. Zoonotic diseases ([U.S. CDC][3]) \n4. Update and Interim Guidance on Outbreak of 2019 Novel Coronavirus (2019-nCoV) in Wuhan, China ([U.S. CDC][4]) \n5. Coronavirus Disease 2019 (COVID-19) ([U.S. CDC][5]) \n6. COVID-19: a novel zoonotic disease caused by a coronavirus from China: what we know and what we don’t ([NCBI][6])\n7. Six months of coronavirus: the mysteries scientists are still racing to solve ([Nature][7]) \n8. The biggest mystery: what it will take to trace the coronavirus source ([Nature][8]) \n9. Emergence of SARS-CoV-2 through recombination and strong purifying selection ([Science Advances][9]) \n10. WHO experts to travel to China ([WHO][10]) \n\n  [1]: https://www.nature.com/articles/s41586-020-2355-0\n  [2]: https://directorsblog.nih.gov/2020/03/26/genomic-research-points-to-natural-origin-of-covid-19/\n  [3]: https://www.cdc.gov/onehealth/basics/zoonotic-diseases.html\n  [4]: https://emergency.cdc.gov/han/han00426.asp\n  [5]: https://www.cdc.gov/media/dpk/diseases-and-conditions/coronavirus/coronavirus-2020.html\n  [6]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7086482/#R1\n  [7]: https://www.nature.com/articles/d41586-020-01989-z\n  [8]: https://www.nature.com/articles/d41586-020-01541-z\n  [9]: https://advances.sciencemag.org/content/6/27/eabb9153\n  [10]: https://www.who.int/news-room/detail/07-07-2020-who-experts-to-travel-to-china\n",
-    "How often revision needed": "Monthly",
-    "DB (French)": [
-      "recbjW2CdPdJHM0wE"
-    ],
-    "DB (Hindi)": [
-      "recI45JBg4AUfgdUv"
-    ],
-    "Editorial notes:": "\n",
-    "In translated DBs?": "Yes",
-    "DB (Telugu)": [
-      "rec7Y7yZKPzYOaUcQ"
-    ],
-    "DB (Spanish)": [
-      "recqkAsNhKQpClr6s"
-    ],
-    "DB (Arabic)": [
-      "recKE1nzKsMbQ6Cfh"
-    ],
-    "DB (Bengali)": [
-      "rec8XX1JUd1UFcNdt"
-    ],
-    "DB (Portuguese)": [
-      "recJYyTXS7aQNUrd3"
-    ],
-    "Last edited (simplified)": "2020-05-27T22:06:20.000Z",
-    "Last edited (experts say)": "2020-07-17T02:06:38.000Z",
-    "Last modified": "2020-07-24"
-  },
-  {
     "id": "recrNXw7eBw8czwGW",
     "Question": "What is the latest research around sunbathing and COVID-19?",
     "Status": "Published",
@@ -2646,58 +2945,6 @@
     ],
     "Last edited (simplified)": "2020-05-26T14:42:58.000Z",
     "Last edited (experts say)": "2020-05-16T03:33:24.000Z",
-    "Last modified": "2020-07-24"
-  },
-  {
-    "id": "recCC7GhsX2CKZJbs",
-    "Question": "Is being vaccinated with BCG protective for COVID-19?",
-    "Status": "Published",
-    "Category": "Treatment",
-    "Subcategory": "On: COVID-19 & vaccines",
-    "Source of the question": [
-      "Social Media"
-    ],
-    "Country question was sourced from": [
-      "Senegal"
-    ],
-    "Background and context": "The BGC vaccine, or the bacille Calmette-Guerin vaccine, is a vaccine for tuberculosis (TB) disease. This vaccine is used in many countries that have high rates of tuberculosis in order to prevent the disease from spreading. As public health researchers try and understand the low case numbers and death count in sub-Saharan Africa and parts of South-East Asia from COVID-19, hypotheses have emerged about the protective power of the BCG vaccine against the coronavirus because of a correlation between countries where the BCG vaccine is widely used and the low number of COVID-19 cases reported in those countries. Recent studies published on this topic do not support the idea that BCG vaccination in childhood has a protective effect against COVID-19 in adulthood. More studies are underway as it's still not clear yet how the BCG vaccine interacts with the virus that causes COVID-19.\n\n",
-    "What our experts say": "Multiple studies are exploring the link between BCG vaccination policies in various countries, and the relatively lower number of COVID-19 cases and deaths in those countries. Recent studies published do not support the idea that BCG vaccination in childhood is a cause of protection against COVID-19 in adulthood. The World Health Organization (WHO) has published a note on this topic that stated that in the absence of evidence, WHO does not recommend BCG vaccination for the prevention of COVID-19. More studies are underway. \n\nUPDATED: July 11, 2020: A recent study published in the Proceedings of the National Academy of Sciences (U.S.) noted that after they accounted for differences in variables like income, age distribution, and access to health services, countries with higher BCG vaccination rates had lower peak mortality rates from COVID-19. However, though there is an association between BCG vaccination and reduced severity of COVID-19 observed in this epidemiological study, it does not mean that there is sufficient enough evidence to consider BCG vaccination a cause of protection from severe COVID-19. There is not enough evidence to support whether or not BCG vaccines can offer protection against severe COVID-19 symptoms and death, and we will continue to update this answer as study results targeting the vaccine  are published.\n",
-    "Glossary Terms": [
-      "rec9SYUCp1ULDd0UL",
-      "recUx8LCQGkRdxG3B"
-    ],
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "prevention",
-      "vaccine",
-      "BCG"
-    ],
-    "Other resources": "1. SARS-CoV-2 Rates in BCG-Vaccinated and Unvaccinated Young Adults ([JAMA][1]) \n2. Bacille Calmette-Guérin (BCG) vaccination and COVID-19 ([WHO][2]) \n3. BCG vaccine protection from severe coronavirus disease 2019 (COVID-19) ([PNAS][3]) \n\n  [1]: https://jamanetwork.com/journals/jama/fullarticle/2766182\n  [2]: https://www.who.int/news-room/commentaries/detail/bacille-calmette-guérin-(bcg)-vaccination-and-covid-19\n  [3]: https://www.pnas.org/content/early/2020/07/07/2008410117\n",
-    "DB (French)": [
-      "rec7DbR8cpUtj6laV"
-    ],
-    "DB (Hindi)": [
-      "recghRwerGPpEzj4B"
-    ],
-    "In translated DBs?": "Yes",
-    "DB (Telugu)": [
-      "recuixMlTCiX1DTTK"
-    ],
-    "DB (Spanish)": [
-      "recNE0G9qxzoPOqNm"
-    ],
-    "DB (Arabic)": [
-      "rec7YrBVTfva3zBWb"
-    ],
-    "DB (Bengali)": [
-      "recvhnf530KTSFMUn"
-    ],
-    "DB (Portuguese)": [
-      "rec6iY7j1UTP0nqUX"
-    ],
-    "Last edited (simplified)": "2020-05-28T19:09:48.000Z",
-    "Last edited (experts say)": "2020-07-14T20:47:03.000Z",
     "Last modified": "2020-07-24"
   },
   {
@@ -6267,55 +6514,6 @@
     "Last modified": "2020-07-24"
   },
   {
-    "id": "recgfRiqVgG4lMH4w",
-    "Question": "What do we know so far about the ability of asymptomatic people to transmit the virus?",
-    "Status": "Published",
-    "Category": "On: COVID-19 & asymptomatic carriers",
-    "Source of the question": [
-      "Newsroom"
-    ],
-    "Background and context": "There is concern about transmission by people without symptoms because this makes disease prevention more challenging. For example, while it is a helpful public health measure to recommend that people self-isolate when ill, it is insufficient to stop the spread of the novel coronavirus when someone who never develops symptoms or who has not yet developed symptoms can still infect others.\n",
-    "What our experts say": "Asymptomatic people, which are defined as people who do not have symptoms but have been infected with COVID-19, have significant potential to spread the virus to hundreds people. We don't know exactly how many people are asymptomatic, but estimates range from a small percentage (4%) up to as many as 81% of cases in some settings. However, the U.S. Centers for Disease Control's (U.S. CDC) director estimated that roughly 35% of people infected with COVID-19 may never have symptoms. Meanwhile, Dr. Anthony Fauci, a member of the White House coronavirus task force and U.S. Director of the National Institute of Allergy and Infectious Diseases, estimated that 25% - 50% of cases were asymptomatic. Some studies have noted that asymptomatic carriers might be the biggest spreaders of COVID-19 in certain populations. There is also evidence to suggest that pre-symptomatic people infected with COVID-19  - people who eventually develop symptoms but haven't had any yet - spread the most amount of virus in the time before they have symptoms.\n\nIt is important to note that people without any symptoms are capable of transmitting the virus to others, and may be spreading it without ever knowing they are infected. This is why it is so important that everyone wear masks, wash their hands vigorously for 20 seconds, and maintain a distance of six feet between themselves and others. \n\nUPDATED July 11, 2020: The U.S. CDC has revised its \"current best estimate\" and now advises that it estimates 40% of people infected with COVID-19 are asymptomatic. The World Health Organization has yet to provide an official estimate and noted that it will vary across populations.\n",
-    "Glossary Terms": [
-      "recx2PeCcs1Awb9rG",
-      "recbZcFUtsYMA9Vsh",
-      "reclKahoPRbBLqUKg"
-    ],
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "asymptomatic",
-      "pre-symptomatic",
-      "transmission"
-    ],
-    "Other resources": "1. Follow-up of asymptomatic patients with SARS-CoV-2 infection ([Clinical Microbiology and Infection][1]) \n2. Estimating the asymptomatic proportion of coronavirus disease 2019 (COVID-19) cases on board the Diamond Princess cruise ship, Yokohama, Japan, 2020. ([Eurosurveillance][2])\n3. COVID-19: in the footsteps of Ernest Shackleton ([BMJ][3]) \n4. SARS-CoV-2 Community Transmission During Shelter-in-Place in San Francisco ([medRxiv][4]) \n5. Estimating the extent of asymptomatic COVID-19 and its potential for community transmission: systematic review and meta-analysis ([medRxiv][5]) \n6. Prevalence of Asymptomatic SARS-CoV-2 Infection ([Annals of Internal Medicine][6]) \n7. In the W.H.O.’s Coronavirus Stumbles, Some Scientists See a Pattern ([New York Times][7]) \n8. White House Adviser Warned of Risks of Pandemic; Trump Misleads on Testing ([New York Times][8]) \n9. COVID-19 Pandemic Planning Scenarios ([U.S. CDC][9]) \n\n  [1]: https://www.clinicalmicrobiologyandinfection.com/article/S1198-743X(20)30169-5/fulltext\n  [2]: https://www.ncbi.nlm.nih.gov/research/coronavirus/publication/32183930\n  [3]: https://thorax.bmj.com/content/early/2020/06/09/thoraxjnl-2020-215091\n  [4]: https://www.medrxiv.org/content/10.1101/2020.06.15.20132233v1\n  [5]: https://www.medrxiv.org/content/10.1101/2020.05.10.20097543v2\n  [6]: https://www.acpjournals.org/doi/10.7326/M20-3012\n  [7]: https://www.nytimes.com/2020/06/09/health/coronavirus-asymptomatic-world-health-organization.html\n  [8]: https://www.nytimes.com/2020/04/06/world/coronavirus-live-news-updates.html\n  [9]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/planning-scenarios.html\n",
-    "DB (French)": [
-      "reccQdEg3vmYTt4Mr"
-    ],
-    "DB (Hindi)": [
-      "recZtbTsR4v0zcLyf"
-    ],
-    "In translated DBs?": "Yes",
-    "DB (Telugu)": [
-      "recAuVCvRPrpfmMV9"
-    ],
-    "DB (Spanish)": [
-      "recTQowjoKIQ3xjPL"
-    ],
-    "DB (Arabic)": [
-      "recdaPr5RsEChiuYA"
-    ],
-    "DB (Bengali)": [
-      "recBtL5f1dTl6oFWM"
-    ],
-    "DB (Portuguese)": [
-      "reccumXtZ72he6jWm"
-    ],
-    "Last edited (simplified)": "2020-07-09T15:59:05.000Z",
-    "Last edited (experts say)": "2020-07-14T20:50:07.000Z",
-    "Last modified": "2020-07-24"
-  },
-  {
     "id": "recAvJuac1TZ49MjL",
     "Question": "If COVID-19 is transmitted via airborne particles, how might testing change?",
     "Status": "Published",
@@ -6640,204 +6838,6 @@
     ],
     "Last edited (simplified)": "2020-07-10T02:23:35.000Z",
     "Last edited (experts say)": "2020-07-10T03:13:41.000Z",
-    "Last modified": "2020-07-24"
-  },
-  {
-    "id": "recXUQjiQ2yaPXyxo",
-    "Question": "What do we know so far about airborne transmission and how does it differ from respiratory droplet transmission? ",
-    "Status": "Published",
-    "Category": "Transmission",
-    "Subcategory": "Differences between airborne transmission and respiratory droplets",
-    "Background and context": "Respiratory droplet transmission happens when disease spreads through droplets expelled by an infected person, through coughing, sneezing, talking, or even just breathing; these droplets are larger than 5-10 micrometers. One micrometer is one millionth of a meter. Respiratory droplets are _relatively_ heavy, and fall to the ground quickly. In contrast, airborne transmission is when residue from droplets smaller than 5 micrometers, or dust particles carrying the virus, stay suspended in the air for longer and disperse farther by air currents. Scientists and the World Health Organization (WHO) have recognized that evidence is emerging on the possibility of airborne transmission, particularly in \"crowded, closed, poorly ventilated settings.\" If airborne transmission of COVID-19 is significant, this has major implications for containment efforts (ex. masks may be needed indoors and in socially-distant settings, ventilation systems may need to minimize recirculating air and find ways to filter or disinfect contaminated air, etc.). \n",
-    "What our experts say": "There is mounting evidence that COVID-19 can spread through airborne transmission, which is when a person infected with COVID-19 releases tiny droplets of fluid into the air called 'droplet nuclei' by coughing, sneezing, talking, or during medical procedures involving the release of these types of fluids. Droplet nuclei are very light, relatively dry, and microscopic in size so they can remain suspended in the air like a mist, which is why airborne transmission is also called 'aerosol transmission, and pose a risk of infection to people in close proximity. This is different from the prevailing theory that the virus spreads through bigger respiratory droplets that are heavier, fall to the ground relatively quickly, and do not remain suspended in the air or spread through the air. \n\nThe risk of airborne transmission remains under research**, **but it is potentially thought to be higher risk in enclosed spaces with poor ventilation. Retrospective analyses of \"super-spreader\" events, where a significant number of people have been infected at a single event, demonstrate that airborne transmission was likely responsible for infecting multiple people in the absence of direct, physical contact. One study analyzed an outbreak involving three separate families in a restaurant in Guangzhou, China and found that the spread pattern pointed to aerosol transmission due to poor ventilation in the restaurant. \n\nUntil July 7, 2020, the World Health Organization (WHO) continued to claim that evidence pointed to respiratory droplet transmission as the most plausible route of transmission for the virus, but 239 experts and public health professionals have cautioned against ruling out the possibility of airborne transmission and the WHO acknowledged emerging evidence regarding airborne transmission in poorly ventilated spaces on July 8, 2020. Public health experts have repeatedly warned that airborne transmission is most likely contributing to transmission, especially in indoor spaces, and recommendations should incorporate the need for sufficient ventilation, high efficiency filtration, and limiting crowded spaces, in addition to universal adoption of masks, social distancing, and frequent hand washing with soap and water.\n\nUPDATED: July 11, 2020: On July 9, 2020, the WHO has acknowledged that certain medical procedures can cause COVID-19 to be spread through airborne transmission. The group also noted that the potential for COVID-19 to spread through the air in crowded, indoor spaces that are inadequately ventilated \"cannot be ruled out.\" The WHO stated that more studies are urgently needed on this topic and reiterated their stance that the virus is primarily spread through contact and respiratory droplets.\n\n",
-    "Glossary Terms": [
-      "recy3qWpegJbN2rbV",
-      "recTotk6ZnYu3ib8P",
-      "rech6tPR0hLDA3JH3",
-      "rec5yviiSvJkufYvu"
-    ],
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No \n",
-    "Topics": [
-      "aerosol",
-      "airborne",
-      "transmission",
-      "droplet",
-      "respiratory droplets"
-    ],
-    "Other resources": "1. Modes of transmission of virus causing COVID-19: implications for IPC precaution recommendations ([WHO][1])\n2. Open Letter: It is Time to Address Airborne Transmission of COVID-19 ([Clinical Infectious Diseases][2])\n3. W.H.O. to Review Evidence of Airborne Transmission of Coronavirus ([NYT][3])\n4. 239 Experts With One Big Claim: The Coronavirus Is Airborne ([NYT][4])\n5. Evidence for probable aerosol transmission of SARS-CoV-2 in a poorly ventilated restaurant ([medRxiv][5])\n6. Scientists Urge WHO To Update Guidance On Airborne Transmission Of The Coronavirus ([NPR][6])\n7. Aerodynamic Characteristics and RNA Concentration of SARS-CoV-2 Aerosol in Wuhan Hospitals during COVID-19 Outbreak ([bioRxiv][7])\n8. Coronavirus: WHO rethinking how Covid-19 spreads in air ([BBC][8])\n9. Transmission of SARS-CoV-2: implications for infection prevention precautions ([WHO][9]) \n\n  [1]: https://www.who.int/news-room/commentaries/detail/modes-of-transmission-of-virus-causing-covid-19-implications-for-ipc-precaution-recommendations\n  [2]: https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/5867798\n  [3]: https://www.nytimes.com/2020/07/07/health/coronavirus-aerosols-who.html\n  [4]: https://www.nytimes.com/2020/07/04/health/239-experts-with-one-big-claim-the-coronavirus-is-airborne.html\n  [5]: https://www.medrxiv.org/content/10.1101/2020.04.16.20067728v1\n  [6]: https://www.npr.org/2020/07/06/887925721/scientists-urge-who-to-update-guidance-on-airborne-transmission-of-the-coronavir\n  [7]: https://www.biorxiv.org/content/10.1101/2020.03.08.982637v1\n  [8]: https://www.bbc.com/news/world-53329946\n  [9]: https://www.who.int/publications/i/item/modes-of-transmission-of-virus-causing-covid-19-implications-for-ipc-precaution-recommendations\n",
-    "How often revision needed": "Weekly",
-    "DB (French)": [
-      "recv5sGussa9GmX26"
-    ],
-    "DB (Hindi)": [
-      "recQsQedv6T3fLr8y"
-    ],
-    "Media": [
-      {
-        "id": "attOl7ELRWQ7ydV1K",
-        "url": "https://dl.airtable.com/.attachments/8059990d8523d6d1a93c20e2f4d9762e/d6498516/Slide_1",
-        "filename": "Slide_1",
-        "size": 356084,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/e7cb0e9db7cade85a4c15a2051e638e3/ab31271e",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/95940d1910a9788da1045a1ee85c29de/241b70a2",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/6f9c64ffe5c98da0e7c14ca94c5fdf1d/6b051071",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "attOYOnFtFxS88Eal",
-        "url": "https://dl.airtable.com/.attachments/d2ab7dac2fce093daa4490383a2fdf51/6d1a0f1d/Slide_2",
-        "filename": "Slide_2",
-        "size": 244795,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/712e12b7235ad0cec2cc111dcc9cf478/dba0a7f4",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/4404e48bf383131f443138211f317b46/80a25c7c",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/d7aeffebebbfe4a120ac37f88139cd94/6e5d950d",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "att7qY71spsF7dLNd",
-        "url": "https://dl.airtable.com/.attachments/ec3071e9469ecd3d9904cd3ae316ba7d/dd8e64cc/Slide_3",
-        "filename": "Slide_3",
-        "size": 240322,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/b490dffe0163d5f738bec54e6b689090/b61db64e",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/d4c60811be49ea16098b4342043b1834/108a3843",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/646c4bf3ba1b6faea80f866b21130336/080fe032",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "atteEuKu2zAAzHkAV",
-        "url": "https://dl.airtable.com/.attachments/74bca8eb1e7a32c9dbec7276424b599a/00b6cea0/Slide_4",
-        "filename": "Slide_4",
-        "size": 209706,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/d8e44c19d2d97c78db8734586e94acf6/3781c235",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/b8ba48ef224fc72844d673fe912f1926/10c42232",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/b0595f522d85d98d317701b75faebed1/cf232113",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "attDbix3ZZcazaunL",
-        "url": "https://dl.airtable.com/.attachments/47b4096a80f67ed37a007a221dea25ef/da5dd58d/Slide_6",
-        "filename": "Slide_6",
-        "size": 241192,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/3cd9da129ef6ea2909a4c67d1512aa73/30c99389",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/95de5815f558913dd480a4082075a73a/046a2837",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/edde90f5fe4014de13ffa40c67d63b8a/4353ca3e",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "attPnxG1Nr7vXhCq0",
-        "url": "https://dl.airtable.com/.attachments/20fe7d37507993bcf19e723edd7c3933/d4619b57/Slide_5",
-        "filename": "Slide_5",
-        "size": 201928,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/7b056a5ff9a57660a1ae1266e6145bf7/95fa9663",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/1ffa30927ba3a11ffab382cee09e8aa1/76337492",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/11568dcbe8c64387769296220fab7a18/398c8faf",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ],
-    "Questions answered by entry": "What do we know so far about airborne transmission? How does it differ from respiratory droplet transmission?\n",
-    "In translated DBs?": "Yes",
-    "DB (Telugu)": [
-      "recFGLlMPppAcZ3jw"
-    ],
-    "DB (Spanish)": [
-      "recY2efAmkG10aAd8"
-    ],
-    "DB (Arabic)": [
-      "recimFamP2CNeVLmX"
-    ],
-    "DB (Bengali)": [
-      "recGFBOwZNRw31Wk9"
-    ],
-    "DB (Portuguese)": [
-      "rechGcGKXH0sbJAkJ"
-    ],
-    "Last edited (simplified)": "2020-07-13T22:07:16.000Z",
-    "Last edited (experts say)": "2020-07-14T21:01:58.000Z",
     "Last modified": "2020-07-24"
   },
   {
