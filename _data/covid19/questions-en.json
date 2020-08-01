@@ -1,5 +1,57 @@
 [
   {
+    "id": "rec7awl8Ed6xdZIiv",
+    "Question": "Does Vitamin D help prevent or treat COVID-19?",
+    "Status": "Published",
+    "Subcategory": "On: COVID-19 & Vitamin D",
+    "Source of the question": [
+      "Social Media"
+    ],
+    "Country question was sourced from": [
+      "USA"
+    ],
+    "Background and context": "Vitamin D is an essential nutrient, which means your body needs it but cannot make it on its own. This is why people have to get their Vitamin D from foods like salmon or egg yolks, supplements, or from spending short amounts of time in the sun. Vitamin D helps ensure your body's immune system and its cells are working well so they can respond to infections and viruses. In addition to its help in retaining calcium levels in the body and promoting bone health, Vitamin D can also potentially reduce cancer cell growth, help minimize inflammation, and help control infections. \n",
+    "What our experts say": "It is too early to tell whether or not Vitamin D can help treat COVID-19. As of now, Vitamin D has not been tested for its effectiveness in treating COVID-19 patients, so there is no evidence that it can prevent or treat the virus. A recent study looked at data from 20 European countries and noted that in places where more people had cases of Vitamin D deficiency, they also had higher rates of COVID-19 cases and deaths. While this study suggested a possible relationship between lower levels of Vitamin D and poor COVID-19 health outcomes, there is no evidence that Vitamin D levels actually caused more cases or deaths related to COVID-19. \n\nOther studies have noted potential links between low Vitamin D levels and COVID-19, but no consensus has been reached on what the potential impact of the vitamin is on the virus. Researchers are now working on several studies to determine if Vitamin D can be effective in treating COVID-19.\n",
+    "Glossary Terms": [
+      "recnFUXyIZy81Rj1I"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "Calcium",
+      "Vitamin D",
+      "prevention",
+      "treatment",
+      "homeopathic"
+    ],
+    "Other resources": "1. Lancet review on Vitamin D and COVID-19 outcomes ([The Lancet][1])\n2. Aging Clinical and Experimental Research study on Vitamin D and the prevention of COVID-19 ([Aging][2])\n3. BMJ study on Vitamin D and COVID-19 ([BMJ][3])\n4. Pre-print study of patterns of COVID-19 mortality and Vitamin D ([SSRN][4])\n5. Pre-print study on the possible role of Vitamin D and cytokine storms in COVID-19 ([Medrxiv][5])\n6. Harvard review of Vitamin D ([HSPH][6])\n7. Journal of Investigative Medicine review of Vitamin D and the immune system ([JIM][7])\n\n  [1]: https://www.thelancet.com/journals/landia/article/PIIS2213-8587(20)30183-2/fulltext\n  [2]: https://link.springer.com/article/10.1007%2Fs40520-020-01570-8\n  [3]: https://nutrition.bmj.com/content/early/2020/05/15/bmjnph-2020-000089\n  [4]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3585561\n  [5]: https://www.medrxiv.org/content/10.1101/2020.04.08.20058578v4\n  [6]: https://www.hsph.harvard.edu/nutritionsource/vitamin-d/\n  [7]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3166406/\n",
+    "DB (French)": [
+      "recgur7UqWESGFk8T"
+    ],
+    "DB (Hindi)": [
+      "reco1sk8QaOHSDsDk"
+    ],
+    "In translated DBs?": "Yes",
+    "DB (Telugu)": [
+      "recpDxEPAA9r6srCb"
+    ],
+    "DB (Spanish)": [
+      "recIZ0yD7vqSUDYwN"
+    ],
+    "DB (Arabic)": [
+      "rec2jrtpAdmE8o9FC"
+    ],
+    "DB (Bengali)": [
+      "recqCn7zKYBnXukDO"
+    ],
+    "DB (Portuguese)": [
+      "rec1DYZNISKj5cYDo"
+    ],
+    "Last edited (simplified)": "2020-06-03T21:07:17.000Z",
+    "Last edited (experts say)": "2020-06-04T16:24:46.000Z",
+    "Last modified": "2020-07-31"
+  },
+  {
     "id": "rechQWZ1ctlJ81Vxn",
     "Question": "What does the scientific literature say about using hydroxychloroquine to prevent, treat or cure COVID-19?",
     "Status": "Published",
@@ -664,58 +716,6 @@
     ],
     "Last edited (simplified)": "2020-07-17T21:43:30.000Z",
     "Last edited (experts say)": "2020-07-17T21:50:56.000Z",
-    "Last modified": "2020-07-30"
-  },
-  {
-    "id": "rec7awl8Ed6xdZIiv",
-    "Question": "Does Vitamin D help prevent or treat COVID-19?",
-    "Status": "Published",
-    "Subcategory": "On: COVID-19 & Vitamin D",
-    "Source of the question": [
-      "Social Media"
-    ],
-    "Country question was sourced from": [
-      "USA"
-    ],
-    "Background and context": "Vitamin D is an essential nutrient, which means your body needs it but cannot make it on its own. This is why people have to get their Vitamin D from foods like salmon or egg yolks, supplements, or from spending short amounts of time in the sun. Vitamin D helps ensure your body's immune system and its cells are working well so they can respond to infections and viruses. In addition to its help in retaining calcium levels in the body and promoting bone health, Vitamin D can also potentially reduce cancer cell growth, help minimize inflammation, and help control infections. \n",
-    "What our experts say": "It is too early to tell whether or not Vitamin D can help treat COVID-19. As of now, Vitamin D has not been tested for its effectiveness in treating COVID-19 patients, so there is no evidence that it can prevent or treat the virus. A recent study looked at data from 20 European countries and noted that in places where more people had cases of Vitamin D deficiency, they also had higher rates of COVID-19 cases and deaths. While this study suggested a possible relationship between lower levels of Vitamin D and poor COVID-19 health outcomes, there is no evidence that Vitamin D levels actually caused more cases or deaths related to COVID-19. \n\nOther studies have noted potential links between low Vitamin D levels and COVID-19, but no consensus has been reached on what the potential impact of the vitamin is on the virus. Researchers are now working on several studies to determine if Vitamin D can be effective in treating COVID-19.\n",
-    "Glossary Terms": [
-      "recnFUXyIZy81Rj1I"
-    ],
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "Calcium",
-      "Vitamin D",
-      "prevention",
-      "treatment",
-      "homeopathic"
-    ],
-    "Other resources": "1. Lancet review on Vitamin D and COVID-19 outcomes ([The Lancet][1])\n2. Aging Clinical and Experimental Research study on Vitamin D and the prevention of COVID-19 ([Aging][2])\n3. BMJ study on Vitamin D and COVID-19 ([BMJ][3])\n4. Pre-print study of patterns of COVID-19 mortality and Vitamin D ([SSRN][4])\n5. Pre-print study on the possible role of Vitamin D and cytokine storms in COVID-19 ([Medrxiv][5])\n6. Harvard review of Vitamin D ([HSPH][6])\n7. Journal of Investigative Medicine review of Vitamin D and the immune system ([JIM][7])\n\n  [1]: https://www.thelancet.com/journals/landia/article/PIIS2213-8587(20)30183-2/fulltext\n  [2]: https://link.springer.com/article/10.1007%2Fs40520-020-01570-8\n  [3]: https://nutrition.bmj.com/content/early/2020/05/15/bmjnph-2020-000089\n  [4]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3585561\n  [5]: https://www.medrxiv.org/content/10.1101/2020.04.08.20058578v4\n  [6]: https://www.hsph.harvard.edu/nutritionsource/vitamin-d/\n  [7]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3166406/\n",
-    "DB (French)": [
-      "recgur7UqWESGFk8T"
-    ],
-    "DB (Hindi)": [
-      "reco1sk8QaOHSDsDk"
-    ],
-    "In translated DBs?": "Yes",
-    "DB (Telugu)": [
-      "recpDxEPAA9r6srCb"
-    ],
-    "DB (Spanish)": [
-      "recIZ0yD7vqSUDYwN"
-    ],
-    "DB (Arabic)": [
-      "rec2jrtpAdmE8o9FC"
-    ],
-    "DB (Bengali)": [
-      "recqCn7zKYBnXukDO"
-    ],
-    "DB (Portuguese)": [
-      "rec1DYZNISKj5cYDo"
-    ],
-    "Last edited (simplified)": "2020-06-03T21:07:17.000Z",
-    "Last edited (experts say)": "2020-06-04T16:24:46.000Z",
     "Last modified": "2020-07-30"
   },
   {
