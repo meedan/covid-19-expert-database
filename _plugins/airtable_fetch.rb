@@ -76,11 +76,11 @@ Jekyll::Hooks.register :site, :after_init do |site|
 					if key =~ /\(internal\)/i
 						record['fields'].delete(key)
 					elsif key =~ /English/i
-						record['fields'].delete(key)	
+						record['fields'].delete(key)
 					elsif key =~ /without/i
 						record['fields'].delete(key)
 					elsif key =~ /Assigned/i
-						record['fields'].delete(key)		
+						record['fields'].delete(key)
 					else
 						target[key.strip] = record['fields'].delete(key)
 					end

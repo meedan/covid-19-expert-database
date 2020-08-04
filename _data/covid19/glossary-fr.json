@@ -1,5 +1,18 @@
 [
   {
+    "id": "rec6vNnYlTtVahGRO",
+    "Term": "usage compassionnel",
+    "Definition": "Le terme « usage compassionnel » réfère à l’utilisation de traitements expérimentaux pouvant potentiellement sauver la vie de patients souffrant d’une maladie pour laquelle aucun traitement autorisé satisfaisant n’existe ou qui ne peuvent pas participer à un essai clinique. Pour de nombreux patients, ces traitements représentent leur dernier espoir de guérison.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recsuWy4EfRZwvcmh"
+    ],
+    "EN Definition": [
+      "According to the U.S. National Institutes of Health, compassionate use - also called 'expanded access' - is a way to provide an investigational therapy to a patient who is not eligible to receive that therapy in a clinical trial, but who has a serious or life-threatening illness for which other treatments are not available. Compassionate use allows patients to receive promising but not yet fully studied or approved cancer therapies when no other treatment option exists. Also called expanded access."
+    ],
+    "Last Modified": "2020-07-29T14:40:40.000Z"
+  },
+  {
     "id": "rec5NviyR1bKlIVTa",
     "Term": "période d’incubation",
     "Definition": "Selon l’Organisation mondiale de la santé, la période d’incubation est le temps qui s’écoule entre l’exposition au virus (infection) et l’apparition des symptômes.\n",
@@ -14,6 +27,39 @@
       "According to the World Health Organization, the incubation period is the time between exposure to the virus (becoming infected) and symptom onset."
     ],
     "Last Modified": "2020-07-29T21:02:36.000Z"
+  },
+  {
+    "id": "recdwSm7f3It0F5Eq",
+    "Term": "asymptomatique",
+    "Definition": "Les infections asymptomatiques surviennent quand une personne est infectée par une maladie, mais ne présente aucun symptôme durant son infection.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "reccy9EmiOk9SlhJ7",
+      "recXxSw89QoFa83ZD"
+    ],
+    "EN Term": [
+      "recx2PeCcs1Awb9rG"
+    ],
+    "EN Definition": [
+      "Asymptomatic infections occur when a person is infected with an illness but does not have symptoms during the duration of their infection."
+    ],
+    "Last Modified": "2020-07-31T13:50:32.000Z"
+  },
+  {
+    "id": "rec4IrZTOe3lpz98t",
+    "Term": "présymptomatique",
+    "Definition": "Les infections présymptomatiques se produisent quand une personne est infectée, mais ne présente pas encore les symptômes d’une maladie. Il peut y avoir un décalage de quelques jours entre le moment où une personne est infectée et celui où elle commence à présenter des symptômes. \n",
+    "Status": "Published",
+    "Questions using this term": [
+      "reccy9EmiOk9SlhJ7"
+    ],
+    "EN Term": [
+      "recbZcFUtsYMA9Vsh"
+    ],
+    "EN Definition": [
+      "Pre-symptomatic infections occur when a person is infected but does not yet display symptoms of an illness or disease. There can be a lag of a few days between the moment a person is infected and when they start experiencing symptoms. "
+    ],
+    "Last Modified": "2020-07-29T14:46:18.000Z"
   },
   {
     "id": "recxD9dPlL1W8DCs2",
@@ -36,6 +82,135 @@
     "Last Modified": "2020-07-31T13:50:17.000Z"
   },
   {
+    "id": "recN1KGOfbDmvsGiU",
+    "Term": "grippe",
+    "Definition": "La grippe saisonnière est une infection virale aiguë provoquée par un virus grippal. Selon les Centres pour le contrôle et la prévention des maladies des États-Unis, les virus de la grippe saisonnière sont des virus A et B qui se propagent et provoquent des maladies chez les personnes. Les virus de la grippe saisonnière provoquent des épidémies annuelles de grippe aux États-Unis et en Europe pendant l'automne, l'hiver et le printemps, et circulent parmi les personnes dans le monde entier. Les virus de la grippe saisonnière A et B évoluent continuellement de manière imprévisible.\n\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "recpBz5mkWp9d4kae"
+    ],
+    "EN Term": [
+      "recDalYrz2m23kS2e"
+    ],
+    "EN Definition": [
+      "According to the U.S. Centers for Disease Control, seasonal influenza viruses are influenza A and B viruses that spread and cause illness in people during the time of year known as the “flu season.” Seasonal influenza viruses cause annual U.S. influenza epidemics during fall, winter, and spring, and circulate among people worldwide. Seasonal influenza A and B viruses are continually undergoing evolution in unpredictable ways."
+    ],
+    "Last Modified": "2020-05-27T20:59:57.000Z"
+  },
+  {
+    "id": "reczZiLfjgDKGWXZp",
+    "Term": "ultraviolets (UV)",
+    "Definition": "Selon les Centres pour le contrôle et la prévention des maladies des États-Unis, les rayons ultraviolets (UV) font partie de la lumière du soleil qui est une forme invisible de rayonnement. Les rayons UV peuvent pénétrer et modifier la structure des cellules de la peau. Il existe trois types de rayons UV : les ultraviolets A (UVA), les ultraviolets B (UVB) et les ultraviolets C (UVC). Les UVA sont la source la plus abondante de rayonnement solaire à la surface de la terre et pénètrent au-delà de la couche supérieure de la peau humaine. Les scientifiques pensent que les rayons UVA peuvent endommager les tissus conjonctifs et augmenter le risque de cancer de la peau. Les rayons UVB pénètrent moins profondément dans la peau, mais peuvent quand même causer certaines formes de cancer de la peau. Les rayons UVC naturels ne présentent pas de risque pour les travailleurs car ils sont absorbés par l'atmosphère terrestre.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "rec5gU4AbShoWGNjF"
+    ],
+    "EN Term": [
+      "recjOgLIjiAbiBH5F"
+    ],
+    "EN Definition": [
+      "According to the U.S. Centers for Disease Control, ultraviolet (UV) rays are a part of sunlight that is an invisible form of radiation. UV rays can penetrate and change the structure of skin cells. There are three types of UV rays: ultraviolet A (UVA), ultraviolet B (UVB), and ultraviolet C (UVC). UVA is the most abundant source of solar radiation at the earth’s surface and penetrates beyond the top layer of human skin. Scientists believe that UVA radiation can cause damage to connective tissue and increase a person’s risk for developing skin cancer. UVB rays penetrate less deeply into skin, but can still cause some forms of skin cancer. Natural UVC rays do not pose a risk to workers because they are absorbed by the Earth’s atmosphere."
+    ],
+    "Last Modified": "2020-05-27T20:59:59.000Z"
+  },
+  {
+    "id": "recy2g3HZCckzrsKx",
+    "Term": "stériles",
+    "Definition": "Selon les Centres pour le contrôle et la prévention des maladies des États-Unis, lorsqu'une chose est stérile, elle est dans un état où elle est exempte de tout micro-organisme vivant. Cela signifie qu'un objet stérile est totalement propre et exempt de bactéries et de germes vivants.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "recrYDVoINSZiwvJh"
+    ],
+    "EN Term": [
+      "recUAN8C73rkuPWX9"
+    ],
+    "EN Definition": [
+      "According to the U.S. Centers for Disease Control, when something is sterile it is in a state of being free from all living microorganisms. This means that a sterile object is totally clean and free from bacteria and living germs."
+    ],
+    "Last Modified": "2020-05-27T21:00:04.000Z"
+  },
+  {
+    "id": "recF5ZskHxC3iLoRg",
+    "Term": "BCG",
+    "Definition": "Selon les Instituts nationaux de la santé des États-Unis, le vaccin bacille Calmette-Guérine (BCG) est un vaccin utilisé pour prévenir la tuberculose chez les personnes qui présentent un risque élevé de tuberculose ou dans les endroits où la tuberculose est courante.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "rec7DbR8cpUtj6laV"
+    ],
+    "EN Term": [
+      "recUx8LCQGkRdxG3B"
+    ],
+    "EN Definition": [
+      "According to the U.S. National Institutes of Health, the bacille Calmette-Guerine (BCG) vaccine is a vaccine used to prevent tuberculosis (TB) in people who are at a high risk of TB or where TB is common."
+    ],
+    "Last Modified": "2020-05-27T21:00:06.000Z"
+  },
+  {
+    "id": "rec6TkHKY7sNXMmZV",
+    "Term": "tuberculose",
+    "Definition": "Selon l'Organisation mondiale de la santé, la tuberculose est causée par une bactérie (Mycobacterium tuberculosis) qui affecte le plus souvent les poumons. La tuberculose est curable et évitable. \nLa tuberculose se propage quand quelqu'un qui a la tuberculose tousse, éternue, rit, chante ou parle fort et contamine l'air ambiant avec de minuscules gouttelettes contenant le germe vivant. Si ces gouttelettes sont respirées par une autre personne, cette dernière devient infectée.\n\nEnviron un quart de la population mondiale est porteuse d'une tuberculose latente, ce qui signifie que ces personnes ont été infectées par le bacille tuberculeux mais ne sont pas (encore) malades et ne peuvent pas transmettre la maladie\n\nLes personnes infectées par des bactéries tuberculeuses courent un risque de 5 à 15 % de tomber malade de la tuberculose au cours de leur vie. Cependant, les personnes dont le système immunitaire est affaibli, comme les personnes vivant avec le VIH, la malnutrition ou le diabète, ou les personnes qui fument, ont un risque beaucoup plus élevé de tomber malades.\n\nLorsqu'une personne développe une tuberculose active, les symptômes (tels que la toux, la fièvre, les sueurs nocturnes ou la perte de poids) peuvent être légers pendant plusieurs mois. Cela peut entraîner des retards dans la recherche de soins et entraîner la transmission des bactéries à d'autres personnes. Les personnes atteintes de tuberculose active peuvent infecter 10 à 15 autres personnes par le biais de contacts étroits au cours d'une année. \n",
+    "Status": "Published",
+    "Questions using this term": [
+      "rec7DbR8cpUtj6laV"
+    ],
+    "EN Term": [
+      "rec9SYUCp1ULDd0UL"
+    ],
+    "EN Definition": [
+      "According to the World Health Organization, tuberculosis (TB) is caused by bacteria (Mycobacterium tuberculosis) that most often affect the lungs. Tuberculosis is curable and preventable. TB is spread from person to person through the air. When people with lung TB cough, sneeze or spit, they propel the TB germs into the air. A person needs to inhale only a few of these germs to become infected.\nAbout one-quarter of the world's population has latent TB, which means people have been infected by TB bacteria but are not (yet) ill with the disease and cannot transmit the disease.\nPeople infected with TB bacteria have a 5–15% lifetime risk of falling ill with TB. Persons with compromised immune systems, such as people living with HIV, malnutrition or diabetes, or people who use tobacco, have a higher risk of falling ill.\nWhen a person develops active TB disease, the symptoms (such as cough, fever, night sweats, or weight loss) may be mild for many months. This can lead to delays in seeking care, and results in transmission of the bacteria to others. People with active TB can infect 5–15 other people through close contact over the course of a year."
+    ],
+    "Last Modified": "2020-05-27T21:03:07.000Z"
+  },
+  {
+    "id": "reccwo5NJI2cHb2Wl",
+    "Term": "zoonose",
+    "Definition": "Les zoonoses sont des maladies infectieuses que les animaux peuvent transmettre aux humains, surtout lorsqu'ils sont en étroit contact avec eux. Comme les humains, tous les animaux transportent des germes. Selon les Centres pour le contrôle et la prévention des maladies des États-Unis, ces germes peuvent se propager par contact direct, par contact indirect, par transmission vectorielle (comme un moustique ou une tique), par transmission alimentaire et par transmission hybride (par l'eau).\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "recbjW2CdPdJHM0wE"
+    ],
+    "EN Term": [
+      "recFSOdDjQBqJHnZ9"
+    ],
+    "EN Definition": [
+      "Zoonoses are infectious diseases that animals can transmit to humans, especially when they are in close contact with them. Like humans, all animals carry germs. According to the U.S. Centers for Disease Control, these germs can be spread between animals and humans through direct contact, indirect contact, vector-borne transmission (like a mosquito or tick), foodborne transmission, and waterborne transmission.\n"
+    ],
+    "Last Modified": "2020-05-27T21:03:09.000Z"
+  },
+  {
+    "id": "recbMekD6UXPWJAi6",
+    "Term": "analyse génomique",
+    "Definition": "Selon la revue scientifique multidisciplinaire Nature, l'analyse génomique est l'identification, la mesure ou la comparaison de caractéristiques génomiques telles que la séquence d'ADN, la variation structurelle, l'expression des gènes ou l'annotation des éléments régulateurs et fonctionnels à l'échelle génomique. Ce type d'analyse utilise des méthodes de laboratoire pour examiner un ensemble de gènes afin de mieux comprendre les origines, le contexte, les relations et les fonctions de l'ADN et de l'ARN dans un organisme vivant.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "recbjW2CdPdJHM0wE"
+    ],
+    "EN Term": [
+      "recbQ95pvRq7nP9s3"
+    ],
+    "EN Definition": [
+      "According to the multidisciplinary science journal Nature, genomic analysis is the identification, measurement or comparison of genomic features such as DNA sequence, structural variation, gene expression, or regulatory and functional element annotation at a genomic scale. This type of analysis uses laboratory methods to look at a set of genes to better understand the origins, background, relationships, and functions of the DNA and RNA in a living organism."
+    ],
+    "Last Modified": "2020-05-27T21:03:11.000Z"
+  },
+  {
+    "id": "recRdDn65UcHnA63p",
+    "Term": "virus",
+    "Definition": "Selon les Centres pour le contrôle et la prévention des maladies des États-Unis, un virus est un organisme infectieux minuscule qui se multiplie à l'intérieur des cellules et provoque des maladies telles que la varicelle, la rougeole, les oreillons, la rubéole, la coqueluche et l'hépatite. Les virus sont plus petits que les bactéries et ont besoin de cellules ou de tissus vivants pour se développer et se reproduire. Les antibiotiques sont des médicaments utilisés pour traiter les infections bactériennes. Les antibiotiques ne sont pas efficaces contre les infections virales.\n\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "recXOlSZvyEECnqkk",
+      "recgur7UqWESGFk8T"
+    ],
+    "EN Term": [
+      "recnFUXyIZy81Rj1I"
+    ],
+    "EN Definition": [
+      "According to the U.S. Centers for Diseases Control, a virus is a tiny organism that multiplies within cells and causes disease such as chickenpox, measles, mumps, rubella, pertussis and hepatitis. Viruses are not affected by antibiotics, the drugs used to kill bacteria. Viruses are smaller in size than bacteria and require living cells or tissues in order to grow and reproduce. "
+    ],
+    "Last Modified": "2020-07-30T21:48:37.000Z"
+  },
+  {
     "id": "recn0lT3zfEhVv8Eo",
     "Term": "bactérie",
     "Definition": "Selon les Centres pour le contrôle et la prévention des maladies des États-Unis, les bactéries sont des germes. Elles vivent dans l’environnement et partout à l’intérieur et à l’extérieur de nos corps. La plupart des bactéries sont inoffensives et même utiles pour l’humain, mais certaines peuvent provoquer des infections telles que la pharyngite streptococcique. Ces organismes microscopiques sont unicellulaires et peuvent survivre dans toutes sortes d’environnements différents, pas seulement dans les êtres vivants. Les médicaments antibiotiques peuvent être utilisés pour tuer les bactéries. \n",
@@ -51,6 +226,22 @@
       "According to the U.S. Centers for Disease Control, bacteria are germs. They live in the environment and all over the inside and outside of our bodies. Most bacteria are harmless and even helpful to people, but some can cause infections, like strep throat. These microscopic organisms are made up of one single cell, and can survive in many different types of environments, not just living things. Antibiotic medications can be used to kill bacteria."
     ],
     "Last Modified": "2020-07-30T20:30:43.000Z"
+  },
+  {
+    "id": "recGkbysvb9KPYi3m",
+    "Term": "infection secondaire",
+    "Definition": "Une infection secondaire est une infection qui se produit pendant ou après le traitement d'une première infection. Les infections secondaires peuvent survenir chez les personnes dont l'immunité est affaiblie par une première infection ou par un traitement médicamenteux.\n\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "recXOlSZvyEECnqkk"
+    ],
+    "EN Term": [
+      "rechTyFW9yFtRWh8o"
+    ],
+    "EN Definition": [
+      "A secondary infection is an infection that takes place either during or following the treatment of an existing infection. Some of the causes of a secondary infection might include changes in the immune system of a person resulting from the first infection, or if the treatment for the first infection led to the secondary infection."
+    ],
+    "Last Modified": "2020-05-27T21:03:18.000Z"
   },
   {
     "id": "recvR7KM6VedZfxmX",
@@ -88,6 +279,99 @@
     "Last Modified": "2020-07-31T13:50:26.000Z"
   },
   {
+    "id": "recH0gr95OweWQ1ng",
+    "Term": "germes",
+    "Definition": "Selon les Centres pour le contrôle et la prévention des maladies des États-Unis, les germes font partie de la vie quotidienne et se trouvent dans l'air, le sol, l'eau, ainsi qu'à l'extérieur et à l'intérieur de notre corps. Certains germes sont utiles, d'autres sont nuisibles. De nombreux germes vivent à l'extérieur et à l'intérieur de notre corps sans causer de dommages et certains nous aident même à rester en bonne santé. Seule une petite partie des germes est connue pour provoquer des infections. Les germes sont également connus sous le nom d'agents infectieux et désignent un virus, une bactérie ou un autre microbe.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "recrYDVoINSZiwvJh"
+    ],
+    "EN Term": [
+      "rec39wm7MuK12bTI3"
+    ],
+    "EN Definition": [
+      "According to the U.S. Centers for Disease Control, germs are microorganisms and a part of everyday life. They can be found in our air, soil, water, and in and on our bodies. Some germs are helpful, others are harmful. Many germs live in and on our bodies without causing harm and some even help us to stay healthy. Only a small portion of germs are known to cause infection. Germs are also known as infectious agents and refer to a virus, bacteria, or other microbe."
+    ],
+    "Last Modified": "2020-05-27T21:13:30.000Z"
+  },
+  {
+    "id": "recAvIYWiEsqWpO9E",
+    "Term": "événement indésirable",
+    "Definition": "Un événement indésirable (parfois appelé expérience indésirable) peut être tout signe nuisible ou non intentionnel (p. ex. un résultat de laboratoire anormal), symptôme ou maladie relié temporairement à la prise d’un médicament, sans juger la causalité ni le lien avec le médicament.\n",
+    "Status": "Ready for expert review",
+    "Questions using this term": [
+      "recAj0TYj97UNUWtk"
+    ],
+    "EN Term": [
+      "recAiJYWSxD5F1Lz1"
+    ],
+    "EN Definition": [
+      "An adverse event (also referred to as an adverse experience) can be any unfavorable and unintended sign (e.g., an abnormal laboratory finding), symptom, or disease temporarily associated with the use of a medication, without any judgment about causality or relationship to the medication. "
+    ],
+    "Last Modified": "2020-07-31T21:05:09.000Z"
+  },
+  {
+    "id": "recid3z2x1uYoo6xq",
+    "Term": "essais contrôlés randomisés",
+    "Definition": "Un essai contrôlé randomisé (ECR) est une sorte d’expérimentation scientifique qui tend à réduire certaines sources de partialité lors du contrôle de l’efficacité de certains traitements. Dans cette étude, les personnes sont affectées au hasard à un groupe afin de recevoir une intervention. Un des groupes, le groupe expérimental, reçoit l’intervention qui est évaluée, alors que l’autre groupe, habituellement appelé groupe de contrôle, reçoit une intervention de remplacement telle que le traitement médical habituel, un placebo (« pilule de sucre ») ou aucune intervention. Les groupes sont suivis selon les conditions de l’essai et les résultats sont comparés afin d’évaluer l’efficacité de l’intervention expérimentale comparée au groupe de contrôle.\n",
+    "Status": "Ready for expert review",
+    "Questions using this term": [
+      "recAj0TYj97UNUWtk"
+    ],
+    "EN Term": [
+      "recjILnexcCRlyBIb"
+    ],
+    "EN Definition": [
+      "A randomized controlled trial (RCT) is a type of scientific experiment that aims to reduce certain sources of bias when testing the effectiveness of new treatments. In these studies, people are randomly (by chance alone) assigned to a group to receive an intervention. One group—the experimental group—receives the intervention being assessed, while the other—usually called the control group—has an alternative intervention, such as the standard medical treatment, a placebo (\"sugar pill\") or no intervention at all. The groups are followed under conditions of the trial design and outcomes are compared to see how effective the experimental intervention was in comparison to the control."
+    ],
+    "Last Modified": "2020-07-31T21:18:10.000Z"
+  },
+  {
+    "id": "recCMLHJbe4MXCiEp",
+    "Term": "antioxydant",
+    "Questions using this term": [
+      "recD1hQ5hwPZnyPCX"
+    ],
+    "EN Term": [
+      "recOMUWrX4F2d53iC"
+    ],
+    "EN Definition": [
+      "According to the U.S. National Institutes of Health, antioxidants are man-made or natural substances that may prevent or delay some types of cell damage. Diets high in vegetables and fruits, which are good sources of antioxidants, have been found to be healthy; however, research has not shown antioxidant supplements to be beneficial in preventing diseases. Examples of antioxidants include vitamins C and E, selenium, and carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin. "
+    ],
+    "Last Modified": "2020-06-16T19:15:33.000Z"
+  },
+  {
+    "id": "recmttIanApamens9",
+    "Term": "Contagious",
+    "EN Term": [
+      "recJ4Q812SOdo1NGM"
+    ],
+    "EN Definition": [
+      "According to the U.S. National Institutes of Health, a contagious disease is a communicable disease that can spread rapidly from person to person through direct contact (touching a person who has the infection), indirect contact (touching a contaminated object), or droplet contact (inhaling droplets made when a person who has the infection coughs, sneezes, or talks)."
+    ],
+    "Last Modified": "2020-07-13T14:29:05.000Z"
+  },
+  {
+    "id": "recsvaoRxrcOJHRJi",
+    "EN Term": [
+      "reco5k0tpirgGDeqb"
+    ],
+    "EN Definition": [
+      "According to the U.S. Centers for Disease Control, antibiotics are medicines that fight infections caused by bacteria in humans and animals by either killing the bacteria or making it difficult for the bacteria to grow and multiply. Antibiotics don't kill viruses and should only be taken when they're needed and prescribed by a medical provider.\n"
+    ],
+    "Last Modified": "2020-06-16T19:15:33.000Z"
+  },
+  {
+    "id": "recEySy7KDfWe6LQd",
+    "EN Term": [
+      "recRGHDXxeEnXrS9t"
+    ],
+    "EN Definition": [
+      "According to the U.S. National Institutes of Health, a co-infection occurs when a person has two or more infections at the same time. For example, a person living with HIV may also have a hepatitis C virus (HCV) coinfection, a tuberculosis (TB) coinfection, or both."
+    ],
+    "Last Modified": "2020-06-16T19:15:33.000Z"
+  },
+  {
     "id": "recYZMZsE8pHUmeFj",
     "Term": "désinfection",
     "Definition": "La désinfection est un procédé qui tue les germes et d’autres minuscules organismes porteurs de maladies (appelés micro-organismes), habituellement sur les revêtements durs, et qui empêche leur propagation. Il y a habituellement désinfection après utilisation de chaleur, de radiation, ou après application de produits chimiques sur une surface, ce qui détruit les bactéries et autres micro-organismes nocifs (sauf les spores).\n",
@@ -102,6 +386,36 @@
       "Disinfection is a process that kills germs and other tiny disease-carrying organisms (called 'microorganisms'), usually on hard surfaces, which stops them from spreading. Disinfection usually happens after using heat, radiation, or chemicals are applied to a surface that destroys bacteria and other harmful microorganisms (except spores). "
     ],
     "Last Modified": "2020-07-29T23:22:12.000Z"
+  },
+  {
+    "id": "recJcV5w6TJQ7kOnA",
+    "EN Term": [
+      "recZZhsMRrNyDPnjg"
+    ],
+    "EN Definition": [
+      "Pre-exposure refers to the period before a person is exposed to something, usually a disease or infection."
+    ],
+    "Last Modified": "2020-07-27T15:53:53.000Z"
+  },
+  {
+    "id": "recM2zJotA23k5W9O",
+    "EN Term": [
+      "reccE6W6JYLJi0i1n"
+    ],
+    "EN Definition": [
+      "Post-exposure refers to the period of time after a person is exposed to something, usually a disease or infection."
+    ],
+    "Last Modified": "2020-07-29T19:10:14.000Z"
+  },
+  {
+    "id": "recc9KdnVZDoWRiua",
+    "EN Term": [
+      "recUOHoAQtR97mxFC"
+    ],
+    "EN Definition": [
+      "According to the U.S. National Institutes of Health, a prophylactic treatment can be described as drugs or other forms of treatment used to prevent the development of a disease in a person who is at risk for but with no prior history of the disease."
+    ],
+    "Last Modified": "2020-07-27T15:53:54.000Z"
   },
   {
     "id": "recJecVrFicvxvKUo",
@@ -184,6 +498,10 @@
     "Last Modified": "2020-07-29T22:20:47.000Z"
   },
   {
+    "id": "recXI19bI1QI0mvJm",
+    "Last Modified": "2020-07-29T20:19:33.000Z"
+  },
+  {
     "id": "rectGx1TwAGePCyfG",
     "Term": "systèmes de ventilation",
     "Definition": "Les systèmes de ventilation sont les différentes façons de faire voyager l’air de l’extérieur vers l’intérieur des bâtiments, telles que les portes et les fenêtres ouvertes, les systèmes de chauffage, de ventilation et de climatisation.\n",
@@ -230,6 +548,11 @@
       "According to the Centers for Disease Control, \"Community spread means spread of an illness for which the source of infection is unknown. It’s also possible, however, that the patient may have been exposed to a returned traveler who was infected.\" This type of transmissions also means that a person who was infected through community transmission did so without going to the geographical source or region of the outbreak or through close contact with another person, and instead became infected within their community at large but through an unknown source.\n\n"
     ],
     "Last Modified": "2020-07-29T23:58:54.000Z"
+  },
+  {
+    "id": "reczGNJgxAOe027Sa",
+    "Term": "dé",
+    "Last Modified": "2020-07-30T00:01:29.000Z"
   },
   {
     "id": "recsAn4Fibm7Oc0Cd",
@@ -327,13 +650,29 @@
   {
     "id": "recGJIRWMViHAbHfQ",
     "Term": "eaux usées",
-    "Last Modified": "2020-07-31T18:46:28.000Z",
+    "Status": "Ready for expert review",
     "Questions using this term": [
       "recWPdGv9b1FzK2CA"
     ],
     "EN Term": [
       "recFIn1ipbOFsoZsR"
     ],
-    "Status": "Ready for expert review"
+    "Last Modified": "2020-07-31T18:46:28.000Z"
+  },
+  {
+    "id": "recM54nzJWudPrUwe",
+    "Term": "maladie auto-immune ",
+    "Definition": "Selon les Instituts nationaux de santé des États-Unis, « les maladies auto-immunes désignent des problèmes du système immunitaire, qui combat habituellement les virus, les bactéries et les infections. Le problème cause l’attaque par erreur de votre corps par vos cellules immunitaires. Ces maladies peuvent affecter presque toutes les parties de votre corps. »\n",
+    "Status": "Ready for expert review",
+    "Questions using this term": [
+      "recAj0TYj97UNUWtk"
+    ],
+    "EN Term": [
+      "recJ1c8DQQVGmXfzM"
+    ],
+    "EN Definition": [
+      "According to the National Institutes of Health, \"Autoimmune diseases refer to problems with the immune system, which usually fights off viruses, bacteria, and infection. The problem causes your immune cells to attack your body by mistake. These diseases can affect almost any part of the body.\""
+    ],
+    "Last Modified": "2020-07-31T21:24:04.000Z"
   }
 ]
