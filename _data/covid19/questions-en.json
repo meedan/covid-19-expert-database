@@ -1,174 +1,5 @@
 [
   {
-    "id": "recFVXMaBAvxqjNgj",
-    "Question": "In scientific terms, is it absolutely safe to say that \"bald men are more likely to have COVID-19?\" ",
-    "Status": "Published",
-    "Category": "Risk",
-    "Subcategory": "On: COVID-19 and bald men",
-    "Source of the question": [
-      "Partner Organization"
-    ],
-    "Country question was sourced from": [
-      "Senegal"
-    ],
-    "Background and context": "Recent international studies and headlines have focused on the possible link between male pattern baldness (androgenetic alopecia) and the likelihood of becoming infected with the virus that causes COVID-19. The research behind this news was on adults hospitalized in Spain with COVID-19, which found that a higher percentage of the sick men had some kind of hair loss or baldness, in comparison to the percentage of the general population experiencing hair loss. The findings were misreported in the news as \"bald men are more likely to have COVID-19,\" but it is important to take into account how there were issues in the research mentioned above and also how certain people who are at higher risk of severe COVID-19 (men, older people) are also more likely to have hair loss.\n\nIn related research, scientists have been trying to understand why men are more likely to have severe cases of COVID-19 than women, by considering the impact of androgen (a hormone that is an important part of male sexual development from before birth and through puberty, which is also linked to sex drive and hair growth). However, there has been no evidence to support this claim about baldness, and other research studies focusing on androgens** **are still underway.\n",
-    "What our experts say": "No, it is not safe to say in scientific terms that bald men are more likely to have COVID-19. In May 2020, a research study was widely reported in news headlines, which suggested male pattern baldness (androgenetic alopecia) could mean higher risks for severe COVID-19 symptoms. However, this is not exactly what the researchers found. The authors of this publication also acknowledged there were research limitations meaning their results cannot be generalized to a larger population and further studies are needed. \n\nPublished in the Journal of the American Academy of Dermatology (JAAD), the researchers wrote that out of 122 men and 53 women admitted with COVID-19 to hospitals in Madrid, Spain, they found 79% of the male patients had some hair loss or baldness (alopecia) while estimating the prevalence of baldness in the general population is only 31%-53%. However, the researchers acknowledged limitations of their findings, including how only 175 people were studied (in research terminology, this is considered a** **small sample size that limits how findings can be generalized to a larger population). They also acknowledged that patients in the study were all admitted to a hospital with COVID-19, meaning there was no comparison group (control group) of participants without COVID-19 to compare the findings against the general population. \n\nAdditionally, the research did not include information about patient outcomes (such as how the patients fared after they were admitted to the hospital), so it was not possible for researchers to compare outcomes for patients with and without baldness. In general, many researchers and doctors have cautioned that older people and men are more likely to have severe cases of COVID-19 requiring hospitalization, and older men are also more likely to be bald. For these reasons, \"bald men are more likely to have COVID-19\" is an incorrect interpretation of the published research.\n",
-    "Glossary Terms": [
-      "recT7R7Qqg8v9f9Ui",
-      "rec8sQHhdcKiEVR9f",
-      "recAqLjAwXsBpjGCu"
-    ],
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "bald ",
-      "men"
-    ],
-    "Other resources": "1. Androgenetic alopecia present in the majority of patients hospitalized with COVID-19: The “Gabrin sign” ([Journal of the American Academy of Dermatology][1])\n2. The Week That Wasn't in COVID-19: Bald Men at Risk ([Medscape][2])\n3. Androgenetic alopecia ([NIH][3])\n\n  [1]: https://www.jaad.org/article/S0190-9622(20)30948-8/fulltext\n  [2]: https://www.medscape.com/viewarticle/932667\n  [3]: https://ghr.nlm.nih.gov/condition/androgenetic-alopecia#genes\n",
-    "Last edited (simplified)": "2020-08-04T16:58:05.000Z",
-    "Last edited (experts say)": "2020-08-04T16:54:42.000Z",
-    "Last modified": "2020-08-04"
-  },
-  {
-    "id": "recjmxNuHf9q8gjRL",
-    "Question": "Is hydroxychloroquine the same as chloroquine?",
-    "Status": "Published",
-    "Category": "Prevention, Treatment",
-    "Subcategory": "On: COVID-19 & hydroxychloroquine",
-    "Source of the question": [
-      "Partner Organization"
-    ],
-    "Country question was sourced from": [
-      "Nigeria"
-    ],
-    "Background and context": "Many medications are sometimes considered as a treatment for illnesses that are different than those for which they were originally created (also called repurposing medications).  Research studies are trying to see if any existing medication might help treat COVID-19, including hydroxychloroquine and chloroquine. Recently, both these medications have been in the news due to several national leaders and various groups claiming that these medications can prevent, treat and even cure COVID-19. The research around hydroxychloroquine and choloroquine to date has shown no efficacy of these medications against COVID-19. This is based on randomized controlled trials (the most scientifically strong and valued type of research trials). More studies are underway to learn more about the potential impact of these drugs on COVID-19. As of now, both medicines are not proven nor approved treatments for the coronavirus.\n",
-    "What our experts say": "Chloroquine is a medication that is taken to prevent or treat malaria, which is transmitted by mosquitoes bites. It's also used to treat some intestinal infections. On the other hand, hydroxychloroquine is a medication that is also taken to prevent and treat malaria, but it can also treat other diseases such as rheumatoid arthritis or lupus. Both of these medications are antimalarials, but hydroxychloroquine is a newer, slightly altered version of chloroquine that has fewer side effects and dissolves more easily in the body, so it is often considered a safer medication for patients to take. \n\nDespite recent media coverage of the COVID-19 pandemic, neither chloroquine nor hydroxychloroquine are approved treatments against COVID-19. Several research studies conducted around the world have demonstrated that hydroxychloroquine is likely not effective against COVID-19. \n",
-    "Glossary Terms": [
-      "recu5YfEJQ2XosauF",
-      "recqai3lgF0QruekU",
-      "recXugVJFvUHIcWsH"
-    ],
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "hydroxychloroquine",
-      "chloroquine",
-      "repurposed"
-    ],
-    "Other resources": "1. Medicines for the Prevention of Malaria While Traveling Chloroquine (Aralen™) ([U.S. CDC][1]) \n2. Medicines for the Prevention of Malaria While Traveling Hydroxychloroquine (Plaquenil™) ([U.S. CDC][2]) \n3. Hydroxychloroquine, a less toxic derivative of chloroquine, is effective in inhibiting SARS-CoV-2 infection in vitro ([Nature][3]) \n4. Don’t Fall for This Video: Hydroxychloroquine Is Not a COVID-19 Cure ([KHN][4]) \n\n  [1]: https://www.cdc.gov/malaria/resources/pdf/fsp/drugs/chloroquine.pdf?fbclid=IwAR1FttRx4euZelSnCgUcaN0Nl137a086ZNtQxcttqy5VNEJI6ivwB51oTUA\n  [2]: https://www.cdc.gov/malaria/resources/pdf/fsp/drugs/Hydroxychloroquine.pdf?fbclid=IwAR1lVp5ucnLK9g_crh1lro-BHlgFiqXT7sOP30lNVtTLvWCxZT5dcbB4MuM\n  [3]: https://www.nature.com/articles/s41421-020-0156-0\n  [4]: https://khn.org/news/dont-fall-for-this-video-hydroxychloroquine-is-not-a-covid-19-cure/\n",
-    "Last edited (simplified)": "2020-08-04T04:53:34.000Z",
-    "Last edited (experts say)": "2020-08-03T23:44:05.000Z",
-    "Last modified": "2020-08-04"
-  },
-  {
-    "id": "recRIjHM0TPx23tcU",
-    "Question": "Can we use sewage water to detect COVID-19 in a community?",
-    "Status": "Published",
-    "Subcategory": "On: COVID-19 & waste water",
-    "Source of the question": [
-      "Newsroom"
-    ],
-    "Country question was sourced from": [
-      "Canada"
-    ],
-    "Background and context": "Sewage contains valuable information on human health as viruses, bacteria, and chemical metabolites are excreted in urine and stool and provide a readout of an individual’s health status. In some diseases, people excrete viruses before they show symptoms, meaning that sewage can provide an early indicator of disease spread before people start seeking care. The technical term for analyzing sewage as a source of public health information is [Wastewater-Based Epidemiology (WBE)][1]. \n(Source: [Biobot Analytics][2])\n\n  [1]: https://cen.acs.org/environment/water/monitor-health-citiesresidents-look-further/96/i18\n  [2]: https://www.biobot.io/\n",
-    "What our experts say": "SARS-CoV-2 is the virus that causes COVID-19. It leaves the human body through our waste, so flushing the toilet with that waste means traces of the virus can be found in  sewage water. This is why COVID-19 has been recently detected in sewage water in regions that have tested for it. By collecting water from sewers, scientists in the U.S. and Europe are now testing sewage for the virus, using it as a collective sample to measure infection levels among thousands of people. Recent studies have shown that sewage water can be used as an early diagnostic tool for determining where potential COVID-19 cases might be occurring in a city. A recent study showed that measuring virus levels in municipal sewage helped researchers predict where forthcoming COVID-19 cases would be coming from a week before people began testing positive for the virus in that area. They did this by comparing the amount of virus found in the sewage water with the amount of confirmed cases in an area's hospitals. \nWe have observed that estimating the true number of COVID-19 cases is extremely challenging; these estimates often lead to underestimating the true scope of the pandemic in a community because many people are never tested for the virus even if they are ill. Moreover, asymptomatic patients or those with mild symptoms may never seek out testing and therefore won't be counted; but they can still transmit the virus. In this context, measuring overall virus levels in sewage over time could indicate the scope of the pandemic; indicate whether an outbreak is growing or shrinking; and can act as a surveillance system that would allow to detect new waves of an outbreak before patients develop symptoms and go to hospitals. \n\n(Source: [Biobot Analytics][1])\n\n  [1]: https://www.biobot.io/\n",
-    "Glossary Terms": [
-      "recFIn1ipbOFsoZsR",
-      "rec8jvvjIb2QmeUrA"
-    ],
-    "Variation of the answer depending on country of residence": "Yes\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "virus",
-      "spread",
-      "sewage water",
-      "waste water"
-    ],
-    "Other resources": "1. SARS-CoV-2 titers in wastewater foreshadow dynamics and clinical presentation of new COVID-19 cases ([medRxiv][1])\n2. SARS-CoV-2 RNA concentrations in primary municipal sewage sludge as a leading indicator of COVID-19 outbreak dynamics ([medRxiv][2])\n3. SARS-CoV-2 titers in wastewater are higher than expected from clinically confirmed cases ([medRxiv][3])\n\n  [1]: https://www.medrxiv.org/content/10.1101/2020.06.15.20117747v2\n  [2]: https://www.medrxiv.org/content/10.1101/2020.05.19.20105999v1\n  [3]: https://www.medrxiv.org/content/10.1101/2020.04.05.20051540v1\n",
-    "DB (French)": [
-      "recWPdGv9b1FzK2CA"
-    ],
-    "DB (Hindi)": [
-      "recMkZJD2fpzKkueR"
-    ],
-    "In translated DBs?": "Yes",
-    "DB (Telugu)": [
-      "reclGOZ5COTW6Rvyw"
-    ],
-    "DB (Spanish)": [
-      "recE2hTT9JanU22s8"
-    ],
-    "DB (Arabic)": [
-      "recYmIOFCr698NdBX"
-    ],
-    "DB (Bengali)": [
-      "recmFEsPMclSXToz9"
-    ],
-    "DB (Portuguese)": [
-      "recXGfk3K6uO5B2zJ"
-    ],
-    "Last edited (simplified)": "2020-06-11T23:32:51.000Z",
-    "Last edited (experts say)": "2020-06-24T20:41:05.000Z",
-    "Last modified": "2020-08-03"
-  },
-  {
-    "id": "recVRsQKdIEEtButM",
-    "Question": "How does the immune system work to fight COVID-19?",
-    "Status": "Published",
-    "Category": "Immune Response",
-    "Subcategory": "On: COVID-19 & immune system response",
-    "Source of the question": [
-      "Social Media"
-    ],
-    "Country question was sourced from": [
-      "USA"
-    ],
-    "Background and context": "One of the reasons it can be difficult to understand how the immune system responds to the virus that causes COVID-19 (and all viruses) is because everyone's immune system is unique. After being infected, each of us produces different levels of antibodies -- these are proteins that attach to the antigens (any substance, usually a protein, that triggers your immune system to produce antibodies against it) and attack them. These differences can impact how long patients remain sick with COVID-19 and how severe their cases can be. A further complicating factor is that non-active parts of the virus can still cause your immune system to overreact, as if the virus is still reproducing in your body, when it isn't really doing that. \n\nInducing an immune response in our body is also a crucial component of vaccine development. A successful vaccine must produce antibodies to prepare our bodies to defend against the virus if we are exposed to it again in the future. The better a vaccine can mimic a natural infection, the better it will be able to trigger an immune reaction that mimics a natural immune response.\n",
-    "What our experts say": "When our bodies are exposed to pathogens - tiny, foreign organisms such as viruses, bacteria, fungi, worms and other invaders - our natural defense called the 'immune system' tries to protect us and keep us healthy. When the body senses that the pathogen, in this case, COVID-19, is trying to get into the body through the nose, mouth, or eyes, it launches into the first part of this defense called the 'innate immune system.'\n\nA. Innate Immune System\n\nThis part of the immune system tries to prevent the virus from spreading and reproducing in our bodies, and from moving around in our bodies. The innate immune system is made up of several types of defenses, including the skin and body openings (like the mouth and nose); different white blood cells to defend our bodies from pathogens; and different substances in bodily fluids and the blood to try and stop the virus from reproducing. This system tries to prevent the virus from entering the body through the mouth, nose, and eyes, but if the virus does get inside a person, then white blood cells will move toward the virus' location and cause an increase in blood circulation there so it becomes hot and swollen while the body might also produce a fever (as high temperatures can sometimes kill pathogens).  At this point, other cells in the blood and tissue try to enclose the virus and eat the viral particles.\n\nBut if after four to seven days, the innate immune system is not able to kill all of the virus and the virus causes an infection, the adaptive immune system will begin to defend the body.\n\nB. Adaptive Immune System\n\nThe adaptive immune response, also called the acquired immune system, is a much more focused effort to target and destroy the foreign threat: the virus. Two important parts of the adaptive immune system are white blood cells called B cells and T cells. B cells create antibodies - small proteins that attach** **to unique parts of each pathogen called 'antigens'. When your body senses a particular antigen attached to the virus in the body, B cells then creates antibodies that can connect to those antigens using a specific shape that was created to match it. \n\nMeanwhile, T cells try to kill the antigen like an army fighting off an invader. Some T cells also help B cells make antibodies while others are busy working to stop the virus from reproducing in your body and spreading to different parts of your body. This part of the adaptive immune response also creates longer term memory of the virus that will help it fight off the virus if it is exposed to it again in the future, and to launch its defenses more quickly. Researchers are now studying how long-term this memory-based immunity lasts and how strong it is in defending against COVID-19 infection in the future.\n\nC. Conclusion\nHopefully at this point, the innate and adaptive immune systems are able to kill the virus and create some immunity to it. If not, the immune system continues working to fight off the virus, but symptoms might worsen as the body weakens after spending so much energy to fight off the virus. In some cases, COVID-19 might impact organs so severely that it can result in death.\n\n\n\n\n",
-    "Glossary Terms": [
-      "recHeZIcqtf9nbOZz",
-      "recgxZht6COkDvQPF",
-      "recEwiYdLnp5pCbQD",
-      "recicqEslROBkl8gG"
-    ],
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "t cells",
-      "b cells",
-      "cytokines",
-      "immune system",
-      "antibody"
-    ],
-    "Other resources": "1. How the Body Battles COVID-19 ([Tufts][1]) \n2. How The Body Reacts To Viruses ([HMS][2]) \n\n  [1]: https://now.tufts.edu/articles/how-body-battles-covid-19\n  [2]: https://onlinelearning.hms.harvard.edu/hmx/immunity/\n",
-    "DB (French)": [
-      "recFoVdBRCuseU1F0"
-    ],
-    "DB (Hindi)": [
-      "rechqXgYTI8WQQIkP"
-    ],
-    "In translated DBs?": "Yes",
-    "DB (Telugu)": [
-      "recyCGBX9xjk0UJnO"
-    ],
-    "DB (Spanish)": [
-      "recRY9vLGsALO5ghq"
-    ],
-    "DB (Arabic)": [
-      "recbiAqx9awx2Qrqf"
-    ],
-    "DB (Bengali)": [
-      "reczBw4HjVLgRWCor"
-    ],
-    "DB (Portuguese)": [
-      "recaC7WVhPUcZEgo1"
-    ],
-    "Last edited (simplified)": "2020-08-02T20:36:17.000Z",
-    "Last edited (experts say)": "2020-08-02T20:31:19.000Z",
-    "Last modified": "2020-08-02"
-  },
-  {
     "id": "rechQWZ1ctlJ81Vxn",
     "Question": "What does the scientific literature say about using hydroxychloroquine to prevent, treat or cure COVID-19?",
     "Status": "Published",
@@ -221,7 +52,89 @@
     ],
     "Last edited (simplified)": "2020-07-31T20:04:49.000Z",
     "Last edited (experts say)": "2020-06-15T16:47:15.000Z",
-    "Last modified": "2020-08-02"
+    "Last modified": "2020-07-31"
+  },
+  {
+    "id": "rec94a8OYovZrmVEs",
+    "Question": "How do pulse oximeters work and are digital versions effective?",
+    "Status": "Published",
+    "Category": "Prevention",
+    "Subcategory": "On: COVID-19 & pulse oximeters",
+    "Source of the question": [
+      "Partner Organization"
+    ],
+    "Country question was sourced from": [
+      "India"
+    ],
+    "Background and context": "A recent viral WhatsApp message circulating on closed threads in India claimed that everybody should download a digital app that functions like a digital pulse oximeter and measures oxygen levels in the blood. Digital apps claiming to accurately measure blood oxygen levels may be very inaccurate.\n\nPulse oximeters—the real ones— are used to track oxygen levels in the blood and monitor heart rate, since low oxygen levels are reported among patients experiencing severe cases of COVID-19. They are popular because they can present warning signs of an upcoming problem before it's too late. However, doctors only recommend pulse oximeters for some patients who have either been diagnosed with COVID-19 or who have other underlying health conditions. The quality of digital pulse oximeters can vary, and these devices should not be used to diagnose COVID-19, as low blood oxygen levels can occur due to a wide range of diseases. In general, public health agencies like the U.S. Centers for Disease Control do not recommend purchasing a digital pulse oximeter to track your blood oxygen levels unless directed by a doctor or in specific high-risk areas like nursing homes. If you feel like you're getting sick or experiencing any symptoms of COVID-19, you should contact a doctor right away. \n",
+    "What our experts say": "A pulse oximeter is a small non-invasive, clip-like device that attaches to a finger or ear lobe to measure the level of oxygen in blood. The device sends small beams of light through the blood and then measures how much light reflects off of red blood cells. More reflection of light means more oxygen saturation, less reflection of light means less oxygen saturation. \n\nTypically a digital pulse oximeter is clipped on the tip of your finger, and you may experience a small amount of pressure without any pain during the reading. The device provides a reading of \"oxygen saturation level\" and heart rate. An oxygen saturation level of at least 95% is normal for most healthy individuals. \n\nDigital pulse oximeters are easy-to-use and painless, and most versions are quite accurate. With any digital reading, however, there is always a risk of inaccurate readings. Hospitals and other medical settings have high-quality devices, but the quality of other digital versions on the market can vary. In general, doctors recommend pulse oximeters for patients with certain underlying health conditions and lung diseases, including patients with COVID-19, to monitor their symptoms. But you should not buy a pulse oximeter to self-diagnose or monitor symptoms unless directed by a doctor.\n",
+    "Glossary Terms": [
+      "rect196eVKcIMcns5",
+      "recIU1uU78tFKq4Ws"
+    ],
+    "Variation of the answer depending on country of residence": "No\t\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "pulse oximeter",
+      "oxygen saturation",
+      "symptoms"
+    ],
+    "Other resources": "1. Pulse Oximetry ([Hopkins Medicine][1])\n2. Should You Get a Pulse Oximeter to Measure Blood Oxygen Levels? ([Cleveland Clinic][2])\n3. Coronavirus FAQS: What's A Pulse Oximeter? Is It A Good Idea To Buy One? ([NPR][3])\n\n  [1]: https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/pulse-oximetry\n  [2]: https://health.clevelandclinic.org/should-you-get-a-pulse-oximeter-to-measure-blood-oxygen-levels/\n  [3]: https://www.npr.org/sections/goatsandsoda/2020/05/01/848400469/coronavirus-faqs-whats-a-pulse-oximeter-is-it-a-good-idea-to-buy-one\n",
+    "Last edited (simplified)": "2020-07-31T20:01:28.000Z",
+    "Last edited (experts say)": "2020-07-31T19:57:41.000Z",
+    "Last modified": "2020-07-31"
+  },
+  {
+    "id": "recRIjHM0TPx23tcU",
+    "Question": "Can we use sewage water to detect COVID-19 in a community?",
+    "Status": "Published",
+    "Subcategory": "On: COVID-19 & waste water",
+    "Source of the question": [
+      "Newsroom"
+    ],
+    "Country question was sourced from": [
+      "Canada"
+    ],
+    "Background and context": "Sewage contains valuable information on human health as viruses, bacteria, and chemical metabolites are excreted in urine and stool and provide a readout of an individual’s health status. In some diseases, people excrete viruses before they show symptoms, meaning that sewage can provide an early indicator of disease spread before people start seeking care. The technical term for analyzing sewage as a source of public health information is [Wastewater-Based Epidemiology (WBE)][1]. \n(Source: [Biobot Analytics][2])\n\n  [1]: https://cen.acs.org/environment/water/monitor-health-citiesresidents-look-further/96/i18\n  [2]: https://www.biobot.io/\n",
+    "What our experts say": "SARS-CoV-2 is the virus that causes COVID-19. It leaves the human body through our waste, so flushing the toilet with that waste means traces of the virus can be found in  sewage water. This is why COVID-19 has been recently detected in sewage water in regions that have tested for it. By collecting water from sewers, scientists in the U.S. and Europe are now testing sewage for the virus, using it as a collective sample to measure infection levels among thousands of people. Recent studies have shown that sewage water can be used as an early diagnostic tool for determining where potential COVID-19 cases might be occurring in a city. A recent study showed that measuring virus levels in municipal sewage helped researchers predict where forthcoming COVID-19 cases would be coming from a week before people began testing positive for the virus in that area. They did this by comparing the amount of virus found in the sewage water with the amount of confirmed cases in an area's hospitals. \nWe have observed that estimating the true number of COVID-19 cases is extremely challenging; these estimates often lead to underestimating the true scope of the pandemic in a community because many people are never tested for the virus even if they are ill. Moreover, asymptomatic patients or those with mild symptoms may never seek out testing and therefore won't be counted; but they can still transmit the virus. In this context, measuring overall virus levels in sewage over time could indicate the scope of the pandemic; indicate whether an outbreak is growing or shrinking; and can act as a surveillance system that would allow to detect new waves of an outbreak before patients develop symptoms and go to hospitals. \n\n(Source: [Biobot Analytics][1])\n\n  [1]: https://www.biobot.io/\n",
+    "Glossary Terms": [
+      "recFIn1ipbOFsoZsR",
+      "rec8jvvjIb2QmeUrA"
+    ],
+    "Variation of the answer depending on country of residence": "Yes\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "virus",
+      "spread",
+      "sewage water",
+      "waste water"
+    ],
+    "Other resources": "1. SARS-CoV-2 titers in wastewater foreshadow dynamics and clinical presentation of new COVID-19 cases ([medRxiv][1])\n2. SARS-CoV-2 RNA concentrations in primary municipal sewage sludge as a leading indicator of COVID-19 outbreak dynamics ([medRxiv][2])\n3. SARS-CoV-2 titers in wastewater are higher than expected from clinically confirmed cases ([medRxiv][3])\n\n  [1]: https://www.medrxiv.org/content/10.1101/2020.06.15.20117747v2\n  [2]: https://www.medrxiv.org/content/10.1101/2020.05.19.20105999v1\n  [3]: https://www.medrxiv.org/content/10.1101/2020.04.05.20051540v1\n",
+    "DB (French)": [
+      "recWPdGv9b1FzK2CA"
+    ],
+    "DB (Hindi)": [
+      "recMkZJD2fpzKkueR"
+    ],
+    "In translated DBs?": "Yes",
+    "DB (Telugu)": [
+      "reclGOZ5COTW6Rvyw"
+    ],
+    "DB (Spanish)": [
+      "recE2hTT9JanU22s8"
+    ],
+    "DB (Arabic)": [
+      "recYmIOFCr698NdBX"
+    ],
+    "DB (Bengali)": [
+      "recmFEsPMclSXToz9"
+    ],
+    "DB (Portuguese)": [
+      "recXGfk3K6uO5B2zJ"
+    ],
+    "Last edited (simplified)": "2020-06-11T23:32:51.000Z",
+    "Last edited (experts say)": "2020-06-24T20:41:05.000Z",
+    "Last modified": "2020-07-31"
   },
   {
     "id": "recqFRWiE9Y6nbUM5",
@@ -238,7 +151,7 @@
       "USA"
     ],
     "Background and context": "Coronaviruses are a group of viruses that can cause a variety of different illnesses, but primarily upper-respiratory tract illnesses in humans. These illnesses include the common cold, severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS). Some viruses can originate in animals and later infect humans, and this can happen in a number of different ways, including: by eating meat or produce that has been contaminated by the virus, through the air or by touching a surface that was touched by an infected animal, through close contact with an infected animal, or through insect bites. Not all viruses transfer from animals to humans in all of these ways, it depends on the virus. The resources section contains more information about this. \n\n",
-    "What our experts say": "COVID-19 was first detected in the city of Wuhan, China in late 2019. The virus has since been partially traced back to a large seafood and animal market in the city of Wuhan, after several people who had been to the market became sick with the illness we now know as COVID-19. Scientists were able to use genetic tests to confirm that the virus was first identified in people in the city of Wuhan. Tests on the genetics of viruses, much like genetics in humans, can reveal a lot about their origins. \nThe majority of scientific studies now support the idea that the origin of the virus in animals was bats, specifically horseshoe bats, potentially from China or neighboring countries of Myanmar, Laos and Vietnam. Scientists also suggest that the virus may have been passed to humans through an intermediate host before spreading to humans, but are unsure about what animal the host might have been, though pangolins and civets have been suggested. The details about that event, which is called a zoonotic transfer, are still being investigated. World Health Organization experts will soon travel to China and work with Chinese health officials to identify the source of the virus.\n\n_This entry was updated with new information on July 16, 2020_\n\n",
+    "What our experts say": "COVID-19 was first detected in the city of Wuhan, China in late 2019. The virus has since been partially traced back to a large seafood and animal market in the city of Wuhan, after several people who had been to the market became sick with the illness we now know as COVID-19. Scientists were able to use genetic tests to confirm that the virus was first identified in people and environmental samples in the city of Wuhan. Tests on the genetics of viruses, much like genetics in humans, can reveal a lot about their origins. When these genetic tests were done on the COVID-19 virus' genes, it revealed that the virus originated in an infected animal and mutated when that animal transferred the virus to a human, likely in the city of Wuhan. The details about that event, which is called a zoonotic transfer, are still being investigated.\n\nUPDATED: July 16, 2020: The majority of scientific studies now support the idea that the origin of the virus in animals was bats, specifically horseshoe bats, potentially from China or neighboring countries of Myanmar, Laos and Vietnam. Scientists also suggest that the virus may have been passed to humans through an intermediate host before spreading to humans, but are unsure about what animal the host might have been, though pangolins and civets have been suggested. A potential combination between bats and pangolins as the viral origin has also been noted. World Health Organization experts will soon travel to China and work with Chinese health officials to identify the source of the virus.\n\n\n",
     "Glossary Terms": [
       "recbQ95pvRq7nP9s3",
       "recFSOdDjQBqJHnZ9"
@@ -277,15 +190,15 @@
       "recJYyTXS7aQNUrd3"
     ],
     "Last edited (simplified)": "2020-05-27T22:06:20.000Z",
-    "Last edited (experts say)": "2020-08-02T17:58:42.000Z",
-    "Last modified": "2020-08-02"
+    "Last edited (experts say)": "2020-07-17T02:06:38.000Z",
+    "Last modified": "2020-07-31"
   },
   {
     "id": "recYvTpiS4HB4XVtT",
     "Question": "What do we know about the association between blood type and severe reaction to COVID-19",
     "Status": "Published",
     "Background and context": "The media is now reporting on how more recent studies found that blood type is not linked to risks of intubation or death from COVID-19, after adjusting for other factors like age and gender identity. Furthermore, it is important to note that Type O blood does not mean immunity to COVID-19.\n\n_Updated:_ _July 27, 2020: Please note that COVID-19 is a new disease, where scientists are continuing to learn more and release new publications. The latest and most accurate answer can be found above._\n",
-    "What our experts say": "As of now, there is not enough evidence to indicate whether or not there may be some connection between blood type and COVID-19 risk, though the link is likely to be minimal if it does exist. Studies previously cited in the news suggested that Type A blood could be associated with higher risks of severe cases of COVID-19, included studies that had not yet been assessed by scientific experts (referred to in science as the peer-review process). One of these recent studies had been peer-reviewed and published in the New England Journal of Medicine (NEJM); however it used genes to determine the blood type, which is a method that is not very accurate.  \n\nTwo more recent studies from Columbia University and Massachusetts General Hospital in the U.S. found that blood type is not associated with risks of intubation or death from COVID-19, after adjusting for other factors. While scientists continue to learn more, age and underlying health conditions remain more significant risk factors for severe COVID-19 symptoms, and Type A blood is not thought to be a major risk factor at this time. \n\nWhile some studies have suggested a potential risk reduction for people with Type O blood, not all the studies have been peer-reviewed and the use of blood donors as study participants can give the appearance of Type O being more protective than it is (Type O blood is over-represented in blood donors, compared to the general population). Type O blood does not mean immunity to COVID-19.\n_This entry was updated with new information on July 27, 2020_\n",
+    "What our experts say": "As of now, there is not enough evidence to indicate whether or not there may be some connection between blood type and COVID-19 risk, though the link is likely to be minimal if it does exist. Studies previously cited in the news suggested that Type A blood could be associated with higher risks of severe cases of COVID-19, included studies that had not yet been assessed by scientific experts (referred to in science as the peer-review process). One of these recent studies had been peer-reviewed and published in the New England Journal of Medicine (NEJM); however it used genes to determine the blood type, which is a method that is not very accurate.  \n\nTwo more recent studies from Columbia University and Massachusetts General Hospital in the U.S. found that blood type is not associated with risks of intubation or death from COVID-19, after adjusting for other factors. While scientists continue to learn more, age and underlying health conditions remain more significant risk factors for severe COVID-19 symptoms, and Type A blood is not thought to be a major risk factor at this time. \n\nWhile some studies have suggested a potential risk reduction for people with Type O blood, not all the studies have been peer-reviewed and the use of blood donors as study participants can give the appearance of Type O being more protective than it is (Type O blood is over-represented in blood donors, compared to the general population). Type O blood does not mean immunity to COVID-19.\n\n_Updated: July 27, 2020: Please note that COVID-19 is a new disease, where scientists are continuing to learn more and release new publications. The latest and most accurate answer can be found above._\n\n",
     "Glossary Terms": [
       "rechQcO5gs3FZMcPs",
       "recvEcanaG84OrPm4",
@@ -316,8 +229,8 @@
       "rec7QTdBAZsJxcYzT"
     ],
     "Last edited (simplified)": "2020-07-31T13:49:50.000Z",
-    "Last edited (experts say)": "2020-08-02T17:52:28.000Z",
-    "Last modified": "2020-08-02"
+    "Last edited (experts say)": "2020-07-31T13:49:10.000Z",
+    "Last modified": "2020-07-31"
   },
   {
     "id": "recgfRiqVgG4lMH4w",
@@ -328,7 +241,7 @@
       "Newsroom"
     ],
     "Background and context": "There is concern about transmission by people without symptoms because this makes disease prevention more challenging. For example, while it is a helpful public health measure to recommend that people self-isolate when ill, it is insufficient to stop the spread of the novel coronavirus when someone who never develops symptoms or who has not yet developed symptoms can still infect others.\n",
-    "What our experts say": "Asymptomatic people, which are defined as people who do not have symptoms but have been infected with COVID-19, have significant potential to spread the virus to hundreds people. \nThe U.S. Centers for Disease Control and Prevention (U.S. CDC) has revised its current best estimate and now advises that it estimates 40% of people infected with COVID-19 are asymptomatic. The World Health Organization has yet to provide an official estimate and noted that it will vary across populations.\nSome studies have noted that asymptomatic carriers might be the biggest spreaders of COVID-19 in certain populations. There is also evidence to suggest that pre-symptomatic people infected with COVID-19  - people who eventually develop symptoms but haven't had any yet - spread the most amount of virus in the time before they have symptoms.\nThis is why it is so important that everyone wear masks, wash their hands vigorously for 20 seconds, and maintain a distance of six feet (2 meters) between themselves and others. \n\nUPDATED July 11, 2020: \n_This entry was updated with new information on July 11, 2020_\n",
+    "What our experts say": "Asymptomatic people, which are defined as people who do not have symptoms but have been infected with COVID-19, have significant potential to spread the virus to hundreds people. We don't know exactly how many people are asymptomatic, but estimates range from a small percentage (4%) up to as many as 81% of cases in some settings. However, the U.S. Centers for Disease Control's (U.S. CDC) director estimated that roughly 35% of people infected with COVID-19 may never have symptoms. Meanwhile, Dr. Anthony Fauci, a member of the White House coronavirus task force and U.S. Director of the National Institute of Allergy and Infectious Diseases, estimated that 25% - 50% of cases were asymptomatic. Some studies have noted that asymptomatic carriers might be the biggest spreaders of COVID-19 in certain populations. There is also evidence to suggest that pre-symptomatic people infected with COVID-19  - people who eventually develop symptoms but haven't had any yet - spread the most amount of virus in the time before they have symptoms.\n\nIt is important to note that people without any symptoms are capable of transmitting the virus to others, and may be spreading it without ever knowing they are infected. This is why it is so important that everyone wear masks, wash their hands vigorously for 20 seconds, and maintain a distance of six feet between themselves and others. \n\nUPDATED July 11, 2020: The U.S. CDC has revised its \"current best estimate\" and now advises that it estimates 40% of people infected with COVID-19 are asymptomatic. The World Health Organization has yet to provide an official estimate and noted that it will vary across populations.\n",
     "Glossary Terms": [
       "recx2PeCcs1Awb9rG",
       "recbZcFUtsYMA9Vsh",
@@ -365,8 +278,8 @@
       "reccumXtZ72he6jWm"
     ],
     "Last edited (simplified)": "2020-07-09T15:59:05.000Z",
-    "Last edited (experts say)": "2020-08-02T17:47:02.000Z",
-    "Last modified": "2020-08-02"
+    "Last edited (experts say)": "2020-07-14T20:50:07.000Z",
+    "Last modified": "2020-07-31"
   },
   {
     "id": "recCC7GhsX2CKZJbs",
@@ -381,7 +294,7 @@
       "Senegal"
     ],
     "Background and context": "The BGC vaccine, or the bacille Calmette-Guerin vaccine, is a vaccine for tuberculosis (TB) disease. This vaccine is used in many countries that have high rates of tuberculosis in order to prevent the disease from spreading. As public health researchers try and understand the low case numbers and death count in sub-Saharan Africa and parts of South-East Asia from COVID-19, hypotheses have emerged about the protective power of the BCG vaccine against the coronavirus because of a correlation between countries where the BCG vaccine is widely used and the low number of COVID-19 cases reported in those countries. Recent studies published on this topic do not support the idea that BCG vaccination in childhood has a protective effect against COVID-19 in adulthood. More studies are underway as it's still not clear yet how the BCG vaccine interacts with the virus that causes COVID-19.\n\n",
-    "What our experts say": "Multiple studies are exploring the link between BCG vaccination policies in various countries, and the relatively lower number of COVID-19 cases and deaths in those countries. Recent studies published do not support the idea that BCG vaccination in childhood is a cause of protection against COVID-19 in adulthood. The World Health Organization (WHO) has published a note on this topic that stated that in the absence of evidence, WHO does not recommend BCG vaccination for the prevention of COVID-19. \n\nA study published in the Proceedings of the National Academy of Sciences (U.S.) noted that after they accounted for differences in variables like income, age distribution, and access to health services, countries with higher BCG vaccination rates had lower peak mortality rates from COVID-19. However, though there is an association between BCG vaccination and reduced severity of COVID-19 observed in this epidemiological study, it does not mean that there is enough evidence to consider BCG vaccination a cause of protection from severe COVID-19. More studies are underway. \n_This entry was updated with new information on July 11, 2020_\n",
+    "What our experts say": "Multiple studies are exploring the link between BCG vaccination policies in various countries, and the relatively lower number of COVID-19 cases and deaths in those countries. Recent studies published do not support the idea that BCG vaccination in childhood is a cause of protection against COVID-19 in adulthood. The World Health Organization (WHO) has published a note on this topic that stated that in the absence of evidence, WHO does not recommend BCG vaccination for the prevention of COVID-19. More studies are underway. \n\nUPDATED: July 11, 2020: A recent study published in the Proceedings of the National Academy of Sciences (U.S.) noted that after they accounted for differences in variables like income, age distribution, and access to health services, countries with higher BCG vaccination rates had lower peak mortality rates from COVID-19. However, though there is an association between BCG vaccination and reduced severity of COVID-19 observed in this epidemiological study, it does not mean that there is sufficient enough evidence to consider BCG vaccination a cause of protection from severe COVID-19. There is not enough evidence to support whether or not BCG vaccines can offer protection against severe COVID-19 symptoms and death, and we will continue to update this answer as study results targeting the vaccine  are published.\n",
     "Glossary Terms": [
       "rec9SYUCp1ULDd0UL",
       "recUx8LCQGkRdxG3B"
@@ -417,256 +330,7 @@
       "rec6iY7j1UTP0nqUX"
     ],
     "Last edited (simplified)": "2020-05-28T19:09:48.000Z",
-    "Last edited (experts say)": "2020-08-02T17:33:31.000Z",
-    "Last modified": "2020-08-02"
-  },
-  {
-    "id": "rec2shxecDOlAie8Q",
-    "Question": "What do we know about the Moderna vaccine so far?",
-    "Status": "Published",
-    "Background and context": "Over 165 vaccines against the coronavirus are in development around the world, and approximately 25 are in human trials. Moderna was the first American company to test a vaccine in humans. The genetic vaccine, which uses genetic material from the virus (called mRNA) to prompt the immune system to fight the virus, was developed by researchers at the U.S. National Institute of Allergy and Infectious Diseases. Because this vaccine was the first to be tried in humans as part of a clinical trial, it has been widely discussed and followed, and has gained more media attention recently due to Moderna publishing promising Phase 1 results on July 14, and announcing that they are moving into a Phase 3 trial starting July 27. A phase 2 trial in 600 healthy adults is ongoing. Moderna hopes to have the vaccine ready by early 2021.\n\nThe results from the Moderna Phase 1 trial show that those who received the vaccine produced more antibodies that neutralized the virus **-- **meaning the antibodies successfully defended cells from the virus by blocking any effect the virus has biologically**.** These results have prompted wider discussion of a few open questions regarding the success of this vaccine and the others in development: 1) Can the production of antibodies predict protection against an infection? 2) Can antibodies predict protection against the level of infection, and 3) Will the antibodies produced last for a long time? and if yes, for how long? Research is ongoing to answer these questions. \n",
-    "What our experts say": "Following encouraging results of phase 1 vaccine clinical trials, Moderna's COVID-19 vaccine is expected to start phase 3 trials on July 27, 2020 with 30,000 participants age 18 and older. A phase 2 trial in 600 healthy adults is ongoing. There are typically three phases of vaccine clinical trials, where Phase 3 is the last one conducted on a large amount of people. Phase 3 seeks to confirm results obtained in Phase 1 and Phase 2 with respect to safety and efficacy of the vaccine before approving it for manufacturing and distribution. In the upcoming Moderna Phase 3 trial, patients will be randomly assigned to receive two vaccine doses or a placebo.** **A placebo is a harmless, inactive substance that physically looks like the vaccine being tested, so researchers can make a comparison.\n\nModerna published early results in the New England Journal of Medicine (NEJM) on July 14, 2020, based on Phase 1 trials with 45 participants, between age 18 and 55, receiving two vaccine doses each. The participants were split evenly into 3 groups to test different amounts of the vaccine: 25, 100, and 250 micrograms. While no major safety concerns were found that would stop the trials, over half of the participants experienced side effects such as fatigue, chills, headache, muscle aches, and pain at the injection site. The participants receiving the highest vaccine dose (250 micrograms) had more severe side effects. A phase 2 trial is ongoing and is evaluating doses of 50 and 100 micrograms in participants. The next phase (Phase 3) of the clinical trial will focus on studying the middle vaccine amount (100 micrograms).\n\nBy day 43 of the Phase 1 trial, researchers observed immune responses in all participants that could reduce the ability of SARS-CoV-2, the virus that causes COVID-19, to infect people by 80% or more. By day 57, participants who received 100 micrograms of the vaccine had average levels of neutralizing antibodies that were about twice the average levels found in patients who have recovered from COVID-19. Neutralizing antibodies, made from plasma cells (a type of white blood cell), are a subset of antibodies (special proteins that help the body to fight viruses, bacteria, and other threats that can make people sick) that reduce the ability of a virus to infect cells and cause disease. More research is being conducted to ensure the Moderna vaccine is safe for use by diverse populations, and effective in providing long-term immunity that can protect people from getting sick when exposed to the virus.\n\n",
-    "Glossary Terms": [
-      "rec9qqItwSTjq3Eae",
-      "recMJMGqkERKGcbL5",
-      "recM4p8QOERmuESKr",
-      "recJK5tI9LgCGFRAU",
-      "recJhCnFxAX2jAH0h",
-      "recr3NlaEcaDxSbvI",
-      "reccH9Nhjj0fi18nJ",
-      "recmajcAORyuqhZPc",
-      "recyXylBebc7GlxTi"
-    ],
-    "Other resources": "1. A Study to Evaluate Efficacy, Safety, and Immunogenicity of mRNA-1273 Vaccine in Adults Aged 18 Years and Older to Prevent COVID-19 ([U.S. Clinical Trials Registry][1])\n2. An mRNA Vaccine against SARS-CoV-2 — Preliminary Report ([NEJM][2])\n3. First data for Moderna Covid-19 vaccine show it spurs an immune response ([STAT News][3])\n4. Vaccine experts say Moderna didn’t produce data critical to assessing Covid-19 vaccine ([STAT News][4])\n5. Will Moderna Match Competitors’ Covid-19 Vaccine Prices? ([Forbes][5])\n\n  [1]: https://clinicaltrials.gov/ct2/show/NCT04470427?term=moderna+COVID-19&draw=2&rank=1\n  [2]: https://www.nejm.org/doi/full/10.1056/NEJMoa2022483\n  [3]: https://www.statnews.com/2020/07/14/moderna-covid19-vaccine-first-data-show-spurs-immune-response/\n  [4]: https://www.statnews.com/2020/05/19/vaccine-experts-say-moderna-didnt-produce-data-critical-to-assessing-covid-19-vaccine/\n  [5]: https://www.forbes.com/sites/johnlamattina/2020/07/22/will-moderna-match-competitors-covid-19-vaccine-prices/#2ee3c6e5e014\n",
-    "DB (French)": [
-      "recJV1Ww4TI2cqRgE"
-    ],
-    "DB (Hindi)": [
-      "recbR2Bu3ucf0EyPS"
-    ],
-    "In translated DBs?": "Yes",
-    "DB (Telugu)": [
-      "recN1H7KANelBcUvs"
-    ],
-    "DB (Spanish)": [
-      "rec6na1y7IvMpnrp4"
-    ],
-    "DB (Arabic)": [
-      "recqHBWkAqryD8CyT"
-    ],
-    "DB (Bengali)": [
-      "recO0xAuKbGhseNw5"
-    ],
-    "DB (Portuguese)": [
-      "recp18sII5PdAWrwF"
-    ],
-    "Last edited (simplified)": "2020-07-24T19:22:30.000Z",
-    "Last edited (experts say)": "2020-07-24T19:19:09.000Z",
-    "Last modified": "2020-08-01"
-  },
-  {
-    "id": "rec7awl8Ed6xdZIiv",
-    "Question": "Does Vitamin D help prevent or treat COVID-19?",
-    "Status": "Published",
-    "Subcategory": "On: COVID-19 & Vitamin D",
-    "Source of the question": [
-      "Social Media"
-    ],
-    "Country question was sourced from": [
-      "USA"
-    ],
-    "Background and context": "Vitamin D is an essential nutrient, which means your body needs it but cannot make it on its own. This is why people have to get their Vitamin D from foods like salmon or egg yolks, supplements, or from spending short amounts of time in the sun. Vitamin D helps ensure your body's immune system and its cells are working well so they can respond to infections and viruses. In addition to its help in retaining calcium levels in the body and promoting bone health, Vitamin D can also potentially reduce cancer cell growth, help minimize inflammation, and help control infections. \n",
-    "What our experts say": "It is too early to tell whether or not Vitamin D can help treat COVID-19. As of now, Vitamin D has not been tested for its effectiveness in treating COVID-19 patients, so there is no evidence that it can prevent or treat the virus. A recent study looked at data from 20 European countries and noted that in places where more people had cases of Vitamin D deficiency, they also had higher rates of COVID-19 cases and deaths. While this study suggested a possible relationship between lower levels of Vitamin D and poor COVID-19 health outcomes, there is no evidence that Vitamin D levels actually caused more cases or deaths related to COVID-19. \n\nOther studies have noted potential links between low Vitamin D levels and COVID-19, but no consensus has been reached on what the potential impact of the vitamin is on the virus. Researchers are now working on several studies to determine if Vitamin D can be effective in treating COVID-19.\n",
-    "Glossary Terms": [
-      "recnFUXyIZy81Rj1I"
-    ],
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "Calcium",
-      "Vitamin D",
-      "prevention",
-      "treatment",
-      "homeopathic"
-    ],
-    "Other resources": "1. Lancet review on Vitamin D and COVID-19 outcomes ([The Lancet][1])\n2. Aging Clinical and Experimental Research study on Vitamin D and the prevention of COVID-19 ([Aging][2])\n3. BMJ study on Vitamin D and COVID-19 ([BMJ][3])\n4. Pre-print study of patterns of COVID-19 mortality and Vitamin D ([SSRN][4])\n5. Pre-print study on the possible role of Vitamin D and cytokine storms in COVID-19 ([Medrxiv][5])\n6. Harvard review of Vitamin D ([HSPH][6])\n7. Journal of Investigative Medicine review of Vitamin D and the immune system ([JIM][7])\n\n  [1]: https://www.thelancet.com/journals/landia/article/PIIS2213-8587(20)30183-2/fulltext\n  [2]: https://link.springer.com/article/10.1007%2Fs40520-020-01570-8\n  [3]: https://nutrition.bmj.com/content/early/2020/05/15/bmjnph-2020-000089\n  [4]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3585561\n  [5]: https://www.medrxiv.org/content/10.1101/2020.04.08.20058578v4\n  [6]: https://www.hsph.harvard.edu/nutritionsource/vitamin-d/\n  [7]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3166406/\n",
-    "DB (French)": [
-      "recgur7UqWESGFk8T"
-    ],
-    "DB (Hindi)": [
-      "reco1sk8QaOHSDsDk"
-    ],
-    "In translated DBs?": "Yes",
-    "DB (Telugu)": [
-      "recpDxEPAA9r6srCb"
-    ],
-    "DB (Spanish)": [
-      "recIZ0yD7vqSUDYwN"
-    ],
-    "DB (Arabic)": [
-      "rec2jrtpAdmE8o9FC"
-    ],
-    "DB (Bengali)": [
-      "recqCn7zKYBnXukDO"
-    ],
-    "DB (Portuguese)": [
-      "rec1DYZNISKj5cYDo"
-    ],
-    "Last edited (simplified)": "2020-06-03T21:07:17.000Z",
-    "Last edited (experts say)": "2020-06-04T16:24:46.000Z",
-    "Last modified": "2020-08-01"
-  },
-  {
-    "id": "reclucIrtcCSCbOn6",
-    "Question": "Is the Russian vaccine a successful cure for COVID-19? ",
-    "Status": "Published",
-    "Source of the question": [
-      "Fact-checking organization"
-    ],
-    "Country question was sourced from": [
-      "India"
-    ],
-    "Background and context": "Vaccines are not medicines that can treat or cure diseases, as they are made for prevention. Vaccines contain a weakened, killed, or partial form of the same germs that cause the disease in order to stimulate the body's immune response to develop immunity without having to get sick. The World Health Organization (WHO) reports that there are around 160 vaccines for COVID-19 in development as of July 6, 2020, with at least 21 vaccine candidates under clinical evaluation and 139 under pre-clinical evaluation. This includes U.K.'s Oxford University and AstraZeneca vaccine candidate that is currently in Phase 3 clinical trials with 5,000 people in Brazil and 4,000 people in the U.K., Australia's University of Queensland vaccine candidate that started phase one clinical trials with 120 people to be observed over 12 months (including a proportion of people assigned to receive a placebo for comparison), the U.S.'s Inovio Pharmaceuticals vaccine candidate that completed Phase 1 clinical trials with 40 people (reports suggest 94% had \"overall immune responses at week six after two doses\" and after eight weeks the vaccine candidate was considered \"safe and well-tolerated with no serious adverse events\"), and China's CanSino Biologics vaccine candidate that completed phase two clinical trials with 508 people and is planning to begin phase three clinical trials with 40,000 people from multiple countries.\n",
-    "What our experts say": "COVID-19 vaccines are being developed to prevent people from getting the disease, not to treat or cure patients who already have the disease. Many experts continue to caution that a vaccine may not be widely available until the end of 2020 or beginning of 2021, which would already be record-breaking timing for vaccine development.\n\nRecently, Russia's Sechenov First Moscow State Medical University announced that they are completing human clinical trials of a COVID-19 vaccine, with 18 people vaccinated on June 18 (to be discharged on July 15) and 20 people vaccinated on June 23 (to be discharged on July 20). This is one of several human clinical trials for COVID-19 vaccine candidates happening around the world, with some trials involving hundreds or thousands of people over observation periods of many months. Rigorous clinical trials are important to understand whether vaccine candidates are safe and without major negative side effects, as well as whether vaccine candidates are effective and can actually provide immunity for long periods of time.\n\nRussia's announcement of their human clinical trials has been accompanied by projections that the vaccine could be distributed in August and mass produced by private corporations in September. There are many challenges in scaling up from a vaccine candidate that has been tested on a few dozen people in one country to a commercially available vaccine that is available and suitable for millions of diverse people around the world. \n",
-    "Glossary Terms": [
-      "rec9qqItwSTjq3Eae",
-      "recMJMGqkERKGcbL5",
-      "recJK5tI9LgCGFRAU"
-    ],
-    "Variation of the answer depending on country of residence": "\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "\n",
-    "Other resources": "1. Vaccines: The Basics ([U.S. CDC][1])\n2. Russia Coronavirus Vaccine Could Be Distributed Next Month ([Newsweek][2])\n3. China's CanSino in talks for COVID-19 vaccine Phase III trial overseas ([Reuters][3])\n4. First data for Moderna Covid-19 vaccine show it spurs an immune response ([STAT News][4])\n\n  [1]: https://www.cdc.gov/vaccines/vpd/vpd-vac-basics.html\n  [2]: https://www.newsweek.com/russia-coronavirus-vaccine-could-distributed-next-month-1517398\n  [3]: https://www.reuters.com/article/us-health-coronavirus-china-vaccine/chinas-cansino-in-talks-for-covid-vaccine-phase-iii-trial-overseas-idUSKCN24C0HS\n  [4]: https://www.statnews.com/2020/07/14/moderna-covid19-vaccine-first-data-show-spurs-immune-response/\n",
-    "DB (French)": [
-      "recPhec94wi5W2qG6"
-    ],
-    "DB (Hindi)": [
-      "rec9Vj7CIQcChHjo4"
-    ],
-    "In translated DBs?": "Yes",
-    "DB (Telugu)": [
-      "recJiF3jfBEs5h52m"
-    ],
-    "DB (Spanish)": [
-      "rec2E8X7MwVTTsCWY"
-    ],
-    "DB (Arabic)": [
-      "recmYzSTfeRF7dN5N"
-    ],
-    "DB (Bengali)": [
-      "recKhvw3pZ6oWjY3Z"
-    ],
-    "DB (Portuguese)": [
-      "recli6ohnTfk41C3z"
-    ],
-    "Last edited (simplified)": "2020-07-15T02:07:10.000Z",
-    "Last edited (experts say)": "2020-07-15T01:24:12.000Z",
-    "Last modified": "2020-08-01"
-  },
-  {
-    "id": "recsAUeofWqkiI3Hs",
-    "Question": "What do genes have to do with our bodies' reactions to COVID-19?",
-    "Status": "Published",
-    "Subcategory": "On: COVID-19 and genes",
-    "Source of the question": [
-      "Social Media"
-    ],
-    "Country question was sourced from": [
-      "USA"
-    ],
-    "Background and context": "As we move forward with the COVID-19 pandemic and related research, more information will become available about the role of genomics. Currently, there is significant interest on the role of ACE receptors, inhibitors and infection. \n",
-    "What our experts say": "We're still learning more about the role of genetics in COVID-19 infection, both in terms of susceptibility, but also severity of illness. There have been some studies that have looked at proteins, called \"toll-like receptors\" or \"TLRs\" that help an immune system detect a virus and alert the immune system to begin defending the body from infection. Those studies have looked at the role of TLRs in natural immunity to the virus, and how our genes controlling a protein involved in TLR response, plays into susceptibility. Other studies have assessed blood types and that those with Type A appear to have a higher risk of contracting the virus, whereas Type O might be protective. \n\nACE receptors - also known as angiotensin-converting enzyme inhibitors - might be the way the virus gets into the cell and may play a large role in the virus's ability to infect cells. Because of this, there has been increased research into genetic variants in these receptors. It is likely that some genetics play a role in COVID-19 infection and clinical manifestations, but it will take much more research to understand these relationships. \n",
-    "Glossary Terms": [
-      "rechQcO5gs3FZMcPs"
-    ],
-    "Variation of the answer depending on country of residence": "No\t\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "genes",
-      "symptoms"
-    ],
-    "Other resources": "1. Renin–Angiotensin–Aldosterone System Inhibitors in Patients with Covid-19 ([New England Journal fo Medicine][1]) \n2. The COVID-19 Host Genetics Initiative, a global initiative to elucidate the role of host genetic factors in susceptibility and severity of the SARS-CoV-2 virus pandemic ([Nature][2]) \n3. Do Your Genes Predispose You to COVID-19? ([Scientific American][3]) \n\n  [1]: https://www.nejm.org/doi/full/10.1056/NEJMsr2005760\n  [2]: https://www.nature.com/articles/s41431-020-0636-6\n  [3]: https://www.scientificamerican.com/article/do-your-genes-predispose-you-to-covid-19/\n",
-    "Last edited (simplified)": "2020-06-09T19:04:07.000Z",
-    "Last edited (experts say)": "2020-06-25T06:33:40.000Z",
-    "Last modified": "2020-08-01"
-  },
-  {
-    "id": "rec8cZkqQ2wYlzCSD",
-    "Question": "Should we wipe down groceries, except for produce and such of course, with disinfectant before bringing inside a house?",
-    "Status": "Published",
-    "Background and context": "Studies that look at the way COVID-19 spreads are evolving and it's leading to confusion about how we should be handling some of our most essential items — groceries. More research shows that person-to-person spread through close contact (as opposed to surface transmission, like with groceries) is the most well understood form of transmission, as well as the main transmission route for COVID-19. \n\nMixed messaging is contributing to debate around the need to wipe down groceries, wear gloves, avoid petting neighborhood animals, and other steps that would reduce surface transmission. The current research shows that surface transmission is likely very rare as a way of spreading COVID-19, but it is still a risk and it should be responded to with precaution. Therefore, public health experts recommend hand washing after bringing items inside and putting them away. \n",
-    "What our experts say": "There is no evidence that food or the packaging it comes in plays a role in COVID-19 transmission. The public health community is continually learning about how the novel coronavirus spreads, and what transmission routes are most likely to make it spread. Because of this continual learning in the public health community, there has been confusion around how easily COVID-19 spreads, through which routes, and what precautions are really necessary—such as wiping down grocery packaging.\n\nAccording to recent studies, the risk of becoming infected by surfaces like food and packaging is quite low, but the same prevention measures experts have been suggesting for months should still be followed. Health experts recommend hand washing after handling produce and putting away groceries, but not that people wipe down or disinfect the packaging or belongings before coming inside. They should instead use hand washing after bringing items inside and putting them away. \n\n",
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "transmission"
-    ],
-    "Other resources": "1. Running Errands ([U.S. CDC][1])\n2. Shopping for Food During the COVID-19 Pandemic ([U.S. FDA][2])\n3. Hygiene Theater Is a Huge Waste of Time ([The Atlantic][3]) \n4. Exaggerated risk of transmission of COVID-19 by fomites ([The Lancet][4]) \n\n  [1]: https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/essential-goods-services.html\n  [2]: https://www.fda.gov/food/food-safety-during-emergencies/shopping-food-during-covid-19-pandemic-information-consumers\n  [3]: https://www.theatlantic.com/ideas/archive/2020/07/scourge-hygiene-theater/614599/\n  [4]: https://www.thelancet.com/pdfs/journals/laninf/PIIS1473-3099(20)30561-2.pdf\n",
-    "Last edited (simplified)": "2020-07-31T21:44:22.000Z",
-    "Last edited (experts say)": "2020-07-31T21:46:20.000Z",
-    "Last modified": "2020-08-01"
-  },
-  {
-    "id": "recu5zvFnlQeNTxk8",
-    "Question": "What are the different types of vaccines?",
-    "Status": "Published",
-    "Category": "Prevention",
-    "Subcategory": "On: COVID-19 & vaccines",
-    "Source of the question": [
-      "Social Media"
-    ],
-    "Country question was sourced from": [
-      "USA"
-    ],
-    "Background and context": "There are over 165 vaccines against COVID-19 in development around the world. Approximately 25 of them are in human trials. Vaccine trials typically take years to develop, but are being expedited to be ready as early as spring 2021 to control the pandemic. \n\nVaccines are a safe, effective, and simple method of protecting people against diseases before an individual becomes exposed to them. Vaccines can also help lessen the severity of a disease if someone is infected. All vaccines work to create antibodies to fight the foreign germ - in this case, the SARS-CoV-2 virus. But there has been confusion around the types of vaccines in development due to the high amount of vaccines being developed, as well as new technologies being tested that haven’t been used in a licensed vaccine before, such as mRNA vaccines which are currently being researched.\n",
-    "What our experts say": "Historically, there are four main types of vaccines: \n\n- Live-attenuated vaccines\n- Inactivated vaccines\n- Subunit, recombinant, polysaccharide, and conjugate vaccines\n- Toxoid vaccines\n\nVaccine designs are based on how our immune systems respond to germs, who in the population (children, adults) needs to be vaccinated against the germ, and the best approach and technology available to create the vaccine. This is why there are different vaccine types to respond to different germs.\n\nLive-attenuated vaccines use a weaker - also called 'attenuated' - form of a living germ, which would normally cause a disease in stronger forms but is almost completely harmless in a vaccine because the virus has been weakened. Some of these live-attenuated vaccines are used to protect against diseases like measles, mumps, rubella; rotavirus; smallpox; chicken pox; and yellow fever.\n\nInactivated vaccines use the killed or inactive version of the germ, so they are not as capable at helping humans develop some immunity to a germ** **as live-attenuated vaccines and can't provide immunity for as long. These vaccines protect against diseases like hepatitis A, influenza, polio, and rabies.\n\nSubunit, recombinant, polysaccharide, and conjugate vaccines use particular pieces of the germ, like its protein or sugars, to create a strong immunity to specific parts of the germ. Some illnesses these vaccines focus on are hepatitis B, HPV, whooping cough, shingles, and meningococcal disease.\n\nToxoid vaccines use a harmful product called a 'toxin' that is made by the germ. A toxin is a living organism that can normally cause harm to parts of the body like tissues when they come into contact with them. However, toxins in vaccines are harmless because they have been very weakened in laboratories as their only job is to teach the immune system how to fight the germ. They create immunity by focusing on the specific parts of the germ that cause illness instead of the entire germ. These vaccines target illnesses like diptheria and tetanus.\n\nResearchers trying to develop COVID-19 vaccines are using many of these types of approaches to vaccine design. Two new types of vaccines are gaining attention in the scientific world. One of these vaccine types use the genes of the COVID-19 vaccine called 'DNA' and 'RNA' to create a strong immune system response. The other new type of approach to vaccine development uses a platform base called 'recombinant vector vaccines' which act like how infections would impact your body normally. As we learn more about the virus and how to create immunity in people through vaccines, we will learn if any of these vaccine types can successfully prevent COVID-19 infection in people.\n",
-    "Glossary Terms": [
-      "rec9qqItwSTjq3Eae",
-      "recS7r4IRJ4w3tzwS",
-      "reccH9Nhjj0fi18nJ",
-      "recXHN1CA0PUsKJ2k",
-      "recnFUXyIZy81Rj1I"
-    ],
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "vaccine",
-      "DNA",
-      "RNA",
-      "immunity"
-    ],
-    "Other resources": "1. Vaccine Types ([U.S. HHS][1]) \n2. Vaccines: The Basics ([U.S. CDC][2]) \n3. Q&A on vaccines ([World Health Organization][3]) \n\n  [1]: https://www.vaccines.gov/basics/types\n  [2]: https://www.cdc.gov/vaccines/vpd/vpd-vac-basics.html\n  [3]: https://www.who.int/news-room/q-a-detail/q-a-on-vaccines\n",
-    "Last edited (simplified)": "2020-07-31T22:54:36.000Z",
-    "Last edited (experts say)": "2020-07-31T22:55:31.000Z",
-    "Last modified": "2020-08-01"
-  },
-  {
-    "id": "rec94a8OYovZrmVEs",
-    "Question": "How do pulse oximeters work and are digital versions effective?",
-    "Status": "Published",
-    "Category": "Prevention",
-    "Subcategory": "On: COVID-19 & pulse oximeters",
-    "Source of the question": [
-      "Partner Organization"
-    ],
-    "Country question was sourced from": [
-      "India"
-    ],
-    "Background and context": "A recent viral WhatsApp message circulating on closed threads in India claimed that everybody should download a digital app that functions like a digital pulse oximeter and measures oxygen levels in the blood. Digital apps claiming to accurately measure blood oxygen levels may be very inaccurate.\n\nPulse oximeters—the real ones— are used to track oxygen levels in the blood and monitor heart rate, since low oxygen levels are reported among patients experiencing severe cases of COVID-19. They are popular because they can present warning signs of an upcoming problem before it's too late. However, doctors only recommend pulse oximeters for some patients who have either been diagnosed with COVID-19 or who have other underlying health conditions. The quality of digital pulse oximeters can vary, and these devices should not be used to diagnose COVID-19, as low blood oxygen levels can occur due to a wide range of diseases. In general, public health agencies like the U.S. Centers for Disease Control do not recommend purchasing a digital pulse oximeter to track your blood oxygen levels unless directed by a doctor or in specific high-risk areas like nursing homes. If you feel like you're getting sick or experiencing any symptoms of COVID-19, you should contact a doctor right away. \n",
-    "What our experts say": "A pulse oximeter is a small non-invasive, clip-like device that attaches to a finger or ear lobe to measure the level of oxygen in blood. The device sends small beams of light through the blood and then measures how much light reflects off of red blood cells. More reflection of light means more oxygen saturation, less reflection of light means less oxygen saturation. \n\nTypically a digital pulse oximeter is clipped on the tip of your finger, and you may experience a small amount of pressure without any pain during the reading. The device provides a reading of \"oxygen saturation level\" and heart rate. An oxygen saturation level of at least 95% is normal for most healthy individuals. \n\nDigital pulse oximeters are easy-to-use and painless, and most versions are quite accurate. With any digital reading, however, there is always a risk of inaccurate readings. Hospitals and other medical settings have high-quality devices, but the quality of other digital versions on the market can vary. In general, doctors recommend pulse oximeters for patients with certain underlying health conditions and lung diseases, including patients with COVID-19, to monitor their symptoms. But you should not buy a pulse oximeter to self-diagnose or monitor symptoms unless directed by a doctor.\n",
-    "Glossary Terms": [
-      "rect196eVKcIMcns5",
-      "recIU1uU78tFKq4Ws"
-    ],
-    "Variation of the answer depending on country of residence": "No\t\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "pulse oximeter",
-      "oxygen saturation",
-      "symptoms"
-    ],
-    "Other resources": "1. Pulse Oximetry ([Hopkins Medicine][1])\n2. Should You Get a Pulse Oximeter to Measure Blood Oxygen Levels? ([Cleveland Clinic][2])\n3. Coronavirus FAQS: What's A Pulse Oximeter? Is It A Good Idea To Buy One? ([NPR][3])\n\n  [1]: https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/pulse-oximetry\n  [2]: https://health.clevelandclinic.org/should-you-get-a-pulse-oximeter-to-measure-blood-oxygen-levels/\n  [3]: https://www.npr.org/sections/goatsandsoda/2020/05/01/848400469/coronavirus-faqs-whats-a-pulse-oximeter-is-it-a-good-idea-to-buy-one\n",
-    "Last edited (simplified)": "2020-07-31T20:01:28.000Z",
-    "Last edited (experts say)": "2020-07-31T19:57:41.000Z",
+    "Last edited (experts say)": "2020-07-14T20:47:03.000Z",
     "Last modified": "2020-07-31"
   },
   {
@@ -704,6 +368,33 @@
     ],
     "Last edited (simplified)": "2020-07-22T21:24:14.000Z",
     "Last edited (experts say)": "2020-07-31T13:52:26.000Z",
+    "Last modified": "2020-07-31"
+  },
+  {
+    "id": "recsAUeofWqkiI3Hs",
+    "Question": "What do genes have to do with our bodies' reactions to COVID-19?",
+    "Status": "Published",
+    "Subcategory": "On: COVID-19 and genes",
+    "Source of the question": [
+      "Social Media"
+    ],
+    "Country question was sourced from": [
+      "USA"
+    ],
+    "Background and context": "As we move forward with the COVID-19 pandemic and related research, more information will become available about the role of genomics. Currently, there is significant interest on the role of ACE receptors, inhibitors and infection. \n",
+    "What our experts say": "We're still learning more about the role of genetics in COVID-19 infection, both in terms of susceptibility, but also severity of illness. There have been some studies that have looked at proteins, called \"toll-like receptors\" or \"TLRs\" that help an immune system detect a virus and alert the immune system to begin defending the body from infection. Those studies have looked at the role of TLRs in natural immunity to the virus, and how our genes controlling a protein involved in TLR response, plays into susceptibility. Other studies have assessed blood types and that those with Type A appear to have a higher risk of contracting the virus, whereas Type O might be protective. \n\nACE receptors - also known as angiotensin-converting enzyme inhibitors - might be the way the virus gets into the cell and may play a large role in the virus's ability to infect cells. Because of this, there has been increased research into genetic variants in these receptors. It is likely that some genetics play a role in COVID-19 infection and clinical manifestations, but it will take much more research to understand these relationships. \n",
+    "Glossary Terms": [
+      "rechQcO5gs3FZMcPs"
+    ],
+    "Variation of the answer depending on country of residence": "No\t\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "genes",
+      "symptoms"
+    ],
+    "Other resources": "1. Renin–Angiotensin–Aldosterone System Inhibitors in Patients with Covid-19 ([New England Journal fo Medicine][1]) \n2. The COVID-19 Host Genetics Initiative, a global initiative to elucidate the role of host genetic factors in susceptibility and severity of the SARS-CoV-2 virus pandemic ([Nature][2]) \n3. Do Your Genes Predispose You to COVID-19? ([Scientific American][3]) \n\n  [1]: https://www.nejm.org/doi/full/10.1056/NEJMsr2005760\n  [2]: https://www.nature.com/articles/s41431-020-0636-6\n  [3]: https://www.scientificamerican.com/article/do-your-genes-predispose-you-to-covid-19/\n",
+    "Last edited (simplified)": "2020-06-09T19:04:07.000Z",
+    "Last edited (experts say)": "2020-06-25T06:33:40.000Z",
     "Last modified": "2020-07-31"
   },
   {
@@ -973,6 +664,58 @@
     ],
     "Last edited (simplified)": "2020-07-17T21:43:30.000Z",
     "Last edited (experts say)": "2020-07-17T21:50:56.000Z",
+    "Last modified": "2020-07-30"
+  },
+  {
+    "id": "rec7awl8Ed6xdZIiv",
+    "Question": "Does Vitamin D help prevent or treat COVID-19?",
+    "Status": "Published",
+    "Subcategory": "On: COVID-19 & Vitamin D",
+    "Source of the question": [
+      "Social Media"
+    ],
+    "Country question was sourced from": [
+      "USA"
+    ],
+    "Background and context": "Vitamin D is an essential nutrient, which means your body needs it but cannot make it on its own. This is why people have to get their Vitamin D from foods like salmon or egg yolks, supplements, or from spending short amounts of time in the sun. Vitamin D helps ensure your body's immune system and its cells are working well so they can respond to infections and viruses. In addition to its help in retaining calcium levels in the body and promoting bone health, Vitamin D can also potentially reduce cancer cell growth, help minimize inflammation, and help control infections. \n",
+    "What our experts say": "It is too early to tell whether or not Vitamin D can help treat COVID-19. As of now, Vitamin D has not been tested for its effectiveness in treating COVID-19 patients, so there is no evidence that it can prevent or treat the virus. A recent study looked at data from 20 European countries and noted that in places where more people had cases of Vitamin D deficiency, they also had higher rates of COVID-19 cases and deaths. While this study suggested a possible relationship between lower levels of Vitamin D and poor COVID-19 health outcomes, there is no evidence that Vitamin D levels actually caused more cases or deaths related to COVID-19. \n\nOther studies have noted potential links between low Vitamin D levels and COVID-19, but no consensus has been reached on what the potential impact of the vitamin is on the virus. Researchers are now working on several studies to determine if Vitamin D can be effective in treating COVID-19.\n",
+    "Glossary Terms": [
+      "recnFUXyIZy81Rj1I"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "Calcium",
+      "Vitamin D",
+      "prevention",
+      "treatment",
+      "homeopathic"
+    ],
+    "Other resources": "1. Lancet review on Vitamin D and COVID-19 outcomes ([The Lancet][1])\n2. Aging Clinical and Experimental Research study on Vitamin D and the prevention of COVID-19 ([Aging][2])\n3. BMJ study on Vitamin D and COVID-19 ([BMJ][3])\n4. Pre-print study of patterns of COVID-19 mortality and Vitamin D ([SSRN][4])\n5. Pre-print study on the possible role of Vitamin D and cytokine storms in COVID-19 ([Medrxiv][5])\n6. Harvard review of Vitamin D ([HSPH][6])\n7. Journal of Investigative Medicine review of Vitamin D and the immune system ([JIM][7])\n\n  [1]: https://www.thelancet.com/journals/landia/article/PIIS2213-8587(20)30183-2/fulltext\n  [2]: https://link.springer.com/article/10.1007%2Fs40520-020-01570-8\n  [3]: https://nutrition.bmj.com/content/early/2020/05/15/bmjnph-2020-000089\n  [4]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3585561\n  [5]: https://www.medrxiv.org/content/10.1101/2020.04.08.20058578v4\n  [6]: https://www.hsph.harvard.edu/nutritionsource/vitamin-d/\n  [7]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3166406/\n",
+    "DB (French)": [
+      "recgur7UqWESGFk8T"
+    ],
+    "DB (Hindi)": [
+      "reco1sk8QaOHSDsDk"
+    ],
+    "In translated DBs?": "Yes",
+    "DB (Telugu)": [
+      "recpDxEPAA9r6srCb"
+    ],
+    "DB (Spanish)": [
+      "recIZ0yD7vqSUDYwN"
+    ],
+    "DB (Arabic)": [
+      "rec2jrtpAdmE8o9FC"
+    ],
+    "DB (Bengali)": [
+      "recqCn7zKYBnXukDO"
+    ],
+    "DB (Portuguese)": [
+      "rec1DYZNISKj5cYDo"
+    ],
+    "Last edited (simplified)": "2020-06-03T21:07:17.000Z",
+    "Last edited (experts say)": "2020-06-04T16:24:46.000Z",
     "Last modified": "2020-07-30"
   },
   {
@@ -2570,6 +2313,209 @@
     "Last edited (simplified)": "2020-07-17T02:18:28.000Z",
     "Last edited (experts say)": "2020-07-17T02:15:14.000Z",
     "Last modified": "2020-07-26"
+  },
+  {
+    "id": "recq1zzyVh3GSLrhz",
+    "Question": "What short- and long-term effects does COVID-19 have on other body parts, including lungs, brain and kidney?",
+    "Status": "Published",
+    "Category": "Symptoms",
+    "Subcategory": "On: COVID-19 & short- and long-term effects",
+    "Source of the question": [
+      "Fact-checking organization"
+    ],
+    "Country question was sourced from": [
+      "Philippines"
+    ],
+    "Background and context": "Health practitioners, scientists, and journalists have reported major differences in COVID-19 symptoms from patient to patient. This includes differences in the severity of symptoms, in the duration of symptoms, and in the organs affected. For example, some patients have reported lingering impacts of COVID-19 that lasted months, and the long-term effects of the disease are not fully known yet. Recently, more news has been circulating about COVID-19 and its impact on the brain following the publication of a study on British patients who experienced symptoms ranging from brain inflammation and delirium to nerve damage and stroke.\n",
+    "What our experts say": "As COVID-19 is a new illness, we don't know all of its short- and long-term impacts yet. Most people (80%) infected with COVID-19 have mild or no symptoms. Some of the short-term impacts for people with mild symptoms include shortness of breath in the lungs and airways, fever, cough, and body aches. For more severe cases, the short-term impacts can be varied and affect several organs. These include pulmonary embolisms (lungs), strokes (brain), and kidney damage due to a lack of oxygen or blood clots. The more severe the case and symptoms of COVID-19 in a person, the more likely major organs are negatively impacted by it.\n\nThe long-term effects of COVID-19 are being studied now. However, exhaustion, anxiety, headaches, and muscle aches have been reported most often in patients reporting symptoms many weeks after the beginning of their infection with COVID-19. As it has only been six months since the discovery of the virus, the real long-term impacts remain unknown. For some people infected with the virus, their symptoms have lasted longer than 100 days. Recent studies that have documented long term symptoms include lung scarring; heart damage; neurocognitive impacts like dizziness, loss of taste and smell, and headaches; renal failure; limited lung capacity and difficulty breathing among many others. One notable aspect of the long-term impacts is that they also effect people who had mild cases, not just those who were hospitalized or had severe symptoms for weeks. Though most people recover from the virus within a few weeks, the long-term effects of the virus could impact many organs in different ways.\n\n\n",
+    "Glossary Terms": [
+      "reccJtjL0z55J1CPG",
+      "reciKuzcOIBjSFsU4"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "stroke",
+      "brain",
+      "lungs",
+      "kidney",
+      "renal failure",
+      "impact",
+      "short-term",
+      "long-term",
+      "blood clot",
+      "headache",
+      "dizziness ",
+      "neurocognitive"
+    ],
+    "Other resources": "1. Coronavirus ([WHO][1]) \n2. What Long-Term Effects Could COVID-19 Have on Your Lungs? ([Banner Health][2]) \n3. Association of Cardiac Injury With Mortality in Hospitalized Patients With COVID-19 in Wuhan, China ([JAMA][3]) \n4. Neurologic Manifestations of Hospitalized Patients With Coronavirus Disease 2019 in Wuhan, China ([JAMA][4]) \n5. Acute Pulmonary Embolism in COVID-19 Patients on CT Angiography and Relationship to D-Dimer Levels ([Radiology][5]) \n6. COVID-19 and Kidney Failure in the Acute Care Setting: Our Experience From Seattle ([AJKD][6]) \n7. The Long-Term Health Effects of COVID-19 ([GAVI][7]) \n8. How Covid-19 can damage the brain ([BBC][8]) \n9. Neurologic Features in Severe SARS-CoV-2 Infection ([NEJM][9]) \n10. Coronavirus: Kidney Damage Caused by COVID-19 ([Hopkins Medicine][10])\n11. The emerging spectrum of COVID-19 neurology: clinical, radiological and laboratory findings ([Brain][11])\n12. What are the potential long-term effects of having COVID-19? ([AP][12]) \n13. Extrapulmonary manifestations of COVID-19, see [Figure 2][13] ([Nature][14])\n\n  [1]: https://www.who.int/health-topics/coronavirus#tab=tab_1\n  [2]: https://www.bannerhealth.com/healthcareblog/teach-me/what-long-term-effects-could-covid19-have-on-your-lungs\n  [3]: https://jamanetwork.com/journals/jamacardiology/fullarticle/2763524?resultClick=1\n  [4]: https://jamanetwork.com/journals/jamaneurology/fullarticle/2764549\n  [5]: https://pubs.rsna.org/doi/10.1148/radiol.2020201561\n  [6]: https://www.ajkd.org/article/S0272-6386(20)30618-1/fulltext\n  [7]: https://www.gavi.org/vaccineswork/long-term-health-effects-covid-19\n  [8]: https://www.bbc.com/future/article/20200622-the-long-term-effects-of-covid-19-infection\n  [9]: https://www.nejm.org/doi/full/10.1056/NEJMc2008597\n  [10]: https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/coronavirus-kidney-damage-caused-by-covid19\n  [11]: https://academic.oup.com/brain/article/doi/10.1093/brain/awaa240/5868408\n  [12]: https://apnews.com/113bef255eb0c33570f77e33515a6ca6\n  [13]: https://pbs.twimg.com/media/Ec6A_F3UwAAf76_.png\n  [14]: https://www.nature.com/articles/s41591-020-0968-3.pdf\n",
+    "DB (French)": [
+      "rec8sg7onKcFdH8Y6"
+    ],
+    "DB (Hindi)": [
+      "recvtv5hqPycd51X9"
+    ],
+    "Media": [
+      {
+        "id": "att6FPXV1lEe51o5i",
+        "url": "https://dl.airtable.com/.attachments/96b233be341cdeff0b73ff3309755d35/ff0dd52c/Slide_1",
+        "filename": "Slide_1",
+        "size": 372129,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/bb4850ee2432e5801d5640c215cf9f64/6ff27450",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/302f5b733e4724fc710d0c27f5ea2e94/2eeb907e",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/1b29bea8598742ceadecfae42dcd9d4e/2b673509",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attCVdVBSWd509qg9",
+        "url": "https://dl.airtable.com/.attachments/1fbabe58265c5f03745752fafb48a661/83fe89fa/Slide_2",
+        "filename": "Slide_2",
+        "size": 243344,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/cb6bb321fe40651df2bee9743425b170/98342a85",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/fd9cc348e0051d1ade29e96496e9168c/7bfb71da",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/685b0cfba397c3d2cedf3519152c89aa/422d504a",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attZLw9m3jGYBx0JE",
+        "url": "https://dl.airtable.com/.attachments/bf258d3c6bf844525ef06eded04b0706/454d81e2/Slide_3",
+        "filename": "Slide_3",
+        "size": 257145,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/289413005c34863773a8d4f521a55005/56f90dac",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f4b67d55329b0ffd12141ea6566923d1/dd49de16",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/605efbb80b3fdad375fff863c1ce8490/0478591d",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attGw7ZamdUlcfxZt",
+        "url": "https://dl.airtable.com/.attachments/8e8058f5baee9a41c25a1b23a6b7d69e/ba6e0d9b/Slide_4",
+        "filename": "Slide_4",
+        "size": 328957,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/8f97eed698b39e9a0f9c6c79046fe3e0/43751ed4",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/941e44d4ef4a3fff651cfda0d719e1be/217f6989",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c46b08882d3bc496cc12e2f08f95e59d/3ebfdb81",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "In translated DBs?": "Yes",
+    "DB (Telugu)": [
+      "rec7OIUaLcLKovGoe"
+    ],
+    "DB (Spanish)": [
+      "recqabOYi72bcGdiQ"
+    ],
+    "DB (Arabic)": [
+      "recKuCJKLPYXqrorF"
+    ],
+    "DB (Bengali)": [
+      "rec8NynUVAdGfxzpR"
+    ],
+    "DB (Portuguese)": [
+      "recJO9f8TumCnfdpr"
+    ],
+    "Last edited (simplified)": "2020-07-14T00:53:17.000Z",
+    "Last edited (experts say)": "2020-07-14T01:02:44.000Z",
+    "Last modified": "2020-07-26"
+  },
+  {
+    "id": "rec2shxecDOlAie8Q",
+    "Question": "What do we know about the Moderna vaccine so far?",
+    "Status": "Published",
+    "Background and context": "Over 165 vaccines against the coronavirus are in development around the world, and approximately 25 are in human trials. Moderna was the first American company to test a vaccine in humans. The genetic vaccine, which uses genetic material from the virus (called mRNA) to prompt the immune system to fight the virus, was developed by researchers at the U.S. National Institute of Allergy and Infectious Diseases. Because this vaccine was the first to be tried in humans as part of a clinical trial, it has been widely discussed and followed, and has gained more media attention recently due to Moderna publishing promising Phase 1 results on July 14, and announcing that they are moving into a Phase 3 trial starting July 27. A phase 2 trial in 600 healthy adults is ongoing. Moderna hopes to have the vaccine ready by early 2021.\n\nThe results from the Moderna Phase 1 trial show that those who received the vaccine produced more antibodies that neutralized the virus **-- **meaning the antibodies successfully defended cells from the virus by blocking any effect the virus has biologically**.** These results have prompted wider discussion of a few open questions regarding the success of this vaccine and the others in development: 1) Can the production of antibodies predict protection against an infection? 2) Can antibodies predict protection against the level of infection, and 3) Will the antibodies produced last for a long time? and if yes, for how long? Research is ongoing to answer these questions. \n",
+    "What our experts say": "Following encouraging results of phase 1 vaccine clinical trials, Moderna's COVID-19 vaccine is expected to start phase 3 trials on July 27, 2020 with 30,000 participants age 18 and older. A phase 2 trial in 600 healthy adults is ongoing. There are typically three phases of vaccine clinical trials, where Phase 3 is the last one conducted on a large amount of people. Phase 3 seeks to confirm results obtained in Phase 1 and Phase 2 with respect to safety and efficacy of the vaccine before approving it for manufacturing and distribution. In the upcoming Moderna Phase 3 trial, patients will be randomly assigned to receive two vaccine doses or a placebo.** **A placebo is a harmless, inactive substance that physically looks like the vaccine being tested, so researchers can make a comparison.\n\nModerna published early results in the New England Journal of Medicine (NEJM) on July 14, 2020, based on Phase 1 trials with 45 participants, between age 18 and 55, receiving two vaccine doses each. The participants were split evenly into 3 groups to test different amounts of the vaccine: 25, 100, and 250 micrograms. While no major safety concerns were found that would stop the trials, over half of the participants experienced side effects such as fatigue, chills, headache, muscle aches, and pain at the injection site. The participants receiving the highest vaccine dose (250 micrograms) had more severe side effects. A phase 2 trial is ongoing and is evaluating doses of 50 and 100 micrograms in participants. The next phase (Phase 3) of the clinical trial will focus on studying the middle vaccine amount (100 micrograms).\n\nBy day 43 of the Phase 1 trial, researchers observed immune responses in all participants that could reduce the ability of SARS-CoV-2, the virus that causes COVID-19, to infect people by 80% or more. By day 57, participants who received 100 micrograms of the vaccine had average levels of neutralizing antibodies that were about twice the average levels found in patients who have recovered from COVID-19. Neutralizing antibodies, made from plasma cells (a type of white blood cell), are a subset of antibodies (special proteins that help the body to fight viruses, bacteria, and other threats that can make people sick) that reduce the ability of a virus to infect cells and cause disease. More research is being conducted to ensure the Moderna vaccine is safe for use by diverse populations, and effective in providing long-term immunity that can protect people from getting sick when exposed to the virus.\n\n",
+    "Glossary Terms": [
+      "rec9qqItwSTjq3Eae",
+      "recMJMGqkERKGcbL5",
+      "recM4p8QOERmuESKr",
+      "recJK5tI9LgCGFRAU",
+      "recJhCnFxAX2jAH0h",
+      "recr3NlaEcaDxSbvI",
+      "reccH9Nhjj0fi18nJ",
+      "recmajcAORyuqhZPc",
+      "recyXylBebc7GlxTi"
+    ],
+    "Other resources": "1. A Study to Evaluate Efficacy, Safety, and Immunogenicity of mRNA-1273 Vaccine in Adults Aged 18 Years and Older to Prevent COVID-19 ([U.S. Clinical Trials Registry][1])\n2. An mRNA Vaccine against SARS-CoV-2 — Preliminary Report ([NEJM][2])\n3. First data for Moderna Covid-19 vaccine show it spurs an immune response ([STAT News][3])\n\n  [1]: https://clinicaltrials.gov/ct2/show/NCT04470427?term=moderna+COVID-19&draw=2&rank=1\n  [2]: https://www.nejm.org/doi/full/10.1056/NEJMoa2022483\n  [3]: https://www.statnews.com/2020/07/14/moderna-covid19-vaccine-first-data-show-spurs-immune-response/\n",
+    "DB (French)": [
+      "recJV1Ww4TI2cqRgE"
+    ],
+    "DB (Hindi)": [
+      "recbR2Bu3ucf0EyPS"
+    ],
+    "In translated DBs?": "Yes",
+    "DB (Telugu)": [
+      "recN1H7KANelBcUvs"
+    ],
+    "DB (Spanish)": [
+      "rec6na1y7IvMpnrp4"
+    ],
+    "DB (Arabic)": [
+      "recqHBWkAqryD8CyT"
+    ],
+    "DB (Bengali)": [
+      "recO0xAuKbGhseNw5"
+    ],
+    "DB (Portuguese)": [
+      "recp18sII5PdAWrwF"
+    ],
+    "Last edited (simplified)": "2020-07-24T19:22:30.000Z",
+    "Last edited (experts say)": "2020-07-24T19:19:09.000Z",
+    "Last modified": "2020-07-24"
   },
   {
     "id": "reckgFENw9gVgnWtC",
@@ -6859,6 +6805,52 @@
     ],
     "Last edited (simplified)": "2020-07-16T23:02:18.000Z",
     "Last edited (experts say)": "2020-07-17T02:23:37.000Z",
+    "Last modified": "2020-07-24"
+  },
+  {
+    "id": "reclucIrtcCSCbOn6",
+    "Question": "Is the Russian vaccine a successful cure for COVID-19? ",
+    "Status": "Published",
+    "Source of the question": [
+      "Fact-checking organization"
+    ],
+    "Country question was sourced from": [
+      "India"
+    ],
+    "Background and context": "Vaccines are not medicines that can treat or cure diseases, as they are made for prevention. Vaccines contain a weakened, killed, or partial form of the same germs that cause the disease in order to stimulate the body's immune response to develop immunity without having to get sick. The World Health Organization (WHO) reports that there are around 160 vaccines for COVID-19 in development as of July 6, 2020, with at least 21 vaccine candidates under clinical evaluation and 139 under pre-clinical evaluation. This includes U.K.'s Oxford University and AstraZeneca vaccine candidate that is currently in Phase 3 clinical trials with 5,000 people in Brazil and 4,000 people in the U.K., Australia's University of Queensland vaccine candidate that started phase one clinical trials with 120 people to be observed over 12 months (including a proportion of people assigned to receive a placebo for comparison), the U.S.'s Inovio Pharmaceuticals vaccine candidate that completed Phase 1 clinical trials with 40 people (reports suggest 94% had \"overall immune responses at week six after two doses\" and after eight weeks the vaccine candidate was considered \"safe and well-tolerated with no serious adverse events\"), and China's CanSino Biologics vaccine candidate that completed phase two clinical trials with 508 people and is planning to begin phase three clinical trials with 40,000 people from multiple countries.\n",
+    "What our experts say": "COVID-19 vaccines are being developed to prevent people from getting the disease, not to treat or cure patients who already have the disease. Many experts continue to caution that a vaccine may not be widely available until the end of 2020 or beginning of 2021, which would already be record-breaking timing for vaccine development.\n\nRecently, Russia's Sechenov First Moscow State Medical University announced that they are completing human clinical trials of a COVID-19 vaccine, with 18 people vaccinated on June 18 (to be discharged on July 15) and 20 people vaccinated on June 23 (to be discharged on July 20). This is one of several human clinical trials for COVID-19 vaccine candidates happening around the world, with some trials involving hundreds or thousands of people over observation periods of many months. Rigorous clinical trials are important to understand whether vaccine candidates are safe and without major negative side effects, as well as whether vaccine candidates are effective and can actually provide immunity for long periods of time.\n\nRussia's announcement of their human clinical trials has been accompanied by projections that the vaccine could be distributed in August and mass produced by private corporations in September. There are many challenges in scaling up from a vaccine candidate that has been tested on a few dozen people in one country to a commercially available vaccine that is available and suitable for millions of diverse people around the world. \n",
+    "Glossary Terms": [
+      "rec9qqItwSTjq3Eae",
+      "recMJMGqkERKGcbL5",
+      "recJK5tI9LgCGFRAU"
+    ],
+    "Variation of the answer depending on country of residence": "\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "\n",
+    "Other resources": "1. Vaccines: The Basics ([U.S. CDC][1])\n2. Russia Coronavirus Vaccine Could Be Distributed Next Month ([Newsweek][2])\n3. China's CanSino in talks for COVID-19 vaccine Phase III trial overseas ([Reuters][3])\n4. First data for Moderna Covid-19 vaccine show it spurs an immune response ([STAT News][4])\n\n  [1]: https://www.cdc.gov/vaccines/vpd/vpd-vac-basics.html\n  [2]: https://www.newsweek.com/russia-coronavirus-vaccine-could-distributed-next-month-1517398\n  [3]: https://www.reuters.com/article/us-health-coronavirus-china-vaccine/chinas-cansino-in-talks-for-covid-vaccine-phase-iii-trial-overseas-idUSKCN24C0HS\n  [4]: https://www.statnews.com/2020/07/14/moderna-covid19-vaccine-first-data-show-spurs-immune-response/\n",
+    "DB (French)": [
+      "recPhec94wi5W2qG6"
+    ],
+    "DB (Hindi)": [
+      "rec9Vj7CIQcChHjo4"
+    ],
+    "In translated DBs?": "Yes",
+    "DB (Telugu)": [
+      "recJiF3jfBEs5h52m"
+    ],
+    "DB (Spanish)": [
+      "rec2E8X7MwVTTsCWY"
+    ],
+    "DB (Arabic)": [
+      "recmYzSTfeRF7dN5N"
+    ],
+    "DB (Bengali)": [
+      "recKhvw3pZ6oWjY3Z"
+    ],
+    "DB (Portuguese)": [
+      "recli6ohnTfk41C3z"
+    ],
+    "Last edited (simplified)": "2020-07-15T02:07:10.000Z",
+    "Last edited (experts say)": "2020-07-15T01:24:12.000Z",
     "Last modified": "2020-07-24"
   },
   {

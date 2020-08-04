@@ -12,7 +12,7 @@
     });
 
     const hitTemplate = function (hit) {
-        const url = `{{ site.baseurl }}${hit.url}`;
+        const url = `{{ site.baseurl }}${hit.url}#${hit.anchor}`;
         let title = '';
         if (hit['Question']) {
             title = hit['Question'];

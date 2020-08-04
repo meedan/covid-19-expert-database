@@ -19,9 +19,6 @@
     "Spanish": [
       "recQfhoZlSo1oOwpa"
     ],
-    "Arabic": [
-      "reck0uz6zmgpizKAE"
-    ],
     "Bengali": [
       "recCagvfdC6anCFqU"
     ],
@@ -51,9 +48,6 @@
     "Spanish": [
       "reckMZnrdvYNqRNmI"
     ],
-    "Arabic": [
-      "recLAjxc2rNOJNVDU"
-    ],
     "Bengali": [
       "recOp4OrXCRJQymee"
     ],
@@ -80,9 +74,6 @@
     ],
     "Spanish": [
       "rec8AF1HoV58wHKJV"
-    ],
-    "Arabic": [
-      "rec6jPj7GNwS9PjZK"
     ],
     "Bengali": [
       "recTbR51Mjn4gR57b",
@@ -263,9 +254,6 @@
     "id": "recUOHoAQtR97mxFC",
     "Term": "prophylaxis",
     "Definition": "According to the U.S. National Institutes of Health, a prophylactic treatment can be described as drugs or other forms of treatment used to prevent the development of a disease in a person who is at risk for but with no prior history of the disease.\n",
-    "Questions using this term": [
-      "recWWXBObp8mm4ii4"
-    ],
     "Status": "Published",
     "French": [
       "recc9KdnVZDoWRiua"
@@ -296,9 +284,6 @@
     "Spanish": [
       "rec6y0A45b1v1uJ7x"
     ],
-    "Arabic": [
-      "recfZJoEv9LAo55gt"
-    ],
     "Bengali": [
       "recyfTJ3t9OZ96dJB"
     ],
@@ -309,9 +294,6 @@
     "id": "recRog4Fq88ayf62O",
     "Term": "treatment",
     "Definition": "In healthcare, a treatment is a therapy that is used to prevent, treat, or cure a particular condition. Treatments include therapies like medications, surgery, psychotherapy, physical therapy, breathing aids, and promotion of healthy diet and lifestyle habits.\n",
-    "Questions using this term": [
-      "recxbPxkhx1NeoE5Q"
-    ],
     "Status": "Published",
     "Hindi": [
       "recdyaq0orFmPP2rV"
@@ -346,9 +328,6 @@
     "Spanish": [
       "recOxCiZtxLRijRIX"
     ],
-    "Arabic": [
-      "recWUpHEJjg5koOcn"
-    ],
     "Bengali": [
       "rec5UN4rM2igwCqSr"
     ],
@@ -375,9 +354,6 @@
     "Spanish": [
       "recF5slQAOiuqoOnS"
     ],
-    "Arabic": [
-      "recQk73V0RnIzaQJo"
-    ],
     "Bengali": [
       "rec4LjHCXWGEoHiGx"
     ],
@@ -403,9 +379,6 @@
     ],
     "Spanish": [
       "recyjyhxcdAU77qlB"
-    ],
-    "Arabic": [
-      "recbyuEpxjJVdr6KI"
     ],
     "Bengali": [
       "recIZgcOnQCXtZZrr"
@@ -553,9 +526,6 @@
     "Spanish": [
       "recl94UEAa5yYi7zD"
     ],
-    "Arabic": [
-      "rec0bsi6XsKmezjkh"
-    ],
     "Bengali": [
       "recP5GccXZBwoESTJ"
     ],
@@ -582,9 +552,6 @@
     "Spanish": [
       "rec27uPxr3icWnwpo"
     ],
-    "Arabic": [
-      "rec90chJ9pvAwHZ3H"
-    ],
     "Bengali": [
       "rec2SFVT4P9JUlBHK"
     ],
@@ -597,8 +564,7 @@
     "Definition": "According to the U.S. National Institutes of Health, clinical trials are research studies performed on people, that are aimed at evaluating a medical, surgical, or behavioral intervention. They are the primary way that researchers find out if a new treatment, like a new drug or diet or medical device (for example, a pacemaker) is safe and effective in people. Often, a clinical trial is used to learn if a new treatment is more effective and/or has less harmful [side effects][1] than the standard treatment. Clinical trials require testing the health intervention in groups of volunteers which include, depending on the trials, healthy individuals and/or patients with a known health issue.\nOther clinical trials test ways to find a disease early, sometimes before there are symptoms. Still, others test ways to prevent a health problem. A clinical trial may also look at how to make life better for people living with a life-threatening disease or a chronic health problem. \nBefore the [U.S. Food and Drug Administration][2] (FDA) approves a clinical trial to begin, scientists perform laboratory tests and studies in animals to test a potential therapy’s safety and efficacy. If these studies show favorable results, the FDA gives approval for the intervention to be tested in humans.\n\n  [1]: https://www.nia.nih.gov/health/safe-use-medicines-older-adults\n  [2]: https://www.fda.gov/\n",
     "Questions using this term": [
       "rechQWZ1ctlJ81Vxn",
-      "rec2shxecDOlAie8Q",
-      "recWWXBObp8mm4ii4"
+      "rec2shxecDOlAie8Q"
     ],
     "Status": "Published",
     "French": [
@@ -613,9 +579,6 @@
     ],
     "Spanish": [
       "recKxnl6uRfcN4LmC"
-    ],
-    "Arabic": [
-      "rec4fWNkAAPHhOEmc"
     ],
     "Bengali": [
       "reccHzZYGTYTahDZS"
@@ -768,9 +731,6 @@
     "id": "recpDS35Y5vAuQ7Oa",
     "Term": "side effects",
     "Definition": "A side effect is a symptom (usually undesirable) that is caused by a medication or therapy that is being used to treat an illness. Side effects vary depending upon the therapy as well as the patient's age, gender, general health, other illnesses or medications, weight, or ethnicity. Often side effects are both minor and temporary, but, in some instances, side effects can be severe and result in permanent disability. A side effect also may be called a side reaction or secondary effect.\n",
-    "Questions using this term": [
-      "recxbPxkhx1NeoE5Q"
-    ],
     "Status": "Published"
   },
   {
@@ -792,9 +752,6 @@
     ],
     "Spanish": [
       "rec9U92a4u2UcMqZg"
-    ],
-    "Arabic": [
-      "rechqq7JtUkh9dIBn"
     ],
     "Bengali": [
       "receGgTWnCKPePPzV"
