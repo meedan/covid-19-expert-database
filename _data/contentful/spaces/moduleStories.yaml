@@ -495,20 +495,20 @@ moduleStories:
   - sys:
       id: 77XtZxUTMsilrHnbjbuVcW
       created_at: !ruby/object:DateTime 2020-07-30 21:15:18.975000000 Z
-      updated_at: !ruby/object:DateTime 2020-07-30 21:31:55.651000000 Z
+      updated_at: !ruby/object:DateTime 2020-07-31 19:51:07.348000000 Z
       content_type_id: story
-      revision: 5
+      revision: 8
     title: In Calling for Equitable Information Access, Let’s Remember the Disability
       Digital Divide
     slug: in-calling-for-equitable-information-access-lets-remember-the-disability
     lead_image:
       sys:
-        id: 3OqDd9766U3ePd4ijNPUd2
-        created_at: !ruby/object:DateTime 2020-07-30 21:27:04.721000000 Z
-        updated_at: !ruby/object:DateTime 2020-07-30 21:27:15.822000000 Z
-      title: Screen Shot 2020-07-30 at 5.26.53 PM
-      description: 
-      url: "//images.ctfassets.net/g118h5yoccvd/3OqDd9766U3ePd4ijNPUd2/6e962a70c8440a04b259b9571e3c3548/Screen_Shot_2020-07-30_at_5.26.53_PM.png"
+        id: 6gBmnjbZSRLEd8udOyil0x
+        created_at: !ruby/object:DateTime 2020-07-31 19:49:48.572000000 Z
+        updated_at: !ruby/object:DateTime 2020-07-31 19:50:56.862000000 Z
+      title: Screen Shot 2020-07-31 at 3.49.15 PM
+      description: 'Four disability symbols used by the U.S. National Park Service '
+      url: "//images.ctfassets.net/g118h5yoccvd/6gBmnjbZSRLEd8udOyil0x/b5177e50cc43529c614abfe3157c1a4c/Disability_symbols.svg"
     body: "Last week I was fortunate to receive corrective surgery on my disabled
       arm, a remnant of an injury from over 9 months ago. When the COVID-19 pandemic
       hit, changing all of our plans, it understandably delayed non-essential medical
@@ -576,7 +576,9 @@ moduleStories:
       and we need to continuously work on addressing ableism and centering disability
       justice. Meedan’s Digital Health Lab is striving to increase access to COVID-19
       information for all, including people with disabilities, and we invite you to
-      join us.\n\nResources:\n\n[https://www.ada.gov/pcatoolkit/chap5toolkit.htm](https://www.ada.gov/pcatoolkit/chap5toolkit.htm)\n\n[https://digital.gov/resources/federal-social-media-accessibility-toolkit-hackpad/](https://digital.gov/resources/federal-social-media-accessibility-toolkit-hackpad/)\n\n[https://www.w3.org/WAI/standards-guidelines/](https://www.w3.org/WAI/standards-guidelines/)\n
+      join us.\n\nResources:\n\n[ADA Best Practices Chapter 5 Website Accessibility](https://www.ada.gov/pcatoolkit/chap5toolkit.htm)\n[Federal
+      Social Media Accessibility Toolkit Hackpad](https://digital.gov/resources/federal-social-media-accessibility-toolkit-hackpad/)\n[W3C
+      Accessibility Standards Overview](https://www.w3.org/WAI/standards-guidelines/)\n
       \n*Dr. Jessica Huang currently serves as a Pandemic Response and Recovery Fellow
       with the Bloomberg City Leadership Initiative at Harvard University’s John F.
       Kennedy School of Government, while working as a consultant for the COVID-19
@@ -595,9 +597,9 @@ moduleStories:
 - sys:
     id: 4hDOrsmcTmB60zhqrzF6Xp
     created_at: !ruby/object:DateTime 2020-07-30 20:31:01.387000000 Z
-    updated_at: !ruby/object:DateTime 2020-07-30 21:47:06.947000000 Z
+    updated_at: !ruby/object:DateTime 2020-07-31 21:31:48.411000000 Z
     content_type_id: moduleStories
-    revision: 0
+    revision: 1
   title: Expert DB Blog
   stories:
   - sys:
