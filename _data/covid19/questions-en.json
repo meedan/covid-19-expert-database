@@ -1,5 +1,60 @@
 [
   {
+    "id": "reckgFENw9gVgnWtC",
+    "Question": "How long is a person infected with COVID-19 contagious?",
+    "Status": "Published",
+    "Category": "Spread",
+    "Subcategory": "On: COVID-19 & contagiousness",
+    "Source of the question": [
+      "Social Media"
+    ],
+    "Country question was sourced from": [
+      "USA"
+    ],
+    "Background and context": "As COVID-19 is a new virus that researchers have been studying for just under six months, we are still learning new information about it every day. This includes how long people might be contagious with the virus, though the evidence we have so far has given us a solid idea of this length of time for the vast majority of patients. There are still some outliers, but most patients fall within these time frames of contagiousness.\n",
+    "What our experts say": "Recent research has shown that a person infected with COVID-19 may be able to spread the virus up to 72 hours before they begin having any symptoms up to 10 days after symptoms completely disappear. New studies have suggested that people are the most infectious during the 48 hours before they start to experience any symptoms. People who have tested positive for COVID-19 but never develop any symptoms over the following 10 days from the time they took the test are likely no longer contagious. There are always exceptions to these guidelines, so experts still recommend completing 14 days of isolation after testing positive for the virus, being exposed to a person who has been infected with COVID-19, or developing any symptoms. The best way to ensure you are no long contagious is by having two negative COVID-19 tests 24 hours apart that are both negative.\n",
+    "Glossary Terms": [
+      "recOcmLKbzV6NUkAH"
+    ],
+    "Variation of the answer depending on country of residence": "No\t\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "contagious",
+      "symptoms"
+    ],
+    "Other resources": "1. Clinical Questions about COVID-19: Questions and Answers ([U.S. CDC][1])\n2. Harvard Medical School questions about COVID-19 exposure ([Harvard Health][2])\n\n  [1]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/faq.html\n  [2]: https://www.health.harvard.edu/diseases-and-conditions/if-youve-been-exposed-to-the-coronavirus\n",
+    "How often revision needed": "Bi-monthly",
+    "DB (French)": [
+      "recUyWCYQ1yfy9JL3"
+    ],
+    "DB (Hindi)": [
+      "rec7shgDZuifvN3Lk"
+    ],
+    "In translated DBs?": "Yes",
+    "DB (Telugu)": [
+      "recU5ImzlcIGvrQol"
+    ],
+    "DB (Spanish)": [
+      "recdrbgnS7Z7jCniX"
+    ],
+    "DB (Arabic)": [
+      "recxLCb9lPVTxnyrM"
+    ],
+    "DB (Bengali)": [
+      "recV4yPjvAaCmtJpY"
+    ],
+    "DB (Portuguese)": [
+      "recw59Hxtujyubnpy"
+    ],
+    "Last edited (simplified)": "2020-06-15T18:54:13.000Z",
+    "Last edited (experts say)": "2020-06-23T00:52:05.000Z",
+    "Last modified": "2020-08-05",
+    "What our experts say wordcount": 146,
+    "Background and context wordcount": 76,
+    "Other resources wordcount": 19,
+    "Wordcount": 241
+  },
+  {
     "id": "recQZ5Gya03eOGb8l",
     "Question": "What is the impact of Vitamin C on COVID-19?",
     "Status": "Published",
@@ -3237,61 +3292,6 @@
     "Background and context wordcount": 130,
     "Other resources wordcount": 27,
     "Wordcount": 249
-  },
-  {
-    "id": "reckgFENw9gVgnWtC",
-    "Question": "How long is a person infected with COVID-19 contagious?",
-    "Status": "Published",
-    "Category": "Spread",
-    "Subcategory": "On: COVID-19 & contagiousness",
-    "Source of the question": [
-      "Social Media"
-    ],
-    "Country question was sourced from": [
-      "USA"
-    ],
-    "Background and context": "As COVID-19 is a new virus that researchers have been studying for just under six months, we are still learning new information about it every day. This includes how long people might be contagious with the virus, though the evidence we have so far has given us a solid idea of this length of time for the vast majority of patients. There are still some outliers, but most patients fall within these time frames of contagiousness.\n",
-    "What our experts say": "Recent research has shown that a person infected with COVID-19 may be able to spread the virus up to 72 hours before they begin having any symptoms up to 10 days after symptoms completely disappear. New studies have suggested that people are the most infectious during the 48 hours before they start to experience any symptoms. People who have tested positive for COVID-19 but never develop any symptoms over the following 10 days from the time they took the test are likely no longer contagious. There are always exceptions to these guidelines, so experts still recommend completing 14 days of isolation after testing positive for the virus, being exposed to a person who has been infected with COVID-19, or developing any symptoms. The best way to ensure you are no long contagious is by having two negative COVID-19 tests 24 hours apart that are both negative.\n",
-    "Glossary Terms": [
-      "recOcmLKbzV6NUkAH"
-    ],
-    "Variation of the answer depending on country of residence": "No\t\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "contagious",
-      "symptoms"
-    ],
-    "Other resources": "1. Clinical Questions about COVID-19: Questions and Answers ([U.S. CDC][1])\n2. Harvard Medical School questions about COVID-19 exposure ([Harvard Health][2])\n\n  [1]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/faq.html\n  [2]: https://www.health.harvard.edu/diseases-and-conditions/if-youve-been-exposed-to-the-coronavirus\n",
-    "How often revision needed": "Bi-monthly",
-    "DB (French)": [
-      "recUyWCYQ1yfy9JL3"
-    ],
-    "DB (Hindi)": [
-      "rec7shgDZuifvN3Lk"
-    ],
-    "In translated DBs?": "Yes",
-    "DB (Telugu)": [
-      "recU5ImzlcIGvrQol"
-    ],
-    "DB (Spanish)": [
-      "recdrbgnS7Z7jCniX"
-    ],
-    "DB (Arabic)": [
-      "recxLCb9lPVTxnyrM"
-    ],
-    "DB (Bengali)": [
-      "recV4yPjvAaCmtJpY"
-    ],
-    "DB (Portuguese)": [
-      "recw59Hxtujyubnpy"
-    ],
-    "Last edited (simplified)": "2020-06-15T18:54:13.000Z",
-    "Last edited (experts say)": "2020-06-23T00:52:05.000Z",
-    "Last modified": "2020-07-24",
-    "What our experts say wordcount": 146,
-    "Background and context wordcount": 76,
-    "Other resources wordcount": 19,
-    "Wordcount": 241
   },
   {
     "id": "recllQqVLGnigxKql",
