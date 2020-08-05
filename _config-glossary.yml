@@ -3,11 +3,11 @@ page_gen-dirs: true
 page_gen:
   - data: 'covid19.glossary-en'
     template: 'term'
-    name: 'Term'
+    name: 'id'
     dir: '/glossary'
   - data: 'covid19.glossary-fr'
     template: 'term'
-    name: 'Term'
+    name: 'id'
     dir: '/fr/glossary'
   - data: 'covid19.glossary-hi'
     template: 'term'

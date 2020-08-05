@@ -68,7 +68,7 @@ contentful:
         content_types:
           page: PageMapper
         destination: 'contentful/spaces/'
-    - contributors:
+    - experts:
         space: ENV_CONTENTFUL_EDB_SPACE_ID
         access_token: ENV_CONTENTFUL_EDB_ACCESS_TOKEN
         cda_query:
