@@ -48,7 +48,21 @@ module Jekyll
         record.delete(:'EN Subcategory')
         record.delete(:'EN Category')
         record.delete(:'EN Question')
+        record.delete(:'DB (French)')
+        record.delete(:'DB (Hindi)')
+        record.delete(:'In translated DBs?')
+        record.delete(:'DB (Telugu)')
+        record.delete(:'DB (Spanish)')
+        record.delete(:'DB (Arabic)')
+        record.delete(:'DB Bengali)')
+        record.delete(:'What our experts say wordcount')
+        record.delete(:'Background and context wordcount')
+        record.delete(:'Other resources wordcount')
+        record.delete(:'Wordcount')
         record.delete(:'EN Topics')
+        record.delete(:'Background last edited (Translation)')
+        record.delete(:'Experts say last edited (translation)')
+        
 
         # Do not send homepage
         return nil if record[:url] == '/'
