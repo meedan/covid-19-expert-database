@@ -71,7 +71,9 @@
       "recjXAWxtpH214q4o",
       "rec3EisBjaWNuh52z",
       "recFM8mp8uXqSjzGE",
-      "recXxSw89QoFa83ZD"
+      "recXxSw89QoFa83ZD",
+      "recBGhn5u9qlxD7a9",
+      "recXNKWtIJKt9GD5v"
     ],
     "EN Term": [
       "rec2UNEXbTkSCx30Q"
@@ -79,7 +81,7 @@
     "EN Definition": [
       "According to the U.S. Centers for Disease Control, transmission refers to the way germs are moved towards a non-infected person. Germs don’t move themselves. Germs depend on people, the environment, and/or medical equipment (in healthcare settings) to move. "
     ],
-    "Last Modified": "2020-07-31T13:50:17.000Z"
+    "Last Modified": "2020-08-06T14:09:32.000Z"
   },
   {
     "id": "recN1KGOfbDmvsGiU",
@@ -164,10 +166,11 @@
   {
     "id": "reccwo5NJI2cHb2Wl",
     "Term": "zoonose",
-    "Definition": "Les zoonoses sont des maladies infectieuses que les animaux peuvent transmettre aux humains, surtout lorsqu'ils sont en étroit contact avec eux. Comme les humains, tous les animaux transportent des germes. Selon les Centres pour le contrôle et la prévention des maladies des États-Unis, ces germes peuvent se propager par contact direct, par contact indirect, par transmission vectorielle (comme un moustique ou une tique), par transmission alimentaire et par transmission hybride (par l'eau).\n",
-    "Status": "Published",
+    "Definition": "Les zoonoses sont des maladies infectieuses que les animaux peuvent transmettre aux humains, surtout quand humains et animaux sont très proches. Comme les humains, tous les animaux sont porteurs des germes. Selon les Centres pour le contrôle et la prévention des maladies des États-Unis, ces germes peuvent se propager des animaux aux êtres humains par contact direct ou indirect, par transmission par vecteurs (tels qu’un moustique ou une tique), par transmission par la nourriture et par transmission hydrique.\n",
+    "Status": "Ready for expert review",
     "Questions using this term": [
-      "recbjW2CdPdJHM0wE"
+      "recbjW2CdPdJHM0wE",
+      "recRCWt4HbmgWqP2h"
     ],
     "EN Term": [
       "recFSOdDjQBqJHnZ9"
@@ -175,7 +178,7 @@
     "EN Definition": [
       "Zoonoses are infectious diseases that animals can transmit to humans, especially when they are in close contact with them. Like humans, all animals carry germs. According to the U.S. Centers for Disease Control, these germs can be spread between animals and humans through direct contact, indirect contact, vector-borne transmission (like a mosquito or tick), foodborne transmission, and waterborne transmission.\n"
     ],
-    "Last Modified": "2020-05-27T21:03:09.000Z"
+    "Last Modified": "2020-08-06T20:12:02.000Z"
   },
   {
     "id": "recbMekD6UXPWJAi6",
@@ -498,10 +501,6 @@
     "Last Modified": "2020-07-29T22:20:47.000Z"
   },
   {
-    "id": "recXI19bI1QI0mvJm",
-    "Last Modified": "2020-07-29T20:19:33.000Z"
-  },
-  {
     "id": "rectGx1TwAGePCyfG",
     "Term": "systèmes de ventilation",
     "Definition": "Les systèmes de ventilation sont les différentes façons de faire voyager l’air de l’extérieur vers l’intérieur des bâtiments, telles que les portes et les fenêtres ouvertes, les systèmes de chauffage, de ventilation et de climatisation.\n",
@@ -548,11 +547,6 @@
       "According to the Centers for Disease Control, \"Community spread means spread of an illness for which the source of infection is unknown. It’s also possible, however, that the patient may have been exposed to a returned traveler who was infected.\" This type of transmissions also means that a person who was infected through community transmission did so without going to the geographical source or region of the outbreak or through close contact with another person, and instead became infected within their community at large but through an unknown source.\n\n"
     ],
     "Last Modified": "2020-07-29T23:58:54.000Z"
-  },
-  {
-    "id": "reczGNJgxAOe027Sa",
-    "Term": "dé",
-    "Last Modified": "2020-07-30T00:01:29.000Z"
   },
   {
     "id": "recsAn4Fibm7Oc0Cd",
@@ -674,5 +668,205 @@
       "According to the National Institutes of Health, \"Autoimmune diseases refer to problems with the immune system, which usually fights off viruses, bacteria, and infection. The problem causes your immune cells to attack your body by mistake. These diseases can affect almost any part of the body.\""
     ],
     "Last Modified": "2020-07-31T21:24:04.000Z"
+  },
+  {
+    "id": "recmKKFz8XmXLoc6X",
+    "Term": "symptômes",
+    "Status": "In progress",
+    "Questions using this term": [
+      "recUyWCYQ1yfy9JL3"
+    ],
+    "EN Term": [
+      "recOcmLKbzV6NUkAH"
+    ],
+    "Last Modified": "2020-08-05T19:55:17.000Z"
+  },
+  {
+    "id": "recKVaN7MrOgiMZhD",
+    "Term": "gaz lacrymogène",
+    "Definition": "Les gaz lacrymogènes sont un groupe de produits chimiques irritants qui sont souvent utilisés pour disperser les foules. Les produits chimiques qui se trouvent dans les gaz lacrymogènes irritent les membranes muqueuses et les yeux, ce qui provoque souvent des larmes, des contractions musculaires, de la toux, des difficultés respiratoires et une irritation de la peau.\n",
+    "Status": "Ready for expert review",
+    "Questions using this term": [
+      "recBGhn5u9qlxD7a9"
+    ],
+    "EN Term": [
+      "recuFmN55qfldR6N8"
+    ],
+    "EN Definition": [
+      "Tear gas is a group of chemical irritants that is often used to disperse crowds. The chemicals in tear gas irritate mucous membranes and the eyes, which often results in tearing, twitching, coughing, difficulty breathing, or skin irritation.\n"
+    ],
+    "Last Modified": "2020-08-05T21:12:34.000Z"
+  },
+  {
+    "id": "recMUzpYJd1T7GT6k",
+    "Term": "ayurvéda",
+    "Definition": "L’ayurvéda est un ancien système de médecine traditionnelle dont les racines historiques en Inde remontent à 3 000 ans. Il vise à promouvoir l’équilibre entre l’intellect, le corps et l’esprit grâce à des remèdes à base de plantes, des régimes alimentaires spéciaux, le yoga et la méditation. Il est couramment pratiqué en Inde et l’on y fait fréquemment référence en Occident en tant que médecine douce de complément.\n",
+    "Status": "Ready for expert review",
+    "Questions using this term": [
+      "rec7BYjKbOXXPXqji"
+    ],
+    "EN Term": [
+      "rec5OdFSvwX0mLrxy"
+    ],
+    "EN Definition": [
+      "Ayurveda is an ancient system of traditional medicine, with historical roots in India dating back 3000 years, which promotes a balance between mind, body, and spirit through herbal remedies, special diets, yoga and meditation. It is commonly practiced in India, and is frequently referred to as complementary and alternative medicine within the United States."
+    ],
+    "Last Modified": "2020-08-05T22:56:31.000Z"
+  },
+  {
+    "id": "recNYSAC0vCubYUTr",
+    "Term": "contrôle des vecteurs",
+    "Last Modified": "2020-08-06T14:08:53.000Z",
+    "Questions using this term": [
+      "recXNKWtIJKt9GD5v"
+    ],
+    "EN Term": [
+      "recGSLUQITD8EpuHR"
+    ],
+    "EN Definition": [
+      "In public health, vector control refers to measures that limit or eradicate insects or other arthropods that transmit diseases. The most common form of vector control is mosquito control through indoor spraying with a residual insecticide or distribution of insecticide-treated bednets to prevent the transmission of malaria."
+    ],
+    "Status": "Ready for expert review",
+    "Definition": "Dans le domaine de la santé publique, le contrôle des vecteurs désigne les mesures qui limitent ou éliminent les insectes et autres arthropodes qui transmettent les maladies. La forme la plus habituelle de contrôle des vecteurs est le contrôle des moustiques grâce à la vaporisation de l’intérieur des bâtiments ou la distribution de moustiquaires à lit traitées à l’insecticide afin de prévenir la malaria.\n"
+  },
+  {
+    "id": "recXKqJcUKINhuCiK",
+    "Term": "métabolisme",
+    "Last Modified": "2020-08-06T15:18:22.000Z",
+    "Questions using this term": [
+      "reccLqkEvDwZa9jyJ"
+    ],
+    "EN Term": [
+      "recBBELvoZKXpdyST"
+    ]
+  },
+  {
+    "id": "recBCgii3PjSX298i",
+    "Term": "état confusionnel aigu",
+    "Last Modified": "2020-08-06T18:16:04.000Z",
+    "Questions using this term": [
+      "reccLqkEvDwZa9jyJ"
+    ],
+    "EN Term": [
+      "recU4JuZ6HJpfe2ZK"
+    ],
+    "EN Definition": [
+      "Delirium refers to confused thinking or reduced awareness of surroundings as a result of a disturbance in mental abilities. It can result from a severe or chronic illness, changes in metabolic balance (such as low sodium), medication, infection, surgery, alcohol or drug use, or withdrawal.\n"
+    ],
+    "Status": "Ready for expert review",
+    "Definition": "Un état confusionnel aigu désigne une confusion mentale et une conscience réduite du milieu environnant causé par une perturbation des capacités mentales. Il peut être la conséquence d’une maladie grave ou sévère, de changements de l’équilibre métabolique (tels qu’une baisse du niveau de sodium), de médicaments, d’une infection, d’une opération chirurgicale, d’une consommation d’alcool ou de drogues, ou d’un sevrage.\n"
+  },
+  {
+    "id": "reclmNjVYuaRWpHYc",
+    "Term": "exposition",
+    "Last Modified": "2020-08-06T18:50:31.000Z",
+    "Questions using this term": [
+      "rec0yX8knrSZ8EaTA"
+    ]
+  },
+  {
+    "id": "recSzsRVZvSvXvlel",
+    "EN Term": [
+      "rec3XmnugOMexQiQA"
+    ],
+    "EN Definition": [
+      "An experimental treatment is a medication or therapy that is being tested to evaluate if it is effective against an illness or medical condition. Experimental treatments may be existing medications or therapies that are known to work in treating one illness that are tried as a treatment for another illness (i.e. when an antiviral medication is used to treat a new virus, early treatments are considered experimental because it is unclear as to whether or not the medication will work). Experimental treatments may also be new medications or treatments that have not been used before. In addition to learning whether experimental treatments treat particular illnesses, the experimental process evaluates the therapies for possible side effects."
+    ],
+    "Last Modified": "2020-08-06T20:11:18.000Z"
+  },
+  {
+    "id": "recXM04o4D9qZQOez",
+    "Term": "Unnamed record",
+    "Last Modified": "2020-08-06T20:11:11.000Z"
+  },
+  {
+    "id": "recj3TAUL1rY5U9fH",
+    "EN Term": [
+      "recOLVaA8YtoF3ofN"
+    ],
+    "EN Definition": [
+      "A medicine is a substance or therapy used to treat an illness, injury, or medical condition. Medicines are often thought of as liquids or pills that are prescribed as treatment, though medicines may also be prescribed in other forms (i.e. inhaled, intravenous, topical creams). The words medication, pharmaceutical, remedy, and drug are commonly used in the same way as the word medicine.\n\nThe practice of medicine is broadly defined as the art and science of maintaining and promoting health, and preventing and curing disease."
+    ],
+    "Last Modified": "2020-08-06T20:11:21.000Z"
+  },
+  {
+    "id": "recM647kH2iMZKYRK",
+    "EN Term": [
+      "recRog4Fq88ayf62O"
+    ],
+    "EN Definition": [
+      "In healthcare, a treatment is a therapy that is used to prevent, treat, or cure a particular condition. Treatments include therapies like medications, surgery, psychotherapy, physical therapy, breathing aids, and promotion of healthy diet and lifestyle habits."
+    ],
+    "Last Modified": "2020-08-06T20:11:24.000Z"
+  },
+  {
+    "id": "recUR2oz4oTSgLd0D",
+    "EN Term": [
+      "rec9qqItwSTjq3Eae"
+    ],
+    "EN Definition": [
+      "A vaccine is a product made to help the body to recognize and fight viruses or bacteria. It may be made of killed, treated, or live microorganisms. According to the World Health Organization, \"vaccination is one of the most effective ways to prevent diseases,\" and, currently, vaccines help protect against 25 different diseases though there is no vaccine for COVID-19 at this time."
+    ],
+    "Last Modified": "2020-08-06T20:11:28.000Z"
+  },
+  {
+    "id": "recxWFheQ0Po29dec",
+    "EN Term": [
+      "recx1966VLqkIB9Lj"
+    ],
+    "EN Definition": [
+      "Pre-symptomatic infections occur when a person is infected with an illness but has not experienced any symptoms yet.\n"
+    ],
+    "Last Modified": "2020-08-06T20:11:42.000Z"
+  },
+  {
+    "id": "recqx10ln3a5rpAhO",
+    "EN Term": [
+      "rec4gz4UIxctLqy94"
+    ],
+    "EN Definition": [
+      "A hypothesis is an idea or prediction based on known facts or observations. Once a hypothesis has been made, it is then further tested using scientific processes to determine if the idea is correct, partially correct, or incorrect in the given situation. A hypothesis may also be described as an educated guess, proposition, prediction, or tentative explanation."
+    ],
+    "Last Modified": "2020-08-06T20:11:46.000Z"
+  },
+  {
+    "id": "rec9Q7nOhZ1jhFHrf",
+    "EN Term": [
+      "recpDS35Y5vAuQ7Oa"
+    ],
+    "EN Definition": [
+      "A side effect is a symptom (usually undesirable) that is caused by a medication or therapy that is being used to treat an illness. Side effects vary depending upon the therapy as well as the patient's age, gender, general health, other illnesses or medications, weight, or ethnicity. Often side effects are both minor and temporary, but, in some instances, side effects can be severe and result in permanent disability. A side effect also may be called a side reaction or secondary effect."
+    ],
+    "Last Modified": "2020-08-06T20:11:50.000Z"
+  },
+  {
+    "id": "recKgDIquwTvB5xPR",
+    "EN Term": [
+      "recwhS0IsusP5qFNc"
+    ],
+    "EN Definition": [
+      "A randomized controlled trial (RCT) is a type of scientific experiment where a group of people are randomly divided into multiple groups, and the groups are treated differently during the study period, to see if the experimental treatments change the participants' health. \n\nIn RCTs, there is at least one control group that receives either the standard (usual or non-experimental treatment), a placebo treatment, or no treatment at all. There is also at least one experimental group that receives the test therapy that may include a new medication, a different medication dose, targeted education, or other intervention.  All of the participants in an RCT are monitored during the study to determine the experimental/test therapy changes health outcomes; some therapies may improve or worsen health."
+    ],
+    "Last Modified": "2020-08-06T20:12:05.000Z"
+  },
+  {
+    "id": "recR4kNk3CkZbxxGG",
+    "EN Term": [
+      "recCEG85awzcotyRi"
+    ],
+    "EN Definition": [
+      "N95 masks (or N95 respirators) are special masks that protect the wearer from breathing in very small airborne particles. They are regulated to ensure that they meet strict standards for safety. Other countries use other codes for masks that meet the same requirements as N95 masks in the U.S.; some examples of other N95-type masks include the KN95 in China and FFP2 in European countries.\n\nThe U.S. Centers for Disease Control and Prevention has stated the N95 masks should not be used by the general public to prevent themselves from COVID-19 because N95 masks should be reserved for health care workers and medical first responders."
+    ],
+    "Last Modified": "2020-08-06T20:12:09.000Z"
+  },
+  {
+    "id": "recjKH0OlRaHf6RVO",
+    "EN Term": [
+      "recde2XyBQC0lDace"
+    ],
+    "EN Definition": [
+      "Supportive care is medical care that treats symptoms of illness (i.e. fever, breathing problems, diarrhea) without treating or curing the disease or illness that is causing the symptoms. Supportive care may include medications, breathing treatments, physical therapy, psychotherapy, or other treatments.  Supportive therapy may be provided in the hospital, clinic, or at home."
+    ],
+    "Last Modified": "2020-08-06T20:15:30.000Z"
   }
 ]

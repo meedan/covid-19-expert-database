@@ -10,10 +10,16 @@ require 'json'
 
 Jekyll::Hooks.register :site, :after_init do |site|
 
+	def self.value_for(options, key)
+		potential_value = options[key]
+		return ENV[potential_value.gsub('ENV_', '')] if !potential_value.nil? && potential_value.start_with?('ENV_')
+		potential_value
+	end
+
 	site.read
 
 	@airtable_config = Jekyll.configuration({})['airtable']
-	@api_key = @airtable_config['api_key']
+	@api_key = self.value_for(@airtable_config, 'api_key')
 
 	def get_table(table_id, sheet, view, offset=nil)
 	  uri = URI("https://api.airtable.com/v0/#{table_id}/#{sheet}?view=#{view}") # Pulls from specified view, should match sorting of that view.
@@ -63,7 +69,7 @@ Jekyll::Hooks.register :site, :after_init do |site|
 
 			data = []
 
-			response = get_table(table['app_id'], URI.escape(sheet['name']), URI.escape(sheet['view']))
+			response = get_table(self.value_for(table, 'app_id'), URI.escape(sheet['name']), URI.escape(sheet['view']))
 			records = JSON.parse(response)
 
 			for record in records["records"]
@@ -76,11 +82,11 @@ Jekyll::Hooks.register :site, :after_init do |site|
 					if key =~ /\(internal\)/i
 						record['fields'].delete(key)
 					elsif key =~ /English/i
-						record['fields'].delete(key)	
+						record['fields'].delete(key)
 					elsif key =~ /without/i
 						record['fields'].delete(key)
 					elsif key =~ /Assigned/i
-						record['fields'].delete(key)		
+						record['fields'].delete(key)
 					else
 						target[key.strip] = record['fields'].delete(key)
 					end

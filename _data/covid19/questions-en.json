@@ -1,5 +1,909 @@
 [
   {
+    "id": "recDOeKU0wK73R15D",
+    "Question": "Do positivity rates show herd immunity has been reached?",
+    "Status": "Published",
+    "Category": "Immunity",
+    "Subcategory": "On: COVID-19 & herd immunity",
+    "Source of the question": [
+      "Partner Organization"
+    ],
+    "Country question was sourced from": [
+      "USA"
+    ],
+    "Background and context": "A recent Facebook post from August 4, 2020, falsely claimed that the current national positivity rate demonstrates that herd immunity has been reached for COVID-19. The post attempted to analyze a positivity rate graph from Johns Hopkins, but also included the author's own insights about testing, population level risk assessments, and added in 'bumps' to describe what he assumed were increases in testing. Though the post noted that the author believed an increase in positivity rates were being reported for political reasons (extending the shutdowns and requiring continued mask use) there is no evidence to support this claim. Additionally, there is no evidence to support claims that we've reached herd immunity, that COVID-19 positivity rates indicate anything about a population's immunity, or that 60% of a population needs to be infected in order to reach herd immunity for the virus. \n",
+    "What our experts say": "No, positivity rates of COVID-19 are not an indication of herd immunity. The rate of positivity in a community is defined as the percentage of total COVID-19 tests that come back positive out of all the people who have been tested in that community or population within a given time period. Positivity rates can indicate an increasing outbreak, if the rate of positive tests increases while the amount of testing stays the same. A positivity rate can also indicate that not enough tests are being conducted, if more tests come back with positive results but tests were conducted on a smaller percentage of the population than the week before. Neither of these have anything to do with herd immunity.\n\n\"Herd immunity\" refers to a given percentage of people that need to become immunized to a virus, through vaccines or through becoming infected in a natural setting, against a virus in order to provide safety for an entire population—i.e. the herd. It's the idea that if most people are immune, then the rate of transmission will be low or non-existent. COVID-19 is not vaccine-preventable at this time and we know very little about how we become immune to the virus. Herd immunity would require a large majority of the population to become infected with the virus and obtain long-term immunity to COVID-19 — but since we know so little about long-term immunity right now, we can't say anything about herd immunity in relation to COVID-19.\n\nPercent positive rates of COVID-19 are not being used to determine herd immunity in a community because we know so little about immunity in general, and because positive rates can mean a wide variety of things. If there is a higher percentage of positive test results in a region, this is not indicative of any potential for herd immunity, because evidence to support long-term immunity is lacking.\n",
+    "Glossary Terms": [
+      "rec0zhEV63ySy7APc",
+      "rec4kgXUEMkPzbQvP"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "herd immunity",
+      "positivity rate",
+      "percent positive"
+    ],
+    "Other resources": "1. \"Herd Immunity\": A Rough Guide ([CID][1])\n2. Vaccine refusal and herd immunity ([Lancet ID][2])\n3. COVID and Herd Immunity ([The Atlantic][3]) \n\n  [1]: https://academic.oup.com/cid/article/52/7/911/299077\n  [2]: https://www.sciencedirect.com/science/article/abs/pii/S1473309915000535\n  [3]: https://www.theatlantic.com/health/archive/2020/07/herd-immunity-coronavirus/614035/\n",
+    "Last edited (simplified)": "2020-08-05T22:00:43.000Z",
+    "Last edited (experts say)": "2020-08-06T20:53:37.000Z",
+    "Last modified": "2020-08-06",
+    "What our experts say wordcount": 309,
+    "Background and context wordcount": 140,
+    "Other resources wordcount": 21,
+    "Wordcount": 470,
+    "Rollup test 2": [
+      "recV4FafwNfu8pk9e"
+    ]
+  },
+  {
+    "id": "rec5CB2EhWwQ6bTAh",
+    "Question": "What is COVID-19 delirium?",
+    "Status": "Published",
+    "Source of the question": [
+      "Social Media"
+    ],
+    "Country question was sourced from": [
+      "USA"
+    ],
+    "Background and context": "Recent studies have shown a concerning trend of delirium in COVID-19 patients, without predisposition for age or gender. Often, this manifests in the central nervous system. Unfortunately, documentation is often missed in 75% of delirium cases, which has been challenging for the identification of COVID-19 related incidents. As more research is pointing to COVID-19 delirium being a trend in hospitalized patients, there is a need to ensure documentation occurs. \n",
+    "What our experts say": "COVID-19 delirium occurs in patients who have a sudden onset of mental disturbances that results in confusion and a lack of accurate perceptions regarding their environment and current state. Delirium itself is a change in mental abilities that results in the inability to think clearly, reduced awareness, and often emotional shifts. Delirium often occurs rapidly in patients and is frequently attributed to severe or chronic illness, changes in metabolism (the reactions and processes in your body that convert food into energy), infections, and other factors. Researchers and doctors have recently drawn attention to the fact that regardless of age, potentially 1/3 of COVID-19 patients can develop symptoms of delirium. More recent studies, though, have seen delirium in 20-30% of hospitalized patients with higher rates occurring in critically ill patients (upwards of 60-70%). Delirium can lead to longer hospital stays, which increases the risk for complications. \n",
+    "Glossary Terms": [
+      "recBBELvoZKXpdyST"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "symptoms"
+    ],
+    "Other resources": "1. COVID-19 Delirium research paper, ([Critical Care][1]) \n2. Delirium: a missing piece in the COVID-10 pandemic puzzle ([Age Aging][2])\n\n  [1]: https://link.springer.com/content/pdf/10.1186/s13054-020-02882-x.pdf\n  [2]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7239228/\n",
+    "DB (French)": [
+      "reccLqkEvDwZa9jyJ"
+    ],
+    "DB (Hindi)": [
+      "rec15gZ2TyiR3EZLv"
+    ],
+    "Media": [
+      {
+        "id": "atte4AFr2Bz2FYPrs",
+        "url": "https://dl.airtable.com/.attachments/2a2f60db24fd332cdb24185610c886a6/357fac57/Slide1.png",
+        "filename": "Slide 1.png",
+        "size": 146906,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/eba136ce5826341ca99b8ef43d11b89f/42d0d0ab",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/9d508c3be461b5b8ebab69106c1fe6ac/0b045287",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/60adb4aabcf6382cca32c2ed811a07db/d39de6d9",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attQd4nSfE2DNZjGr",
+        "url": "https://dl.airtable.com/.attachments/db1a342fd6c1d31d00123d3dd2f980b5/dbe86ecf/Slide2.png",
+        "filename": "Slide 2.png",
+        "size": 143357,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/76b3418abe72681f7b0e63bf6274e64c/a222d41d",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c8d245ee2dd01280e151b630513c79e2/4f195547",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/01d2e99d5f48ae198db6ff0315ab3b66/4501802c",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attMa2gWdjf8ImVow",
+        "url": "https://dl.airtable.com/.attachments/8f8df8807eedd112d1794651e859441d/39fedbca/Slide3.png",
+        "filename": "Slide 3.png",
+        "size": 136469,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b3f689ad1dc7b72c19e5965ce3161f3d/bd627898",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/89a1349c979899256333c49367253496/7b559457",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/0087709732ff5649e94af9b78b43b3a2/25c18269",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attmK30idOuAqzCBn",
+        "url": "https://dl.airtable.com/.attachments/9e4d541e8c7ff343a93cbb53e2f1f7a1/e8a1e747/Slide4.png",
+        "filename": "Slide 4.png",
+        "size": 158379,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/852b6a807021491f5a658e1e970f2a49/b75f50dd",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/24d0b6b6280caf20374a4435562f940c/bb27666b",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/79bd14e33c7683123ec68d66f4383739/fefd9386",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attsfYhI6Frw6fDl0",
+        "url": "https://dl.airtable.com/.attachments/f9e73421540bc5e1f6f0ea40671b989e/2f164b89/Slide5.png",
+        "filename": "Slide 5.png",
+        "size": 179371,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e68d058fff5d645d0f44acd877fa9a7b/376ee981",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d46fec0cbbc1d882fb8cd6fcb723bc19/e50df18b",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/bf35fea483355fa9032f659c077b9669/4f32b3ff",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "In translated DBs?": "Yes",
+    "DB (Telugu)": [
+      "recxHype7A5IeDWpA"
+    ],
+    "DB (Spanish)": [
+      "recQ31j2Evm92Otjc"
+    ],
+    "DB (Arabic)": [
+      "recanseO7diVgzEs1"
+    ],
+    "DB (Bengali)": [
+      "recyGoSYhYxE5FPqd"
+    ],
+    "DB (Portuguese)": [
+      "rec9HZKcfSGAdntqN"
+    ],
+    "Last edited (simplified)": "2020-08-06T20:54:08.000Z",
+    "Last edited (experts say)": "2020-06-24T23:07:20.000Z",
+    "Last modified": "2020-08-06",
+    "What our experts say wordcount": 146,
+    "Background and context wordcount": 70,
+    "Other resources wordcount": 19,
+    "Wordcount": 235,
+    "Rollup test 2": [
+      "recR8Xa8PNvTsbyZg"
+    ]
+  },
+  {
+    "id": "recLb3N3jf8NIqfhK",
+    "Question": "How effective is it to use only a face shield to protect from COVID-19?",
+    "Status": "Published",
+    "Source of the question": [
+      "Social Media"
+    ],
+    "Country question was sourced from": [
+      "Nigeria"
+    ],
+    "Background and context": "Face shields are a type of personal protective equipment (PPE), along with masks, protective eye goggles, gloves, gowns, and other equipment. Proper use of PPE can help reduce the spread of COVID-19, yet some people are asking experts about minimum PPE recommendations. This may be due to access barriers (ex. cost, limited supply), use barriers (ex. heat, difficulty breathing, physical discomfort, aesthetics), cleaning and maintenance barriers, or other reasons. Face shields are easier to wear, disinfect, and reuse than cloth or surgical masks. It is important to remember that PPE is a risk reduction measure that lowers the chances of infection, which is different from risk avoidance measures (completely eliminating risks is not always possible, particularly when exposed to other people who could transmit COVID-19).\n",
+    "What our experts say": "Wearing only a face shield to protect from COVID-19 is not as effective as wearing a mask, or wearing a face shield in combination with a mask. \nCloth face masks primarily protect people in close proximity to the mask wearer. This is because face masks cover a person's nose and mouth from all sides and are meant to trap droplets that are released when the mask wearer speaks, sneezes, coughs or sings. This is particularly relevant in the case of COVID-19 where many infected patients are asymptomatic or pre-symptomatic and therefore can spread the virus to others without feeling any symptoms. Face masks also offer some protection to the wearer by filtering out virus particles trying to enter and reducing exposure to the virus coming from other people.\nFace shields primarily protect the person wearing it. This is because face shields have the advantage of protecting the entire face, including the eyes, and often prevent people from touching their faces. However, due to insufficient research to date, we do not know how effective face shields are at protecting people in close proximity to the person wearing the face shield, in case that person is infected with COVID-19. \n",
+    "Glossary Terms": [
+      "recuQuM83b2X3K9Bx"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "prevention",
+      "transmission",
+      "spread"
+    ],
+    "Other resources": "1. You're getting used to masks. Will you wear a face shield? ([NYT][1])\n2. The growing scientific evidence for masks to fight Covid-19** **([Vox][2])\n3. CDC calls on Americans to wear masks to prevent COVID-19 spread ([U.S. CDC][3])\n\n\n  [1]: https://www.nytimes.com/2020/05/24/health/coronavirus-face-shields.html\n  [2]: https://www.vox.com/future-perfect/21299527/masks-coronavirus-covid-19-studies-research-evidence\n  [3]: https://www.cdc.gov/media/releases/2020/p0714-americans-to-wear-masks.html?utm_source=Global+Health+NOW+Main+List&utm_campaign=ba35be8398-EMAIL_CAMPAIGN_2020_07_14_03_18&utm_medium=email&utm_term=0_8d0d062dbd-ba35be8398-860399\n",
+    "DB (French)": [
+      "recPuIYuQ8nmsHG0U"
+    ],
+    "DB (Hindi)": [
+      "recOSiq7r71gpwfWY"
+    ],
+    "In translated DBs?": "Yes",
+    "DB (Telugu)": [
+      "recVWneaXP3VBTpTi"
+    ],
+    "DB (Spanish)": [
+      "receiQ8YuKkmp4WNU"
+    ],
+    "DB (Arabic)": [
+      "recyCh3KXsg8DP7WJ"
+    ],
+    "DB (Bengali)": [
+      "recWVdHU7dvRsViUV"
+    ],
+    "DB (Portuguese)": [
+      "recxWOz857ENADWUv"
+    ],
+    "Last edited (simplified)": "2020-07-01T01:07:44.000Z",
+    "Last edited (experts say)": "2020-07-30T15:11:56.000Z",
+    "Last modified": "2020-08-06",
+    "What our experts say wordcount": 197,
+    "Background and context wordcount": 125,
+    "Other resources wordcount": 36,
+    "Wordcount": 358
+  },
+  {
+    "id": "rec7awl8Ed6xdZIiv",
+    "Question": "Does Vitamin D help prevent or treat COVID-19?",
+    "Status": "Published",
+    "Subcategory": "On: COVID-19 & Vitamin D",
+    "Source of the question": [
+      "Social Media"
+    ],
+    "Country question was sourced from": [
+      "USA"
+    ],
+    "Background and context": "Vitamin D is an essential nutrient, which means your body needs it but cannot make it on its own. This is why people have to get their Vitamin D from foods like salmon or egg yolks, supplements, or from spending short amounts of time in the sun. Vitamin D helps ensure your body's immune system and its cells are working well so they can respond to infections and viruses. In addition to its help in retaining calcium levels in the body and promoting bone health, Vitamin D can also potentially reduce cancer cell growth, help minimize inflammation, and help control infections. However, there is no evidence that Vitamin D can prevent or treat COVID-19, despite its other benefits in the body.\n",
+    "What our experts say": "It is too early to tell whether or not Vitamin D can help treat COVID-19. As of now, Vitamin D has not been tested for its effectiveness in treating COVID-19 patients, so there is no evidence that it can prevent or treat the virus. A recent study looked at data from 20 European countries and noted that in places where more people had cases of Vitamin D deficiency, they also had higher rates of COVID-19 cases and deaths. While this study suggested a possible relationship between lower levels of Vitamin D and poor COVID-19 health outcomes, there is no evidence that Vitamin D levels actually caused more cases or deaths related to COVID-19. \n\nOther studies have noted potential links between low Vitamin D levels and COVID-19, but no consensus has been reached on what the potential impact of the vitamin is on the virus. Researchers are now working on several studies to determine if Vitamin D can be effective in treating COVID-19.\n",
+    "Glossary Terms": [
+      "recnFUXyIZy81Rj1I"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "Calcium",
+      "Vitamin D",
+      "prevention",
+      "treatment",
+      "homeopathic"
+    ],
+    "Other resources": "1. Lancet review on Vitamin D and COVID-19 outcomes ([The Lancet][1])\n2. Aging Clinical and Experimental Research study on Vitamin D and the prevention of COVID-19 ([Aging][2])\n3. BMJ study on Vitamin D and COVID-19 ([BMJ][3])\n4. Pre-print study of patterns of COVID-19 mortality and Vitamin D ([SSRN][4])\n5. Pre-print study on the possible role of Vitamin D and cytokine storms in COVID-19 ([Medrxiv][5])\n6. Harvard review of Vitamin D ([HSPH][6])\n7. Journal of Investigative Medicine review of Vitamin D and the immune system ([JIM][7])\n\n  [1]: https://www.thelancet.com/journals/landia/article/PIIS2213-8587(20)30183-2/fulltext\n  [2]: https://link.springer.com/article/10.1007%2Fs40520-020-01570-8\n  [3]: https://nutrition.bmj.com/content/early/2020/05/15/bmjnph-2020-000089\n  [4]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3585561\n  [5]: https://www.medrxiv.org/content/10.1101/2020.04.08.20058578v4\n  [6]: https://www.hsph.harvard.edu/nutritionsource/vitamin-d/\n  [7]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3166406/\n",
+    "DB (French)": [
+      "recgur7UqWESGFk8T"
+    ],
+    "DB (Hindi)": [
+      "reco1sk8QaOHSDsDk"
+    ],
+    "In translated DBs?": "Yes",
+    "DB (Telugu)": [
+      "recpDxEPAA9r6srCb"
+    ],
+    "DB (Spanish)": [
+      "recIZ0yD7vqSUDYwN"
+    ],
+    "DB (Arabic)": [
+      "rec2jrtpAdmE8o9FC"
+    ],
+    "DB (Bengali)": [
+      "recqCn7zKYBnXukDO"
+    ],
+    "DB (Portuguese)": [
+      "rec1DYZNISKj5cYDo"
+    ],
+    "Last edited (simplified)": "2020-08-06T20:51:07.000Z",
+    "Last edited (experts say)": "2020-06-04T16:24:46.000Z",
+    "Last modified": "2020-08-06",
+    "What our experts say wordcount": 161,
+    "Background and context wordcount": 120,
+    "Other resources wordcount": 79,
+    "Wordcount": 360
+  },
+  {
+    "id": "recDcWzSA3u9hSsLZ",
+    "Question": "Should people with asthma wear face masks? ",
+    "Status": "Published",
+    "Background and context": "Public health organizations around the world recommend the use of masks and face coverings. There are some exceptions, such as for children under 2 years of age and people with medical conditions that can make it difficult to breathe through a mask. However, people with asthma have generally not been included as one of these exceptions.\n\nIn fact, the U.S. Centers for Disease Control and Prevention (CDC) warn that having moderate-to-severe asthma may increase the risk of severe illness from COVID-19 and recommend that people with asthma avoid potential triggers for their condition, keep a 30-day supply of necessary medications (ex. inhalers), and consult their doctor regarding any concerns about their condition. For cleaning of indoor spaces with disinfectants, people with asthma can request assistance and make sure they are not in the room during cleaning. People with asthma should continue following guidelines when possible for using masks in public, in combination with social distancing and hand washing.\n\nThe American College of Allergy, Asthma, and Immunology provides additional information about the use of masks for people with asthma: \"There is no evidence that wearing a face mask makes asthma worse. However, it is possible that some people with asthma may feel it is more difficult to get an adequate breath while wearing a face mask. While we support and advocate that people follow U.S. CDC recommendations, some people with asthma do not feel they can breathe adequately while wearing a mask...If you feel you can only wear a mask for a short time, plan for any necessary outings to public places to be as short as possible and to wear your mask as long as possible. It may be helpful to try different face coverings at home to find one that is most comfortable, and practice wearing the mask at home for a period before your next outing. Always use a clean mask for each outing.\"\n",
+    "What our experts say": "People with asthma should wear face masks. The U.S. Centers for Disease Control and Prevention (U.S. CDC) note that people with moderate to severe asthma might have an increased risk of having a severe case of COVID-19, therefore, wearing a mask is an important way to prevent the spread of the virus.\n\nStudies also show that wearing a mask does not reduce oxygen levels and should not make breathing more difficult. The World Health Organization (WHO) recommends the use of face masks in public and when social distancing is not possible. However, every patient is different and if you have been diagnosed with asthma, have a severe case, have difficulty breathing normally, or have difficulty breathing with a mask, you should speak with your doctor about options for protecting yourself and others from COVID-19. \n",
+    "Glossary Terms": [
+      "recqnngV0Ej32WU8H",
+      "reclKahoPRbBLqUKg",
+      "recVIQ6pNiGYNEgqk"
+    ],
+    "Other resources": "1. People with certain medical conditions ([U.S. CDC][1])\n2. Recommendations on the use of face masks to reduce COVID-19 transmission ([American College of Allergy, Asthma and Immunology][2])\n\n  [1]: https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-with-medical-conditions.html#:~:text=Having moderate-to-severe asthma,severe illness from COVID-19.&text=Follow your Asthma Action Plan,is another word for corticosteroids).\n  [2]: https://acaai.org/news/recommendations-use-face-masks-reduce-covid-19-transmission\n",
+    "Last edited (simplified)": "2020-08-06T20:19:29.000Z",
+    "Last edited (experts say)": "2020-08-06T20:14:35.000Z",
+    "Last modified": "2020-08-06",
+    "What our experts say wordcount": 134,
+    "Background and context wordcount": 313,
+    "Other resources wordcount": 26,
+    "Wordcount": 473
+  },
+  {
+    "id": "rec4vIYYUif72tS5C",
+    "Question": "Why are scientists warning about an increase in zoonotic diseases impacting humans?",
+    "Status": "Published",
+    "Source of the question": [
+      "Social Media"
+    ],
+    "Country question was sourced from": [
+      "USA"
+    ],
+    "Background and context": "Zoonotic diseases, like the virus SARS-CoV-2 that causes COVID-19 and Ebola virus disease, have shown a propensity for not only spilling over from animal reservoirs into humans, but sustained human to human transmission. These factors are influenced by several variables, such as climate change, human development and encroachment on natural environments. As a result, more focus as been placed on One Health, which underscores the relationship between human, animal, and environmental health. \n",
+    "What our experts say": "Zoonotic diseases are infectious diseases that can spread from animals to humans. \"Spillover events\" (when a disease jumps from an animal to a human) have been known to cause outbreaks, like ebola virus disease. Since some infectious diseases can live within an animal without causing any illness to it, certain interactions with an infected animal can result in transmission to humans. \nRoughly 6 out of 10 known infectious diseases in people are zoonotic. Of all the emerging infectious diseases (a disease that has newly appeared in a population or has increased incidence in recent years), 3 out of 4 come from animals. Scientists are increasingly worried about zoonotic diseases as they are growing in frequency. In some cases which animal transferred infection to humans is unknown, like SARS-CoV-2, the virus that causes COVID-19. As humans expand in the environment through globalization and infringement on undeveloped natural environments, like forests or jungles, the risk for exposure to zoonotic disease increases. Similarly, factors such as the exotic animal trade, the impacts of climate change, and the expansion of animal markets can cause zoonotic diseases to spread more rapidly and widely.\n\n",
+    "Glossary Terms": [
+      "rece5ZCMacYxbgECP"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "contagion",
+      "infection",
+      "prevention"
+    ],
+    "Other resources": "1. 8 Zoonotic Diseases Shared Between Animals and People of Most Concern in the U.S. ([U.S. CDC][1]) \n2. Zoonotic disease: emerging public health threats in the Region ([WHO][2]) \n\n  [1]: https://www.cdc.gov/media/releases/2019/s0506-zoonotic-diseases-shared.html\n  [2]: http://www.emro.who.int/about-who/rc61/zoonotic-diseases.html\n",
+    "DB (French)": [
+      "recRCWt4HbmgWqP2h"
+    ],
+    "DB (Hindi)": [
+      "rec8K7WMOUHrc6dvt"
+    ],
+    "Media": [
+      {
+        "id": "attbVcH4KJFOeSU2v",
+        "url": "https://dl.airtable.com/.attachments/f692796c2e8e321242712f56bd7f260c/c4ac8760/Slide_1",
+        "filename": "Slide_1",
+        "size": 307755,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f9f02baf949f3f4ab341e48d2618d90a/37178816",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ad07930621b5316a59b6184023690988/50753e56",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/75ef7a4c94013b4b3f7479b39ab39d83/23e73fbd",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attq6Rr5W6uva9kdF",
+        "url": "https://dl.airtable.com/.attachments/9d7b3f58d18fdfd5adbb2dbe9f2e4f87/8657f622/Slide_2",
+        "filename": "Slide_2",
+        "size": 213108,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3c3ef77b33cdd1345d1f4dae5cb84921/3e50c669",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/750ceaa92fb26033ba0a2cf5df1d1f70/95f4b560",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f0ccf04af23cf07ea7bc0f1a402f685a/87a0fc6b",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attLPithBa75OS67E",
+        "url": "https://dl.airtable.com/.attachments/8c877711cbce0ffe60f4b0683fbda997/c914d4c4/Slide_3",
+        "filename": "Slide_3",
+        "size": 219447,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/1e5e9855a296736e6d9fbd17374444d3/1aa3591e",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5df6bb680824449e2dc0ffcf489749a3/2759041a",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/dd13640e37867871ebaaacdb4ba24d27/ccac6274",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attybCxJan6TvZxVH",
+        "url": "https://dl.airtable.com/.attachments/c59a24803a0ca63731ee2dbf13cfb278/abecaf85/Slide_4",
+        "filename": "Slide_4",
+        "size": 211193,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ef7f4a1895c2c9f4eb46fb2b496c0a8d/a23517c6",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5e4ab77b779c0903546c3d1e28f6132f/b063c182",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c55adede91e33f71a8ff51f3013a4bca/7b1c4b84",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "In translated DBs?": "Yes",
+    "DB (Telugu)": [
+      "recPYRE1Jr3zrqfO1"
+    ],
+    "DB (Spanish)": [
+      "rec8kkyPgmk0fBMID"
+    ],
+    "DB (Arabic)": [
+      "recsELtBJ4gMtmXRs"
+    ],
+    "DB (Bengali)": [
+      "recQXH7LTPvvis8PE"
+    ],
+    "DB (Portuguese)": [
+      "recrYiZZRJErqaMPe"
+    ],
+    "Last edited (simplified)": "2020-06-19T00:16:48.000Z",
+    "Last edited (experts say)": "2020-06-23T11:59:00.000Z",
+    "Last modified": "2020-08-06",
+    "What our experts say wordcount": 188,
+    "Background and context wordcount": 73,
+    "Other resources wordcount": 29,
+    "Wordcount": 290
+  },
+  {
+    "id": "reccgTQWarmDQ9sQ9",
+    "Question": "Will recent protests lead to an outbreak or second wave of infections?",
+    "Status": "Published",
+    "Subcategory": "On: COVID-19 & second wave of infections",
+    "Source of the question": [
+      "Social Media"
+    ],
+    "Country question was sourced from": [
+      "USA"
+    ],
+    "Background and context": "Respiratory viruses are primarily spread through infectious respiratory droplets (coughing, sneezing, and sometimes talking). Close contact (within 6 feet/2 meters) for a prolonged period of time (15 minutes or more) without respiratory protection is considered an exposure risk for COVID-19. While we don't know what the number of cases related to large gatherings, like the recent protests, will look like, it is likely that there will be some. Protestors are encouraged to not only utilize infection prevention measures, but also quarantine at home for 14 days after protesting. \n",
+    "What our experts say": "Large gatherings of people in close contact for a prolonged period of time does increase risk for transmission of respiratory viruses. Outdoor protests allow for natural ventilation, and the additional use of masks, eye protection, and social distancing efforts can help reduce risk. While it is unknown if protests will lead to a large increase in the number of cases, it is possible there will be additional cases in the 2 weeks following protests. \n",
+    "Glossary Terms": [
+      "recvwSSjn9ohOm9fK"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "protest",
+      "second wave",
+      "outbreak"
+    ],
+    "Other resources": "1. The Protests will spread the coronavirus ([The Atlantic][1]) \n2. The Respiratory Health Risks of Large Crowds ([AATS][2])\n3. How to Protect Yourself & Others ([U.S. CDC][3])\n\n  [1]: https://www.theatlantic.com/health/archive/2020/06/protests-pandemic/612460/\n  [2]: https://www.atsjournals.org/doi/full/10.1513/AnnalsATS.201603-177ED\n  [3]: https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html\n",
+    "DB (French)": [
+      "rec0yX8knrSZ8EaTA"
+    ],
+    "DB (Hindi)": [
+      "reci5ZkVYfbId4yH0"
+    ],
+    "In translated DBs?": "Yes",
+    "DB (Telugu)": [
+      "recTxdEKtFXi9OaKH"
+    ],
+    "DB (Spanish)": [
+      "reccTGyy0AeJXZHEj"
+    ],
+    "DB (Arabic)": [
+      "recwd7tktiavbKSN8"
+    ],
+    "DB (Bengali)": [
+      "recUw37uD3pe0Q3Lk"
+    ],
+    "DB (Portuguese)": [
+      "recvxEZIBXya8yHLU"
+    ],
+    "Last edited (simplified)": "2020-06-19T00:14:17.000Z",
+    "Last edited (experts say)": "2020-06-19T00:21:01.000Z",
+    "Last modified": "2020-08-06",
+    "What our experts say wordcount": 75,
+    "Background and context wordcount": 89,
+    "Other resources wordcount": 26,
+    "Wordcount": 190
+  },
+  {
+    "id": "recFi8qUxcrBhBeb9",
+    "Question": "What does it mean for COVID-19 to impact the brain?",
+    "Status": "Published",
+    "Category": "Symptoms",
+    "Subcategory": "On: COVID-19 & the brain",
+    "Background and context": "COVID-19 has been linked to a series of health complications beyond respiratory failure, including neurological complications that can potentially damage the brain. Recently, news has been circulating about how SARS-CoV-2, the virus that causes COVID-19, has been associated with many different neurological syndromes, including nerve damage, delirium, and stroke. While the condition is not very common, doctors are currently looking at data from individual patients from around the world to assess how it has impacted patients.\n\nThese neurological complications have also been reported during previous epidemics, such as the Severe Acute Respiratory Syndrome (SARS) epidemic in 2003 and the Middle East Respiratory Syndrome (MERS) outbreak more recently in 2012.\n",
+    "What our experts say": "Physicians and scientists are learning more about how COVID-19 impacts organs outside of the respiratory system, such as the brain. The emerging evidence has revealed that some COVID-19 patients experience neurological symptoms, which impact the nervous system, composed principally of the brain, spinal cord, nerves, and ganglia (cell bodies that relay nerve signals). \n\nIn early March 2020, observational data from 58 patients in France indicated the presence of neurological symptoms such as agitation, confusion, disorientation, and encephalopathy (brain damage). In April 2020, a study was published on 214 COVID-19 patients in China with \"severe infection,\" where over a third were reported to experience neurological symptoms, including acute cerebrovascular diseases and impaired consciousness.\n\nIn July 2020, another study on over 40 British patients provided additional evidence about neurological symptoms, ranging from brain inflammation and delirium to nerve damage and stroke. Some of these patients reported severe symptoms, such as strokes and paralysis resulting from nerve damage, while others experienced more minor symptoms like breathlessness and fatigue. Most of the cases with brain inflammation were diagnosed with acute disseminated encephalomyelitis (ADEM), which is a rare illness involving inflammation of the brain and spinal cord that results from viral infections. Data from London indicated an increase in ADEM cases for this study period during the pandemic, as the number of reported cases would typically have been expected over a 5-month period rather than a 5-week period in the city. \n\nSARS-CoV-2, the virus that causes COVID-19, was not detected in the cerebrospinal brain fluid of any of the British patients tested, which may suggest that the virus did not directly attack the brain and that the symptoms could have occurred post-infection.\n\nWith the increasing evidence of neurological symptoms, which have not been found to occur as commonly as respiratory symptoms, researchers and health care practitioners are continuing to observe patients around the world to learn more about how COVID-19 impacts on the brain. The long-term implications are still unclear, since COVID-19 is a new disease and there has not been enough time to observe the development of symptoms in patients over long periods of time.\n",
+    "Glossary Terms": [
+      "recR9wzTcTIDRvZxF"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n\n",
+    "Topics": [
+      "virus",
+      "symptoms",
+      "brain",
+      "inflammation"
+    ],
+    "Other resources": "1. Neurologic Manifestations of Hospitalized Patients With Coronavirus Disease 2019 in Wuhan, China ([JAMA][1]) \n2. Neurologic Features in Severe SARS-CoV-2 Infection ([NEJM][2]) \n3. The emerging spectrum of COVID-19 neurology: clinical, radiological and laboratory findings ([Brain][3])\n4. How Covid-19 can damage the brain ([BBC][4])\n5. Warning of serious brain disorders in people with mild coronavirus symptoms ([The Guardian][5])\n\n  [1]: https://jamanetwork.com/journals/jamaneurology/fullarticle/2764549\n  [2]: https://www.nejm.org/doi/full/10.1056/NEJMc2008597\n  [3]: https://academic.oup.com/brain/article/doi/10.1093/brain/awaa240/5868408\n  [4]: https://www.bbc.com/future/article/20200622-the-long-term-effects-of-covid-19-infection\n  [5]: https://www.theguardian.com/world/2020/jul/08/warning-of-serious-brain-disorders-in-people-with-mild-covid-symptoms\n",
+    "How often revision needed": "Weekly",
+    "DB (French)": [
+      "rec9Zv3Q7beAIwHDw"
+    ],
+    "DB (Hindi)": [
+      "recOsZvkjBzqEIPAv"
+    ],
+    "In translated DBs?": "Yes",
+    "DB (Telugu)": [
+      "recSXSrDKgSbFdTFv"
+    ],
+    "DB (Spanish)": [
+      "recbjllrhb9Ctoqz7"
+    ],
+    "DB (Arabic)": [
+      "recvDMgdKT5oH9BIW"
+    ],
+    "DB (Bengali)": [
+      "recTWIUnUEk7wfMG8"
+    ],
+    "DB (Portuguese)": [
+      "recuXjMBSyt3EXqGI"
+    ],
+    "Last edited (simplified)": "2020-07-16T23:02:18.000Z",
+    "Last edited (experts say)": "2020-07-17T02:23:37.000Z",
+    "Last modified": "2020-08-06",
+    "What our experts say wordcount": 349,
+    "Background and context wordcount": 108,
+    "Other resources wordcount": 53,
+    "Wordcount": 510
+  },
+  {
+    "id": "recN7xZOc6jUGgDCA",
+    "Question": "Are there any side effects of using hand sanitizer?",
+    "Status": "Published",
+    "Background and context": "The virus causing COVID-19 can spread from touching an infected surface, from exposure to respiratory droplets, and from airborne transmission. Person-to-person spread (i.e. not from touching surfaces) is the most well understood form of transmission, as well as the main transmission route for COVID-19. Hand sanitizer is one way to clean your hands after touching surfaces and/or interacting with people, particularly when hand-washing is not an option. The U.S. Centers for Disease Control and Prevention (U.S. CDC) recommends soap and water for hand hygiene whenever possible and especially during cooking, after using the restroom, before eating, and when hands are visibly soiled. When using hand sanitizer, it is important to rub it over the entire surface of hands until dry.\n",
+    "What our experts say": "Side-effects of hand sanitizer are short-term and often mild. The side effects are usually related to skin irritation, like cracking and bleeding, due to either irritation from the product or overuse and drying of the skin. It is important to always check the label to ensure safe use. Ingestion or use around the eyes and nose can cause irritation. \n\nAlcohol-based hand sanitizer should contain at least 60% alcohol to be effective. Hand sanitizer is a good way to clean hands when soap and water isn't available and is effective against the virus that causes COVID-19.\n\nThe U.S. Food and Drug Administration (FDA) has recently issued a warning on the increase in hand sanitizer products containing methanol, instead of ethanol. Methanol, or wood alcohol, is a toxic substance when absorbed through the skin or when ingested that can lead to blindness, hospitalizations, or death. At least 75 brands of hand sanitizer have been recalled for safety reasons, and the FDA also warns against false labels claiming a hand sanitizer product is \"FDA-approved\" (because the FDA has not and does not approve any hand sanitizer products). Hand sanitizer products should be stored out of the reach of children to help prevent accidental ingestion. If you become exposed to hand sanitizer containing methanol and are experiencing symptoms, seek immediate treatment for potential reversal of methanol poisoning. \n\n\n_This information was updated July 24, 2020_\n",
+    "Glossary Terms": [
+      "rech6tPR0hLDA3JH3",
+      "rec5yviiSvJkufYvu"
+    ],
+    "Other resources": "1. Safely Using Hand Sanitizer ([U.S. FDA][1])\n2. Hand Sanitizer Use Out and About ([U.S. CDC][2])\n3. FDA Updates on Hand Sanitizers with Methanol ([U.S. FDA][3])\n4. FDA expands hand sanitizer recall to at least 75 brands across the U.S. ([NBC News][4])\n\n  [1]: https://www.fda.gov/consumers/consumer-updates/safely-using-hand-sanitizer\n  [2]: https://www.cdc.gov/handwashing/hand-sanitizer-use.html\n  [3]: https://www.fda.gov/drugs/drug-safety-and-availability/fda-updates-hand-sanitizers-methanol\n  [4]: https://www.nbcnews.com/health/health-news/fda-expands-hand-sanitizer-recall-least-75-brands-across-u-n1234246\n",
+    "DB (French)": [
+      "recIVQTKiG3cEhdcu"
+    ],
+    "DB (Hindi)": [
+      "recv9UIRYE5hQWU3w"
+    ],
+    "In translated DBs?": "Yes",
+    "DB (Telugu)": [
+      "recKyxSns6hcp48PL"
+    ],
+    "DB (Spanish)": [
+      "rec3U0MbZ1yDdfFJn"
+    ],
+    "DB (Arabic)": [
+      "recnerHXsJupr0QSc"
+    ],
+    "DB (Bengali)": [
+      "recLxnl7CuJ8g61Qo"
+    ],
+    "DB (Portuguese)": [
+      "recmyYdlAoS4oOFQY"
+    ],
+    "Last edited (simplified)": "2020-07-22T21:24:14.000Z",
+    "Last edited (experts say)": "2020-07-31T13:52:26.000Z",
+    "Last modified": "2020-08-06",
+    "What our experts say wordcount": 228,
+    "Background and context wordcount": 120,
+    "Other resources wordcount": 39,
+    "Wordcount": 387,
+    "Media": [
+      {
+        "id": "attFC6KKp33B8bjSP",
+        "url": "https://dl.airtable.com/.attachments/e7921c3d47f3930cbff36369c5ce1a6b/575e768f/Slide_1",
+        "filename": "Slide_1",
+        "size": 143570,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/200873bef9c31efc0d10e5979718f14a/86c54190",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/fae8659facc913511c9d43d7e469b7e4/f4eedaa6",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/9e8e6fcfdcc9dafb37b2c98e3fa14bf1/11bae963",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attyrNiDETOdswIyw",
+        "url": "https://dl.airtable.com/.attachments/2534980928a9054fd76a61fb572f4fcc/d8e9c0ac/Slide_2",
+        "filename": "Slide_2",
+        "size": 187500,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e82724d0b6e4d1605bedf6d50aee90fd/24a58686",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ff07eaeb954a976efcca74a3bf2dd8bf/ac52132f",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2229b1c610d0ecf912b105dd6e24b3d8/519e491f",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "atttkb2mqheE7CpYf",
+        "url": "https://dl.airtable.com/.attachments/62057632982b77c79086376905ce1972/23be326f/Slide_3",
+        "filename": "Slide_3",
+        "size": 226955,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e09585380f999dad3c760e9f7fa7725c/873c1b54",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f3ebc3d227761ddaa2c529b09c9ae81b/e730e012",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/9f4989b2debdf179cc68732eb03e4bbd/d5a75d15",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "recabh4pzUPxHxLq1",
+    "Question": "Does wearing a mask reduce your oxygen level?",
+    "Status": "Published",
+    "Category": "Prevention",
+    "Subcategory": "On: COVID-19 & masks",
+    "Source of the question": [
+      "Partner Organization"
+    ],
+    "Country question was sourced from": [
+      "Nigeria"
+    ],
+    "Background and context": "Recently, a huge amount of misinformation has come out regarding face masks and their potential impacts on people. Since the World Health Organization and U.S. CDC have recommended wearing masks to prevent the spread of COVID-19, face masks have become a target of political discussions. This is likely due to the fact that in the early months of 2020, face masks were not yet recommended by these groups for a number of reasons, including a lack of evidence that they would be effective (since then research has been conducted and we have proof of their effectiveness) and a general shortage of masks for doctors and healthcare professionals. As more research studies were completed and more evidence made it clear that face masks were effective in helping the spread of COVID-19, the face mask policies also changed.\n",
+    "What our experts say": "No. There is no proof that wearing a mask can reduce oxygen levels, also known as hypoxia. The United States Centers for Disease Control and Prevention (U.S. CDC) recommend wearing cloth masks in public, which are not too tight on our faces and allow for easy breathing.\n\nEven doctors and healthcare professionals wearing N95 masks (which fit very tightly around the face and are made to create a seal around the edge of the mask) are not at risk of hypoxia. However, for any person with preexisting lung or breathing problems in general, they should speak with their doctors about their concerns regarding masks. \n",
+    "Glossary Terms": [
+      "recCEG85awzcotyRi",
+      "recqnngV0Ej32WU8H",
+      "recZuNf7uTj0VplMB"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "prevention",
+      "face masks",
+      "hypoxia"
+    ],
+    "Other resources": "1. From the Frontlines: The Truth About Masks and COVID-19 ([ALA][1]) \n2. Proper N95 Respirator Use for Respiratory Protection Preparedness ([U.S. CDC][2]) \n3. CDC calls on Americans to wear masks to prevent COVID-19 spread ([U.S. CDC][3]) \n\n  [1]: https://www.lung.org/blog/covid-masks\n  [2]: https://blogs.cdc.gov/niosh-science-blog/2020/03/16/n95-preparedness/\n  [3]: https://www.cdc.gov/media/releases/2020/p0714-americans-to-wear-masks.html\n",
+    "DB (French)": [
+      "recaUSM0ZFP0RRbMk"
+    ],
+    "DB (Hindi)": [
+      "recsu4ZweLwnbVs96"
+    ],
+    "DB (Telugu)": [
+      "recXwOfJWIBdfWS8Q"
+    ],
+    "DB (Spanish)": [
+      "recL0MIpMRZYBjDWT"
+    ],
+    "DB (Arabic)": [
+      "recSEM1sgspgAYQ38"
+    ],
+    "DB (Bengali)": [
+      "recUTOx0aRpepSFkd"
+    ],
+    "DB (Portuguese)": [
+      "recxQqhJAiNNpUH3J"
+    ],
+    "Last edited (simplified)": "2020-07-29T17:17:21.000Z",
+    "Last edited (experts say)": "2020-07-29T17:56:41.000Z",
+    "Last modified": "2020-08-06",
+    "What our experts say wordcount": 104,
+    "Background and context wordcount": 135,
+    "Other resources wordcount": 37,
+    "Wordcount": 276,
+    "Media": [
+      {
+        "id": "att17Y9W6Jj9baxe2",
+        "url": "https://dl.airtable.com/.attachments/e14a95ec426f72be27a773f2cd0f0fe6/2ce396de/Slide_1",
+        "filename": "Slide_1",
+        "size": 193940,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c142edefb08ed2ea37e92ddf1fe7ff81/1d4906c8",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ca90420def96c75007373e156261f435/7b13c06d",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a7c619f0753382cf4f21b1450005d3b5/8691e961",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attSFRPOqgIqMz80N",
+        "url": "https://dl.airtable.com/.attachments/93dce28eabd44d491daeb934cf1dfd50/7ab9ad20/Slide_2",
+        "filename": "Slide_2",
+        "size": 132874,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/bd3829f50b439a78bf833d3886ff48ba/e5df4559",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a6427d1411b05e8fc198b2788a101df4/2274ceab",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/98cd1b48647b62b3e61eb52bd831c966/37b5efa0",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attfjNaojsdEPRHRe",
+        "url": "https://dl.airtable.com/.attachments/5dd5c2eef2b566e56b165ea639fc2a6f/8abea1e9/Slide_3",
+        "filename": "Slide_3",
+        "size": 134394,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/0a9f77f32003ba1dfeba3ccee2227151/7bfdedd0",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/cdd5aeceb6cd034fffdf247575e8f5e1/4d5b4cd3",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/40f8c1ac2d34ff383bf034f3cd03f563/73976ed2",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "atteU7JhFWaMGLSex",
+        "url": "https://dl.airtable.com/.attachments/60e022f74aae5de3bd78bab82a51b9d0/a75a5f5e/Slide_4",
+        "filename": "Slide_4",
+        "size": 85555,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/609f3f87ff2fe8efe3054195fe74ce8c/9efdf933",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e8f7e839ff657d2eb61c9251e658d994/0b243991",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/fa04435e63247967fb402ec835d43ad5/de000393",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "recz1YK8aca1AExY3",
+    "Question": "What do we know about the inflammatory syndrome impacting children with COVID-19?",
+    "Status": "Published",
+    "Background and context": "The U.S. Centers for Disease Control and Prevention (U.S. CDC) warns that risks of severe COVID-19 illness tend to increase with age, with people over 85 being at highest risk for hospitalization, intensive care, ventilation, and potentially death. Tragically, the lives of young people, including children, have also been lost during the COVID-19 pandemic. More evidence is emerging on how some young patients develop severe symptoms and complications related to COVID-19. Multisystem inflammatory syndrome in children (MIS-C) is a serious and potentially fatal condition in young people, which can appear similar to Kawasaki's disease. In mid-May 2020, the U.S. CDC asked doctors across the country to look out for MIS-C cases. In June 2020, another two studies found over 300 children with MIS-C in the United States, which was reported widely in the media. Researchers around the world continue to study why some children are seriously affected by COVID-19 when the majority of young people have had relatively mild cases.\n",
+    "What our experts say": "The majority of young people infected have had relatively mild cases of COVID-19. However, the U.S. Centers for Disease Control (U.S. CDC) recently identified the more severe multisystem inflammatory syndrome in children (MIS-C) as a new syndrome associated with the virus that causes COVID-19. This inflammatory syndrome was first identified in April 2020 and is characterized by inflammation in different body parts, including the heart, lungs, kidneys, brain, skin, eyes, or gastrointestinal organs. While MIS-C is rare, it can be deadly. Symptoms in children include fever, abdominal (gut) pain, vomiting, diarrhea, neck pain, rash, bloodshot eyes, or fatigue. This is a newly identified condition that requires more research, but doctors have observed that symptoms can develop within four weeks of exposure to the novel coronavirus. The inflammation can be managed with medicines that can prevent damage to vital organs. MIS-C occurs in young people under 21, according to its case definition, although it is thought to mostly affect children between the ages of 2 to 15 and is not commonly reported in babies. The U.S. CDC recommends immediately contacting a doctor if your child exhibits any of the symptoms of the inflammatory syndrome. We still do not know why some children experience symptoms, while others do not, and it is unclear if children with particular health conditions are more likely to get MIS-C. At this point, the best prevention measures include taking all precautions to avoid contracting the novel coronavirus, including hand washing, social distancing, avoiding public gatherings, and wearing masks.\n",
+    "Other resources": "1. Multisystem Inflammatory Syndrome ([U.S. CDC][1])\n2. For Parents: Multisystem Inflammatory Syndrome in Children (MIS-C) associated with COVID-19 ([U.S. CDC][2])\n3. MIS-C and COVID-19: Rare Inflammatory Syndrome in Kids and Teens ([Hopkins Medicine][3])\n4. Multisystem Inflammatory Syndrome in U.S. Children and Adolescents ([NEJM][4])\n5. Multisystem Inflammatory Syndrome in Children in New York State ([NEJM)][5]\n6. Researchers report nearly 300 cases of inflammatory syndrome tied to Covid-19 in kids ([STAT News][6])\n\n  [1]: https://www.cdc.gov/mis-c/index.html\n  [2]: https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/children/mis-c.html\n  [3]: https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/misc-and-covid19-rare-inflammatory-syndrome-in-kids-and-teens\n  [4]: http://Multisystem Inflammatory Syndrome in U.S. Children and Adolescents\n  [5]: https://www.nejm.org/doi/full/10.1056/NEJMoa2021756\n  [6]: https://www.statnews.com/2020/06/29/nejm-inflammation-children-covid19-misc/\n",
+    "DB (French)": [
+      "recMDPWZLzbMXk8DX"
+    ],
+    "DB (Hindi)": [
+      "recFvSXFM2MnW9tQZ"
+    ],
+    "In translated DBs?": "Yes",
+    "DB (Telugu)": [
+      "recGM2HNRMkmfSJBr"
+    ],
+    "DB (Spanish)": [
+      "recZ8vBBoHBN33gv3"
+    ],
+    "DB (Arabic)": [
+      "recjsWwnRpxzhOrES"
+    ],
+    "DB (Bengali)": [
+      "recHLSax1aMi6UCC4"
+    ],
+    "DB (Portuguese)": [
+      "reciMt2LZ4VeeCgCE"
+    ],
+    "Last edited (simplified)": "2020-07-17T02:31:56.000Z",
+    "Last edited (experts say)": "2020-07-17T02:31:15.000Z",
+    "Last modified": "2020-08-05",
+    "What our experts say wordcount": 251,
+    "Background and context wordcount": 160,
+    "Other resources wordcount": 65,
+    "Wordcount": 476
+  },
+  {
     "id": "reckgFENw9gVgnWtC",
     "Question": "How long is a person infected with COVID-19 contagious?",
     "Status": "Published",
@@ -53,6 +957,99 @@
     "Background and context wordcount": 76,
     "Other resources wordcount": 19,
     "Wordcount": 241
+  },
+  {
+    "id": "rec8cZkqQ2wYlzCSD",
+    "Question": "Should we wipe down groceries, except for produce and such of course, with disinfectant before bringing inside a house?",
+    "Status": "Published",
+    "Category": "Transmission",
+    "Background and context": "Studies that look at the way COVID-19 spreads are evolving and it's leading to confusion about how we should be handling some of our most essential items — groceries. More research shows that person-to-person spread through close contact (as opposed to surface transmission, like with groceries) is the most well understood form of transmission, as well as the main transmission route for COVID-19. \n\nMixed messaging is contributing to debate around the need to wipe down groceries, wear gloves, avoid petting neighborhood animals, and other steps that would reduce surface transmission. The current research shows that surface transmission is likely very rare as a way of spreading COVID-19, but it is still a risk and it should be responded to with precaution. Therefore, public health experts recommend hand washing after bringing items inside and putting them away. \n",
+    "What our experts say": "There is no evidence that food or the packaging it comes in plays a role in COVID-19 transmission. The public health community is continually learning about how the novel coronavirus spreads, and what transmission routes are most likely to make it spread. Because of this continual learning in the public health community, there has been confusion around how easily COVID-19 spreads, through which routes, and what precautions are really necessary—such as wiping down grocery packaging.\n\nAccording to recent studies, the risk of becoming infected by surfaces like food and packaging is quite low, but the same prevention measures experts have been suggesting for months should still be followed. Health experts recommend hand washing after handling produce and putting away groceries, but not that people wipe down or disinfect the packaging or belongings before coming inside. They should instead use hand washing after bringing items inside and putting them away. \n\n",
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "transmission"
+    ],
+    "Other resources": "1. Running Errands ([U.S. CDC][1])\n2. Shopping for Food During the COVID-19 Pandemic ([U.S. FDA][2])\n3. Hygiene Theater Is a Huge Waste of Time ([The Atlantic][3]) \n4. Exaggerated risk of transmission of COVID-19 by fomites ([The Lancet][4]) \n\n  [1]: https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/essential-goods-services.html\n  [2]: https://www.fda.gov/food/food-safety-during-emergencies/shopping-food-during-covid-19-pandemic-information-consumers\n  [3]: https://www.theatlantic.com/ideas/archive/2020/07/scourge-hygiene-theater/614599/\n  [4]: https://www.thelancet.com/pdfs/journals/laninf/PIIS1473-3099(20)30561-2.pdf\n",
+    "Last edited (simplified)": "2020-07-31T21:44:22.000Z",
+    "Last edited (experts say)": "2020-07-31T21:46:20.000Z",
+    "Last modified": "2020-08-05",
+    "What our experts say wordcount": 149,
+    "Background and context wordcount": 137,
+    "Other resources wordcount": 36,
+    "Wordcount": 322
+  },
+  {
+    "id": "rec3DK3BrvuseyDAb",
+    "Question": "What do we know about ghee or coconut oil in the nose as a treatment for COVID-19?",
+    "Status": "Published",
+    "Category": "Treatment",
+    "Country question was sourced from": [
+      "India"
+    ],
+    "Background and context": "Ghee (clarified butter) and coconut oil are being discussed during the COVID-19 pandemic, in part because India’s Prime Minister Narendra Modi has recommended that citizens follow guidelines from the Ministry of Ayurveda, Yoga, Naturopathy, Unani, Sidda, and Homeopathy (AYNUSH). Ayurveda is a form of traditional medicine with roots in ancient India, while Unani is a form of traditional medicine originating in ancient Greece that is now practiced primarily in India, and Sidda is a form of traditional medicine from Tamil Nadu in Southern India. Traditional medicine is used around the world, and is considered a form of alternative medicine distinct from formalized and science-based conventional medical care. While some people have experienced benefits in using traditional medicine as a complementary part of their medical care, doctors and scientists have also voiced safety and efficacy concerns about certain practices.\n\nThe AYNUSH guidelines, which have not been fully backed by scientific and clinical studies, encourage consuming certain drinks (hot water, golden milk made with turmeric, and herbal drinks made with basil, cinnamon, black pepper, and dried ginger), using certain spices (turmeric, cumin, and others), practicing yoga, applying sesame or coconut oil in the nose, rinsing the mouth with sesame oil, practicing steam inhalation, using clove mixed with honey for a cough, and consuming Chyawanprash (a cooked Ayurveda mixture that includes ghee, which some people use as a dietary supplement to try to boost immune system function). Though this advice has been widely shared across media channels, the Indian government's press release only says that Ayurveda \"may possibly boost an individual’s immunity against infections,\" and includes a disclaimer stating that the “advisory does not claim to be treatment for COVID-19.” There is no evidence that any of these remedies prevent, treat or cure COVID-19.\n",
+    "What our experts say": "Though they are part of traditional Ayurvedic medicine, there is no scientific evidence that nasal treatments of ghee, coconut oil, and sesame oil will prevent, treat, or cure COVID-19. While many types of fats or oils (like coconut oil, sesame oil, and others) have been shown to kill or stop bad bacteria in cell-based laboratory studies, most of these studies have focused on how these ingredients may be used to prevent bacterial growth on food to improve food safety. Studies have not looked at the effect of ghee, coconut, or sesame oils on prevention of viral or bacterial infections in humans when applied in the nose, and there is no scientific evidence that supports the theory that applying these oils in the nose would improve health or prevent illness.\n\nThe World Health Organization (WHO) and other international health leaders have continued to state that caution is needed when considering “traditional remedies” as a treatment for COVID-19. They also state that there is “no therapy that has been proven to be effective in the treatment of COVID-19.” \n",
+    "Glossary Terms": [
+      "rec5OdFSvwX0mLrxy"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "prevention",
+      "treatment"
+    ],
+    "Other resources": "1. COVID-19 virtual press conference, April 2020, ([WHO][1])\n2. Ayurveda’s immunity boosting measures for self care during COVID 19 crisis ([Indian Government's Press Information Bureau][2])\n\n  [1]: https://www.who.int/docs/default-source/coronaviruse/transcripts/who-audio-emergencies-coronavirus-press-conference-full-01apr2020-final.pdf?sfvrsn=573dc140_2\n  [2]: https://pib.gov.in/PressReleseDetailm.aspx?PRID=1609524\n",
+    "Last edited (simplified)": "2020-08-05T01:34:09.000Z",
+    "Last edited (experts say)": "2020-08-05T01:31:35.000Z",
+    "Last modified": "2020-08-05",
+    "What our experts say wordcount": 172,
+    "Background and context wordcount": 290,
+    "Other resources wordcount": 24,
+    "Wordcount": 486
+  },
+  {
+    "id": "recRNOP1DQIw90RaZ",
+    "Question": "When do we consider someone with COVID-19 to have recovered?",
+    "Status": "Published",
+    "Category": "Recovery",
+    "Background and context": "As COVID-19 spreads, so does the number of individuals who have recovered since thankfully most patients who have COVID-19 recover from the disease. There is ongoing debate and uncertainty regarding when and on what basis can we consider that a patient has recovered from COVID-19. \n\nIn summary, deciding when a patient has recovered from COVID-19 is more complicated than just judging by the moment the patient feels better. The definition of \"recovery\" needs to include more than just the complete improvement of the patient and the absence of symptoms. \n\nDefinitions of recovery vary a lot between countries and can still be subjective to the individual patient, because more severe cases may have symptoms that last longer, and in some cases individuals can test positive even if they are no longer infectious (i.e. they can't transmit the virus to other people). \n",
+    "What our experts say": "Different institutions (including hospitals, clinics, public health agencies, and government agencies) have used different criteria to define when someone with COVID-19 is considered recovered. These criteria are often used to decide when someone can be allowed to leave the hospital or can stop isolation. A review of COVID-19 recovery guidelines being used around the world show most doctors agree on the following criteria:\n1) Clinical: The patient no longer has symptoms, and\n2) Laboratory: The patient has negative test results (testing through swabs taken from the nose and throat) showing the virus is no longer present in the upper respiratory system.\nBoth of these criteria should be considered in combination to determine recovery. Negative test results are important because people can still spread the virus even if they have no symptoms or their symptoms have stopped. \n\nIn addition, the European Centre for Disease Control and Prevention (ECDC) suggests also considering the following criteria to determine if a patient has recovered:\n3) Positive serological or antibody test results from blood samples. \nAntibody tests can show if your immune system has produced antibodies to fight off COVID-19 which would signal that you had been infected with the virus. Antibody tests are typically done at least 1-3 weeks after a patient first experiences symptoms. However, antibody test results should not be used on their own to determine recovery - they should be used in combination with the other two criteria.\n\nIt is not always possible to use these recommended criteria to determine recovery. For example, some people with COVID-19 experience only mild symptoms (fatigue, shortness of breath, etc.) yet are not hospitalized because these symptoms are not severe enough. These mild symptoms can however persist over long periods of time (weeks to months) which further complicates how to decide if someone has recovered or not from COVID-19.\n",
+    "Glossary Terms": [
+      "recmajcAORyuqhZPc",
+      "recz6LiyrAkeNejA2",
+      "recPNexvQiug4RFJu",
+      "recOfgrqkPp7aa14o"
+    ],
+    "Other resources": "1. Discharge criteria for confirmed COVID-19 cases – When is it safe to discharge COVID-19 cases from the hospital or end home isolation?  ([European CDC][1])\n2. Discontinuation of Isolation for Persons with COVID-19 Not in Healthcare Settings ([U.S. CDC][2])\n3. Duration of Isolation and Precautions for Adults with COVID-19 ([U.S. CDC][3])\n\n  [1]: https://www.ecdc.europa.eu/sites/default/files/documents/COVID-19-Discharge-criteria.pdf\n  [2]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/disposition-in-home-patients.html\n  [3]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/duration-isolation.html\n",
+    "DB (French)": [
+      "reccgAszbsy0mDb8P"
+    ],
+    "DB (Hindi)": [
+      "recGg5GrEARJJISwI"
+    ],
+    "In translated DBs?": "Yes",
+    "DB (Telugu)": [
+      "recux85y7hUPT6GBO"
+    ],
+    "DB (Spanish)": [
+      "recc3jBd4Jma9ddxE"
+    ],
+    "DB (Arabic)": [
+      "recurf1nCbLstiTkv"
+    ],
+    "DB (Bengali)": [
+      "reck9dTXXz06jEssE"
+    ],
+    "DB (Portuguese)": [
+      "recOobvP0b19NIhlE"
+    ],
+    "Last edited (simplified)": "2020-07-30T14:33:40.000Z",
+    "Last edited (experts say)": "2020-07-30T23:18:46.000Z",
+    "Last modified": "2020-08-05",
+    "What our experts say wordcount": 299,
+    "Background and context wordcount": 141,
+    "Other resources wordcount": 49,
+    "Wordcount": 489
   },
   {
     "id": "recQZ5Gya03eOGb8l",
@@ -111,33 +1108,6 @@
     "Background and context wordcount": 236,
     "Other resources wordcount": 37,
     "Wordcount": 378
-  },
-  {
-    "id": "rec3DK3BrvuseyDAb",
-    "Question": "What do we know about ghee or coconut oil in the nose as a treatment for COVID-19?",
-    "Status": "Published",
-    "Country question was sourced from": [
-      "India"
-    ],
-    "Background and context": "Ghee (clarified butter) and coconut oil are being discussed during the COVID-19 pandemic, in part because India’s Prime Minister Narendra Modi has recommended that citizens follow guidelines from the Ministry of Ayurveda, Yoga, Naturopathy, Unani, Sidda, and Homeopathy (AYNUSH). Ayurveda is a form of traditional medicine with roots in ancient India, while Unani is a form of traditional medicine originating in ancient Greece that is now practiced primarily in India, and Sidda is a form of traditional medicine from Tamil Nadu in Southern India. Traditional medicine is used around the world, and is considered a form of alternative medicine distinct from formalized and science-based conventional medical care. While some people have experienced benefits in using traditional medicine as a complementary part of their medical care, doctors and scientists have also voiced safety and efficacy concerns about certain practices.\n\nThe AYNUSH guidelines, which have not been fully backed by scientific and clinical studies, encourage consuming certain drinks (hot water, golden milk made with turmeric, and herbal drinks made with basil, cinnamon, black pepper, and dried ginger), using certain spices (turmeric, cumin, and others), practicing yoga, applying sesame or coconut oil in the nose, rinsing the mouth with sesame oil, practicing steam inhalation, using clove mixed with honey for a cough, and consuming Chyawanprash (a cooked Ayurveda mixture that includes ghee, which some people use as a dietary supplement to try to boost immune system function). Though this advice has been widely shared across media channels, the Indian government's press release only says that Ayurveda \"may possibly boost an individual’s immunity against infections,\" and includes a disclaimer stating that the “advisory does not claim to be treatment for COVID-19.” There is no evidence that any of these remedies prevent, treat or cure COVID-19.\n",
-    "What our experts say": "Though they are part of traditional Ayurvedic medicine, there is no scientific evidence that nasal treatments of ghee, coconut oil, and sesame oil will prevent, treat, or cure COVID-19. While many types of fats or oils (like coconut oil, sesame oil, and others) have been shown to kill or stop bad bacteria in cell-based laboratory studies, most of these studies have focused on how these ingredients may be used to prevent bacterial growth on food to improve food safety. Studies have not looked at the effect of ghee, coconut, or sesame oils on prevention of viral or bacterial infections in humans when applied in the nose, and there is no scientific evidence that supports the theory that applying these oils in the nose would improve health or prevent illness.\n\nThe World Health Organization (WHO) and other international health leaders have continued to state that caution is needed when considering “traditional remedies” as a treatment for COVID-19. They also state that there is “no therapy that has been proven to be effective in the treatment of COVID-19.” \n",
-    "Glossary Terms": [
-      "rec5OdFSvwX0mLrxy"
-    ],
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "prevention",
-      "treatment"
-    ],
-    "Other resources": "1. COVID-19 virtual press conference, April 2020, ([WHO][1])\n2. Ayurveda’s immunity boosting measures for self care during COVID 19 crisis ([Indian Government's Press Information Bureau][2])\n\n  [1]: https://www.who.int/docs/default-source/coronaviruse/transcripts/who-audio-emergencies-coronavirus-press-conference-full-01apr2020-final.pdf?sfvrsn=573dc140_2\n  [2]: https://pib.gov.in/PressReleseDetailm.aspx?PRID=1609524\n",
-    "Last edited (simplified)": "2020-08-05T01:34:09.000Z",
-    "Last edited (experts say)": "2020-08-05T01:31:35.000Z",
-    "Last modified": "2020-08-05",
-    "What our experts say wordcount": 172,
-    "Background and context wordcount": 290,
-    "Other resources wordcount": 24,
-    "Wordcount": 486
   },
   {
     "id": "recZ4lv0SN8LMlFvF",
@@ -1039,62 +2009,6 @@
     "Wordcount": 733
   },
   {
-    "id": "rec7awl8Ed6xdZIiv",
-    "Question": "Does Vitamin D help prevent or treat COVID-19?",
-    "Status": "Published",
-    "Subcategory": "On: COVID-19 & Vitamin D",
-    "Source of the question": [
-      "Social Media"
-    ],
-    "Country question was sourced from": [
-      "USA"
-    ],
-    "Background and context": "Vitamin D is an essential nutrient, which means your body needs it but cannot make it on its own. This is why people have to get their Vitamin D from foods like salmon or egg yolks, supplements, or from spending short amounts of time in the sun. Vitamin D helps ensure your body's immune system and its cells are working well so they can respond to infections and viruses. In addition to its help in retaining calcium levels in the body and promoting bone health, Vitamin D can also potentially reduce cancer cell growth, help minimize inflammation, and help control infections. \n",
-    "What our experts say": "It is too early to tell whether or not Vitamin D can help treat COVID-19. As of now, Vitamin D has not been tested for its effectiveness in treating COVID-19 patients, so there is no evidence that it can prevent or treat the virus. A recent study looked at data from 20 European countries and noted that in places where more people had cases of Vitamin D deficiency, they also had higher rates of COVID-19 cases and deaths. While this study suggested a possible relationship between lower levels of Vitamin D and poor COVID-19 health outcomes, there is no evidence that Vitamin D levels actually caused more cases or deaths related to COVID-19. \n\nOther studies have noted potential links between low Vitamin D levels and COVID-19, but no consensus has been reached on what the potential impact of the vitamin is on the virus. Researchers are now working on several studies to determine if Vitamin D can be effective in treating COVID-19.\n",
-    "Glossary Terms": [
-      "recnFUXyIZy81Rj1I"
-    ],
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "Calcium",
-      "Vitamin D",
-      "prevention",
-      "treatment",
-      "homeopathic"
-    ],
-    "Other resources": "1. Lancet review on Vitamin D and COVID-19 outcomes ([The Lancet][1])\n2. Aging Clinical and Experimental Research study on Vitamin D and the prevention of COVID-19 ([Aging][2])\n3. BMJ study on Vitamin D and COVID-19 ([BMJ][3])\n4. Pre-print study of patterns of COVID-19 mortality and Vitamin D ([SSRN][4])\n5. Pre-print study on the possible role of Vitamin D and cytokine storms in COVID-19 ([Medrxiv][5])\n6. Harvard review of Vitamin D ([HSPH][6])\n7. Journal of Investigative Medicine review of Vitamin D and the immune system ([JIM][7])\n\n  [1]: https://www.thelancet.com/journals/landia/article/PIIS2213-8587(20)30183-2/fulltext\n  [2]: https://link.springer.com/article/10.1007%2Fs40520-020-01570-8\n  [3]: https://nutrition.bmj.com/content/early/2020/05/15/bmjnph-2020-000089\n  [4]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3585561\n  [5]: https://www.medrxiv.org/content/10.1101/2020.04.08.20058578v4\n  [6]: https://www.hsph.harvard.edu/nutritionsource/vitamin-d/\n  [7]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3166406/\n",
-    "DB (French)": [
-      "recgur7UqWESGFk8T"
-    ],
-    "DB (Hindi)": [
-      "reco1sk8QaOHSDsDk"
-    ],
-    "In translated DBs?": "Yes",
-    "DB (Telugu)": [
-      "recpDxEPAA9r6srCb"
-    ],
-    "DB (Spanish)": [
-      "recIZ0yD7vqSUDYwN"
-    ],
-    "DB (Arabic)": [
-      "rec2jrtpAdmE8o9FC"
-    ],
-    "DB (Bengali)": [
-      "recqCn7zKYBnXukDO"
-    ],
-    "DB (Portuguese)": [
-      "rec1DYZNISKj5cYDo"
-    ],
-    "Last edited (simplified)": "2020-06-03T21:07:17.000Z",
-    "Last edited (experts say)": "2020-06-04T16:24:46.000Z",
-    "Last modified": "2020-08-01",
-    "What our experts say wordcount": 161,
-    "Background and context wordcount": 101,
-    "Other resources wordcount": 79,
-    "Wordcount": 341
-  },
-  {
     "id": "reclucIrtcCSCbOn6",
     "Question": "Is the Russian vaccine a successful cure for COVID-19? ",
     "Status": "Published",
@@ -1176,26 +2090,6 @@
     "Wordcount": 274
   },
   {
-    "id": "rec8cZkqQ2wYlzCSD",
-    "Question": "Should we wipe down groceries, except for produce and such of course, with disinfectant before bringing inside a house?",
-    "Status": "Published",
-    "Background and context": "Studies that look at the way COVID-19 spreads are evolving and it's leading to confusion about how we should be handling some of our most essential items — groceries. More research shows that person-to-person spread through close contact (as opposed to surface transmission, like with groceries) is the most well understood form of transmission, as well as the main transmission route for COVID-19. \n\nMixed messaging is contributing to debate around the need to wipe down groceries, wear gloves, avoid petting neighborhood animals, and other steps that would reduce surface transmission. The current research shows that surface transmission is likely very rare as a way of spreading COVID-19, but it is still a risk and it should be responded to with precaution. Therefore, public health experts recommend hand washing after bringing items inside and putting them away. \n",
-    "What our experts say": "There is no evidence that food or the packaging it comes in plays a role in COVID-19 transmission. The public health community is continually learning about how the novel coronavirus spreads, and what transmission routes are most likely to make it spread. Because of this continual learning in the public health community, there has been confusion around how easily COVID-19 spreads, through which routes, and what precautions are really necessary—such as wiping down grocery packaging.\n\nAccording to recent studies, the risk of becoming infected by surfaces like food and packaging is quite low, but the same prevention measures experts have been suggesting for months should still be followed. Health experts recommend hand washing after handling produce and putting away groceries, but not that people wipe down or disinfect the packaging or belongings before coming inside. They should instead use hand washing after bringing items inside and putting them away. \n\n",
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "transmission"
-    ],
-    "Other resources": "1. Running Errands ([U.S. CDC][1])\n2. Shopping for Food During the COVID-19 Pandemic ([U.S. FDA][2])\n3. Hygiene Theater Is a Huge Waste of Time ([The Atlantic][3]) \n4. Exaggerated risk of transmission of COVID-19 by fomites ([The Lancet][4]) \n\n  [1]: https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/essential-goods-services.html\n  [2]: https://www.fda.gov/food/food-safety-during-emergencies/shopping-food-during-covid-19-pandemic-information-consumers\n  [3]: https://www.theatlantic.com/ideas/archive/2020/07/scourge-hygiene-theater/614599/\n  [4]: https://www.thelancet.com/pdfs/journals/laninf/PIIS1473-3099(20)30561-2.pdf\n",
-    "Last edited (simplified)": "2020-07-31T21:44:22.000Z",
-    "Last edited (experts say)": "2020-07-31T21:46:20.000Z",
-    "Last modified": "2020-08-01",
-    "What our experts say wordcount": 149,
-    "Background and context wordcount": 137,
-    "Other resources wordcount": 36,
-    "Wordcount": 322
-  },
-  {
     "id": "recu5zvFnlQeNTxk8",
     "Question": "What are the different types of vaccines?",
     "Status": "Published",
@@ -1268,47 +2162,6 @@
     "Wordcount": 445
   },
   {
-    "id": "recN7xZOc6jUGgDCA",
-    "Question": "Are there any side effects of using hand sanitizer?",
-    "Status": "Published",
-    "Background and context": "The virus causing COVID-19 can spread from touching an infected surface, from exposure to respiratory droplets, and from airborne transmission. Person-to-person spread (i.e. not from touching surfaces) is the most well understood form of transmission, as well as the main transmission route for COVID-19. Hand sanitizer is one way to clean your hands after touching surfaces and/or interacting with people, particularly when hand-washing is not an option. The U.S. Centers for Disease Control and Prevention (U.S. CDC) recommends soap and water for hand hygiene whenever possible and especially during cooking, after using the restroom, before eating, and when hands are visibly soiled. When using hand sanitizer, it is important to rub it over the entire surface of hands until dry.\n",
-    "What our experts say": "Side-effects of hand sanitizer are short-term and often mild. The side effects are usually related to skin irritation, like cracking and bleeding, due to either irritation from the product or overuse and drying of the skin. It is important to always check the label to ensure safe use. Ingestion or use around the eyes and nose can cause irritation. \n\nAlcohol-based hand sanitizer should contain at least 60% alcohol to be effective. Hand sanitizer is a good way to clean hands when soap and water isn't available and is effective against the virus that causes COVID-19.\n\nThe U.S. Food and Drug Administration (FDA) has recently issued a warning on the increase in hand sanitizer products containing methanol, instead of ethanol. Methanol, or wood alcohol, is a toxic substance when absorbed through the skin or when ingested that can lead to blindness, hospitalizations, or death. At least 75 brands of hand sanitizer have been recalled for safety reasons, and the FDA also warns against false labels claiming a hand sanitizer product is \"FDA-approved\" (because the FDA has not and does not approve any hand sanitizer products). Hand sanitizer products should be stored out of the reach of children to help prevent accidental ingestion. If you become exposed to hand sanitizer containing methanol and are experiencing symptoms, seek immediate treatment for potential reversal of methanol poisoning. \n\n\n_This information was updated July 24, 2020_\n",
-    "Glossary Terms": [
-      "rech6tPR0hLDA3JH3",
-      "rec5yviiSvJkufYvu"
-    ],
-    "Other resources": "1. Safely Using Hand Sanitizer ([U.S. FDA][1])\n2. Hand Sanitizer Use Out and About ([U.S. CDC][2])\n3. FDA Updates on Hand Sanitizers with Methanol ([U.S. FDA][3])\n4. FDA expands hand sanitizer recall to at least 75 brands across the U.S. ([NBC News][4])\n\n  [1]: https://www.fda.gov/consumers/consumer-updates/safely-using-hand-sanitizer\n  [2]: https://www.cdc.gov/handwashing/hand-sanitizer-use.html\n  [3]: https://www.fda.gov/drugs/drug-safety-and-availability/fda-updates-hand-sanitizers-methanol\n  [4]: https://www.nbcnews.com/health/health-news/fda-expands-hand-sanitizer-recall-least-75-brands-across-u-n1234246\n",
-    "DB (French)": [
-      "recIVQTKiG3cEhdcu"
-    ],
-    "DB (Hindi)": [
-      "recv9UIRYE5hQWU3w"
-    ],
-    "In translated DBs?": "Yes",
-    "DB (Telugu)": [
-      "recKyxSns6hcp48PL"
-    ],
-    "DB (Spanish)": [
-      "rec3U0MbZ1yDdfFJn"
-    ],
-    "DB (Arabic)": [
-      "recnerHXsJupr0QSc"
-    ],
-    "DB (Bengali)": [
-      "recLxnl7CuJ8g61Qo"
-    ],
-    "DB (Portuguese)": [
-      "recmyYdlAoS4oOFQY"
-    ],
-    "Last edited (simplified)": "2020-07-22T21:24:14.000Z",
-    "Last edited (experts say)": "2020-07-31T13:52:26.000Z",
-    "Last modified": "2020-07-31",
-    "What our experts say wordcount": 228,
-    "Background and context wordcount": 120,
-    "Other resources wordcount": 39,
-    "Wordcount": 387
-  },
-  {
     "id": "recenUqXFNVYnafXz",
     "Question": "How can I protect myself if I am attending a protest or mass gathering?",
     "Status": "Published",
@@ -1364,49 +2217,6 @@
     "Background and context wordcount": 141,
     "Other resources wordcount": 7,
     "Wordcount": 420
-  },
-  {
-    "id": "recRNOP1DQIw90RaZ",
-    "Question": "When do we consider someone with COVID-19 to have recovered?",
-    "Status": "Published",
-    "Background and context": "As COVID-19 spreads, so does the number of individuals who have recovered since thankfully most patients who have COVID-19 recover from the disease. There is ongoing debate and uncertainty regarding when and on what basis can we consider that a patient has recovered from COVID-19. \n\nIn summary, deciding when a patient has recovered from COVID-19 is more complicated than just judging by the moment the patient feels better. The definition of \"recovery\" needs to include more than just the complete improvement of the patient and the absence of symptoms. \n\nDefinitions of recovery vary a lot between countries and can still be subjective to the individual patient, because more severe cases may have symptoms that last longer, and in some cases individuals can test positive even if they are no longer infectious (i.e. they can't transmit the virus to other people). \n",
-    "What our experts say": "Different institutions (including hospitals, clinics, public health agencies, and government agencies) have used different criteria to define when someone with COVID-19 is considered recovered. These criteria are often used to decide when someone can be allowed to leave the hospital or can stop isolation. A review of COVID-19 recovery guidelines being used around the world show most doctors agree on the following criteria:\n1) Clinical: The patient no longer has symptoms, and\n2) Laboratory: The patient has negative test results (testing through swabs taken from the nose and throat) showing the virus is no longer present in the upper respiratory system.\nBoth of these criteria should be considered in combination to determine recovery. Negative test results are important because people can still spread the virus even if they have no symptoms or their symptoms have stopped. \n\nIn addition, the European Centre for Disease Control and Prevention (ECDC) suggests also considering the following criteria to determine if a patient has recovered:\n3) Positive serological or antibody test results from blood samples. \nAntibody tests can show if your immune system has produced antibodies to fight off COVID-19 which would signal that you had been infected with the virus. Antibody tests are typically done at least 1-3 weeks after a patient first experiences symptoms. However, antibody test results should not be used on their own to determine recovery - they should be used in combination with the other two criteria.\n\nIt is not always possible to use these recommended criteria to determine recovery. For example, some people with COVID-19 experience only mild symptoms (fatigue, shortness of breath, etc.) yet are not hospitalized because these symptoms are not severe enough. These mild symptoms can however persist over long periods of time (weeks to months) which further complicates how to decide if someone has recovered or not from COVID-19.\n",
-    "Glossary Terms": [
-      "recmajcAORyuqhZPc",
-      "recz6LiyrAkeNejA2",
-      "recPNexvQiug4RFJu",
-      "recOfgrqkPp7aa14o"
-    ],
-    "Other resources": "1. Discharge criteria for confirmed COVID-19 cases – When is it safe to discharge COVID-19 cases from the hospital or end home isolation?  ([European CDC][1])\n2. Discontinuation of Isolation for Persons with COVID-19 Not in Healthcare Settings ([U.S. CDC][2])\n3. Duration of Isolation and Precautions for Adults with COVID-19 ([U.S. CDC][3])\n\n  [1]: https://www.ecdc.europa.eu/sites/default/files/documents/COVID-19-Discharge-criteria.pdf\n  [2]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/disposition-in-home-patients.html\n  [3]: https://www.cdc.gov/coronavirus/2019-ncov/hcp/duration-isolation.html\n",
-    "DB (French)": [
-      "reccgAszbsy0mDb8P"
-    ],
-    "DB (Hindi)": [
-      "recGg5GrEARJJISwI"
-    ],
-    "In translated DBs?": "Yes",
-    "DB (Telugu)": [
-      "recux85y7hUPT6GBO"
-    ],
-    "DB (Spanish)": [
-      "recc3jBd4Jma9ddxE"
-    ],
-    "DB (Arabic)": [
-      "recurf1nCbLstiTkv"
-    ],
-    "DB (Bengali)": [
-      "reck9dTXXz06jEssE"
-    ],
-    "DB (Portuguese)": [
-      "recOobvP0b19NIhlE"
-    ],
-    "Last edited (simplified)": "2020-07-30T14:33:40.000Z",
-    "Last edited (experts say)": "2020-07-30T23:18:46.000Z",
-    "Last modified": "2020-07-30",
-    "What our experts say wordcount": 299,
-    "Background and context wordcount": 141,
-    "Other resources wordcount": 49,
-    "Wordcount": 489
   },
   {
     "id": "recUvk0IltcWA8G8O",
@@ -2140,62 +2950,6 @@
     "Wordcount": 260
   },
   {
-    "id": "recabh4pzUPxHxLq1",
-    "Question": "Does wearing a mask reduce your oxygen level?",
-    "Status": "Published",
-    "Category": "Prevention",
-    "Subcategory": "On: COVID-19 & masks",
-    "Source of the question": [
-      "Partner Organization"
-    ],
-    "Country question was sourced from": [
-      "Nigeria"
-    ],
-    "Background and context": "Recently, a huge amount of misinformation has come out regarding face masks and their potential impacts on people. Since the World Health Organization and U.S. CDC have recommended wearing masks to prevent the spread of COVID-19, face masks have become a target of political discussions. This is likely due to the fact that in the early months of 2020, face masks were not yet recommended by these groups for a number of reasons, including a lack of evidence that they would be effective (since then research has been conducted and we have proof of their effectiveness) and a general shortage of masks for doctors and healthcare professionals. As more research studies were completed and more evidence made it clear that face masks were effective in helping the spread of COVID-19, the face mask policies also changed.\n",
-    "What our experts say": "No. There is no proof that wearing a mask can reduce oxygen levels, also known as hypoxia. The United States Centers for Disease Control and Prevention (U.S. CDC) recommend wearing cloth masks in public, which are not too tight on our faces and allow for easy breathing.\n\nEven doctors and healthcare professionals wearing N95 masks (which fit very tightly around the face and are made to create a seal around the edge of the mask) are not at risk of hypoxia. However, for any person with preexisting lung or breathing problems in general, they should speak with their doctors about their concerns regarding masks. \n",
-    "Glossary Terms": [
-      "recCEG85awzcotyRi",
-      "recqnngV0Ej32WU8H",
-      "recZuNf7uTj0VplMB"
-    ],
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "prevention",
-      "face masks",
-      "hypoxia"
-    ],
-    "Other resources": "1. From the Frontlines: The Truth About Masks and COVID-19 ([ALA][1]) \n2. Proper N95 Respirator Use for Respiratory Protection Preparedness ([U.S. CDC][2]) \n3. CDC calls on Americans to wear masks to prevent COVID-19 spread ([U.S. CDC][3]) \n\n  [1]: https://www.lung.org/blog/covid-masks\n  [2]: https://blogs.cdc.gov/niosh-science-blog/2020/03/16/n95-preparedness/\n  [3]: https://www.cdc.gov/media/releases/2020/p0714-americans-to-wear-masks.html\n",
-    "DB (French)": [
-      "recaUSM0ZFP0RRbMk"
-    ],
-    "DB (Hindi)": [
-      "recsu4ZweLwnbVs96"
-    ],
-    "DB (Telugu)": [
-      "recXwOfJWIBdfWS8Q"
-    ],
-    "DB (Spanish)": [
-      "recL0MIpMRZYBjDWT"
-    ],
-    "DB (Arabic)": [
-      "recSEM1sgspgAYQ38"
-    ],
-    "DB (Bengali)": [
-      "recUTOx0aRpepSFkd"
-    ],
-    "DB (Portuguese)": [
-      "recxQqhJAiNNpUH3J"
-    ],
-    "Last edited (simplified)": "2020-07-29T17:17:21.000Z",
-    "Last edited (experts say)": "2020-07-29T17:56:41.000Z",
-    "Last modified": "2020-07-30",
-    "What our experts say wordcount": 104,
-    "Background and context wordcount": 135,
-    "Other resources wordcount": 37,
-    "Wordcount": 276
-  },
-  {
     "id": "recXb3N5IK5AseYsP",
     "Question": "What does the science say about COVID-19 on surfaces?",
     "Status": "Published",
@@ -2339,59 +3093,6 @@
     "Background and context wordcount": 205,
     "Other resources wordcount": 40,
     "Wordcount": 418
-  },
-  {
-    "id": "recLb3N3jf8NIqfhK",
-    "Question": "How effective is it to use only a face shield to protect from COVID-19?",
-    "Status": "Published",
-    "Source of the question": [
-      "Social Media"
-    ],
-    "Country question was sourced from": [
-      "Nigeria"
-    ],
-    "Background and context": "Face shields are a type of personal protective equipment (PPE), along with masks, protective eye goggles, gloves, gowns, and other equipment. Proper use of PPE can help reduce the spread of COVID-19, yet some people are asking experts about minimum PPE recommendations. This may be due to access barriers (ex. cost, limited supply), use barriers (ex. heat, difficulty breathing, physical discomfort, aesthetics), cleaning and maintenance barriers, or other reasons. Face shields are easier to wear, disinfect, and reuse than cloth or surgical masks. It is important to remember that PPE is a risk reduction measure that lowers the chances of infection, which is different from risk avoidance measures (completely eliminating risks is not always possible, particularly when exposed to other people who could transmit COVID-19).\n",
-    "What our experts say": "Wearing only a face shield to protect from COVID-19 is not as effective as wearing a mask, or wearing a face shield in combination with a mask. \nCloth face masks primarily protect people in close proximity to the mask wearer. This is because face masks cover a person's nose and mouth from all sides and are meant to trap droplets that are released when the mask wearer speaks, sneezes, coughs or sings. This is particularly relevant in the case of COVID-19 where many infected patients are asymptomatic or pre-symptomatic and therefore can spread the virus to others without feeling any symptoms. Face masks also offer some protection to the wearer by filtering out virus particles trying to enter and reducing exposure to the virus coming from other people.\nFace shields primarily protect the person wearing it. This is because face shields have the advantage of protecting the entire face, including the eyes, and often prevent people from touching their faces. However, due to insufficient research to date, we do not know how effective face shields are at protecting people in close proximity to the person wearing the face shield, in case that person is infected with COVID-19. \n",
-    "Glossary Terms": [
-      "recuQuM83b2X3K9Bx"
-    ],
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "prevention",
-      "transmission",
-      "spread"
-    ],
-    "Other resources": "1. You're getting used to masks. Will you wear a face shield? ([NYT][1])\n2. The growing scientific evidence for masks to fight Covid-19** **([Vox][2])\n3. CDC calls on Americans to wear masks to prevent COVID-19 spread ([U.S. CDC][3])\n\n\n  [1]: https://www.nytimes.com/2020/05/24/health/coronavirus-face-shields.html\n  [2]: https://www.vox.com/future-perfect/21299527/masks-coronavirus-covid-19-studies-research-evidence\n  [3]: https://www.cdc.gov/media/releases/2020/p0714-americans-to-wear-masks.html?utm_source=Global+Health+NOW+Main+List&utm_campaign=ba35be8398-EMAIL_CAMPAIGN_2020_07_14_03_18&utm_medium=email&utm_term=0_8d0d062dbd-ba35be8398-860399\n",
-    "DB (French)": [
-      "recPuIYuQ8nmsHG0U"
-    ],
-    "DB (Hindi)": [
-      "recOSiq7r71gpwfWY"
-    ],
-    "In translated DBs?": "Yes",
-    "DB (Telugu)": [
-      "recVWneaXP3VBTpTi"
-    ],
-    "DB (Spanish)": [
-      "receiQ8YuKkmp4WNU"
-    ],
-    "DB (Arabic)": [
-      "recyCh3KXsg8DP7WJ"
-    ],
-    "DB (Bengali)": [
-      "recWVdHU7dvRsViUV"
-    ],
-    "DB (Portuguese)": [
-      "recxWOz857ENADWUv"
-    ],
-    "Last edited (simplified)": "2020-07-01T01:07:44.000Z",
-    "Last edited (experts say)": "2020-07-30T15:11:56.000Z",
-    "Last modified": "2020-07-30",
-    "What our experts say wordcount": 197,
-    "Background and context wordcount": 125,
-    "Other resources wordcount": 36,
-    "Wordcount": 358
   },
   {
     "id": "recE68fRyDEYYEuIr",
@@ -4098,60 +4799,6 @@
     "Wordcount": 363
   },
   {
-    "id": "reccgTQWarmDQ9sQ9",
-    "Question": "Will recent protests lead to an outbreak or second wave of infections?",
-    "Status": "Published",
-    "Subcategory": "On: COVID-19 & second wave of infections",
-    "Source of the question": [
-      "Social Media"
-    ],
-    "Country question was sourced from": [
-      "USA"
-    ],
-    "Background and context": "Respiratory viruses are primarily spread through infectious respiratory droplets (coughing, sneezing, and sometimes talking). Close contact (within 6 feet/2 meters) for a prolonged period of time (15 minutes or more) without respiratory protection is considered an exposure risk for COVID-19. While we don't know what the number of cases related to large gatherings, like the recent protests, will look like, it is likely that there will be some. Protestors are encouraged to not only utilize infection prevention measures, but also quarantine at home for 14 days after protesting. \n",
-    "What our experts say": "Large gatherings of people in close contact for a prolonged period of time does increase risk for transmission of respiratory viruses. Outdoor protests allow for natural ventilation, and the additional use of masks, eye protection, and social distancing efforts can help reduce risk. While it is unknown if protests will lead to a large increase in the number of cases, it is possible there will be additional cases in the 2 weeks following protests. \n",
-    "Glossary Terms": [
-      "recvwSSjn9ohOm9fK"
-    ],
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "protest",
-      "second wave",
-      "outbreak"
-    ],
-    "Other resources": "1. The Protests will spread the coronavirus ([The Atlantic][1]) \n2. The Respiratory Health Risks of Large Crowds ([AATS][2])\n3. How to Protect Yourself & Others ([U.S. CDC][3])\n\n  [1]: https://www.theatlantic.com/health/archive/2020/06/protests-pandemic/612460/\n  [2]: https://www.atsjournals.org/doi/full/10.1513/AnnalsATS.201603-177ED\n  [3]: https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html\n",
-    "DB (French)": [
-      "rec0yX8knrSZ8EaTA"
-    ],
-    "DB (Hindi)": [
-      "reci5ZkVYfbId4yH0"
-    ],
-    "In translated DBs?": "Yes",
-    "DB (Telugu)": [
-      "recTxdEKtFXi9OaKH"
-    ],
-    "DB (Spanish)": [
-      "reccTGyy0AeJXZHEj"
-    ],
-    "DB (Arabic)": [
-      "recwd7tktiavbKSN8"
-    ],
-    "DB (Bengali)": [
-      "recUw37uD3pe0Q3Lk"
-    ],
-    "DB (Portuguese)": [
-      "recvxEZIBXya8yHLU"
-    ],
-    "Last edited (simplified)": "2020-06-19T00:14:17.000Z",
-    "Last edited (experts say)": "2020-06-19T00:21:01.000Z",
-    "Last modified": "2020-07-24",
-    "What our experts say wordcount": 75,
-    "Background and context wordcount": 89,
-    "Other resources wordcount": 26,
-    "Wordcount": 190
-  },
-  {
     "id": "reco2uYADZHn5mpCd",
     "Question": "What do people mean when they refer to COVID-19 as being a blood vessel disease?",
     "Status": "Published",
@@ -5115,157 +5762,6 @@
     "Wordcount": 395
   },
   {
-    "id": "rec4vIYYUif72tS5C",
-    "Question": "Why are scientists warning about an increase in zoonotic diseases impacting humans?",
-    "Status": "Published",
-    "Source of the question": [
-      "Social Media"
-    ],
-    "Country question was sourced from": [
-      "USA"
-    ],
-    "Background and context": "Zoonotic diseases, like the virus SARS-CoV-2 that causes COVID-19 and Ebola virus disease, have shown a propensity for not only spilling over from animal reservoirs into humans, but sustained human to human transmission. These factors are influenced by several variables, such as climate change, human development and encroachment on natural environments. As a result, more focus as been placed on One Health, which underscores the relationship between human, animal, and environmental health. \n",
-    "What our experts say": "Zoonotic diseases are infectious diseases that can spread from animals to humans. \"Spillover events\" (when a disease jumps from an animal to a human) have been known to cause outbreaks, like ebola virus disease. Since some infectious diseases can live within an animal without causing any illness to it, certain interactions with an infected animal can result in transmission to humans. \nRoughly 6 out of 10 known infectious diseases in people are zoonotic. Of all the emerging infectious diseases (a disease that has newly appeared in a population or has increased incidence in recent years), 3 out of 4 come from animals. Scientists are increasingly worried about zoonotic diseases as they are growing in frequency. In some cases which animal transferred infection to humans is unknown, like SARS-CoV-2, the virus that causes COVID-19. As humans expand in the environment through globalization and infringement on undeveloped natural environments, like forests or jungles, the risk for exposure to zoonotic disease increases. Similarly, factors such as the exotic animal trade, the impacts of climate change, and the expansion of animal markets can cause zoonotic diseases to spread more rapidly and widely.\n\n",
-    "Glossary Terms": [
-      "rece5ZCMacYxbgECP"
-    ],
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "contagion",
-      "infection",
-      "prevention"
-    ],
-    "Other resources": "1. 8 Zoonotic Diseases Shared Between Animals and People of Most Concern in the U.S. ([U.S. CDC][1]) \n2. Zoonotic disease: emerging public health threats in the Region ([WHO][2]) \n\n  [1]: https://www.cdc.gov/media/releases/2019/s0506-zoonotic-diseases-shared.html\n  [2]: http://www.emro.who.int/about-who/rc61/zoonotic-diseases.html\n",
-    "DB (French)": [
-      "recRCWt4HbmgWqP2h"
-    ],
-    "DB (Hindi)": [
-      "rec8K7WMOUHrc6dvt"
-    ],
-    "Media": [
-      {
-        "id": "attbVcH4KJFOeSU2v",
-        "url": "https://dl.airtable.com/.attachments/f692796c2e8e321242712f56bd7f260c/c4ac8760/Slide_1",
-        "filename": "Slide_1",
-        "size": 307755,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/f9f02baf949f3f4ab341e48d2618d90a/37178816",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/ad07930621b5316a59b6184023690988/50753e56",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/75ef7a4c94013b4b3f7479b39ab39d83/23e73fbd",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "attq6Rr5W6uva9kdF",
-        "url": "https://dl.airtable.com/.attachments/9d7b3f58d18fdfd5adbb2dbe9f2e4f87/8657f622/Slide_2",
-        "filename": "Slide_2",
-        "size": 213108,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/3c3ef77b33cdd1345d1f4dae5cb84921/3e50c669",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/750ceaa92fb26033ba0a2cf5df1d1f70/95f4b560",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/f0ccf04af23cf07ea7bc0f1a402f685a/87a0fc6b",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "attLPithBa75OS67E",
-        "url": "https://dl.airtable.com/.attachments/8c877711cbce0ffe60f4b0683fbda997/c914d4c4/Slide_3",
-        "filename": "Slide_3",
-        "size": 219447,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/1e5e9855a296736e6d9fbd17374444d3/1aa3591e",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/5df6bb680824449e2dc0ffcf489749a3/2759041a",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/dd13640e37867871ebaaacdb4ba24d27/ccac6274",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "attybCxJan6TvZxVH",
-        "url": "https://dl.airtable.com/.attachments/c59a24803a0ca63731ee2dbf13cfb278/abecaf85/Slide_4",
-        "filename": "Slide_4",
-        "size": 211193,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/ef7f4a1895c2c9f4eb46fb2b496c0a8d/a23517c6",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/5e4ab77b779c0903546c3d1e28f6132f/b063c182",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/c55adede91e33f71a8ff51f3013a4bca/7b1c4b84",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ],
-    "In translated DBs?": "Yes",
-    "DB (Telugu)": [
-      "recPYRE1Jr3zrqfO1"
-    ],
-    "DB (Spanish)": [
-      "rec8kkyPgmk0fBMID"
-    ],
-    "DB (Arabic)": [
-      "recsELtBJ4gMtmXRs"
-    ],
-    "DB (Bengali)": [
-      "recQXH7LTPvvis8PE"
-    ],
-    "DB (Portuguese)": [
-      "recrYiZZRJErqaMPe"
-    ],
-    "Last edited (simplified)": "2020-06-19T00:16:48.000Z",
-    "Last edited (experts say)": "2020-06-23T11:59:00.000Z",
-    "Last modified": "2020-07-24",
-    "What our experts say wordcount": 188,
-    "Background and context wordcount": 73,
-    "Other resources wordcount": 29,
-    "Wordcount": 290
-  },
-  {
     "id": "rec5mweIOKMurWcRK",
     "Question": "What kind of impact can COVID-19 have on blood and circulation?",
     "Status": "Published",
@@ -5367,180 +5863,6 @@
     "Background and context wordcount": 270,
     "Other resources wordcount": 30,
     "Wordcount": 631
-  },
-  {
-    "id": "rec5CB2EhWwQ6bTAh",
-    "Question": "What is COVID-19 delirium?",
-    "Status": "Published",
-    "Source of the question": [
-      "Social Media"
-    ],
-    "Country question was sourced from": [
-      "USA"
-    ],
-    "Background and context": "Recent studies have shown a concerting trend of delirium in COVID-19 patients, without predisposition for age or gender. Often, this manifests in the central nervous system. Unfortunately, documentation is often missed in 75% of delirium cases, which has been challenging for the identification of COVID-19 related incidents. As more research is pointing to COVID-19 delirium being a trend in hospitalized patients, there is a need to ensure documentation occurs. \n",
-    "What our experts say": "COVID-19 delirium occurs in patients who have a sudden onset of mental disturbances that results in confusion and a lack of accurate perceptions regarding their environment and current state. Delirium itself is a change in mental abilities that results in the inability to think clearly, reduced awareness, and often emotional shifts. Delirium often occurs rapidly in patients and is frequently attributed to severe or chronic illness, changes in metabolism (the reactions and processes in your body that convert food into energy), infections, and other factors. Researchers and doctors have recently drawn attention to the fact that regardless of age, potentially 1/3 of COVID-19 patients can develop symptoms of delirium. More recent studies, though, have seen delirium in 20-30% of hospitalized patients with higher rates occurring in critically ill patients (upwards of 60-70%). Delirium can lead to longer hospital stays, which increases the risk for complications. \n",
-    "Glossary Terms": [
-      "recBBELvoZKXpdyST",
-      "recsGjajfNl77jdAF"
-    ],
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "symptoms"
-    ],
-    "Other resources": "1. COVID-19 Delirium research paper, ([Critical Care][1]) \n2. Delirium: a missing piece in the COVID-10 pandemic puzzle ([Age Aging][2])\n\n  [1]: https://link.springer.com/content/pdf/10.1186/s13054-020-02882-x.pdf\n  [2]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7239228/\n",
-    "DB (French)": [
-      "reccLqkEvDwZa9jyJ"
-    ],
-    "DB (Hindi)": [
-      "rec15gZ2TyiR3EZLv"
-    ],
-    "Media": [
-      {
-        "id": "atte4AFr2Bz2FYPrs",
-        "url": "https://dl.airtable.com/.attachments/2a2f60db24fd332cdb24185610c886a6/357fac57/Slide1.png",
-        "filename": "Slide 1.png",
-        "size": 146906,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/eba136ce5826341ca99b8ef43d11b89f/42d0d0ab",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/9d508c3be461b5b8ebab69106c1fe6ac/0b045287",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/60adb4aabcf6382cca32c2ed811a07db/d39de6d9",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "attQd4nSfE2DNZjGr",
-        "url": "https://dl.airtable.com/.attachments/db1a342fd6c1d31d00123d3dd2f980b5/dbe86ecf/Slide2.png",
-        "filename": "Slide 2.png",
-        "size": 143357,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/76b3418abe72681f7b0e63bf6274e64c/a222d41d",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/c8d245ee2dd01280e151b630513c79e2/4f195547",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/01d2e99d5f48ae198db6ff0315ab3b66/4501802c",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "attMa2gWdjf8ImVow",
-        "url": "https://dl.airtable.com/.attachments/8f8df8807eedd112d1794651e859441d/39fedbca/Slide3.png",
-        "filename": "Slide 3.png",
-        "size": 136469,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/b3f689ad1dc7b72c19e5965ce3161f3d/bd627898",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/89a1349c979899256333c49367253496/7b559457",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/0087709732ff5649e94af9b78b43b3a2/25c18269",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "attmK30idOuAqzCBn",
-        "url": "https://dl.airtable.com/.attachments/9e4d541e8c7ff343a93cbb53e2f1f7a1/e8a1e747/Slide4.png",
-        "filename": "Slide 4.png",
-        "size": 158379,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/852b6a807021491f5a658e1e970f2a49/b75f50dd",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/24d0b6b6280caf20374a4435562f940c/bb27666b",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/79bd14e33c7683123ec68d66f4383739/fefd9386",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "attsfYhI6Frw6fDl0",
-        "url": "https://dl.airtable.com/.attachments/f9e73421540bc5e1f6f0ea40671b989e/2f164b89/Slide5.png",
-        "filename": "Slide 5.png",
-        "size": 179371,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/e68d058fff5d645d0f44acd877fa9a7b/376ee981",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/d46fec0cbbc1d882fb8cd6fcb723bc19/e50df18b",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/bf35fea483355fa9032f659c077b9669/4f32b3ff",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ],
-    "In translated DBs?": "Yes",
-    "DB (Telugu)": [
-      "recxHype7A5IeDWpA"
-    ],
-    "DB (Spanish)": [
-      "recQ31j2Evm92Otjc"
-    ],
-    "DB (Arabic)": [
-      "recanseO7diVgzEs1"
-    ],
-    "DB (Bengali)": [
-      "recyGoSYhYxE5FPqd"
-    ],
-    "DB (Portuguese)": [
-      "rec9HZKcfSGAdntqN"
-    ],
-    "Last edited (simplified)": "2020-06-17T22:08:19.000Z",
-    "Last edited (experts say)": "2020-06-24T23:07:20.000Z",
-    "Last modified": "2020-07-24",
-    "What our experts say wordcount": 146,
-    "Background and context wordcount": 70,
-    "Other resources wordcount": 19,
-    "Wordcount": 235
   },
   {
     "id": "rec74MaH5G2VOowuC",
@@ -7576,95 +7898,6 @@
     "Background and context wordcount": 136,
     "Other resources wordcount": 61,
     "Wordcount": 407
-  },
-  {
-    "id": "recz1YK8aca1AExY3",
-    "Question": "What do we know about the inflammatory syndrome impacting children with COVID-19?",
-    "Status": "Published",
-    "Background and context": "The U.S. Centers for Disease Control and Prevention (U.S. CDC) warns that risks of severe COVID-19 illness tend to increase with age, with people over 85 being at highest risk for hospitalization, intensive care, ventilation, and potentially death. Tragically, the lives of young people, including children, have also been lost during the COVID-19 pandemic. More evidence is emerging on how some young patients develop severe symptoms and complications related to COVID-19. Multisystem inflammatory syndrome in children (MIS-C) is a serious and potentially fatal condition in young people, which can appear similar to Kawasaki's disease. In mid-May 2020, the U.S. CDC asked doctors across the country to look out for MIS-C cases. In June 2020, another two studies found over 300 children with MIS-C in the United States, which was reported widely in the media. Researchers around the world continue to study why some children are seriously affected by COVID-19 when the majority of young people have had relatively mild cases.\n",
-    "What our experts say": "The majority of young people infected have had relatively mild cases of COVID-19. However, the U.S. Centers for Disease Control (U.S. CDC) recently identified the more severe multisystem inflammatory syndrome in children (MIS-C) as a new syndrome associated with the virus that causes COVID-19. This inflammatory syndrome was first identified in April 2020 and is characterized by inflammation in different body parts, including the heart, lungs, kidneys, brain, skin, eyes, or gastrointestinal organs. While MIS-C is rare, it can be deadly. Symptoms in children include fever, abdominal (gut) pain, vomiting, diarrhea, neck pain, rash, bloodshot eyes, or fatigue. This is a newly identified condition that requires more research, but doctors have observed that symptoms can develop within four weeks of exposure to the novel coronavirus. The inflammation can be managed with medicines that can prevent damage to vital organs. MIS-C occurs in young people under 21, according to its case definition, although it is thought to mostly affect children between the ages of 2 to 15 and is not commonly reported in babies. The U.S. CDC recommends immediately contacting a doctor if your child exhibits any of the symptoms of the inflammatory syndrome. We still do not know why some children experience symptoms, while others do not, and it is unclear if children with particular health conditions are more likely to get MIS-C. At this point, the best prevention measures include taking all precautions to avoid contracting the novel coronavirus, including hand washing, social distancing, avoiding public gatherings, and wearing masks.\n",
-    "Other resources": "1. Multisystem Inflammatory Syndrome ([U.S. CDC][1])\n2. For Parents: Multisystem Inflammatory Syndrome in Children (MIS-C) associated with COVID-19 ([U.S. CDC][2])\n3. MIS-C and COVID-19: Rare Inflammatory Syndrome in Kids and Teens ([Hopkins Medicine][3])\n4. Multisystem Inflammatory Syndrome in U.S. Children and Adolescents ([NEJM][4])\n5. Multisystem Inflammatory Syndrome in Children in New York State ([NEJM)][5]\n6. Researchers report nearly 300 cases of inflammatory syndrome tied to Covid-19 in kids ([STAT News][6])\n\n  [1]: https://www.cdc.gov/mis-c/index.html\n  [2]: https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/children/mis-c.html\n  [3]: https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/misc-and-covid19-rare-inflammatory-syndrome-in-kids-and-teens\n  [4]: http://Multisystem Inflammatory Syndrome in U.S. Children and Adolescents\n  [5]: https://www.nejm.org/doi/full/10.1056/NEJMoa2021756\n  [6]: https://www.statnews.com/2020/06/29/nejm-inflammation-children-covid19-misc/\n",
-    "DB (French)": [
-      "recMDPWZLzbMXk8DX"
-    ],
-    "DB (Hindi)": [
-      "recFvSXFM2MnW9tQZ"
-    ],
-    "In translated DBs?": "Yes",
-    "DB (Telugu)": [
-      "recGM2HNRMkmfSJBr"
-    ],
-    "DB (Spanish)": [
-      "recZ8vBBoHBN33gv3"
-    ],
-    "DB (Arabic)": [
-      "recjsWwnRpxzhOrES"
-    ],
-    "DB (Bengali)": [
-      "recHLSax1aMi6UCC4"
-    ],
-    "DB (Portuguese)": [
-      "reciMt2LZ4VeeCgCE"
-    ],
-    "Last edited (simplified)": "2020-07-17T02:31:56.000Z",
-    "Last edited (experts say)": "2020-07-17T02:31:15.000Z",
-    "Last modified": "2020-07-24",
-    "What our experts say wordcount": 251,
-    "Background and context wordcount": 160,
-    "Other resources wordcount": 65,
-    "Wordcount": 476
-  },
-  {
-    "id": "recFi8qUxcrBhBeb9",
-    "Question": "What does it mean for COVID-19 to impact the brain?",
-    "Status": "Published",
-    "Category": "Symptoms",
-    "Subcategory": "On: COVID-19 & the brain",
-    "Background and context": "COVID-19 has been linked to a series of health complications beyond respiratory failure, including neurological complications that can potentially damage the brain. Recently, news has been circulating about how SARS-CoV-2, the virus that causes COVID-19, has been associated with many different neurological syndromes, including nerve damage, delirium, and stroke. While the condition is not very common, doctors are currently looking at data from individual patients from around the world to assess how it has impacted patients.\n\nThese neurological complications have also been reported during previous epidemics, such as the Severe Acute Respiratory Syndrome (SARS) epidemic in 2003 and the Middle East Respiratory Syndrome (MERS) outbreak more recently in 2012.\n",
-    "What our experts say": "Physicians and scientists are learning more about how COVID-19 impacts organs outside of the respiratory system, such as the brain. The emerging evidence has revealed that some COVID-19 patients experience neurological symptoms, which impact the nervous system, composed principally of the brain, spinal cord, nerves, and ganglia (cell bodies that relay nerve signals). \n\nIn early March 2020, observational data from 58 patients in France indicated the presence of neurological symptoms such as agitation, confusion, disorientation, and encephalopathy (brain damage). In April 2020, a study was published on 214 COVID-19 patients in China with \"severe infection,\" where over a third were reported to experience neurological symptoms, including acute cerebrovascular diseases and impaired consciousness.\n\nIn July 2020, another study on over 40 British patients provided additional evidence about neurological symptoms, ranging from brain inflammation and delirium to nerve damage and stroke. Some of these patients reported severe symptoms, such as strokes and paralysis resulting from nerve damage, while others experienced more minor symptoms like breathlessness and fatigue. Most of the cases with brain inflammation were diagnosed with acute disseminated encephalomyelitis (ADEM), which is a rare illness involving inflammation of the brain and spinal cord that results from viral infections. Data from London indicated an increase in ADEM cases for this study period during the pandemic, as the number of reported cases would typically have been expected over a 5-month period rather than a 5-week period in the city. \n\nSARS-CoV-2, the virus that causes COVID-19, was not detected in the cerebrospinal brain fluid of any of the British patients tested, which may suggest that the virus did not directly attack the brain and that the symptoms could have occurred post-infection.\n\nWith the increasing evidence of neurological symptoms, which have not been found to occur as commonly as respiratory symptoms, researchers and health care practitioners are continuing to observe patients around the world to learn more about how COVID-19 impacts on the brain. The long-term implications are still unclear, since COVID-19 is a new disease and there has not been enough time to observe the development of symptoms in patients over long periods of time.\n",
-    "Glossary Terms": [
-      "recR9wzTcTIDRvZxF",
-      "recsGjajfNl77jdAF"
-    ],
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n\n",
-    "Topics": [
-      "virus",
-      "symptoms",
-      "brain",
-      "inflammation"
-    ],
-    "Other resources": "1. Neurologic Manifestations of Hospitalized Patients With Coronavirus Disease 2019 in Wuhan, China ([JAMA][1]) \n2. Neurologic Features in Severe SARS-CoV-2 Infection ([NEJM][2]) \n3. The emerging spectrum of COVID-19 neurology: clinical, radiological and laboratory findings ([Brain][3])\n4. How Covid-19 can damage the brain ([BBC][4])\n5. Warning of serious brain disorders in people with mild coronavirus symptoms ([The Guardian][5])\n\n  [1]: https://jamanetwork.com/journals/jamaneurology/fullarticle/2764549\n  [2]: https://www.nejm.org/doi/full/10.1056/NEJMc2008597\n  [3]: https://academic.oup.com/brain/article/doi/10.1093/brain/awaa240/5868408\n  [4]: https://www.bbc.com/future/article/20200622-the-long-term-effects-of-covid-19-infection\n  [5]: https://www.theguardian.com/world/2020/jul/08/warning-of-serious-brain-disorders-in-people-with-mild-covid-symptoms\n",
-    "How often revision needed": "Weekly",
-    "DB (French)": [
-      "rec9Zv3Q7beAIwHDw"
-    ],
-    "DB (Hindi)": [
-      "recOsZvkjBzqEIPAv"
-    ],
-    "In translated DBs?": "Yes",
-    "DB (Telugu)": [
-      "recSXSrDKgSbFdTFv"
-    ],
-    "DB (Spanish)": [
-      "recbjllrhb9Ctoqz7"
-    ],
-    "DB (Arabic)": [
-      "recvDMgdKT5oH9BIW"
-    ],
-    "DB (Bengali)": [
-      "recTWIUnUEk7wfMG8"
-    ],
-    "DB (Portuguese)": [
-      "recuXjMBSyt3EXqGI"
-    ],
-    "Last edited (simplified)": "2020-07-16T23:02:18.000Z",
-    "Last edited (experts say)": "2020-07-17T02:23:37.000Z",
-    "Last modified": "2020-07-24",
-    "What our experts say wordcount": 349,
-    "Background and context wordcount": 108,
-    "Other resources wordcount": 53,
-    "Wordcount": 510
   },
   {
     "id": "recmlODv0JQ3RSw7c",
