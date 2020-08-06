@@ -94,9 +94,9 @@ moduleStories:
   - sys:
       id: 1j7pukiiIJLqM6BkVPEjes
       created_at: !ruby/object:DateTime 2020-08-06 16:10:13.557000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-06 20:38:15.395000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-06 22:06:40.802000000 Z
       content_type_id: story
-      revision: 5
+      revision: 12
     title: Training the next workforce to field dangerous claims
     slug: training-the-next-workforce-to-field-dangerous-claims
     topic:
@@ -110,26 +110,27 @@ moduleStories:
       title: Training the next workforce to field dangerous claims
       description: 
       url: "//images.ctfassets.net/g118h5yoccvd/1qRNXY3kCrIJ47gtGnGtsn/77514c4b0bfdc694983edb17e2039e20/meedan_blog_training.png"
-    body: "During the Black Plague, before scientists could catch up and diagnose
-      the actual cause of the disease (a bacterium called Yersinia pestis), [religious
+    body: "In the 1300s during the Black Plague, before scientists could diagnose
+      the cause of the disease (a bacterium now called Yersinia pestis), [religious
       cures, potions and bloodletting](https://www.ancient.eu/article/1540/medieval-cures-for-the-black-death/)
       filled anxiety-inducing gaps in information that incomplete infectious disease
-      research could not yet speak to. Years later, before the true biology of the
-      Spanish Flu was discovered, even[ many scientists](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2118275/)
-      believed wrongly that the flu came from the same bacterium that caused diseases
-      like anthrax, cholera, and plague. Today we see similar misinformation surrounding
-      COVID-19 treatments, cures and preventions, all spreading across the internet
-      before they’ve been verified or refuted by good science. \n\nIn all of these
-      cases, the need or desire to know a truth outpaces the discovery of that truth
-      *(\"How much should we be testing? How did the virus spread? What are the symptoms?
-      What are the cures?\")*. So people make stuff up. They latch onto theories,
-      maybe because bad information and hasty news is more comforting than no information
-      at all. Earlier this week, An Xiao Mina [coined this concept](https://meedan.com/blog/missing-information-not-just-misinformation-is-part-of-the-problem/)
+      research could not. Generations later, during the Spanish Flu, before its true
+      biology was discovered even[ many scientists](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2118275/)
+      believed wrongly that the disease came from the same bacterium that caused illnesses
+      like anthrax, cholera, and plague. Today, in the throes of this pandemic, we
+      see similar misinformation surrounding COVID-19 treatments, cures and preventions,
+      all spreading across the internet before they’ve been verified or refuted by
+      good science. \n\nIn all of these cases, the need or desire to know a truth
+      outpaces the discovery of that truth *(\"How much should we be testing? How
+      did the virus spread? What are the symptoms? What are the cures?\")*. So people
+      make stuff up. They latch onto theories, maybe because bad information and hasty
+      news is more comforting than no information at all. Earlier this week, An Xiao
+      Mina [coined this concept](https://meedan.com/blog/missing-information-not-just-misinformation-is-part-of-the-problem/)
       “midinformation.\" \n\nToday’s online environment exacerbates the spread of
-      all forms of misleading content, by amplifying false or understudied theories
-      that lead to poor health outcomes worldwide. The internet's democratization
-      of knowledge and ensuing decentralization of information authority triggers
-      much of this exacerbation. It also calls for solutions that are as powerful
+      all forms of misleading content by amplifying false or understudied theories,
+      leading to poor health outcomes worldwide. The internet's democratization of
+      groundtruths, and ensuing decentralization of information authority triggers
+      a big chunk of this complex issue. It also calls for solutions that are as powerful
       and scaleable as the problem itself. \n\nThere is a growing global need for
       a workforce that can help the public root through the noise of the internet
       and get to the bottom of the chaos. More than just a baseline need for journalism

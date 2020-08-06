@@ -1,5 +1,184 @@
 [
   {
+    "id": "recbw6ac5kq8tsDHY",
+    "Status": "Published",
+    "Category": "Transmission",
+    "Subcategory": "On: COVID-19 & migration",
+    "Source of the question": [
+      "Social Media"
+    ],
+    "Country question was sourced from": [
+      "India"
+    ],
+    "Background and context": "Disproportionate impacts of COVID-19 on migrant laborers are being documented globally as a result of poor or crowded working conditions, inadequate living conditions, risk of contracting the virus while traveling for work, and low access to quality healthcare, among other factors. Migratory and seasonal agricultural workers (MSAWs) have been documented to disproportionately infectious diseases, like COVID-19, along with a host of other serious health problems including diabetes, malnutrition, infectious diseases, pesticide poisoning, and injuries from work-related machinery. These health issues are exacerbated by the transitory culture of this population group, which makes it difficult to develop a relationship with a healthcare provider, maintain treatment regimens, and track health records. For these reasons, MSAWs were inequitably impacted by India's sudden shut down, and by the sudden reopening. \nSource: <https://www.ruralhealthinfo.org/topics/migrant-health>\n",
+    "What our experts say": "India enacted one of the toughest nationwide lockdown policies in response to the COVID-19 pandemic, and shut down all travel and movement with barely four hours notice on March 24, 2020. The lockdown disproportionately impacted the informal sector of India (the part of any economy that is not regulated by the government), and left thousands of migrant laborers and daily wage earners stranded. With buses and trains shuttered, migrant laborers had to walk hundreds of kilometers back to their villages, and many died along the way. \n\nIndia's COVID-19 response has been criticized for inadequately accounting for the needs of the most marginalized and vulnerable residents who lacked resources to cope with the abrupt lockdown. Now that the lockdown has ended, the Supreme Court of India has ordered states to identify stranded migrant laborers and facilitate their return to their hometowns. Several states, including West Bengal, Odisha, Bihar, and Jharkhand, have reported spikes in infections as more than 10 million migrant workers return to their homes following the easing of lockdown measures. The actual impact of migration on COVID-19 cases is difficult to ascertain, since testing has also improved, but the sudden influx of migrant laborers has made it even more difficult for the state healthcare institutions to treat and care for COVID-19 cases.\n",
+    "Glossary Terms": [
+      "recSMSaoUfxS4ZXWq",
+      "rec2UNEXbTkSCx30Q"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "transmission",
+      "migration",
+      "migrant laborer",
+      "India"
+    ],
+    "Other resources": "1. India: COVID-19 Lockdown Puts Poor at Risk ([HRW][1])\n2. The Pandemic Exposes India’s Apathy Toward Migrant Workers ([The Atlantic][2]) \n3. Send migrant workers home in 15 days: India's top court to states ([Aljazeera][3])\n4. Bihar, Jharkhand and Odisha record big spikes as migrant workers return home ([Hindustan Times][4])\n5. Coronavirus lockdown: The Indian migrants dying to get home ([BBC][5])\n\n  [1]: https://www.hrw.org/news/2020/03/27/india-covid-19-lockdown-puts-poor-risk\n  [2]: https://www.theatlantic.com/ideas/archive/2020/04/the-pandemic-exposes-indias-two-worlds/609838/\n  [3]: https://www.aljazeera.com/news/2020/06/send-migrant-workers-home-15-days-india-top-court-states-200609073709386.html\n  [4]: https://www.hindustantimes.com/india-news/bihar-jharkhand-and-odisha-record-big-spikes-as-migrant-workers-return-home/story-6PfyWmDaJPbpkgeZpqTVhN.html\n  [5]: https://www.bbc.com/news/world-asia-india-52672764\n",
+    "DB (French)": [
+      "recjHaAMVFSr4q85I"
+    ],
+    "DB (Hindi)": [
+      "recq5h0Prcle128f9"
+    ],
+    "Media": [
+      {
+        "id": "attzLc5IfnFmCwx8b",
+        "url": "https://dl.airtable.com/.attachments/e3f21e382593fe12725104493aac4d0d/22295161/migrantlaborers_v15.png",
+        "filename": "migrant laborers_v1 (5).png",
+        "size": 168909,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/0c4eb06681ad9f6bb200fbf39d4bbdb7/d139ceff",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d224731c9d905b7b7777b0a18769c610/e9ba88e0",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b29683b5af113872a98a85e4fe659148/694c84c3",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attim9qqrjRT8QA1x",
+        "url": "https://dl.airtable.com/.attachments/12a5e71066d7fa4124acf4e570eb0d94/c075fb9c/migrantlaborers_v16.png",
+        "filename": "migrant laborers_v1 (6).png",
+        "size": 197844,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/376204ee89a0941c042b664831796b1a/6ae920a9",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7fcd3810d24b4307fcc457469bffebc0/062e3ebf",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/695a4dc1868d1fb96f6c53812c0abc9a/86ef2525",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attEU0pfUBC265Mmg",
+        "url": "https://dl.airtable.com/.attachments/138780f6c46aa35905e4642d25c622a2/3fbc3af5/migrantlaborers_v17.png",
+        "filename": "migrant laborers_v1 (7).png",
+        "size": 150116,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7f51dd99911a744bf665a4f0ae906815/0481babe",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d89373f7892e4a2361725839646eb8c3/5e496096",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5f13d818ed21ee97af5bac650038049a/24c14cc6",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "att7BS2VwV8xvoODM",
+        "url": "https://dl.airtable.com/.attachments/9895027b36a134a555b395b70208e777/d386e080/migrantlaborers_v18.png",
+        "filename": "migrant laborers_v1 (8).png",
+        "size": 160384,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/68781923251c52caed3d4b86b4f85c3b/0b225463",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/95ec13c8d7f2c68b5d66fc6ace312585/04d8e580",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7dfc20ac526af0074da23f6474ac6a55/5db39926",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attblAJTC4mIqNkeU",
+        "url": "https://dl.airtable.com/.attachments/0d219cdb6b306c23940e78101c053345/4c143346/migrantlaborers_v19.png",
+        "filename": "migrant laborers_v1 (9).png",
+        "size": 239173,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5064e058de93c2a58693887ce8d2d951/d8cb60ef",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c32d1dca3d10d799a4885425621af0da/250d08c9",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/479260eb5934fbf221bb5f868b91a732/2c1bb877",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "In translated DBs?": "Yes",
+    "DB (Telugu)": [
+      "recehg5I06eSi604a"
+    ],
+    "DB (Spanish)": [
+      "recxDJZwx1vj6hxYM"
+    ],
+    "DB (Arabic)": [
+      "recRXaUi0Jr5k2I7B"
+    ],
+    "DB (Bengali)": [
+      "recfg6ysauGO98T5N"
+    ],
+    "DB (Portuguese)": [
+      "recQhHqG8oPKhQx5n"
+    ],
+    "Last edited (simplified)": "2020-06-23T12:02:20.000Z",
+    "Last edited (experts say)": "2020-06-11T16:37:54.000Z",
+    "Last modified": "2020-08-06",
+    "What our experts say wordcount": 213,
+    "Background and context wordcount": 128,
+    "Other resources wordcount": 57,
+    "Wordcount": 398,
+    "Question": "How are migrant laborers in India being impacted by the COVID-19 pandemic?"
+  },
+  {
     "id": "recDOeKU0wK73R15D",
     "Question": "Do positivity rates show herd immunity has been reached?",
     "Status": "Published",
@@ -5297,185 +5476,6 @@
     "Background and context wordcount": 128,
     "Other resources wordcount": 101,
     "Wordcount": 364
-  },
-  {
-    "id": "recbw6ac5kq8tsDHY",
-    "Question": "How are migrant laborers in India being impacted by the COVID-19 pandemic?",
-    "Status": "Published",
-    "Category": "Transmission",
-    "Subcategory": "On: COVID-19 & migration",
-    "Source of the question": [
-      "Social Media"
-    ],
-    "Country question was sourced from": [
-      "India"
-    ],
-    "Background and context": "Disproportionate impacts of COVID-19 on migrant laborers are being documented globally as a result of poor or crowded working conditions, inadequate living conditions, risk of contracting the virus while traveling for work, and low access to quality healthcare, among other factors. Migratory and seasonal agricultural workers (MSAWs) have been documented to disproportionately infectious diseases, like COVID-19, along with a host of other serious health problems including diabetes, malnutrition, infectious diseases, pesticide poisoning, and injuries from work-related machinery. These health issues are exacerbated by the transitory culture of this population group, which makes it difficult to develop a relationship with a healthcare provider, maintain treatment regimens, and track health records. For these reasons, MSAWs were inequitably impacted by India's sudden shut down, and by the sudden reopening. \nSource: <https://www.ruralhealthinfo.org/topics/migrant-health>\n",
-    "What our experts say": "India enacted one of the toughest nationwide lockdown policies in response to the COVID-19 pandemic, and shut down all travel and movement with barely four hours notice on March 24, 2020. The lockdown disproportionately impacted the informal sector of India (the part of any economy that is not regulated by the government), and left thousands of migrant laborers and daily wage earners stranded. With buses and trains shuttered, migrant laborers had to walk hundreds of kilometers back to their villages, and many died along the way. \n\nIndia's COVID-19 response has been criticized for inadequately accounting for the needs of the most marginalized and vulnerable residents who lacked resources to cope with the abrupt lockdown. Now that the lockdown has ended, the Supreme Court of India has ordered states to identify stranded migrant laborers and facilitate their return to their hometowns. Several states, including West Bengal, Odisha, Bihar, and Jharkhand, have reported spikes in infections as more than 10 million migrant workers return to their homes following the easing of lockdown measures. The actual impact of migration on COVID-19 cases is difficult to ascertain, since testing has also improved, but the sudden influx of migrant laborers has made it even more difficult for the state healthcare institutions to treat and care for COVID-19 cases.\n",
-    "Glossary Terms": [
-      "recSMSaoUfxS4ZXWq",
-      "rec2UNEXbTkSCx30Q"
-    ],
-    "Variation of the answer depending on country of residence": "No\n",
-    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
-    "Topics": [
-      "transmission",
-      "migration",
-      "migrant laborer",
-      "India"
-    ],
-    "Other resources": "1. India: COVID-19 Lockdown Puts Poor at Risk ([HRW][1])\n2. The Pandemic Exposes India’s Apathy Toward Migrant Workers ([The Atlantic][2]) \n3. Send migrant workers home in 15 days: India's top court to states ([Aljazeera][3])\n4. Bihar, Jharkhand and Odisha record big spikes as migrant workers return home ([Hindustan Times][4])\n5. Coronavirus lockdown: The Indian migrants dying to get home ([BBC][5])\n\n  [1]: https://www.hrw.org/news/2020/03/27/india-covid-19-lockdown-puts-poor-risk\n  [2]: https://www.theatlantic.com/ideas/archive/2020/04/the-pandemic-exposes-indias-two-worlds/609838/\n  [3]: https://www.aljazeera.com/news/2020/06/send-migrant-workers-home-15-days-india-top-court-states-200609073709386.html\n  [4]: https://www.hindustantimes.com/india-news/bihar-jharkhand-and-odisha-record-big-spikes-as-migrant-workers-return-home/story-6PfyWmDaJPbpkgeZpqTVhN.html\n  [5]: https://www.bbc.com/news/world-asia-india-52672764\n",
-    "DB (French)": [
-      "recjHaAMVFSr4q85I"
-    ],
-    "DB (Hindi)": [
-      "recq5h0Prcle128f9"
-    ],
-    "Media": [
-      {
-        "id": "attzLc5IfnFmCwx8b",
-        "url": "https://dl.airtable.com/.attachments/e3f21e382593fe12725104493aac4d0d/22295161/migrantlaborers_v15.png",
-        "filename": "migrant laborers_v1 (5).png",
-        "size": 168909,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/0c4eb06681ad9f6bb200fbf39d4bbdb7/d139ceff",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/d224731c9d905b7b7777b0a18769c610/e9ba88e0",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/b29683b5af113872a98a85e4fe659148/694c84c3",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "attim9qqrjRT8QA1x",
-        "url": "https://dl.airtable.com/.attachments/12a5e71066d7fa4124acf4e570eb0d94/c075fb9c/migrantlaborers_v16.png",
-        "filename": "migrant laborers_v1 (6).png",
-        "size": 197844,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/376204ee89a0941c042b664831796b1a/6ae920a9",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/7fcd3810d24b4307fcc457469bffebc0/062e3ebf",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/695a4dc1868d1fb96f6c53812c0abc9a/86ef2525",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "attEU0pfUBC265Mmg",
-        "url": "https://dl.airtable.com/.attachments/138780f6c46aa35905e4642d25c622a2/3fbc3af5/migrantlaborers_v17.png",
-        "filename": "migrant laborers_v1 (7).png",
-        "size": 150116,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/7f51dd99911a744bf665a4f0ae906815/0481babe",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/d89373f7892e4a2361725839646eb8c3/5e496096",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/5f13d818ed21ee97af5bac650038049a/24c14cc6",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "att7BS2VwV8xvoODM",
-        "url": "https://dl.airtable.com/.attachments/9895027b36a134a555b395b70208e777/d386e080/migrantlaborers_v18.png",
-        "filename": "migrant laborers_v1 (8).png",
-        "size": 160384,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/68781923251c52caed3d4b86b4f85c3b/0b225463",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/95ec13c8d7f2c68b5d66fc6ace312585/04d8e580",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/7dfc20ac526af0074da23f6474ac6a55/5db39926",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
-        "id": "attblAJTC4mIqNkeU",
-        "url": "https://dl.airtable.com/.attachments/0d219cdb6b306c23940e78101c053345/4c143346/migrantlaborers_v19.png",
-        "filename": "migrant laborers_v1 (9).png",
-        "size": 239173,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/5064e058de93c2a58693887ce8d2d951/d8cb60ef",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/c32d1dca3d10d799a4885425621af0da/250d08c9",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/479260eb5934fbf221bb5f868b91a732/2c1bb877",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ],
-    "In translated DBs?": "Yes",
-    "DB (Telugu)": [
-      "recehg5I06eSi604a"
-    ],
-    "DB (Spanish)": [
-      "recxDJZwx1vj6hxYM"
-    ],
-    "DB (Arabic)": [
-      "recRXaUi0Jr5k2I7B"
-    ],
-    "DB (Bengali)": [
-      "recfg6ysauGO98T5N"
-    ],
-    "DB (Portuguese)": [
-      "recQhHqG8oPKhQx5n"
-    ],
-    "Last edited (simplified)": "2020-06-23T12:02:20.000Z",
-    "Last edited (experts say)": "2020-06-11T16:37:54.000Z",
-    "Last modified": "2020-07-24",
-    "What our experts say wordcount": 213,
-    "Background and context wordcount": 128,
-    "Other resources wordcount": 57,
-    "Wordcount": 398
   },
   {
     "id": "recUpPiSLjtZ01GPP",

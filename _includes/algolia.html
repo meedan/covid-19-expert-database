@@ -5,7 +5,7 @@
 <script>
     const search = instantsearch({
       indexName: '{% env ALGOLIA_INDEX_NAME_QUESTIONS %}',
-      searchClient: algoliasearch('XVQE72Q0TQ', 'd031b4f0809f3999da155451bffba6db'),
+      searchClient: algoliasearch('{% env ALGOLIA_APPLICATION_ID %}', '{% env ALGOLIA_SEARCH_ONLY_API_KEY %}'),
       searchFunction: function(helper) {
         helper.addDisjunctiveFacetRefinement('lang', '{{ page.lang }}').search();
       },
