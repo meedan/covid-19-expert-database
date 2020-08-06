@@ -394,3 +394,19 @@ contributor:
     revision: 2
   name: Dr. Jessica Huang
   staff: false
+- sys:
+    id: 4MK93CSrpmc3tFyE5MYEeh
+    created_at: !ruby/object:DateTime 2020-08-06 17:41:56.490000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 17:42:09.070000000 Z
+    content_type_id: contributor
+    revision: 1
+  name: Emily LaRose
+  staff: false
+- sys:
+    id: 5duhLnruShUUo31a7TR4vd
+    created_at: !ruby/object:DateTime 2020-08-06 19:17:03.040000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 19:17:12.913000000 Z
+    content_type_id: contributor
+    revision: 1
+  name: Megan Marrelli
+  staff: true
