@@ -4,7 +4,7 @@
 
 <script>
     const search = instantsearch({
-      indexName: 'covid19_dev',
+      indexName: '{% env ALGOLIA_INDEX_NAME_QUESTIONS %}',
       searchClient: algoliasearch('XVQE72Q0TQ', 'd031b4f0809f3999da155451bffba6db'),
       searchFunction: function(helper) {
         helper.addDisjunctiveFacetRefinement('lang', '{{ page.lang }}').search();

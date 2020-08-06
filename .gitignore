@@ -6,3 +6,4 @@ Gemfile.lock
 .bundle
 vendor
 *.log
+.env
