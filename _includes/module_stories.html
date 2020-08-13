@@ -4,10 +4,11 @@
 <div class="posts">
     {% for story in story_list[0].stories %}
         <a href="//meedan.com/blog/{{ story.slug }}" class="post">
+            <picture class="image-container">
+                <img src="{{ story.lead_image.url | url | append: '?fl=progressive&q=90' }}" alt="{{ story.lead_image.title }}"/>
+            </picture>
+            
             <h4>{{ story.title }}</h4>
-            <div class="description">
-                {{ story.body | markdownify | truncate: 120 }}
-            </div>
             {% if story.alt_date %}
                 {% assign published_on = story.alt_date %}
             {% else %}

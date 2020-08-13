@@ -96,12 +96,12 @@ contributor:
 - sys:
     id: 5RAhIbkGFCzRWLiEMbezs9
     created_at: !ruby/object:DateTime 2020-03-24 00:44:15.811000000 Z
-    updated_at: !ruby/object:DateTime 2020-03-24 00:56:37.821000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-13 17:21:47.131000000 Z
     content_type_id: contributor
-    revision: 1
+    revision: 2
   name: Wafaa Heikal
-  staff: true
-  role: Program Manager, East Africa
+  staff: false
+  role: Former Program Manager, East Africa
   location: Berlin
 - sys:
     id: 1tmlbKKzfWSfejPphmGRcH
@@ -295,10 +295,10 @@ contributor:
 - sys:
     id: pBXwSnwaN2YJp4KJc9uRg
     created_at: !ruby/object:DateTime 2020-06-16 00:03:57.410000000 Z
-    updated_at: !ruby/object:DateTime 2020-06-24 16:13:55.938000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-10 20:16:34.986000000 Z
     content_type_id: contributor
-    revision: 2
-  name: 'Mahsa Alimardani '
+    revision: 3
+  name: Mahsa Alimardani
   bio: Mahsa Alimardnai is a doctoral candidate at the Oxford Internet Institute (OII),
     where she examines political communication online in Iran. She's a researcher
     on the MENA region for the freedom of expression organisation ARTICLE19 and a
@@ -410,3 +410,19 @@ contributor:
     revision: 1
   name: Megan Marrelli
   staff: true
+- sys:
+    id: 1jp9N5eXr3trjtTIHAMq1k
+    created_at: !ruby/object:DateTime 2020-08-12 19:45:33.837000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-13 20:24:11.871000000 Z
+    content_type_id: contributor
+    revision: 2
+  name: Ellen Tordesillas, Merinette Retona, and Celine Isabelle Samson
+  bio: VERA Files is a media nonprofit that probes Philippine issues and fact-checks
+    false and misleading claims.
+- sys:
+    id: 1SMJNVBnDuJPDRItwVdLrg
+    created_at: !ruby/object:DateTime 2020-08-13 14:39:02.776000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-13 14:39:10.326000000 Z
+    content_type_id: contributor
+    revision: 0
+  name: Taeksoo Cho
