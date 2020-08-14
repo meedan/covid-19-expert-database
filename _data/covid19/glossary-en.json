@@ -30,10 +30,10 @@
     ],
     "In translation glossaries?": "Partial",
     "Completed Translations?": "Partial",
+    "Internal notes": "**May** is used to express what is possible, factual, or could be factual.\n**Might** is used to express what is hypothetical, counterfactual, or remotely possible.\nSo changed “may include changes”.\n",
     "Wordcount Definition": 55,
     "Wordcount Term": 2,
-    "Total wordcount": 57,
-    "Internal notes": "**May** is used to express what is possible, factual, or could be factual.\n**Might** is used to express what is hypothetical, counterfactual, or remotely possible.\nSo changed “may include changes”.\n"
+    "Total wordcount": 57
   },
   {
     "id": "recnFUXyIZy81Rj1I",
@@ -1204,41 +1204,6 @@
     "Total wordcount": 127
   },
   {
-    "id": "rec39wm7MuK12bTI3",
-    "Term": "germs",
-    "Definition": "According to the U.S. Centers for Disease Control, germs are microorganisms and a part of everyday life. They can be found in our air, soil, water, and in and on our bodies. Some germs are helpful, others are harmful. Many germs live in and on our bodies without causing harm and some even help us to stay healthy. Only a small portion of germs are known to cause infection. Germs are also known as infectious agents and refer to a virus, bacteria, or other microbe.\n",
-    "Questions using this term": [
-      "recr69VbqahSOTu3Y"
-    ],
-    "Status": "Published",
-    "French": [
-      "recH0gr95OweWQ1ng"
-    ],
-    "Hindi": [
-      "recnFPG2gdeETqbEA"
-    ],
-    "Telugu": [
-      "recOSTfV7XHp1qBnt"
-    ],
-    "Spanish": [
-      "recDLGc4K2wFMA3T1"
-    ],
-    "Arabic": [
-      "recDM23LVzk0IjF9j"
-    ],
-    "Bengali": [
-      "rec7dMcRe2Pl6LJev"
-    ],
-    "Portuguese": [
-      "reclUvhJbP7JrXbSE"
-    ],
-    "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial",
-    "Wordcount Definition": 85,
-    "Wordcount Term": 1,
-    "Total wordcount": 86
-  },
-  {
     "id": "recEer1bgt6r6jukM",
     "Term": "social distancing",
     "Definition": "According to the U.S. Centers for Disease Control and Prevention, social-distancing is the act of keeping space between yourself and other people outside of your home to prevent the spread of COVID-19.  To practice social-distancing, experts recommend that people stay at least 6 feet (2 meters) apart.  Social-distancing is also sometimes called physical distancing.\n",
@@ -1278,7 +1243,7 @@
     ],
     "Status": "Published",
     "French": [
-      "recPQLAe7wunUIYNx"
+      "reclmNjVYuaRWpHYc"
     ],
     "Hindi": [
       "recGw14xbRob48j15",
@@ -1608,7 +1573,7 @@
     ],
     "Status": "Published",
     "French": [
-      "reca94MgCYCsDocFo"
+      "recFMMbK7Ypphyluw"
     ],
     "Hindi": [
       "recxuXNdrAq1OwpAa"
@@ -1834,7 +1799,7 @@
     "Portuguese": [
       "rec57U2TIc7WB1L3y"
     ],
-    "Internal notes": "We miss a definition here.\n\n[@Christin Gilmer][1] See what you think about this one. It was surprisingly awkward to define. If we have an option to post a WHO infographic on the site, that would help?- EL\n\n[@Emily LaRose][2] You are definitely right. And this is excellent! We also have some from SAC. [@Jenna Sherman][3] Do you think any SAC infographics might be helpful with this glossary term?\n\n  [1]: https://airtable.com/appKBFbOCN23iz8eF/men87xTffV5vXKEGz/usrDTYZtkXBziEsWP?recordId=reclKahoPRbBLqUKg&fieldId=fldFWQAjehRWQv5n2\n  [2]: https://airtable.com/appKBFbOCN23iz8eF/men5b5u6J5vDQK7Tz/usroPZ4yKxHAs6odJ?recordId=reclKahoPRbBLqUKg&fieldId=fldFWQAjehRWQv5n2\n  [3]: https://airtable.com/appKBFbOCN23iz8eF/menjUG8QrwVT9Ul27/usryJw3d1ZhlxblnO?recordId=reclKahoPRbBLqUKg&fieldId=fldFWQAjehRWQv5n2\n",
+    "Internal notes": "We miss a definition here.\n\n[@Christin Gilmer][1] See what you think about this one. It was surprisingly awkward to define. If we have an option to post a WHO infographic on the site, that would help?- EL\n\n[@Emily LaRose][2] You are definitely right. And this is excellent! We also have some from SAC. [@Jenna Sherman][3] Do you think any SAC infographics might be helpful with this glossary term?\n\n[@Emily LaRose][4] [@Christin Gilmer][5]\nThe term “face covering”, which I think is a synonym for “face mask”, is not in the glossary. It could be an opportunity to add here, or would it require a new entry? Some health systems will use the term “face covering” instead of “face mask”. Here is a definition: “Piece of cloth which covers the nose and the mouth to block respiratory droplets ejected when one speaks, coughs or sneezes. Face coverings prevent contamination of the person’s surroundings. It can be a scarf, a bandana or a cloth mask.\n\n[@Christin Gilmer][6] I think that we could do an entry for \"face covering\" and refer to the \"face mask\" definition perhaps? I think with current research I am hesitant to say scarf, bandana, etc. Thoughts? EL\n\n```\n\n```\nThnot ri\n```\nnew\n```\n\n  [1]: https://airtable.com/appKBFbOCN23iz8eF/men87xTffV5vXKEGz/usrDTYZtkXBziEsWP?recordId=reclKahoPRbBLqUKg&fieldId=fldFWQAjehRWQv5n2\n  [2]: https://airtable.com/appKBFbOCN23iz8eF/men5b5u6J5vDQK7Tz/usroPZ4yKxHAs6odJ?recordId=reclKahoPRbBLqUKg&fieldId=fldFWQAjehRWQv5n2\n  [3]: https://airtable.com/appKBFbOCN23iz8eF/menjUG8QrwVT9Ul27/usryJw3d1ZhlxblnO?recordId=reclKahoPRbBLqUKg&fieldId=fldFWQAjehRWQv5n2\n  [4]: https://airtable.com/appKBFbOCN23iz8eF/menCsjP3g1YegUf0a/usroPZ4yKxHAs6odJ?recordId=reclKahoPRbBLqUKg&fieldId=fldFWQAjehRWQv5n2\n  [5]: https://airtable.com/appKBFbOCN23iz8eF/mencpMPX3UmITwbLJ/usrDTYZtkXBziEsWP?recordId=reclKahoPRbBLqUKg&fieldId=fldFWQAjehRWQv5n2\n  [6]: https://airtable.com/appKBFbOCN23iz8eF/menf2dS0LNdeiupz0/usrDTYZtkXBziEsWP?recordId=reclKahoPRbBLqUKg&fieldId=fldFWQAjehRWQv5n2\n",
     "Wordcount Definition": 151,
     "Wordcount Term": 2,
     "Total wordcount": 153
