@@ -1,14 +1,14 @@
 {% assign story_list = site.data.contentful.spaces.moduleStories.moduleStories 
     | where_exp: "item","item.sys.id == '4hDOrsmcTmB60zhqrzF6Xp'"
 %}
-<div class="posts">
-    {% for story in story_list[0].stories | offset: 1 %}
-        <a href="//meedan.com/blog/{{ story.slug }}" class="post">
-            <picture class="image-container">
-                <img src="{{ story.lead_image.url | url | append: '?fl=progressive&q=90' }}" alt="{{ story.lead_image.title }}"/>
-            </picture>
-            
+<div class="featured">
+    {% for story in story_list[0].stories | limit: 1 %}
+        <a href="//meedan.com/blog/{{ story.slug }}" class="post">    
+            <div class="cap">Featured</div>
             <h4>{{ story.title }}</h4>
+            <div class="description">
+                {{ story.body | markdownify | truncate: 120 }}
+            </div>
             {% if story.alt_date %}
                 {% assign published_on = story.alt_date %}
             {% else %}
@@ -25,6 +25,11 @@
                     {{ published_on | date: "%-d %B %Y" }}
                 </span>
             </div>
+        </a>
+        <a href="//meedan.com/blog/{{ story.slug }}" class="post">
+            <picture class="image-container">
+                <img src="{{ story.lead_image.url | url | append: '?fl=progressive&q=90' }}" alt="{{ story.lead_image.title }}"/>
+            </picture>
         </a>
     {% endfor %}
 </div>

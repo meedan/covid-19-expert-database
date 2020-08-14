@@ -2,7 +2,7 @@
   {
     "id": "rechTyFW9yFtRWh8o",
     "Term": "secondary infection",
-    "Definition": "A secondary infection is an infection that takes place either during or following the treatment of an existing infection. Some of the causes of a secondary infection might include changes in the immune system of a person resulting from the first infection, or if the treatment for the first infection led to the secondary infection.\n",
+    "Definition": "A secondary infection is an infection that takes place either during or following the treatment of an existing infection. Some of the causes of a secondary infection may include changes in the immune system of a person resulting from the first infection, or if the treatment for the first infection led to the secondary infection.\n",
     "Questions using this term": [
       "recu8V6IGjMveS5Ku"
     ],
@@ -32,7 +32,8 @@
     "Completed Translations?": "Partial",
     "Wordcount Definition": 55,
     "Wordcount Term": 2,
-    "Total wordcount": 57
+    "Total wordcount": 57,
+    "Internal notes": "**May** is used to express what is possible, factual, or could be factual.\n**Might** is used to express what is hypothetical, counterfactual, or remotely possible.\nSo changed “may include changes”.\n"
   },
   {
     "id": "recnFUXyIZy81Rj1I",

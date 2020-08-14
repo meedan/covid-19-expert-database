@@ -1,28 +1,8 @@
 [
   {
-    "id": "recRdDn65UcHnA63p",
-    "Term": "virus",
-    "Definition": "Selon les Centres pour le contrôle et la prévention des maladies des États-Unis, un virus est un organisme infectieux minuscule qui se multiplie à l'intérieur des cellules et provoque des maladies telles que la varicelle, la rougeole, les oreillons, la rubéole, la coqueluche et l'hépatite. Les virus sont plus petits que les bactéries et ont besoin de cellules ou de tissus vivants pour se développer et se reproduire. Les antibiotiques sont des médicaments utilisés pour traiter les infections bactériennes. Les antibiotiques ne sont pas efficaces contre les infections virales.\n\n",
-    "Status": "Published",
-    "Questions using this term": [
-      "recXOlSZvyEECnqkk",
-      "recgur7UqWESGFk8T"
-    ],
-    "EN Term": [
-      "recnFUXyIZy81Rj1I"
-    ],
-    "EN Definition": [
-      "According to the U.S. Centers for Diseases Control, a virus is a tiny organism that multiplies within cells and causes disease such as chickenpox, measles, mumps, rubella, pertussis and hepatitis. Viruses are not affected by antibiotics, the drugs used to kill bacteria. Viruses are smaller in size than bacteria and require living cells or tissues in order to grow and reproduce. "
-    ],
-    "Last Modified": "2020-07-30T21:48:37.000Z",
-    "Wordcount total": [
-      63
-    ]
-  },
-  {
     "id": "recGkbysvb9KPYi3m",
     "Term": "infection secondaire",
-    "Definition": "Une infection secondaire est une infection qui se produit pendant ou après le traitement d'une première infection. Les infections secondaires peuvent survenir chez les personnes dont l'immunité est affaiblie par une première infection ou par un traitement médicamenteux.\n\n",
+    "Definition": "Une infection secondaire est une infection qui survient soit pendant soit après le traitement d'une infection existante. Comme causes d’infection secondaire, nous trouvons :  Les changements du système immunitaire d'une personne à la suite d'une première infection ou si le traitement de la première infection en a provoqué une seconde sont .\n",
     "Status": "Published",
     "Questions using this term": [
       "recXOlSZvyEECnqkk"
@@ -31,9 +11,9 @@
       "rechTyFW9yFtRWh8o"
     ],
     "EN Definition": [
-      "A secondary infection is an infection that takes place either during or following the treatment of an existing infection. Some of the causes of a secondary infection might include changes in the immune system of a person resulting from the first infection, or if the treatment for the first infection led to the secondary infection."
+      "A secondary infection is an infection that takes place either during or following the treatment of an existing infection. Some of the causes of a secondary infection may include changes in the immune system of a person resulting from the first infection, or if the treatment for the first infection led to the secondary infection."
     ],
-    "Last Modified": "2020-05-27T21:03:18.000Z",
+    "Last Modified": "2020-08-13T23:38:40.000Z",
     "Wordcount total": [
       57
     ]
