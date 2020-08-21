@@ -5,8 +5,13 @@
 
 .featured {
     background-color: var(--blackInk);
-    a { color: #fff; }
+}
+
+.featured-wrapper {
+    margin: 0 auto;
     padding: var(--space-4);
+    max-width: 1440px;
+    a { color: #fff; }
     @include responsive('min-width: #{$width-tablet}') {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
@@ -53,7 +58,14 @@
     }
 }
 
+.blog .content-wrapper {
+    margin: 0 auto;
+    max-width: 1440px;
+}
+
 .posts {
+    margin: 0 auto;
+    max-width: 1440px;
     grid-column: 1/-1;
     @include responsive('min-width: #{$width-tablet}') {
         display: grid;

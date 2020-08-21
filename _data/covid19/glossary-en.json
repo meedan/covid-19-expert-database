@@ -30,7 +30,7 @@
     ],
     "In translation glossaries?": "Partial",
     "Completed Translations?": "Partial",
-    "Internal notes": "**May** is used to express what is possible, factual, or could be factual.\n**Might** is used to express what is hypothetical, counterfactual, or remotely possible.\nSo changed “may include changes”.\n",
+    "Internal notes": "**May** is used to express what is possible, factual, or could be factual.\n**Might** is used to express what is hypothetical, counterfactual, or remotely possible.\nSo changed “may include changes”.\n[@c me][1]\nاصابة to be replaced by التهاب ثانوي as they are talking about antibiotic, antibiotic is used for infection التهابات. Secondary is to be translated ثانوي\n\n\n\n  [1]: https://airtable.com/appKBFbOCN23iz8eF/menZRy0UIFr6tHwQ5/usrn5KUVw5CLNegC7?recordId=rechTyFW9yFtRWh8o&fieldId=fldFWQAjehRWQv5n2\n",
     "Wordcount Definition": 55,
     "Wordcount Term": 2,
     "Total wordcount": 57
@@ -171,7 +171,8 @@
       "recyEdXsLqUa2Tp7K"
     ],
     "Hindi": [
-      "recGvUUwg7Xc2hGu1"
+      "recGvUUwg7Xc2hGu1",
+      "recEUGjC9Kq7m29Wt"
     ],
     "Telugu": [
       "rec2c7J2nkDaKbqdU"
@@ -197,7 +198,8 @@
     "Term": "incubation period",
     "Definition": "According to the World Health Organization, the incubation period is the time between exposure to the virus (becoming infected) and symptom onset.\n",
     "Questions using this term": [
-      "recSK7NRoa33YUdrv"
+      "recSK7NRoa33YUdrv",
+      "recqw7drq7lMSYbhV"
     ],
     "Status": "Published",
     "French": [
@@ -259,6 +261,7 @@
     ],
     "In translation glossaries?": "Partial",
     "Completed Translations?": "Partial",
+    "Internal notes": "[@Christin Gilmer][1]\n\\*Though the glossary entry is “contagious”, the definition is for “contagious disease”.\n\\*I would suggest “inhaling droplets _expelled_ when a person” to be consistent with aerosol/airborne transmission.\n\n  [1]: https://airtable.com/appKBFbOCN23iz8eF/menjwt6CBa0eCuxsI/usrDTYZtkXBziEsWP?recordId=recJ4Q812SOdo1NGM&fieldId=fldFWQAjehRWQv5n2\n",
     "Wordcount Definition": 56,
     "Wordcount Term": 1,
     "Total wordcount": 57
@@ -321,6 +324,7 @@
     "Portuguese": [
       "recepujRRaXKztKiV"
     ],
+    "Internal notes": "[@Emily LaRose][1] It seems to me that in definitions, you often use “i.e” (that is to say) when “e.g.” (for example) could be a better fit. What do you think? :-) \n\n  [1]: https://airtable.com/appKBFbOCN23iz8eF/mengrToiwoPg5k6ql/usroPZ4yKxHAs6odJ?recordId=rec3XmnugOMexQiQA&fieldId=fldFWQAjehRWQv5n2\n",
     "Wordcount Definition": 115,
     "Wordcount Term": 2,
     "Total wordcount": 117
@@ -331,7 +335,7 @@
     "Definition": "Pre-exposure refers to the period before a person is exposed to something, usually a disease or infection.\n",
     "Status": "Published",
     "French": [
-      "recJcV5w6TJQ7kOnA"
+      "recRXBAvsQK24YRqH"
     ],
     "Hindi": [
       "rec1qyMZ5NV38uciw"
@@ -531,7 +535,9 @@
     ],
     "Status": "Published",
     "French": [
-      "recj3TAUL1rY5U9fH"
+      "recj3TAUL1rY5U9fH",
+      "reckoJxXLCVy89CE9",
+      "recF3mpjfFBpnnj9v"
     ],
     "Hindi": [
       "recWvkvqR9jxKuSnd"
@@ -551,6 +557,7 @@
     "Portuguese": [
       "recK7n0RFraO4pFQd"
     ],
+    "Internal notes": "[@Emily LaRose][1] In some languages, medicine can only be a substance, not a therapy. Any idea how to tackle that? This glossary entry covers the substance, the therapy and the practice of medicine, which makes it impossible to translate as such. Should we create as many localized entries as we need and relate them all to the word “medicine”?\n\n  [1]: https://airtable.com/appKBFbOCN23iz8eF/menZQCwWomSVW6w4u/usroPZ4yKxHAs6odJ?recordId=recOLVaA8YtoF3ofN&fieldId=fldFWQAjehRWQv5n2\n",
     "Wordcount Definition": 83,
     "Wordcount Term": 1,
     "Total wordcount": 84
@@ -634,7 +641,7 @@
     ],
     "Status": "Published",
     "French": [
-      "reccwo5NJI2cHb2Wl"
+      "recYcTN9RFmkJyENu"
     ],
     "Hindi": [
       "recoT0Suijyl09026"
@@ -669,7 +676,8 @@
       "recBkQVlmOqcxKt8t",
       "recQoylvV8fLvS6xm",
       "recenUqXFNVYnafXz",
-      "recgfRiqVgG4lMH4w"
+      "recgfRiqVgG4lMH4w",
+      "recqw7drq7lMSYbhV"
     ],
     "Status": "Published",
     "French": [
@@ -715,7 +723,8 @@
     ],
     "Hindi": [
       "recOeLKYm8ZH9Z07g",
-      "recweA2Zhre2qkTpA"
+      "recweA2Zhre2qkTpA",
+      "recGnBOPseJ6t5HKK"
     ],
     "Telugu": [
       "recojskwxMtX22Rbh"
@@ -778,36 +787,6 @@
     "Wordcount Definition": 63,
     "Wordcount Term": 1,
     "Total wordcount": 64
-  },
-  {
-    "id": "recx1966VLqkIB9Lj",
-    "Term": "pre-symptomatic",
-    "Definition": "Pre-symptomatic infections occur when a person is infected with an illness but has not experienced any symptoms yet.\n\n",
-    "Status": "Published",
-    "French": [
-      "recxWFheQ0Po29dec"
-    ],
-    "Hindi": [
-      "recOeLKYm8ZH9Z07g"
-    ],
-    "Telugu": [
-      "reczvREaXwZ9RzYnc"
-    ],
-    "Spanish": [
-      "recR9iDcvCEqpWfNT"
-    ],
-    "Arabic": [
-      "recF98ke5DDOLI7Yr"
-    ],
-    "Bengali": [
-      "rec6OYhOq7ss5nEZZ"
-    ],
-    "Portuguese": [
-      "rec0H1EBbeoHlG5r4"
-    ],
-    "Wordcount Definition": 18,
-    "Wordcount Term": 1,
-    "Total wordcount": 19
   },
   {
     "id": "recUx8LCQGkRdxG3B",
@@ -1199,6 +1178,7 @@
     "Portuguese": [
       "recWzdE6Z49QVfj1i"
     ],
+    "Internal notes": "\n",
     "Wordcount Definition": 124,
     "Wordcount Term": 3,
     "Total wordcount": 127
@@ -1274,7 +1254,7 @@
     "Definition": "In the U.S., a pre-existing condition are words commonly used to describe as a medical problem (i.e. diabetes, asthma, heart disease, high blood pressure, obesity, cancer) that a patient has, before they begin new medical insurance coverage. The use of the word has been adapted to the current COVID-19 pandemic to describe common long term (or chronic) health problems (i.e. diabetes, asthma, heart disease, high blood pressure, obesity, cancer) that may increase a patient's chances of becoming infected or seriously ill from the virus.\n",
     "Status": "Published",
     "French": [
-      "recde0YmJHMPk7L8b"
+      "rec2FN7GIecPbmxoP"
     ],
     "Hindi": [
       "recQQzqRbs8iYzDyM"
@@ -1313,7 +1293,8 @@
       "recU1dZ814OGTd4GG"
     ],
     "Telugu": [
-      "recL9wWQ7LpeGysFt"
+      "recL9wWQ7LpeGysFt",
+      "reclHhs9L8z7EXbtw"
     ],
     "Spanish": [
       "recMSl94Dtr7AJSwL"
@@ -1346,7 +1327,8 @@
       "recDBg6zMMcfeOKtr"
     ],
     "Telugu": [
-      "recpzWNBApVsdXL2i"
+      "recpzWNBApVsdXL2i",
+      "recUrGrnOZ30Msyi8"
     ],
     "Spanish": [
       "rec2SPlTh2tdvEyne"
@@ -1360,6 +1342,7 @@
     "Portuguese": [
       "rec2uKwVJ5PKpjahN"
     ],
+    "Internal notes": "[@Emily LaRose][1] Since random means happening, done, or chosen by chance rather than according to a plan, “into random groups by chance” is redundant.\nIf you do not want to use random to define randomization, it could rather read “to divide participants into groups by chance”.\nAlso “e.g.” could be used instead of “i.e.” since we are giving two examples of what biased selection could be, we are not saying that biased selection is always choosing patients who are younger or those who seem generally healthier. \n\n  [1]: https://airtable.com/appKBFbOCN23iz8eF/mengaTq8a8P3KLkUL/usroPZ4yKxHAs6odJ?recordId=recPX0N6FB6koiXCL&fieldId=fldFWQAjehRWQv5n2\n",
     "Wordcount Definition": 94,
     "Wordcount Term": 1,
     "Total wordcount": 95
@@ -1376,7 +1359,8 @@
       "recqh7jpeKkP8wV65"
     ],
     "Hindi": [
-      "recGpDu8GbzrGnuE8"
+      "recGpDu8GbzrGnuE8",
+      "reckW0RvMFpqlC3x0"
     ],
     "Telugu": [
       "recOGQ1xjrT6R3Z2n"
@@ -1426,6 +1410,7 @@
     "Portuguese": [
       "recmfZmRWmWZ4KUbt"
     ],
+    "Internal notes": "[@Emily LaRose][1] Would “There are 10 organ systems” be more accurate? Also, would it make sense to add a word in parentheses for all organ systems (because all readers may not have a clear understanding)?\n\n  [1]: https://airtable.com/appKBFbOCN23iz8eF/menC2QWh621XVYh5t/usroPZ4yKxHAs6odJ?recordId=recqwr4O57SOjNZYx&fieldId=fldFWQAjehRWQv5n2\n",
     "Wordcount Definition": 103,
     "Wordcount Term": 1,
     "Total wordcount": 104
@@ -1503,7 +1488,8 @@
     "Questions using this term": [
       "recp0leXTiAvzw4cH",
       "recisKOQNAShlHmql",
-      "recRNOP1DQIw90RaZ"
+      "recRNOP1DQIw90RaZ",
+      "recufj0t4myAoM7yM"
     ],
     "Status": "Published",
     "French": [
@@ -1593,6 +1579,7 @@
     "Portuguese": [
       "recnrXTiGKNlabWxY"
     ],
+    "Internal notes": "[@Emily LaRose][1] I’m not sure what we are trying to convey with “While homeopathic references state that arsenic album contains minimal amounts of arsenic, some other references use arsenic and arsenic album interchangeably.” The first part of the sentence talks about arsenic quantity and the second about names, but links the two.\n\n[@Christin Gilmer][2] I don't have an answer to this since I looked at a bunch of references and there was a lot of conflicting information (and my \"go to\" sources had nothing...).  I was highlighting that there is conflicting information available, and I am not comfortable taking a specific position (certainly not to say that it definitively doesn't contain arsenic when the products aren't regulated).  Thoughts? EL\n\n[@Emily LaRose][3] [@Christin Gilmer][4] Would it make sense to separate quantity (minimal amounts) and naming (use arsenic and arsenic album interchangeably) and maybe write two separate sentences, maybe: “Homeopathic references state that arsenic album contains minimal amounts of arsenic. Some other references use arsenic and arsenic album interchangeably.”\n[@Emily LaRose][5] [@Christin Gilmer][6] I think \"arsenic album\" should be \"arsenicum album\". arsenic is mineral, while \"arsenicum album\" is homeopathic medicine. It is just a suggestion \n[@Emily LaRose][7] I agree with whatever you want because you are the expert and I trust you implicitly.\n\n  [1]: https://airtable.com/appKBFbOCN23iz8eF/menCdv3zXo0Zat2Xi/usroPZ4yKxHAs6odJ?recordId=rec9MiUSM1r2HMDYp&fieldId=fldFWQAjehRWQv5n2\n  [2]: https://airtable.com/appKBFbOCN23iz8eF/menBzzBFfRBr6sNxC/usrDTYZtkXBziEsWP?recordId=rec9MiUSM1r2HMDYp&fieldId=fldFWQAjehRWQv5n2\n  [3]: https://airtable.com/appKBFbOCN23iz8eF/menbqdhixgkh28Xbi/usroPZ4yKxHAs6odJ?recordId=rec9MiUSM1r2HMDYp&fieldId=fldFWQAjehRWQv5n2\n  [4]: https://airtable.com/appKBFbOCN23iz8eF/menW2f6ZAO3yhkJDn/usrDTYZtkXBziEsWP?recordId=rec9MiUSM1r2HMDYp&fieldId=fldFWQAjehRWQv5n2\n  [5]: https://airtable.com/appKBFbOCN23iz8eF/menyAggYThXRzxnap/usroPZ4yKxHAs6odJ?recordId=rec9MiUSM1r2HMDYp&fieldId=fldFWQAjehRWQv5n2\n  [6]: https://airtable.com/appKBFbOCN23iz8eF/menrXKPZL8F7qRJLo/usrDTYZtkXBziEsWP?recordId=rec9MiUSM1r2HMDYp&fieldId=fldFWQAjehRWQv5n2\n  [7]: https://airtable.com/appKBFbOCN23iz8eF/menms5RXTtBAuhWip/usroPZ4yKxHAs6odJ?recordId=rec9MiUSM1r2HMDYp&fieldId=fldFWQAjehRWQv5n2\n",
     "Wordcount Definition": 135,
     "Wordcount Term": 3,
     "Total wordcount": 138
@@ -1609,7 +1596,8 @@
       "recpPCg3MtoBXeJAN"
     ],
     "Hindi": [
-      "recTadD4MIVOwMvtB"
+      "recTadD4MIVOwMvtB",
+      "rec5sFQdOwUrv7uTm"
     ],
     "Telugu": [
       "recjWYBXt1zNLIJc9"
@@ -1626,6 +1614,7 @@
     "Portuguese": [
       "reciInxV2hbeP1T0g"
     ],
+    "Internal notes": "[@Emily LaRose][1] The glossary term is “homeopathic” but the definition is for “homeopathy”. Also there is an extra “that” in one of the sentences which could rather read: “According to the U.S. National Center for Complementary and Integrative Health, a 2015 comprehensive assessment of evidence by the Australian government’s National Health and Medical Research Council concluded that there is no reliable evidence that homeopathy is effective for any health condition.”\n\n  [1]: https://airtable.com/appKBFbOCN23iz8eF/menCZVi0XEHfL77jW/usroPZ4yKxHAs6odJ?recordId=recW0Z826AuxEWVeS&fieldId=fldFWQAjehRWQv5n2\n",
     "Wordcount Definition": 146,
     "Wordcount Term": 1,
     "Total wordcount": 147
@@ -1760,6 +1749,7 @@
     "Portuguese": [
       "reccntZ8YXkSoG6Wu"
     ],
+    "Internal notes": "[@Emily LaRose][1] Missing pronoun “it”, rather “where it is carried to a treatment facility.”\n\n  [1]: https://airtable.com/appKBFbOCN23iz8eF/mentwut35QASDhlJm/usroPZ4yKxHAs6odJ?recordId=rec8jvvjIb2QmeUrA&fieldId=fldFWQAjehRWQv5n2\n",
     "Wordcount Definition": 64,
     "Wordcount Term": 2,
     "Total wordcount": 66
@@ -1774,14 +1764,16 @@
       "recUU9xtTzmcGAk9Y",
       "recDcWzSA3u9hSsLZ",
       "recxWz9YItyyFuO5s",
-      "recIWpxnU5BOReqN2"
+      "recIWpxnU5BOReqN2",
+      "recHgpMkShciBa9VJ"
     ],
     "Status": "Published",
     "French": [
       "recEoT5I0Rnv8jciE"
     ],
     "Hindi": [
-      "recRYDsHBzrcL4EfS"
+      "recRYDsHBzrcL4EfS",
+      "reclxPCBbnj67Upff"
     ],
     "Telugu": [
       "recVTf5kx0nuuTR6D"
@@ -1799,7 +1791,7 @@
     "Portuguese": [
       "rec57U2TIc7WB1L3y"
     ],
-    "Internal notes": "We miss a definition here.\n\n[@Christin Gilmer][1] See what you think about this one. It was surprisingly awkward to define. If we have an option to post a WHO infographic on the site, that would help?- EL\n\n[@Emily LaRose][2] You are definitely right. And this is excellent! We also have some from SAC. [@Jenna Sherman][3] Do you think any SAC infographics might be helpful with this glossary term?\n\n[@Emily LaRose][4] [@Christin Gilmer][5]\nThe term “face covering”, which I think is a synonym for “face mask”, is not in the glossary. It could be an opportunity to add here, or would it require a new entry? Some health systems will use the term “face covering” instead of “face mask”. Here is a definition: “Piece of cloth which covers the nose and the mouth to block respiratory droplets ejected when one speaks, coughs or sneezes. Face coverings prevent contamination of the person’s surroundings. It can be a scarf, a bandana or a cloth mask.\n\n[@Christin Gilmer][6] I think that we could do an entry for \"face covering\" and refer to the \"face mask\" definition perhaps? I think with current research I am hesitant to say scarf, bandana, etc. Thoughts? EL\n\n```\n\n```\nThnot ri\n```\nnew\n```\n\n  [1]: https://airtable.com/appKBFbOCN23iz8eF/men87xTffV5vXKEGz/usrDTYZtkXBziEsWP?recordId=reclKahoPRbBLqUKg&fieldId=fldFWQAjehRWQv5n2\n  [2]: https://airtable.com/appKBFbOCN23iz8eF/men5b5u6J5vDQK7Tz/usroPZ4yKxHAs6odJ?recordId=reclKahoPRbBLqUKg&fieldId=fldFWQAjehRWQv5n2\n  [3]: https://airtable.com/appKBFbOCN23iz8eF/menjUG8QrwVT9Ul27/usryJw3d1ZhlxblnO?recordId=reclKahoPRbBLqUKg&fieldId=fldFWQAjehRWQv5n2\n  [4]: https://airtable.com/appKBFbOCN23iz8eF/menCsjP3g1YegUf0a/usroPZ4yKxHAs6odJ?recordId=reclKahoPRbBLqUKg&fieldId=fldFWQAjehRWQv5n2\n  [5]: https://airtable.com/appKBFbOCN23iz8eF/mencpMPX3UmITwbLJ/usrDTYZtkXBziEsWP?recordId=reclKahoPRbBLqUKg&fieldId=fldFWQAjehRWQv5n2\n  [6]: https://airtable.com/appKBFbOCN23iz8eF/menf2dS0LNdeiupz0/usrDTYZtkXBziEsWP?recordId=reclKahoPRbBLqUKg&fieldId=fldFWQAjehRWQv5n2\n",
+    "Internal notes": "We miss a definition here.\n\n[@Christin Gilmer][1] See what you think about this one. It was surprisingly awkward to define. If we have an option to post a WHO infographic on the site, that would help?- EL\n\n[@Emily LaRose][2] You are definitely right. And this is excellent! We also have some from SAC. [@Jenna Sherman][3] Do you think any SAC infographics might be helpful with this glossary term?\n\n[@Emily LaRose][4] [@Christin Gilmer][5]\nThe term “face covering”, which I think is a synonym for “face mask”, is not in the glossary. It could be an opportunity to add here, or would it require a new entry? Some health systems will use the term “face covering” instead of “face mask”. Here is a definition: “Piece of cloth which covers the nose and the mouth to block respiratory droplets ejected when one speaks, coughs or sneezes. Face coverings prevent contamination of the person’s surroundings. It can be a scarf, a bandana or a cloth mask.\n\n[@Christin Gilmer][6] I think that we could do an entry for \"face covering\" and refer to the \"face mask\" definition perhaps? I think with current research I am hesitant to say scarf, bandana, etc. Thoughts? EL\n\n[@AO LocLAb][7] Great idea. [@Emily LaRose][8] What if we just duplicate your discussion for face mask and use it for a new face covering definition as well?\n\n[@Emily LaRose][9] “made from layered cloth or fabric” seems redundant as fabric is “cloth or material for making clothes, covering furniture, etc.”. Would “fabric” suffice?\nAlso, what do we actually mean here by ‘incapacitated’ as the word can have different meanings?\n\n  [1]: https://airtable.com/appKBFbOCN23iz8eF/men87xTffV5vXKEGz/usrDTYZtkXBziEsWP?recordId=reclKahoPRbBLqUKg&fieldId=fldFWQAjehRWQv5n2\n  [2]: https://airtable.com/appKBFbOCN23iz8eF/men5b5u6J5vDQK7Tz/usroPZ4yKxHAs6odJ?recordId=reclKahoPRbBLqUKg&fieldId=fldFWQAjehRWQv5n2\n  [3]: https://airtable.com/appKBFbOCN23iz8eF/menjUG8QrwVT9Ul27/usryJw3d1ZhlxblnO?recordId=reclKahoPRbBLqUKg&fieldId=fldFWQAjehRWQv5n2\n  [4]: https://airtable.com/appKBFbOCN23iz8eF/menCsjP3g1YegUf0a/usroPZ4yKxHAs6odJ?recordId=reclKahoPRbBLqUKg&fieldId=fldFWQAjehRWQv5n2\n  [5]: https://airtable.com/appKBFbOCN23iz8eF/mencpMPX3UmITwbLJ/usrDTYZtkXBziEsWP?recordId=reclKahoPRbBLqUKg&fieldId=fldFWQAjehRWQv5n2\n  [6]: https://airtable.com/appKBFbOCN23iz8eF/menf2dS0LNdeiupz0/usrDTYZtkXBziEsWP?recordId=reclKahoPRbBLqUKg&fieldId=fldFWQAjehRWQv5n2\n  [7]: https://airtable.com/appKBFbOCN23iz8eF/menXXd6yGrCqC3A7u/usrFuUGZLOsk8emML?recordId=reclKahoPRbBLqUKg&fieldId=fldFWQAjehRWQv5n2\n  [8]: https://airtable.com/appKBFbOCN23iz8eF/menGT9HjzcBK3kOE3/usroPZ4yKxHAs6odJ?recordId=reclKahoPRbBLqUKg&fieldId=fldFWQAjehRWQv5n2\n  [9]: https://airtable.com/appKBFbOCN23iz8eF/menym5pXNUFfgYGv9/usroPZ4yKxHAs6odJ?recordId=reclKahoPRbBLqUKg&fieldId=fldFWQAjehRWQv5n2\n",
     "Wordcount Definition": 151,
     "Wordcount Term": 2,
     "Total wordcount": 153
@@ -1836,6 +1828,7 @@
       "rec7xooHHNhhnv0dc",
       "recJ5nk7iXZ1mxQyg"
     ],
+    "Internal notes": "[@Emily LaRose][1] I’d say that “by the general public to prevent themselves from COVID-19” should rather read “by the general public to protect themselves from COVID-19”.\n\n  [1]: https://airtable.com/appKBFbOCN23iz8eF/menQbVkriFd0fpDln/usroPZ4yKxHAs6odJ?recordId=recCEG85awzcotyRi&fieldId=fldFWQAjehRWQv5n2\n",
     "Wordcount Definition": 104,
     "Wordcount Term": 2,
     "Total wordcount": 106
@@ -1869,6 +1862,7 @@
     "Portuguese": [
       "recFeRu0mZ5djT2TE"
     ],
+    "Internal notes": "[@Emily LaRose][1] Here as in many other glossary entries, it seems that “i.e.” should rather read “e.g.” in the first occurrence: “(e.g., a virus)”. The second one makes more sense. Using “i.e.” implies that the pathogen is always a virus in such a trial. Is that the case?\n\n  [1]: https://airtable.com/appKBFbOCN23iz8eF/meneF9HHRDI0trUHQ/usroPZ4yKxHAs6odJ?recordId=rec5P1moAv3DjPkbT&fieldId=fldFWQAjehRWQv5n2\n",
     "Wordcount Definition": 58,
     "Wordcount Term": 3,
     "Total wordcount": 61
