@@ -536,7 +536,6 @@
     "Status": "Published",
     "French": [
       "recj3TAUL1rY5U9fH",
-      "reckoJxXLCVy89CE9",
       "recF3mpjfFBpnnj9v"
     ],
     "Hindi": [
@@ -1178,7 +1177,7 @@
     "Portuguese": [
       "recWzdE6Z49QVfj1i"
     ],
-    "Internal notes": "\n",
+    "Internal notes": "[@Emily LaRose][1] The word “treatment” is missing in “the standard (usual or non-experimental treatment), a placebo treatment, or no treatment at all” for the sentence logic to hold. This could rather read: “receives either the standard treatment (usual or non-experimental treatment), a placebo treatment, or no treatment at all”.\n\n  [1]: https://airtable.com/appKBFbOCN23iz8eF/men6Qo92rRBUrMRZl/usroPZ4yKxHAs6odJ?recordId=recwhS0IsusP5qFNc&fieldId=fldFWQAjehRWQv5n2\n",
     "Wordcount Definition": 124,
     "Wordcount Term": 3,
     "Total wordcount": 127
