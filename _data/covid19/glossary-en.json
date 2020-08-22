@@ -2,7 +2,7 @@
   {
     "id": "rechTyFW9yFtRWh8o",
     "Term": "secondary infection",
-    "Definition": "A secondary infection is an infection that takes place either during or following the treatment of an existing infection. Some of the causes of a secondary infection might include changes in the immune system of a person resulting from the first infection, or if the treatment for the first infection led to the secondary infection.\n",
+    "Definition": "A secondary infection is an infection that takes place either during or following the treatment of an existing infection. Some of the causes of a secondary infection may include changes in the immune system of a person resulting from the first infection, or if the treatment for the first infection led to the secondary infection.\n",
     "Questions using this term": [
       "recu8V6IGjMveS5Ku"
     ],
@@ -25,8 +25,15 @@
     "Bengali": [
       "recCagvfdC6anCFqU"
     ],
+    "Portuguese": [
+      "recKKXOBtaJHpC3t3"
+    ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial"
+    "Completed Translations?": "Partial",
+    "Internal notes": "**May** is used to express what is possible, factual, or could be factual.\n**Might** is used to express what is hypothetical, counterfactual, or remotely possible.\nSo changed “may include changes”.\n[@c me][1]\nاصابة to be replaced by التهاب ثانوي as they are talking about antibiotic, antibiotic is used for infection التهابات. Secondary is to be translated ثانوي\n\n\n\n  [1]: https://airtable.com/appKBFbOCN23iz8eF/menZRy0UIFr6tHwQ5/usrn5KUVw5CLNegC7?recordId=rechTyFW9yFtRWh8o&fieldId=fldFWQAjehRWQv5n2\n",
+    "Wordcount Definition": 55,
+    "Wordcount Term": 2,
+    "Total wordcount": 57
   },
   {
     "id": "recnFUXyIZy81Rj1I",
@@ -36,7 +43,8 @@
       "recu8V6IGjMveS5Ku",
       "rec1KveB4FFU90Equ",
       "rec7awl8Ed6xdZIiv",
-      "recu5zvFnlQeNTxk8"
+      "recu5zvFnlQeNTxk8",
+      "recIWpxnU5BOReqN2"
     ],
     "Status": "Published",
     "French": [
@@ -57,8 +65,14 @@
     "Bengali": [
       "recOp4OrXCRJQymee"
     ],
+    "Portuguese": [
+      "recIQAMEQSiwl28bt"
+    ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial"
+    "Completed Translations?": "Partial",
+    "Wordcount Definition": 62,
+    "Wordcount Term": 1,
+    "Total wordcount": 63
   },
   {
     "id": "recAFuzwLppTBDIPe",
@@ -76,7 +90,8 @@
       "recHmMAGrkmpcw79C"
     ],
     "Telugu": [
-      "rechzNM7NajQl4Uxh"
+      "rechzNM7NajQl4Uxh",
+      "recPqMsvuAGxnqMdM"
     ],
     "Spanish": [
       "rec8AF1HoV58wHKJV"
@@ -88,8 +103,14 @@
       "recTbR51Mjn4gR57b",
       "recuLOY1MUErgxwcl"
     ],
+    "Portuguese": [
+      "recCBvQjZVSsnl0uD"
+    ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial"
+    "Completed Translations?": "Partial",
+    "Wordcount Definition": 74,
+    "Wordcount Term": 1,
+    "Total wordcount": 75
   },
   {
     "id": "rec5yviiSvJkufYvu",
@@ -126,8 +147,14 @@
       "recvccUgrhJYz3YSv",
       "recKkBpJxRNTHf7oP"
     ],
+    "Portuguese": [
+      "rec9f79WCBPYf9416"
+    ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial"
+    "Completed Translations?": "Partial",
+    "Wordcount Definition": 131,
+    "Wordcount Term": 2,
+    "Total wordcount": 133
   },
   {
     "id": "rech6tPR0hLDA3JH3",
@@ -144,7 +171,8 @@
       "recyEdXsLqUa2Tp7K"
     ],
     "Hindi": [
-      "recGvUUwg7Xc2hGu1"
+      "recGvUUwg7Xc2hGu1",
+      "recEUGjC9Kq7m29Wt"
     ],
     "Telugu": [
       "rec2c7J2nkDaKbqdU"
@@ -152,16 +180,26 @@
     "Spanish": [
       "recU5BJ3JvrsSLZmg"
     ],
+    "Arabic": [
+      "recgolSoghSZJSebC"
+    ],
     "Bengali": [
       "rec7iT9Cxd8QtYLjs"
-    ]
+    ],
+    "Portuguese": [
+      "recsuNlXalfKRhA5e"
+    ],
+    "Wordcount Definition": 191,
+    "Wordcount Term": 2,
+    "Total wordcount": 193
   },
   {
     "id": "recE7xmnXgtg8ZanX",
     "Term": "incubation period",
     "Definition": "According to the World Health Organization, the incubation period is the time between exposure to the virus (becoming infected) and symptom onset.\n",
     "Questions using this term": [
-      "recSK7NRoa33YUdrv"
+      "recSK7NRoa33YUdrv",
+      "recqw7drq7lMSYbhV"
     ],
     "Status": "Published",
     "French": [
@@ -182,8 +220,14 @@
     "Bengali": [
       "recjZelO75WPKI88X"
     ],
+    "Portuguese": [
+      "recsLrDBPiWeGvGkL"
+    ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial"
+    "Completed Translations?": "Partial",
+    "Wordcount Definition": 22,
+    "Wordcount Term": 2,
+    "Total wordcount": 24
   },
   {
     "id": "recJ4Q812SOdo1NGM",
@@ -205,11 +249,22 @@
     "Spanish": [
       "recPxsWVBYhXthZOC"
     ],
+    "Arabic": [
+      "recwH3frly4RyK3Om",
+      "recasoroHYf0Z9Mtj"
+    ],
     "Bengali": [
       "recvh39v6lYARbUsZ"
     ],
+    "Portuguese": [
+      "recFVWQZgncFRkiy4"
+    ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial"
+    "Completed Translations?": "Partial",
+    "Internal notes": "[@Christin Gilmer][1]\n\\*Though the glossary entry is “contagious”, the definition is for “contagious disease”.\n\\*I would suggest “inhaling droplets _expelled_ when a person” to be consistent with aerosol/airborne transmission.\n\n  [1]: https://airtable.com/appKBFbOCN23iz8eF/menjwt6CBa0eCuxsI/usrDTYZtkXBziEsWP?recordId=recJ4Q812SOdo1NGM&fieldId=fldFWQAjehRWQv5n2\n",
+    "Wordcount Definition": 56,
+    "Wordcount Term": 1,
+    "Total wordcount": 57
   },
   {
     "id": "recsuWy4EfRZwvcmh",
@@ -222,14 +277,57 @@
     "Hindi": [
       "recaUmxtxlfHbFPej"
     ],
+    "Telugu": [
+      "recrI6blZ01WJAbdh"
+    ],
+    "Spanish": [
+      "recJfJd9JWT2mJcDo"
+    ],
+    "Arabic": [
+      "rec27PhTyw6N5u9Fn"
+    ],
+    "Bengali": [
+      "recRVKGmS0J3JQr0n"
+    ],
+    "Portuguese": [
+      "rec6LZf1WEBOhtzBq"
+    ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial"
+    "Completed Translations?": "Partial",
+    "Wordcount Definition": 80,
+    "Wordcount Term": 2,
+    "Total wordcount": 82
   },
   {
     "id": "rec3XmnugOMexQiQA",
     "Term": "experimental treatment",
     "Definition": "An experimental treatment is a medication or therapy that is being tested to evaluate if it is effective against an illness or medical condition. Experimental treatments may be existing medications or therapies that are known to work in treating one illness that are tried as a treatment for another illness (i.e. when an antiviral medication is used to treat a new virus, early treatments are considered experimental because it is unclear as to whether or not the medication will work). Experimental treatments may also be new medications or treatments that have not been used before. In addition to learning whether experimental treatments treat particular illnesses, the experimental process evaluates the therapies for possible side effects.\n",
-    "Status": "Published"
+    "Status": "Published",
+    "French": [
+      "recSzsRVZvSvXvlel"
+    ],
+    "Hindi": [
+      "reczL6p3LSFic06ab"
+    ],
+    "Telugu": [
+      "recTPj1uejyNxO2Mn"
+    ],
+    "Spanish": [
+      "recrZQ9NrhdhkPDS0"
+    ],
+    "Arabic": [
+      "recIMOdquYjpRXYhY"
+    ],
+    "Bengali": [
+      "recFvgwqnTGFSdwmq"
+    ],
+    "Portuguese": [
+      "recepujRRaXKztKiV"
+    ],
+    "Internal notes": "[@Emily LaRose][1] It seems to me that in definitions, you often use “i.e” (that is to say) when “e.g.” (for example) could be a better fit. What do you think? :-) \n\n  [1]: https://airtable.com/appKBFbOCN23iz8eF/mengrToiwoPg5k6ql/usroPZ4yKxHAs6odJ?recordId=rec3XmnugOMexQiQA&fieldId=fldFWQAjehRWQv5n2\n",
+    "Wordcount Definition": 115,
+    "Wordcount Term": 2,
+    "Total wordcount": 117
   },
   {
     "id": "recZZhsMRrNyDPnjg",
@@ -237,13 +335,31 @@
     "Definition": "Pre-exposure refers to the period before a person is exposed to something, usually a disease or infection.\n",
     "Status": "Published",
     "French": [
-      "recJcV5w6TJQ7kOnA"
+      "recRXBAvsQK24YRqH"
     ],
     "Hindi": [
       "rec1qyMZ5NV38uciw"
     ],
+    "Telugu": [
+      "recVK3dwgm6elGaH0"
+    ],
+    "Spanish": [
+      "recOUuycM3pmNzK17"
+    ],
+    "Arabic": [
+      "reckgFGrcM65HOTqN"
+    ],
+    "Bengali": [
+      "reclzqMNZLEycBshs"
+    ],
+    "Portuguese": [
+      "recbQSc6RxIFbMRmo"
+    ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial"
+    "Completed Translations?": "Partial",
+    "Wordcount Definition": 17,
+    "Wordcount Term": 1,
+    "Total wordcount": 18
   },
   {
     "id": "reccE6W6JYLJi0i1n",
@@ -256,8 +372,26 @@
     "Hindi": [
       "recj2FGcuZ524VRfM"
     ],
+    "Telugu": [
+      "recrZnilzb8cJmc6k"
+    ],
+    "Spanish": [
+      "recj4jXuKJXUpPBuK"
+    ],
+    "Arabic": [
+      "rec7HFIp6fgJdD3iv"
+    ],
+    "Bengali": [
+      "recsbnQMUfj0kWopD"
+    ],
+    "Portuguese": [
+      "recmBdO8QPBLvSaUj"
+    ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial"
+    "Completed Translations?": "Partial",
+    "Wordcount Definition": 19,
+    "Wordcount Term": 1,
+    "Total wordcount": 20
   },
   {
     "id": "recUOHoAQtR97mxFC",
@@ -273,8 +407,26 @@
     "Hindi": [
       "rec5z9j8YD2A1t2ZQ"
     ],
+    "Telugu": [
+      "rec7xaPq3LsuYCenB"
+    ],
+    "Spanish": [
+      "recUrtFaB1bUVY3d6"
+    ],
+    "Arabic": [
+      "recPPKpnzd26RA9ev"
+    ],
+    "Bengali": [
+      "recMryJLmSfGwLtkp"
+    ],
+    "Portuguese": [
+      "recvX9D3385rwbNZs"
+    ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial"
+    "Completed Translations?": "Partial",
+    "Wordcount Definition": 45,
+    "Wordcount Term": 1,
+    "Total wordcount": 46
   },
   {
     "id": "reco5k0tpirgGDeqb",
@@ -302,8 +454,44 @@
     "Bengali": [
       "recyfTJ3t9OZ96dJB"
     ],
+    "Portuguese": [
+      "recMjPDKlANq1enOF"
+    ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial"
+    "Completed Translations?": "Partial",
+    "Wordcount Definition": 54,
+    "Wordcount Term": 1,
+    "Total wordcount": 55
+  },
+  {
+    "id": "recVfOgvT8WVpJgfA",
+    "Term": "bacterial infection",
+    "Definition": "There are many different kinds of bacteria that naturally live on the skin, as well as in the nose, mouth, and digestive tract. Most of the time these bacteria are not harmful and, in some cases, they have been shown to help with digestion and prevention of some illnesses.\n\nA bacterial infection occurs when harmful bacteria enter the body and begin to multiply. Bacterial infections can occur anywhere in the body including the lungs, throat, intestines, or on the skin. Symptoms of bacterial infection are different depending upon where the infection is located (i.e. a sore throat is a common symptom of _Streptococcus_ infection of the throat, food poisoning caused by bacteria may cause vomiting or diarrhea). Antibiotics may be used to treat bacterial infections and, if bacterial infections are left untreated, they can become severe. \n",
+    "Status": "Published",
+    "French": [
+      "recSJumy3t2WyxITV"
+    ],
+    "Hindi": [
+      "recV3DUkdH6W17Ogl"
+    ],
+    "Telugu": [
+      "recAsDaXcdg0QKSOM"
+    ],
+    "Spanish": [
+      "recKy9KcvaAd1GWNk"
+    ],
+    "Arabic": [
+      "recXHDXnAWxNcvGmN"
+    ],
+    "Bengali": [
+      "recSFgXV4atomIEND"
+    ],
+    "Portuguese": [
+      "recYApeBrniYvy9vb"
+    ],
+    "Wordcount Definition": 136,
+    "Wordcount Term": 2,
+    "Total wordcount": 138
   },
   {
     "id": "recRog4Fq88ayf62O",
@@ -313,9 +501,30 @@
       "recxbPxkhx1NeoE5Q"
     ],
     "Status": "Published",
+    "French": [
+      "recM647kH2iMZKYRK"
+    ],
     "Hindi": [
       "recdyaq0orFmPP2rV"
-    ]
+    ],
+    "Telugu": [
+      "rec2o6TPFNIXHB4kn"
+    ],
+    "Spanish": [
+      "recnazQB94s5XTCs0"
+    ],
+    "Arabic": [
+      "recUAMhGsYNWyd1sM"
+    ],
+    "Bengali": [
+      "rec905cSE6FKbJ69K"
+    ],
+    "Portuguese": [
+      "recsGZXT0KXLzFX8v"
+    ],
+    "Wordcount Definition": 37,
+    "Wordcount Term": 1,
+    "Total wordcount": 38
   },
   {
     "id": "recOLVaA8YtoF3ofN",
@@ -325,9 +534,32 @@
       "recWWXBObp8mm4ii4"
     ],
     "Status": "Published",
+    "French": [
+      "recj3TAUL1rY5U9fH",
+      "recF3mpjfFBpnnj9v"
+    ],
     "Hindi": [
       "recWvkvqR9jxKuSnd"
-    ]
+    ],
+    "Telugu": [
+      "rec8mKELc6TckTGqr"
+    ],
+    "Spanish": [
+      "recPILT0kwiO3cG3M"
+    ],
+    "Arabic": [
+      "recDMSWfvWoQW3Qky"
+    ],
+    "Bengali": [
+      "recUNK7Ktf9I4lEMJ"
+    ],
+    "Portuguese": [
+      "recK7n0RFraO4pFQd"
+    ],
+    "Internal notes": "[@Emily LaRose][1] In some languages, medicine can only be a substance, not a therapy. Any idea how to tackle that? This glossary entry covers the substance, the therapy and the practice of medicine, which makes it impossible to translate as such. Should we create as many localized entries as we need and relate them all to the word “medicine”?\n\n  [1]: https://airtable.com/appKBFbOCN23iz8eF/menZQCwWomSVW6w4u/usroPZ4yKxHAs6odJ?recordId=recOLVaA8YtoF3ofN&fieldId=fldFWQAjehRWQv5n2\n",
+    "Wordcount Definition": 83,
+    "Wordcount Term": 1,
+    "Total wordcount": 84
   },
   {
     "id": "recRGHDXxeEnXrS9t",
@@ -355,8 +587,14 @@
     "Bengali": [
       "rec5UN4rM2igwCqSr"
     ],
+    "Portuguese": [
+      "recSx9rt84rBYkPps"
+    ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial"
+    "Completed Translations?": "Partial",
+    "Wordcount Definition": 45,
+    "Wordcount Term": 1,
+    "Total wordcount": 46
   },
   {
     "id": "recbQ95pvRq7nP9s3",
@@ -384,8 +622,14 @@
     "Bengali": [
       "rec4LjHCXWGEoHiGx"
     ],
+    "Portuguese": [
+      "recpVCsrI6WjDHjVz"
+    ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial"
+    "Completed Translations?": "Partial",
+    "Wordcount Definition": 66,
+    "Wordcount Term": 2,
+    "Total wordcount": 68
   },
   {
     "id": "recFSOdDjQBqJHnZ9",
@@ -396,7 +640,7 @@
     ],
     "Status": "Published",
     "French": [
-      "reccwo5NJI2cHb2Wl"
+      "recYcTN9RFmkJyENu"
     ],
     "Hindi": [
       "recoT0Suijyl09026"
@@ -413,8 +657,14 @@
     "Bengali": [
       "recIZgcOnQCXtZZrr"
     ],
+    "Portuguese": [
+      "recIYxLfWLQNHfBt4"
+    ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial"
+    "Completed Translations?": "Partial",
+    "Wordcount Definition": 59,
+    "Wordcount Term": 2,
+    "Total wordcount": 61
   },
   {
     "id": "recx2PeCcs1Awb9rG",
@@ -425,7 +675,8 @@
       "recBkQVlmOqcxKt8t",
       "recQoylvV8fLvS6xm",
       "recenUqXFNVYnafXz",
-      "recgfRiqVgG4lMH4w"
+      "recgfRiqVgG4lMH4w",
+      "recqw7drq7lMSYbhV"
     ],
     "Status": "Published",
     "French": [
@@ -447,8 +698,14 @@
     "Bengali": [
       "rechNV98fTjsB5uxV"
     ],
+    "Portuguese": [
+      "recZjQZE9JItWLnNl"
+    ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial"
+    "Completed Translations?": "Partial",
+    "Wordcount Definition": 22,
+    "Wordcount Term": 1,
+    "Total wordcount": 23
   },
   {
     "id": "recbZcFUtsYMA9Vsh",
@@ -465,7 +722,8 @@
     ],
     "Hindi": [
       "recOeLKYm8ZH9Z07g",
-      "recweA2Zhre2qkTpA"
+      "recweA2Zhre2qkTpA",
+      "recGnBOPseJ6t5HKK"
     ],
     "Telugu": [
       "recojskwxMtX22Rbh"
@@ -479,8 +737,14 @@
     "Bengali": [
       "recA12Sm04IeagXAN"
     ],
+    "Portuguese": [
+      "recWshqXZ8GBkodY0"
+    ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial"
+    "Completed Translations?": "Partial",
+    "Wordcount Definition": 42,
+    "Wordcount Term": 1,
+    "Total wordcount": 43
   },
   {
     "id": "rec9qqItwSTjq3Eae",
@@ -497,44 +761,31 @@
       "recu5zvFnlQeNTxk8"
     ],
     "Status": "Published",
+    "French": [
+      "recUR2oz4oTSgLd0D"
+    ],
     "Hindi": [
       "recc9FUquSkJ3xVkn"
-    ]
-  },
-  {
-    "id": "recx1966VLqkIB9Lj",
-    "Term": "pre-symptomatic",
-    "Definition": "Pre-symptomatic infections occur when a person is infected with an illness but has not experienced any symptoms yet.\n\n",
-    "Status": "Published",
-    "Hindi": [
-      "recOeLKYm8ZH9Z07g"
-    ]
-  },
-  {
-    "id": "recDalYrz2m23kS2e",
-    "Term": "influenza",
-    "Definition": "According to the U.S. Centers for Disease Control, seasonal influenza viruses are influenza A and B viruses that spread and cause illness in people during the time of year known as the “flu season.” Seasonal influenza viruses cause annual U.S. influenza epidemics during fall, winter, and spring, and circulate among people worldwide. Seasonal influenza A and B viruses are continually undergoing evolution in unpredictable ways.\n",
-    "Questions using this term": [
-      "recOiBtU1KHxAQAgq"
-    ],
-    "Status": "Published",
-    "French": [
-      "recN1KGOfbDmvsGiU"
-    ],
-    "Hindi": [
-      "recfzLZmTL7a03mVg"
     ],
     "Telugu": [
-      "recnhST9odxY4UMS8"
+      "recZFwzY4mZYH3vNO",
+      "rec9lqfaZkRuN3S6Y"
     ],
     "Spanish": [
-      "rec1qmhcwfCuouJCl"
+      "recIurtEF45sA2THI"
+    ],
+    "Arabic": [
+      "recS5ljy3bfxdFokp"
     ],
     "Bengali": [
-      "reclmkuFydbGZYvYo"
+      "recp6xh3uoMnn3oIm"
     ],
-    "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial"
+    "Portuguese": [
+      "recJTKsxlgSWlX1kY"
+    ],
+    "Wordcount Definition": 63,
+    "Wordcount Term": 1,
+    "Total wordcount": 64
   },
   {
     "id": "recUx8LCQGkRdxG3B",
@@ -562,13 +813,19 @@
     "Bengali": [
       "recP5GccXZBwoESTJ"
     ],
+    "Portuguese": [
+      "rec6rYWHh7JdKTHM7"
+    ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial"
+    "Completed Translations?": "Partial",
+    "Wordcount Definition": 36,
+    "Wordcount Term": 2,
+    "Total wordcount": 38
   },
   {
     "id": "rec9SYUCp1ULDd0UL",
     "Term": "tuberculosis",
-    "Definition": "According to the World Health Organization, tuberculosis (TB) is caused by bacteria (Mycobacterium tuberculosis) that most often affect the lungs. Tuberculosis is curable and preventable. TB is spread from person to person through the air. When people with lung TB cough, sneeze or spit, they propel the TB germs into the air. A person needs to inhale only a few of these germs to become infected.\nAbout one-quarter of the world's population has latent TB, which means people have been infected by TB bacteria but are not (yet) ill with the disease and cannot transmit the disease.\nPeople infected with TB bacteria have a 5–15% lifetime risk of falling ill with TB. Persons with compromised immune systems, such as people living with HIV, malnutrition or diabetes, or people who use tobacco, have a higher risk of falling ill.\nWhen a person develops active TB disease, the symptoms (such as cough, fever, night sweats, or weight loss) may be mild for many months. This can lead to delays in seeking care, and results in transmission of the bacteria to others. People with active TB can infect 5–15 other people through close contact over the course of a year.\n",
+    "Definition": "According to the World Health Organization, tuberculosis (TB) is caused by a bacteria (Mycobacterium tuberculosis) that most often affect the lungs. Tuberculosis is curable and preventable. TB is spread from person to person through the air. When people with lung TB cough, sneeze or spit, they propel the TB germs into the air. A person needs to inhale only a few of these germs to become infected.\nAbout one-quarter of the world's population has latent TB, which means people have been infected by TB bacteria but are not (yet) ill with the disease and cannot transmit the disease.\nPeople infected with TB bacteria have a 5–15% lifetime risk of falling ill with TB. Persons with compromised immune systems, such as people living with HIV, malnutrition or diabetes, or people who use tobacco, have a higher risk of falling ill.\nWhen a person develops active TB disease, the symptoms (such as cough, fever, night sweats, or weight loss) may be mild for many months. This can lead to delays in seeking care, and results in transmission of the bacteria to others. People with active TB can infect 5–15 other people through close contact over the course of a year.\n",
     "Questions using this term": [
       "recCC7GhsX2CKZJbs"
     ],
@@ -591,8 +848,15 @@
     "Bengali": [
       "rec2SFVT4P9JUlBHK"
     ],
+    "Portuguese": [
+      "recfIrZPWQwQzJIbC"
+    ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial"
+    "Completed Translations?": "Partial",
+    "Internal notes": "Added “a” before “bacteria (Mycobacterium tuberculosis)”\n",
+    "Wordcount Definition": 195,
+    "Wordcount Term": 1,
+    "Total wordcount": 196
   },
   {
     "id": "recM4p8QOERmuESKr",
@@ -623,15 +887,22 @@
     "Bengali": [
       "reccHzZYGTYTahDZS"
     ],
+    "Portuguese": [
+      "recEilLc99DK29Yzr"
+    ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial"
+    "Completed Translations?": "Partial",
+    "Wordcount Definition": 200,
+    "Wordcount Term": 2,
+    "Total wordcount": 202
   },
   {
     "id": "recjOgLIjiAbiBH5F",
     "Term": "ultraviolet (UV)",
     "Definition": "According to the U.S. Centers for Disease Control, ultraviolet (UV) rays are a part of sunlight that is an invisible form of radiation. UV rays can penetrate and change the structure of skin cells. There are three types of UV rays: ultraviolet A (UVA), ultraviolet B (UVB), and ultraviolet C (UVC). UVA is the most abundant source of solar radiation at the earth’s surface and penetrates beyond the top layer of human skin. Scientists believe that UVA radiation can cause damage to connective tissue and increase a person’s risk for developing skin cancer. UVB rays penetrate less deeply into skin, but can still cause some forms of skin cancer. Natural UVC rays do not pose a risk to workers because they are absorbed by the Earth’s atmosphere.\n",
     "Questions using this term": [
-      "recrNXw7eBw8czwGW"
+      "recrNXw7eBw8czwGW",
+      "rec7sYlAOUsRLHy0O"
     ],
     "Status": "Published",
     "French": [
@@ -653,8 +924,14 @@
     "Bengali": [
       "recNJ89TVk9m8EAfi"
     ],
+    "Portuguese": [
+      "recMiefP6I5pizKUh"
+    ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial"
+    "Completed Translations?": "Partial",
+    "Wordcount Definition": 127,
+    "Wordcount Term": 2,
+    "Total wordcount": 129
   },
   {
     "id": "rec2UNEXbTkSCx30Q",
@@ -696,8 +973,14 @@
     "Bengali": [
       "rec1aismnWAuw0um1"
     ],
+    "Portuguese": [
+      "rece9035kSHVJ24vx"
+    ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial"
+    "Completed Translations?": "Partial",
+    "Wordcount Definition": 39,
+    "Wordcount Term": 1,
+    "Total wordcount": 40
   },
   {
     "id": "recUAN8C73rkuPWX9",
@@ -725,8 +1008,14 @@
     "Bengali": [
       "recIZfTgU7dylLsAJ"
     ],
+    "Portuguese": [
+      "recZSHb4EwxtxcnTr"
+    ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial"
+    "Completed Translations?": "Partial",
+    "Wordcount Definition": 40,
+    "Wordcount Term": 1,
+    "Total wordcount": 41
   },
   {
     "id": "recOMUWrX4F2d53iC",
@@ -755,17 +1044,44 @@
     "Bengali": [
       "recPuQi1bDq4cLoyB"
     ],
+    "Portuguese": [
+      "recNkLFPX868wwFkV"
+    ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial"
+    "Completed Translations?": "Partial",
+    "Wordcount Definition": 74,
+    "Wordcount Term": 1,
+    "Total wordcount": 75
   },
   {
     "id": "rec4gz4UIxctLqy94",
     "Term": "hypothesis",
     "Definition": "A hypothesis is an idea or prediction based on known facts or observations. Once a hypothesis has been made, it is then further tested using scientific processes to determine if the idea is correct, partially correct, or incorrect in the given situation. A hypothesis may also be described as an educated guess, proposition, prediction, or tentative explanation.\n",
     "Status": "Published",
+    "French": [
+      "recqx10ln3a5rpAhO"
+    ],
     "Hindi": [
       "rec2SBtw2z2CJb1VI"
-    ]
+    ],
+    "Telugu": [
+      "recmXsT4OVEagDeGV"
+    ],
+    "Spanish": [
+      "recFuPiEFzrpC7J8l"
+    ],
+    "Arabic": [
+      "recLaSVq4AxA6mcdW"
+    ],
+    "Bengali": [
+      "recNIR9B7xiFWeGho"
+    ],
+    "Portuguese": [
+      "recidsY6Mzh1iVWMy"
+    ],
+    "Wordcount Definition": 57,
+    "Wordcount Term": 1,
+    "Total wordcount": 58
   },
   {
     "id": "recpDS35Y5vAuQ7Oa",
@@ -774,7 +1090,31 @@
     "Questions using this term": [
       "recxbPxkhx1NeoE5Q"
     ],
-    "Status": "Published"
+    "Status": "Published",
+    "French": [
+      "rec9Q7nOhZ1jhFHrf"
+    ],
+    "Hindi": [
+      "recFBqhDU2WAIW8NP"
+    ],
+    "Telugu": [
+      "recnF7vmVq34GiwW7"
+    ],
+    "Spanish": [
+      "recZ8jMzVGarVTyjM"
+    ],
+    "Arabic": [
+      "recdrmYFRYCjk20rA"
+    ],
+    "Bengali": [
+      "recj8jHpRnnotJrSM"
+    ],
+    "Portuguese": [
+      "recFOseXlCpPuud9S"
+    ],
+    "Wordcount Definition": 82,
+    "Wordcount Term": 2,
+    "Total wordcount": 84
   },
   {
     "id": "recAiJYWSxD5F1Lz1",
@@ -802,46 +1142,658 @@
     "Bengali": [
       "receGgTWnCKPePPzV"
     ],
+    "Portuguese": [
+      "rechNBl9AjG25cq8N"
+    ],
     "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial"
+    "Completed Translations?": "Partial",
+    "Wordcount Definition": 43,
+    "Wordcount Term": 2,
+    "Total wordcount": 45
   },
   {
     "id": "recwhS0IsusP5qFNc",
     "Term": "randomized controlled trial",
     "Definition": "A randomized controlled trial (RCT) is a type of scientific experiment where a group of people are randomly divided into multiple groups, and the groups are treated differently during the study period, to see if the experimental treatments change the participants' health. \n\nIn RCTs, there is at least one control group that receives either the standard (usual or non-experimental treatment), a placebo treatment, or no treatment at all. There is also at least one experimental group that receives the test therapy that may include a new medication, a different medication dose, targeted education, or other intervention.  All of the participants in an RCT are monitored during the study to determine the experimental/test therapy changes health outcomes; some therapies may improve or worsen health.\n",
     "Status": "Published",
+    "French": [
+      "recKgDIquwTvB5xPR"
+    ],
+    "Hindi": [
+      "recZzMR1KiQjYok9q"
+    ],
+    "Telugu": [
+      "recEtHuNtmOWh5Oys"
+    ],
+    "Spanish": [
+      "recEb0MXWSHmbNJ0F"
+    ],
+    "Arabic": [
+      "recYmgezEFi4kzCr5"
+    ],
     "Bengali": [
       "recxjTTqk8oUe7oRj"
-    ]
+    ],
+    "Portuguese": [
+      "recWzdE6Z49QVfj1i"
+    ],
+    "Internal notes": "[@Emily LaRose][1] The word “treatment” is missing in “the standard (usual or non-experimental treatment), a placebo treatment, or no treatment at all” for the sentence logic to hold. This could rather read: “receives either the standard treatment (usual or non-experimental treatment), a placebo treatment, or no treatment at all”.\n\n  [1]: https://airtable.com/appKBFbOCN23iz8eF/men6Qo92rRBUrMRZl/usroPZ4yKxHAs6odJ?recordId=recwhS0IsusP5qFNc&fieldId=fldFWQAjehRWQv5n2\n",
+    "Wordcount Definition": 124,
+    "Wordcount Term": 3,
+    "Total wordcount": 127
   },
   {
-    "id": "rec39wm7MuK12bTI3",
-    "Term": "germs",
-    "Definition": "According to the U.S. Centers for Disease Control, germs are microorganisms and a part of everyday life. They can be found in our air, soil, water, and in and on our bodies. Some germs are helpful, others are harmful. Many germs live in and on our bodies without causing harm and some even help us to stay healthy. Only a small portion of germs are known to cause infection. Germs are also known as infectious agents and refer to a virus, bacteria, or other microbe.\n",
+    "id": "recEer1bgt6r6jukM",
+    "Term": "social distancing",
+    "Definition": "According to the U.S. Centers for Disease Control and Prevention, social-distancing is the act of keeping space between yourself and other people outside of your home to prevent the spread of COVID-19.  To practice social-distancing, experts recommend that people stay at least 6 feet (2 meters) apart.  Social-distancing is also sometimes called physical distancing.\n",
+    "Status": "Published",
+    "French": [
+      "recHM7OkgPC2MdHBD"
+    ],
+    "Hindi": [
+      "recTpGFGGMxkamr1D"
+    ],
+    "Telugu": [
+      "recZfzI32UVQ5mY3O"
+    ],
+    "Spanish": [
+      "recIolsoazYkZ6kT3"
+    ],
+    "Arabic": [
+      "recoaRkXttHO5ykHN"
+    ],
+    "Bengali": [
+      "rec0AeURYIsYUnNXB"
+    ],
+    "Portuguese": [
+      "recJ0BxaNlHWrWNUE"
+    ],
+    "Wordcount Definition": 56,
+    "Wordcount Term": 2,
+    "Total wordcount": 58
+  },
+  {
+    "id": "recvwSSjn9ohOm9fK",
+    "Term": "exposure",
+    "Definition": "Exposure in public health terminology describes being in a place where there may be contact with a foreign substance. For example indoors, people have little chance of significant sun exposure, but if they are outdoors on a sunny day, people are likely to come into contact with sunlight and are thus exposed to the sun. With a virus, if someone is in close contact with a person coughing and sneezing, for example, they are likely to have been exposed to the virus.  Even with exposure, however, someone may or may not become ill from the virus. \n",
     "Questions using this term": [
-      "recr69VbqahSOTu3Y"
+      "reccgTQWarmDQ9sQ9",
+      "recO53s7i9ioAfKKv"
     ],
     "Status": "Published",
     "French": [
-      "recH0gr95OweWQ1ng"
+      "reclmNjVYuaRWpHYc"
     ],
     "Hindi": [
-      "recnFPG2gdeETqbEA"
+      "recGw14xbRob48j15",
+      "recn9R7wlUTwgTAAB"
     ],
     "Telugu": [
-      "recOSTfV7XHp1qBnt"
+      "recoLcsMYpcohAEmN"
     ],
     "Spanish": [
-      "recDLGc4K2wFMA3T1"
+      "recT1lBA5UcplObVq"
     ],
     "Arabic": [
-      "recDM23LVzk0IjF9j"
+      "rec3dVfeDHxvqfXJn"
     ],
     "Bengali": [
-      "rec7dMcRe2Pl6LJev"
+      "recVQx6zmpd7MyntL"
     ],
-    "In translation glossaries?": "Partial",
-    "Completed Translations?": "Partial"
+    "Portuguese": [
+      "rectnTL1ku0aCCCZR"
+    ],
+    "Wordcount Definition": 97,
+    "Wordcount Term": 1,
+    "Total wordcount": 98
+  },
+  {
+    "id": "recz6wQ17eV2G7r6w",
+    "Term": "pre-existing condition",
+    "Definition": "In the U.S., a pre-existing condition are words commonly used to describe as a medical problem (i.e. diabetes, asthma, heart disease, high blood pressure, obesity, cancer) that a patient has, before they begin new medical insurance coverage. The use of the word has been adapted to the current COVID-19 pandemic to describe common long term (or chronic) health problems (i.e. diabetes, asthma, heart disease, high blood pressure, obesity, cancer) that may increase a patient's chances of becoming infected or seriously ill from the virus.\n",
+    "Status": "Published",
+    "French": [
+      "rec2FN7GIecPbmxoP"
+    ],
+    "Hindi": [
+      "recQQzqRbs8iYzDyM"
+    ],
+    "Telugu": [
+      "recM7K1L0WEYaww6C"
+    ],
+    "Spanish": [
+      "recAtdQLA8oDgAxy8"
+    ],
+    "Arabic": [
+      "recM9MFF9gOxauyRj"
+    ],
+    "Bengali": [
+      "recjgnDG9ByH0qgU0"
+    ],
+    "Portuguese": [
+      "reczG9eiMIyZ5EOfH"
+    ],
+    "Wordcount Definition": 84,
+    "Wordcount Term": 2,
+    "Total wordcount": 86
+  },
+  {
+    "id": "reccupU786x3cn86Q",
+    "Term": "blinding",
+    "Definition": "Blinding is a term used when information is hidden from research participants, care providers, and, sometimes, researchers and members of the research team (i.e. data analysts, evaluators, supervisors) as part of the research protocol during the study period. Blinding is commonly used in randomized controlled trials so that participants and researchers are unaware if patients are receiving the test treatment, placebo, or standard treatment. \n\nBlinding aims to reduce or eliminate biases that may impact how people behave, feel, or observe what happens during a study. When the study is finished, all people participating in the study (as participants or researchers) are unblinded and the study details are available.\n\nOther terms used for blinding include blind, blinded, or masked. A clinical research trial that is not blinded is called an \"open trial.\"\n",
+    "Questions using this term": [
+      "recpt1R0CCrgLqFhO"
+    ],
+    "Status": "Published",
+    "French": [
+      "rec6BK76qM5Mkp3YQ"
+    ],
+    "Hindi": [
+      "recU1dZ814OGTd4GG"
+    ],
+    "Telugu": [
+      "recL9wWQ7LpeGysFt",
+      "reclHhs9L8z7EXbtw"
+    ],
+    "Spanish": [
+      "recMSl94Dtr7AJSwL"
+    ],
+    "Arabic": [
+      "recrm1Mm6dkAoVW0V"
+    ],
+    "Bengali": [
+      "recjYgE06NJ6PohPJ"
+    ],
+    "Portuguese": [
+      "recq3IoJcrHQJpuNG"
+    ],
+    "Wordcount Definition": 130,
+    "Wordcount Term": 1,
+    "Total wordcount": 131
+  },
+  {
+    "id": "recPX0N6FB6koiXCL",
+    "Term": "randomization",
+    "Definition": "Randomization is a technique used in scientific research to divide participants into random groups by chance, rather than assigning them by choice. Once patients meet the general criteria to be included in a study, randomization is done to reduce bias so that everyone who participates in the study has an equal chance of being in a treatment (or test) group or a control group. It prevents researchers from purposely selecting certain patients who are more likely to perform better in the study (i.e. patients who are younger or those who seem generally healthier). \n",
+    "Questions using this term": [
+      "recpt1R0CCrgLqFhO"
+    ],
+    "Status": "Published",
+    "French": [
+      "rec6NlTvOmQP1MrDn"
+    ],
+    "Hindi": [
+      "recDBg6zMMcfeOKtr"
+    ],
+    "Telugu": [
+      "recpzWNBApVsdXL2i",
+      "recUrGrnOZ30Msyi8"
+    ],
+    "Spanish": [
+      "rec2SPlTh2tdvEyne"
+    ],
+    "Arabic": [
+      "recGhuKl1S5puQ8Pa"
+    ],
+    "Bengali": [
+      "rec3T686s6VDc0pd5"
+    ],
+    "Portuguese": [
+      "rec2uKwVJ5PKpjahN"
+    ],
+    "Internal notes": "[@Emily LaRose][1] Since random means happening, done, or chosen by chance rather than according to a plan, “into random groups by chance” is redundant.\nIf you do not want to use random to define randomization, it could rather read “to divide participants into groups by chance”.\nAlso “e.g.” could be used instead of “i.e.” since we are giving two examples of what biased selection could be, we are not saying that biased selection is always choosing patients who are younger or those who seem generally healthier. \n\n  [1]: https://airtable.com/appKBFbOCN23iz8eF/mengaTq8a8P3KLkUL/usroPZ4yKxHAs6odJ?recordId=recPX0N6FB6koiXCL&fieldId=fldFWQAjehRWQv5n2\n",
+    "Wordcount Definition": 94,
+    "Wordcount Term": 1,
+    "Total wordcount": 95
+  },
+  {
+    "id": "recqf9kWDH9WkLibg",
+    "Term": "blood vessels",
+    "Definition": "Blood vessels are tubes of different sizes present throughout the body. Larger blood vessels carry blood to the heart from other parts of the body (veins) or away from the heart to other parts of the body (arteries). Larger blood vessels connect to smaller blood vessels in the body that transport blood within tissues, where they exchange water, oxygen, carbon dioxide, and other compounds (i.e. vitamins, minerals, electrolytes, hormones). Arteries, arterioles, capillaries, venules, and veins are all different types of blood vessels that are part of the circulatory system. \n\nOther words that are used to describe blood vessels include vascular system, cardiovascular system (includes the heart and blood vessels), and circulatory system.\n",
+    "Questions using this term": [
+      "reco2uYADZHn5mpCd"
+    ],
+    "Status": "Published",
+    "French": [
+      "recqh7jpeKkP8wV65"
+    ],
+    "Hindi": [
+      "recGpDu8GbzrGnuE8",
+      "reckW0RvMFpqlC3x0"
+    ],
+    "Telugu": [
+      "recOGQ1xjrT6R3Z2n"
+    ],
+    "Spanish": [
+      "recaFrBWWJ9M28pj4"
+    ],
+    "Arabic": [
+      "rec9a2fBWFx4eYTkD"
+    ],
+    "Bengali": [
+      "recXNOTZgCY8cskB9"
+    ],
+    "Portuguese": [
+      "reccq6amo8OhWlCgI"
+    ],
+    "Wordcount Definition": 112,
+    "Wordcount Term": 2,
+    "Total wordcount": 114
+  },
+  {
+    "id": "recqwr4O57SOjNZYx",
+    "Term": "organ",
+    "Definition": "An organ is a body part with a specific structure, function, and cell type. Organs in the human body include, but are not limited to, the heart, liver, stomach, brain, kidneys, and lungs. Organs in the human body are part of organ systems. For example, the digestive system includes the stomach in addition to the esophagus and intestines; the circulatory system includes both the heart and blood vessels that circulate blood throughout the body. There are 10 organic systems in total including the following: integumentary (skin), skeletal (bones), muscular (muscles), nervous (nerves), endocrine (hormonal), digestive, respiratory (breathing), circulatory, excretory (urine, waste), and reproductive.\n",
+    "Questions using this term": [
+      "recbwOwl3dwdrh1iY"
+    ],
+    "Status": "Published",
+    "French": [
+      "rectEEG97iAhTnwMP"
+    ],
+    "Hindi": [
+      "recfG0Ep7PnNCgLr5"
+    ],
+    "Telugu": [
+      "recQMrcsT2itGIEpD"
+    ],
+    "Spanish": [
+      "recwXFiRtQl0OLXxu"
+    ],
+    "Arabic": [
+      "recnkzz35g9c8huL5"
+    ],
+    "Bengali": [
+      "rec6TeRATw1gRQVoB"
+    ],
+    "Portuguese": [
+      "recmfZmRWmWZ4KUbt"
+    ],
+    "Internal notes": "[@Emily LaRose][1] Would “There are 10 organ systems” be more accurate? Also, would it make sense to add a word in parentheses for all organ systems (because all readers may not have a clear understanding)?\n\n  [1]: https://airtable.com/appKBFbOCN23iz8eF/menC2QWh621XVYh5t/usroPZ4yKxHAs6odJ?recordId=recqwr4O57SOjNZYx&fieldId=fldFWQAjehRWQv5n2\n",
+    "Wordcount Definition": 103,
+    "Wordcount Term": 1,
+    "Total wordcount": 104
+  },
+  {
+    "id": "rec06X4QusZL1zCzd",
+    "Term": "sensitivity",
+    "Definition": "Sensitivity in public health terminology is a statistical term that describes the number of people who have a particular illness and are correctly identified as having that illness. It is often used to describe how reliable a medical test is for making a diagnosis, by making sure that there are as few false negatives (people who have the illness but receive a negative test result) as possible. \n\nFor example, if 100 people with an illness are tested, a test with 100% sensitivity would show 100 positive test results. Using the same group, a test with lower sensitivity could have 80 positive test results and 20 people would receive false negative results even though they do indeed have the illness.\n\nSensitivity is also commonly called the \"true positive rate,\" \"recall,\" \"epidemiological sensitivity,\" \"clinical sensitivity,\" or \"probability of detection.\"\n",
+    "Questions using this term": [
+      "recp0leXTiAvzw4cH"
+    ],
+    "Status": "Published",
+    "French": [
+      "reckAWw5rvSyu1T2D"
+    ],
+    "Hindi": [
+      "recMFAuszeeY9pcYx"
+    ],
+    "Telugu": [
+      "recPphldek12ER3iN"
+    ],
+    "Spanish": [
+      "recczvJK116axp8bo"
+    ],
+    "Arabic": [
+      "recwdD7CNc8hlRdsw"
+    ],
+    "Bengali": [
+      "recru5cJW0eThMwuv"
+    ],
+    "Portuguese": [
+      "recH9WAgW7nLX5Ufj"
+    ],
+    "Wordcount Definition": 136,
+    "Wordcount Term": 1,
+    "Total wordcount": 137
+  },
+  {
+    "id": "recc8ZAXzbbMiYc51",
+    "Term": "specificity",
+    "Definition": "Specificity is a statistical term that describes the number of people without an illness that are correctly identified as NOT having the illness. A test with high specificity rarely gives positive test results in healthy patients, so a positive test result means that it is likely that someone has the illness.\n\nFor example, if 100 people are known NOT to have an illness and all are tested, a test with 100% specificity would show 0 positive test results. Using the same group, a test with only 80% specificity would have 80 negative test results (and 20 positive results) even though all 100 people do NOT have the illness.\n\nSpecificity is is also commonly called the \"true negative rate.\"\n",
+    "Questions using this term": [
+      "recp0leXTiAvzw4cH"
+    ],
+    "Status": "Published",
+    "French": [
+      "recM2EWmzHDIcqxyB"
+    ],
+    "Hindi": [
+      "recMD1RoTTYv9gXOn"
+    ],
+    "Telugu": [
+      "recWJtWQF4bKs1u8P"
+    ],
+    "Spanish": [
+      "recwq0UdutYEkIWVg"
+    ],
+    "Arabic": [
+      "recTUsjH3PrI5Edis"
+    ],
+    "Bengali": [
+      "rec0oqg0DY2FID1if"
+    ],
+    "Portuguese": [
+      "recZ2wtLE2C1xBtFO"
+    ],
+    "Wordcount Definition": 116,
+    "Wordcount Term": 1,
+    "Total wordcount": 117
+  },
+  {
+    "id": "recPNexvQiug4RFJu",
+    "Term": "diagnostic test",
+    "Definition": "A diagnostic test (also commonly called a medical test) is used to confirm the presence of a disease or evaluate the severity of a disease for patients suspected of having a particular disease or condition. Diagnostic tests are used to make or confirm a medical diagnosis.\n\nThere are many different kinds of diagnostic tests, including blood tests, x-rays, tissue biopsies, bone scans, and more that may be used to help diagnose conditions including pregnancy, anemia, cancer, or infections as well as heart, vision, or kidney problems. In the case of COVID-19, there are diagnostic tests used to diagnose patients with COVID-19 and tests that are used to test patients for antibodies, to see if they were previously infected with COVID-19 even if they are now recovered.\n",
+    "Questions using this term": [
+      "recp0leXTiAvzw4cH",
+      "recisKOQNAShlHmql",
+      "recRNOP1DQIw90RaZ",
+      "recufj0t4myAoM7yM"
+    ],
+    "Status": "Published",
+    "French": [
+      "recdnvJJlWcfNwwcD"
+    ],
+    "Hindi": [
+      "rec6W2CC5LKW1CK23"
+    ],
+    "Telugu": [
+      "recjc0siyfxms5L3g"
+    ],
+    "Spanish": [
+      "recgdBEaIgYheUgpa"
+    ],
+    "Arabic": [
+      "recH4gfhfGLkZsY0O"
+    ],
+    "Bengali": [
+      "recLqVyVxkOv8g0ml"
+    ],
+    "Portuguese": [
+      "reck1H1RVpzIaMhZ0"
+    ],
+    "Wordcount Definition": 125,
+    "Wordcount Term": 2,
+    "Total wordcount": 127
+  },
+  {
+    "id": "recXRfJ1kKwVI1gH5",
+    "Term": "camphora 1m",
+    "Definition": "Camphora (also called camphor, alcanfor, _Cinnamomum camphora_, kapur, larpuram, among other names) is an additive extracted from the wood of the _Cinnamomum Camphora_ tree. Camphora is commonly used in vapor rub products to help with congestion, and is also used in homeopathic medicine.\n\nThough some references suggest that camphora may be added to oral cold and cough medicines, many references state that camphora should not be taken orally. Camphora has some serious side effects (i.e. burning of the mouth or throat, vomiting), and toxicity may cause seizures or death, especially in young children. Camphora should not be used unless properly diluted and should never be applied to broken skin. \n",
+    "Questions using this term": [
+      "recUpPiSLjtZ01GPP"
+    ],
+    "Status": "Published",
+    "French": [
+      "rec5HTp2LsdCu43hN"
+    ],
+    "Hindi": [
+      "recPD99OpTnfODBra"
+    ],
+    "Telugu": [
+      "rec0wJrImHEqwBH7j"
+    ],
+    "Spanish": [
+      "recp0jHrSlvZE3o02"
+    ],
+    "Arabic": [
+      "recsNs87i2FTaCn5c"
+    ],
+    "Bengali": [
+      "recJFJ4sIbSaHBtFn"
+    ],
+    "Portuguese": [
+      "rec13AreWQHkZCfWW"
+    ],
+    "Wordcount Definition": 109,
+    "Wordcount Term": 2,
+    "Total wordcount": 111
+  },
+  {
+    "id": "rec9MiUSM1r2HMDYp",
+    "Term": "arsenic album 30",
+    "Definition": "Arsenic album (also called arsenious oxide, arsenic trioxide) is commonly used in homeopathic medicine as a powder, liquid, or tablet to treat digestive disorders, cough, and cold. There are no scientific guidelines that direct how, if, or when arsenic album should be used.\n\nWhile homeopathic references state that arsenic album contains minimal amounts of arsenic, some other references use arsenic and arsenic album interchangeably. Arsenic is a naturally occurring mineral and can be present in food products in small amounts. It is important to note that arsenic is known to be toxic when taken orally or inhaled (by dust or fumes). Long-term or high dose exposure can cause irritation of mucous membranes (i.e. tissues of the nose, throat, lungs), increased incidence of some types of cancer, and may cause brain, nervous system, kidney, and liver problems.\n",
+    "Questions using this term": [
+      "recUpPiSLjtZ01GPP"
+    ],
+    "Status": "Published",
+    "French": [
+      "recFMMbK7Ypphyluw"
+    ],
+    "Hindi": [
+      "recxuXNdrAq1OwpAa"
+    ],
+    "Telugu": [
+      "recCLDaLunT8RshI3"
+    ],
+    "Spanish": [
+      "recCQs7G8RBrD3oQV"
+    ],
+    "Arabic": [
+      "recfnIBAc8AJyP84S"
+    ],
+    "Bengali": [
+      "recBA98ThNLyOTlQA"
+    ],
+    "Portuguese": [
+      "recnrXTiGKNlabWxY"
+    ],
+    "Internal notes": "[@Emily LaRose][1] I’m not sure what we are trying to convey with “While homeopathic references state that arsenic album contains minimal amounts of arsenic, some other references use arsenic and arsenic album interchangeably.” The first part of the sentence talks about arsenic quantity and the second about names, but links the two.\n\n[@Christin Gilmer][2] I don't have an answer to this since I looked at a bunch of references and there was a lot of conflicting information (and my \"go to\" sources had nothing...).  I was highlighting that there is conflicting information available, and I am not comfortable taking a specific position (certainly not to say that it definitively doesn't contain arsenic when the products aren't regulated).  Thoughts? EL\n\n[@Emily LaRose][3] [@Christin Gilmer][4] Would it make sense to separate quantity (minimal amounts) and naming (use arsenic and arsenic album interchangeably) and maybe write two separate sentences, maybe: “Homeopathic references state that arsenic album contains minimal amounts of arsenic. Some other references use arsenic and arsenic album interchangeably.”\n[@Emily LaRose][5] [@Christin Gilmer][6] I think \"arsenic album\" should be \"arsenicum album\". arsenic is mineral, while \"arsenicum album\" is homeopathic medicine. It is just a suggestion \n[@Emily LaRose][7] I agree with whatever you want because you are the expert and I trust you implicitly.\n\n  [1]: https://airtable.com/appKBFbOCN23iz8eF/menCdv3zXo0Zat2Xi/usroPZ4yKxHAs6odJ?recordId=rec9MiUSM1r2HMDYp&fieldId=fldFWQAjehRWQv5n2\n  [2]: https://airtable.com/appKBFbOCN23iz8eF/menBzzBFfRBr6sNxC/usrDTYZtkXBziEsWP?recordId=rec9MiUSM1r2HMDYp&fieldId=fldFWQAjehRWQv5n2\n  [3]: https://airtable.com/appKBFbOCN23iz8eF/menbqdhixgkh28Xbi/usroPZ4yKxHAs6odJ?recordId=rec9MiUSM1r2HMDYp&fieldId=fldFWQAjehRWQv5n2\n  [4]: https://airtable.com/appKBFbOCN23iz8eF/menW2f6ZAO3yhkJDn/usrDTYZtkXBziEsWP?recordId=rec9MiUSM1r2HMDYp&fieldId=fldFWQAjehRWQv5n2\n  [5]: https://airtable.com/appKBFbOCN23iz8eF/menyAggYThXRzxnap/usroPZ4yKxHAs6odJ?recordId=rec9MiUSM1r2HMDYp&fieldId=fldFWQAjehRWQv5n2\n  [6]: https://airtable.com/appKBFbOCN23iz8eF/menrXKPZL8F7qRJLo/usrDTYZtkXBziEsWP?recordId=rec9MiUSM1r2HMDYp&fieldId=fldFWQAjehRWQv5n2\n  [7]: https://airtable.com/appKBFbOCN23iz8eF/menms5RXTtBAuhWip/usroPZ4yKxHAs6odJ?recordId=rec9MiUSM1r2HMDYp&fieldId=fldFWQAjehRWQv5n2\n",
+    "Wordcount Definition": 135,
+    "Wordcount Term": 3,
+    "Total wordcount": 138
+  },
+  {
+    "id": "recW0Z826AuxEWVeS",
+    "Term": "homeopathic",
+    "Definition": "Homeopathy (also called homeopathic medicine) is a medical system developed more than 200 years ago. It focuses on using products from plants, minerals, and animals to treat or prevent medical problems. According to the U.S. National Center for Complementary and Integrative Health, a 2015 comprehensive assessment of evidence by the Australian government's National Health and Medical Research Council that concluded that there is no reliable evidence that homeopathy is effective for any health condition. Homeopathic medicines are not recommended in place of care provided by a healthcare provider.\n\nHomeopathic products are not regulated for content in many countries, so active and inactive ingredients may not reflect what is on the product package, and some ingredients may be toxic. There are many possible dangerous interactions that may occur between homeopathic products and other medications. In addition, homeopathic products that contain heavy metals or alcohol may also be harmful.\n",
+    "Questions using this term": [
+      "recUpPiSLjtZ01GPP"
+    ],
+    "Status": "Published",
+    "French": [
+      "recpPCg3MtoBXeJAN"
+    ],
+    "Hindi": [
+      "recTadD4MIVOwMvtB",
+      "rec5sFQdOwUrv7uTm"
+    ],
+    "Telugu": [
+      "recjWYBXt1zNLIJc9"
+    ],
+    "Spanish": [
+      "receTEzR9xJGMLfW6"
+    ],
+    "Arabic": [
+      "recmshE8JbMgCM2kQ"
+    ],
+    "Bengali": [
+      "recb837bKbk63nmry"
+    ],
+    "Portuguese": [
+      "reciInxV2hbeP1T0g"
+    ],
+    "Internal notes": "[@Emily LaRose][1] The glossary term is “homeopathic” but the definition is for “homeopathy”. Also there is an extra “that” in one of the sentences which could rather read: “According to the U.S. National Center for Complementary and Integrative Health, a 2015 comprehensive assessment of evidence by the Australian government’s National Health and Medical Research Council concluded that there is no reliable evidence that homeopathy is effective for any health condition.”\n\n  [1]: https://airtable.com/appKBFbOCN23iz8eF/menCZVi0XEHfL77jW/usroPZ4yKxHAs6odJ?recordId=recW0Z826AuxEWVeS&fieldId=fldFWQAjehRWQv5n2\n",
+    "Wordcount Definition": 146,
+    "Wordcount Term": 1,
+    "Total wordcount": 147
+  },
+  {
+    "id": "rechQcO5gs3FZMcPs",
+    "Term": "genes",
+    "Definition": "Genes hold hereditary information. Hereditary traits (i.e. eye color, hair color, blood type) are passed from a parent to a child through the hereditary information in the genes. \n",
+    "Questions using this term": [
+      "recYvTpiS4HB4XVtT",
+      "recsAUeofWqkiI3Hs"
+    ],
+    "Status": "Published",
+    "French": [
+      "recnhv2yUHkX5hnlg"
+    ],
+    "Hindi": [
+      "recDp6dfni2dF6jhL"
+    ],
+    "Telugu": [
+      "recGLlil1f4MQ0K6Y"
+    ],
+    "Spanish": [
+      "recXnm6XVMgK0s9nB"
+    ],
+    "Arabic": [
+      "recvd4CWcSi0vhIbs"
+    ],
+    "Bengali": [
+      "rec8LWz8W1IOR3yMa"
+    ],
+    "Portuguese": [
+      "rechHf9pgK7cFpymo"
+    ],
+    "Wordcount Definition": 29,
+    "Wordcount Term": 1,
+    "Total wordcount": 30
+  },
+  {
+    "id": "reclGZpfnO5BRIJdt",
+    "Term": "zoonotic transmission",
+    "Definition": "Zoonotic transmission is the technical term that describes the spread of diseases (i.e. viruses, bacteria, fungi, parasites and others) from animals (pets, wild, or domestic animals) to humans, through one or more of the following routes:\n- Direct contact: contact with the animal's blood, saliva, urine, feces or body fluids\n- Indirect contact: contact with where the animal lives including barns, aquarium water, soil \n- Vector-borne: being bitten by a tick, flea, or mosquito that spreads the disease between animals and humans\n- Foodborne: eating contaminated foods like uncooked meat or eggs, raw milk, or eating fruits/vegetables contaminated with feces from an infected animal\n- Waterborne: drinking or coming into contact with water contaminated with feces from an infected animal\nOnce a human is infected, some diseases can then be spread from person to person.\n",
+    "Questions using this term": [
+      "rec7DJ38UBOLWSnqC"
+    ],
+    "Status": "Published",
+    "French": [
+      "recz0jNuVUBm0uUK0"
+    ],
+    "Hindi": [
+      "rectvVgYYlbKEasai"
+    ],
+    "Telugu": [
+      "recgkZwpTSqmPUvUN"
+    ],
+    "Spanish": [
+      "recrHSC8zBCOwzoJY"
+    ],
+    "Arabic": [
+      "recteygzJtlcWmfni"
+    ],
+    "Bengali": [
+      "recVzww9POtFxBolp"
+    ],
+    "Portuguese": [
+      "recHTzVn9tQxrcgGT"
+    ],
+    "Wordcount Definition": 130,
+    "Wordcount Term": 2,
+    "Total wordcount": 132
+  },
+  {
+    "id": "recFIn1ipbOFsoZsR",
+    "Term": "waste water",
+    "Definition": "Waste water (or wastewater) is any water that is contaminated with pollutants or contaminants because of human activity. Waste water comes from homes, factories or commercial facilities, agriculture (i.e. farms, animal feedlots), sewer systems, and surface runoff (i.e. from streets).\n",
+    "Questions using this term": [
+      "recRIjHM0TPx23tcU"
+    ],
+    "Status": "Published",
+    "French": [
+      "recGJIRWMViHAbHfQ"
+    ],
+    "Hindi": [
+      "rec3IbCmTIJqzBgzn"
+    ],
+    "Telugu": [
+      "recSOIJ6SdRrZzNhL",
+      "recZ35HYbuJg8jkXc"
+    ],
+    "Spanish": [
+      "recn7ZSTb0HEB2Wmn"
+    ],
+    "Arabic": [
+      "recpjF9o3K1ZDFFxr"
+    ],
+    "Bengali": [
+      "rec5D05UPKJ0wV8Gr"
+    ],
+    "Portuguese": [
+      "recIKdmDIS6ujnNDE"
+    ],
+    "Wordcount Definition": 40,
+    "Wordcount Term": 2,
+    "Total wordcount": 42
+  },
+  {
+    "id": "rec8jvvjIb2QmeUrA",
+    "Term": "sewage water",
+    "Definition": "Sewage water (also called sewage, domestic wastewater, municipal wastewater) contains greywater (i.e. water from sinks, bathtubs, dishwashers, clothes washers), blackwater (i.e. water from toilets), soaps and detergents, and toilet paper. Sewage water may be treated in the building where it is generated though, more commonly, sewage water travels from a building into a larger community sewer system where is carried to a treatment facility.\n",
+    "Questions using this term": [
+      "recRIjHM0TPx23tcU"
+    ],
+    "Status": "Published",
+    "French": [
+      "recRhgj5JSLOfvOdA"
+    ],
+    "Hindi": [
+      "recyJr3iBEp7VedtD"
+    ],
+    "Telugu": [
+      "recJiLCrzDaZhn485"
+    ],
+    "Spanish": [
+      "recP8dTRIDTlZXsa0"
+    ],
+    "Arabic": [
+      "recLzyvxqdNKb1QqB"
+    ],
+    "Bengali": [
+      "recy5cP8h8KrCXRvG"
+    ],
+    "Portuguese": [
+      "reccntZ8YXkSoG6Wu"
+    ],
+    "Internal notes": "[@Emily LaRose][1] Missing pronoun “it”, rather “where it is carried to a treatment facility.”\n\n  [1]: https://airtable.com/appKBFbOCN23iz8eF/mentwut35QASDhlJm/usroPZ4yKxHAs6odJ?recordId=rec8jvvjIb2QmeUrA&fieldId=fldFWQAjehRWQv5n2\n",
+    "Wordcount Definition": 64,
+    "Wordcount Term": 2,
+    "Total wordcount": 66
+  },
+  {
+    "id": "reclKahoPRbBLqUKg",
+    "Term": "face masks",
+    "Definition": "Face masks are fitted coverings made to cover the nose, mouth, and chin snugly. Face masks may be made from layered cloth or fabric, or they may be made from medical-grade materials that meet specific criteria for filtering small particles (including viruses) from the air.  Face masks should allow the wearer to breathe comfortably, and the mask should stay in place when the wearer is talking.\n\nAccording to guidance from the US Centers for Disease Control and Prevention (US CDC) and the World Health Organization (WHO), face masks should not be worn by infants and children under the age of 2; those who are incapacitated, unconscious, or unable to remove the mask without assistance; or those who are having trouble breathing. Both the US CDC and WHO provide further guidance and information about face masks on their respective websites, and the information is updated regularly when new scientific evidence is available.\n",
+    "Questions using this term": [
+      "recUvk0IltcWA8G8O",
+      "recgfRiqVgG4lMH4w",
+      "recUU9xtTzmcGAk9Y",
+      "recDcWzSA3u9hSsLZ",
+      "recxWz9YItyyFuO5s",
+      "recIWpxnU5BOReqN2",
+      "recHgpMkShciBa9VJ"
+    ],
+    "Status": "Published",
+    "French": [
+      "recEoT5I0Rnv8jciE"
+    ],
+    "Hindi": [
+      "recRYDsHBzrcL4EfS",
+      "reclxPCBbnj67Upff"
+    ],
+    "Telugu": [
+      "recVTf5kx0nuuTR6D"
+    ],
+    "Spanish": [
+      "recHkL7TXpy8SVke3"
+    ],
+    "Arabic": [
+      "recN6ax3AgkVEs871",
+      "recFWz7Iv6OJLsvuY"
+    ],
+    "Bengali": [
+      "rec45Eflk55v96l50"
+    ],
+    "Portuguese": [
+      "rec57U2TIc7WB1L3y"
+    ],
+    "Internal notes": "We miss a definition here.\n\n[@Christin Gilmer][1] See what you think about this one. It was surprisingly awkward to define. If we have an option to post a WHO infographic on the site, that would help?- EL\n\n[@Emily LaRose][2] You are definitely right. And this is excellent! We also have some from SAC. [@Jenna Sherman][3] Do you think any SAC infographics might be helpful with this glossary term?\n\n[@Emily LaRose][4] [@Christin Gilmer][5]\nThe term “face covering”, which I think is a synonym for “face mask”, is not in the glossary. It could be an opportunity to add here, or would it require a new entry? Some health systems will use the term “face covering” instead of “face mask”. Here is a definition: “Piece of cloth which covers the nose and the mouth to block respiratory droplets ejected when one speaks, coughs or sneezes. Face coverings prevent contamination of the person’s surroundings. It can be a scarf, a bandana or a cloth mask.\n\n[@Christin Gilmer][6] I think that we could do an entry for \"face covering\" and refer to the \"face mask\" definition perhaps? I think with current research I am hesitant to say scarf, bandana, etc. Thoughts? EL\n\n[@AO LocLAb][7] Great idea. [@Emily LaRose][8] What if we just duplicate your discussion for face mask and use it for a new face covering definition as well?\n\n[@Emily LaRose][9] “made from layered cloth or fabric” seems redundant as fabric is “cloth or material for making clothes, covering furniture, etc.”. Would “fabric” suffice?\nAlso, what do we actually mean here by ‘incapacitated’ as the word can have different meanings?\n\n  [1]: https://airtable.com/appKBFbOCN23iz8eF/men87xTffV5vXKEGz/usrDTYZtkXBziEsWP?recordId=reclKahoPRbBLqUKg&fieldId=fldFWQAjehRWQv5n2\n  [2]: https://airtable.com/appKBFbOCN23iz8eF/men5b5u6J5vDQK7Tz/usroPZ4yKxHAs6odJ?recordId=reclKahoPRbBLqUKg&fieldId=fldFWQAjehRWQv5n2\n  [3]: https://airtable.com/appKBFbOCN23iz8eF/menjUG8QrwVT9Ul27/usryJw3d1ZhlxblnO?recordId=reclKahoPRbBLqUKg&fieldId=fldFWQAjehRWQv5n2\n  [4]: https://airtable.com/appKBFbOCN23iz8eF/menCsjP3g1YegUf0a/usroPZ4yKxHAs6odJ?recordId=reclKahoPRbBLqUKg&fieldId=fldFWQAjehRWQv5n2\n  [5]: https://airtable.com/appKBFbOCN23iz8eF/mencpMPX3UmITwbLJ/usrDTYZtkXBziEsWP?recordId=reclKahoPRbBLqUKg&fieldId=fldFWQAjehRWQv5n2\n  [6]: https://airtable.com/appKBFbOCN23iz8eF/menf2dS0LNdeiupz0/usrDTYZtkXBziEsWP?recordId=reclKahoPRbBLqUKg&fieldId=fldFWQAjehRWQv5n2\n  [7]: https://airtable.com/appKBFbOCN23iz8eF/menXXd6yGrCqC3A7u/usrFuUGZLOsk8emML?recordId=reclKahoPRbBLqUKg&fieldId=fldFWQAjehRWQv5n2\n  [8]: https://airtable.com/appKBFbOCN23iz8eF/menGT9HjzcBK3kOE3/usroPZ4yKxHAs6odJ?recordId=reclKahoPRbBLqUKg&fieldId=fldFWQAjehRWQv5n2\n  [9]: https://airtable.com/appKBFbOCN23iz8eF/menym5pXNUFfgYGv9/usroPZ4yKxHAs6odJ?recordId=reclKahoPRbBLqUKg&fieldId=fldFWQAjehRWQv5n2\n",
+    "Wordcount Definition": 151,
+    "Wordcount Term": 2,
+    "Total wordcount": 153
   },
   {
     "id": "recCEG85awzcotyRi",
@@ -849,9 +1801,70 @@
     "Definition": "N95 masks (or N95 respirators) are special masks that protect the wearer from breathing in very small airborne particles. They are regulated to ensure that they meet strict standards for safety. Other countries use other codes for masks that meet the same requirements as N95 masks in the U.S.; some examples of other N95-type masks include the KN95 in China and FFP2 in European countries.\n\nThe U.S. Centers for Disease Control and Prevention has stated the N95 masks should not be used by the general public to prevent themselves from COVID-19 because N95 masks should be reserved for health care workers and medical first responders.\n",
     "Questions using this term": [
       "recZElAZYPfbc4Pa3",
-      "recabh4pzUPxHxLq1"
+      "recabh4pzUPxHxLq1",
+      "recIWpxnU5BOReqN2"
     ],
-    "Status": "Published"
+    "Status": "Published",
+    "French": [
+      "recR4kNk3CkZbxxGG"
+    ],
+    "Hindi": [
+      "recLZc5rtv9T3PpbQ"
+    ],
+    "Telugu": [
+      "recwnJTS7U7lz4zlL"
+    ],
+    "Spanish": [
+      "recf5alk7mcXOy9P3"
+    ],
+    "Arabic": [
+      "recYwd5y8yRuKZB7N"
+    ],
+    "Bengali": [
+      "recdGA16JGqMIWAS0"
+    ],
+    "Portuguese": [
+      "rec7xooHHNhhnv0dc",
+      "recJ5nk7iXZ1mxQyg"
+    ],
+    "Internal notes": "[@Emily LaRose][1] I’d say that “by the general public to prevent themselves from COVID-19” should rather read “by the general public to protect themselves from COVID-19”.\n\n  [1]: https://airtable.com/appKBFbOCN23iz8eF/menQbVkriFd0fpDln/usroPZ4yKxHAs6odJ?recordId=recCEG85awzcotyRi&fieldId=fldFWQAjehRWQv5n2\n",
+    "Wordcount Definition": 104,
+    "Wordcount Term": 2,
+    "Total wordcount": 106
+  },
+  {
+    "id": "rec5P1moAv3DjPkbT",
+    "Term": "human challenge trial",
+    "Definition": "A human challenge trial is a type of medical research study that helps to determine if a vaccine is effective in preventing illness against a particular pathogen (i.e. virus). A volunteer receives the vaccine and, in the weeks following, the volunteer is intentionally exposed to the pathogen (i.e. virus) to see if the vaccine works to prevent infection.\n",
+    "Questions using this term": [
+      "reci5KRmNIo5UfFt5"
+    ],
+    "Status": "Published",
+    "French": [
+      "recXmU1X3lGGvAQvK"
+    ],
+    "Hindi": [
+      "rec211mH9oe56brQ2"
+    ],
+    "Telugu": [
+      "recRchATDJrdl0ZE6"
+    ],
+    "Spanish": [
+      "rectCRNBmeVrtDPDI"
+    ],
+    "Arabic": [
+      "recqpghi3IbuULxz2"
+    ],
+    "Bengali": [
+      "reckV7eKDeGJqP7y2"
+    ],
+    "Portuguese": [
+      "recFeRu0mZ5djT2TE"
+    ],
+    "Internal notes": "[@Emily LaRose][1] Here as in many other glossary entries, it seems that “i.e.” should rather read “e.g.” in the first occurrence: “(e.g., a virus)”. The second one makes more sense. Using “i.e.” implies that the pathogen is always a virus in such a trial. Is that the case?\n\n  [1]: https://airtable.com/appKBFbOCN23iz8eF/meneF9HHRDI0trUHQ/usroPZ4yKxHAs6odJ?recordId=rec5P1moAv3DjPkbT&fieldId=fldFWQAjehRWQv5n2\n",
+    "Wordcount Definition": 58,
+    "Wordcount Term": 3,
+    "Total wordcount": 61
   },
   {
     "id": "recde2XyBQC0lDace",
@@ -860,6 +1873,63 @@
     "Questions using this term": [
       "recmlODv0JQ3RSw7c"
     ],
-    "Status": "Published"
+    "Status": "Published",
+    "French": [
+      "recjKH0OlRaHf6RVO"
+    ],
+    "Hindi": [
+      "recLjbspjrZXKWk9Q"
+    ],
+    "Telugu": [
+      "recVtj3pwvbgx0dCs"
+    ],
+    "Spanish": [
+      "recQDaLWlcbXqdXhJ"
+    ],
+    "Arabic": [
+      "recUL7704kvlTZ4pA"
+    ],
+    "Bengali": [
+      "rec5yVfC98zikfUJf"
+    ],
+    "Portuguese": [
+      "reczrzb9TXpCurVqJ"
+    ],
+    "Wordcount Definition": 54,
+    "Wordcount Term": 2,
+    "Total wordcount": 56
+  },
+  {
+    "id": "rec1XtRl9QPx5zxBQ",
+    "Term": "chlorine dioxide",
+    "Definition": "Chlorine dioxide is a man made gas that does not occur naturally in the environment and is irritating to the eyes, nose, throat, and lungs. It has many industrial uses (including as a disinfectant) and is used in controlled quantities as a commercial chemical for certain medical treatments, agriculture, food processing, paper making, cleaning, and water treatment. Chloride dioxide is flammable and may be fatal with long-term or high-dose exposure. \n",
+    "Questions using this term": [
+      "recIWpxnU5BOReqN2"
+    ],
+    "Status": "Published",
+    "French": [
+      "recNwmX7vYkDvonXD"
+    ],
+    "Hindi": [
+      "recqaYTGyeQUQTEW2"
+    ],
+    "Telugu": [
+      "reccAphVv2Cu9hxCG"
+    ],
+    "Spanish": [
+      "recKAgP9HiWjWIa6J"
+    ],
+    "Arabic": [
+      "recX28ZvGsNfveZv4"
+    ],
+    "Bengali": [
+      "recWq7ColIowNPNLy"
+    ],
+    "Portuguese": [
+      "recWcj4PlLQQI5zAL"
+    ],
+    "Wordcount Definition": 71,
+    "Wordcount Term": 2,
+    "Total wordcount": 73
   }
 ]

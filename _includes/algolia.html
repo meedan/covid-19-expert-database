@@ -1,11 +1,12 @@
 <!-- Including InstantSearch.js library and styling -->
-<script src="https://cdn.jsdelivr.net/npm/algoliasearch@4/dist/algoliasearch-lite.umd.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4"></script>
+<script src="https://cdn.jsdelivr.net/npm/algoliasearch@4.0.0/dist/algoliasearch-lite.umd.js" integrity="sha256-MfeKq2Aw9VAkaE9Caes2NOxQf6vUa8Av0JqcUXUGkd0=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.0.0/dist/instantsearch.production.min.js" integrity="sha256-6S7q0JJs/Kx4kb/fv0oMjS855QTz5Rc2hh9AkIUjUsk=" crossorigin="anonymous"></script>
+
 
 <script>
     const search = instantsearch({
-      indexName: 'covid19',
-      searchClient: algoliasearch('XVQE72Q0TQ', 'd031b4f0809f3999da155451bffba6db'),
+      indexName: '{% env ALGOLIA_INDEX_NAME_QUESTIONS %}',
+      searchClient: algoliasearch('{% env ALGOLIA_APPLICATION_ID %}', '{% env ALGOLIA_SEARCH_ONLY_API_KEY %}'),
       searchFunction: function(helper) {
         helper.addDisjunctiveFacetRefinement('lang', '{{ page.lang }}').search();
       },

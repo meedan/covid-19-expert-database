@@ -77,6 +77,7 @@ module Jekyll
         return true if filepath =~ %r{thanks}
         return true if filepath =~ %r{meet-our-experts}
         return true if filepath =~ %r{share}
+        return true if filepath =~ %r{blog}
         false
       end
       

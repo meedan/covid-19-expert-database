@@ -17,6 +17,7 @@
 @import "select.scss";
 @import "tooltips.scss";
 @import "search.scss";
+@import "message.scss";
 
 // Pages
 @import "entry.scss";
@@ -75,6 +76,8 @@
     --font-size: 1.556rem;
     --font-line-height: 2.111rem;
     --font-family-hindi: 'Mukta', sans-serif;
+
+    --page-padding-horizontal: 3.75rem;
 }
 
 * {

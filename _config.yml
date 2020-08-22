@@ -78,7 +78,7 @@ contentful:
           api_url: ENV_CONTENTFUL_API_URL
         all_entries: true
         destination: 'contentful/spaces/'
-    - moduleStories: 
+    - moduleStories:
         space: ENV_CONTENTFUL_M_SPACE_ID
         access_token: ENV_CONTENTFUL_M_ACCESS_TOKEN
         cda_query:
@@ -87,7 +87,7 @@ contentful:
           api_url: ENV_CONTENTFUL_API_URL
         all_entries: true
         destination: 'contentful/spaces/'
-    - contributors: 
+    - contributors:
         space: ENV_CONTENTFUL_M_SPACE_ID
         access_token: ENV_CONTENTFUL_M_ACCESS_TOKEN
         cda_query:
@@ -133,11 +133,11 @@ page_gen:
 
 # Algolia search
 algolia:
-  application_id: XVQE72Q0TQ
-  index_name: covid19
+  application_id: ENV_ALGOLIA_APPLICATION_ID
+  index_name: ENV_ALGOLIA_INDEX_NAME
   search_only_api_key: d031b4f0809f3999da155451bffba6db
   nodes_to_index: 'p'
-  settings: 
+  settings:
     distinct: true
   files_to_exclude:
     - /index.html
@@ -152,47 +152,47 @@ algolia:
 
 # Airtable Fetch Configuration
 airtable:
-  api_key: key3GwTpP3iINPkP1
+  api_key: ENV_AIRTABLE_API_KEY
   tables:
     - name: 'airtable'
-      app_id: appKBFbOCN23iz8eF
+      app_id: ENV_AIRTABLE_APP_ID
       target: 'covid19'
       sheets:
         - name: 'Expert Database (English)'
           view: 'COVID-19 Expert Database (English)'
           target: 'questions-en'
     - name: 'glossary'
-      app_id: appKBFbOCN23iz8eF
+      app_id: ENV_AIRTABLE_APP_ID
       target: 'covid19'
       sheets:
         - name: 'Glossary (English)'
           view: 'Glossary (English)'
           target: 'glossary-en'
     - name: 'airtable'
-      app_id: appKBFbOCN23iz8eF
+      app_id: ENV_AIRTABLE_APP_ID
       target: 'covid19'
       sheets:
         - name: 'DB (French)'
           view: 'COVID-19 Expert Database (French)'
           target: 'questions-fr'
     - name: 'glossary'
-      app_id: appKBFbOCN23iz8eF
+      app_id: ENV_AIRTABLE_APP_ID
       target: 'covid19'
       sheets:
         - name: 'Glossary (French)'
           view: 'Glossary (French)'
           target: 'glossary-fr'
     - name: 'airtable'
-      app_id: appKBFbOCN23iz8eF
+      app_id: ENV_AIRTABLE_APP_ID
       target: 'covid19'
       sheets:
         - name: 'DB (Hindi)'
           view: 'COVID-19 Expert Database (Hindi)'
-          target: 'questions-hi' 
+          target: 'questions-hi'
     - name: 'glossary'
-      app_id: appKBFbOCN23iz8eF
+      app_id: ENV_AIRTABLE_APP_ID
       target: 'covid19'
       sheets:
         - name: 'Glossary (Hindi)'
           view: 'Glossary (Hindi)'
-          target: 'glossary-hi'   
+          target: 'glossary-hi'

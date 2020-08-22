@@ -2,12 +2,13 @@
     | where_exp: "item","item.sys.id == '4hDOrsmcTmB60zhqrzF6Xp'"
 %}
 <div class="posts">
-    {% for story in story_list[0].stories %}
+    {% for story in story_list[0].stories | offset: 1 %}
         <a href="//meedan.com/blog/{{ story.slug }}" class="post">
+            <picture class="image-container">
+                <img src="{{ story.lead_image.url | url | append: '?fl=progressive&q=90' }}" alt="{{ story.lead_image.title }}"/>
+            </picture>
+            
             <h4>{{ story.title }}</h4>
-            <div class="description">
-                {{ story.body | markdownify | truncate: 120 }}
-            </div>
             {% if story.alt_date %}
                 {% assign published_on = story.alt_date %}
             {% else %}
@@ -22,6 +23,9 @@
                 </span>
                 <span>
                     {{ published_on | date: "%-d %B %Y" }}
+                </span>
+                <span>
+                    Read on meedan.com
                 </span>
             </div>
         </a>
