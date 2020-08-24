@@ -9,7 +9,7 @@ lang: fr
   {% if page.slug == '/' %}
     {% include message.html %}
   {% endif %}
-  {% include header.html %}
+  {% include header.html theme="dark" %}
   <div class="content-wrapper">
     {% if page.description-fr %}
       <h2 class="lead">{{ page.description-fr }}</h2>

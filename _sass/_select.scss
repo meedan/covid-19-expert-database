@@ -10,6 +10,9 @@
 	cursor: pointer;
 	background-color: transparent;
 }
+.dark .select-css {
+	color: #fff;
+}
 /* Hide arrow icon in IE browsers */
 .select-css::-ms-expand {
 	display: none;
@@ -19,6 +22,13 @@
 	border-color: var(--lightGray);
 	background-color: var(--lightGray);
 }
+.dark .select-css:hover,
+.dark .select-css:focus {
+	border-color: var(--blackInk);
+	background-color: var(--blackInk);
+	color: #fff;
+}
+
 /* Focus style */
 .select-css:focus {
 	border-color: #aaa;
