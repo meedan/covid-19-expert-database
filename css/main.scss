@@ -18,6 +18,7 @@
 @import "tooltips.scss";
 @import "search.scss";
 @import "message.scss";
+@import "promo.scss";
 
 // Pages
 @import "entry.scss";
@@ -275,11 +276,7 @@ body.hi header nav {
 .front .header-button-wrapper {
     position: relative;
     @include responsive('min-width: #{$width-tablet}') {
-        grid-column: 10/-1;
-        
-    }
-    @include responsive('min-width: #{$width-desktop}') {
-        // max-height: 150px;
+        grid-column: 10/-1; 
     }
 }
 
@@ -293,6 +290,10 @@ body.hi header nav {
     z-index: 0;
     text-decoration: none;
     line-height: 1.2;
+
+    @media (min-width: 1px) and (max-width: #{$width-tablet}) {
+        width: 264px;
+    }
     
     span {
         display: block;

@@ -3,6 +3,8 @@ t:
     site-name: "Covid-19 Expert Database"
     ask-a-question: "Ask a question"
     ask-a-question-subhead: "Contribute to our database"
+    ask-a-question-promo: "Did not find what you are looking for? Help is at hand."
+    ask-a-question-promo-button: "Ask our experts"
     menu:
       english: "English"
       french: "Français"
@@ -75,6 +77,8 @@ t:
     site-name: "Covid-19 Expert Database"
     ask-a-question: "Poser une question"
     ask-a-question-subhead: "Contribute to our database"
+    ask-a-question-promo: "Did not find what you are looking for? Help is at hand."
+    ask-a-question-promo-button: "Ask our experts"
     menu:
       english: "English"
       french: "Français"
@@ -146,6 +150,8 @@ t:
     site-name: "Covid-19 Expert Database"
     ask-a-question: "प्रश्न पूछें"
     ask-a-question-subhead: "Contribute to our database"
+    ask-a-question-promo: "Did not find what you are looking for? Help is at hand."
+    ask-a-question-promo-button: "Ask our experts"
     menu:
       english: "English"
       french: "Français"

@@ -1,0 +1,42 @@
+.promo-wrapper {
+    @include responsive('min-width: #{$width-tablet}') {
+        grid-column: 1/-1;
+        display: grid;
+        grid-template-columns: repeat(6, 1fr);
+        grid-column-gap: var(--space-4);
+        grid-template-rows: repeat(3, min-content);
+        grid-row-gap: var(--space-1);
+    }
+    text-decoration: none;
+    border-left: 2px solid var(--blackInk);
+    background-color: #FFF4DE;
+    .promo-copy {
+        font-size: 2.667rem;
+        line-height: 3rem;
+        grid-column: 1/5;
+        grid-row: 1/2;
+        padding-left: var(--space-1);
+        padding-top: var(--space-1);    
+        
+    }
+    .promo-arrow {
+        position: relative;
+        grid-column: 4/6;
+        grid-row: 2/2;
+        transform: translate(36px, -8px) rotate(16deg);
+    }
+    .button-wrapper {
+        grid-column: 5/-1;
+        grid-row: 3/-1;
+        padding-bottom: var(--space-2);
+    }
+    .button {
+        display: block;
+        background-color: #fff;
+        margin-right: var(--space-1);
+    }
+    &:hover .button {
+        background-color: var(--blackInk);
+        color: #fff;
+    }
+}
