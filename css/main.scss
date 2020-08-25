@@ -50,7 +50,9 @@
     --edbGreen: #3BA77D;
     --edbGreenDark: #3D8366;
     --edbOrange: #FFB124;
+    --edbPaleOrange: #FFF3DF;
     --edbRed: #EB0042;
+    --edbPaleRed: #EFE6E7;
 
     --space-1: 1rem; // 18px
     --space-2: 1.111rem; // 20px
@@ -232,7 +234,7 @@ body.hi header nav {
     color: #fff;
     padding-left: var(--space-4);
     padding-right: var(--space-4);
-    padding-bottom: var(--space-2);
+    padding-bottom: var(--space-4);
     @include responsive('min-width: #{$width-tablet}') {
         grid-column: 1/-1; 
         display: grid;
@@ -267,6 +269,11 @@ body.hi header nav {
     margin-top: 0;
     color: #fff;
     @include responsive('min-width: #{$width-tablet}') {
+        grid-column: 1/9;
+        font-size: 2rem;
+        line-height: 2.444rem;
+    }
+    @include responsive('min-width: #{$width-desktop}') {
         grid-column: 1/10;
         font-size: 2.667rem;
         line-height: 3.222rem;
@@ -276,7 +283,11 @@ body.hi header nav {
 .front .header-button-wrapper {
     position: relative;
     @include responsive('min-width: #{$width-tablet}') {
+        grid-column: 9/-1; 
+    }
+    @include responsive('min-width: #{$width-desktop}') {
         grid-column: 10/-1; 
+        margin-left: var(--space-3);
     }
 }
 
@@ -285,11 +296,10 @@ body.hi header nav {
     color: #fff;
     position: relative;
     border: 2px solid var(--texasRose);
-    
-    padding: var(--space-1) var(--space-2);
     z-index: 0;
     text-decoration: none;
     line-height: 1.2;
+
 
     @media (min-width: 1px) and (max-width: #{$width-tablet}) {
         width: 264px;
@@ -303,6 +313,12 @@ body.hi header nav {
         border-bottom: 2px solid var(--texasRose);
         padding-bottom: 0.778rem;
         margin-bottom: 0.778rem;
+        padding-top: var(--space-1);
+        padding-left: var(--space-2);
+    }
+    span:last-child {
+        padding-bottom: var(--space-1);
+        padding-left: var(--space-2);
     }
    
     &:after {
@@ -334,6 +350,13 @@ body.hi header nav {
         margin-left: -13px;
         margin-bottom: -28px;
         z-index: 1;
+    }
+
+    &:hover {
+        span:first-child {
+            background-color: var(--edbOrange);
+            color: var(--blackInk);
+        }
     }
 }
 

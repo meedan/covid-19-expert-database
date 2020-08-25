@@ -2109,7 +2109,7 @@
   {
     "id": "rec5CB2EhWwQ6bTAh",
     "Question": "What is COVID-19 delirium?",
-    "Status": "Published",
+    "Status": "Update ready for review",
     "Source of the question": [
       "Social Media"
     ],
@@ -2117,7 +2117,7 @@
       "USA"
     ],
     "Background and context": "Recent studies have shown a concerning trend of delirium in COVID-19 patients, without predisposition for age or gender. Often, this manifests in the central nervous system. Unfortunately, documentation is often missed in 75% of delirium cases, which has been challenging for the identification of COVID-19 related incidents. As more research is pointing to COVID-19 delirium being a trend in hospitalized patients, there is a need to ensure documentation occurs. \n",
-    "What our experts say": "COVID-19 delirium occurs in patients who have a sudden onset of mental disturbances that results in confusion and a lack of accurate perceptions regarding their environment and current state. Delirium itself is a change in mental abilities that results in the inability to think clearly, reduced awareness, and often emotional shifts. Delirium often occurs rapidly in patients and is frequently attributed to severe or chronic illness, changes in metabolism (the reactions and processes in your body that convert food into energy), infections, and other factors. Researchers and doctors have recently drawn attention to the fact that regardless of age, potentially 1/3 of COVID-19 patients can develop symptoms of delirium. More recent studies, though, have seen delirium in 20-30% of hospitalized patients with higher rates occurring in critically ill patients (upwards of 60-70%). Delirium can lead to longer hospital stays, which increases the risk for complications. \n",
+    "What our experts say": "COVID-19 delirium occurs in patients who have a sudden onset of mental disturbances that results in confusion and a lack of accurate perceptions regarding their environment and current state. Delirium itself is a change in mental abilities that results in the inability to think clearly, reduced awareness, and often emotional shifts. Delirium often occurs rapidly in patients and is frequently attributed to severe or chronic illness, changes in metabolism (the reactions and processes in your body that convert food into energy), infections, and other factors. Researchers and doctors have been drawing attention to the fact that regardless of age, potentially 1/3 of COVID-19 patients can develop symptoms of delirium. More recent studies have seen delirium in 20-30% of hospitalized patients with higher rates occurring in critically ill patients (upwards of 60-70%). For example, Vanderbilt University Medical Center launched a study in July 2020 that will study delirium, among other impacts on the brain, in patients who have been hospitalized with COVID-19. The researchers share that in previous studies of intensive care patients similar to COVID-19 patients, 33-50% experience dementia. Delirium can lead to longer hospital stays, which increases the risk for complications. \n\nThis entry was updated with new information on August 20, 2020.\n",
     "Glossary Terms": [
       "recBBELvoZKXpdyST"
     ],
@@ -2126,7 +2126,7 @@
     "Topics": [
       "symptoms"
     ],
-    "Other resources": "1. COVID-19 Delirium research paper, ([Critical Care][1]) \n2. Delirium: a missing piece in the COVID-10 pandemic puzzle ([Age Aging][2])\n\n  [1]: https://link.springer.com/content/pdf/10.1186/s13054-020-02882-x.pdf\n  [2]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7239228/\n",
+    "Other resources": "1. COVID-19 Delirium research paper, ([Critical Care][1]) \n2. Delirium: a missing piece in the COVID-10 pandemic puzzle ([Age Aging][2])\n3. Delirium, PTSD, brain fog: The aftermath of surviving COVID-19 ([American Psychological Association][3])\n\n  [1]: https://link.springer.com/content/pdf/10.1186/s13054-020-02882-x.pdf\n  [2]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7239228/\n  [3]: https://www.apa.org/monitor/2020/09/aftermath-covid-19\n",
     "DB (French)": [
       "reccLqkEvDwZa9jyJ"
     ],
@@ -2275,12 +2275,12 @@
       "recfc5LVC9Kl6kuKf"
     ],
     "Last edited (simplified)": "2020-08-06T20:54:08.000Z",
-    "Last edited (experts say)": "2020-06-24T23:07:20.000Z",
-    "What our experts say wordcount": 146,
+    "Last edited (experts say)": "2020-08-25T20:10:34.000Z",
+    "What our experts say wordcount": 203,
     "Background and context wordcount": 70,
-    "Other resources wordcount": 19,
-    "Wordcount": 235,
-    "Last modified": "2020-08-06"
+    "Other resources wordcount": 31,
+    "Wordcount": 304,
+    "Last modified": "2020-08-25"
   },
   {
     "id": "recDOeKU0wK73R15D",
@@ -2381,11 +2381,11 @@
   {
     "id": "recFi8qUxcrBhBeb9",
     "Question": "What does it mean for COVID-19 to impact the brain?",
-    "Status": "Published",
+    "Status": "Update ready for review",
     "Category": "Symptoms",
     "Subcategory": "On: COVID-19 & the brain",
     "Background and context": "COVID-19 has been linked to a series of health complications beyond respiratory failure, including neurological complications that can potentially damage the brain. Recently, news has been circulating about how SARS-CoV-2, the virus that causes COVID-19, has been associated with many different neurological syndromes, including nerve damage, delirium, and stroke. While the condition is not very common, doctors are currently looking at data from individual patients from around the world to assess how it has impacted patients.\n\nThese neurological complications have also been reported during previous epidemics, such as the Severe Acute Respiratory Syndrome (SARS) epidemic in 2003 and the Middle East Respiratory Syndrome (MERS) outbreak more recently in 2012.\n",
-    "What our experts say": "Physicians and scientists are learning more about how COVID-19 impacts organs outside of the respiratory system, such as the brain. The emerging evidence has revealed that some COVID-19 patients experience neurological symptoms, which impact the nervous system, composed principally of the brain, spinal cord, nerves, and ganglia (cell bodies that relay nerve signals). \n\nIn early March 2020, observational data from 58 patients in France indicated the presence of neurological symptoms such as agitation, confusion, disorientation, and encephalopathy (brain damage). In April 2020, a study was published on 214 COVID-19 patients in China with \"severe infection,\" where over a third were reported to experience neurological symptoms, including acute cerebrovascular diseases and impaired consciousness.\n\nIn July 2020, another study on over 40 British patients provided additional evidence about neurological symptoms, ranging from brain inflammation and delirium to nerve damage and stroke. Some of these patients reported severe symptoms, such as strokes and paralysis resulting from nerve damage, while others experienced more minor symptoms like breathlessness and fatigue. Most of the cases with brain inflammation were diagnosed with acute disseminated encephalomyelitis (ADEM), which is a rare illness involving inflammation of the brain and spinal cord that results from viral infections. Data from London indicated an increase in ADEM cases for this study period during the pandemic, as the number of reported cases would typically have been expected over a 5-month period rather than a 5-week period in the city. \n\nSARS-CoV-2, the virus that causes COVID-19, was not detected in the cerebrospinal brain fluid of any of the British patients tested, which may suggest that the virus did not directly attack the brain and that the symptoms could have occurred post-infection.\n\nWith the increasing evidence of neurological symptoms, which have not been found to occur as commonly as respiratory symptoms, researchers and health care practitioners are continuing to observe patients around the world to learn more about how COVID-19 impacts on the brain. The long-term implications are still unclear, since COVID-19 is a new disease and there has not been enough time to observe the development of symptoms in patients over long periods of time.\n",
+    "What our experts say": "Physicians and scientists are learning more about how COVID-19 impacts organs outside of the respiratory system, such as the brain. The emerging evidence has revealed that some COVID-19 patients experience neurological symptoms, which impact the nervous system, composed principally of the brain, spinal cord, nerves, and ganglia (cell bodies that relay nerve signals). \n\nIn early March 2020, observational data from 58 patients in France indicated the presence of neurological symptoms such as agitation, confusion, disorientation, and encephalopathy (brain damage). In April 2020, a study was published on 214 COVID-19 patients in China with \"severe infection,\" where over a third were reported to experience neurological symptoms, including acute cerebrovascular diseases and impaired consciousness.\n\nIn July 2020, another study on over 40 British patients provided additional evidence about neurological symptoms, ranging from brain inflammation and delirium to nerve damage and stroke. Some of these patients reported severe symptoms, such as strokes and paralysis resulting from nerve damage, while others experienced more minor symptoms like breathlessness and fatigue. Most of the cases with brain inflammation were diagnosed with acute disseminated encephalomyelitis (ADEM), which is a rare illness involving inflammation of the brain and spinal cord that results from viral infections. Data from London indicated an increase in ADEM cases for this study period during the pandemic, as the number of reported cases would typically have been expected over a 5-month period rather than a 5-week period in the city. \n\nSARS-CoV-2, the virus that causes COVID-19, was not detected in the cerebrospinal brain fluid of any of the British patients tested, which may suggest that the virus did not directly attack the brain and that the symptoms could have occurred post-infection.\n\nVanderbilt University Medical Center launched a study in July 2020 that will study delirium, post-traumatic stress disorder (PTSD), and depression in patients who have been hospitalized with COVID-19. These disabling impacts are also known as post-intensive care syndrome (PICS), and previous studies of intensive care patients similar to COVID-19 patients suggest that 33-50% experience dementia, 10-20% experience PTSD, and 33% experience major depression. Researchers are also studying whether COVID-19 patients with brain inflammation are at higher risk of autoimmune disorders like demyelination, where the protective coating of nerve cells is attacked by the immune system and may lead to weakness, numbness and difficulty with daily activities.\n\nWith the increasing evidence of neurological symptoms, which have not been found to occur as commonly as respiratory symptoms, researchers and health care practitioners are continuing to observe patients around the world to learn more about how COVID-19 impacts on the brain. The long-term implications are still unclear, since COVID-19 is a new disease and there has not been enough time to observe the development of symptoms in patients over long periods of time.\n\nThis entry was updated with new information on August 20, 2020.\n",
     "Glossary Terms": [
       "recR9wzTcTIDRvZxF"
     ],
@@ -2397,7 +2397,7 @@
       "brain",
       "inflammation"
     ],
-    "Other resources": "1. Neurologic Manifestations of Hospitalized Patients With Coronavirus Disease 2019 in Wuhan, China ([JAMA][1]) \n2. Neurologic Features in Severe SARS-CoV-2 Infection ([NEJM][2]) \n3. The emerging spectrum of COVID-19 neurology: clinical, radiological and laboratory findings ([Brain][3])\n4. How Covid-19 can damage the brain ([BBC][4])\n5. Warning of serious brain disorders in people with mild coronavirus symptoms ([The Guardian][5])\n\n  [1]: https://jamanetwork.com/journals/jamaneurology/fullarticle/2764549\n  [2]: https://www.nejm.org/doi/full/10.1056/NEJMc2008597\n  [3]: https://academic.oup.com/brain/article/doi/10.1093/brain/awaa240/5868408\n  [4]: https://www.bbc.com/future/article/20200622-the-long-term-effects-of-covid-19-infection\n  [5]: https://www.theguardian.com/world/2020/jul/08/warning-of-serious-brain-disorders-in-people-with-mild-covid-symptoms\n",
+    "Other resources": "1. Neurologic Manifestations of Hospitalized Patients With Coronavirus Disease 2019 in Wuhan, China ([JAMA][1]) \n2. Neurologic Features in Severe SARS-CoV-2 Infection ([NEJM][2]) \n3. The emerging spectrum of COVID-19 neurology: clinical, radiological and laboratory findings ([Brain][3])\n4. How Covid-19 can damage the brain ([BBC][4])\n5. Warning of serious brain disorders in people with mild coronavirus symptoms ([The Guardian][5])\n6. Long after the fire of a Covid-19 infection, mental and neurological effects can still smolder ([STAT News][6])\n7. Delirium, PTSD, brain fog: The aftermath of surviving COVID-19 ([American Psychological Association][7])\n8. Study to explore how COVID affects cognition over time ([Vanderbilt University Medical Center][8])\n\n  [1]: https://jamanetwork.com/journals/jamaneurology/fullarticle/2764549\n  [2]: https://www.nejm.org/doi/full/10.1056/NEJMc2008597\n  [3]: https://academic.oup.com/brain/article/doi/10.1093/brain/awaa240/5868408\n  [4]: https://www.bbc.com/future/article/20200622-the-long-term-effects-of-covid-19-infection\n  [5]: https://www.theguardian.com/world/2020/jul/08/warning-of-serious-brain-disorders-in-people-with-mild-covid-symptoms\n  [6]: https://www.statnews.com/2020/08/12/after-covid19-mental-neurological-effects-smolder/\n  [7]: http://Delirium, PTSD, brain fog: The aftermath of surviving COVID-19 (American Psychological Association)\n  [8]: https://news.vumc.org/2020/07/22/study-to-explore-how-covid-affects-cognition-over-time/\n",
     "How often revision needed": "Weekly",
     "DB (French)": [
       "rec9Zv3Q7beAIwHDw"
@@ -2425,12 +2425,12 @@
       "rec5e2bKZGfveXImC"
     ],
     "Last edited (simplified)": "2020-07-16T23:02:18.000Z",
-    "Last edited (experts say)": "2020-07-17T02:23:37.000Z",
-    "What our experts say wordcount": 349,
+    "Last edited (experts say)": "2020-08-25T20:13:26.000Z",
+    "What our experts say wordcount": 464,
     "Background and context wordcount": 108,
-    "Other resources wordcount": 53,
-    "Wordcount": 510,
-    "Last modified": "2020-08-06"
+    "Other resources wordcount": 95,
+    "Wordcount": 667,
+    "Last modified": "2020-08-25"
   },
   {
     "id": "recabh4pzUPxHxLq1",
@@ -4366,10 +4366,10 @@
   {
     "id": "rec4kQXR2QgCNdlgs",
     "Question": "Can convalescent plasma help treat COVID-19?",
-    "Status": "Published",
-    "Background and context": "Using convalescent plasma from individuals who were previously infected to treat sick individuals has been in practice for nearly 100 years for several diseases including polio, influenza, and Ebola. Plasma is the liquid portion of the blood and contains disease-specific antibodies that helped fight the infection in a recovered individual, and that may help fight the infection in a newly infected recipient. As a result, convalescent plasma is being explored as an option for prevention and treatment of COVID-19.\n\nIn March 2020, the US Federal Drug Administration (FDA) announced an emergency investigational process to allow doctors to treat serious cases with convalescent plasma. In April 2020, the FDA announced a National Expanded Access Protocol through the Mayo Clinic that expanded convalescent plasma treatment to include adults at risk of severe disease in addition to adults with severe cases. Additionally, a number of clinical trials are underway to study the efficacy of convalescent plasma in preventing or treating COVID-19 in a range of cases. \n\nMore research is still necessary to determine if convalescent plasma is effective and safe as a treatment for COVID-19. Scientists are working to identify whether it might help reduce severity of illness, shorten the duration of illness, or even prevent death associated with COVID-19.\n",
-    "What our experts say": "When someone has been infected with COVID-19, their body's immune system produces substances called antibodies that work to destroy the virus. These antibodies can usually be found in the blood of people after they recover from the virus, specifically in the liquid portion of the blood called 'plasma.' Because the antibodies in plasma helped the infected person fight off the virus and improve their health, researchers are studying whether or not transferring plasma from patients who have recovered or are almost fully recovered (also called 'convalescent') to patients currently infected with the virus can help their immune systems fight off the infection as well. This experimental use of convalescent plasma for COVID-19 is not an approved treatment by the World Health Organization or the United States Centers for Disease Control and Prevention, but there is some indication that it might be beneficial in the early stages of a COVID-19 infection. More research needs to be conducted before scientists reach a consensus about any benefits or negative impacts plasma may have in infected patients.\n",
-    "Other resources": "1. Convalescent Plasma and COVID-19 ([JAMA][1])\n2. Recommendations for Investigational COVID-19 Convalescent Plasma ([U.S. FDA][2])\n3. COVID-19 and Convalescent Plasma: Frequently Asked Questions ([American Society of Hematology][3])\n4. Deployment of convalescent plasma for the prevention and treatment of COVID-19 ([Journal of Clinical Investigation][4])\n\n  [1]: https://jamanetwork.com/journals/jama/fullarticle/2767351\n  [2]: https://www.fda.gov/vaccines-blood-biologics/investigational-new-drug-ind-or-device-exemption-ide-process-cber/recommendations-investigational-covid-19-convalescent-plasma\n  [3]: https://www.hematology.org/covid-19/covid-19-and-convalescent-plasma\n  [4]: https://www.jci.org/articles/view/138745\n",
+    "Status": "Update ready for review",
+    "Background and context": "Using convalescent plasma from individuals who were previously infected to treat sick individuals has been in practice for nearly 100 years for several diseases including polio, influenza, and Ebola. Plasma is the liquid portion of the blood and contains disease-specific antibodies that helped fight the infection in a recovered individual, and that may help fight the infection in a newly infected recipient. As a result, convalescent plasma is being explored as an option for prevention and treatment of COVID-19.\n\nIn March 2020, the U.S. Federal Drug Administration (FDA) announced an emergency investigational process to allow doctors to treat serious cases with convalescent plasma. In April 2020, the U.S. FDA announced a National Expanded Access Protocol through the Mayo Clinic that expanded convalescent plasma treatment to include adults at risk of severe disease in addition to adults with severe cases. In August 2020, the U.S. FDA announced an emergency use authorization that authorizes the distribution of COVID-19 convalescent plasma in the U.S. and its administration by healthcare providers to treat hospitalized patients with suspected or laboratory-confirmed COVID-19. Additionally, a number of clinical trials are underway to study the efficacy of convalescent plasma in preventing or treating COVID-19 in a range of cases. \n\nMore research is still necessary to determine if convalescent plasma is effective and safe as a treatment for COVID-19. Scientists are working to identify whether it might help reduce severity of illness, shorten the duration of illness, or even prevent death associated with COVID-19.\n\n_This entry was updated with new information on August 25, 2020_\n",
+    "What our experts say": "When someone has been infected with COVID-19, their body's immune system produces substances called antibodies that work to destroy the virus. These antibodies can usually be found in the blood of people after they recover from the virus, specifically in the liquid portion of the blood called 'plasma.' Because the antibodies in plasma helped the infected person fight off the virus and improve their health, researchers are studying whether or not transferring plasma from patients who have recovered or are almost fully recovered (also called 'convalescent') to patients currently infected with the virus can help their immune systems fight off the infection as well.\n\nThis experimental use of convalescent plasma for COVID-19 is not an approved treatment by the World Health Organization or the U.S. Centers for Disease Control and Prevention, but there is some indication that it might be beneficial in the early stages of a COVID-19 infection. On August 23, 2020, the U.S. Food and Drug Administration (FDA) issued an emergency use authorization (EUA) for investigational convalescent plasma for the treatment of COVID-19 in hospitalized patients, based on their assessment that the known and potential benefits outweigh the known and potential risks. This means COVID-19 convalescent plasma is now regulated as an investigational product, but it not yet U.S. FDA approved for use.\n\nMore research needs to be conducted before scientists reach a consensus about the benefits as well as negative impacts plasma may have in infected patients.\n\n_This entry was updated with new information on August 25, 2020._\n",
+    "Other resources": "1. Convalescent Plasma and COVID-19 ([JAMA][1])\n2. Recommendations for Investigational COVID-19 Convalescent Plasma ([U.S. FDA][2])\n3. FDA Issues Emergency Use Authorization for Convalescent Plasma as Potential Promising COVID–19 Treatment, Another Achievement in Administration’s Fight Against Pandemic ([U.S. FDA][3])\n4. COVID-19 and Convalescent Plasma: Frequently Asked Questions ([American Society of Hematology][4])\n5. Deployment of convalescent plasma for the prevention and treatment of COVID-19 ([Journal of Clinical Investigation][5])\n\n  [1]: https://jamanetwork.com/journals/jama/fullarticle/2767351\n  [2]: https://www.fda.gov/vaccines-blood-biologics/investigational-new-drug-ind-or-device-exemption-ide-process-cber/recommendations-investigational-covid-19-convalescent-plasma\n  [3]: https://www.fda.gov/news-events/press-announcements/fda-issues-emergency-use-authorization-convalescent-plasma-potential-promising-covid-19-treatment\n  [4]: https://www.hematology.org/covid-19/covid-19-and-convalescent-plasma\n  [5]: https://www.jci.org/articles/view/138745\n",
     "DB (French)": [
       "recSXrpaflisq8AhK"
     ],
@@ -4395,13 +4395,13 @@
     "Rollup test 2": [
       "recl7MSTxDaQc6AV5"
     ],
-    "Last edited (simplified)": "2020-07-23T19:53:59.000Z",
-    "Last edited (experts say)": "2020-07-27T06:40:43.000Z",
-    "What our experts say wordcount": 173,
-    "Background and context wordcount": 205,
-    "Other resources wordcount": 40,
-    "Wordcount": 418,
-    "Last modified": "2020-07-27"
+    "Last edited (simplified)": "2020-08-25T19:47:37.000Z",
+    "Last edited (experts say)": "2020-08-25T19:50:04.000Z",
+    "What our experts say wordcount": 248,
+    "Background and context wordcount": 253,
+    "Other resources wordcount": 62,
+    "Wordcount": 563,
+    "Last modified": "2020-08-25"
   },
   {
     "id": "recJQ2D9s79kEHJzP",
