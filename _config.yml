@@ -117,6 +117,8 @@ page_gen:
     template: 'entry'
     name: 'Question'
     dir: '/questions'
+    filter: 'Status'
+    filter_condition: record['Status'] == 'Published'
   - data: 'covid19.questions-fr'
     template: 'entry-fr'
     name: 'Question'

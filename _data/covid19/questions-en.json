@@ -1,22 +1,5 @@
 [
   {
-    "id": "recUVUG9jtWfYTiE6",
-    "Question": "Can you give a basic description of D614G and how it impacts COVID-19?",
-    "Status": "Not started",
-    "Background and context": "A version of the coronavirus known as D614G has hit headlines in recent days, after a Malaysian official said it was linked to two outbreaks and claimed it may affect vaccine development. This was followed by a disease expert claiming D614G may be more infectious but less deadly, potentially explaining falling COVID-19 fatality rates around the world. He made the comment after the Malaysian director-general of health said the mutation had been linked to two outbreaks, Reuters reported. Noor Hisham Abdullah claimed D614G was ten times more infectious than other mutations, and vaccines under development may not be able to tackle it.\n",
-    "What our experts say": "[@Anshu Shroff][1]\n\nQuotes to consider from CG: D614G \"has been the dominant form of SARS-CoV-2 in Europe and the USA for a while now,\" he said.\nEchoing MacLean, Dr Julian Tang, honorary associate professor in respiratory sciences at the University of Leicester, said in a statement \"it is likely now the predominant SARS-CoV-2 genotype in most parts of the world now.\"\n\nMacLean described the link between D614G and lower death rates as \"weak\" and said rigorous analyses have failed to find any effect on mortality rates.\n\nPaul Hunter, professor in medicine at The Norwich School of Medicine, University of East Anglia, said in a statement that while it is \"certainly plausible\" that D614G would become more infectious and less deadly, \"it is not clear what real evidence is behind this statement or whether it is simply a suggestion.\"\n\nThe researchers at the Scripps Research Institute in Florida said the mutation affects the spike protein -- a structure on the outside of the virus that it uses to get into cells. If the findings are confirmed, it would be the first time someone has demonstrated that changes seen in the virus have significance for the pandemic. \"Viruses with this mutation were much more infectious than those without the mutation in the cell culture system we used,\" Scripps Research virologist Hyeryun Choe, who helped lead the study, said in a statement. Choe and colleagues ran a series of experiments in lab dishes that show a mutation called D614G gives the virus many more spikes, and makes those spikes more stable. That in turn make it easier for it to get into cells.\n\n  [1]: https://airtable.com/appKBFbOCN23iz8eF/men9NifmJYCNYdRxk/usrqkP6xmAl3IbGyV?recordId=recUVUG9jtWfYTiE6&fieldId=fld2XvypWhZiAgz3X\n",
-    "Glossary Terms": [
-      "recGDQ1lbKO2udGKu"
-    ],
-    "Last edited (simplified)": "2020-08-24T16:32:51.000Z",
-    "Last edited (experts say)": "2020-08-24T16:22:44.000Z",
-    "What our experts say wordcount": 264,
-    "Background and context wordcount": 102,
-    "Other resources wordcount": 0,
-    "Wordcount": 366,
-    "Last modified": "2020-08-24"
-  },
-  {
     "id": "recj7SuVIShfr36Sx",
     "Question": "Is there any relationship between eating sugar in foods and COVID-19? ",
     "Status": "Published",
@@ -144,7 +127,7 @@
   {
     "id": "recuRBvIUfjcJfEOX",
     "Question": "What do we know about the new strain of this virus that is more infectious than the first strains?",
-    "Status": "Update in progress",
+    "Status": "Published",
     "Category": "On: COVID-19 & viral mutations",
     "Source of the question": [
       "Social Media"
@@ -152,8 +135,8 @@
     "Country question was sourced from": [
       "USA"
     ],
-    "Background and context": "There have been studies and news articles circulating about a potential new strain of the novel coronavirus SARS-CoV-2. Viruses mutate (or change) as part of their life cycle. Some of these changes have more impact on humans than others. \n\nRNA viruses, such as influenza and measles tend to be more prone to mutations, compared to DNA viruses, such as herpes and human papillomavirus. Coronaviruses are RNA viruses that generally have been found to mutate slower than influenza. Some forms of SARS-CoV-2 have mutated and now look different than the original version of it found in China. More research is needed to understand the implications of any mutations in SARS-CoV-2.\n\n_This entry was updated with new information on August 20, 2020_\n",
-    "What our experts say": "A handful of studies have claimed that newer strains of the COVID-19 virus in Europe and the United States spread more rapidly and are more infectious than the original strain of the virus that was first discovered in Asia in early 2020. This new strain from the 'D614G spike mutation' can be found across many countries, but there is no scientific consensus on its impact nor is there enough evidence to determine if the claims of increased infection and transmission are accurate. \n\nViruses constantly change as they reproduce, in order to keep spreading into more cells. These changes are called \"mutations,\" and though most mutations are not helpful to the virus, the mutations that help the virus reproduce contribute to the virus spreading. \n\nMutations create a new updated version of the virus, which we call a \"strain.\" In the case of COVID-19, this newest strain is called the 'G614' and it impacts something called the \"spike proteins\" of the virus, which are the spiky parts on the outside of all coronaviruses that help them get into the body of a person and attach to and infect more cells. \n\nThe G614 strain has more spike proteins and are less likely to break off from the virus when it is trying to invade the human body, so it is more likely to infect the person who has been exposed to it. In the earliest strains of the virus, scientists agreed that these proteins were already very efficient, and helped the virus infect millions of people. \n\nWith this change in the number and strength of these spikes, some researchers believe the G614 strain of the virus is roughly 10 times more infectious than the earliest versions studied in laboratories. However, these recent studies have shown that though it is easier for the new strain of the virus to infect people, it does not make these infections any worse, or better, than the other strains of COVID-19. So even if you are more likely to get sick from the virus, your chances of having severe symptoms are the same as they have always been, and you will most likely have a mild to moderate case.\n\n_This entry was updated with new information on August 20, 2020_\n",
+    "Background and context": "Studies and news articles are circulating about a potential new strain of the novel coronavirus SARS-CoV-2. Viruses mutate (or change) as part of their life cycle. Some of these changes have more impact on humans than others. \n\nRNA viruses, such as influenza and measles tend to be more prone to mutations, compared to DNA viruses, such as herpes and human papillomavirus. Coronaviruses are RNA viruses that generally have been found to mutate slower than influenza. Some forms of SARS-CoV-2 have mutated and now look different than the original version of it found in China. More research is needed to understand the implications of any mutations in SARS-CoV-2.\n\n_This entry was updated with new information on August 24, 2020_\n",
+    "What our experts say": "Studies claim that newer strains of the COVID-19 virus in Europe and the United States spread more rapidly and are more infectious than the original strain of the virus, which was first discovered in Asia in early 2020. \n\nA new strain from the 'D614G spike mutation' can be found in many countries. So far research shows that the new strain of coronavirus does not change the severity of symptoms. The public should continue to take the same recommended preventative measures of wearing a face covering, maintaining 6 feet physical distance and washing their hands with soap and warm water. \n\nViruses constantly change as they reproduce in order to keep spreading into more cells. These changes are called \"mutations,\" and though most mutations are not helpful to the virus, the mutations that help the virus reproduce contribute to the virus spreading. Mutations create a new, updated version of the virus, which we call a \"strain.\" In the case of COVID-19, this newest strain is called the 'G614' and it impacts something called the \"spike proteins\" of the virus, which are the spiky parts on the outside of all coronaviruses that help them get into the body of a person and infect more cells. \n\nThe G614 strain has more spike proteins, which means it is less likely to break off when it is trying to invade the human body, making it  more likely to infect the exposed individual. With this change, some researchers believe the G614 strain of the virus is roughly 10 times more infectious than the earliest versions studied in laboratories. \n\nIt's important to note that these recent studies show that while it is easier for the new strain of the virus to infect people, it does not make the infections any worse or better than other strains of COVID-19. Even if you are more likely to get sick from the virus due to the G614 mutation, your chances of having severe symptoms are the same as they have always been.\n\n_This entry was updated with new information on August 20, 2020_\n",
     "Glossary Terms": [
       "reco4mXMlx86yOkid",
       "recMOA1iUEl0oP2Vi",
@@ -196,13 +179,13 @@
     "Rollup test 2": [
       "recTPQuI9KP0ALSVg"
     ],
-    "Last edited (simplified)": "2020-08-21T15:56:47.000Z",
-    "Last edited (experts say)": "2020-08-21T15:48:20.000Z",
-    "What our experts say wordcount": 371,
-    "Background and context wordcount": 119,
+    "Last edited (simplified)": "2020-08-24T22:00:50.000Z",
+    "Last edited (experts say)": "2020-08-24T22:04:39.000Z",
+    "What our experts say wordcount": 341,
+    "Background and context wordcount": 117,
     "Other resources wordcount": 71,
-    "Wordcount": 561,
-    "Last modified": "2020-08-21"
+    "Wordcount": 529,
+    "Last modified": "2020-08-24"
   },
   {
     "id": "reco2uYADZHn5mpCd",
@@ -3913,7 +3896,7 @@
       "USA"
     ],
     "Background and context": "The outbreak of COVID-19 in the United States was first reported in long-term care facilities, also called nursing homes, in Washington state in February 2020. These early outbreaks involved people over the age fo 65, often with underlying health conditions like heart disease or breathing problems, which means the COVID-19 risks faced by these groups were numerous. Additionally, nursing homes are housed in enclosed buildings and have staff members that care for multiple residents making these facilities excellent hosts for viral spreading. Shortly before February, staff members and the family members of nursing home residents traveled often around the country and internationally and were not self-isolating since the United States had not had a substantial outbreak at this time. This likely allowed cases to spread rapidly from staff and family members to residents of nursing homes.\n\nIn response to these early nursing home outbreaks, several government agencies that oversee these facilities and the nursing homes themselves created stricter policies to prevent the future spread of the virus. Since then, conditions have improved in many facilities, but more research needs to be completed to completely understand the reasons for these initial outbreaks.\n\n_This entry was updated with new information on July 29, 2020_\n",
-    "What our experts say": "Nursing homes, like long-term care facilities, are uniquely vulnerable to COVID-19 transmission. COVID-19 is like many other respiratory viruses and can easily be transmitted between people in enclosed spaces. This is why we consider these facilities high risk for transmission. \nSince many residents at nursing homes have preexisting conditions (i.e. heart disease or breathing problems) they are at a greater risk for severe disease if they get COVID-19. \nMore research has shown that COVID-19 infections were common in nursing homes, for both residents and staff, as nursing homes often do not have enough resources dedicated to infection prevention like guidelines to follow, dedicated staff members, and specific equipment. In addition, the shared living spaces like cafeterias and group rooms make it hard to isolate patients. Nursing homes are vulnerable areas for COVID-19 transmission. \n\n_This entry was updated with new information on July 29, 2020_\n",
+    "What our experts say": "Nursing homes, like long-term care facilities, are uniquely vulnerable to COVID-19 transmission. COVID-19 is like many other respiratory viruses and can easily be transmitted between people in enclosed spaces. This is why we consider these facilities high risk for transmission. \nSince many residents at nursing homes have preexisting conditions (i.e. heart disease or breathing problems) they are at a greater risk for severe disease if they get COVID-19. \nMore research has shown that COVID-19 infections were common in nursing homes, for both residents and staff, as nursing homes often do not have enough resources dedicated to infection prevention like guidelines to follow, dedicated staff members, and specific equipment. In addition, the shared living spaces like cafeterias and group rooms make it hard to isolate patients. Nursing homes are vulnerable areas for COVID-19 transmission. \n\n_This entry was updated with new information on July 29, 2020._\n",
     "Glossary Terms": [
       "recgTRrJAT5jjNnDr",
       "recPzol0r3VBYAXD6",
@@ -3928,12 +3911,12 @@
     ],
     "Other resources": "1. Nursing Home COVID Data ([CMS][1])\n2. CIDRAP - COVID Frequency in Nursing Homes ([June 2020][2])\n3. Epidemiology of Covid-19 in a Long-Term Care Facility in King County, Washington ([NEJM][3]) \n\n  [1]: https://data.cms.gov/stories/s/COVID-19-Nursing-Home-Data/bkwz-xpvg/\n  [2]: https://www.cidrap.umn.edu/news-perspective/2020/06/nursing-homes-might-account-40-us-covid-19-deaths\n  [3]: https://www.nejm.org/doi/full/10.1056/NEJMoa2005412\n",
     "Last edited (simplified)": "2020-07-29T19:39:44.000Z",
-    "Last edited (experts say)": "2020-07-29T19:39:35.000Z",
+    "Last edited (experts say)": "2020-08-25T17:28:45.000Z",
     "What our experts say wordcount": 144,
     "Background and context wordcount": 200,
     "Other resources wordcount": 29,
     "Wordcount": 373,
-    "Last modified": "2020-07-29"
+    "Last modified": "2020-08-25"
   },
   {
     "id": "recO53s7i9ioAfKKv",
@@ -4080,10 +4063,13 @@
   {
     "id": "reccgbdzob0VzK2nF",
     "Question": "Can someone get reinfected and get COVID-19 a second time?",
-    "Status": "Published",
+    "Status": "Update ready for review",
+    "Category": "Reinfection",
+    "Subcategory": "On: COVID-19 & Reinfection",
     "Background and context": "As scientists, public health professionals, and doctors monitor the COVID-19 pandemic, they continue to learn about how the virus spreads, its symptoms, and other factors important to diagnosis, testing, monitoring, and long-term public health planning. The possibility of reinfection continues to be a prominent news headline with healthcare professionals reporting that some patients who had fully recovered from the virus later redeveloped symptoms. Some case reports detail how both symptom monitoring and testing have been performed, and, in some instances, patients have documented recovery of COVID-19 with negative virus test results only to become ill and test positive weeks or months later. \n\nWhile there are still many aspects of the virus and the pandemic that are unknown, recent research suggests that reinfection may be possible. Newer research shared with a preprint release on July 11th, 2020 found that COVID-19 antibodies function similarly to those from other coronaviruses that are associated with common colds. While the number of antibodies is higher in patients with more severe illness, reports suggest that the protective antibodies decrease relatively quickly (sometimes within 60 days)- especially in patients who had a mild case of COVID-19. Similarly, a population-based study from Spain examined antibodies of more than 50,000 people with possible exposure early in the pandemic and found that very few people have maintained antibodies to date- even those who lived in areas significantly impacted by the virus. Finally, a study done in primates (not humans) showed that COVID-19 immunity was maintained for 28 days following the original infection, but the study did not include longer range measures and, as an animal study, may not be directly comparable to humans.\n\nIt is important to note that, unlike other viruses, the number of antibodies needed to prevent reinfection with COVID-19 is unknown as is the level of antibodies needed to suggest that someone is “immune” to the virus. Studies to further understand immunity as well as the possibility for reinfection are ongoing.\n",
-    "What our experts say": "Scientists do not know for sure if people can become infected with COVID-19 a second time, but it may be possible. More evidence is needed to determine whether or not reinfection can occur. We are still learning a lot about what kind of natural defense - also known as immunity - a person has after being infected with SARS-CoV-2/COVID-19. Currently, there haven't been any documented cases of re-infection in scientific journals. In some cases, some patients have tested positive a second time for the virus but scientists think that this is most likely residual viral RNA (traces of the virus left in the body) that is being detected by very sensitive tests or through false-positive tests. As we learn more about long-term immunity and protection from re-infection, this could change, but currently we haven't seen published cases to support that it is occurring. For those concerned about antibody tests - tests used to determine whether or not a person was infected with COVID-19 in the past - it is important to note that a lack of antibodies several months after infection might not mean the person has no immunity against the virus and is susceptible to infection again. \n",
-    "Other resources": "1. Longitudinal evaluation and decline of antibody responses in SARS-CoV-2 infection ([MedRxiv][1])\n2. Direct observation of repeated infections with endemic coronaviruses ([J of Inf Disease][2])\n3. Prevalence of SARS-CoV-2 in Spain (ENE-COVID): a nationwide, population-based seroepidemiological study ([Lancet][3])\n4. Study in Primates Finds Acquired Immunity Prevents COVID-19 Reinfections ([NIH Director's Blog][4])\n5. Interview with Virologist Dr. Rasmussen ([Gizmodo][5])\n6. What Is COVID-19? ([JAMA][6]) \n\n  [1]: https://www.medrxiv.org/content/10.1101/2020.07.09.20148429v1.full.pdf\n  [2]: https://watermark.silverchair.com/jiaa392.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAqIwggKeBgkqhkiG9w0BBwagggKPMIICiwIBADCCAoQGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMiRbJCaojrVziOBHFAgEQgIICVexKUVWsCM8r04oJCJ2DPsP6vHvGEigqHpWW5jL_wb5GXNZdVL7bOCvm5VWLxP3N3_FCeNlLkiCXSddWR8sOG3UbOouN_hpBKr4mYdZ6gcI6jtE5rU_xfh0F9lJTu0pBX6IScsDQNGpbokEgqSk9QEK6H_0P4w3H8gf6h_jkfM72S_pPpCLksA2sOyP4frstixiN_MUKS_vx_BspvZENUnccZmgMBr9ielG5DCwLFj3HxAjRC_HiPLI8Nqn4aixyC1Ex6k7tmdZVx0B66c2pGv7VX04Ctxd4cxKTSIChWPacv2nejhG7ZGxiedfUCga25VlnSIjiyghHTNuu5EQhN9GhB0SlDcGkNCGcbuIvGdgzIeK-6ZZFdlTM8TcAHkducF7p0u4qxiQyHt0knoAqV6gxB6H9nsPJbO9eDlSFnlaekK1x1jVj3KYEijlB7oHyfXDvo3MGYoSQXF4cBejTUrfSBS6sjbD_uf0Pui-PJtti-VTlLyrumkRRLsutXTGDmo8V4iagTUWQQe6WEPh5emb8GYETdcRvAZx-otjFBtsagdq6L1ijVYYBRCg_QfmEow4wrEqMoK-o5_oZbInR_B-8eccbF5g3oNJhuSr4NSBXjd0Whhqe3LTf1IEvTz03Wv11sEUoPUbMbYmZlEJYYJf8BUR-5h267UeuU8IMFHxNsdTFJikB9y7hZgL8u_6_xdwE8MxJoIycHbRh4Dpv8Wz1QK55XC39-AvEuqdYuPNFvxJeU-KscfbpVX0-4AbdSoMlmwsl8eivzoFUOxZoK_MFt1ny-w\n  [3]: https://www.thelancet.com/action/showPdf?pii=S0140-6736(20)31483-5\n  [4]: https://directorsblog.nih.gov/2020/07/14/study-in-primates-finds-acquired-immunity-prevents-covid-19-reinfections/\n  [5]: https://gizmodo.com/what-s-the-evidence-for-covid-19-reinfection-1844364577\n  [6]: https://jamanetwork.com/journals/jama/fullarticle/2768390\n",
+    "What our experts say": "Scientists do not know for sure if people can become infected with COVID-19 a second time, but it may be possible. More evidence is needed to determine whether or not reinfection can occur in patients and what kind of immunity to the virus people might obtain once they have been infected. We are still learning a lot about what kind of natural defense - also known as immunity - a person has after being infected with SARS-CoV-2/COVID-19. As of now, there has only been one documented case of reinfection: a 33-year old man in Hong Kong who had two infections over a period of 4-5 months. Though the study describing the man and his potential reinfections has been accepted by the scientific journal Clinical Infectious Diseases, it has not yet been published so other scientific experts have not been able to rigorously study the data or full results of the paper. This patient's apparent infections were from different strains of COVID-19 and while the first caused mild symptoms, the second infection did not cause the patient to have any symptoms. This might mean that patients do not have lifelong immunity to the virus and if any immunity does exist after someone is infected with the virus, it is not known for how long or how strong that immunity is. This is why it is important for all people to continue using prevention measures like wearing masks and social distancing in order to stop the spread of the virus.\n\nIn terms of other potential cases of reinfection, in some cases some patients have tested positive a second time for the virus but scientists think that this is most likely residual viral RNA (traces of the virus left in the body) that is being detected by very sensitive tests or through false-positive tests. As we learn more about long-term immunity and protection from re-infection, this could change, but currently we haven't seen published cases to support that it is occurring. For those concerned about antibody tests - tests used to determine whether or not a person was infected with COVID-19 in the past - it is important to note that a lack of antibodies several months after infection might not mean the person has no immunity against the virus and is susceptible to infection again. \n\n_This entry was updated with new information on August 25, 2020_\n",
+    "Other resources": "1. Longitudinal evaluation and decline of antibody responses in SARS-CoV-2 infection ([MedRxiv][1])\n2. Direct observation of repeated infections with endemic coronaviruses ([J of Inf Disease][2])\n3. Prevalence of SARS-CoV-2 in Spain (ENE-COVID): a nationwide, population-based seroepidemiological study ([Lancet][3])\n4. Study in Primates Finds Acquired Immunity Prevents COVID-19 Reinfections ([NIH Director's Blog][4])\n5. Interview with Virologist Dr. Rasmussen ([Gizmodo][5])\n6. What Is COVID-19? ([JAMA][6]) \n7. Scientists say Hong Kong man got coronavirus a second time ([AP][7]) \n8. First Documented Coronavirus Reinfection Reported in Hong Kong ([NYT][8]) \n\n  [1]: https://www.medrxiv.org/content/10.1101/2020.07.09.20148429v1.full.pdf\n  [2]: https://watermark.silverchair.com/jiaa392.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAqIwggKeBgkqhkiG9w0BBwagggKPMIICiwIBADCCAoQGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMiRbJCaojrVziOBHFAgEQgIICVexKUVWsCM8r04oJCJ2DPsP6vHvGEigqHpWW5jL_wb5GXNZdVL7bOCvm5VWLxP3N3_FCeNlLkiCXSddWR8sOG3UbOouN_hpBKr4mYdZ6gcI6jtE5rU_xfh0F9lJTu0pBX6IScsDQNGpbokEgqSk9QEK6H_0P4w3H8gf6h_jkfM72S_pPpCLksA2sOyP4frstixiN_MUKS_vx_BspvZENUnccZmgMBr9ielG5DCwLFj3HxAjRC_HiPLI8Nqn4aixyC1Ex6k7tmdZVx0B66c2pGv7VX04Ctxd4cxKTSIChWPacv2nejhG7ZGxiedfUCga25VlnSIjiyghHTNuu5EQhN9GhB0SlDcGkNCGcbuIvGdgzIeK-6ZZFdlTM8TcAHkducF7p0u4qxiQyHt0knoAqV6gxB6H9nsPJbO9eDlSFnlaekK1x1jVj3KYEijlB7oHyfXDvo3MGYoSQXF4cBejTUrfSBS6sjbD_uf0Pui-PJtti-VTlLyrumkRRLsutXTGDmo8V4iagTUWQQe6WEPh5emb8GYETdcRvAZx-otjFBtsagdq6L1ijVYYBRCg_QfmEow4wrEqMoK-o5_oZbInR_B-8eccbF5g3oNJhuSr4NSBXjd0Whhqe3LTf1IEvTz03Wv11sEUoPUbMbYmZlEJYYJf8BUR-5h267UeuU8IMFHxNsdTFJikB9y7hZgL8u_6_xdwE8MxJoIycHbRh4Dpv8Wz1QK55XC39-AvEuqdYuPNFvxJeU-KscfbpVX0-4AbdSoMlmwsl8eivzoFUOxZoK_MFt1ny-w\n  [3]: https://www.thelancet.com/action/showPdf?pii=S0140-6736(20)31483-5\n  [4]: https://directorsblog.nih.gov/2020/07/14/study-in-primates-finds-acquired-immunity-prevents-covid-19-reinfections/\n  [5]: https://gizmodo.com/what-s-the-evidence-for-covid-19-reinfection-1844364577\n  [6]: https://jamanetwork.com/journals/jama/fullarticle/2768390\n  [7]: https://apnews.com/1c2f3655a236dd7b1f09d94500042d3c\n  [8]: https://www.nytimes.com/2020/08/24/health/coronavirus-reinfection.html\n",
+    "How often revision needed": "Weekly",
     "DB (French)": [
       "recKDU3ZXsRvXXFlC"
     ],
@@ -4232,12 +4218,19 @@
       "recAX0HsZVM8R4TBw"
     ],
     "Last edited (simplified)": "2020-07-16T23:59:45.000Z",
-    "Last edited (experts say)": "2020-07-17T00:00:51.000Z",
-    "What our experts say wordcount": 199,
+    "Last edited (experts say)": "2020-08-25T17:43:07.000Z",
+    "What our experts say wordcount": 392,
     "Background and context wordcount": 322,
-    "Other resources wordcount": 59,
-    "Wordcount": 580,
-    "Last modified": "2020-07-27"
+    "Other resources wordcount": 81,
+    "Wordcount": 795,
+    "Last modified": "2020-08-25",
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "reinfection",
+      "prevention",
+      "strain"
+    ]
   },
   {
     "id": "recr3yXfQwXc2jnMv",
@@ -9404,8 +9397,8 @@
     "Wordcount": 0
   },
   {
-    "id": "rechkFkEr9de4hHeC",
-    "Question": "BOOM D614G QUESTION PLACEHOLDER",
+    "id": "rec3gzGDZLC9DoYmq",
+    "Question": "Are we only immune for three months?",
     "What our experts say wordcount": 0,
     "Background and context wordcount": 0,
     "Other resources wordcount": 0,

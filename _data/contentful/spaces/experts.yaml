@@ -432,3 +432,48 @@ contributor:
       advising governments globally on ethical policy frameworks for AI, and researching
       access to quality information and health resources of Brazilian women amidst
       the Zika crisis.
+- sys:
+    id: 4caKhs7TAG4DtRcEu5Nsak
+    created_at: !ruby/object:DateTime 2020-08-20 15:50:55.976000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-20 15:51:26.269000000 Z
+    content_type_id: contributor
+    revision: 1
+  name:
+    en-US: 'Dr. Jessica Huang '
+  slug:
+    en-US: dr-jessica-huang
+  bio:
+    en-US: 'Dr. Jessica Huang is currently a COVID-19 Response and Recovery Fellow
+      with the Harvard Kennedy School’s Bloomberg City Leadership Initiative. Previously,
+      she worked and taught with D-Lab at MIT, leading poverty reduction and humanitarian
+      innovation projects with UNICEF, UNHCR, Oxfam, USAID, foreign government ministries
+      and community-based organizations across dozens of countries. She also co-founded
+      a social enterprise that has provided access to safe drinking water to thousands
+      in India, Nepal and Bangladesh. Formerly trained as an environmental engineer,
+      she earned a Doctorate of Public Health from Harvard and a Master’s in Learning,
+      Design and Technology (LDT) from Stanford. Her projects have won multiple awards,
+      including the top prize in A Grand Challenge for Development: Technology to
+      Support Education in Crisis & Conflict Settings, and led to her being recognized
+      for Learning 30 Under 30. She enjoys being an active volunteer, supporting several
+      non-profits in health, education, environmental sustainability and social justice.'
+- sys:
+    id: 9WVSMX3NSTMSBu7RUQtPN
+    created_at: !ruby/object:DateTime 2020-08-20 15:52:32.726000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-20 15:52:42.531000000 Z
+    content_type_id: contributor
+    revision: 1
+  name:
+    en-US: Anshu Shroff
+  slug:
+    en-US: anshu-shroff
+  bio:
+    en-US: 'Anshu is a Doctor of Public Health (DrPH) candidate at the Harvard T.H.
+      Chan School of Public Health, and a Humanitarian Studies, Ethics, and Human
+      Rights concentrator at the Harvard Humanitarian Initiative. She is a Harvard
+      Voices in Leadership writing fellow and student moderator, Prajna Fellow, and
+      the John C. and Katherine Vogelheim Hansen Fund for Africa Awardee. Anshu’s
+      interests include: systemic issues of emergency management, crisis leadership,
+      intersectoral approaches to climate risk resilience, inclusion and human rights,
+      international development, access and sustainability of global health systems,
+      and socio-economic equity. Anshu has worked at the United Nations, UNDP, UNICEF,
+      Gates Foundation, and the Institute of Healthcare Improvement.'
