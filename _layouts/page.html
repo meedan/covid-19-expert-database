@@ -16,12 +16,14 @@ lang: en-US
   {% endif %}
   <div class="content-wrapper">
     {% if page.description %}
+      {% if page.slug == '/' %}
       <div class="lead-wrapper">
+      {% endif %}  
       <h2 class="lead">{{ page.description }}</h2>
       {% if page.slug == '/' %}
         {% include ask-a-question.html %}
-      {% endif %}
       </div>
+      {% endif %}
     {% endif %}
     {% if page.slug == '/' %}
       {% include module_search.html %}
