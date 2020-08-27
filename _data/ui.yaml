@@ -1,8 +1,8 @@
 t:
   en-US:
     site-name: "Covid-19 Expert Database"
-    ask-a-question: "Ask a question"
-    ask-a-question-subhead: "Contribute to our database"
+    ask-a-question: "Ask our experts a question"
+    ask-a-question-subhead: "Responses are added to this database"
     ask-a-question-promo: "Did not find what you are looking for? Help is at hand."
     ask-a-question-promo-button: "Ask our experts"
     menu:
@@ -33,7 +33,7 @@ t:
       email-label: "Email"
       email-placeholder: "Your email"
       question-label: "Your question"
-      question-placeholder: "Ask a question or request for more information about an existing question."
+      question-placeholder: "Ask our experts a question or request for more information about an existing question."
       context-label: "Need more context?"
       context-placeholder: "What question do you want more context on?"
       deadline-label: "Deadline"
@@ -76,7 +76,7 @@ t:
   fr:
     site-name: "Covid-19 Expert Database"
     ask-a-question: "Poser une question"
-    ask-a-question-subhead: "Contribute to our database"
+    ask-a-question-subhead: "Responses are added to this database"
     ask-a-question-promo: "Did not find what you are looking for? Help is at hand."
     ask-a-question-promo-button: "Ask our experts"
     menu:
@@ -149,7 +149,7 @@ t:
   hi:
     site-name: "Covid-19 Expert Database"
     ask-a-question: "प्रश्न पूछें"
-    ask-a-question-subhead: "Contribute to our database"
+    ask-a-question-subhead: "Responses are added to this database"
     ask-a-question-promo: "Did not find what you are looking for? Help is at hand."
     ask-a-question-promo-button: "Ask our experts"
     menu:

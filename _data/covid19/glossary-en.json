@@ -1550,6 +1550,46 @@
     "Total wordcount": 117
   },
   {
+    "id": "recmajcAORyuqhZPc",
+    "Term": "antibody",
+    "Definition": "A blood protein produced in response to and counteracting a specific antigen. Antibodies combine chemically with substances which the body recognizes as alien, such as bacteria, viruses, and foreign substances in the blood.\n",
+    "Questions using this term": [
+      "recp0leXTiAvzw4cH",
+      "reciHqvo2ldywmQrQ",
+      "rec2r563GIPIaxuGS",
+      "recisKOQNAShlHmql",
+      "recYvTpiS4HB4XVtT",
+      "rec2shxecDOlAie8Q",
+      "recRNOP1DQIw90RaZ",
+      "reczdKiAkOFyEuS5P",
+      "recVRsQKdIEEtButM",
+      "recufj0t4myAoM7yM",
+      "rec3gzGDZLC9DoYmq"
+    ],
+    "Status": "Published",
+    "French": [
+      "rec0KJjHrcxo05lLS"
+    ],
+    "Hindi": [
+      "recItXrryU18P5ve2"
+    ],
+    "Telugu": [
+      "recmxwIXENBQhSbkp"
+    ],
+    "Spanish": [
+      "recVoauRY5XBChOKU"
+    ],
+    "Arabic": [
+      "recp4eR0tqguFqjxd"
+    ],
+    "Bengali": [
+      "recnuSuL8TmcJn46a"
+    ],
+    "Wordcount Definition": 33,
+    "Wordcount Term": 1,
+    "Total wordcount": 34
+  },
+  {
     "id": "recPNexvQiug4RFJu",
     "Term": "diagnostic test",
     "Definition": "A diagnostic test (also commonly called a medical test) is used to confirm the presence of a disease or evaluate the severity of a disease for patients suspected of having a particular disease or condition. Diagnostic tests are used to make or confirm a medical diagnosis.\n\nThere are many different kinds of diagnostic tests, including blood tests, x-rays, tissue biopsies, bone scans, and more that may be used to help diagnose conditions including pregnancy, anemia, cancer, or infections as well as heart, vision, or kidney problems. In the case of COVID-19, there are diagnostic tests used to diagnose patients with COVID-19 and tests that are used to test patients for antibodies, to see if they were previously infected with COVID-19 even if they are now recovered.\n",
@@ -1900,6 +1940,35 @@
     "Wordcount Definition": 104,
     "Wordcount Term": 2,
     "Total wordcount": 106
+  },
+  {
+    "id": "rectkO1d0FhUHQ0Of",
+    "Term": "antigen",
+    "Definition": "Antigens are molecules that are capable of stimulating body's immune response and production of antibodies.\n",
+    "Questions using this term": [
+      "recYvTpiS4HB4XVtT",
+      "recp0leXTiAvzw4cH",
+      "recVRsQKdIEEtButM",
+      "reczdKiAkOFyEuS5P",
+      "recufj0t4myAoM7yM",
+      "rec3gzGDZLC9DoYmq"
+    ],
+    "Status": "Published",
+    "French": [
+      "recXBuJQzCKHioMZn"
+    ],
+    "Hindi": [
+      "recwk3ceX31oNn5at"
+    ],
+    "Spanish": [
+      "recYeJ9s17n7pBJSu"
+    ],
+    "Arabic": [
+      "recFQRsZ6o5DhgR8Q"
+    ],
+    "Wordcount Definition": 15,
+    "Wordcount Term": 1,
+    "Total wordcount": 16
   },
   {
     "id": "rec5P1moAv3DjPkbT",

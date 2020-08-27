@@ -315,10 +315,12 @@ body.hi header nav {
         margin-bottom: 0.778rem;
         padding-top: var(--space-1);
         padding-left: var(--space-2);
+        padding-right: var(--space-2);
     }
     span:last-child {
         padding-bottom: var(--space-1);
         padding-left: var(--space-2);
+        padding-right: var(--space-2);
     }
    
     &:after {
