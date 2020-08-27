@@ -785,6 +785,42 @@
     "Total wordcount": 64
   },
   {
+    "id": "recDalYrz2m23kS2e",
+    "Term": "influenza",
+    "Definition": "Seasonal influenza viruses are infectious diseases that spread and cause illness in people during the time of year known as the “flu season.” Seasonal influenza viruses cause annual U.S. influenza epidemics during fall, winter, and spring, and circulate among people worldwide. Seasonal influenza viruses are continually undergoing evolution in unpredictable ways.\n",
+    "Questions using this term": [
+      "recOiBtU1KHxAQAgq"
+    ],
+    "Status": "Published",
+    "French": [
+      "recN1KGOfbDmvsGiU"
+    ],
+    "Hindi": [
+      "recfzLZmTL7a03mVg"
+    ],
+    "Telugu": [
+      "recnhST9odxY4UMS8"
+    ],
+    "Spanish": [
+      "rec1qmhcwfCuouJCl"
+    ],
+    "Arabic": [
+      "recmkZtaZf17Vzql2"
+    ],
+    "Bengali": [
+      "reclmkuFydbGZYvYo"
+    ],
+    "Portuguese": [
+      "recPsEz5jncHwG0yU"
+    ],
+    "In translation glossaries?": "Partial",
+    "Completed Translations?": "Partial",
+    "Internal notes": "[@Christin Gilmer](https://airtable.com/appKBFbOCN23iz8eF/menf68FANeLWbhRN0/usrDTYZtkXBziEsWP?recordId=recDalYrz2m23kS2e&fieldId=fldFWQAjehRWQv5n2) In Definition, “seasonal influenza viruses are influenzas…”, influenzas are not viruses but diseases. This could rather read “seasonal influenzas are influenzas…” \n[@AO LocLAb](https://airtable.com/appKBFbOCN23iz8eF/mencHRF5RBwrtk8je/usrFuUGZLOsk8emML?recordId=recDalYrz2m23kS2e&fieldId=fldFWQAjehRWQv5n2) Influenza is a virus and there are four types of it. So I don't think that works. Maybe \"seasonal influenza virus is a type of infectious disease\"?\nI stand corrected, thank you [@Christin Gilmer](https://airtable.com/appKBFbOCN23iz8eF/menSN4riBvDsU0W1e/usrDTYZtkXBziEsWP?recordId=recDalYrz2m23kS2e&fieldId=fldFWQAjehRWQv5n2). Maybe, “seasonal influenza viruses spread and cause illness”.\n\n",
+    "Wordcount Definition": 49,
+    "Wordcount Term": 1,
+    "Total wordcount": 50
+  },
+  {
     "id": "recUx8LCQGkRdxG3B",
     "Term": "BCG vaccine",
     "Definition": "According to the U.S. National Institutes of Health, the bacille Calmette-Guerine (BCG) vaccine is a vaccine used to prevent tuberculosis (TB) in people who are at a high risk of TB or where TB is common.\n",
@@ -1178,6 +1214,42 @@
     "Wordcount Definition": 124,
     "Wordcount Term": 3,
     "Total wordcount": 127
+  },
+  {
+    "id": "rec39wm7MuK12bTI3",
+    "Term": "germs",
+    "Definition": "Germs are microorganisms and a part of everyday life. They can be found in our air, soil, water, and in and on our bodies. Some germs are helpful, others are harmful. Many germs live in and on our bodies without causing harm and some even help us to stay healthy. Only a small portion of germs are known to cause infection. Germs are also known as infectious agents and refer to viruses, bacteria, or other microbes.\n",
+    "Questions using this term": [
+      "recr69VbqahSOTu3Y"
+    ],
+    "Status": "Published",
+    "French": [
+      "recH0gr95OweWQ1ng"
+    ],
+    "Hindi": [
+      "recnFPG2gdeETqbEA"
+    ],
+    "Telugu": [
+      "recOSTfV7XHp1qBnt"
+    ],
+    "Spanish": [
+      "recDLGc4K2wFMA3T1"
+    ],
+    "Arabic": [
+      "recDM23LVzk0IjF9j"
+    ],
+    "Bengali": [
+      "rec7dMcRe2Pl6LJev"
+    ],
+    "Portuguese": [
+      "reclUvhJbP7JrXbSE"
+    ],
+    "In translation glossaries?": "Partial",
+    "Completed Translations?": "Partial",
+    "Internal notes": "From AO LocLAb. I pluralized “refer to virus, bacteria, or other microbe.” into “refer to viruses, bacteria, or other microbes.”\n",
+    "Wordcount Definition": 76,
+    "Wordcount Term": 1,
+    "Total wordcount": 77
   },
   {
     "id": "recEer1bgt6r6jukM",

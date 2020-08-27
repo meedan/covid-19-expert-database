@@ -36,7 +36,7 @@
   },
   {
     "id": "recqw7drq7lMSYbhV",
-    "Question": "Why is the quarantine now 10 days in the USA? ",
+    "Question": "Why do self-isolation or quarantine timelines sometimes change? ",
     "Status": "Do not publish",
     "Category": "Quarantine, Testing",
     "Subcategory": "On: COVID-19 & quarantine",
@@ -127,7 +127,7 @@
   {
     "id": "recuRBvIUfjcJfEOX",
     "Question": "What do we know about the new strain of this virus that is more infectious than the first strains?",
-    "Status": "Update ready for review",
+    "Status": "Published",
     "Category": "On: COVID-19 & viral mutations",
     "Source of the question": [
       "Social Media"
@@ -136,7 +136,7 @@
       "USA"
     ],
     "Background and context": "Studies and news articles are circulating about a potential new strain of the novel coronavirus SARS-CoV-2. Viruses mutate (or change) as part of their life cycle. Some of these changes have more impact on humans than others. \n\nRNA viruses, such as influenza and measles tend to be more prone to mutations, compared to DNA viruses, such as herpes and human papillomavirus. Coronaviruses are RNA viruses that generally have been found to mutate slower than influenza. Some forms of SARS-CoV-2 have mutated and now look different than the original version of it found in China. More research is needed to understand the implications of any mutations in SARS-CoV-2.\n\n_This entry was updated with new information on August 25, 2020_\n",
-    "What our experts say": "Studies claim that newer strains of the COVID-19 virus in Europe and the United States spread more rapidly and are more infectious than the original strain of the virus, which was first discovered in Asia in early 2020. \n\nA new strain known as the G614 variant has been found in many countries. So far research shows that the new strain of coronavirus does not change the severity of symptoms. The public should continue to take the same recommended preventative measures of wearing a face covering, maintaining 6 feet physical distance and washing their hands with soap and warm water. \n\nViruses constantly change as they reproduce in order to keep spreading into more cells. These changes are called \"mutations,\" and though most mutations are not helpful to the virus, the mutations that help the virus reproduce contribute to the virus spreading. Mutations create a new, updated version of the virus, which we call a \"strain.\" In the case of COVID-19,  the 'D614G spike mutation' has become dominant. This mutation changes the amino acid at position 614 from D to G, so the mutation is called D614G, and the new variant or strain is called G614. This newest strain, the 'G614', impacts something called the \"spike proteins\" of the virus, which are the spiky parts on the outside of all coronaviruses that help them get into the body of a person and infect more cells. \n\nThe G614 strain has more spike proteins, which means it is less likely to break off when it is trying to invade the human body, making it  more likely to infect the exposed individual. With this change, some researchers believe the G614 strain of the virus is roughly 10 times more infectious than the earliest versions studied in laboratories. \n\nIt's important to note that these recent studies show that while it is easier for the new strain of the virus to infect people, it does not make the infections any worse or better than other strains of COVID-19. Even if you are more likely to get sick from the virus due to the G614 mutation, your chances of having severe symptoms are the same as they have always been.\n\n_This entry was updated with new information on August 25, 2020_\n",
+    "What our experts say": "Studies claim that newer strains of the COVID-19 virus in Europe and the United States spread more rapidly and are more infectious than the original strain of the virus, which was first discovered in Asia in early 2020. \n\nA new strain, known as the 'G614 variant' or the 'D614G spike mutation', has been found in many countries. So far research shows that the new strain of coronavirus does not change the severity of symptoms. The public should continue to take the same recommended preventative measures of wearing a face covering, maintaining 6 feet physical distance and washing their hands with soap and warm water. \n\nViruses constantly change as they reproduce in order to keep spreading into more cells. These changes are called \"mutations,\" and though most mutations are not helpful to the virus, the mutations that help the virus reproduce contribute to the virus spreading. Mutations create a new, updated version of the virus, which we call a \"strain.\" \n\nIn the case of COVID-19,  the 'D614G spike mutation' is currently the most common. It impacts something called the \"spike proteins\" of the virus, which are the spiky parts on the outside of all coronaviruses that help them get into the body of a person and infect more cells. \nThe strain has more spike proteins, which means the virus is less likely to break off when it is trying to invade the human body, making it more likely to infect the exposed individual. With this change, some researchers believe the current strain of the virus is roughly 10 times more infectious than the earliest versions studied in laboratories.  \n\nIt's important to note that these recent studies show that while it is easier for the new strain of the virus to infect people, it does not make the infections any worse or better than other strains of COVID-19. Even if you are more likely to get sick from the virus due to the G614 mutation, your chances of having severe symptoms are the same as they have always been.\n\n_This entry was updated with new information on August 25, 2020_\n",
     "Glossary Terms": [
       "reco4mXMlx86yOkid",
       "recMOA1iUEl0oP2Vi",
@@ -182,11 +182,11 @@
       "recTPQuI9KP0ALSVg"
     ],
     "Last edited (simplified)": "2020-08-25T20:51:45.000Z",
-    "Last edited (experts say)": "2020-08-26T00:13:50.000Z",
-    "What our experts say wordcount": 372,
+    "Last edited (experts say)": "2020-08-26T22:52:34.000Z",
+    "What our experts say wordcount": 348,
     "Background and context wordcount": 117,
     "Other resources wordcount": 71,
-    "Wordcount": 560,
+    "Wordcount": 536,
     "Last modified": "2020-08-26"
   },
   {
@@ -462,7 +462,16 @@
     "Background and context wordcount": 308,
     "Other resources wordcount": 225,
     "Wordcount": 906,
-    "Last modified": "2020-08-21"
+    "Last modified": "2020-08-21",
+    "Media Package": [
+      {
+        "id": "attjgE1L3X9yjNCLh",
+        "url": "https://dl.airtable.com/.attachments/af68660cc315dd056104b9f9b98e4602/29baa2c3/Effectsonthebody.zip",
+        "filename": "Effects on the body.zip",
+        "size": 1202872,
+        "type": "application/zip"
+      }
+    ]
   },
   {
     "id": "recV4VyzVzjxUii3m",
@@ -802,7 +811,16 @@
     "Background and context wordcount": 140,
     "Other resources wordcount": 27,
     "Wordcount": 277,
-    "Last modified": "2020-08-20"
+    "Last modified": "2020-08-20",
+    "Media Package": [
+      {
+        "id": "attKqIpjnt4b4e06U",
+        "url": "https://dl.airtable.com/.attachments/a24b500c95f62a08cc79da5522c1a97a/5b486009/Pregnancyandcovid-19.zip",
+        "filename": "Pregnancy and covid-19.zip",
+        "size": 907741,
+        "type": "application/zip"
+      }
+    ]
   },
   {
     "id": "recgZZwuf8TlI84F8",
@@ -1312,7 +1330,16 @@
     "Background and context wordcount": 334,
     "Other resources wordcount": 42,
     "Wordcount": 694,
-    "Last modified": "2020-08-13"
+    "Last modified": "2020-08-13",
+    "Media Package": [
+      {
+        "id": "attqWqQx7SUflvRH7",
+        "url": "https://dl.airtable.com/.attachments/c90dfde07608217db3761b67bd2ef54f/9375488e/Testing.zip",
+        "filename": "Testing.zip",
+        "size": 1093139,
+        "type": "application/zip"
+      }
+    ]
   },
   {
     "id": "recYvTpiS4HB4XVtT",
@@ -1674,7 +1701,16 @@
     "Background and context wordcount": 120,
     "Other resources wordcount": 57,
     "Wordcount": 432,
-    "Last modified": "2020-08-11"
+    "Last modified": "2020-08-11",
+    "Media Package": [
+      {
+        "id": "attCu1Vf210L3pXSJ",
+        "url": "https://dl.airtable.com/.attachments/630f665a763ab5b3906bc6f8a544329c/d3f0a1ac/Handsanitizer.zip",
+        "filename": "Hand sanitizer.zip",
+        "size": 558899,
+        "type": "application/zip"
+      }
+    ]
   },
   {
     "id": "recE68fRyDEYYEuIr",
@@ -1804,20 +1840,20 @@
     "id": "recsT1TN71sp4UzkN",
     "Question": "Are air purifiers especially the mini, portable ones worn as necklaces effective in preventing transmission of COVID-19 or other coronaviruses?",
     "Status": "In progress",
-    "Background and context": "Miniature, portable air purifiers are currently being advertised around the world, particularly in online marketplaces. Unfortunately, many claims made by these products around COVID-19 prevention are unverified. Some products have claimed to use high efficiency particulate air (HEPA) filters, which are physical filters designed to catch at least 99.7% of particulates that are 0.3 micrometers or larger in size (although the SARS-CoV-2 virus particles causing COVID-19 are smaller on average than this 0.3 micrometer standard for HEPA filters). According to Pediatric Pulmonologist Dr. Nidhy Varghese, “even if these microbes make it into the purifier, they may elude filtration...the data so far suggests that it is unlikely that air purifiers will help with coronaviruses.\" The U.S. Environmental Protection Agency (EPA) also emphases that \"by itself, a portable air cleaner is not enough to protect people from COVID-19.\"\n",
+    "Background and context": "Miniature, portable air purifiers are currently being advertised around the world, particularly in online marketplaces. Unfortunately, many claims made by these products around COVID-19 prevention are unverified. Some products have claimed to use high efficiency particulate air (HEPA) filters, which are physical filters that meet a standard of catching at least 99.7% of particulates that are 0.3 micrometers or larger in size (although the SARS-CoV-2 virus particles causing COVID-19 are smaller on average than this 0.3 micrometer standard for HEPA filters). According to Pediatric Pulmonologist Dr. Nidhy Varghese, “even if these microbes make it into the purifier, they may elude filtration...the data so far suggests that it is unlikely that air purifiers will help with coronaviruses.\" The U.S. Environmental Protection Agency (EPA) also emphases that \"by itself, a portable air cleaner is not enough to protect people from COVID-19.\"\n",
     "What our experts say": "Mini, portable air purifier necklaces (such as the type available for purchase on consumer websites) have not been shown to prevent COVID-19 infection as there have been no studies about these devices to date. Indoor air purifier units can help reduce tiny parts of virus in the air (airborne contaminants) in a home or confined space if they are used correctly, but they are not enough to protect people from COVID-19.\n",
     "Glossary Terms": [
       "recPFoN1pnhj4RUOc",
       "recy3qWpegJbN2rbV"
     ],
     "Other resources": "1. Will an air cleaner or air purifier help protect me and my family from COVID-19 in my home? ([U.S. EPA](https://www.epa.gov/coronavirus/will-air-cleaner-or-air-purifier-help-protect-me-and-my-family-covid-19-my-home))\n2. Air purifiers of 2020, according to experts ([NBC News](https://www.nbcnews.com/shopping/wellness/shoppingairpurifiers-n1183336))\n",
-    "Last edited (simplified)": "2020-08-26T01:14:18.000Z",
+    "Last edited (simplified)": "2020-08-27T18:46:17.000Z",
     "Last edited (experts say)": "2020-07-23T08:21:08.000Z",
     "What our experts say wordcount": 71,
-    "Background and context wordcount": 134,
+    "Background and context wordcount": 137,
     "Other resources wordcount": 30,
-    "Wordcount": 235,
-    "Last modified": "2020-08-26"
+    "Wordcount": 238,
+    "Last modified": "2020-08-27"
   },
   {
     "id": "recLb3N3jf8NIqfhK",
@@ -2046,7 +2082,16 @@
     "Background and context wordcount": 247,
     "Other resources wordcount": 71,
     "Wordcount": 733,
-    "Last modified": "2020-08-07"
+    "Last modified": "2020-08-07",
+    "Media Package": [
+      {
+        "id": "attvD36elmKSgwq9T",
+        "url": "https://dl.airtable.com/.attachments/ee9fe3bef47ca73dbb6c1ab90112a3c3/bc6155b5/Modernavaccine.zip",
+        "filename": "Moderna vaccine.zip",
+        "size": 904297,
+        "type": "application/zip"
+      }
+    ]
   },
   {
     "id": "recUakBDhgsxJwFic",
@@ -2111,7 +2156,7 @@
   {
     "id": "rec5CB2EhWwQ6bTAh",
     "Question": "What is COVID-19 delirium?",
-    "Status": "Update ready for review",
+    "Status": "Published",
     "Source of the question": [
       "Social Media"
     ],
@@ -2282,7 +2327,16 @@
     "Background and context wordcount": 70,
     "Other resources wordcount": 31,
     "Wordcount": 304,
-    "Last modified": "2020-08-25"
+    "Last modified": "2020-08-25",
+    "Media Package": [
+      {
+        "id": "attUyFDa2kpL4muOX",
+        "url": "https://dl.airtable.com/.attachments/fa8bb3ff0a6f9789b7cbd92bdd81da90/3060b80d/WhatisCOVID-19delirium.zip",
+        "filename": "What is COVID-19 delirium.zip",
+        "size": 1352969,
+        "type": "application/zip"
+      }
+    ]
   },
   {
     "id": "recDOeKU0wK73R15D",
@@ -2383,11 +2437,11 @@
   {
     "id": "recFi8qUxcrBhBeb9",
     "Question": "What does it mean for COVID-19 to impact the brain?",
-    "Status": "Update ready for review",
+    "Status": "Published",
     "Category": "Symptoms",
     "Subcategory": "On: COVID-19 & the brain",
     "Background and context": "COVID-19 has been linked to a series of health complications beyond respiratory failure, including neurological complications that can potentially damage the brain. Recently, news has been circulating about how SARS-CoV-2, the virus that causes COVID-19, has been associated with many different neurological syndromes, including nerve damage, delirium, and stroke. While the condition is not very common, doctors are currently looking at data from individual patients from around the world to assess how it has impacted patients.\n\nThese neurological complications have also been reported during previous epidemics, such as the Severe Acute Respiratory Syndrome (SARS) epidemic in 2003 and the Middle East Respiratory Syndrome (MERS) outbreak more recently in 2012.\n",
-    "What our experts say": "Physicians and scientists are learning more about how COVID-19 impacts organs outside of the respiratory system, such as the brain. The emerging evidence has revealed that some COVID-19 patients experience neurological symptoms, which impact the nervous system, composed principally of the brain, spinal cord, nerves, and ganglia (cell bodies that relay nerve signals). \n\nIn early March 2020, observational data from 58 patients in France indicated the presence of neurological symptoms such as agitation, confusion, disorientation, and encephalopathy (brain damage). In April 2020, a study was published on 214 COVID-19 patients in China with \"severe infection,\" where over a third were reported to experience neurological symptoms, including acute cerebrovascular diseases and impaired consciousness.\n\nIn July 2020, another study on over 40 British patients provided additional evidence about neurological symptoms, ranging from brain inflammation and delirium to nerve damage and stroke. Some of these patients reported severe symptoms, such as strokes and paralysis resulting from nerve damage, while others experienced more minor symptoms like breathlessness and fatigue. Most of the cases with brain inflammation were diagnosed with acute disseminated encephalomyelitis (ADEM), which is a rare illness involving inflammation of the brain and spinal cord that results from viral infections. Data from London indicated an increase in ADEM cases for this study period during the pandemic, as the number of reported cases would typically have been expected over a 5-month period rather than a 5-week period in the city. \n\nSARS-CoV-2, the virus that causes COVID-19, was not detected in the cerebrospinal brain fluid of any of the British patients tested, which may suggest that the virus did not directly attack the brain and that the symptoms could have occurred post-infection.\n\nVanderbilt University Medical Center launched a study in July 2020 that will study delirium, post-traumatic stress disorder (PTSD), and depression in patients who have been hospitalized with COVID-19. These disabling impacts are also known as post-intensive care syndrome (PICS), and previous studies of intensive care patients similar to COVID-19 patients suggest that 33-50% experience dementia, 10-20% experience PTSD, and 33% experience major depression. Researchers are also studying whether COVID-19 patients with brain inflammation are at higher risk of autoimmune disorders like demyelination, where the protective coating of nerve cells is attacked by the immune system and may lead to weakness, numbness and difficulty with daily activities.\n\nWith the increasing evidence of neurological symptoms, which have not been found to occur as commonly as respiratory symptoms, researchers and health care practitioners are continuing to observe patients around the world to learn more about how COVID-19 impacts on the brain. The long-term implications are still unclear, since COVID-19 is a new disease and there has not been enough time to observe the development of symptoms in patients over long periods of time.\n\nThis entry was updated with new information on August 20, 2020.\n",
+    "What our experts say": "Physicians and scientists are learning more about how COVID-19 impacts organs outside of the respiratory system, such as the brain. The emerging evidence has revealed that some COVID-19 patients experience neurological symptoms in the brain, spinal cord, nerves, and ganglia (cell bodies that relay nerve signals). \n\nIn early March 2020, observational data from 58 patients in France indicated the presence of neurological symptoms such as agitation, confusion, disorientation, and encephalopathy (brain damage). In April 2020, a study was published on 214 COVID-19 patients in China with \"severe infection,\" where over a third were reported to experience neurological symptoms, including acute cerebrovascular diseases and impaired consciousness.\n\nIn July 2020, another study on over 40 British patients provided additional evidence about neurological symptoms, ranging from brain inflammation and delirium to nerve damage and stroke. Some of these patients reported severe symptoms, such as strokes and paralysis resulting from nerve damage, while others experienced more minor symptoms like breathlessness and fatigue. Most of the cases with brain inflammation were diagnosed with acute disseminated encephalomyelitis (ADEM), which is a rare illness involving inflammation of the brain and spinal cord that results from viral infections. Data from London indicated an increase in ADEM cases for this study period during the pandemic, as the number of reported cases would typically have been expected over a 5-month period rather than a 5-week period in the city. \n\nSARS-CoV-2, the virus that causes COVID-19, was not detected in the cerebrospinal brain fluid of any of the British patients tested, which may suggest that the virus did not directly attack the brain and that the symptoms could have occurred post-infection.\n\nVanderbilt University Medical Center launched a study in July 2020 that will study delirium, post-traumatic stress disorder (PTSD), and depression in patients who have been hospitalized with COVID-19. These disabling impacts are also known as post-intensive care syndrome (PICS), and previous studies of intensive care patients similar to COVID-19 patients suggest that 33-50% experience dementia, 10-20% experience PTSD, and 33% experience major depression. Researchers are also studying whether COVID-19 patients with brain inflammation are at higher risk of autoimmune disorders like demyelination, where the protective coating of nerve cells is attacked by the immune system and may lead to weakness, numbness and difficulty with daily activities.\n\nWith the increasing evidence of neurological symptoms, which have not been found to occur as commonly as respiratory symptoms, researchers and health care practitioners are continuing to observe patients around the world to learn more about how COVID-19 impacts on the brain. The long-term implications are still unclear, since COVID-19 is a new disease and there has not been enough time to observe the development of symptoms in patients over long periods of time.\n\nThis entry was updated with new information on August 20, 2020.\n",
     "Glossary Terms": [
       "recR9wzTcTIDRvZxF"
     ],
@@ -2427,12 +2481,12 @@
       "rec5e2bKZGfveXImC"
     ],
     "Last edited (simplified)": "2020-07-16T23:02:18.000Z",
-    "Last edited (experts say)": "2020-08-25T20:13:26.000Z",
-    "What our experts say wordcount": 464,
+    "Last edited (experts say)": "2020-08-26T22:56:26.000Z",
+    "What our experts say wordcount": 457,
     "Background and context wordcount": 108,
     "Other resources wordcount": 95,
-    "Wordcount": 667,
-    "Last modified": "2020-08-25"
+    "Wordcount": 660,
+    "Last modified": "2020-08-26"
   },
   {
     "id": "recabh4pzUPxHxLq1",
@@ -2589,7 +2643,16 @@
     "Background and context wordcount": 135,
     "Other resources wordcount": 37,
     "Wordcount": 276,
-    "Last modified": "2020-08-06"
+    "Last modified": "2020-08-06",
+    "Media Package": [
+      {
+        "id": "att6vT7YORflrRtVw",
+        "url": "https://dl.airtable.com/.attachments/470bc180b6cb78e4be58b64a5697b8ac/040d54ae/MasksandO2.zip",
+        "filename": "Masks and O2.zip",
+        "size": 547704,
+        "type": "application/zip"
+      }
+    ]
   },
   {
     "id": "recQZ5Gya03eOGb8l",
@@ -3141,7 +3204,16 @@
     "Background and context wordcount": 155,
     "Other resources wordcount": 169,
     "Wordcount": 612,
-    "Last modified": "2020-08-04"
+    "Last modified": "2020-08-04",
+    "Media Package": [
+      {
+        "id": "attdMjLTV2eg6KPNg",
+        "url": "https://dl.airtable.com/.attachments/cf30e80fb9ddebb7ac6207fa89d87a1c/4d28a7e8/Airbornetransmission.zip",
+        "filename": "Airborne transmission.zip",
+        "size": 1427804,
+        "type": "application/zip"
+      }
+    ]
   },
   {
     "id": "recqFRWiE9Y6nbUM5",
@@ -3776,7 +3848,16 @@
     "Background and context wordcount": 236,
     "Other resources wordcount": 33,
     "Wordcount": 423,
-    "Last modified": "2020-07-30"
+    "Last modified": "2020-07-30",
+    "Media Package": [
+      {
+        "id": "attJyFjBwzz0Hx3xW",
+        "url": "https://dl.airtable.com/.attachments/ce1cec4d4962259031ec0ee6f85cc359/db4ff48d/Howsooncanweexpectavaccine.zip",
+        "filename": "How soon can we expect a vaccine.zip",
+        "size": 822648,
+        "type": "application/zip"
+      }
+    ]
   },
   {
     "id": "recUf54dYwOUfEzIR",
@@ -4065,11 +4146,11 @@
   {
     "id": "reccgbdzob0VzK2nF",
     "Question": "Can someone get reinfected and get COVID-19 a second time?",
-    "Status": "Update ready for review",
+    "Status": "Published",
     "Category": "Reinfection",
     "Subcategory": "On: COVID-19 & Reinfection",
-    "Background and context": "As scientists, public health professionals, and doctors monitor the COVID-19 pandemic, they continue to learn about how the virus spreads, its symptoms, and other factors important to diagnosis, testing, monitoring, and long-term public health planning. The possibility of reinfection continues to be a prominent news headline with healthcare professionals reporting that some patients who had fully recovered from the virus later redeveloped symptoms. Some case reports detail how both symptom monitoring and testing have been performed, and, in some instances, patients have documented recovery of COVID-19 with negative virus test results only to become ill and test positive weeks or months later. \n\nWhile there are still many aspects of the virus and the pandemic that are unknown, recent research suggests that reinfection may be possible. Newer research shared with a preprint release on July 11th, 2020 found that COVID-19 antibodies function similarly to those from other coronaviruses that are associated with common colds. While the number of antibodies is higher in patients with more severe illness, reports suggest that the protective antibodies decrease relatively quickly (sometimes within 60 days)- especially in patients who had a mild case of COVID-19. Similarly, a population-based study from Spain examined antibodies of more than 50,000 people with possible exposure early in the pandemic and found that very few people have maintained antibodies to date- even those who lived in areas significantly impacted by the virus. Finally, a study done in primates (not humans) showed that COVID-19 immunity was maintained for 28 days following the original infection, but the study did not include longer range measures and, as an animal study, may not be directly comparable to humans.\n\nIt is important to note that, unlike other viruses, the number of antibodies needed to prevent reinfection with COVID-19 is unknown as is the level of antibodies needed to suggest that someone is “immune” to the virus. Studies to further understand immunity as well as the possibility for reinfection are ongoing.\n",
-    "What our experts say": "Scientists do not know for sure if people can become infected with COVID-19 a second time, but it may be possible. More evidence is needed to determine whether or not reinfection can occur in patients and what kind of immunity to the virus people might obtain once they have been infected. We are still learning a lot about what kind of natural defense - also known as immunity - a person has after being infected with SARS-CoV-2/COVID-19. As of now, there has only been one documented case of reinfection: a 33-year old man in Hong Kong who had two infections over a period of 4-5 months. Though the study describing the man and his potential reinfections has been accepted by the scientific journal Clinical Infectious Diseases, it has not yet been published so other scientific experts have not been able to rigorously study the data or full results of the paper. This patient's apparent infections were from different strains of COVID-19 and while the first caused mild symptoms, the second infection did not cause the patient to have any symptoms. This might mean that patients do not have lifelong immunity to the virus and if any immunity does exist after someone is infected with the virus, it is not known for how long or how strong that immunity is. This is why it is important for all people to continue using prevention measures like wearing masks and social distancing in order to stop the spread of the virus.\n\nIn terms of other potential cases of reinfection, in some cases some patients have tested positive a second time for the virus but scientists think that this is most likely residual viral RNA (traces of the virus left in the body) that is being detected by very sensitive tests or through false-positive tests. As we learn more about long-term immunity and protection from re-infection, this could change, but currently we haven't seen published cases to support that it is occurring. For those concerned about antibody tests - tests used to determine whether or not a person was infected with COVID-19 in the past - it is important to note that a lack of antibodies several months after infection might not mean the person has no immunity against the virus and is susceptible to infection again. \n\n_This entry was updated with new information on August 25, 2020_\n",
+    "Background and context": "As scientists, public health professionals, and doctors monitor the COVID-19 pandemic, they continue to learn about how the virus spreads, its symptoms, and other factors important to diagnosis, testing, monitoring, and long-term public health planning. The possibility of reinfection continues to be a prominent news headline with healthcare professionals reporting that some patients who had fully recovered from the virus later redeveloped symptoms. Some case reports detail how both symptom monitoring and testing have been performed, and, in some instances, patients have documented recovery of COVID-19 with negative virus test results only to become ill and test positive weeks or months later. \n\nWhile there are still many aspects of the virus and the pandemic that are unknown, recent research suggests that reinfection may be possible. Newer research shared with a preprint release on July 11th, 2020 found that COVID-19 antibodies function similarly to those from other coronaviruses that are associated with common colds. While the number of antibodies is higher in patients with more severe illness, reports suggest that the protective antibodies decrease relatively quickly (sometimes within 60 days), especially in patients who had a mild case of COVID-19. Similarly, a population-based study from Spain examined antibodies of more than 50,000 people with possible exposure early in the pandemic and found that very few people have maintained antibodies to date, even those who lived in areas significantly impacted by the virus. Finally, a study done in primates (not humans) showed that COVID-19 immunity was maintained for 28 days following the original infection, but the study did not include longer range measures and, as an animal study, may not be directly comparable to humans.\n\nIt is important to note that, unlike other viruses, the number of antibodies needed to prevent reinfection with COVID-19 is unknown as is the level of antibodies needed to suggest that someone is “immune” to the virus. Studies to further understand immunity as well as the possibility for reinfection are ongoing.\n",
+    "What our experts say": "We are still learning a lot about what kind of natural defense, also known as immunity, a person has after being infected with SARS-CoV-2/COVID-19. As of now, there have been a very small amount of people reported to be reinfected with the first following an initial infection. \n\nScientists still do not know for sure if people can become infected with COVID-19 a second time, but it appears to be possible. More evidence is needed to determine whether or not reinfection can occur in patients, and what kind of immunity to the virus people might obtain once they have been infected.\n\nOne study describing a man and his potential reinfections has been accepted by the scientific journal Clinical Infectious Diseases, but it has not yet been published so other scientific experts have not been able to rigorously study the data or full results of the paper. This patient's apparent infections were from different strains of COVID-19 and while the first caused mild symptoms, the second infection did not cause the patient to have any symptoms. This might mean that patients do not have lifelong immunity to the virus, and if any immunity does exist after someone is infected with the virus, it is not known for how long or how strong that immunity is. This is why it is important for all people to continue using prevention measures like wearing masks and social distancing in order to stop the spread of the virus.\n\nIn some cases, patients have tested positive a second time for the virus but scientists think that this is most likely traces of the original infection left in the body, detected by very sensitive tests or through false-positive tests. As we learn more about long-term immunity and protection from re-infection, this could change, but currently we haven't seen published cases to support that it is occurring. \n\nFor those concerned about antibody tests, tests used to determine whether or not a person was infected with COVID-19 in the past, it is important to note that a lack of antibodies several months after infection might not mean the person has no immunity against the virus and is susceptible to infection again. \n\n_This entry was updated with new information on August 25, 2020_\n",
     "Variation of the answer depending on country of residence": "No\n",
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
     "Topics": [
@@ -4226,13 +4307,22 @@
     "Rollup test 2": [
       "recAX0HsZVM8R4TBw"
     ],
-    "Last edited (simplified)": "2020-07-16T23:59:45.000Z",
-    "Last edited (experts say)": "2020-08-25T17:43:07.000Z",
-    "What our experts say wordcount": 392,
+    "Last edited (simplified)": "2020-08-26T22:40:42.000Z",
+    "Last edited (experts say)": "2020-08-26T22:39:35.000Z",
+    "What our experts say wordcount": 369,
     "Background and context wordcount": 322,
     "Other resources wordcount": 81,
-    "Wordcount": 795,
-    "Last modified": "2020-08-25"
+    "Wordcount": 772,
+    "Last modified": "2020-08-26",
+    "Media Package": [
+      {
+        "id": "atttiaGILN87vt96z",
+        "url": "https://dl.airtable.com/.attachments/47c9aec0f359868c2843c19d03a81d78/bd914a26/Reinfection.zip",
+        "filename": "Reinfection.zip",
+        "size": 1022215,
+        "type": "application/zip"
+      }
+    ]
   },
   {
     "id": "recr3yXfQwXc2jnMv",
@@ -4368,9 +4458,9 @@
   {
     "id": "rec4kQXR2QgCNdlgs",
     "Question": "Can convalescent plasma help treat COVID-19?",
-    "Status": "Update ready for review",
-    "Background and context": "Using convalescent plasma from individuals who were previously infected to treat sick individuals has been in practice for nearly 100 years for several diseases including polio, influenza, and Ebola. Plasma is the liquid portion of the blood and contains disease-specific antibodies that helped fight the infection in a recovered individual, and that may help fight the infection in a newly infected recipient. As a result, convalescent plasma is being explored as an option for prevention and treatment of COVID-19.\n\nIn March 2020, the U.S. Federal Drug Administration (FDA) announced an emergency investigational process to allow doctors to treat serious cases with convalescent plasma. In April 2020, the U.S. FDA announced a National Expanded Access Protocol through the Mayo Clinic that expanded convalescent plasma treatment to include adults at risk of severe disease in addition to adults with severe cases. In August 2020, the U.S. FDA announced an emergency use authorization that authorizes the distribution of COVID-19 convalescent plasma in the U.S. and its administration by healthcare providers to treat hospitalized patients with suspected or laboratory-confirmed COVID-19. Additionally, a number of clinical trials are underway to study the efficacy of convalescent plasma in preventing or treating COVID-19 in a range of cases. \n\nMore research is still necessary to determine if convalescent plasma is effective and safe as a treatment for COVID-19. Scientists are working to identify whether it might help reduce severity of illness, shorten the duration of illness, or even prevent death associated with COVID-19.\n\n_This entry was updated with new information on August 25, 2020_\n",
-    "What our experts say": "When someone has been infected with COVID-19, their body's immune system produces substances called antibodies that work to destroy the virus. These antibodies can usually be found in the blood of people after they recover from the virus, specifically in the liquid portion of the blood called 'plasma.' Because the antibodies in plasma helped the infected person fight off the virus and improve their health, researchers are studying whether or not transferring plasma from patients who have recovered or are almost fully recovered (also called 'convalescent') to patients currently infected with the virus can help their immune systems fight off the infection as well.\n\nThis experimental use of convalescent plasma for COVID-19 is not an approved treatment by the World Health Organization or the U.S. Centers for Disease Control and Prevention, but there is some indication that it might be beneficial in the early stages of a COVID-19 infection. On August 23, 2020, the U.S. Food and Drug Administration (FDA) issued an emergency use authorization (EUA) for investigational convalescent plasma for the treatment of COVID-19 in hospitalized patients, based on their assessment that the known and potential benefits outweigh the known and potential risks. This means COVID-19 convalescent plasma is now regulated as an investigational product, but it not yet U.S. FDA approved for use.\n\nMore research needs to be conducted before scientists reach a consensus about the benefits as well as negative impacts plasma may have in infected patients.\n\n_This entry was updated with new information on August 25, 2020._\n",
+    "Status": "Published",
+    "Background and context": "Using convalescent plasma from previously infected people to treat sick individuals has been in practice for nearly 100 years, for several diseases including polio, influenza, and Ebola. Plasma is the liquid portion of the blood and contains disease-specific antibodies that helped fight the infection in a recovered individual, and that may help fight the infection in a newly infected recipient. As a result, convalescent plasma is being explored as an option for prevention and treatment of COVID-19.\n\nIn March 2020, the U.S. Federal Drug Administration (FDA) announced an emergency investigational process to allow doctors to treat serious cases with convalescent plasma. In April 2020, the U.S. FDA announced a National Expanded Access Protocol through the Mayo Clinic that expanded convalescent plasma treatment to include adults at risk of severe disease in addition to adults with severe cases. In August 2020, the U.S. FDA announced an emergency use authorization that authorizes the distribution of COVID-19 convalescent plasma in the U.S. and its administration by healthcare providers to treat hospitalized patients with suspected or laboratory-confirmed COVID-19. Additionally, a number of clinical trials are underway to study the efficacy of convalescent plasma in preventing or treating COVID-19 in a range of cases. \n\nMore research is still necessary to determine if convalescent plasma is effective and safe as a treatment for COVID-19. Scientists are working to identify whether it might help reduce severity of illness, shorten the duration of illness, or even prevent death associated with COVID-19.\n\n_This entry was updated with new information on August 25, 2020_\n",
+    "What our experts say": "When someone has been infected with COVID-19, their body's immune system produces substances called antibodies that work to destroy the virus. These antibodies can usually be found in someone's blood after they recover from the virus, specifically in a  portion of the blood called 'plasma.' Antibodies in plasma help an infected person fight off the virus, so researchers are studying whether transferring plasma from recovered patients or almost recovered (also called 'convalescent') can help immune systems fight off the infection.\n\nThis experimental use of convalescent plasma for COVID-19 is not an approved treatment by the World Health Organization or the U.S. Centers for Disease Control and Prevention, but there is some indication that it might be beneficial in the early stages of a COVID-19 infection. On August 23, 2020, the U.S. Food and Drug Administration (FDA) issued an emergency use authorization (EUA) for investigational convalescent plasma for the treatment of COVID-19 in hospitalized patients, based on their assessment that the known and potential benefits outweigh the known and potential risks. This means COVID-19 convalescent plasma is now regulated as an investigational product, but it not yet U.S. FDA approved for use.\n\nMore research needs to be conducted before scientists reach a consensus about the benefits as well as negative impacts plasma may have in infected patients.\n\n_This entry was updated with new information on August 25, 2020._\n",
     "Other resources": "1. Convalescent Plasma and COVID-19 ([JAMA](https://jamanetwork.com/journals/jama/fullarticle/2767351))\n2. Recommendations for Investigational COVID-19 Convalescent Plasma ([U.S. FDA](https://www.fda.gov/vaccines-blood-biologics/investigational-new-drug-ind-or-device-exemption-ide-process-cber/recommendations-investigational-covid-19-convalescent-plasma))\n3. FDA Issues Emergency Use Authorization for Convalescent Plasma as Potential Promising COVID–19 Treatment, Another Achievement in Administration’s Fight Against Pandemic ([U.S. FDA](https://www.fda.gov/news-events/press-announcements/fda-issues-emergency-use-authorization-convalescent-plasma-potential-promising-covid-19-treatment))\n4. COVID-19 and Convalescent Plasma: Frequently Asked Questions ([American Society of Hematology](https://www.hematology.org/covid-19/covid-19-and-convalescent-plasma))\n5. Deployment of convalescent plasma for the prevention and treatment of COVID-19 ([Journal of Clinical Investigation](https://www.jci.org/articles/view/138745))\n",
     "DB (French)": [
       "recSXrpaflisq8AhK"
@@ -4397,13 +4487,13 @@
     "Rollup test 2": [
       "recl7MSTxDaQc6AV5"
     ],
-    "Last edited (simplified)": "2020-08-25T19:47:37.000Z",
-    "Last edited (experts say)": "2020-08-25T19:50:04.000Z",
-    "What our experts say wordcount": 248,
-    "Background and context wordcount": 253,
+    "Last edited (simplified)": "2020-08-26T22:49:42.000Z",
+    "Last edited (experts say)": "2020-08-26T22:42:56.000Z",
+    "What our experts say wordcount": 225,
+    "Background and context wordcount": 251,
     "Other resources wordcount": 62,
-    "Wordcount": 563,
-    "Last modified": "2020-08-25"
+    "Wordcount": 538,
+    "Last modified": "2020-08-26"
   },
   {
     "id": "recJQ2D9s79kEHJzP",
@@ -4866,7 +4956,16 @@
     "Background and context wordcount": 192,
     "Other resources wordcount": 79,
     "Wordcount": 528,
-    "Last modified": "2020-07-21"
+    "Last modified": "2020-07-21",
+    "Media Package": [
+      {
+        "id": "att5A80iXdlx6Qqc8",
+        "url": "https://dl.airtable.com/.attachments/cf92a5df348bf47e410a73fcf5693439/70c61934/Contaminatedsurfacesandpets.zip",
+        "filename": "Contaminated surfaces and pets.zip",
+        "size": 746188,
+        "type": "application/zip"
+      }
+    ]
   },
   {
     "id": "rec73GJFaUH4wDGkr",
@@ -5042,13 +5141,22 @@
     "Rollup test 2": [
       "recpBn5QF73T0wGL3"
     ],
-    "Last edited (simplified)": "2020-07-08T05:02:42.000Z",
-    "Last edited (experts say)": "2020-07-08T05:05:53.000Z",
+    "Last edited (simplified)": "2020-08-27T18:54:33.000Z",
+    "Last edited (experts say)": "2020-08-27T18:54:33.000Z",
     "What our experts say wordcount": 314,
     "Background and context wordcount": 191,
     "Other resources wordcount": 91,
     "Wordcount": 596,
-    "Last modified": "2020-07-21"
+    "Last modified": "2020-08-27",
+    "Media Package": [
+      {
+        "id": "atttk4pXOW9Ly7lls",
+        "url": "https://dl.airtable.com/.attachments/f957cc28b9534f8f363852e8f0e22bc4/17922dc2/Smelltests.zip",
+        "filename": "Smell tests.zip",
+        "size": 964220,
+        "type": "application/zip"
+      }
+    ]
   },
   {
     "id": "recXb3N5IK5AseYsP",
@@ -5235,7 +5343,16 @@
     "Background and context wordcount": 170,
     "Other resources wordcount": 26,
     "Wordcount": 465,
-    "Last modified": "2020-07-20"
+    "Last modified": "2020-07-20",
+    "Media Package": [
+      {
+        "id": "attuBR5iRTE7kFL82",
+        "url": "https://dl.airtable.com/.attachments/0b1f201053d913bab1d661c6c5daf413/e88f14c0/ArethereAyurvediccuresforCOVID-19.zip",
+        "filename": "Are there Ayurvedic cures for COVID-19.zip",
+        "size": 455900,
+        "type": "application/zip"
+      }
+    ]
   },
   {
     "id": "recz1YK8aca1AExY3",
@@ -5719,7 +5836,16 @@
     "Background and context wordcount": 114,
     "Other resources wordcount": 19,
     "Wordcount": 286,
-    "Last modified": "2020-07-10"
+    "Last modified": "2020-07-10",
+    "Media Package": [
+      {
+        "id": "attR7s9Ux1jd3HoOT",
+        "url": "https://dl.airtable.com/.attachments/7e6d6d5eadac956813bb660293b4af06/b2a95755/Thermometers.zip",
+        "filename": "Thermometers.zip",
+        "size": 582363,
+        "type": "application/zip"
+      }
+    ]
   },
   {
     "id": "recxA4c1KoE4AtNMa",
@@ -5874,7 +6000,16 @@
     "Background and context wordcount": 247,
     "Other resources wordcount": 54,
     "Wordcount": 632,
-    "Last modified": "2020-07-10"
+    "Last modified": "2020-07-10",
+    "Media Package": [
+      {
+        "id": "attktKG71IQZas42a",
+        "url": "https://dl.airtable.com/.attachments/b67c818acaa5b176b10366349dda6580/a2c60378/Alkalinity.zip",
+        "filename": "Alkalinity.zip",
+        "size": 824462,
+        "type": "application/zip"
+      }
+    ]
   },
   {
     "id": "recUpmaDPvAJXmrvJ",
@@ -6054,7 +6189,16 @@
     "Background and context wordcount": 210,
     "Other resources wordcount": 62,
     "Wordcount": 515,
-    "Last modified": "2020-07-10"
+    "Last modified": "2020-07-10",
+    "Media Package": [
+      {
+        "id": "attAuBOelNM4BPRMj",
+        "url": "https://dl.airtable.com/.attachments/a050ef31b0ce167716f4d8ca10e7dc08/4d896537/Brazilsurgeincases.zip",
+        "filename": "Brazil surge in cases.zip",
+        "size": 884047,
+        "type": "application/zip"
+      }
+    ]
   },
   {
     "id": "recSPXr3HPZ8WQcyO",
@@ -6212,7 +6356,16 @@
     "Background and context wordcount": 115,
     "Other resources wordcount": 154,
     "Wordcount": 559,
-    "Last modified": "2020-07-10"
+    "Last modified": "2020-07-10",
+    "Media Package": [
+      {
+        "id": "attdEVDNDlKqHjrJk",
+        "url": "https://dl.airtable.com/.attachments/0f50950c86ab4038819ad4b613359f98/61b2b000/Dexamethasone.zip",
+        "filename": "Dexamethasone.zip",
+        "size": 751445,
+        "type": "application/zip"
+      }
+    ]
   },
   {
     "id": "rec4vIYYUif72tS5C",
@@ -6366,7 +6519,16 @@
     "Background and context wordcount": 73,
     "Other resources wordcount": 29,
     "Wordcount": 290,
-    "Last modified": "2020-07-10"
+    "Last modified": "2020-07-10",
+    "Media Package": [
+      {
+        "id": "att1irRsh8KxsMIed",
+        "url": "https://dl.airtable.com/.attachments/894accc67d4b6e5647f1e76ed7f85930/f99f7321/IncreaseinZoonoticdiseases.zip",
+        "filename": "Increase in Zoonotic diseases.zip",
+        "size": 952792,
+        "type": "application/zip"
+      }
+    ]
   },
   {
     "id": "recpqhWtstGhdaZXy",
@@ -7342,7 +7504,16 @@
     "Background and context wordcount": 208,
     "Other resources wordcount": 51,
     "Wordcount": 550,
-    "Last modified": "2020-07-03"
+    "Last modified": "2020-07-03",
+    "Media Package": [
+      {
+        "id": "att1Eo5ygouOJiVB5",
+        "url": "https://dl.airtable.com/.attachments/d2a7aa6f3aaf46b5e2dedd571434e1ab/73fa1304/Repurposingmeds.zip",
+        "filename": "Repurposing meds.zip",
+        "size": 975661,
+        "type": "application/zip"
+      }
+    ]
   },
   {
     "id": "recFNFFgJEbL489Op",
@@ -8275,7 +8446,16 @@
     "Background and context wordcount": 128,
     "Other resources wordcount": 57,
     "Wordcount": 398,
-    "Last modified": "2020-06-23"
+    "Last modified": "2020-06-23",
+    "Media Package": [
+      {
+        "id": "attzDh4e3zcOitEL3",
+        "url": "https://dl.airtable.com/.attachments/16d364dbd1865a3a6c07866de2faaa30/0a9209a0/HowaremigrantlaborersinIndiabeingimpactedbythecovid-19pandemic.zip",
+        "filename": "How are migrant laborers in India being impacted by the covid-19 pandemic.zip",
+        "size": 1073302,
+        "type": "application/zip"
+      }
+    ]
   },
   {
     "id": "reciHqvo2ldywmQrQ",
@@ -8510,7 +8690,16 @@
     "Background and context wordcount": 60,
     "Other resources wordcount": 35,
     "Wordcount": 280,
-    "Last modified": "2020-06-22"
+    "Last modified": "2020-06-22",
+    "Media Package": [
+      {
+        "id": "attcXlJJAJq2WaFdj",
+        "url": "https://dl.airtable.com/.attachments/bf08560695a9688fef0809bbe56eea31/714bb006/WhyhasIndiareportedasignificantsurgeincasesofCOVID-19.zip",
+        "filename": "Why has India reported a significant surge in cases of COVID-19.zip",
+        "size": 1286109,
+        "type": "application/zip"
+      }
+    ]
   },
   {
     "id": "recTj4FeSoGfkue5a",
@@ -8668,7 +8857,16 @@
     "Background and context wordcount": 82,
     "Other resources wordcount": 61,
     "Wordcount": 317,
-    "Last modified": "2020-06-22"
+    "Last modified": "2020-06-22",
+    "Media Package": [
+      {
+        "id": "attd1PTfv5EYK9xNk",
+        "url": "https://dl.airtable.com/.attachments/4330ef98a144599d91d97a731ba11909/f829af04/Canteargashelpspreadcovid-19.zip",
+        "filename": "Can tear gas help spread covid-19.zip",
+        "size": 796472,
+        "type": "application/zip"
+      }
+    ]
   },
   {
     "id": "rec74MaH5G2VOowuC",
@@ -9403,13 +9601,60 @@
   },
   {
     "id": "rec3gzGDZLC9DoYmq",
-    "Question": "Are we only immune for three months?",
+    "Question": "What do we know so far about COVID-19 and immunity?",
+    "Status": "Ready for Review",
+    "Category": "Immunity",
+    "Subcategory": "On: COVID-19 & immunity",
+    "Background and context": "There are two main parts to the body's immune system: the innate immune system and the adaptive immune system. The innate immune system is present since birth and responds first when it comes across a virus like SARS-CoV-2, the novel coronavirus that causes COVID-19. This part of the immune system tries to prevent the virus from spreading and reproducing in our bodies, and from moving around in our bodies. The innate immune system is made up of several types of defenses, including the skin and body openings (like the mouth and nose); different white blood cells to defend our bodies from pathogens; and different substances in bodily fluids and the blood to try and stop the virus from reproducing. If the innate immune system is unable to kill the virus, the adaptive immune system is activated to defend the body.\n\nThe adaptive immune response, also called the acquired immune system, consists of white blood cells: B cells and T cells. B cells create antibodies - small proteins that attach to unique parts of each pathogen called 'antigens'. Meanwhile, T cells try to kill virus-infected cells like an army fighting off an invader. Some T cells also help B cells make antibodies, while others are busy working to stop the virus from reproducing in your body and spreading to different parts of your body. \n\nAnother key function of the adaptive immune response is immune memory. After the initial or primary response to a virus, the body mounts a secondary response, which involves a subset of B-cells and T-cells (known as memory cells) that help to create a longer term memory of the virus. This helps launch a faster defense in the event of a future infection. \n\nThere are multiple early-stage studies which have reported strong memory T-cell responses to the virus that causes COVID-19, which suggests that infection may prevent against recurrent, severe episodes of COVID-19. Researchers are still studying how long this memory-based immunity lasts and how strong it is in defending against COVID-19 infection in the future.\n",
+    "What our experts say": "The evidence around COVID-19 and immunity is rapidly evolving. Based on what we know so far, COVID-19 patients develop immunity that protects them from reinfection for at least 3 months, if not longer. Given the lack of long-term studies and the novel nature of the coronavirus, however, it is hard to assess how long immunity persists in the population. \n\nA newly published study in Nature also found that men, particularly older men over the age of 60, may produce a weaker immune response to COVID-19 and may be twice as likely to get severely sick or die in comparison to women in the same age group. These results are not entirely surprising because women do typically produce stronger immune responses to other illnesses compared to men. Public health experts believe this may mean that men need to rely more on vaccination rather than natural infection to protect against recurrent infections.\n\nAntibodies typically wane after an infection, depending on the type and nature of infection, and there is evidence to suggest COVID-19 behaves very similarly in this regard. In August 2020, the New York Times reported the first documented case of re-infection with COVID-19. A 33-year-old man, who was first diagnosed with COVID-19 on March 26, 2020, had no detectable antibodies after his first infection. However, on August 15, 2020, he subsequently tested positive again with the coronavirus and researchers confirmed that this test result was due to a new infection rather than a prolonged previous infection. There has been no other confirmed case of re-infection, and the research is still uncertain regarding how common reinfection might be. In this case, the patient developed a mild infection the first time, and he was completely asymptomatic during his second infection, indicating that the immune system did respond to the virus. \n\nHowever, antibodies are only one component of a complex immune response. Antibodies are effective in preventing a future infection, but cytotoxic (also known as killer) T-cells can find and kill an infection that is already in place. Memory B-cells help produce more antibodies in the event of a future infection. Based on the current evidence thus far, we know that if the initial infection and immune response is strong, immunity will typically last longer: re-infection might still be possible, but it will be far less likely to result in a severe infection.\n",
+    "Glossary Terms": [
+      "recaXXF6coF4J2EUz",
+      "rectkO1d0FhUHQ0Of",
+      "recmajcAORyuqhZPc"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "immune system",
+      "immunity",
+      "herd immunity"
+    ],
+    "Other resources": "1. Robust T cell immunity in convalescent individuals with asymptomatic or mild COVID-19 ([Cell](https://www.cell.com/action/showPdf?pii=S0092-8674%2820%2931008-4)) \n2. Sex differences in immune responses that underlie COVID-19 disease outcomes ([Nature](https://www.nature.com/articles/s41586-020-2700-3))\n3. Detection, prevalence, and duration of humoral responses to SARS-CoV-2 under conditions of limited population exposure. ([medRxiv](https://www.medrxiv.org/content/10.1101/2020.08.14.20174490v1)) \n4. Evidence for sustained mucosal and systemic antibody responses to SARS-CoV-2 antigens in COVID-19 patients ([medRxiv](https://www.medrxiv.org/content/10.1101/2020.08.01.20166553v1))\n5. \n",
+    "Last edited (simplified)": "2020-08-27T17:21:54.000Z",
+    "Last edited (experts say)": "2020-08-27T17:20:06.000Z",
+    "What our experts say wordcount": 389,
+    "Background and context wordcount": 336,
+    "Other resources wordcount": 59,
+    "Wordcount": 784,
+    "Last modified": "2020-08-27"
+  },
+  {
+    "id": "recxgnA1fpRAEFEEE",
+    "Question": "If you can get COVID-19 through your nose and mouth, why not your ears?",
     "What our experts say wordcount": 0,
-    "Background and context wordcount": 90,
+    "Background and context wordcount": 0,
     "Other resources wordcount": 0,
-    "Wordcount": 90,
-    "Background and context": "In August 2020, the New York Times reported the first documented case of re-infection with COVID-19. A 33-year-old man, who was first diagnosed with COVID-19 on March 26, 2020, had no detectable antibodies after his first infection. However, on August 15, 2020, he subsequently tested positive again with the coronavirus and researchers confirmed that this test result was due to a new infection rather than a prolonged previous infection. There has been no other confirmed case of re-infection, and the research is still uncertain regarding how common reinfection might be.\n\n\n",
-    "Last edited (simplified)": "2020-08-26T19:03:45.000Z",
-    "Last modified": "2020-08-26"
+    "Wordcount": 0,
+    "Status": "In progress",
+    "Glossary Terms": [
+      "recFMi3UQAPSUjsl4"
+    ],
+    "Last modified": "2020-08-27",
+    "Country question was sourced from": [
+      "USA"
+    ],
+    "Source of the question": [
+      "School"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Category": "Prevention, Infection",
+    "Subcategory": "On: COVID-19 & ears",
+    "Topics": [
+      "prevention",
+      "infection",
+      "nasal cavity",
+      "respiratory system"
+    ]
   }
 ]
