@@ -5,7 +5,7 @@ lang: fr
 <html>
 {% include head.html %}
 
-<body>
+<body {% if page.slug == '/' %}class="front"{% endif %}>
   {% if page.slug == '/' %}
     {% include message.html %}
   {% endif %}

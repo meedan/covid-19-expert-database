@@ -1,7 +1,11 @@
 <!-- Path set in header.html  -->
 <nav>
     <a href="{{ path }}about">{{ site.data.ui.t[page.lang].menu.about }}</a>
-    <a href="{{ path }}glossary">{{ site.data.ui.t[page.lang].menu.glossary }}</a>
+    {% if page.lang == 'en-US' %}
+        <a href="/blog">{{ site.data.ui.t[page.lang].menu.blog }}</a>
+    {% endif %}
+    <a href="{{ path }}glossary">{{ site.data.ui.t[page.lang].menu.glossary }}
+    </a>
     {% if page.slug != 'entry' %}
         {% include language_switcher.html %}
     {% endif %}

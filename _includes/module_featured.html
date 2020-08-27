@@ -8,7 +8,7 @@
                 <div class="cap">Featured</div>
                 <h4>{{ story.title }}</h4>
                 <div class="description">
-                    {{ story.body | markdownify | truncate: 120 }}
+                    {{ story.body | truncate: 220 }}
                 </div>
                 {% if story.alt_date %}
                     {% assign published_on = story.alt_date %}

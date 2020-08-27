@@ -98,8 +98,14 @@
         // margin-top: 0;
         font-size: 1rem;
         line-height: 1.4;
+    }    
+}
+
+.post .image-container {
+    display: block;
+    img {
+        width: 100%;
     }
-    
 }
 
 .post .post-meta {

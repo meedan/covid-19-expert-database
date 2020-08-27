@@ -5,17 +5,25 @@ lang: en-US
 <html lang="{{ page.lang }}">
 {% include head.html %}
 
-<body>
+<body {% if page.slug == '/' %}class="front"{% endif %}>
   {% if page.slug == '/' %}
     {% include message.html %}
   {% endif %}
   {% include header.html %}
   <div class="content-wrapper">
     {% if page.description %}
+      {% if page.slug == '/' %}
+      <div class="lead-wrapper">
+      {% endif %}  
       <h2 class="lead">{{ page.description }}</h2>
+      {% if page.slug == '/' %}
+        {% include ask-a-question.html %}
+      </div>
+      {% endif %}
     {% endif %}
     {% if page.slug == '/' %}
       {% include module_search.html %}
+      {% include ask-a-question-promo.html %}
     {% endif %}
     {% if page.body['en-US'] %}
       <div class="content">

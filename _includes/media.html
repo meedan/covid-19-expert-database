@@ -7,8 +7,17 @@
 {% endif %}
 
 
+
+
 {% if media %}
-    <h3 class="section-title">{{ site.data.ui.t[page.lang].entry.media }} ({{ media.size }})</h3>
+    <div class="section-title">
+        <h3 class="section-title">{{ site.data.ui.t[page.lang].entry.media }} ({{ media.size }})</h3>
+        {% if page['Media Package'] %}
+            {% for package in page['Media Package'] %}
+                <a class="download" href="{{ package.url }}">Download all images</a>
+            {% endfor %}
+        {% endif %}
+    </div>
     <div class="media">
     {% for image in media %}
         <a href="{{ image.url }}" title="Download {{ image.filename | trim }}">

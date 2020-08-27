@@ -147,6 +147,12 @@
     }
 }
 
+.entry .section-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
 .entry .media {
     display: grid;
     grid-template-columns: repeat(2, 1fr);

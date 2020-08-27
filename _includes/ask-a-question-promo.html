@@ -1,0 +1,16 @@
+{% if page.lang != 'en-US' %}
+    {% assign path = page.lang | append: '/' | prepend: '/' %}
+{% else %}
+    {% assign path = '' | prepend: '/' %}
+{% endif %}
+<a href="{{ path }}ask-a-question" class="promo-wrapper">
+    <div class="promo-copy">
+        {{ site.data.ui.t[page.lang].ask-a-question-promo }}
+    </div>
+    <div class="promo-arrow">
+        <img src="/images/arrow.png" />
+    </div>
+    <div class="button-wrapper">
+        <span class="button">{{ site.data.ui.t[page.lang].ask-a-question-promo-button }} →</span>
+    </div>
+</a>

@@ -4,6 +4,9 @@
     grid-column-gap: var(--space-4);
     grid-row-gap: var(--space-1);
     margin-top: var(--space-4);
+    @include responsive('min-width: #{$width-tablet}') {
+        margin-top: var(--space-1);
+    }
 }
 
 .searchbar {
