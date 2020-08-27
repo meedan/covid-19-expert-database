@@ -9,11 +9,7 @@ lang: en-US
   {% if page.slug == '/' %}
     {% include message.html %}
   {% endif %}
-  {% if page.slug == '/' %}
-    {% include header.html theme="dark" %}
-  {% else %}
-    {% include header.html %}
-  {% endif %}
+  {% include header.html %}
   <div class="content-wrapper">
     {% if page.description %}
       {% if page.slug == '/' %}

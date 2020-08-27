@@ -9631,10 +9631,10 @@
   {
     "id": "recxgnA1fpRAEFEEE",
     "Question": "If you can get COVID-19 through your nose and mouth, why not your ears?",
-    "What our experts say wordcount": 0,
-    "Background and context wordcount": 0,
+    "What our experts say wordcount": 221,
+    "Background and context wordcount": 29,
     "Other resources wordcount": 0,
-    "Wordcount": 0,
+    "Wordcount": 250,
     "Status": "In progress",
     "Glossary Terms": [
       "recFMi3UQAPSUjsl4"
@@ -9655,6 +9655,10 @@
       "infection",
       "nasal cavity",
       "respiratory system"
-    ]
+    ],
+    "What our experts say": "Getting infected with COVID-19 through the ear is not as likely, compared to through the nose, mouth, and eyes. Experts think this is because the surface of the outer ear canal is more like the skin on the rest of our bodies, acting as a protective barrier that makes it more difficult for the SARS-CoV-2 virus causing COVID-19 to enter. In contrast, the tissues lining the surface of the nose, mouth, and eyes are mucous membranes (or a thin lining of cells that secrete mucus), which are an easier way for the SARS-CoV-2 virus causing COVID-19 to enter.\n\nLike the nose, mouth, and eyes, the ears are connected to the upper part of the throat and respiratory tract. Doctors and researchers are currently looking into the risks of getting infected with COVID-19 when patients have open ear injuries or are getting invasive ear procedures (ex. surgery).\n\nFor the average person, the ears remain a less likely pathway for getting COVID-19 and there are currently not specific recommendations for preventing transmission through the ears.  Preventative public health recommendations remain focused on face coverings over the nose and mouth, eye protection for people who may be at higher risk of exposure (ex. frontline workers), and hand hygiene (ex. avoid touching the face, clean hands with soap and water or alcohol-based sanitizers), and physical distancing.\n",
+    "Last edited (experts say)": "2020-08-27T19:31:24.000Z",
+    "Background and context": "Both children and adults have wondered about why it is okay to leave the ears uncovered when wearing face coverings to prevent the transmission of COVID-19. This is beca\n",
+    "Last edited (simplified)": "2020-08-27T19:32:56.000Z"
   }
 ]

@@ -5,11 +5,11 @@ lang: fr
 <html>
 {% include head.html %}
 
-<body>
+<body {% if page.slug == '/' %}class="front"{% endif %}>
   {% if page.slug == '/' %}
     {% include message.html %}
   {% endif %}
-  {% include header.html theme="dark" %}
+  {% include header.html %}
   <div class="content-wrapper">
     {% if page.description-fr %}
       <h2 class="lead">{{ page.description-fr }}</h2>

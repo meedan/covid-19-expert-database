@@ -5,14 +5,21 @@ lang: hi
 <html>
 {% include head.html %}
 
-<body class="hi">
+<body class="hi{% if page.slug == '/' %} front{% endif %}">
   {% if page.slug == '/' %}
     {% include message.html %}
   {% endif %}
-  {% include header.html theme="dark" %}
+  {% include header.html %}
   <div class="content-wrapper">
     {% if page.description-hi %}
+      {% if page.slug == '/' %}
+      <div class="lead-wrapper">
+      {% endif %}
       <h2 class="lead">{{ page.description-hi }}</h2>
+      {% if page.slug == '/' %}
+        {% include ask-a-question.html %}
+      </div>
+      {% endif %}
     {% endif %}
     {% if page.slug == '/' %}
       {% include module_search.html %}

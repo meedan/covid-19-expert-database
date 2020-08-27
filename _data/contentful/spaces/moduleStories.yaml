@@ -3,11 +3,83 @@ moduleStories:
 - sys:
     id: 7s8B9FgTZA4NcTCAz2F5DX
     created_at: !ruby/object:DateTime 2020-03-10 00:51:48.166000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-24 19:01:12.832000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-26 19:31:08.486000000 Z
     content_type_id: moduleStories
-    revision: 44
+    revision: 45
   title: Blog
   stories:
+  - sys:
+      id: 56gqFfBfHhQL3HKHB49AR2
+      created_at: !ruby/object:DateTime 2020-08-25 02:35:52.817000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-26 19:03:31.208000000 Z
+      content_type_id: story
+      revision: 1
+    title: 4 Things We Learned from RightsCon 2020
+    slug: 4-things-we-learned-from-rightscon-2020
+    topic:
+    - sys:
+        id: 2JV51Hja1BxcyGdNP5VID3
+    lead_image:
+      sys:
+        id: 3LDNJKkf0lbkAuzYbIIiUA
+        created_at: !ruby/object:DateTime 2020-08-26 19:02:22.604000000 Z
+        updated_at: !ruby/object:DateTime 2020-08-26 19:03:29.126000000 Z
+      title: 4 Things We Learned from RightsCon 2020
+      description: 
+      url: "//images.ctfassets.net/g118h5yoccvd/3LDNJKkf0lbkAuzYbIIiUA/2c6bdb3618e702221b2eaca5a30c672e/Meedan_RightsCon_2020.jpg"
+    body: "__The fields of public health and human rights are inextricably linked.__
+      Increasingly, access to information is a mediator of access to health. The important
+      role that digital rights plays in protecting and promoting the right to health
+      was particularly pertinent this year, with panels addressing health data privacy,
+      access to medicines, mental health and digital first responders, and gendered
+      misinformation online. It is important to critically examine the pathways through
+      which any individual or community is able to encounter health information digitally,
+      and the barriers, limitations and challenges brought about by limited localization,
+      zero-rated mobile data plans, inconsistent or obtrusive content removals and
+      moderation decisions, especially through COVID-19, which has limited the ability
+      of seeking health care in-person.\n\n— Nat Gyenes, Program Director, Digital
+      Health Lab\n\n__We need to keep data about Latin America's activist memory safe.__
+      During this pandemic-infused reality I focused my attention on panels that were
+      contextualized for Latin America on the subjects of censorship, content moderation
+      and trust. I intended to create a mental landscape of shared concerns in the
+      region, such as COVID-19 data colonialism practices and the importance of initiatives
+      that take into account the country's data governance and independence during
+      these times instead of readily sharing models that take national data into international
+      service providers such as Amazon. \n\nFrom the learnings and context from the
+      community came the [Recordkepers of the Resistance project](https://meedan.com/blog/preserving-latin-american-activist-history-on-social-media/),
+      which aims to initially map activist content in Latin America related to feminist
+      agendas, gender representation, race, sexual diversity and freedom of expression
+      that were removed from the main corporate social media platforms. Collecting
+      these data as a form of hypothesis testing is the first step. The future objective
+      is to publicize this issue with materials aimed at activists in Spanish and
+      Portuguese, uniting these issues in a coalition of organizations, sharing safe
+      archiving and memory conservation practices and creating a Code of Ethics for
+      archival activism in social networks. \n\n— Isabella Barroso, Program Manager,
+      Latin America\n\n\n__Tech solutionism is still with us.__ The temptation to
+      answer problems with software is often well-meaning, but the people who will
+      be most affected are not always part of the design process. There was a discussion
+      about health passports during pandemics. Reducing harm to vulnerable groups
+      means any implementation would have to be so narrow in scope and so well-regulated
+      that skepticism is warranted. I was encouraged by the sessions that were led
+      by mental health researchers, because while they were talking about apps to
+      address social issues, they started with recommending existing non–tech standards
+      of care and the need to fill gaps in our understanding of mental health. A panel
+      on gender-based violence, and a panel on trauma mitigation both addressed myths
+      surrounding memory and resilience after experiencing horrible things. Mental
+      health experts should be a core part of software design for human rights work.\n\n—
+      Karen Reilly, Manager, Technology Partnerships\t\n\n__COVID-19 isn’t a black
+      swan—it’s a canary in the coal mine for human rights abuses.__ There was a distinct
+      sense from the sessions about the stakes of this moment — at least year’s RightsCon,
+      we were very keen to bring health to the conversation around rights, and the
+      new context of this pandemic has made it absolutely a top priority. It was encouraging
+      to see how people recognized that COVID-19 intersected with key human rights
+      issues, such as content moderation and free expression, platform governance
+      and responsibility, and the ongoing repression of activists and journalists.
+      It made it really clear to me that the global trauma of [COVID-19 isn’t a black
+      swan but rather a canary in a coal mine](https://meedan.com/blog/this-pandemic-isnt-a-swan-its-a-canary/),
+      revealing the inherent weaknesses, fissures and dangers of our global digital
+      society.\n\n— An Xiao Mina, Operations\n"
+    alt_date: !ruby/object:DateTime 2020-08-26 00:00:00.000000000 Z
   - sys:
       id: Yiprz4bUNkkBGgE4ouLeC
       created_at: !ruby/object:DateTime 2020-08-17 21:00:44.979000000 Z
@@ -297,106 +369,6 @@ moduleStories:
     - sys:
         id: 4MK93CSrpmc3tFyE5MYEeh
     alt_date: !ruby/object:DateTime 2020-08-06 00:00:00.000000000 Z
-  - sys:
-      id: 1j7pukiiIJLqM6BkVPEjes
-      created_at: !ruby/object:DateTime 2020-08-06 16:10:13.557000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-07 20:46:00.685000000 Z
-      content_type_id: story
-      revision: 16
-    title: Training the next generation of journalists to field dangerous claims
-    slug: training-the-next-workforce-to-field-dangerous-claims
-    topic:
-    - sys:
-        id: 4F5o79SqSBBaGKrc0IOhVe
-    lead_image:
-      sys:
-        id: 1qRNXY3kCrIJ47gtGnGtsn
-        created_at: !ruby/object:DateTime 2020-08-06 19:16:16.345000000 Z
-        updated_at: !ruby/object:DateTime 2020-08-06 19:19:18.822000000 Z
-      title: Training the next workforce to field dangerous claims
-      description: 
-      url: "//images.ctfassets.net/g118h5yoccvd/1qRNXY3kCrIJ47gtGnGtsn/77514c4b0bfdc694983edb17e2039e20/meedan_blog_training.png"
-    body: "In the 1300s during the Black Plague, before scientists could diagnose
-      the cause of the disease (a bacterium now called Yersinia pestis), [religious
-      cures, potions and bloodletting](https://www.ancient.eu/article/1540/medieval-cures-for-the-black-death/)
-      filled anxiety-inducing gaps in information that contemporary medical knowledge
-      could not. Generations later, during the Spanish Flu, before its true biology
-      was discovered, even[ many scientists](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2118275/)
-      believed wrongly that the disease came from the same bacterium that caused illnesses
-      like anthrax, cholera, and plague. Today, in the throes of this pandemic, we
-      see similar misinformation surrounding COVID-19 treatments, cures and preventions,
-      all spreading across the internet before they’ve been verified or refuted by
-      good science. \n\nIn each of these cases, the need or desire to know a truth
-      outpaces the discovery of that truth *(\"How much should we be testing? How
-      did the virus spread? What are the symptoms? What are the cures?\")*. So people
-      make stuff up. They latch onto theories, maybe because bad information and hasty
-      news is more comforting than no information at all. It's a problem we might
-      call [“midinformation,\"](https://meedan.com/blog/missing-information-not-just-misinformation-is-part-of-the-problem/),
-      or informational ambiguity based on scant or conflicting evidence, often about
-      emerging scientific knowledge.\n\nThere is a growing global need for a generation
-      of journalists who can help the public root through the noise of the internet
-      and get to the bottom of the chaos. More than just a baseline need for journalism
-      and high quality reporting (which is equally critical and proactive), the failures
-      of governments, platforms and information leaders during COVID-19, coupled with
-      the public's growing skepticism of science, call for more of us to be able to
-      spot midinformation and misinformation, discern its different manifestations,
-      debunk claims online, and spread the message. We are hoping to address these
-      challenges through Check U, a new vertical at Meedan that trains university
-      students to spot and verify misleading information. \n\nThis is important now
-      more than ever. Waning public trust in authorities, coupled with an evolving
-      disease in which research and science changes daily, is predictably sowing confusion,
-      and opening gaps for bad actors to manipulate online narratives. We’re seeing
-      this virtually everywhere. \n\n- In the Philippines, top leaders [spread misinformation](https://verafiles.org/articles/vera-files-fact-check-manila-vice-mayor-lacuna-demos-wrong-w)
-      about how to properly wear masks in public\n\n- In India, health misinformation
-      is [intertwined](https://meedan.com/reports/coronavirus-misinformation-in-india-is-not-limited-to-health-misinformation/)
-      with existing divided narratives between Hindus and Muslims and people are confused
-      by false information about ayurvedic “cures”\n\n- Governments around the world[
-      are not communicating health information](https://www.coe.int/en/web/portal/covid-19-minority-languages)
-      in minority languages\n\n- In Tribal regions in the United States and Canada,
-      government guidelines are [widely out of touch](https://www.hrw.org/news/2020/06/09/systemic-inequities-increase-covid-19-risk-indigenous-people-canada)
-      with the reality of indigenous, community-centered living\n\nThe gaps are slightly
-      different in every region, but the trend is observable across language, demographics
-      and other divides: people are in need of high quality health information, not
-      just because of the general and obvious importance of being able to discern
-      what’s true from what’s false, but because knowing things about health [leads
-      to doing things about health](https://www.tandfonline.com/doi/abs/10.1080/10810730.2013.768727).
-      Literally. Knowing the ground truth about vaccine safety [can lead to](https://www.sciencedirect.com/science/article/pii/S0264410X1500506X)
-      getting vaccinated. Knowing the public health benefits of mask wearing [has
-      been shown](https://www.clevelandfed.org/en/newsroom-and-events/publications/economic-commentary/2020-economic-commentaries/ec-202020-survey-results-on-mask-wearing-behaviors-and-beliefs.aspx)
-      to contribute to people wearing masks. If your information is wrong, unrealistic,
-      misleading, or inaccessible because of language or literacy, then the things
-      you’ll do with that information (or lack thereof it) [may be](https://www.healthypeople.gov/2020/topics-objectives/topic/social-determinants-health/interventions-resources/health-literacy)
-      incorrect and unsafe. Conspiracy theories about vaccination lead people I know
-      not only to not vaccinate, but to also spread those conspiracy theories so that
-      others don’t vaccinate either.\n\nThrough [Credibility Coalition](https://credibilitycoalition.org/credcatalog/),
-      our joint program with Hacks/Hackers, we’re launching a Google News Initiative-supported
-      series of Fall 2020 training programs in which students from Germany, Yemen,
-      Syria, Cairo, the United States and other places learn critical debunking skills
-      amid a century-defining pandemic. All together, we’ll be training more than
-      1,100 students from 14 universities. To this end, we’re doing the following:\n\n-
-      Developing a syllabus with Syracuse University’s [Jennifer Grygiel](https://newhouse.syr.edu/faculty-staff/jennifer-grygiel)
-      \n\n- Walking students through sourcing, screening, categorizing and debunking
-      claims\n\n- Using [Check](https://meedan.com/check), Meedan’s online verification
-      tool, as a collaborative education platform on which to train and evaluate students
-      \n\nToday’s online environment exacerbates the spread of all forms of misleading
-      content by amplifying false or understudied theories, leading to poor health
-      outcomes worldwide. The internet's decentralization of information, and ensuing
-      decentralization of information authority triggers a big chunk of the spread
-      of what's now known as [misinfodemics](https://www.theatlantic.com/technology/archive/2018/08/how-misinfodemics-spread-disease/568921/).
-      It also calls for solutions that are as powerful and scaleable as the problem
-      itself.\n\nThis is just the beginning of our efforts to educate professionals
-      and students about responsible ways to debunk claims related to topics as critical
-      as our own health and well-being. It builds off many years of Meedan experience
-      in this realm, from our initial collaboration with the University of Hong Kong’s
-      Cyber Verification Lab to UC Berkeley’s Human Rights Center to our ONA Challenge
-      Grant project with the University of Nevada Reno’s Reynolds School of Journalism.
-      These lessons have taught us that the act of fact-checking and verification
-      is one of the best tools for learning about these processes, and we’re excited
-      to formalize this at a new level."
-    words_by:
-    - sys:
-        id: 5duhLnruShUUo31a7TR4vd
-    alt_date: !ruby/object:DateTime 2020-08-10 00:00:00.000000000 Z
 - sys:
     id: 4hDOrsmcTmB60zhqrzF6Xp
     created_at: !ruby/object:DateTime 2020-07-30 20:31:01.387000000 Z
