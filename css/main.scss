@@ -77,8 +77,8 @@
     }
 
     --font-weight: 560;
-    --font-size: 1.556rem;
-    --font-line-height: 2.111rem;
+    --font-size: 1.111rem;
+    --font-line-height: 1.667rem;
     --font-family-hindi: 'Mukta', sans-serif;
 
     --page-padding-horizontal: 3.75rem;
@@ -418,8 +418,8 @@ body.hi header nav {
 }
 
 .content-wrapper h3 {
-    font-size: 2rem;
-    line-height: 2.875rem;
+    font-size: 1.556rem;
+    line-height: 2rem;
     font-weight: var(--font-weight);
     color: var(--edbGreen);
     margin: 1.188rem auto 0 0;
@@ -438,6 +438,9 @@ body.hi header nav {
 .content-wrapper ol {
     font-size: var(--font-size);
     line-height: var(--font-line-height);
+}
+
+.content-wrapper p:not(:first-child) {
     margin: 1.188rem auto 0 0;
 }
 
