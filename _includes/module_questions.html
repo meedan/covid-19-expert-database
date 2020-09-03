@@ -6,17 +6,17 @@
 </div>
 {% if page.lang == 'en-US' %}
     {% assign questions = site.data.covid19.questions
-        | sort: 'Last modified'
+        | sort: 'Last modified manual'
         | reverse
     %}
 {% elsif page.lang == 'fr' %}
     {% assign questions = site.data.covid19.questions-fr
-        | sort: 'Last modified'
+        | sort: 'Last modified manual'
         | reverse
     %}
 {% elsif page.lang == 'hi' %}
     {% assign questions = site.data.covid19.questions-hi
-        | sort: 'Last modified'
+        | sort: 'Last modified manual'
         | reverse
     %}
 {% endif %}
@@ -26,7 +26,7 @@
     {% if page.lang == 'en-US' %}
         {% assign q = question.Question %}
         {% assign url = question.Question | sanitize_filename | prepend: '/questions/' %}
-        {% assign last_modified = question['Last modified'] | convert_to_date | date: "%-d %B %Y" %}
+        {% assign last_modified = question['Last modified manual'] | convert_to_date | date: "%-d %B %Y" %}
     {% elsif page.lang == 'fr' %}
         {% assign q = question.Question %}
         {% assign url = question['English Question'] | sanitize_filename | prepend: '/fr/questions/' %}
