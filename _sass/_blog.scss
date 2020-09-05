@@ -53,6 +53,7 @@
 }
 
 .blog .featured .description {
+    line-height: 1.444rem;
     padding-right: 20%;
     @include responsive('min-width: #{$width-tablet}') {
         padding-right: 30%;
@@ -92,12 +93,6 @@
     cursor: pointer;
     margin-bottom: var(--space-1);
     color: var(--blackInk);
-}
-
-.post .description {
-    // margin-top: 0;
-    font-size: 1rem;
-    line-height: 1.333rem;
 }
 
 .post .image-container {
