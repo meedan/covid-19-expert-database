@@ -44,8 +44,8 @@
             </span>
         </span>` : '';
 
-        const last_modified = 'Last modified' in hit ?
-            new Date(hit['Last modified'])
+        const last_modified = 'Last modified manual' in hit ?
+            new Date(hit['Last modified manual'])
                 .toLocaleDateString(undefined, { weekday: undefined, year: 'numeric', month: 'long', day: 'numeric' })
             : '';
 

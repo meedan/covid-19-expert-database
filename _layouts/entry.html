@@ -16,7 +16,7 @@ record_type: question
         </div>
         <h2>{{ page['Question'] }}</h2>
         <div class="meta">
-            <div>{{ site.data.ui.t[page.lang].entry.last-modified-on }} {{ page['Last modified'] | convert_to_date | date: "%-d %B %Y" }}</div>
+            <div>{{ site.data.ui.t[page.lang].entry.last-modified-on }} {{ page['Last modified manual'] | convert_to_date | date: "%-d %B %Y" }}</div>
         </div>
     </div>
     <div class="content-wrapper">
