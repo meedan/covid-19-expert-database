@@ -523,7 +523,7 @@
   {
     "id": "recufj0t4myAoM7yM",
     "Question": "How many days after exposure should one be tested to yield the most accurate results, and with which test?",
-    "Status": "Update ready for review",
+    "Status": "Published",
     "Category": "Testing",
     "Subcategory": "On: COVID-19 & testing accuracy",
     "Source of the question": [
@@ -534,7 +534,7 @@
       "India"
     ],
     "Background and context": "There have been stories circulating in the media about how some people initially tested negative for COVID-19, only to test positive a couple days later. This has raised questions about what types of testing are most accurate, and when (during the course of an infection) is the most accurate time to test someone.\n\nThere are currently two main types: 1) diagnostic tests (including molecular tests and antigen tests), also known as viral tests, which indicate whether someone has an active infection; and 2) antibody tests, also known as serology tests, which indicate whether someone was likely to have had a COVID-19 infection in the past. An antibody test is not used to detect whether someone has an active COVID-19 infection, in part because it can take 1–3 weeks after infection for the immune system to produce antibodies.\n\nMolecular tests are considered more accurate, in general, than the newer antigen tests for diagnosing the virus. Antigen tests detect specific proteins on the surface of the virus that causes COVID-19, and are more likely to miss an active infection compared to molecular tests. Antigen tests require repeat testing to confirm negative test results.\n\nWhile molecular tests are currently considered the most reliable way to detect if someone has an active infection, there can be differences among the different types of molecular tests. For example, newer rapid diagnostic tests can provide results in less than an hour, compared to how most RT-PCR molecular tests provide results in a few hours to a few days. These rapid diagnostic tests are currently not as accurate, however, and researchers are investigating potential issues with the accuracy of rapid diagnostic tests.\n",
-    "What our experts say": "Research suggests that diagnostic testing is more accurate a few days after symptoms start, or around a week after exposure to a person who is infected with COVID-19. Testing more than once can confirm negative results when appropriate, and when tests are available. During the wait for test results, it is essential for people who suspect they have COVID-19, or may have been exposed to COVID-19, to take precautions and self-isolate when possible. It is also important to consider what type of test is being used to check for a COVID-19 infection, as this will likely impact how accurate the test is and how long it will take to get results.\n\nMolecular tests are among the most accurate diagnostic tests currently available for detecting whether someone has an active COVID-19 infection. Molecular tests use methods such as RT-PCR (reverse transcription polymerase chain reaction) to detect genetic material from SARS-CoV-2, the virus that causes COVID-19, in respiratory samples such as nose and throat swabs. As with any type of testing, it is possible to have inaccurate results with molecular tests. People tend to be most concerned about the consequences of a test saying that someone does not have an active infection, when in reality they do have an active infection (known as a false negative). A false negative could make it difficult to reduce COVID-19 transmission, if the infected individual believes they are not infected and continues to expose others to infection. Additionally, a false negative could make it difficult to evaluate someone who may need treatment for COVID-19.\n\nMolecular tests have a higher risk of false negatives in the earliest days after exposure and symptom onset, according to an August 2020 publication in the Annals of Internal Medicine by researchers at John Hopkins University who reviewed 7 published studies on the performance of RT-PCR molecular tests. The researchers found that on average, the false negative rate was lowest around day 8 of an infection or 3 days after symptom onset (symptom onset is typically several days after an infection starts), with the false negative rate rising again as the infection continues. False negative test results in the early stages of infection are concerning, because other research (including studies published in Nature and the American Journal of Pathology) have found that COVID-19 patients can be most infectious to others in the early days of infection, when test results may be more likely to come back as false negatives.\n\nSome testing policies recommend that people get tested again to confirm a negative result. Repeat testing to confirm negative results can be particularly important for people who may interact with high-risk populations (ex. healthcare workers, caretakers), people who may interact with many others outside of their household (ex. an employee going back to the office, a student returning to in-person classes), and people who may need medical care for COVID-19 (e.g. elderly patients with underlying conditions).\n\nMolecular tests are a relatively accurate type of diagnostic testing, and they have a lower chance of false negatives when conducted a few days after symptoms start, or approximately a week after exposure. A lower chance of false negatives does not mean there is no chance of inaccurate test results, so repeat testing may be recommended to confirm test results in certain situations. With all the ongoing research and development work on COVID-19 tests, pandemic testing guidelines may continue to evolve.\n",
+    "What our experts say": "Research suggests that diagnostic testing is more accurate a few days after symptoms start, or around a week after exposure to a person who is infected with COVID-19. Testing more than once can confirm negative results, when appropriate, and when tests are available. \n\nDuring the wait for test results, it is essential for people who suspect they have COVID-19 or have been exposed to COVID-19, to take precautions and self-isolate when possible. It is also important to consider what type of test is being used to check for a COVID-19 infection, as this will likely impact how accurate the test is and how long it will take to get results.\n\nMolecular tests are among the most accurate diagnostic tests currently available for detecting whether someone has an active COVID-19 infection. Molecular tests use methods such as RT-PCR (reverse transcription polymerase chain reaction) to detect genetic material from SARS-CoV-2, the virus that causes COVID-19, in respiratory samples such as nose and throat swabs. \n\nMolecular tests have a higher risk of false negatives in the earliest days after exposure and symptom onset, according to an August 2020 publication in the Annals of Internal Medicine by researchers at John Hopkins University who reviewed 7 published studies on the performance of RT-PCR molecular tests. The researchers found that on average, the false negative rate was lowest around day 8 of an infection or 3 days after symptom onset (symptom onset is typically several days after an infection starts), with the false negative rate rising again as the infection continues. False negative test results in the early stages of infection are concerning, because other research (including studies published in Nature and the American Journal of Pathology) have found that COVID-19 patients can be most infectious to others in the early days of infection, when test results may be more likely to come back as false negatives.\n\nSome testing policies recommend that people get tested twice to confirm a negative result. Repeat testing to confirm negative results can be particularly important for people who may interact with high-risk populations (ex. healthcare workers, caretakers), people who may interact with many others outside of their household (ex. an employee going back to the office, a student returning to in-person classes), and people who may need medical care for COVID-19 (e.g. elderly patients with underlying conditions).\n\nMolecular tests are a relatively accurate type of diagnostic testing, and they have a lower chance of false negatives when conducted a few days after symptoms start, or approximately a week after exposure. A lower chance of false negatives does not mean there is no chance of inaccurate test results, so repeat testing may be recommended to confirm test results in certain situations. With all the ongoing research and development work on COVID-19 tests, pandemic testing guidelines may continue to evolve.\n",
     "Glossary Terms": [
       "recPNexvQiug4RFJu",
       "recmajcAORyuqhZPc",
@@ -550,12 +550,12 @@
     "Other resources": "1. Coronavirus Testing Basics ([U.S. FDA](https://www.fda.gov/consumers/consumer-updates/coronavirus-testing-basics))\n2. Testing for COVID-19 ([U.S. CDC](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/testing.html))\n3. The Latest in Coronavirus (COVID-19) Testing Methods and Availability ([GoodRx](https://www.goodrx.com/blog/coronavirus-covid-19-testing-updates-methods-cost-availability/))\n4. Variation in False-Negative Rate of Reverse Transcriptase Polymerase Chain Reaction–Based SARS-CoV-2 Tests by Time Since Exposure ([Annals of Internal Medicine](https://www.acpjournals.org/doi/10.7326/M20-1495))\n5. Association of Initial Viral Load in Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Patients with Outcome and Symptoms ([American Journal of Pathology](https://ajp.amjpathol.org/article/S0002-9440(20)30328-X/fulltext))\n6. Temporal dynamics in viral shedding and transmissibility of COVID-19 ([Nature](https://www.nature.com/articles/s41591-020-0869-5))\n7. Study Raises Questions About False Negatives From Quick COVID-19 Test ([NPR](https://www.npr.org/sections/health-shots/2020/04/21/838794281/study-raises-questions-about-false-negatives-from-quick-covid-19-test))\n8. Performance of the rapid Nucleic Acid Amplification by Abbott ID NOW COVID-19 in nasopharyngeal swabs transported in viral media and dry nasal swabs, in a New York City academic institution ([bioRxiv](https://www.biorxiv.org/content/10.1101/2020.05.11.089896v1.article-info))\n",
     "Last modified manual": "2020-08-28",
     "Last edited (simplified)": "2020-08-21T14:28:19.000Z",
-    "Last edited (experts say)": "2020-08-28T03:36:47.000Z",
-    "Last modified": "2020-08-28",
-    "What our experts say wordcount": 560,
+    "Last edited (experts say)": "2020-09-08T20:57:17.000Z",
+    "Last modified": "2020-09-08",
+    "What our experts say wordcount": 465,
     "Background and context wordcount": 266,
     "Other resources wordcount": 115,
-    "Wordcount": 941
+    "Wordcount": 846
   },
   {
     "id": "recIWpxnU5BOReqN2",
@@ -1135,18 +1135,18 @@
   {
     "id": "recbykOUrOWpaKYKn",
     "Question": "Does exhaled carbon dioxide in a mask cause any side effects?",
-    "Status": "Update ready for review",
+    "Status": "Published",
     "Background and context": "The claim that the prolonged use of face masks can cause carbon dioxide intoxication, dizziness, or other health challenges is not grounded in science. In fact, healthcare workers often wear masks for long hours in the hospital. There is no evidence that surgical masks or cloth masks cause significant build-up of carbon dioxide. This information has been primarily circulating on social media among individuals or communities resistant to mask-wearing in general. While masks are restrictive and can feel like they impede air flow, properly designed masks do allow air flow by design, and the feeling of inconvenience or minor discomfort does not equate to health risks such as a build-up of carbon dioxide. Inhaling high amounts of carbon dioxide can be dangerous and lead to hypercapnia (carbon dioxide toxicity), but is extremely unlikely to happen as a result of wearing a mask.\n\nThere is some evidence that prolonged use of N95 masks in wearers with particularly severe health conditions, such as lung disease, could cause some build-up of carbon dioxide in the body. However, these cases are rare, and the use of N95 masks is not recommended for the general public in order to reserve them for frontline workers who are at higher risk of exposure to the virus. \n",
-    "What our experts say": "Exhaled carbon dioxide caused by the use of face masks, including the N95 mask, has not been shown to cause carbon dioxide toxicity or lack of adequate oxygen in healthy people. Because the masks we make and purchase, and even the airtight medical masks listed above, are designed for constant breathing, the risks of any side effects are low. Again, for people diagnosed with illnesses such as COPD, emphysema, and obesity, and in heavy smokers, the consistent use of N95-like masks over long periods of time could cause some build-up of carbon dioxide levels in the body. If people in this group are experiencing these side effects, they should speak to their doctor.\n",
+    "What our experts say": "Exhaled carbon dioxide caused by the use of face masks, including the N95 mask, has not been shown to cause carbon dioxide toxicity or lack of adequate oxygen in healthy people. Because the masks we make and purchase, and even the airtight medical masks listed above, are designed for constant breathing, the risks of any side effects are low. Again, for people diagnosed with illnesses such as COPD, emphysema, and obesity, and in heavy smokers, the consistent use of N95-like masks over long periods of time could cause some build-up of carbon dioxide levels in the body. If people in this group are experiencing these side effects, they should speak to their doctor. \n",
     "Other resources": "1. Partly false claim: Continually wearing a mask causes hypercapnia ([Reuters](https://www.reuters.com/article/uk-factcheck-coronavirus-mask-hypercapni/partly-false-claim-continually-wearing-a-mask-causes-hypercapnia-idUSKBN22H2H1))\n2. Fact check: Wearing a face mask will not cause hypoxia, hypoxemia or hypercapnia ([USA Today](https://www.usatoday.com/story/news/factcheck/2020/05/30/fact-check-wearing-face-mask-not-cause-hypoxia-hypercapnia/5260106002/))\n3. This Myth About Carbon Dioxide And Masks Is Similar To A Debunked Claim About Climate Change ([Forbes](https://www.forbes.com/sites/marshallshepherd/2020/07/01/debunking-2-myths-toxic-coronavirus-masks-and-breathing-warms-the-climate/#4f94baee30f4))\n",
     "Last modified manual": "2020-08-26",
     "Last edited (simplified)": "2020-08-26T01:31:46.000Z",
-    "Last edited (experts say)": "2020-08-26T01:31:46.000Z",
-    "Last modified": "2020-08-26",
-    "What our experts say wordcount": 113,
+    "Last edited (experts say)": "2020-09-08T20:52:29.000Z",
+    "Last modified": "2020-09-08",
+    "What our experts say wordcount": 114,
     "Background and context wordcount": 209,
     "Other resources wordcount": 43,
-    "Wordcount": 365
+    "Wordcount": 366
   },
   {
     "id": "recisKOQNAShlHmql",
@@ -1869,9 +1869,9 @@
   {
     "id": "recsT1TN71sp4UzkN",
     "Question": "Are air purifiers especially the mini, portable ones worn as necklaces effective in preventing transmission of COVID-19 or other coronaviruses?",
-    "Status": "Update ready for review",
+    "Status": "Published",
     "Background and context": "Miniature, portable air purifiers are currently being advertised around the world, particularly in online marketplaces. Unfortunately, many claims made by these products around COVID-19 prevention are unverified. Some products have claimed to use high efficiency particulate air (HEPA) filters, which are physical filters that meet a standard of catching at least 99.7% of particulates that are 0.3 micrometers or larger in size (although the SARS-CoV-2 virus particles causing COVID-19 are smaller on average than this 0.3 micrometer standard for HEPA filters). According to Pediatric Pulmonologist Dr. Nidhy Varghese, “even if these microbes make it into the purifier, they may elude filtration...the data so far suggests that it is unlikely that air purifiers will help with coronaviruses.\" The U.S. Environmental Protection Agency (EPA) also emphases that \"by itself, a portable air cleaner is not enough to protect people from COVID-19.\"\n",
-    "What our experts say": "Mini, portable air purifier necklaces (such as the type available for purchase on consumer websites) have not been shown to prevent COVID-19 infection as there have been no studies about these devices to date. Indoor air purifier units can help reduce tiny parts of virus in the air (airborne contaminants) in a home or confined space if they are used correctly, but they are not enough to protect people from COVID-19.\n",
+    "What our experts say": "Mini, portable air purifier necklaces (such as the type available for purchase on consumer websites) have not been shown to prevent COVID-19 infection and there have been no studies about their effectiveness to date. Indoor air purifier units can help reduce tiny parts of virus in the air (airborne contaminants) in a home or confined space if they are used correctly, but they are not enough to protect people from COVID-19.\n",
     "Glossary Terms": [
       "recPFoN1pnhj4RUOc",
       "recy3qWpegJbN2rbV"
@@ -1879,8 +1879,8 @@
     "Other resources": "1. Will an air cleaner or air purifier help protect me and my family from COVID-19 in my home? ([U.S. EPA](https://www.epa.gov/coronavirus/will-air-cleaner-or-air-purifier-help-protect-me-and-my-family-covid-19-my-home))\n2. Air purifiers of 2020, according to experts ([NBC News](https://www.nbcnews.com/shopping/wellness/shoppingairpurifiers-n1183336))\n",
     "Last modified manual": "2020-08-23",
     "Last edited (simplified)": "2020-08-27T18:46:17.000Z",
-    "Last edited (experts say)": "2020-08-27T18:46:17.000Z",
-    "Last modified": "2020-08-27",
+    "Last edited (experts say)": "2020-09-08T20:53:56.000Z",
+    "Last modified": "2020-09-08",
     "What our experts say wordcount": 71,
     "Background and context wordcount": 137,
     "Other resources wordcount": 30,
@@ -4210,12 +4210,12 @@
   },
   {
     "id": "reccgbdzob0VzK2nF",
-    "Question": "Can someone get reinfected and get COVID-19 a second time?",
-    "Status": "Update ready for review",
+    "Question": "Can someone be infected with COVID-19 more than once?",
+    "Status": "Published",
     "Category": "Reinfection",
     "Subcategory": "On: COVID-19 & Reinfection",
     "Background and context": "As scientists, public health professionals, and doctors monitor the COVID-19 pandemic, they continue to learn about how the virus spreads, its symptoms, and other factors important to diagnosis, testing, monitoring, and long-term public health planning. The possibility of reinfection continues to be a prominent news headline with healthcare professionals reporting that some patients who had fully recovered from the virus later redeveloped symptoms. Some case reports detail how both symptom monitoring and testing have been performed, and, in some instances, patients have documented recovery of COVID-19 with negative virus test results only to become ill and test positive weeks or months later. \n\nWhile there are still many aspects of the virus and the pandemic that are unknown, recent research suggests that reinfection may be possible. Newer research shared with a preprint release on July 11th, 2020 found that COVID-19 antibodies function similarly to those from other coronaviruses that are associated with common colds. While the number of antibodies is higher in patients with more severe illness, reports suggest that the protective antibodies decrease relatively quickly (sometimes within 60 days), especially in patients who had a mild case of COVID-19. Similarly, a population-based study from Spain examined antibodies of more than 50,000 people with possible exposure early in the pandemic and found that very few people have maintained antibodies to date, even those who lived in areas significantly impacted by the virus. Finally, a study done in primates (not humans) showed that COVID-19 immunity was maintained for 28 days following the original infection, but the study did not include longer range measures and, as an animal study, may not be directly comparable to humans.\n\nIt is important to note that, unlike other viruses, the number of antibodies needed to prevent reinfection with COVID-19 is unknown as is the level of antibodies needed to suggest that someone is “immune” to the virus. Studies to further understand immunity as well as the possibility for reinfection are ongoing.\n",
-    "What our experts say": "We are still learning a lot about what kind of natural defense, also known as immunity, a person has after being infected with SARS-CoV-2/COVID-19. As of now, there have been a very small amount of people reported to be reinfected with the first following an initial infection. \n\nScientists still do not know for sure if people can become infected with COVID-19 a second time, but it appears to be possible. More evidence is needed to determine whether or not reinfection can occur in patients, and what kind of immunity to the virus people might obtain once they have been infected.\n\nRecent pre-print studies have cited apparent cases of COVID-19 reinfecting patients, but they have not yet been published or peer-reviewed yet so other scientific experts have not been able to rigorously study the data or full results of the paper. It should be noted that the patients in these studies were supposedly infected with different strains of the virus during their second round of infection. This might mean that patients do not have lifelong immunity to the virus, and if any immunity does exist after someone is infected with the virus, it is not known for how long or how strong that immunity is. This is why it is important for all people to continue using prevention measures like wearing masks and social distancing in order to stop the spread of the virus.\n\nIn some cases, patients have tested positive a second time for the virus but scientists think that this is most likely traces of the original infection left in the body, detected by very sensitive tests or through false-positive tests. As we learn more about long-term immunity and protection from re-infection, this could change, but currently we haven't seen published cases to support that it is occurring. \n\nFor those concerned about antibody tests, tests used to determine whether or not a person was infected with COVID-19 in the past, it is important to note that a lack of antibodies several months after infection might not mean the person has no immunity against the virus and is susceptible to infection again. \n\n_This entry was updated with new information on August 30, 2020_\n",
+    "What our experts say": "We are still learning a lot about what kind of natural defense, also known as immunity, a person has after being infected with SARS-CoV-2/COVID-19. A very small amount of people have reportedly become reinfected with virus following an initial infection. \n\nRegardless of the anecdotal evidence, scientists still do not know for sure if people can become infected with COVID-19 a second time, but it appears to be possible. More evidence is needed to determine whether or not reinfection can occur in patients, how common it is, and what kind of immunity to the virus people might obtain once they have been infected.\n\nRecent pre-print studies cite apparent cases of COVID-19 reinfecting patients, but those findings have not yet been published or peer-reviewed, so other scientific experts are not yet able to rigorously study the data or full results of the papers. It should be noted that the patients in the studies were supposedly infected with different strains of the virus during their second infection. This might mean that patients do not have lifelong immunity to the virus, and if any immunity does exist after someone is infected, the length and strength of the immunity is unclear. \n\nIn some cases of patients testing positive a second time, scientists think that  traces of the original infection left in the body are cause the second positive result. This could be due to very sensitive tests or  false-positive tests. \n\nIt is also important to note that antibody levels may not be a strong indicator of immunity against the virus and susceptibility to reinfection.\n\n_This entry was updated with new information on August 30, 2020_\n",
     "Variation of the answer depending on country of residence": "No\n",
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
     "Topics": [
@@ -4383,12 +4383,12 @@
     ],
     "Last modified manual": "2020-08-30",
     "Last edited (simplified)": "2020-08-26T22:40:42.000Z",
-    "Last edited (experts say)": "2020-08-31T07:22:16.000Z",
-    "Last modified": "2020-08-31",
-    "What our experts say wordcount": 360,
+    "Last edited (experts say)": "2020-09-08T20:42:36.000Z",
+    "Last modified": "2020-09-08",
+    "What our experts say wordcount": 269,
     "Background and context wordcount": 322,
     "Other resources wordcount": 93,
-    "Wordcount": 775
+    "Wordcount": 684
   },
   {
     "id": "recr3yXfQwXc2jnMv",
@@ -4681,18 +4681,18 @@
   {
     "id": "recIdXgirdLhuul85",
     "Question": "Does wearing a mask for long periods of time affect the brain causing lethargy, headache, and dizziness because of lack of oxygen?",
-    "Status": "Update ready for review",
-    "Background and context": "The claim that the prolonged use of face masks can cause oxygen deficiency, dizziness, or other health challenges is not grounded in science. In fact, healthcare workers often wear masks for long hours in the hospital. There is no evidence that surgical masks or cloth masks cause significant deficiency of oxygen. This information has been primarily circulating on social media among individuals or communities resistant to mask-wearing in general. While masks are restrictive and can feel like they impede air flow, properly designed masks do allow air flow by design, and the feeling of inconvenience or minor discomfort does not equate to health risks such as a lack of oxygen. Low oxygen levels in the blood (hypoxemia) can cause issues in the body to not receive enough oxygen (hypoxia), but both are unlikely to happen as a result of wearing a properly designed mask or face covering.\n\nWearing a mask is recommended to protect people from community transmission of COVID-19. There are only a few exceptions to this public health recommendation, mostly focused on children under 2 years of age and people with serious medical conditions that can make it difficult to breathe through a mask or remove a mask if necessary. Otherwise, wearing a mask is safe and helpful for preventing the spread of COVID-19.\n",
-    "What our experts say": "The claim that the prolonged use of face masks can cause oxygen deficiency, carbon dioxide intoxication, dizziness, or other health challenges is not grounded in science. Science shows that the risks associated with wearing masks are generally minimal, and the benefits plenty. Even if a person is wearing an airtight medical grade mask, like an N95 or FFP2 mask, the risks of lethargy, headache, and dizziness are low, even after several hours. For the average person wearing a cloth or surgical mask, there is even less risk of these symptoms occurring as they still allow oxygen to flow out of the mouth and nose freely. While it might feel like breathing is more difficult in a mask and you are not getting enough air, that is likely a response to stress or anxiety from wearing the mask and can usually be helped by focusing on normal breathing patterns. Shallow breathing, hyperventilation, and breath holding can cause increases in carbon dioxide which leads to headaches and nausea. These symptoms are generally not caused by the use of masks. \n",
+    "Status": "Published",
+    "Background and context": "d\n",
+    "What our experts say": "The claim that the prolonged use of face masks can cause oxygen deficiency, carbon dioxide intoxication, dizziness, or other health challenges is not grounded in science. Science shows that the risks associated with wearing masks are generally minimal, and the benefits plenty. \n\nEven if a person is wearing an airtight medical grade mask, like an N95 or FFP2 mask, the risks of lethargy, headache, and dizziness are low, even after wearing one for several hours. For an average healthy person wearing a cloth or surgical mask, there is even less risk of these symptoms occurring, because they still allow oxygen to flow out of the mouth and nose freely. \n\nWhile it might feel like breathing is more difficult in a mask and you are not getting enough air, that is likely a response to stress or anxiety from wearing the mask and can usually be helped by focusing on normal breathing patterns. Shallow breathing, hyperventilation, and breath holding can cause increases in carbon dioxide which leads to headaches and nausea. These symptoms are generally not caused by the use of masks. \n",
     "Other resources": "1. From the Frontlines: The Truth About Masks and COVID-19 ([American Lung Association](https://www.lung.org/blog/covid-masks))\n",
     "Last modified manual": "2020-08-26",
-    "Last edited (simplified)": "2020-08-26T01:31:40.000Z",
-    "Last edited (experts say)": "2020-08-26T01:31:40.000Z",
-    "Last modified": "2020-08-26",
-    "What our experts say wordcount": 178,
-    "Background and context wordcount": 215,
+    "Last edited (simplified)": "2020-09-10T16:20:34.000Z",
+    "Last edited (experts say)": "2020-09-10T16:20:34.000Z",
+    "Last modified": "2020-09-10",
+    "What our experts say wordcount": 182,
+    "Background and context wordcount": 1,
     "Other resources wordcount": 13,
-    "Wordcount": 406
+    "Wordcount": 196
   },
   {
     "id": "rectAcElYXyyJvFjs",
@@ -9802,5 +9802,107 @@
     "Background and context wordcount": 107,
     "Other resources wordcount": 34,
     "Wordcount": 371
+  },
+  {
+    "id": "recT6kzJNVsejsEac",
+    "Question": "Does the antibiotic Levotop 500 treat, prevent or cure COVID-19? ",
+    "Status": "Published",
+    "Source of the question": [
+      "Fact-checking organization"
+    ],
+    "Background and context": "Antibiotics like Levotop 500 are antibacterial medications that either slow down or destroy the growth of bacteria. They are used to treat infections that are caused by bacteria. The COVID-19 disease is caused by an infection with a virus, not a bacteria. COVID-19 is a disease that is a type of coronavirus. Coronaviruses are a group of viruses that cause diseases such as the common cold, severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS). Because viruses and bacteria are different, the illnesses that they cause cannot be treated by the same type of medication. Antibiotics cannot be used to treat viral infections like COVID-19. \n",
+    "What our experts say": "Levotop 500 is an antibiotic that is used to treat infections caused by bacteria. COVID-19 is an infection caused by a virus, not a bacteria. Therefore, Levotop 500 is not a medication that is effective in preventing, treating or curing COVID-19. Levotop is used to treat bacterial infections like pneumonia, bacterial sinusitis, gastroenteritis and chronic bronchitis.  \n\nSome antibiotics are being used in patients who are initially hospitalized because of COVID-19 to treat \"co-infections\" or \"superinfections.\"\n\nCo-infections can occur when a COVID-19 patient also has a second infection, or catches one while hospitalized, and needs antibiotics to treat the second infection. Superinfections can happen on top or after an existing infection. It is possible that a hospitalized COVID-19 patient's immune system is weaker than normal, making it more vulnerable for all kinds of infections from germs, including bacteria.  \n",
+    "Last modified manual": "2020-09-08",
+    "Last edited (simplified)": "2020-09-09T00:32:41.000Z",
+    "Last edited (experts say)": "2020-09-09T00:32:41.000Z",
+    "Last modified": "2020-09-09",
+    "What our experts say wordcount": 137,
+    "Background and context wordcount": 108,
+    "Other resources wordcount": 0,
+    "Wordcount": 245
+  },
+  {
+    "id": "recvikqCDP9wMlBjd",
+    "Question": "Does COVID-19 impact young people?",
+    "Status": "Update ready for review",
+    "Category": "Symptoms, Impacts",
+    "Subcategory": "On: COVID-19 & young people",
+    "Source of the question": [
+      "Partner Organization"
+    ],
+    "Country question was sourced from": [
+      "Nigeria"
+    ],
+    "Background and context": "Doctors, researchers, and reporters have documented how the risks of severe COVID-19 illness tend to increase with age, with the elderly being at highest risk for hospitalization, intensive care, ventilation, and potentially death. However, young people can also become severely sick and in some cases die from COVID-19. This includes previously healthy young people without underlying health conditions. Additionally, non-fatal cases of COVID-19 in young people can cause lingering symptoms and long-term health issues. Research is ongoing to assess the impacts of COVID-19 on young people, particularly as more schools and facilities frequented by young people continue to reopen.\n",
+    "What our experts say": "The virus that causes COVID-19 can infect people of all ages. Although older people are known to be more susceptible to experiencing severe side effects of the virus, that does not mean young people are not at risk of getting sick, or even dying, from COVID-19. For example, COVID-19 has been linked to sometimes fatal stroke in people in their thirties and forties. COVID-19 has also claimed the lives of healthcare workers sometimes in their twenties. Even children can develop severe complications from COVID-19, such as multisystem inflammatory syndrome (MIS-C), which is characterized by inflammation in different body parts, including the heart, lungs, kidneys, brain, skin, eyes, or gastrointestinal organs.\n\nYoung people with underlying health conditions are at higher risk of severe COVID-19, but young people with no prior health issues have also been impacted by the disease. Less severe COVID-19 can lead to lingering health impacts that have prevented some young people from working and resuming other normal activities for months.\n\nIn the summer of 2020, the World Health Organization (WHO) warned that recent increases in COVID-19 cases may be driven by younger adults in their twenties to forties, many of whom have no symptoms or mild symptoms and may not realize they have COVID-19. In several regions around the world, half or more of the new COVID-19 cases have been in younger adults.\n\nMore evidence is emerging on how some young people develop severe symptoms and complications related to COVID-19, and are contributing to the widespread transmission of the virus. Young people should take preventive measures to reduce the chances of becoming infected with COVID-19, for their own protection as well as for preventing transmission to others.\n",
+    "Glossary Terms": [
+      "recOcmLKbzV6NUkAH",
+      "recMZLIWKC45HMVao",
+      "recbr3ZePtuRaGnEd",
+      "rec6wT9CN4jU9dyRs",
+      "recl2uEzY8N6aHAs9"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "COVID-19",
+      "transmission",
+      "symptoms",
+      "short-term",
+      "long-term"
+    ],
+    "Other resources": "1. FACT: People of all ages can be infected by the COVID-19 virus ([WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters?gclid=EAIaIQobChMI55iHlbXa6wIVE4TICh2rRQZ1EAAYASAAEgJfS_D_BwE#older-people))\n2. Coronavirus and COVID-19: Younger Adults Are at Risk, Too ([John Hopkins University](https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/coronavirus-and-covid-19-younger-adults-are-at-risk-too))\n3. What Young, Healthy People Have to Fear From COVID-19 ([The Atlantic](https://www.theatlantic.com/ideas/archive/2020/09/what-young-healthy-people-have-fear-covid-19/616087/))\n4. COVID-19 Toolkit for People 15-21 ([U.S. CDC](https://www.cdc.gov/coronavirus/2019-ncov/communication/toolkits/young-people-15-to-21.html))\n",
+    "Last modified manual": "2020-09-08",
+    "Last edited (simplified)": "2020-09-09T02:22:19.000Z",
+    "Last edited (experts say)": "2020-09-09T02:22:19.000Z",
+    "Last modified": "2020-09-09",
+    "What our experts say wordcount": 276,
+    "Background and context wordcount": 99,
+    "Other resources wordcount": 44,
+    "Wordcount": 419
+  },
+  {
+    "id": "recEpxyl0057WLvCV",
+    "Question": "Does holding your breath for 10 seconds or more without coughing or feeling discomfort mean you are free from COVID-19?",
+    "Status": "Not started",
+    "What our experts say": "No, holding your breath for 10 seconds or more without coughing or feeling discomfort does not mean you are not infected with COVID-19. Symptoms of the virus are different in every person. Some people might not have any symptoms at all (they are called 'asymptomatic'). Additionally, because \n",
+    "Last edited (experts say)": "2020-09-10T17:17:54.000Z",
+    "Last modified": "2020-09-10",
+    "What our experts say wordcount": 48,
+    "Background and context wordcount": 0,
+    "Other resources wordcount": 0,
+    "Wordcount": 48
+  },
+  {
+    "id": "recUQqRs8DzyIxoQx",
+    "Question": "Can COVID-19 be transmitted in hot climates such as Nigeria?",
+    "Status": "In progress",
+    "Background and context": "In the past, previous coronaviruses showed lower survival in warmer and more humid climates. This and some initial lab experiments in hotter and humid conditions led to the idea that COVID-19 might not spread as much in warmer climates. However, there are other confounding aspects that should be considered. \n\nCountries in Africa with temperatures greater than 25degrees Celsius have reported local transmissions. \n\n",
+    "Topics": [
+      "summer transmission",
+      "heat"
+    ],
+    "Other resources": "Effective transmission across the globe: the role of climate in COVID-19 mitigation strategies ([The Lancet](http://Effective transmission across the globe: the role of climate in COVID-19 mitigation strategies))\n\n",
+    "Last edited (simplified)": "2020-09-10T17:47:04.000Z",
+    "Last edited (experts say)": "2020-09-10T17:47:04.000Z",
+    "Last modified": "2020-09-10",
+    "What our experts say wordcount": 0,
+    "Background and context wordcount": 63,
+    "Other resources wordcount": 15,
+    "Wordcount": 78
+  },
+  {
+    "id": "rec4tyjrHTYcCkOoY",
+    "Question": "Does wearing a face mask put you at higher risk of cancer?",
+    "Status": "Ready for Review",
+    "Background and context": "The claim that wearing face masks causes cancer has been circulating on Facebook and other social media platforms. One post being widely shared states that wearing a mask leads people to breathe in their own carbon dioxide, which converts into acid in a person’s bloodstream and lowers their body’s pH levels (how acidic something is). The post goes on to state that in this more acidic state, foreign objects like cancer cells, viruses, and bacteria can thrive. \n\nThis claim is false. While masks are restrictive and can feel like they impede air flow, properly designed masks allow air flow by design because of how tiny oxygen and carbon dioxide molecules are, and the feeling of inconvenience or minor discomfort does not equal health risks such as a a build up of carbon dioxide. Too much carbon dioxide in the blood (hypercapnia), can lead to high levels of acid in the blood (respiratory acidosis), but both are very unlikely to happen as a result of wearing a properly designed mask or face covering.\n\nThe claims that the prolonged use of face masks can cause cancer, oxygen deficiency, dizziness, or other health challenges are not grounded in science. In fact, healthcare workers often wear masks for long hours in the hospital and have been doing so for a long time. There is no evidence that surgical masks or cloth masks cause significant deficiency of oxygen, a build up of carbon dioxide, and other related negative health consequences. This information has been primarily circulating on social media among individuals or communities resistant to mask-wearing in general. \n\nWearing a mask is recommended to protect people from community transmission of COVID-19. There are only a few exceptions to this public health recommendation, mostly focused on children under 2 years of age and people with serious medical conditions that can make it difficult to breathe through a mask or remove a mask if necessary. Otherwise, wearing a mask is safe and helpful for preventing the spread of COVID-19.\n",
+    "What our experts say": "No, wearing a face mask does not put you at a higher risk of cancer. There is no current evidence linking the use of face masks to cancer, and science shows that any risks associated with wearing masks are low overall, while the benefits are high. \n\nBecause of how tiny oxygen and carbon dioxide molecules are, face masks do not decrease the amount of oxygen that enters a mask or increase the amount of carbon dioxide that stays in a mask. As a result, face masks do not disrupt the body’s pH levels, affect the bloodstream, or alter one’s body in any way that would put someone at higher risk of cancer — all false claims that have been circulating. \n",
+    "Last edited (simplified)": "2020-09-10T17:01:12.000Z",
+    "Last edited (experts say)": "2020-09-10T17:01:12.000Z",
+    "Last modified": "2020-09-10",
+    "What our experts say wordcount": 119,
+    "Background and context wordcount": 329,
+    "Other resources wordcount": 0,
+    "Wordcount": 448
   }
 ]
