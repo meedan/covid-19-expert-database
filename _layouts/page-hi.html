@@ -6,9 +6,6 @@ lang: hi
 {% include head.html %}
 
 <body class="hi{% if page.slug == '/' %} front{% endif %}">
-  {% if page.slug == '/' %}
-    {% include message.html %}
-  {% endif %}
   {% include header.html %}
   <div class="content-wrapper">
     {% if page.description-hi %}
