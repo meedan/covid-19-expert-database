@@ -50,7 +50,7 @@
 
     const statTemplate = function(stat) {
         // Scroll to hash if we just loaded the page.
-        if (firstTimeHash) {
+        if (firstTimeHash && window.location.hash) {
             firstTimeHash = false;
             const entry = document.querySelector(window.location.hash);
             if (entry) {

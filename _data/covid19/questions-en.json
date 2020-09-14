@@ -9824,7 +9824,7 @@
   {
     "id": "recvikqCDP9wMlBjd",
     "Question": "Does COVID-19 impact young people?",
-    "Status": "Update ready for review",
+    "Status": "Published",
     "Category": "Symptoms, Impacts",
     "Subcategory": "On: COVID-19 & young people",
     "Source of the question": [
@@ -9851,58 +9851,140 @@
       "short-term",
       "long-term"
     ],
-    "Other resources": "1. FACT: People of all ages can be infected by the COVID-19 virus ([WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters?gclid=EAIaIQobChMI55iHlbXa6wIVE4TICh2rRQZ1EAAYASAAEgJfS_D_BwE#older-people))\n2. Coronavirus and COVID-19: Younger Adults Are at Risk, Too ([John Hopkins University](https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/coronavirus-and-covid-19-younger-adults-are-at-risk-too))\n3. What Young, Healthy People Have to Fear From COVID-19 ([The Atlantic](https://www.theatlantic.com/ideas/archive/2020/09/what-young-healthy-people-have-fear-covid-19/616087/))\n4. COVID-19 Toolkit for People 15-21 ([U.S. CDC](https://www.cdc.gov/coronavirus/2019-ncov/communication/toolkits/young-people-15-to-21.html))\n",
+    "Other resources": "1. FACT: People of all ages can be infected by the COVID-19 virus ([WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters?gclid=EAIaIQobChMI55iHlbXa6wIVE4TICh2rRQZ1EAAYASAAEgJfS_D_BwE#older-people))\n2. Coronavirus and COVID-19: Younger Adults Are at Risk, Too ([John Hopkins University](https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/coronavirus-and-covid-19-younger-adults-are-at-risk-too))\n3. What Young, Healthy People Have to Fear From COVID-19 ([The Atlantic](https://www.theatlantic.com/ideas/archive/2020/09/what-young-healthy-people-have-fear-covid-19/616087/))\n4. COVID-19 Toolkit for People 15-21 ([U.S. CDC](https://www.cdc.gov/coronavirus/2019-ncov/communication/toolkits/young-people-15-to-21.html))\n5. Coronavirus linked to stroke in otherwise healthy young people ([ScienceDaily](https://www.sciencedaily.com/releases/2020/06/200604095600.htm))\n6. Lives Cut Short: Remembering Health Care Workers In Their 20s Killed By COVID-19 ([NPR](https://www.npr.org/sections/health-shots/2020/08/13/901720066/lives-cut-short-remembering-health-care-workers-in-their-20s-killed-by-covid-19))\n7. COVID-19 and multisystem inflammatory syndrome in children and adolescents ([The Lancet](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30651-4/fulltext))\n8. WHO warns coronavirus is now driven by young people who don’t know they are infected ([CNBC](https://www.cnbc.com/2020/08/18/coronavirus-who-warns-covid-19-is-driven-by-young-people-who-dont-know-they-are-infected.html))\n9. WHO warns young people are emerging as main spreaders of the coronavirus ([Washington Post](https://www.washingtonpost.com/health/who-warns-young-people-are-emerging-as-main-spreaders-of-the-coronavirus/2020/08/18/1822ee92-e18f-11ea-b69b-64f7b0477ed4_story.html))\n",
     "Last modified manual": "2020-09-08",
     "Last edited (simplified)": "2020-09-09T02:22:19.000Z",
-    "Last edited (experts say)": "2020-09-09T02:22:19.000Z",
+    "Last edited (experts say)": "2020-09-10T20:23:28.000Z",
     "Last modified": "2020-09-09",
     "What our experts say wordcount": 276,
     "Background and context wordcount": 99,
-    "Other resources wordcount": 44,
-    "Wordcount": 419
+    "Other resources wordcount": 109,
+    "Wordcount": 484
   },
   {
     "id": "recEpxyl0057WLvCV",
     "Question": "Does holding your breath for 10 seconds or more without coughing or feeling discomfort mean you are free from COVID-19?",
-    "Status": "Not started",
-    "What our experts say": "No, holding your breath for 10 seconds or more without coughing or feeling discomfort does not mean you are not infected with COVID-19. Symptoms of the virus are different in every person. Some people might not have any symptoms at all (they are called 'asymptomatic'). Additionally, because \n",
-    "Last edited (experts say)": "2020-09-10T17:17:54.000Z",
-    "Last modified": "2020-09-10",
-    "What our experts say wordcount": 48,
-    "Background and context wordcount": 0,
-    "Other resources wordcount": 0,
-    "Wordcount": 48
+    "Status": "Published",
+    "Category": "Symptoms",
+    "Subcategory": "On: COVID-19 & recovery",
+    "Source of the question": [
+      "Partner Organization"
+    ],
+    "Country question was sourced from": [
+      "Nigeria"
+    ],
+    "Background and context": "Since the world first learned about COVID-19, many pieces of health misinformation have been shared on social media, including this rumor about breath-holding being a good tool for determining whether or not someone has been infected with COVID-19. Unfortunately, this particular misinformation has made its way around the world despite the fact that it is not accurate in any context. \n\nSeveral sources like the World Health Organization, universities, renowned hospitals, and health groups have specifically addressed this issue and note that holding your breath should not be used as a test for the virus. The only accurate, effective way to know if you are infected is to take a test at your local health facility and await the results. Until the results come in, it is best to continue isolating, washing your hands, and avoiding contact with others.\n",
+    "What our experts say": "Holding your breath for 10 seconds or more without coughing or feeling discomfort does not mean you are negative for COVID-19. Symptoms of the virus are different in every person. Some people might not have any symptoms at all (a phenomenon known as being 'asymptomatic'). Some people may be able to hold their breath for longer than 10 seconds even if they are actively infected with COVID-19. \n\nOther than helping to determine whether you have shortness of breath or a cough - both are symptoms of the virus - holding your breath for 10 seconds is not a substitute for an actual COVID-19 test, which is the only accurate way of determining whether or not you have an active infection.\n",
+    "Glossary Terms": [
+      "recFhwbJEgjxkrwpY",
+      "recOcmLKbzV6NUkAH",
+      "recx2PeCcs1Awb9rG"
+    ],
+    "Variation of the answer depending on country of residence": "No\t\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "breath holding",
+      "cough syrup",
+      "symptoms",
+      "asymptomatic",
+      "recovery"
+    ],
+    "Other resources": "1. Coronavirus disease (COVID-19) advice for the public: Mythbusters ([WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters)) \n2. One dangerous coronavirus 'self-check test' is circulating on social media. Here's why you should avoid it. ([CNN](https://www.cnn.com/2020/03/16/us/coronavirus-myths-debunking-holding-breath-10-seconds-trnd/index.html)) \n3. Ability to hold your breath 10 seconds is not a test for coronavirus ([AP](https://apnews.com/afs:Content:8635070312)) \n",
+    "Last modified manual": "2020-09-10",
+    "Last edited (simplified)": "2020-09-11T00:55:59.000Z",
+    "Last edited (experts say)": "2020-09-11T00:55:59.000Z",
+    "Last modified": "2020-09-11",
+    "What our experts say wordcount": 120,
+    "Background and context wordcount": 138,
+    "Other resources wordcount": 44,
+    "Wordcount": 302
   },
   {
     "id": "recUQqRs8DzyIxoQx",
     "Question": "Can COVID-19 be transmitted in hot climates such as Nigeria?",
-    "Status": "In progress",
-    "Background and context": "In the past, previous coronaviruses showed lower survival in warmer and more humid climates. This and some initial lab experiments in hotter and humid conditions led to the idea that COVID-19 might not spread as much in warmer climates. However, there are other confounding aspects that should be considered. \n\nCountries in Africa with temperatures greater than 25degrees Celsius have reported local transmissions. \n\n",
+    "Status": "Published",
+    "Background and context": "Other types of coronaviruses have shown lower survival in warmer and more humid climates. Some lab experiments also showed that SARS-CoV-2 may be sensitive to temperature, humidity, and ultraviolet light. This lead people to believe that climatic effects could protect people from transmission. However, while experimental evidence can show environmental sensitivity, on a larger scale in the real world the effects of climate on COVID-19 appear to be negligible. \n\nEven countries in Africa with regular temperatures greater than 25 degrees celsius have reported local transmission, so the idea that climate and weather drive transmission of the virus is misconstrued. \n\n",
+    "What our experts say": "COVID-19 can be transmitted in all climates. More than 150 countries have reported local transmission of the virus in their communities. According to a recent publication in the journal Nature, 'No human-settled area in the world is protected from COVID-19 transmission by virtue of weather, at any point in the year.'\n \nWarmer weather might reduce transmission of SARS-CoV-2 very slightly, however, it does not reduce the overall effectiveness of the virus to spread from person to person. This means that as much precaution and interventions are needed to prevent the spread of the virus.\n\n",
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
     "Topics": [
       "summer transmission",
       "heat"
     ],
-    "Other resources": "Effective transmission across the globe: the role of climate in COVID-19 mitigation strategies ([The Lancet](http://Effective transmission across the globe: the role of climate in COVID-19 mitigation strategies))\n\n",
-    "Last edited (simplified)": "2020-09-10T17:47:04.000Z",
-    "Last edited (experts say)": "2020-09-10T17:47:04.000Z",
-    "Last modified": "2020-09-10",
-    "What our experts say wordcount": 0,
-    "Background and context wordcount": 63,
-    "Other resources wordcount": 15,
-    "Wordcount": 78
+    "Other resources": "Effective transmission across the globe: the role of climate in COVID-19 mitigation strategies ([The Lancet](http://Effective transmission across the globe: the role of climate in COVID-19 mitigation strategies))\nMisconceptions about weather and seasonality must not misguide COVID-19 response ([Nature](https://www.nature.com/articles/s41467-020-18150-z.pdf))\n",
+    "Last modified manual": "2020-09-10",
+    "Last edited (simplified)": "2020-09-11T01:05:38.000Z",
+    "Last edited (experts say)": "2020-09-11T01:05:38.000Z",
+    "Last modified": "2020-09-11",
+    "What our experts say wordcount": 94,
+    "Background and context wordcount": 99,
+    "Other resources wordcount": 25,
+    "Wordcount": 218
   },
   {
     "id": "rec4tyjrHTYcCkOoY",
     "Question": "Does wearing a face mask put you at higher risk of cancer?",
-    "Status": "Ready for Review",
-    "Background and context": "The claim that wearing face masks causes cancer has been circulating on Facebook and other social media platforms. One post being widely shared states that wearing a mask leads people to breathe in their own carbon dioxide, which converts into acid in a person’s bloodstream and lowers their body’s pH levels (how acidic something is). The post goes on to state that in this more acidic state, foreign objects like cancer cells, viruses, and bacteria can thrive. \n\nThis claim is false. While masks are restrictive and can feel like they impede air flow, properly designed masks allow air flow by design because of how tiny oxygen and carbon dioxide molecules are, and the feeling of inconvenience or minor discomfort does not equal health risks such as a a build up of carbon dioxide. Too much carbon dioxide in the blood (hypercapnia), can lead to high levels of acid in the blood (respiratory acidosis), but both are very unlikely to happen as a result of wearing a properly designed mask or face covering.\n\nThe claims that the prolonged use of face masks can cause cancer, oxygen deficiency, dizziness, or other health challenges are not grounded in science. In fact, healthcare workers often wear masks for long hours in the hospital and have been doing so for a long time. There is no evidence that surgical masks or cloth masks cause significant deficiency of oxygen, a build up of carbon dioxide, and other related negative health consequences. This information has been primarily circulating on social media among individuals or communities resistant to mask-wearing in general. \n\nWearing a mask is recommended to protect people from community transmission of COVID-19. There are only a few exceptions to this public health recommendation, mostly focused on children under 2 years of age and people with serious medical conditions that can make it difficult to breathe through a mask or remove a mask if necessary. Otherwise, wearing a mask is safe and helpful for preventing the spread of COVID-19.\n",
-    "What our experts say": "No, wearing a face mask does not put you at a higher risk of cancer. There is no current evidence linking the use of face masks to cancer, and science shows that any risks associated with wearing masks are low overall, while the benefits are high. \n\nBecause of how tiny oxygen and carbon dioxide molecules are, face masks do not decrease the amount of oxygen that enters a mask or increase the amount of carbon dioxide that stays in a mask. As a result, face masks do not disrupt the body’s pH levels, affect the bloodstream, or alter one’s body in any way that would put someone at higher risk of cancer — all false claims that have been circulating. \n",
-    "Last edited (simplified)": "2020-09-10T17:01:12.000Z",
-    "Last edited (experts say)": "2020-09-10T17:01:12.000Z",
-    "Last modified": "2020-09-10",
-    "What our experts say wordcount": 119,
-    "Background and context wordcount": 329,
+    "Status": "Published",
+    "Background and context": "The claim that wearing face masks causes cancer has been circulating on Facebook and other social media platforms. While masks are restrictive and can feel like they impede air flow, properly designed masks do allow for air flow— the tiny size of oxygen and carbon dioxide molecules makes it easy for the molecules to travel freely in and out of the mask. The feeling of inconvenience or minor discomfort in a mask does not lead to health risks such as a build up of carbon dioxide. It's true that too much carbon dioxide in the blood (hypercapnia), _can_ lead to high levels of acid in the blood (respiratory acidosis), but both are very unlikely to happen as a result of wearing a properly designed mask or face covering.\n\nClaims that the prolonged use of face masks can cause cancer, oxygen deficiency, dizziness, or other health challenges are not grounded in science. Healthcare workers often wear masks for long hours in the hospital and have been doing so for a long time. There is no evidence that surgical masks or cloth masks cause significant deficiency of oxygen, a build up of carbon dioxide, and other related negative health consequences. This information has been primarily circulating on social media among individuals or communities resistant to mask-wearing in general. \n\nWearing a mask is recommended to protect people from community transmission of COVID-19. There are only a few exceptions to this public health recommendation, mostly focused on children under 2 years of age and people with serious medical conditions that can make it difficult to breathe through a mask or remove a mask if necessary. Otherwise, wearing a mask is safe and helpful for preventing the spread of COVID-19.\n",
+    "What our experts say": "Wearing a face mask does not put you at a higher risk of cancer. There is no current evidence linking the use of face masks to cancer, and science shows that any risks associated with wearing masks are low overall, while the benefits are high. \n\nBecause of how tiny oxygen and carbon dioxide molecules are, face masks neither decrease the amount of oxygen that enters a mask nor increase the amount of carbon dioxide that stays in a mask. As a result, face masks do not disrupt the body’s pH levels, affect the bloodstream, or alter one’s body in any way that would put someone at higher risk of cancer.\n",
+    "Last modified manual": "2020-09-10",
+    "Last edited (simplified)": "2020-09-11T00:49:16.000Z",
+    "Last edited (experts say)": "2020-09-11T00:49:16.000Z",
+    "Last modified": "2020-09-11",
+    "What our experts say wordcount": 109,
+    "Background and context wordcount": 283,
     "Other resources wordcount": 0,
-    "Wordcount": 448
+    "Wordcount": 392
+  },
+  {
+    "id": "recoFYIiBdptZqQXi",
+    "Question": "Can mask wearing lead to or cause pleurisy?",
+    "What our experts say": "From Reuters: Thanks for getting in touch! We do actually have one you could help with thanks. It’s this: https://www.facebook.com/photo.php?fbid=10221861638804185\n\n\n\n“Your child is going to get very sick very soon and it won't be with corona. It will be pleurisy.”\n\n\n\nPerhaps you have covered this already? We’ve done similar, but I’d like to be quite specific here about whether there is actually a risk your kid could end up suffering from pleurisy if they wear a mask for 3 hours.\n",
+    "Last edited (experts say)": "2020-09-14T22:09:58.000Z",
+    "Last modified": "2020-09-14",
+    "What our experts say wordcount": 78,
+    "Background and context wordcount": 0,
+    "Other resources wordcount": 0,
+    "Wordcount": 78
+  },
+  {
+    "id": "recyq5D0irsIhQn1B",
+    "Question": "Why do vaccine clinical trials sometimes stop or suspend operations?",
+    "What our experts say wordcount": 0,
+    "Background and context wordcount": 0,
+    "Other resources wordcount": 0,
+    "Wordcount": 0
+  },
+  {
+    "id": "rec66KHO6Hpfk6T1N",
+    "Question": "Why does everyone have to get a vaccine for a vaccine to work?",
+    "What our experts say wordcount": 0,
+    "Background and context wordcount": 0,
+    "Other resources wordcount": 0,
+    "Wordcount": 0
+  },
+  {
+    "id": "reczwkJJR0nVeblx9",
+    "Question": "Why is Pfizer proposing expanding their vaccine trial to include more diversity?",
+    "What our experts say wordcount": 0,
+    "Background and context wordcount": 0,
+    "Other resources wordcount": 0,
+    "Wordcount": 0
+  },
+  {
+    "id": "rec676VflF3k3p4Kj",
+    "Question": "Can I contract COVID-19 from swimming, surfing, or doing other activities in contaminated water?",
+    "What our experts say wordcount": 0,
+    "Background and context wordcount": 0,
+    "Other resources wordcount": 0,
+    "Wordcount": 0
+  },
+  {
+    "id": "reczJf2HdOHuyl5dx",
+    "Question": "What does the Northern hemisphere entering its colder season mean for the spread of COVID-19?",
+    "What our experts say wordcount": 0,
+    "Background and context wordcount": 0,
+    "Other resources wordcount": 0,
+    "Wordcount": 0
   }
 ]
