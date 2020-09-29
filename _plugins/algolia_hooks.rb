@@ -64,6 +64,7 @@ module Jekyll
         record.delete(:'Experts say last edited (translation)')
         record.delete(:'Media Package')
         record.delete(:'Last modified')
+        record.delete(:'Background and context')
         
 
         # Do not send homepage

@@ -3,7 +3,7 @@ page:
 - sys:
     id: 59Olgrx6nbKQBCKwPLPslX
     created_at: !ruby/object:DateTime 2020-05-12 16:43:43.001000000 Z
-    updated_at: !ruby/object:DateTime 2020-06-10 18:22:34.781000000 Z
+    updated_at: !ruby/object:DateTime 2020-09-29 03:36:57.525000000 Z
     content_type_id: page
     revision: 4
     space:
@@ -42,9 +42,9 @@ page:
 - sys:
     id: 4xN7lPbCvQdT2WUCgP3I9M
     created_at: !ruby/object:DateTime 2020-05-12 20:31:54.456000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-13 18:15:27.963000000 Z
+    updated_at: !ruby/object:DateTime 2020-09-11 02:24:15.322000000 Z
     content_type_id: page
-    revision: 7
+    revision: 8
     space:
       sys:
         id: d4fy1qepdfjq
@@ -78,14 +78,15 @@ page:
       the world and in multiple languages. \n\nIs there a COVID-19 topic or question
       you’d like us to work on? Send us a message at <a href=\"mailto:health@meedan.com\">health@meedan.com</a>
       and our experts will do their best to help you.\n\n#### Statement on editorial
-      independence\n\nMisinfodemia, published by the 501(c)(3) nonprofit corporation
-      Meedan, commits to independent, nonpartisan reporting and analysis of the topics
-      it covers.\n\nAs a non-profit organization, Meedan has funders that may in some
-      cases be the subject of discussion and reporting on the Misinfodemia show. We
-      commit to proactive disclosure of any funding, as well as disclosure of other
-      relevant professional relationships between our reporters, editors, producers
-      and funding organizations.\n\nFunders of Meedan play no role in editorial decisions,
-      including our selection of content, or hiring or commissioning of contributors."
+      independence\n\nLearnaboutcovid19.org, published by the 501(c)(3) nonprofit
+      corporation Meedan, commits to independent, nonpartisan reporting and analysis
+      of the topics it covers.\n\nAs a non-profit organization, Meedan has funders
+      that may in some cases be the subject of discussion and reporting on the Misinfodemia
+      show. We commit to proactive disclosure of any funding, as well as disclosure
+      of other relevant professional relationships between our reporters, editors,
+      producers and funding organizations.\n\nFunders of Meedan play no role in editorial
+      decisions, including our selection of content, or hiring or commissioning of
+      contributors."
     fr: |-
       ### Contextualization crédible et mises à jour essentielles des informations sur COVID-19.
 

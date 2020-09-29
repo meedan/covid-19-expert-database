@@ -175,26 +175,26 @@ airtable:
       target: 'covid19'
       sheets:
         - name: 'DB (French)'
-          view: 'COVID-19 Expert Database (French)'
+          view: 'Published View'
           target: 'questions-fr'
     - name: 'glossary'
       app_id: ENV_AIRTABLE_APP_ID
       target: 'covid19'
       sheets:
         - name: 'Glossary (French)'
-          view: 'Glossary (French)'
+          view: 'Published View'
           target: 'glossary-fr'
     - name: 'airtable'
       app_id: ENV_AIRTABLE_APP_ID
       target: 'covid19'
       sheets:
         - name: 'DB (Hindi)'
-          view: 'COVID-19 Expert Database (Hindi)'
+          view: 'Published View'
           target: 'questions-hi'
     - name: 'glossary'
       app_id: ENV_AIRTABLE_APP_ID
       target: 'covid19'
       sheets:
         - name: 'Glossary (Hindi)'
-          view: 'Glossary (Hindi)'
+          view: 'Published View'
           target: 'glossary-hi'
