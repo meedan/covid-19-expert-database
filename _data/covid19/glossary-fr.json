@@ -1,3 +1,2064 @@
 [
-
+  {
+    "id": "rec6vNnYlTtVahGRO",
+    "Term": "accès compassionnel",
+    "Definition": "D’après les Instituts nationaux de santé des États-Unis, l’accès compassionnel, aussi appelé « accès élargi », est une manière de fournir une thérapie expérimentale à un patient n’est pas admissible à recevoir cette thérapie dans le cadre d’un essai clinique, mais qui souffre d’une maladie grave ou qui met sa vie en danger, et pour laquelle il n’existe pas d’autre traitement. L’accès compassionnel permet à des patients de recevoir des thérapies anticancéreuses prometteuses qui n’ont encore été ni étudiées entièrement ni approuvées quand aucun autre traitement n’existe.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recsuWy4EfRZwvcmh"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "According to the U.S. National Institutes of Health, compassionate use - also called 'expanded access' - is a way to provide an investigational therapy to a patient who is not eligible to receive that therapy in a clinical trial, but who has a serious or life-threatening illness for which other treatments are not available. Compassionate use allows patients to receive promising but not yet fully studied or approved cancer therapies when no other treatment option exists. Also called expanded access."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      82
+    ]
+  },
+  {
+    "id": "rec5NviyR1bKlIVTa",
+    "Term": "période d’incubation",
+    "Definition": "D’après l’Organisation mondiale de la santé, la période d’incubation est le temps qui s’écoule entre l’exposition au virus (infection) et l’apparition des symptômes.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "reccy9EmiOk9SlhJ7"
+    ],
+    "EN Term": [
+      "recE7xmnXgtg8ZanX"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "According to the World Health Organization, the incubation period is the time between exposure to the virus (becoming infected) and symptom onset."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      24
+    ]
+  },
+  {
+    "id": "recdwSm7f3It0F5Eq",
+    "Term": "asymptomatique",
+    "Definition": "Les infections asymptomatiques surviennent quand une personne est infectée par une maladie, mais ne présente aucun symptôme au cours de son infection.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "reccy9EmiOk9SlhJ7",
+      "recXxSw89QoFa83ZD"
+    ],
+    "EN Term": [
+      "recx2PeCcs1Awb9rG"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Asymptomatic infections occur when a person is infected with an illness but does not have symptoms during the duration of their infection."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      23
+    ]
+  },
+  {
+    "id": "rec4IrZTOe3lpz98t",
+    "Term": "présymptomatique",
+    "Definition": "Les infections présymptomatiques surviennent quand une personne est infectée lors d’une maladie, mais ne présente encore aucun symptôme.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "reccy9EmiOk9SlhJ7"
+    ],
+    "EN Term": [
+      "recbZcFUtsYMA9Vsh"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Pre-symptomatic infections occur when a person is infected but does not yet display symptoms of an illness or disease. There can be a lag of a few days between the moment a person is infected and when they start experiencing symptoms. "
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      43
+    ]
+  },
+  {
+    "id": "recxD9dPlL1W8DCs2",
+    "Term": "transmission",
+    "Definition": "D’après les Centres de contrôle et de prévention des maladies des États-Unis, on entend par « transmission » la façon dont les germes sont déplacés vers une personne non infectée. Les germes ne se déplacent pas d’eux-mêmes. Pour se déplacer, les germes dépendent de personnes, de l’environnement ou de l’équipement médical (dans les environnements de soins de santé). \n\n\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "recjXAWxtpH214q4o",
+      "rec3EisBjaWNuh52z",
+      "recFM8mp8uXqSjzGE",
+      "recXxSw89QoFa83ZD",
+      "recBGhn5u9qlxD7a9",
+      "recXNKWtIJKt9GD5v"
+    ],
+    "EN Term": [
+      "rec2UNEXbTkSCx30Q"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "According to the U.S. Centers for Disease Control, transmission refers to the way germs are moved towards a non-infected person. Germs don’t move themselves. Germs depend on people, the environment, and/or medical equipment (in healthcare settings) to move. "
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      40
+    ]
+  },
+  {
+    "id": "recN1KGOfbDmvsGiU",
+    "Term": "grippe",
+    "Definition": "D’après les Centres de contrôle et de prévention des maladies des États-Unis, les virus de la grippe saisonnière se propagent et provoquent une maladie pendant la période appelée « saison grippale ». Les virus de la grippe saisonnière provoquent des épidémies annuelles de grippe aux États-Unis en automne, en hiver et au printemps, et ces virus circulent chez l’humain dans le monde entier. Les virus de la grippe saisonnière évoluent continuellement de manière imprévisible.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "recpBz5mkWp9d4kae"
+    ],
+    "EN Term": [
+      "recDalYrz2m23kS2e"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Seasonal influenza viruses are infectious diseases that spread and cause illness in people during the time of year known as the “flu season.” Seasonal influenza viruses cause annual U.S. influenza epidemics during fall, winter, and spring, and circulate among people worldwide. Seasonal influenza viruses are continually undergoing evolution in unpredictable ways."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      50
+    ]
+  },
+  {
+    "id": "reczZiLfjgDKGWXZp",
+    "Term": "ultraviolets (UV)",
+    "Definition": "D’après les Centres de contrôle et de prévention des maladies des États-Unis, les rayons ultraviolets (UV) sont une partie de la lumière solaire qui se présente sous forme de rayonnement invisible. Les rayons UV peuvent pénétrer et modifier la structure des cellules de la peau. Il existe trois types de rayons UV : les ultraviolets A (UVA), les ultraviolets B (UVB) et les ultraviolets C (UVC). Les UVA sont la source de rayonnement solaire la plus abondante à la surface de la Terre et pénètrent la couche superficielle de la peau humaine. Les scientifiques pensent que le rayonnement UVA peut endommager le tissu conjonctif et augmenter les risques qu’une personne développe un cancer de la peau. Les rayons UVB pénètrent moins profondément dans la peau, mais peuvent quand même provoquer certaines formes de cancer de la peau. Les rayons UVC naturels ne présentent pas de risques pour les travailleurs, car ils sont absorbés par l’atmosphère terrestre.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "rec5gU4AbShoWGNjF"
+    ],
+    "EN Term": [
+      "recjOgLIjiAbiBH5F"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "According to the U.S. Centers for Disease Control, ultraviolet (UV) rays are a part of sunlight that is an invisible form of radiation. UV rays can penetrate and change the structure of skin cells. There are three types of UV rays: ultraviolet A (UVA), ultraviolet B (UVB), and ultraviolet C (UVC). UVA is the most abundant source of solar radiation at the earth’s surface and penetrates beyond the top layer of human skin. Scientists believe that UVA radiation can cause damage to connective tissue and increase a person’s risk for developing skin cancer. UVB rays penetrate less deeply into skin, but can still cause some forms of skin cancer. Natural UVC rays do not pose a risk to workers because they are absorbed by the Earth’s atmosphere."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      129
+    ]
+  },
+  {
+    "id": "recy2g3HZCckzrsKx",
+    "Term": "stérile",
+    "Definition": "D’après les Centres de contrôle et de prévention des maladies des États-Unis, une chose est stérile si elle est exempte de tout micro-organisme vivant. Cela signifie qu’un objet stérile est totalement propre et exempt de bactéries et de germes vivants.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "recrYDVoINSZiwvJh"
+    ],
+    "EN Term": [
+      "recUAN8C73rkuPWX9"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "According to the U.S. Centers for Disease Control, when something is sterile it is in a state of being free from all living microorganisms. This means that a sterile object is totally clean and free from bacteria and living germs."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      41
+    ]
+  },
+  {
+    "id": "recF5ZskHxC3iLoRg",
+    "Term": "vaccin BCG",
+    "Definition": "D’après les Instituts nationaux de santé des États-Unis, le vaccin bilié de Calmette et Guérin (BCG) est utilisé pour prévenir la tuberculose (TB) chez les personnes qui présentent un risque élevé de contracter la tuberculose ou dans les endroits où la tuberculose est répandue.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "rec7DbR8cpUtj6laV"
+    ],
+    "EN Term": [
+      "recUx8LCQGkRdxG3B"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "According to the U.S. National Institutes of Health, the bacille Calmette-Guerine (BCG) vaccine is a vaccine used to prevent tuberculosis (TB) in people who are at a high risk of TB or where TB is common."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      38
+    ]
+  },
+  {
+    "id": "rec6TkHKY7sNXMmZV",
+    "Term": "tuberculose",
+    "Definition": "D’après l’Organisation mondiale de la santé, la tuberculose (TB) est provoquée par une bactérie (mycobacterium tuberculosis) qui affecte le plus souvent les poumons. La tuberculose est curable et évitable. \nLa tuberculose se propage dans l’air de personne à personne. Si une personne atteinte de la tuberculose des poumons tousse, éternue ou crache, elle propulse dans l’air les germes de la tuberculose. Une personne n’a qu’à inhaler quelques-uns de ces germes pour être infectée.\nEnviron un quart de la population mondiale est porteuse d’une tuberculose latente, ce qui signifie que ces personnes ont été infectées par la bactérie qui provoque la tuberculose, mais ne sont pas (encore) malades et ne peuvent pas transmettre la maladie.\nPour les personnes infectées par la bactérie qui provoque la tuberculose, les risques de contracter la tuberculose au cours de leur vie sont de 5 à 15 %. Pour les personnes dont le système immunitaire est affaibli, telles que les personnes qui vivent avec le VIH, le diabète, souffrent de malnutrition, ou consomment du tabac, les risques de tomber malade sont beaucoup plus élevés.\nQuand une personne développe une tuberculose active, les symptômes (tels que la toux, la fièvre, les sueurs nocturnes ou la perte de poids) peuvent être légers pendant plusieurs mois. Cela peut entraîner des retards dans la recherche de soins et transmettre la bactérie à d’autres. En l’espace d’un an, les personnes atteintes de tuberculose active peuvent infecter entre 10 et 15 autres personnes par contact rapproché.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "rec7DbR8cpUtj6laV"
+    ],
+    "EN Term": [
+      "rec9SYUCp1ULDd0UL"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "According to the World Health Organization, tuberculosis (TB) is caused by a bacteria (Mycobacterium tuberculosis) that most often affect the lungs. Tuberculosis is curable and preventable. TB is spread from person to person through the air. When people with lung TB cough, sneeze or spit, they propel the TB germs into the air. A person needs to inhale only a few of these germs to become infected.\nAbout one-quarter of the world's population has latent TB, which means people have been infected by TB bacteria but are not (yet) ill with the disease and cannot transmit the disease.\nPeople infected with TB bacteria have a 5–15% lifetime risk of falling ill with TB. Persons with compromised immune systems, such as people living with HIV, malnutrition or diabetes, or people who use tobacco, have a higher risk of falling ill.\nWhen a person develops active TB disease, the symptoms (such as cough, fever, night sweats, or weight loss) may be mild for many months. This can lead to delays in seeking care, and results in transmission of the bacteria to others. People with active TB can infect 5–15 other people through close contact over the course of a year."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      196
+    ]
+  },
+  {
+    "id": "recbMekD6UXPWJAi6",
+    "Term": "analyse génomique",
+    "Definition": "D’après la revue scientifique multidisciplinaire Nature, l’analyse génomique est l’identification, la mesure ou la comparaison de caractéristiques génomiques telles que la séquence d’ADN, la variation structurelle, l’expression des gènes ou l’annotation des éléments régulateurs et fonctionnels à l’échelle génomique. Ce genre d’analyse fait appel à des techniques de laboratoire pour examiner un ensemble de gènes afin de mieux comprendre les origines, le contexte, les relations et les fonctions de l’ADN et de l’ARN dans un organisme vivant.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "recbjW2CdPdJHM0wE"
+    ],
+    "EN Term": [
+      "recbQ95pvRq7nP9s3"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "According to the multidisciplinary science journal Nature, genomic analysis is the identification, measurement or comparison of genomic features such as DNA sequence, structural variation, gene expression, or regulatory and functional element annotation at a genomic scale. This type of analysis uses laboratory methods to look at a set of genes to better understand the origins, background, relationships, and functions of the DNA and RNA in a living organism."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      68
+    ]
+  },
+  {
+    "id": "recRdDn65UcHnA63p",
+    "Term": "virus",
+    "Definition": "D’après les Centres de contrôle et de prévention des maladies des États-Unis, un virus est un minuscule organisme qui se multiplie à l’intérieur des cellules et provoque des maladies telles que la varicelle, la rougeole, les oreillons, la rubéole, la coqueluche et l’hépatite. Les virus ne sont pas affectés par les antibiotiques, les médicaments utilisés pour tuer les bactéries. Les virus sont plus petits que les bactéries et ont besoin de cellules ou tissus vivants afin de croître et de se reproduire.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "recXOlSZvyEECnqkk",
+      "recgur7UqWESGFk8T"
+    ],
+    "EN Term": [
+      "recnFUXyIZy81Rj1I"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "According to the U.S. Centers for Diseases Control, a virus is a tiny organism that multiplies within cells and causes disease such as chickenpox, measles, mumps, rubella, pertussis and hepatitis. Viruses are not affected by antibiotics, the drugs used to kill bacteria. Viruses are smaller in size than bacteria and require living cells or tissues in order to grow and reproduce. "
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      63
+    ]
+  },
+  {
+    "id": "recn0lT3zfEhVv8Eo",
+    "Term": "bactéries",
+    "Definition": "D’après les Centres pour le contrôle et la prévention des maladies des États-Unis, les bactéries sont des germes. Elles vivent dans l’environnement et partout à l’intérieur et à l’extérieur de nos corps. La plupart des bactéries sont inoffensives et même utiles pour l’humain, mais certaines peuvent provoquer des infections telles que la pharyngite streptococcique. Ces organismes microscopiques sont unicellulaires et peuvent survivre dans toutes sortes d’environnements différents, pas seulement dans les êtres vivants. Les médicaments antibiotiques peuvent être utilisés pour tuer les bactéries. \n",
+    "Status": "Published",
+    "Questions using this term": [
+      "recXOlSZvyEECnqkk",
+      "recPkJ5SuaRbWr2Z8"
+    ],
+    "EN Term": [
+      "recAFuzwLppTBDIPe"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "According to the U.S. Centers for Disease Control, bacteria are germs. They live in the environment and all over the inside and outside of our bodies. Most bacteria are harmless and even helpful to people, but some can cause infections, like strep throat. These microscopic organisms are made up of one single cell, and can survive in many different types of environments, not just living things. Antibiotic medications can be used to kill bacteria."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      75
+    ]
+  },
+  {
+    "id": "recGkbysvb9KPYi3m",
+    "Term": "infection secondaire",
+    "Definition": "Une infection secondaire est une infection qui survient soit pendant soit après le traitement d’une infection existante. Comme causes d’infection secondaire, nous trouvons : les changements du système immunitaire d’une personne à la suite d’une première infection ; le traitement d’une première infection qui en provoque une seconde.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "recXOlSZvyEECnqkk"
+    ],
+    "EN Term": [
+      "rechTyFW9yFtRWh8o"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "A secondary infection is an infection that takes place either during or following the treatment of an existing infection. Some of the causes of a secondary infection may include changes in the immune system of a person resulting from the first infection, or if the treatment for the first infection led to the secondary infection."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      57
+    ]
+  },
+  {
+    "id": "recvR7KM6VedZfxmX",
+    "Term": "essai clinique",
+    "Definition": "D’après les Instituts nationaux de santé des États-Unis, les essais cliniques sont des études de recherche effectuées sur des personnes, dont le but est d’évaluer une intervention médicale, chirurgicale ou comportementale. Pour les chercheurs, ils sont le moyen principal de découvrir si un nouveau traitement, tel qu’un nouveau médicament, un nouveau régime alimentaire ou un nouveau dispositif médical (par exemple un stimulateur cardiaque) est sûr et efficace chez l’humain. L’objectif d’un essai clinique est souvent de savoir si un nouveau traitement est plus efficace ou présente des effets secondaires moins nocifs que le traitement habituel. Les essais cliniques exigent de tester l’intervention de santé sur des groupes de volontaires qui comprennent, selon les études, des personnes en santé ou des patients avec un problème de santé connu.\nD’autres essais cliniques testent les moyens de détection précoce d’une maladie, parfois avant l’apparition de symptômes. D’autres testent les moyens de prévenir un problème de santé. Un essai clinique peut également viser à améliorer la vie de personnes atteintes d’une affection mettant en danger la vie du malade ou d’un problème de santé chronique.\nAvant que l’Agence états-unienne des produits alimentaires et médicamenteux (FDA) n’autorise le début d’un essai clinique, des scientifiques effectuent des essais en laboratoire et des études sur des animaux afin de tester la sécurité et l’efficacité d’une thérapie potentielle. Si ces études démontrent des résultats favorables, la FDA donne son accord pour que l’intervention soit testée sur des humains.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "recAj0TYj97UNUWtk"
+    ],
+    "EN Term": [
+      "recM4p8QOERmuESKr"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "According to the U.S. National Institutes of Health, clinical trials are research studies performed on people, that are aimed at evaluating a medical, surgical, or behavioral intervention. They are the primary way that researchers find out if a new treatment, like a new drug or diet or medical device (for example, a pacemaker) is safe and effective in people. Often, a clinical trial is used to learn if a new treatment is more effective and/or has less harmful side effects than the standard treatment. Clinical trials require testing the health intervention in groups of volunteers which include, depending on the trials, healthy individuals and/or patients with a known health issue.\nOther clinical trials test ways to find a disease early, sometimes before there are symptoms. Still, others test ways to prevent a health problem. A clinical trial may also look at how to make life better for people living with a life-threatening disease or a chronic health problem. \nBefore the U.S. Food and Drug Administration (FDA) approves a clinical trial to begin, scientists perform laboratory tests and studies in animals to test a potential therapy’s safety and efficacy. If these studies show favorable results, the FDA gives approval for the intervention to be tested in humans."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      202
+    ]
+  },
+  {
+    "id": "recHFrxN3qEXqWTDa",
+    "Term": "gouttelettes respiratoires",
+    "Definition": "Les gouttelettes respiratoires sont produites quand une personne tousse, éternue ou parle. Ces gouttelettes sont généralement lourdes et parcourent moins de deux mètres avant de tomber sur le sol. Ces gouttelettes contiennent de minuscules parties d’un virus (particules) et peuvent transmettre des infections si elles viennent en contact avec les yeux, le nez ou la bouche d’une autre personne. \nCes gouttelettes peuvent aussi propager des maladies entre les personnes si une personne touche une surface sur laquelle une gouttelette respiratoire a atterri, puis touche ses yeux, sa bouche, son nez ou une autre partie de son corps. \nContrairement aux agents pathogènes aérosols, les gouttelettes respiratoires sont de plus grande taille, ne se déplacent pas aussi loin et ne restent pas longtemps dans l’air. La plupart des maladies respiratoires sont propagées par les gouttelettes respiratoires.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "recrYDVoINSZiwvJh",
+      "recBVqNYCcZL2zeqx",
+      "reccv7wTonNKiuovS",
+      "recXxSw89QoFa83ZD"
+    ],
+    "EN Term": [
+      "rec5yviiSvJkufYvu"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "Respiratory droplets are small drops of a liquid, usually water, that are produced from humans sneezing, coughing, talking, breathing, singing, yawning, or even just breathing, that fall to the ground and surfaces over several minutes and travel over a short range: up to 2 feet (60 cm). These droplets contain tiny parts of a virus (particles), so they can spread illnesses between people when someone touches a surface that a respiratory droplet has landed on and then touches their eyes, mouth, or nose or other body part. Unlike aerosolized pathogens, respiratory droplets are larger in size at over 5-10μm (hence being referred to also as 'large droplets'), don't travel as far, and don't remain in the air for long periods of time. Most respiratory illnesses are spread by respiratory droplets. \n"
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      133
+    ]
+  },
+  {
+    "id": "recH0gr95OweWQ1ng",
+    "Term": "germes",
+    "Definition": "D’après les Centres de contrôle et de prévention des maladies des États-Unis, les germes sont des micro-organismes et font partie de notre quotidien. L’on en trouve dans l’air, le sol, l’eau, ainsi qu’à l’intérieur et à l’extérieur de nos corps. Certains germes sont utiles et d’autres sont nuisibles. De nombreux germes vivent à l’intérieur et à l’extérieur de nos corps sans causer de tort, certains nous aident même à rester en santé. Seule une petite partie des germes provoque des infections. Les germes sont également appelés agents infectieux et désignent virus, bactéries ou autres microbes.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "recrYDVoINSZiwvJh"
+    ],
+    "EN Term": [
+      "rec39wm7MuK12bTI3"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Germs are microorganisms and a part of everyday life. They can be found in our air, soil, water, and in and on our bodies. Some germs are helpful, others are harmful. Many germs live in and on our bodies without causing harm and some even help us to stay healthy. Only a small portion of germs are known to cause infection. Germs are also known as infectious agents and refer to viruses, bacteria, or other microbes."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      77
+    ]
+  },
+  {
+    "id": "recAvIYWiEsqWpO9E",
+    "Term": "événement indésirable",
+    "Definition": "Un événement indésirable (parfois appelé expérience indésirable) peut être tout signe nuisible ou non intentionnel (p. ex. un résultat de laboratoire anormal), symptôme ou maladie relié temporairement à la prise d’un médicament, sans juger la causalité ni le lien avec le médicament.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "recAj0TYj97UNUWtk"
+    ],
+    "EN Term": [
+      "recAiJYWSxD5F1Lz1"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "An adverse event (also referred to as an adverse experience) can be any unfavorable and unintended sign (e.g., an abnormal laboratory finding), symptom, or disease temporarily associated with the use of a medication, without any judgment about causality or relationship to the medication. "
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      45
+    ]
+  },
+  {
+    "id": "recid3z2x1uYoo6xq",
+    "Term": "essais contrôlés randomisés",
+    "Definition": "Un essai contrôlé randomisé (ECR) est un type d’expérimentation scientifique qui tend à réduire certaines sources de partialité lors du contrôle de l’efficacité de certains traitements. Dans cette étude, les personnes sont affectées au hasard à un groupe afin de recevoir une intervention. Un des groupes, le groupe expérimental, reçoit l’intervention qui est évaluée, alors que l’autre groupe, habituellement appelé groupe de contrôle, reçoit une intervention de remplacement telle que le traitement médical habituel, un placébo (« pilule de sucre ») ou aucune intervention. Les groupes sont suivis selon les conditions de l’essai et les résultats sont comparés afin d’évaluer l’efficacité de l’intervention expérimentale comparée au groupe de contrôle.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "recAj0TYj97UNUWtk"
+    ],
+    "EN Term": [
+      "recjILnexcCRlyBIb"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "A randomized controlled trial (RCT) is a type of scientific experiment that aims to reduce certain sources of bias when testing the effectiveness of new treatments. In these studies, people are randomly (by chance alone) assigned to a group to receive an intervention. One group—the experimental group—receives the intervention being assessed, while the other—usually called the control group—has an alternative intervention, such as the standard medical treatment, a placebo (\"sugar pill\") or no intervention at all. The groups are followed under conditions of the trial design and outcomes are compared to see how effective the experimental intervention was in comparison to the control."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      102
+    ]
+  },
+  {
+    "id": "recCMLHJbe4MXCiEp",
+    "Term": "antioxydant",
+    "Definition": "D’après les Instituts nationaux de santé des États-Unis, les antioxydants sont des substances artificielles ou naturelles qui peuvent prévenir ou ralentir certaines sortes de dommages cellulaires. Les régimes alimentaires riches en légumes et en fruits, de bonne source d’antioxydants, sont jugés bons pour la santé ; cependant, les recherches n’ont pas démontré que les suppléments antioxydants sont susceptibles de prévenir les maladies. Parmi les antioxydants, nous trouvons les vitamines C et E, le sélénium et les caroténoïdes tels que le bêta-carotène, le lycopène, la lutéine et la zéaxanthine.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "recD1hQ5hwPZnyPCX"
+    ],
+    "EN Term": [
+      "recOMUWrX4F2d53iC"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "According to the U.S. National Institutes of Health, antioxidants are man-made or natural substances that may prevent or delay some types of cell damage. Diets high in vegetables and fruits, which are good sources of antioxidants, have been found to be healthy; however, research has not shown antioxidant supplements to be beneficial in preventing diseases. Examples of antioxidants include vitamins C and E, selenium, and carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin. "
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      75
+    ]
+  },
+  {
+    "id": "recmttIanApamens9",
+    "Term": "contagieux",
+    "Definition": "D’après les Instituts nationaux de santé des États-Unis, une maladie contagieuse est une maladie transmissible qui peut se propager rapidement de personne à personne par contact direct (toucher une personne atteinte de l’infection), contact indirect (toucher un objet contaminé) ou par contact de gouttelettes (inhalées des gouttelettes expulsées par une personne atteinte par l’infection et qui tousse, éternue ou parle).\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "reccy9EmiOk9SlhJ7"
+    ],
+    "EN Term": [
+      "recJ4Q812SOdo1NGM"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "According to the U.S. National Institutes of Health, a contagious disease is a communicable disease that can spread rapidly from person to person through direct contact (touching a person who has the infection), indirect contact (touching a contaminated object), or droplet contact (inhaling droplets made when a person who has the infection coughs, sneezes, or talks)."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      57
+    ]
+  },
+  {
+    "id": "recsvaoRxrcOJHRJi",
+    "Term": "antibiotiques",
+    "Definition": "D’après les Centres pour le contrôle et la prévention des maladies des États-Unis, les antibiotiques sont des médicaments qui combattent les infections provoquées par des bactéries chez les humains et les animaux, soit en tuant les bactéries soit enrayant la croissance et la multiplication des bactéries. Les antibiotiques ne tuent pas les virus et ne devraient être administrés sur ordonnance médicale que si cela est nécessaire.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "recXOlSZvyEECnqkk"
+    ],
+    "EN Term": [
+      "reco5k0tpirgGDeqb"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "According to the U.S. Centers for Disease Control, antibiotics are medicines that fight infections caused by bacteria in humans and animals by either killing the bacteria or making it difficult for the bacteria to grow and multiply. Antibiotics don't kill viruses and should only be taken when they're needed and prescribed by a medical provider.\n"
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      55
+    ]
+  },
+  {
+    "id": "recEySy7KDfWe6LQd",
+    "Term": "co-infection",
+    "Definition": "D’après les Instituts nationaux de santé des États-Unis, il y a co-infection si une personne souffre de deux infections ou plus en même temps. Par exemple, une personne atteinte du VIH pourrait aussi être co-infectée par le virus de l’hépatite C (VHC), de la tuberculose (TB) ou les deux.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "recXOlSZvyEECnqkk"
+    ],
+    "EN Term": [
+      "recRGHDXxeEnXrS9t"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "According to the U.S. National Institutes of Health, a co-infection occurs when a person has two or more infections at the same time. For example, a person living with HIV may also have a hepatitis C virus (HCV) coinfection, a tuberculosis (TB) coinfection, or both."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      46
+    ]
+  },
+  {
+    "id": "recYZMZsE8pHUmeFj",
+    "Term": "désinfection",
+    "Definition": "La désinfection est un procédé qui tue les germes et d’autres minuscules organismes porteurs de maladies (appelés micro-organismes), habituellement sur les revêtements durs, et qui empêche leur propagation. Il y a habituellement désinfection après utilisation de chaleur, de radiation, ou après application de produits chimiques sur une surface, ce qui détruit les bactéries et autres micro-organismes nocifs (sauf les spores).\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "reccv7wTonNKiuovS"
+    ],
+    "EN Term": [
+      "rec4crPh6OQvCngsk"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "Disinfection is a process that kills germs and other tiny disease-carrying organisms (called 'microorganisms'), usually on hard surfaces, which stops them from spreading. Disinfection usually happens after using heat, radiation, or chemicals are applied to a surface that destroys bacteria and other harmful microorganisms (except spores). "
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      46
+    ]
+  },
+  {
+    "id": "recM2zJotA23k5W9O",
+    "Term": "postexposition",
+    "Definition": "La postexposition est la période qui suit l’exposition de quelqu’un à quelque chose, habituellement une maladie ou une infection.\n",
+    "Status": "Published",
+    "EN Term": [
+      "reccE6W6JYLJi0i1n"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Post-exposure refers to the period of time after a person is exposed to something, usually a disease or infection."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      20
+    ]
+  },
+  {
+    "id": "recc9KdnVZDoWRiua",
+    "Term": "prophylaxie",
+    "Definition": "D’après les Instituts nationaux de santé des États-Unis, un traitement prophylactique peut être décrit comme un médicament ou d’autres formes de traitement utilisés pour prévenir le développement d’une maladie chez une personne à risque, mais sans antécédents de cette maladie.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recUOHoAQtR97mxFC"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "According to the U.S. National Institutes of Health, a prophylactic treatment can be described as drugs or other forms of treatment used to prevent the development of a disease in a person who is at risk for but with no prior history of the disease."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      46
+    ]
+  },
+  {
+    "id": "recJecVrFicvxvKUo",
+    "Term": "viable",
+    "Definition": "Quand quelque chose est capable de vivre ou de se développer dans des conditions favorables.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "recBVqNYCcZL2zeqx"
+    ],
+    "EN Term": [
+      "recSf7dMrMv3l3Tcl"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "When something is able to live or develop under favorable conditions."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      12
+    ]
+  },
+  {
+    "id": "recreu6otYgCCdR8J",
+    "Term": "désinfectant",
+    "Definition": "D’après les Centres de contrôle et de prévention des maladies des États-Unis, un désinfectant est un produit chimique qui détruit la plupart des germes de façon physique ou chimique. Un désinfectant tue les germes sur une surface particulière, ce qui diminue les risques de transmission de l’infection.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "recR1yoAIRcVB6ZmT"
+    ],
+    "EN Term": [
+      "recjGuHkvGujLMjV7"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "According to the U.S. Centers for Disease Control, a disinfectant is a chemical that destroys most germs by physical or chemical means. A disinfectant kills germs on a particular surface, which lowers the risk of spreading infection. "
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      39
+    ]
+  },
+  {
+    "id": "recGB7tFNL1tqgk51",
+    "Term": "prévention",
+    "Definition": "D’après les Centres de contrôle et de prévention des maladies des États-Unis, les activités de prévention peuvent être réparties en trois grandes catégories : 1. Prévention primaire : les interventions telles que la vaccination et la modification des comportements dangereux (mauvaises habitudes alimentaires, consommation de tabac), afin de prévenir la maladie avant qu’elle ne se déclare. 2. Prévention secondaire : le dépistage (p. ex. la mammographie ou le contrôle régulier de la pression artérielle), afin d’identifier les maladies aussi précocement que possible, avant l’apparition de signes et symptômes. 3. Prévention tertiaire : les interventions pour gérer la maladie après diagnostic (p. ex. la chimiothérapie, la réadaptation) afin de ralentir ou d’arrêter la progression de la maladie et d’autres complications.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "recR1yoAIRcVB6ZmT"
+    ],
+    "EN Term": [
+      "recMZLIWKC45HMVao"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "Prevention activities can typically be categorized into three areas, according to the U.S. Centers for Disease Control. 1. Primary Prevention—interventions such as vaccinations or altering risky behaviors (poor eating habits, tobacco use) to prevent disease before it occurs. 2. Secondary Prevention—screening (i.e. mammography or regular blood pressure testing) to identify diseases in the earliest stages, before the onset of signs and symptoms. 3. Tertiary Prevention—interventions to manage the disease post diagnosis (i.e. chemotherapy, rehabilitation) in order to slow or stop disease progression and further complications."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      86
+    ]
+  },
+  {
+    "id": "recyEdXsLqUa2Tp7K",
+    "Term": "transmission par aérosol ou aérogène",
+    "Definition": "La transmission par aérosol ou aérogène a lieu quand de minuscules gouttes de germe ou d’agent infectieux (noyaux de condensation ou résidus évaporés de gouttelettes expulsées par une personne infectée)  qui peuvent provoquer une maladie (agent pathogène) restent dans l’air pendant un certain temps après que quelqu’un a toussé, éternué, parlé, vomi, chanté, ri, expiré, et après transformation de ces gouttelettes en fine brume (aérosolisation). Ces petites particules connues sous le nom d’aérosols peuvent voyager sur des distances importantes, bien qu’elles soient invisibles à l’œil humain. Il peut aussi parfois y avoir transmission aérogène provoquée par des particules de poussière qui portent le virus.\n\nQuand une autre personne entre en contact avec une brume aérosolisée contaminée, cette personne est aussi exposée à l’agent pathogène en suspension dans l’air. Contrairement aux gouttelettes respiratoires, les agents pathogènes aérosolisés sont principalement secs, légers, très petits (moins de 5 μm) ; ces particules plus petites peuvent rester plus longtemps en suspension dans l’air et être dispersées plus loin par les courants d’air, parcourant des distances plus ou moins longues tout en restant avant l’air. Certaines procédures médicales ou de nettoyage peuvent aussi entraîner la transmission aérogène d’un agent pathogène, telles que tirer la chasse d’eau ou introduire un tube dans la gorge d’un patient afin de l’aider à respirer.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "recBVqNYCcZL2zeqx"
+    ],
+    "EN Term": [
+      "rech6tPR0hLDA3JH3"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "Aerosol transmission or airborne transmission occurs when tiny drops of a germ or infectious agent (droplet nuclei, or evaporated residues from droplets expelled by an infected person) that can cause a disease (pathogen) stay in the air for some time after someone coughs, sneezes, talks, vomits, sings, laughs, or exhales and these drops become a fine mist (aerosolized). Droplet nuclei can also be considered evaporated residues from droplets. These small particles, known as aerosols, can travel sizable distances even though they may not be visible to the human eye. Airborne transmission can also sometimes occur from dust particles carrying the virus.\n\n\nWhen another person comes into contact with contamhinateds aerosolized mist, they become exposed to the pathogen hanging in the air as well. Unlike respiratory droplets, aerosolized pathogens are mostly dry, light, very small (under 5μm); these smaller particles can stay suspended in the air for longer and be dispersed farther by air currents, traveling short and long distances as they remain in the air. Some medical and cleaning procedures can also cause aerosol transmission of a pathogen like flushing toilets or putting a tube into a patient's throat to help them breathe."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      193
+    ]
+  },
+  {
+    "id": "recCYcD4Cqkl22arV",
+    "Term": "infectieux",
+    "Definition": "Si quelque chose est infectieux, cela signifie qu’un organisme qui cause une maladie peut être passé d’une personne, d’une plante ou d’un animal à un autre. En matière de maladies infectieuses, l’Organisation mondiale de la santé dit qu’elles sont « causées par des micro-organismes pathogènes tels que les bactéries, les virus, les parasites ou les champignons ; les maladies peuvent être transmises directement ou indirectement d’une personne à une autre ».\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "recBVqNYCcZL2zeqx",
+      "recQc3te6Xja0OheW"
+    ],
+    "EN Term": [
+      "recMOA1iUEl0oP2Vi"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "When something is infectious, it means that an organism that causes disease is able to be passed from a person, plant, or animal to another. In terms of infectious diseases, the World Health Organization says these are \"caused by pathogenic microorganisms, such as bacteria, viruses, parasites or fungi; the diseases can be spread, directly or indirectly, from one person to another.\""
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      62
+    ]
+  },
+  {
+    "id": "rectGx1TwAGePCyfG",
+    "Term": "systèmes de ventilation",
+    "Definition": "Les systèmes de ventilation sont les différentes façons de faire voyager l’air de l’extérieur vers l’intérieur des bâtiments, telles que les portes et les fenêtres ouvertes, les systèmes de chauffage, de ventilation et de climatisation.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "recBVqNYCcZL2zeqx"
+    ],
+    "EN Term": [
+      "recRXYuU3tstg6EO0"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "Ventilation systems are the ways that air flows from the outside through the inside of buildings like open doors and windows or heating, ventilation, and air conditioning (HVAC) systems. "
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      32
+    ]
+  },
+  {
+    "id": "recEhkHsPoGdWn9E1",
+    "Term": "transmission indirecte (sans contact)",
+    "Definition": "Il y a transmission indirecte si aucun contact direct d’être humain à être humain n’a eu lieu, mais qu’un agent pathogène peut quand même se propager (être transmis) d’une personne, d’une plante, d’un animal à un autre. Par exemple, quand une personne infectée tousse ou éternue, les gouttelettes provenant de son appareil respiratoire tombent sur une surface qu’une autre personne touche. Si l’autre personne touche ensuite sa propre bouche ou son nez, elle se sera potentiellement exposée à cet agent pathogène et pourra aussi être infectée.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "recBVqNYCcZL2zeqx"
+    ],
+    "EN Term": [
+      "recfxNeRDVhNKMgNe"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "Indirect transmission occurs when there is no direct human-to-human contact but a pathogen is still capable of being spread (transmitted) from one person, animal, or plant to another. An example of indirect transmission is when respiratory droplets from the cough or sneeze of an infected person fall onto a surface that another person touches. When the other person then touches their own mouth or nose, they have potentially exposed themselves to this pathogen and become infected as well. "
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      82
+    ]
+  },
+  {
+    "id": "recqwusfYxBjzTxUy",
+    "Term": "transmission communautaire",
+    "Definition": "D’après les Centres de contrôle et de prévention des maladies des États-Unis, « la propagation communautaire est la propagation d’une maladie dont la source de l’infection est inconnue. Il est cependant aussi possible que le patient ait été exposé à un voyageur infecté de retour chez lui ». Ce genre de transmission signifie aussi qu’une personne qui a été infectée par transmission communautaire l’a été sans avoir visité la source géographique ou la région de l’éclosion ni par un contact proche avec une autre personne, mais qu’elle a plutôt été infectée à l’intérieur de sa communauté dans le sens large du terme, à partir d’une source inconnue.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "reccv7wTonNKiuovS",
+      "reccy9EmiOk9SlhJ7"
+    ],
+    "EN Term": [
+      "rec8po7cJXvqkaQYB"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "According to the Centers for Disease Control, \"Community spread means spread of an illness for which the source of infection is unknown. It’s also possible, however, that the patient may have been exposed to a returned traveler who was infected.\" This type of transmissions also means that a person who was infected through community transmission did so without going to the geographical source or region of the outbreak or through close contact with another person, and instead became infected within their community at large but through an unknown source.\n\n"
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      91
+    ]
+  },
+  {
+    "id": "recsAn4Fibm7Oc0Cd",
+    "Term": "piscine",
+    "Definition": "Une piscine est un bassin enterré ou une structure qui contient de l’eau dans laquelle on peut nager.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "reccv7wTonNKiuovS"
+    ],
+    "EN Term": [
+      "recyEDVrAGriFphQH"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "A pool - often called a swimming pool - is a hole in the ground or structure that containts water in which people can swim."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      26
+    ]
+  },
+  {
+    "id": "recbU9QWhipv7Vh08",
+    "Term": "contrôle par les pairs",
+    "Definition": "Les journaux évalués par des pairs sont des publications dans lesquelles les contributions scientifiques ont été révisées par des spécialistes du domaine concerné.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "recC1x2wLaMrtU222",
+      "recqi3pOFpURsQnNr"
+    ],
+    "EN Term": [
+      "rec8sQHhdcKiEVR9f"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "Peer-reviewed journals are publications in which scientific contributions have been vetted by experts in the relevant field."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      18
+    ]
+  },
+  {
+    "id": "recpsPOs42si1Us8I",
+    "Term": "cannabidiol",
+    "Definition": "D’après la faculté de médecine de Harvard, le cannabidiol (CBD) est l’un des principaux ingrédients actifs du cannabis (marijuana). Il est directement dérivé du chanvre.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "recqi3pOFpURsQnNr"
+    ],
+    "EN Term": [
+      "recwkZVfZQxlVPfdW"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "According to the Harvard Medical School, cannabidiol (CBD) is one of the main active ingredients of cannabis (marijuana). It is derived directly from the hemp plant.\n"
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      27
+    ]
+  },
+  {
+    "id": "recGqKLSTXFxhV3JM",
+    "Term": "alun",
+    "Definition": "Un composé astringent incolore constitué d’un double sulfate hydraté d’aluminium et de potassium, utilisé dans les solutions médicinales, la teinture et la tannerie.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "recPkJ5SuaRbWr2Z8"
+    ],
+    "EN Term": [
+      "recHytNA8slfllwKF"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "A colorless astringent compound that is a hydrated double sulfate of aluminum and potassium, used in solution medicinally and in dyeing and tanning."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      24
+    ]
+  },
+  {
+    "id": "recEoT5I0Rnv8jciE",
+    "Term": "mask",
+    "Definition": "Les masques faciaux sont des couvre-visages ajustés conçus pour bien couvrir le nez, la bouche et le menton. Les masques faciaux peuvent être fabriqués en tissu multicouche ou en matériaux de qualité médicale qui répondent à certains critères particuliers de filtrage de petites particules (dont les virus) dans l’air. Un masque facial devrait permettre à la personne qui le porte de respirer confortablement et devrait rester en place quand la personne parle.\n\nD’après les directives des Centres de contrôle et de prévention des maladies des États-Unis et l’Organisation mondiale de la santé, les masques faciaux ne devraient pas être portés par : les nouveau-nés ni les enfants de moins de deux ans ; les personnes handicapées, inconscientes ou incapables d’enlever le masque sans assistance ; les personnes qui souffrent de troubles respiratoires. Les centres de contrôle et de prévention des maladies des États-Unis et l’Organisation mondiale de la santé offrent tous deux sur leurs sites Web respectifs des directives et des renseignements supplémentaires sur les masques faciaux, qui sont mis à jour régulièrement quand de nouvelles données scientifiques probantes sont publiées.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "recBbIwmcDGuUcsGR"
+    ],
+    "EN Term": [
+      "reclKahoPRbBLqUKg"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "Face masks are fitted coverings made to cover the nose, mouth, and chin snugly. Face masks may be made from layered cloth or fabric, or they may be made from medical-grade materials that meet specific criteria for filtering small particles (including viruses) from the air.  Face masks should allow the wearer to breathe comfortably, and the mask should stay in place when the wearer is talking.\n\nAccording to guidance from the US Centers for Disease Control and Prevention (US CDC) and the World Health Organization (WHO), face masks should not be worn by infants and children under the age of 2; those who are incapacitated, unconscious, or unable to remove the mask without assistance; or those who are having trouble breathing. Both the US CDC and WHO provide further guidance and information about face masks on their respective websites, and the information is updated regularly when new scientific evidence is available."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      153
+    ]
+  },
+  {
+    "id": "recGJIRWMViHAbHfQ",
+    "Term": "eaux usées",
+    "Definition": "Toutes les eaux contaminées par des polluants ou des contaminants en raison de l’activité humaine sont appelées eaux usées. Elles proviennent d’habitations, d’usines, d’établissements commerciaux, de l’agriculture (p. ex. des fermes et des parcs d’engraissement), des systèmes d’égout, du ruissellement (p. ex. des rues).\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "recWPdGv9b1FzK2CA"
+    ],
+    "EN Term": [
+      "recFIn1ipbOFsoZsR"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "Waste water (or wastewater) is any water that is contaminated with pollutants or contaminants because of human activity. Waste water comes from homes, factories or commercial facilities, agriculture (i.e. farms, animal feedlots), sewer systems, and surface runoff (i.e. from streets)."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      42
+    ]
+  },
+  {
+    "id": "recM54nzJWudPrUwe",
+    "Term": "maladie auto-immune ",
+    "Definition": "D’après les Instituts nationaux de santé des États-Unis, « les maladies auto-immunes désignent des problèmes du système immunitaire, qui combat habituellement les virus, les bactéries et les infections. Le problème cause l’attaque par erreur de votre corps par vos cellules immunitaires. Ces maladies peuvent affecter presque toutes les parties de votre corps. »\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "recAj0TYj97UNUWtk"
+    ],
+    "EN Term": [
+      "recJ1c8DQQVGmXfzM"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "According to the National Institutes of Health, \"Autoimmune diseases refer to problems with the immune system, which usually fights off viruses, bacteria, and infection. The problem causes your immune cells to attack your body by mistake. These diseases can affect almost any part of the body.\""
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      48
+    ]
+  },
+  {
+    "id": "recKVaN7MrOgiMZhD",
+    "Term": "gaz lacrymogène",
+    "Definition": "Les gaz lacrymogènes sont un groupe de produits chimiques irritants qui sont souvent utilisés pour disperser les foules. Les produits chimiques qui se trouvent dans les gaz lacrymogènes irritent les membranes muqueuses et les yeux, ce qui provoque souvent des larmes, des contractions musculaires, de la toux, des difficultés respiratoires et une irritation de la peau.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "recBGhn5u9qlxD7a9"
+    ],
+    "EN Term": [
+      "recuFmN55qfldR6N8"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "Tear gas is a group of chemical irritants that is often used to disperse crowds. The chemicals in tear gas irritate mucous membranes and the eyes, which often results in tearing, twitching, coughing, difficulty breathing, or skin irritation.\n"
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      40
+    ]
+  },
+  {
+    "id": "recMUzpYJd1T7GT6k",
+    "Term": "ayurvéda",
+    "Definition": "L’ayurvéda est un ancien système de médecine traditionnelle dont les racines historiques en Inde remontent à 3 000 ans. Il vise à promouvoir l’équilibre entre l’intellect, le corps et l’esprit grâce à des remèdes à base de plantes, des régimes alimentaires spéciaux, le yoga et la méditation. Il est couramment pratiqué en Inde et l’on y fait fréquemment référence en Occident en tant que médecine douce de complément.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "rec7BYjKbOXXPXqji"
+    ],
+    "EN Term": [
+      "rec5OdFSvwX0mLrxy"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "Ayurveda is an ancient system of traditional medicine, with historical roots in India dating back 3000 years, which promotes a balance between mind, body, and spirit through herbal remedies, special diets, yoga and meditation. It is commonly practiced in India, and is frequently referred to as complementary and alternative medicine within the United States."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      55
+    ]
+  },
+  {
+    "id": "recNYSAC0vCubYUTr",
+    "Term": "contrôle des vecteurs",
+    "Definition": "Dans le domaine de la santé publique, le contrôle des vecteurs désigne les mesures qui limitent ou éliminent les insectes et autres arthropodes qui transmettent les maladies. La forme la plus habituelle de contrôle des vecteurs est le contrôle des moustiques grâce à la vaporisation de l’intérieur des bâtiments ou la distribution de moustiquaires à lit traitées à l’insecticide afin de prévenir la malaria.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "recXNKWtIJKt9GD5v"
+    ],
+    "EN Term": [
+      "recGSLUQITD8EpuHR"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "In public health, vector control refers to measures that limit or eradicate insects or other arthropods that transmit diseases. The most common form of vector control is mosquito control through indoor spraying with a residual insecticide or distribution of insecticide-treated bednets to prevent the transmission of malaria."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      49
+    ]
+  },
+  {
+    "id": "recBCgii3PjSX298i",
+    "Term": "état confusionnel aigu",
+    "Definition": "Un état confusionnel aigu désigne une confusion mentale et une conscience réduite du milieu environnant causé par une perturbation des capacités mentales. Il peut être la conséquence d’une maladie grave ou sévère, de changements de l’équilibre métabolique (tels qu’une baisse du niveau de sodium), de médicaments, d’une infection, d’une opération chirurgicale, d’une consommation d’alcool ou de drogues, ou d’un sevrage.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "reccLqkEvDwZa9jyJ",
+      "rec8sg7onKcFdH8Y6"
+    ],
+    "EN Term": [
+      "recU4JuZ6HJpfe2ZK"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "Delirium refers to confused thinking or reduced awareness of surroundings as a result of a disturbance in mental abilities. It can result from a severe or chronic illness, changes in metabolic balance (such as low sodium), medication, infection, surgery, alcohol or drug use, or withdrawal.\n"
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      46
+    ]
+  },
+  {
+    "id": "reclmNjVYuaRWpHYc",
+    "Term": "exposition",
+    "Definition": "Dans la terminologie de la santé publique, exposition signifie se trouver dans un lieu où il pourrait y avoir contact avec une substance étrangère. Par exemple à l’intérieur, il y a peu de risque d’exposition importante au soleil, mais à l’extérieur en une journée ensoleillée, il y aura probablement contact avec la lumière du soleil, donc une exposition au soleil. Avec un virus, si quelqu’un est en contact proche avec une personne qui tousse ou éternue, par exemple, cette personne aura probablement été exposée au virus. Cependant même en cas d’exposition, quelqu’un peut ou non tomber malade à cause du virus.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "rec0yX8knrSZ8EaTA"
+    ],
+    "EN Term": [
+      "recvwSSjn9ohOm9fK"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Exposure in public health terminology describes being in a place where there may be contact with a foreign substance. For example indoors, people have little chance of significant sun exposure, but if they are outdoors on a sunny day, people are likely to come into contact with sunlight and are thus exposed to the sun. With a virus, if someone is in close contact with a person coughing and sneezing, for example, they are likely to have been exposed to the virus.  Even with exposure, however, someone may or may not become ill from the virus. "
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      98
+    ]
+  },
+  {
+    "id": "recSzsRVZvSvXvlel",
+    "Term": "traitement expérimental",
+    "Definition": "Un traitement expérimental est un médicament ou une thérapie dont l’efficacité contre une maladie ou une condition médicale est évaluée. Les traitements expérimentaux peuvent être des médicaments ou des thérapies existants reconnus dans le traitement d’une maladie, que l’on essaie pour le traitement d’une autre maladie (p. ex., quand un médicament antiviral est utilisé pour traiter un nouveau virus, les premiers traitements sont considérés comme expérimentaux, car l’on ne sait pas si le médicament fonctionnera ou non). Les traitements expérimentaux peuvent aussi être des nouveaux médicaments ou traitements qui n’ont pas été utilisés auparavant. En plus de déterminer si des traitements expérimentaux traiteront des maladies particulières, le processus d’expérimentation évalue les effets possibles des thérapies.\n",
+    "Status": "Published",
+    "EN Term": [
+      "rec3XmnugOMexQiQA"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "An experimental treatment is a medication or therapy that is being tested to evaluate if it is effective against an illness or medical condition. Experimental treatments may be existing medications or therapies that are known to work in treating one illness that are tried as a treatment for another illness (i.e. when an antiviral medication is used to treat a new virus, early treatments are considered experimental because it is unclear as to whether or not the medication will work). Experimental treatments may also be new medications or treatments that have not been used before. In addition to learning whether experimental treatments treat particular illnesses, the experimental process evaluates the therapies for possible side effects."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      117
+    ]
+  },
+  {
+    "id": "recXM04o4D9qZQOez",
+    "Term": "acide",
+    "Definition": "En chimie, une solution aqueuse qui est acide a un pH inférieur à 7. Plus le pH est bas, plus l’acidité est forte. Selon la théorie Brønsted–Lowry des acides et des bases, aussi appelée la théorie protonique des acides et des bases, les acides peuvent donner un proton, aussi appelé cation d’hydrogène (H+). Dans la théorie de Lewis des réactions acides-bases, les acides peuvent former une liaison covalente avec une paire d’électrons.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recsuaXRvGHmDOp4A"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "In chemistry, a water-based solution that is acidic has a pH below 7, with a lower pH indicating a stronger acid. In the Brønsted–Lowry theory of acids and bases, also called the proton theory of acids and bases, acids are capable of donating a proton, also known as a hydrogen cation (H+). In the Lewis theory of acid-base reactions, acids are capable of forming a covalent bond with an electron pair."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      70
+    ]
+  },
+  {
+    "id": "recj3TAUL1rY5U9fH",
+    "Term": "médicament",
+    "Definition": "Un médicament est une substance utilisée pour traiter une maladie, une blessure ou une condition médicale. On imagine souvent que les médicaments sont des liquides ou des pilules prescrits comme traitement, bien que les médicaments puissent aussi être prescrits sous d’autres formes (p. ex. inhalation, injection intraveineuse, crème topique). Le mot remède est souvent employé comme synonyme de médicament.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recOLVaA8YtoF3ofN"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "A medicine is a substance or therapy used to treat an illness, injury, or medical condition. Medicines are often thought of as liquids or pills that are prescribed as treatment, though medicines may also be prescribed in other forms (i.e. inhaled, intravenous, topical creams). The words medication, pharmaceutical, remedy, and drug are commonly used in the same way as the word medicine.\n\nThe practice of medicine is broadly defined as the art and science of maintaining and promoting health, and preventing and curing disease."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      84
+    ]
+  },
+  {
+    "id": "recM647kH2iMZKYRK",
+    "Term": "traitement",
+    "Definition": "Dans le domaine des soins de santé, un traitement est une thérapie qui est utilisée afin de prévenir, traiter ou guérir une condition particulière. Les traitements comprennent des thérapies telles que les médicaments, la chirurgie, la psychothérapie, la physiothérapie, les appareils d’assistance respiratoire, ainsi que la promotion d’habitudes de vie et d’un régime alimentaire sains.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recRog4Fq88ayf62O"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "In healthcare, a treatment is a therapy that is used to prevent, treat, or cure a particular condition. Treatments include therapies like medications, surgery, psychotherapy, physical therapy, breathing aids, and promotion of healthy diet and lifestyle habits."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      38
+    ]
+  },
+  {
+    "id": "recUR2oz4oTSgLd0D",
+    "Term": "vaccin",
+    "Definition": "Un vaccin est un produit développé pour aider le corps à reconnaître et à combattre virus ou bactéries. Il peut être conçu à partir de micro-organismes tués, traités ou vivants. D’après l’Organisation mondiale de la santé, « la vaccination est l’une des approches les plus efficaces pour prévenir les maladies », et les vaccins aident actuellement à protéger contre 25 différentes maladies, bien qu’il n’existe encore à ce jour aucun vaccin pour prévenir la COVID-19.\n",
+    "Status": "Published",
+    "EN Term": [
+      "rec9qqItwSTjq3Eae"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "A vaccine is a product made to help the body to recognize and fight viruses or bacteria. It may be made of killed, treated, or live microorganisms. According to the World Health Organization, \"vaccination is one of the most effective ways to prevent diseases,\" and, currently, vaccines help protect against 25 different diseases though there is no vaccine for COVID-19 at this time."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      64
+    ]
+  },
+  {
+    "id": "recqx10ln3a5rpAhO",
+    "Term": "hypothèse",
+    "Definition": "Une hypothèse est une idée ou une prédiction fondée sur des faits connus ou des observations. Une fois qu’une hypothèse a été émise, elle est testée plus avant grâce à des processus scientifiques afin de déterminer si l’idée est juste, partiellement juste ou fausse pour la situation donnée. On peut aussi décrire une hypothèse comme une estimation éclairée, une proposition, une prédiction ou une tentative d’explication.\n",
+    "Status": "Published",
+    "EN Term": [
+      "rec4gz4UIxctLqy94"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "A hypothesis is an idea or prediction based on known facts or observations. Once a hypothesis has been made, it is then further tested using scientific processes to determine if the idea is correct, partially correct, or incorrect in the given situation. A hypothesis may also be described as an educated guess, proposition, prediction, or tentative explanation."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      58
+    ]
+  },
+  {
+    "id": "rec9Q7nOhZ1jhFHrf",
+    "Term": "effets secondaires",
+    "Definition": "Un effet secondaire est un symptôme (habituellement indésirable) qui est provoqué par un médicament ou une thérapie qui sont administrés pour traiter une maladie. Les effets secondaires varient selon le traitement, mais aussi l’âge, le sexe, l’état de santé général, les autres maladies ou médicaments, le poids ou l’origine ethnique du patient. Les effets secondaires sont souvent à la fois mineurs et temporaires, mais dans certains cas, les effets secondaires peuvent être graves et provoquer une invalidité permanente.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recpDS35Y5vAuQ7Oa"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "A side effect is a symptom (usually undesirable) that is caused by a medication or therapy that is being used to treat an illness. Side effects vary depending upon the therapy as well as the patient's age, gender, general health, other illnesses or medications, weight, or ethnicity. Often side effects are both minor and temporary, but, in some instances, side effects can be severe and result in permanent disability. A side effect also may be called a side reaction or secondary effect."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      84
+    ]
+  },
+  {
+    "id": "recKgDIquwTvB5xPR",
+    "Term": "essai contrôlé randomisé",
+    "Definition": "Un essai contrôlé randomisé (ECR) est un type d’expérimentation scientifique dans lequel un groupe de personnes est divisé en plusieurs groupes au hasard. Ces groupes sont traités différemment pendant la durée de l’étude afin d’évaluer si les traitements expérimentaux changent l’état de santé des participants.\n\nDans un ECR, au moins un groupe de contrôle reçoit le traitement habituel (non expérimental), un placébo ou aucun traitement du tout. Au moins un groupe expérimental reçoit la thérapie à l’essai qui peut être un nouveau médicament, une dose de médicament différente, une éducation ciblée ou une autre intervention. Tous les participants de  l’ECR sont suivis pendant l’étude afin de déterminer si la thérapie expérimentale ou à l’essai change les résultats cliniques ; certaines thérapies peuvent améliorer ou empirer l’état de santé.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recwhS0IsusP5qFNc"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "A randomized controlled trial (RCT) is a type of scientific experiment where a group of people are randomly divided into multiple groups, and the groups are treated differently during the study period, to see if the experimental treatments change the participants' health. \n\nIn RCTs, there is at least one control group that receives either the standard (usual or non-experimental treatment), a placebo treatment, or no treatment at all. There is also at least one experimental group that receives the test therapy that may include a new medication, a different medication dose, targeted education, or other intervention.  All of the participants in an RCT are monitored during the study to determine the experimental/test therapy changes health outcomes; some therapies may improve or worsen health."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      127
+    ]
+  },
+  {
+    "id": "recR4kNk3CkZbxxGG",
+    "Term": "masque N95",
+    "Definition": "Les masques de protection respiratoire N95 (ou respirateurs N95) sont des masques spéciaux qui protègent la personne qui les porte contre l’inhalation de très petites particules en suspension dans l’air. Ils sont réglementés pour garantir qu’ils respectent des normes strictes de sécurité. D’autres pays utilisent d’autres codes pour des masques qui satisfont les mêmes exigences que les masques N95 en Amérique du Nord ; des exemples de masques de type N95 comprennent les KN95 en Chine et les FFP2 dans les pays européens.\n\nLes Centres de contrôle et de prévention des maladies des États-Unis ont déclaré que les masques N95 ne devraient pas être utilisés par le grand public pour se protéger contre la COVID-19, car les masques N95 devraient être réservés aux professionnels de la santé et aux premiers répondants médicaux.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recCEG85awzcotyRi"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "N95 masks (or N95 respirators) are special masks that protect the wearer from breathing in very small airborne particles. They are regulated to ensure that they meet strict standards for safety. Other countries use other codes for masks that meet the same requirements as N95 masks in the U.S.; some examples of other N95-type masks include the KN95 in China and FFP2 in European countries.\n\nThe U.S. Centers for Disease Control and Prevention has stated the N95 masks should not be used by the general public to prevent themselves from COVID-19 because N95 masks should be reserved for health care workers and medical first responders."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      106
+    ]
+  },
+  {
+    "id": "recjKH0OlRaHf6RVO",
+    "Term": "traitement symptomatique",
+    "Definition": "Un traitement symptomatique est un soin médical qui traite les symptômes d’une maladie (p. ex. la fièvre, les problèmes respiratoires, la diarrhée) sans traiter ni guérir l’affection ou la maladie qui cause les symptômes. Les traitements symptomatiques peuvent comprendre des médicaments, des traitements respiratoires, la physiothérapie, la psychothérapie ou d’autres traitements. Un traitement symptomatique peut être administré dans un hôpital, dans une clinique ou à domicile.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recde2XyBQC0lDace"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Supportive care is medical care that treats symptoms of illness (i.e. fever, breathing problems, diarrhea) without treating or curing the disease or illness that is causing the symptoms. Supportive care may include medications, breathing treatments, physical therapy, psychotherapy, or other treatments.  Supportive therapy may be provided in the hospital, clinic, or at home."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      56
+    ]
+  },
+  {
+    "id": "recNwmX7vYkDvonXD",
+    "Term": "dioxyde de chlore",
+    "Definition": "Le dioxyde de chlore est un gaz artificiel que l’on ne trouve pas à l’état naturel dans l’environnement et qui est irritant pour les yeux, le nez, la gorge et les poumons. Ces applications industrielles sont nombreuses (dont comme désinfectant) et il est utilisé en quantités contrôlées en tant que produit chimique commercial pour certains traitements médicaux, en agriculture, dans la transformation des aliments, pour la fabrication du papier, les nettoyages et le traitement de l’eau. Le dioxyde de chlore est inflammable et une exposition prolongée ou à dose élevée peut être mortelle.\n",
+    "Status": "Published",
+    "EN Term": [
+      "rec1XtRl9QPx5zxBQ"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Chlorine dioxide is a man made gas that does not occur naturally in the environment and is irritating to the eyes, nose, throat, and lungs. It has many industrial uses (including as a disinfectant) and is used in controlled quantities as a commercial chemical for certain medical treatments, agriculture, food processing, paper making, cleaning, and water treatment. Chloride dioxide is flammable and may be fatal with long-term or high-dose exposure. "
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      73
+    ]
+  },
+  {
+    "id": "recXmU1X3lGGvAQvK",
+    "Term": "essai clinique de provocation d'infection chez l'humain",
+    "Definition": "Un essai clinique de provocation d’infection chez l’humain est un type d’étude de recherche médicale qui aide à déterminer l’efficacité d’un vaccin à prévenir une maladie provoquée par un agent pathogène particulier (p. ex. un virus). Un volontaire reçoit le vaccin et dans les semaines qui suivent, le volontaire est intentionnellement exposé à l’agent pathogène (c.-à-d. au virus) pour évaluer si le vaccin prévient effectivement l’infection.\n",
+    "Status": "Published",
+    "EN Term": [
+      "rec5P1moAv3DjPkbT"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "A human challenge trial is a type of medical research study that helps to determine if a vaccine is effective in preventing illness against a particular pathogen (i.e. virus). A volunteer receives the vaccine and, in the weeks following, the volunteer is intentionally exposed to the pathogen (i.e. virus) to see if the vaccine works to prevent infection."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      61
+    ]
+  },
+  {
+    "id": "recRhgj5JSLOfvOdA",
+    "Term": "eaux d’égout",
+    "Definition": "Les eaux d’égout (aussi appelées eaux usées domestiques ou eaux usées urbaines) sont composées des eaux grises (c.-à-d. l’eau des éviers, des bains, des lave-vaisselle, des lave-linge), des eaux-vannes (c.-à-d. l’eau des toilettes), de savons et détergents, et de papier hygiénique. Les eaux d’égout peuvent être traitées dans le bâtiment où elles sont générées, bien qu’elles circulent plus généralement d’un bâtiment vers un grand réseau d’égout communautaire d’où elles sont acheminées vers une installation de traitement.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "recWPdGv9b1FzK2CA"
+    ],
+    "EN Term": [
+      "rec8jvvjIb2QmeUrA"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Sewage water (also called sewage, domestic wastewater, municipal wastewater) contains greywater (i.e. water from sinks, bathtubs, dishwashers, clothes washers), blackwater (i.e. water from toilets), soaps and detergents, and toilet paper. Sewage water may be treated in the building where it is generated though, more commonly, sewage water travels from a building into a larger community sewer system where is carried to a treatment facility."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      66
+    ]
+  },
+  {
+    "id": "recz0jNuVUBm0uUK0",
+    "Term": "transmission zoonotique",
+    "Definition": "« Transmission zoonotique » est le terme technique qui décrit la propagation d’affections (c.-à-d. de virus, de bactéries, de champignons, de parasites et autres) des animaux (animaux de compagnie, sauvages ou domestiques) aux êtres humains par une ou plusieurs des voies suivantes :\n– Contact direct : un contact avec le sang, la salive, l’urine, les matières fécales ou les liquides biologiques de l’animal\n– Contact indirect : contact avec l’endroit où vit l’animal (les granges, l’eau des aquariums, le sol)\n– Par vecteur : être mordu par une tique, une puce ou un moustique qui transmettent l’affection des animaux aux êtres humains\n– D’origine alimentaire : consommer des aliments contaminés tels que de la viande, des œufs ou du lait crus, ou des fruits ou légumes contaminés par les excréments d’un animal infecté\n– Hydrique : boire ou être en contact avec de l’eau contaminée par les matières fécales d’un animal infecté\nUne fois qu’un être humain est infecté, certaines maladies peuvent se propager de personne à personne.\n",
+    "Status": "Published",
+    "EN Term": [
+      "reclGZpfnO5BRIJdt"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Zoonotic transmission is the technical term that describes the spread of diseases (i.e. viruses, bacteria, fungi, parasites and others) from animals (pets, wild, or domestic animals) to humans, through one or more of the following routes:\n- Direct contact: contact with the animal's blood, saliva, urine, feces or body fluids\n- Indirect contact: contact with where the animal lives including barns, aquarium water, soil \n- Vector-borne: being bitten by a tick, flea, or mosquito that spreads the disease between animals and humans\n- Foodborne: eating contaminated foods like uncooked meat or eggs, raw milk, or eating fruits/vegetables contaminated with feces from an infected animal\n- Waterborne: drinking or coming into contact with water contaminated with feces from an infected animal\nOnce a human is infected, some diseases can then be spread from person to person."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      132
+    ]
+  },
+  {
+    "id": "recnhv2yUHkX5hnlg",
+    "Term": "gènes",
+    "Definition": "Les gènes renferment des renseignements relatifs à l’hérédité. Les caractères héréditaires (p. ex. la couleur des yeux et des cheveux, le groupe sanguin) sont transmis d’un parent à un enfant grâce aux renseignements relatifs à l’hérédité qui se trouvent dans les gènes.\n",
+    "Status": "Published",
+    "EN Term": [
+      "rechQcO5gs3FZMcPs"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Genes hold hereditary information. Hereditary traits (i.e. eye color, hair color, blood type) are passed from a parent to a child through the hereditary information in the genes. "
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      30
+    ]
+  },
+  {
+    "id": "recpPCg3MtoBXeJAN",
+    "Term": "homéopathique",
+    "Definition": "L’homéopathie (aussi appelée médecine homéopathique) et un système médical vieux de plus de 200 ans. Il est axé sur l’utilisation de produits qui proviennent de plantes, de minéraux et d’animaux afin de traiter ou prévenir des problèmes médicaux. D’après le Centre national pour la santé complémentaire et intégrative des États-Unis, une évaluation complète de données probantes par le Conseil pour la santé publique et la recherche médicale du gouvernement australien a, en 2015, conclu qu’il n’existe aucune donnée probante fiable pour déterminer que l’homéopathie est efficace, quel que soit le problème de santé. Les médicaments homéopathiques ne sont pas recommandés pour remplacer des traitements dispensés par un fournisseur de soins de santé.\n\nDans de nombreux pays, le contenu des produits homéopathiques n’est pas réglementé et les ingrédients actifs et inactifs pourraient ne pas refléter ce qui se trouve sur l’emballage du produit. Par ailleurs, certains ingrédients pourraient être toxiques. Plusieurs interactions dangereuses possibles peuvent survenir entre des produits homéopathiques et d’autres médicaments. De plus, les produits homéopathiques qui contiennent des métaux lourds et de l’alcool peuvent être nocifs.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recW0Z826AuxEWVeS"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Homeopathy (also called homeopathic medicine) is a medical system developed more than 200 years ago. It focuses on using products from plants, minerals, and animals to treat or prevent medical problems. According to the U.S. National Center for Complementary and Integrative Health, a 2015 comprehensive assessment of evidence by the Australian government's National Health and Medical Research Council that concluded that there is no reliable evidence that homeopathy is effective for any health condition. Homeopathic medicines are not recommended in place of care provided by a healthcare provider.\n\nHomeopathic products are not regulated for content in many countries, so active and inactive ingredients may not reflect what is on the product package, and some ingredients may be toxic. There are many possible dangerous interactions that may occur between homeopathic products and other medications. In addition, homeopathic products that contain heavy metals or alcohol may also be harmful."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      147
+    ]
+  },
+  {
+    "id": "rec5HTp2LsdCu43hN",
+    "Term": "camphre 1m",
+    "Definition": "Le camphre (aussi appelé Cinnamomum camphora) est un additif extrait du bois de camphrier. Le camphre est habituellement utilisé dans les onguents aux vapeurs médicamenteuses pour soulager la congestion. Il est aussi utilisé en médecine homéopathique.\n\nBien que certaines références suggèrent que le camphre peut être ajouté à des médicaments par voie orale contre le rhume et la toux, de nombreuses références indiquent que le camphre ne devrait pas être administré oralement. Le camphre provoque des effets graves (p. ex. brûlure de la bouche et de la gorge, vomissement) et sa toxicité peut provoquer des convulsions ou s’avérer mortelle, particulièrement chez les jeunes enfants. Le camphre ne devrait être utilisé que dilué adéquatement et ne devrait jamais être appliqué sur une peau atteinte de lésion.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recXRfJ1kKwVI1gH5"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Camphora (also called camphor, alcanfor, Cinnamomum camphora, kapur, larpuram, among other names) is an additive extracted from the wood of the Cinnamomum Camphora tree. Camphora is commonly used in vapor rub products to help with congestion, and is also used in homeopathic medicine.\n\nThough some references suggest that camphora may be added to oral cold and cough medicines, many references state that camphora should not be taken orally. Camphora has some serious side effects (i.e. burning of the mouth or throat, vomiting), and toxicity may cause seizures or death, especially in young children. Camphora should not be used unless properly diluted and should never be applied to broken skin. "
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      111
+    ]
+  },
+  {
+    "id": "recdnvJJlWcfNwwcD",
+    "Term": "examen paraclinique",
+    "Definition": "L’on a recours à un examen paraclinique (aussi appelé examen médical) pour confirmer la présence d’une maladie ou évaluer la sévérité d’une maladie chez des patients que l’on soupçonne atteint d’une maladie ou d’une condition particulière. Les examens paracliniques aident à établir ou à confirmer un diagnostic médical.\n\nIl existe de nombreuses différentes sortes d’examens paracliniques, dont les analyses de sang, les radiographies, les biopsies de tissu, les scintigraphies osseuses et bien d’autres qui peuvent être utilisées pour aider à diagnostiquer des conditions telles que la grossesse, l’anémie, le cancer, les infections ainsi que les problèmes cardiaques, visuels ou rénaux. Pour ce qui est de la COVID-19, il existe des examens paracliniques utilisés pour diagnostiquer les patients atteints de la COVID-19 et des examens pour détecter la présence d’anticorps chez les patients, afin de savoir s’ils ont contracté la COVID-19 auparavant, même s’ils sont maintenant guéris.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recPNexvQiug4RFJu"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "A diagnostic test (also commonly called a medical test) is used to confirm the presence of a disease or evaluate the severity of a disease for patients suspected of having a particular disease or condition. Diagnostic tests are used to make or confirm a medical diagnosis.\n\nThere are many different kinds of diagnostic tests, including blood tests, x-rays, tissue biopsies, bone scans, and more that may be used to help diagnose conditions including pregnancy, anemia, cancer, or infections as well as heart, vision, or kidney problems. In the case of COVID-19, there are diagnostic tests used to diagnose patients with COVID-19 and tests that are used to test patients for antibodies, to see if they were previously infected with COVID-19 even if they are now recovered."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      127
+    ]
+  },
+  {
+    "id": "recM2EWmzHDIcqxyB",
+    "Term": "spécificité",
+    "Definition": "La spécificité est une notion statistique qui décrit le nombre de personnes qui ne sont pas atteintes par une maladie et qui ont été correctement identifiées comme n’étant PAS atteintes par la maladie. Un examen de dépistage avec une spécificité élevée ne donne que rarement des résultats positifs chez les patients en santé, et un résultat positif signifie donc que la personne est probablement atteinte par la maladie.\n\nPar exemple, s’il est déterminé que 100 personnes ne sont PAS atteintes par une maladie et que toutes sont testées, un examen de dépistage avec une spécificité de 100 % ne donnerait aucun résultat positif.\n\nPour le même groupe, un examen de dépistage avec une spécificité de seulement 80 % aurait 80 résultats négatifs (et 20 positifs) bien que toutes les 100 personnes ne seraient PAS atteintes par la maladie.\n\nLa spécificité est aussi appelée communément « taux de vrais négatifs ».\n",
+    "Status": "Published",
+    "EN Term": [
+      "recc8ZAXzbbMiYc51"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Specificity is a statistical term that describes the number of people without an illness that are correctly identified as NOT having the illness. A test with high specificity rarely gives positive test results in healthy patients, so a positive test result means that it is likely that someone has the illness.\n\nFor example, if 100 people are known NOT to have an illness and all are tested, a test with 100% specificity would show 0 positive test results. Using the same group, a test with only 80% specificity would have 80 negative test results (and 20 positive results) even though all 100 people do NOT have the illness.\n\nSpecificity is is also commonly called the \"true negative rate.\""
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      117
+    ]
+  },
+  {
+    "id": "reckAWw5rvSyu1T2D",
+    "Term": "sensibilité",
+    "Definition": "Dans la terminologie de la santé publique, la sensibilité est une notion statistique qui décrit le nombre de personnes atteintes d’une maladie particulière et qui ont bien été identifiées comme porteuses de cette maladie. Ce terme est souvent utilisé pour décrire la fiabilité d’un examen médical de dépistage à établir un diagnostic, en s’assurant qu’il y a aussi peu de faux négatifs (des personnes atteintes de la maladie, mais qui reçoivent des résultats négatifs) que possible.\n\nPar exemple, si 100 personnes atteintes d’une maladie sont testées, un examen de dépistage dont la sensibilité est de 100 % impliquerait que les résultats des 100 examens ont été positifs. Pour le même groupe, un examen de dépistage avec une sensibilité inférieure pourrait avoir 80 résultats positifs et 20 personnes qui auraient reçu des faux négatifs, bien qu’elles soient effectivement atteintes par la maladie.\n\nLa sensibilité est aussi appelée communément « taux de vrais positifs », « rappel », « sensibilité épidémiologique », « sensibilité clinique » ou « probabilité de détection ».\n",
+    "Status": "Published",
+    "EN Term": [
+      "rec06X4QusZL1zCzd"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Sensitivity in public health terminology is a statistical term that describes the number of people who have a particular illness and are correctly identified as having that illness. It is often used to describe how reliable a medical test is for making a diagnosis, by making sure that there are as few false negatives (people who have the illness but receive a negative test result) as possible. \n\nFor example, if 100 people with an illness are tested, a test with 100% sensitivity would show 100 positive test results. Using the same group, a test with lower sensitivity could have 80 positive test results and 20 people would receive false negative results even though they do indeed have the illness.\n\nSensitivity is also commonly called the \"true positive rate,\" \"recall,\" \"epidemiological sensitivity,\" \"clinical sensitivity,\" or \"probability of detection.\""
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      137
+    ]
+  },
+  {
+    "id": "rectEEG97iAhTnwMP",
+    "Term": "organe",
+    "Definition": "Un organe est une partie du corps avec une structure, une fonction et un type de cellules particuliers. Comme organes du corps humain, nous avons entre autres : le cœur, le foie, l’estomac, le cerveau, les reins et les poumons. Les organes du corps humain font partie de systèmes d’organes. Par exemple, le système digestif comprend l’estomac en plus de l’œsophage et des intestins ; le système circulatoire comprend à la fois le cœur et les vaisseaux sanguins qui font circuler le sang dans le corps. Il y a en tout 10 systèmes d’organes qui sont : le système tégumentaire (la peau), le système squelettique (les os), le système musculaire (les muscles), le système nerveux (les nerfs), le système endocrinien (les hormones), le système digestif, le système respiratoire (la respiration), le système circulatoire, le système excréteur (l’urine et les résidus) et le système reproducteur.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recqwr4O57SOjNZYx"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "An organ is a body part with a specific structure, function, and cell type. Organs in the human body include, but are not limited to, the heart, liver, stomach, brain, kidneys, and lungs. Organs in the human body are part of organ systems. For example, the digestive system includes the stomach in addition to the esophagus and intestines; the circulatory system includes both the heart and blood vessels that circulate blood throughout the body. There are 10 organic systems in total including the following: integumentary (skin), skeletal (bones), muscular (muscles), nervous (nerves), endocrine (hormonal), digestive, respiratory (breathing), circulatory, excretory (urine, waste), and reproductive."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      104
+    ]
+  },
+  {
+    "id": "recqh7jpeKkP8wV65",
+    "Term": "vaisseaux sanguins",
+    "Definition": "Les vaisseaux sanguins sont des conduits qui parcourent le corps. Les vaisseaux sanguins les plus gros transportent le sang des parties du corps vers le cœur (les veines) et du cœur vers les autres parties du corps (les artères). Les vaisseaux sanguins les plus gros se connectent à des vaisseaux sanguins plus petits qui transportent le sang dans les tissus où ils échangent l’eau, l’oxygène, le dioxyde de carbone et d’autres composés (p. ex. des vitamines, minéraux, électrolytes, hormones). Les artères, les artérioles, les capillaires et les veinules et les veines sont différentes sortes de vaisseaux sanguins qui composent le système circulatoire.\n\nD’autres mots utilisés pour décrire les vaisseaux sanguins sont : système vasculaire, système cardio-vasculaire (le cœur et les vaisseaux sanguins) et système circulatoire.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recqf9kWDH9WkLibg"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Blood vessels are tubes of different sizes present throughout the body. Larger blood vessels carry blood to the heart from other parts of the body (veins) or away from the heart to other parts of the body (arteries). Larger blood vessels connect to smaller blood vessels in the body that transport blood within tissues, where they exchange water, oxygen, carbon dioxide, and other compounds (i.e. vitamins, minerals, electrolytes, hormones). Arteries, arterioles, capillaries, venules, and veins are all different types of blood vessels that are part of the circulatory system. \n\nOther words that are used to describe blood vessels include vascular system, cardiovascular system (includes the heart and blood vessels), and circulatory system."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      114
+    ]
+  },
+  {
+    "id": "rec6NlTvOmQP1MrDn",
+    "Term": "randomisation",
+    "Definition": "La randomisation est une technique utilisée en recherche scientifique pour diviser au hasard des participants en groupes, plutôt que de les diviser par choix. Une fois que les patients satisfont les critères généraux pour participer à une étude, la randomisation permet de réduire les partis pris afin que toutes les personnes qui participent à l’étude aient la même chance de participer à un groupe de traitement (ou d’examen de dépistage) ou à un groupe de contrôle. Elle empêche les chercheurs de sélectionner volontairement certains patients qui auraient probablement de meilleurs résultats dans l’étude (p. ex. des patients plus jeunes ou qui semblent généralement plus en santé).\n",
+    "Status": "Published",
+    "EN Term": [
+      "recPX0N6FB6koiXCL"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Randomization is a technique used in scientific research to divide participants into random groups by chance, rather than assigning them by choice. Once patients meet the general criteria to be included in a study, randomization is done to reduce bias so that everyone who participates in the study has an equal chance of being in a treatment (or test) group or a control group. It prevents researchers from purposely selecting certain patients who are more likely to perform better in the study (i.e. patients who are younger or those who seem generally healthier). "
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      95
+    ]
+  },
+  {
+    "id": "rec6BK76qM5Mkp3YQ",
+    "Term": "insu",
+    "Definition": "Insu est un terme qui est utilisé quand des renseignements sont cachés aux participants à une recherche, aux fournisseurs de soins et parfois aux chercheurs ainsi qu’aux membres de l’équipe de recherche (c.-à-d. analystes de données, évaluateurs, superviseurs), dans le cadre du protocole de recherche, pendant la période d’étude. Les essais randomisés contrôlés sont fréquemment à l’insu, afin que ni les participants ni les chercheurs ne sachent si les patients en reçu le traitement évalué, le placébo ou le traitement habituel.\n\nUne étude à l’insu tend à réduire ou à éliminer les préjugés qui pourraient influencer la façon dont les gens se comportent, se sentent ou observent ce qui s’est passé au cours d’une étude. Une fois l’étude terminée, les détails de l’étude sont révélés à toutes les personnes qui y ont participé (en tant que participants ou chercheurs).\n\nUn essai de recherche clinique qui n’est pas à l’insu est dit « ouvert ».\n",
+    "Status": "Published",
+    "EN Term": [
+      "reccupU786x3cn86Q"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Blinding is a term used when information is hidden from research participants, care providers, and, sometimes, researchers and members of the research team (i.e. data analysts, evaluators, supervisors) as part of the research protocol during the study period. Blinding is commonly used in randomized controlled trials so that participants and researchers are unaware if patients are receiving the test treatment, placebo, or standard treatment. \n\nBlinding aims to reduce or eliminate biases that may impact how people behave, feel, or observe what happens during a study. When the study is finished, all people participating in the study (as participants or researchers) are unblinded and the study details are available.\n\nOther terms used for blinding include blind, blinded, or masked. A clinical research trial that is not blinded is called an \"open trial.\""
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      131
+    ]
+  },
+  {
+    "id": "recSJumy3t2WyxITV",
+    "Term": "infection bactérienne",
+    "Definition": "Il existe de nombreuses sortes de bactéries qui vivent naturellement sur la peau, mais aussi dans le nez, la bouche et le tube digestif. La plupart du temps, elles sont inoffensives et dans certains cas, il a été démontré qu’elles favorisent la digestion et la prévention de certaines maladies.\n\nUne infection bactérienne survient quand des bactéries nocives entrent dans le corps et commencent à se multiplier. Il peut y avoir infection bactérienne n’importe où dans le corps, dont les poumons, la gorge et sur la peau. Les symptômes d’une infection bactérienne diffèrent d’après le site de l’infection (c.-à-d. une inflammation de la gorge est un symptôme courant d’une infection par streptocoque alors qu’une intoxication alimentaire d’origine bactérienne peut provoquer des vomissements et une diarrhée). Les antibiotiques peuvent être utilisés pour traiter des infections bactériennes. Si les infections bactériennes ne sont pas traitées, elle peut s’aggraver.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recVfOgvT8WVpJgfA"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "There are many different kinds of bacteria that naturally live on the skin, as well as in the nose, mouth, and digestive tract. Most of the time these bacteria are not harmful and, in some cases, they have been shown to help with digestion and prevention of some illnesses.\n\nA bacterial infection occurs when harmful bacteria enter the body and begin to multiply. Bacterial infections can occur anywhere in the body including the lungs, throat, intestines, or on the skin. Symptoms of bacterial infection are different depending upon where the infection is located (i.e. a sore throat is a common symptom of Streptococcus infection of the throat, food poisoning caused by bacteria may cause vomiting or diarrhea). Antibiotics may be used to treat bacterial infections and, if bacterial infections are left untreated, they can become severe. "
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      138
+    ]
+  },
+  {
+    "id": "recHM7OkgPC2MdHBD",
+    "Term": "distanciation sociale",
+    "Definition": "D’après les Centres de contrôle et de prévention des maladies des États-Unis, la distanciation sociale est le fait de garder une distance entre les autres et vous en dehors de votre domicile, afin de prévenir la propagation de la COVID-19. Pour appliquer la distanciation sociale, les experts recommandent que les personnes restent à au moins deux mètres (six pieds) les unes des autres. La distanciation sociale est aussi parfois appelée distanciation physique.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recEer1bgt6r6jukM"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "According to the U.S. Centers for Disease Control and Prevention, social-distancing is the act of keeping space between yourself and other people outside of your home to prevent the spread of COVID-19.  To practice social-distancing, experts recommend that people stay at least 6 feet (2 meters) apart.  Social-distancing is also sometimes called physical distancing."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      58
+    ]
+  },
+  {
+    "id": "recEYJjGevGGPrHyh",
+    "Term": "alcalin",
+    "Definition": "En chimie, alcalin est un adjectif qui est parfois utilisé pour décrire un sous-ensemble de bases qui se dissolvent dans l’eau. Cependant, l’alcalinité est un terme différent utilisé par les océanographes et les hydrologues afin de décrire la capacité de l’eau à résister aux changements de pH qui pourraient la rendre plus acide, par opposition à la basicité qui désigne une mesure supérieure à 7 sur l’échelle des pH.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recRBN7gJLeGv6er4"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "In chemistry, alkaline is an adjective that is sometimes used to describe a subset of bases that dissolve in water. Alkalinity, however, is a different term used by oceanographers and hydrologists to describe the capacity of water to resist pH changes that would make it more acidic, in contrast to basicity which refers to a measurement on the pH scale above 7."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      63
+    ]
+  },
+  {
+    "id": "rec0KJjHrcxo05lLS",
+    "Term": "anticorps",
+    "Definition": "Une protéine du sang produite pour répondre à un antigène particulier et le contrer. Les anticorps se combinent chimiquement aux substances que le corps reconnaît comme étrangères telles que les bactéries, les virus et les substances étrangères dans le sang.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recmajcAORyuqhZPc"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "A blood protein produced in response to and counteracting a specific antigen. Antibodies combine chemically with substances which the body recognizes as alien, such as bacteria, viruses, and foreign substances in the blood."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      34
+    ]
+  },
+  {
+    "id": "recXBuJQzCKHioMZn",
+    "Term": "antigène",
+    "Definition": "Les antigènes sont des molécules qui peuvent stimuler la réponse immunitaire du corps et la production d’anticorps.\n",
+    "Status": "Published",
+    "EN Term": [
+      "rectkO1d0FhUHQ0Of"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Antigens are molecules that are capable of stimulating body's immune response and production of antibodies."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      16
+    ]
+  },
+  {
+    "id": "recFMMbK7Ypphyluw",
+    "Term": "arsenicum album 30",
+    "Definition": "Arsenicum album (aussi appelé oxyde arsénieux, anhydride arsénieux ou trioxyde d’arsenic) est couramment utilisé en médecine homéopathique sous la forme de poudre, de liquide ou de tablette pour traiter les troubles digestifs, la toux et le rhume. Il n’existe aucune directive scientifique qui suggère comment, quand ni même si l’arsenic album devrait être utilisé.\n\nAlors que les références homéopathiques indiquent que l’arsenic album contient une quantité d’arsenic minimal, d’autres références utilisent soit arsenic soit arsenic album. L’arsenic est un minéral naturel que l’on peut retrouver en petite quantité dans les denrées alimentaires. Il est important de noter que l’arsenic est reconnu comme toxique s’il est administré oralement ou inhalé (en poussière ou fumée). Une exposition prolongée ou à haute dose peut provoquer une irrigation des muqueuses (c.-à-d. les tissus du nez, de la gorge et des poumons), une incidence accrue de certains types de cancers et peut provoquer des problèmes cérébraux, du système nerveux, des reins et du foie.\n",
+    "Status": "Published",
+    "EN Term": [
+      "rec9MiUSM1r2HMDYp"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Arsenic album (also called arsenious oxide, arsenic trioxide) is commonly used in homeopathic medicine as a powder, liquid, or tablet to treat digestive disorders, cough, and cold. There are no scientific guidelines that direct how, if, or when arsenic album should be used.\n\nWhile homeopathic references state that arsenic album contains minimal amounts of arsenic, some other references use arsenic and arsenic album interchangeably. Arsenic is a naturally occurring mineral and can be present in food products in small amounts. It is important to note that arsenic is known to be toxic when taken orally or inhaled (by dust or fumes). Long-term or high dose exposure can cause irritation of mucous membranes (i.e. tissues of the nose, throat, lungs), increased incidence of some types of cancer, and may cause brain, nervous system, kidney, and liver problems."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      138
+    ]
+  },
+  {
+    "id": "recyrha2laAhtKt7T",
+    "Term": "basique",
+    "Definition": "En chimie, une solution aqueuse qui est basique a un pH supérieur à 7. Plus le pH est haut, plus la basicité est forte. Selon la théorie Brønsted–Lowry des acides et des bases, aussi appelée la théorie protonique des acides et des bases, les acides peuvent donner un proton, aussi appelé cation d’hydrogène (H+). Dans la théorie de Lewis des réactions acides-bases, les acides peuvent former une liaison covalente avec une paire d’électrons.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recN0E4c0ZVOIyLJP"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "In chemistry, a water-based solution that is basic has a pH above 7, with a higher pH indicating a stronger base. In the Brønsted–Lowry theory of acids and bases, also called the proton theory of acids and bases, bases are capable of receiving a proton, also known as a hydrogen cation (H+). In the Lewis theory of acid-base reactions, bases are capable of donating an electron pair."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      68
+    ]
+  },
+  {
+    "id": "reccc7sbQGzLX8n7V",
+    "Term": "ADN",
+    "Definition": "L’acide désoxyribonucléique (ADN) est un porteur autopropageable de renseignements génétiques chez les humains et chez de nombreux autres organismes.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "recQc3te6Xja0OheW"
+    ],
+    "EN Term": [
+      "recS7r4IRJ4w3tzwS"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Deoxyribonucleic acid (DNA) is a self-replicating carrier of genetic information in humans and many other organisms."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      17
+    ]
+  },
+  {
+    "id": "receu0Se7RvmZU5Et",
+    "Term": "virus à ADN",
+    "Definition": "Les virus à ADN ont l’acide désoxyribonucléique (ADN) comme matériel génétique. Par exemple, l’herpès et le virus du papillome humain (VPH) sont des virus à ADN.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "recQc3te6Xja0OheW"
+    ],
+    "EN Term": [
+      "rec7N5hddau1BMOkc"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "DNA viruses have deoxyribonucleic acid (DNA) as their genetic material. Examples of DNA viruses include herpes and human papillomavirus (HPV)."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      22
+    ]
+  },
+  {
+    "id": "recLR4trFbmVZWJFW",
+    "Term": "noyaux de condensation",
+    "Definition": "Les noyaux de condensation sont les résidus évaporés de gouttelettes respiratoires, expulsées par une personne infectée quand elle tousse, éternue, parle, chante ou même respire. Ils sont habituellement inférieurs à 5 μm et peuvent rester en suspension dans l’air plus longtemps et être dispersés plus loin par les courants d’air que les gouttelettes respiratoires plus grosses et plus lourdes.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recTotk6ZnYu3ib8P"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Droplet nuclei are evaporated residues from respiratory droplets expelled by an infected person coughing, sneezing, talking, singing, or even just breathing. They are typically smaller than 5μm, so they can stay suspended in the air for longer and be dispersed farther by air currents compared to larger and heavier respiratory droplets."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      53
+    ]
+  },
+  {
+    "id": "recz5ClAVUD2kPBXj",
+    "Term": "encéphalopathie",
+    "Definition": "Encéphalopathie désigne une maladie qui affecte le fonctionnement ou la structure du cerveau, ce qui peut entraîner une altération de l’état mental. Sans traitement, l’encéphalopathie peut provoquer une lésion temporaire ou permanente du cerveau.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recR9wzTcTIDRvZxF"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Encephalopathy refers to a disease that damages or affects the function or structure of the brain, which can result in an altered mental state. Without treatment, encephalopathy can cause temporary or permanent brain damage."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      35
+    ]
+  },
+  {
+    "id": "rec9q6Fgoz6vYkNcn",
+    "Term": "ÉPI",
+    "Definition": "ÉPI veut dire équipement personnel de protection. Pour prévenir la transmission de la COVID-19, les ÉPI comprennent souvent les masques chirurgicaux, les masques N95, les couvre-visages, les visières de protection, les lunettes de protection, les gants, les blouses de laboratoire et d’autres équipements.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recuQuM83b2X3K9Bx"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "PPE stands for personal protective equipment. For the prevention of COVID-19 transmission, PPE often includes surgical masks, N95 respirators, face coverings, face shields, protective eye goggles, gloves, gowns, or other equipment."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      32
+    ]
+  },
+  {
+    "id": "recIcC0xIWdTug9xu",
+    "Term": "fièvre",
+    "Definition": "Une fièvre désigne une élévation temporaire de la température corporelle au-dessus de la normale et peut signaler que le corps combat une infection. Les Centres de contrôle et de prévention des maladies des États-Unis définissent une fièvre comme une température mesurée d’au moins 38 °C (100,4 °F), légèrement plus élevée que la température moyenne du corps humain de 37 °C (98,6 °F). La fièvre est l’une des premières réactions du système immunitaire à un agent pathogène tel qu’un virus ou une bactérie qui pénètre dans le corps, mais elle peut aussi être provoquée par des facteurs environnementaux tels qu’un coup de chaleur ou des réponses biologiques dont le sevrage de l’alcool. Le corps détecte ces menaces et se force à augmenter sa température (en libérant dans le sang des substances chimiques dites « pyrogènes ») afin qu’il soit difficile pour l’agent pathogène d’utiliser votre corps en tant qu’hôte et d’enrayer la reproduction des virus et bactéries.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recqLd1GRoBwTquBo"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "A fever refers to when the body temperature has temporarily increased above normal and can signal that the body fighting off an infection. The U.S. Centers for Disease Control and Prevention (CDC) define a fever as a measured temperature of at least 100.4°F (38°C), slightly higher than the average human temperature is 98.6°F (37°C). Fever is one of the immune system's first reactions to a pathogen like a virus or bacteria entering the body, but it can also be caused by environmental factors like heat stroke or biological responses like alcohol withdrawal. The body senses these potential threats and forces itself to raise its temperature (by creating a fever through chemicals in your blood called 'pyrogens') to make it difficult for the pathogen to use your body as a host and reproduce viruses or bacteria there. "
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      138
+    ]
+  },
+  {
+    "id": "recgbTAPtGThjSYOm",
+    "Term": "disparités en matière de santé",
+    "Definition": "Les disparités en matière de santé désignent les façons dont les groupes sociaux défavorisés, tels que les minorités raciales ou ethniques ou les femmes, subissent des résultats cliniques systématiquement inférieurs par rapport aux autres groupes sociaux.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recGMwZch5wdgRtEO"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Health disparities refer to the ways in which disadvantaged social groups, such as racial or ethnic minorities or women, systematically experience poorer health outcomes, compared to other social groups.\n"
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      31
+    ]
+  },
+  {
+    "id": "recevPz2WhLg4NJZb",
+    "Term": "taux d’incidence",
+    "Definition": "Le taux d’incidence mesure le nombre de nouveaux cas d’une maladie : le numérateur est le nombre de nouveaux cas pour un intervalle donné et le dénominateur est la population moyenne pendant cet intervalle.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recmPbJ79ZZs8PRcU"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "The incidence rate measures the number of new cases of disease: the numerator is the number of new cases over a specific time interval and the denominator is the average population during that time interval."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      37
+    ]
+  },
+  {
+    "id": "reczCKPrJhiJ2tXF3",
+    "Term": "stéroîdes inhalés",
+    "Definition": "Les corticostéroïdes inhalés, souvent appelés stéroïdes inhalés, désignent des corticostéroïdes qui sont administrés à un patient par inhalation. Les corticostéroïdes sont des médicaments qui réduisent l’inflammation et suppriment l’activité immunitaire du corps. Ils peuvent être inhalés, administrés oralement, par intraveineuse ou par injection. Les corticostéroïdes peuvent être prescrits aux patients qui présentent des problèmes de santé tels que les atopies (p. ex. l’asthme), les maladies auto-immunes (p. ex., l’arthrite, les affections cutanées, les recto-colites hémorragiques, la maladie de Crohn) et la bronchopneumopathie chronique obstructive (BPCO). Certains corticostéroïdes moins puissants sont aussi proposés en vente libre.\n\nLes corticostéroïdes imitent le cortisol, une hormone produite naturellement par la glande suprarénale chez une personne en santé. Bien que le nom corticostéroïde puisse être raccourci en « stéroïde », il ne faut pas confondre cette sorte de stéroïdes avec les autres sortes, telles que les stéroïdes associés aux hormones mâles, et qui font l’objet d’un usage excessif chez certains athlètes.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recReyhOIWxm2lHoe"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Inhaled corticosteroids, often shortened to inhaled steroids, refer to corticosteroids that are delivered to a patient through inhalation. Corticosteroids are medications that reduce inflammation and suppress the body's immune system activity, which can be inhaled, taken orally, given through an intravenous line (IV), or injected. Corticosteroids can be prescribed for patients with health conditions including atopic diseases (ex. asthma), autoimmune diseases (ex. arthritis, skin disorders, ulcerative colitis, Crohn's disease), and chronic obstructive pulmonary disease (COPD). Some milder corticosteroids are also available over-the-counter (OTC).\n\nCorticosteroids mimic a hormone called cortisol that is naturally produced by the body's adrenal glands when healthy. While the name corticosteroids can be shortened to steroids, this type of steroid should not be confused with other types of steroids, such as steroids related to male hormones that can be abused by athletes."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      136
+    ]
+  },
+  {
+    "id": "recMACEU6dnuGN3Pg",
+    "Term": "malaria",
+    "Definition": "D’après les Centres de contrôle et de prévention des maladies des États-Unis, la malaria est une maladie provoquée par des parasites plasmodium, transmis par les moustiques anophèles femelles.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recdLqq4xHzeWYco5"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "According to the U.S. Centers for Diseases Control, malaria is a disease caused by Plasmodium parasites, transmitted by female Anopheles mosquitoes."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      22
+    ]
+  },
+  {
+    "id": "recF3mpjfFBpnnj9v",
+    "Term": "médecine",
+    "Definition": "La pratique de la médecine est largement définie comme étant l’art et la science du maintien et de la promotion de la santé, ainsi que la prévention et la guérison des maladies.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recOLVaA8YtoF3ofN"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "A medicine is a substance or therapy used to treat an illness, injury, or medical condition. Medicines are often thought of as liquids or pills that are prescribed as treatment, though medicines may also be prescribed in other forms (i.e. inhaled, intravenous, topical creams). The words medication, pharmaceutical, remedy, and drug are commonly used in the same way as the word medicine.\n\nThe practice of medicine is broadly defined as the art and science of maintaining and promoting health, and preventing and curing disease."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      84
+    ]
+  },
+  {
+    "id": "recIB5XvMmhwvzGIW",
+    "Term": "micromètre (μm)",
+    "Definition": "Un micromètre (symbole μm) est un millionième de mètre. Le terme micron est l’ancien nom du micromètre. À ne pas confondre avec le micromètre, appareil de mesure. Le système international d’unités (SI) préconise l’utilisation du mot micromètre et non micron.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recy3qWpegJbN2rbV"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "A micrometer/micrometre (symbolized with μm) is a millionth of a meter/metre. It is also commonly called a micron. In American English, the use of micron can help differentiate from a measuring device that is also called a micrometer. In the International System of Units (SI), the use of micrometre is preferred over micron."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      55
+    ]
+  },
+  {
+    "id": "recuSDkNfT7ViYE2W",
+    "Term": "travailleur migrant",
+    "Definition": "Les travailleurs migrants sont des travailleurs qui se déplacent à l’intérieur de leur pays (d’un état, province ou région à l’autre) ou à l’extérieur de leur pays à la recherche de travail. Dans le contexte indien, les travailleurs migrants ne reçoivent habituellement que peu d’avantages et vivent des conditions de travail précaires. Beaucoup de ces travailleurs migrants indiens travaillent dans des secteurs non structurés et se déplacent temporairement d’états tels que le Bihar et le Jharkhand pour travailler dans des villes de destination telles que Delhi ou Mumbai.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recSMSaoUfxS4ZXWq"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Migrant laborers are workers who move within their country (from one state to another) or outside their country in search of work. In the Indian context, migrant laborers are typically provided very few benefits, and live in precarious working conditions. Many of these Indian migrant laborers work in the informal sector and move temporarily from states such as Bihar and Jharkhand to work in destination cities like Delhi or Mumbai."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      72
+    ]
+  },
+  {
+    "id": "recgAUh3t2FDPwmFd",
+    "Term": "anticorps monoclonaux",
+    "Definition": "Élaborés dans les années 1970, les anticorps monoclonaux sont habituellement produits en laboratoire par clonage pour agir en tant qu’anticorps optimisés (des protéines synthétisées par le corps pour combattre les infections). Les anticorps monoclonaux (le préfixe « mono » signifie un) sont différents des anticorps polyclonaux (le préfixe « poly » signifie plusieurs) :\n1) Les anticorps monoclonaux proviennent de cellules identiques, toutes clonées à partir d’une seule cellule parente ;\n2) Les anticorps polyclonaux se lient à un seul épitope, c’est-à-dire la même partie d’un antigène (une substance extérieure au corps qui peut déclencher une réponse immunitaire, par exemple un virus).\nEn raison de leurs propriétés, les anticorps monoclonaux peuvent être produits à grande échelle avec une qualité et une pureté constantes. De plus, les anticorps monoclonaux ont le potentiel de fournir des bienfaits thérapeutiques au système immunitaire, car ils sont très sélectifs quant à la manière de se lier à des antigènes particuliers qui provoquent une maladie. Les applications médicales des anticorps monoclonaux comprennent des médicaments anticancéreux.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recFg30lvATvVhmBG"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "First developed in the 1970s, monoclonal antibodies are typically produced in a lab through cloning to act as optimized antibodies (proteins made by the body to fight infections). Monoclonal antibodies (the prefix \"mono-\" means one) are different from polyclonal antibodies (the prefix \"poly-\" means many):\n1) Monoclonal antibodies are made by identical immune cells, all cloned from a single parent cell; and\n2) Monoclonal antibodies bind to a single epitope, meaning the same part of an antigen (a substance from outside the body that can trigger an immune response, like a virus).\nDue to these properties, monoclonal antibodies have the potential to be produced with consistent quality and purity at a large scale. Additionally, monoclonal antibodies have the potential to provide therapeutic benefits to the immune system because they are highly selective in how they bond to specific antigens that cause disease. Medical applications of monoclonal antibodies have included drugs for cancer."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      151
+    ]
+  },
+  {
+    "id": "recHYjG5RUFa2jfZo",
+    "Term": "taux de mortalité",
+    "Definition": "Le taux de mortalité mesure le nombre de décès dans une population donnée pendant une période ou un intervalle de temps précis : le numérateur est le nombre de décès pour une période donnée et le dénominateur est la taille de la population dans laquelle les décès ont été constatés.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recE5fZ79yZqKorXK"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "The mortality rate measures the frequency of death in a given population over a defined time period or interval. The numerator is the number of deaths that have occurred over a given time period, and the denominator is the size of the population among which the deaths occurred."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      50
+    ]
+  },
+  {
+    "id": "recOBSKsU65bj01vn",
+    "Term": "muqueuse",
+    "Definition": "Les muqueuses sont des revêtements fins de cellules qui sécrètent du mucus. Sur le visage, cela comprend les tissus de surface des yeux, du nez et de la bouche.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recFMi3UQAPSUjsl4"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Mucous membranes (also known as mucosae in plural form) are thin linings of cells that secrete mucus. On the face, this includes the tissues at the surfaces of the eyes, nose, and mouth."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      36
+    ]
+  },
+  {
+    "id": "rec65HQpF7frJHtGb",
+    "Term": "nanocorps",
+    "Definition": "Les nanocorps sont des anticorps plus simples et plus petits à domaine unique produits par les camélidés tels que les chameaux, les alpagas et les lamas. D’après les Instituts nationaux de santé des États-Unis, les caractéristiques spéciales des nanocorps comprennent la stabilité de stockage d’agents de traitement et la possibilité d’administration par inhalateur directement dans les poumons, qui pourrait avoir une action bénéfique pour les maladies respiratoires telles que la COVID-19.\n",
+    "Status": "Published",
+    "EN Term": [
+      "receVKrMsC3UKbBf7"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Nanobodies are simpler and smaller \"single-domain\" antibodies, produced by camelids like camels, alpacas, and llamas.  According to the U.S. National Institutes of Health, special features of nanobodies include stability for storage of therapeutics and the potential for delivery through an inhaler directly to the lungs, which may be beneficial for respiratory diseases like COVID-19. "
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      57
+    ]
+  },
+  {
+    "id": "reclRZ9TEf4UFI2Bi",
+    "Term": "nébuliseur",
+    "Definition": "Les nébuliseurs sont un type d’inhalateurs qui atomisent un médicament liquide, qui peut ainsi être plus facilement inhalé pour une administration dans les poumons. Les nébuliseurs peuvent être plus coûteux (selon l’assurance) que les types d’inhalateurs plus courants qui sont utilisés par les personnes asthmatiques. Les patients utilisent habituellement des nébuliseurs pour des raisons particulières, par exemple un enfant ou une personne atteints d’asthme aigu qui auraient des difficultés à inhaler un médicament.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recXoBYjLFsoNt5pc"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Nebulizers are a type of inhaler that change liquid medications to a mist, which can be more easily inhaled for delivery to the lungs. Nebulizers can be more expensive (depending on insurance) than the most common type of inhaler used by people with asthma, and patients usually use nebulizers for specific reasons, such as if a child or someone with severe asthma is having difficulties inhaling medicine."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      68
+    ]
+  },
+  {
+    "id": "rec4qaGiLgF9X6Epn",
+    "Term": "anticorps neutralisants",
+    "Definition": "Les anticorps neutralisants sont un sous-ensemble d’anticorps qui peuvent désactiver un virus de façon indépendante et sont relatifs à l’immunité protectrice.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recJhCnFxAX2jAH0h"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Neutralizing antibodies are a subset of antibodies that can independently inactivate a virus and are associated with protective immunity."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      22
+    ]
+  },
+  {
+    "id": "recAXqDeJXgGXencw",
+    "Term": "parasite",
+    "Definition": "Les parasites sont des organismes qui vivent à leur avantage à l’intérieur d’un autre organisme, extrayant par exemple des nutriments pour soutenir leur croissance et leur reproduction aux dépens de l’organisme hôte.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recom5X8uy23wBxvK"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Parasites are organisms that live in another organism, extracting benefits such as nutrients to support growth and reproduction at the expense of the host organism."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      26
+    ]
+  },
+  {
+    "id": "rec234GTbzmKHRUBp",
+    "Term": "prévalence au cours d'une période donnée",
+    "Definition": "La prévalence au cours d’une période donnée est la proportion d’une population particulière porteuse d’une maladie un moment précis. Le numérateur est le nombre de cas actuel pour une période donnée et le dénominateur est la population moyenne.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recZ7ApLiG5QfRrRS"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Period prevalence is defined as the proportion of a given population that has a disease at a particular moment in time. The numerator is the number of current cases over a specific period in time and the denominator is the average population.\n"
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      44
+    ]
+  },
+  {
+    "id": "recCPEKuhdbxSeSmF",
+    "Term": "pH",
+    "Definition": "En chimie, le pH (potentiel hydrogène) est une échelle utilisée pour les solutions aqueuses, qui indique si elles sont acides (pH inférieur à 7, plus le pH est bas, plus l’acidité est forte), neutres (pH d’à peu près 7), ou basiques (pH supérieur à 7, plus le pH est haut, plus la basicité est forte).\n",
+    "Status": "Published",
+    "EN Term": [
+      "recpN2xeifVcFx2Rq"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "In chemistry, pH (power of hydrogen, or potential for hydrogen) is a scale used for water-based solutions to indicate if they are acidic (pH below 7, with a lower pH indicating a stronger acid), neutral (pH around 7), or basic (pH above 7, with a higher indicating a stronger base)."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      51
+    ]
+  },
+  {
+    "id": "reccdTp6lJV5GXV7J",
+    "Term": "essai clinique graduel",
+    "Definition": "Une approche par essai clinique graduel implique des étapes consécutives, où chaque étape comprend une étude et une évaluation minutieuses avec une série de points de contrôle afin de décider de passer ou non à la phase suivante.\n\nUne recherche considérable doit être menée à terme par des scientifiques avant qu’un essai clinique graduel ne soit effectué pour un vaccin potentiel. Une fois cette étape atteinte, trois phases de recherche composées d’essais ont lieu avant que le vaccin ne puisse commencer à être utilisé. Pendant la première étape (Phase I), le nouveau vaccin est donné à de petits groupes de personnes, la première fois sur des êtres humains. La deuxième étape (Phase II) implique de vacciner des personnes qui présentent des caractéristiques semblables à la population cible ou au groupe auquel le vaccin est destiné (telles que l’âge et l’état de santé physique). Le but de cette étape est de déterminer les doses les plus efficaces et de prévoir les essais en Phase III. L’étape finale (Phase III) donne le vaccin à des milliers de personnes de la population cible afin d’évaluer sa sécurité et son efficacité. Une fois que le vaccin passe cette dernière étape, le fabricant peut demander aux organismes réglementaires (p. ex. l’Agence états-unienne des produits alimentaires et médicamenteux [FDA]) une approbation de commercialisation pour usage sur l’être humain.\n\nCertains médicaments qui ont déjà reçu une approbation de la « FDA » lors d’essais cliniques passeront en essai de Phase IV. Cette phase est axée sur les effets secondaires possibles du vaccin ou du médicament, qui n’ont pas été constatés lors des trois premières phases. Cette phase aide aussi les chercheurs à comprendre l’étendue de l’efficacité du vaccin sur une période plus longue, et son niveau d’innocuité, souvent avec des milliers de personnes sur plusieurs années. La Phase IV est aussi appelée « essai de surveillance après mise en marché ».\n",
+    "Status": "Published",
+    "EN Term": [
+      "recMJMGqkERKGcbL5"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "A phased testing approach involves sequential steps, where each step involves careful study and evaluation with a series of checkpoints to decide whether to proceed to the next phase.\n\nSubstantial research needs to be completed by scientists before any potential vaccine undergoes phased testing. Once it gets to that stage, there are three research phases of trials that take place before the vaccine can be deployed for use. During the first stage (Phase I), the new vaccine is provided to small groups of people—the first time the vaccine is tested in humans. The second stage (Phase II) involves testing the vaccine on people who have similar characteristics (such as age and physical health) to the target population, or the group for which the vaccine is intended. The goal of this stage is to identify the most effective dosages and schedule for Phase III trials. The final stage (Phase III) provides the vaccine to thousands of people from the target population to see how safe and effective it is. Once the vaccine clears this last stage, the manufacturer can apply for a license from regulatory authorities (like the U.S. Food and Drugs Administration) to market for human use.\n\nSometimes medications that have already been approved by the U.S. Food and Drugs Administration in clinical trials will enter into a Phase IV trial. This phase focuses on potential side effects from the vaccine or medication that were not seen in the first three phases. This phase also helps researchers understand how well a vaccine works over a longer time frame and how safe it is, often with thousands of people over several years. Phase IV is also called a 'post-marketing surveillance' trial."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      280
+    ]
+  },
+  {
+    "id": "rec9u1FqEHMWwOsH4",
+    "Term": "placébo",
+    "Definition": "D’après les Instituts nationaux de santé des États-Unis, « Les placébos sont des substances inoffensives inactives fabriquées pour ressembler à un vrai médicament utilisé dans un essai clinique. Les placébos permettent aux investigateurs de savoir si le médicament administré agit mieux qu’un traitement ordinaire ou non. »\nLes Instituts nationaux de santé des États-Unis précisent : « L’“étalon de référence” pour les essais d’intervention chez les personnes est l’essai clinique comparatif “randomisé avec placébo”. Cela signifie que des volontaires sont affectés au hasard soit à un groupe témoin auquel l’intervention expérimentale est administrée ou à un groupe de contrôle qui reçoit un placébo ou un traitement habituel.\nLa comparaison des résultats des deux groupes indique si les changements dans le groupe témoin proviennent du traitement ou sont dus au hasard. Dans beaucoup d’essais, personne, pas même l’équipe de recherche, ne sait qui reçoit le traitement, le placébo ou une autre intervention. Quand les participants, les membres de la famille et le personnel sont tous “aveugles” quant au traitement pendant le déroulement de l’étude, l’étude est alors un “essai clinique comparatif à double insu” ».\n",
+    "Status": "Published",
+    "EN Term": [
+      "recJK5tI9LgCGFRAU"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "According to the U.S. National Institutes of Health (NIH), \"Placebos are harmless, inactive substances made to look like the real medicine used in the clinical trial. Placebos allow the investigators to learn whether the medicine being given works better or no better than ordinary treatment.\" \nThe NIH explains further: \"The “gold standard” for testing interventions in people is the “randomized, placebo-controlled” clinical trial. That means volunteers are randomly assigned—that is, selected by chance—to either a test group receiving the experimental intervention or a control group receiving a placebo or standard care. \nComparing results from the two groups suggests whether changes in the test group result from the treatment or occur by chance. In many trials, no one—not even the research team—knows who gets the treatment, the placebo, or another intervention. When participants, family members, and staff all are “blind” to the treatment while the study is underway, the study is called a “double-blind, placebo-controlled” clinical trial.\"\n"
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      157
+    ]
+  },
+  {
+    "id": "rec2FN7GIecPbmxoP",
+    "Term": "condition antérieure",
+    "Definition": "Aux États-Unis, « condition antérieure » est une expression qui est couramment utilisée afin de décrire un problème médical (p. ex. les formes de diabète, l’asthme, les cardiopathies, l’hypertension, l’obésité, les cancers) qui affecte un patient avant le début de la couverture d’une nouvelle assurance médicale. L’utilisation de cette expression a été adaptée à la pandémie de COVID-19 actuelle afin de décrire les problèmes de santé à long terme ou chroniques (p. ex. les formes de diabète, l’asthme, les cardiopathies, l’hypertension, l’obésité, les cancers) qui pourraient augmenter le risque qu’un patient soit infecté par le virus ou tombe gravement malade à cause de ce dernier.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recz6wQ17eV2G7r6w"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "In the U.S., a pre-existing condition are words commonly used to describe as a medical problem (i.e. diabetes, asthma, heart disease, high blood pressure, obesity, cancer) that a patient has, before they begin new medical insurance coverage. The use of the word has been adapted to the current COVID-19 pandemic to describe common long term (or chronic) health problems (i.e. diabetes, asthma, heart disease, high blood pressure, obesity, cancer) that may increase a patient's chances of becoming infected or seriously ill from the virus."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      86
+    ]
+  },
+  {
+    "id": "recsZAywBW1IA8CGm",
+    "Term": "spicules",
+    "Status": "Published",
+    "Questions using this term": [
+      "recQc3te6Xja0OheW"
+    ],
+    "EN Term": [
+      "recmIgJvajdxBf3eI"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      2
+    ]
+  },
+  {
+    "id": "recORnkYAfLWnBvNi",
+    "Term": "virus à ARN",
+    "Definition": "Les virus à ARN ont l’acide ribonucléique (ARN) comme matériel génétique. Par exemple, SARS-CoV-2, le virus de la grippe, le virus de la rage et le virus de la rougeole sont des virus à ARN. Dans la mesure où l’ARN n’a pas de mécanisme autocorrecteur, contrairement à l’ADN, les virus à ARN sont sujets à des mutations.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recr3NlaEcaDxSbvI"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "RNA viruses have ribonucleic acid (RNA) as their genetic material. Examples of RNA viruses include SARS-CoV-2, influenza, rabies, and measles. Since RNA lacks a self-correcting mechanism, unlike DNA, RNA viruses are more prone to mutations."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      37
+    ]
+  },
+  {
+    "id": "recUdWVNEzUBvIIWb",
+    "Term": "oxygène d’appoint",
+    "Definition": "L’oxygène d’appoint désigne l’apport d’oxygène à des personnes qui souffrent de difficultés respiratoires. Une bouteille à oxygène ou une machine appelée compresseur sont souvent utilisées pour cet apport, qui est communément administré aux patients qui souffrent de difficultés respiratoires en raison de la COVID-19.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recROlYn1QcWitPtM"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Supplemental oxygen refers to the provision of oxygen to people with breathing difficulties. A storage tank of oxygen or a machine called a compressor is often used as part of this process, and it is commonly used for patients experiencing difficulty breathing due to COVID-19."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      47
+    ]
+  },
+  {
+    "id": "rechIrdM78m9pIR5h",
+    "Term": "médecine traditionnelle chinoise",
+    "Definition": "La médecine traditionnelle chinoise est fondée sur des pratiques de santé traditionnelles transmises de génération en génération, dont la phytothérapie, l’acupuncture et d’autres techniques. La médecine traditionnelle est utilisée partout dans le monde, mais est considérée comme une forme de médecine douce, différente des soins médicaux conventionnels structurés et fondés sur la science. L’Organisation mondiale de la santé avertit qu’un usage inapproprié des médecines traditionnelles peut avoir des impacts négatifs sur la santé et que des recherches supplémentaires sont nécessaires afin de déterminer l’efficacité et la sécurité de nombreuses pratiques de médecine traditionnelle. Il y a aussi lieu de s’inquiéter de l’utilisation de certaines espèces dans la médecine traditionnelle qui pourrait entraîner une perte de biodiversité.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recc2SgNjNtr78LYi"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Traditional Chinese medicine is a branch of traditional medicine based on historical Chinese health practices passed through generations, including herbal medicines, acupuncture, and other techniques. Traditional medicine is used around the world but is considered a form of alternative medicine, different from formalized and science-based conventional medical care. The World Health Organization warns that inappropriate use of traditional medicine can have negative health impacts and that more research is needed to determine the efficacy as well as safety of many traditional medicine practices. There are also concerns about the use of certain species in traditional medicine that could lead to loss of biodiversity."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      106
+    ]
+  },
+  {
+    "id": "recYpRBlv4ymABlL5",
+    "Term": "respirateur",
+    "Definition": "Un respirateur est une machine qui assure le passage mécanique de l’air dans les poumons d’un patient qui éprouve des difficultés respiratoires.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recb7T7hH9zHd3k1R"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "A ventilator is a machine that mechanically moves air into and out of the lungs of a patient who faces difficulty in breathing."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      24
+    ]
+  },
+  {
+    "id": "recmKrGMyJPYA7kcd",
+    "Term": "isolats de virus",
+    "Definition": "Les isolats de virus sont des échantillons de virus isolés à partir de patients infectés.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "recQc3te6Xja0OheW"
+    ],
+    "EN Term": [
+      "recjclD4IZEmv7SlP"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Virus isolates are virus samples isolated from infected patients."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      11
+    ]
+  },
+  {
+    "id": "recYcTN9RFmkJyENu",
+    "Term": "transfert zoonotique",
+    "Definition": "Les zoonoses sont des maladies infectieuses que les animaux peuvent transmettre aux humains, particulièrement s’ils sont en contact rapproché. Comme c’est le cas des êtres humains, tous les animaux sont porteurs de germes. D’après les Centres de contrôle et de prévention des maladies des États-Unis, ces germes peuvent se propager entre animaux et êtres humains par contact direct, contact indirect, transmission par vecteurs (tels qu’un moustique ou une tique), transmission d’origine alimentaire et transmission par l’eau.\n",
+    "Status": "Published",
+    "Questions using this term": [
+      "recbjW2CdPdJHM0wE"
+    ],
+    "EN Term": [
+      "recFSOdDjQBqJHnZ9"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Zoonoses are infectious diseases that animals can transmit to humans, especially when they are in close contact with them. Like humans, all animals carry germs. According to the U.S. Centers for Disease Control, these germs can be spread between animals and humans through direct contact, indirect contact, vector-borne transmission (like a mosquito or tick), foodborne transmission, and waterborne transmission.\n"
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      61
+    ]
+  },
+  {
+    "id": "recgLGgfz8IYQhWpb",
+    "Term": "groupe sanguin",
+    "Definition": "Le groupe sanguin est une classification du sang d’après les caractéristiques des globules rouges (érythrocytes) ; les huit groupes sanguins les plus courants sont A+, A-, B+, B-, O+, O-, AB+, AB-. D’après la Division des services transfusionnels de la Croix-Rouge états-unienne, les groupes sanguins sont déterminés d’après la présence ou non d’un de deux antigènes à la surface des globules rouges (A ou B). En l’absence d’un des antigènes, le groupe sanguin est O. En plus des antigènes, le + ou - est déterminé par la présence (+) ou l’absence (-) d’une protéine, le facteur rhésus. Le groupe sanguin est déterminé avant la naissance et passé génétiquement des parents à leurs enfants.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recvEcanaG84OrPm4"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "A blood type is a classification of blood based on characteristics of the red blood cells; the eight most common blood types are A+, A-, B+, B-, O+, O-, AB+, AB-.  According to the American Red Cross Blood Services Division, blood types are determined based on whether or not they have one of two antigens on the surface of red blood cells (A and/or B).  In the absence of either antigen, the blood type is O. In addition to the antigens, the + or - is determined by the presence (+) or absence (-) of a protein called the Rh factor.  Blood type is determined before birth and is genetically passed on from parents to their children."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      122
+    ]
+  },
+  {
+    "id": "receEj8oRZVaT8LrO",
+    "Term": "inhalateur",
+    "Definition": "Les inhalateurs sont des appareils utilisés pour administrer un médicament dans les poumons par inhalation (respiration). Il existe plusieurs sortes d’inhalateurs, dont les nébuliseurs, les inhalateurs à brume légère et les inhalateurs à poudre sèche. Les inhalateurs les plus courants sont appelés inhalateurs à hydrofluoroalcane ou inhalateurs doseurs. Ils utilisent un gaz chimique propulseur pour aider à pousser le médicament dans les poumons.\n\nDifférentes sortes d’inhalateurs peuvent s’avérer efficaces dans différentes situations, chaque sorte ayant ses avantages et ses inconvénients. Par exemple, la sorte la plus courante d’inhalateurs peut être moins couteuse (selon l’assurance), mais plus difficile à utiliser correctement, notamment pour les jeunes enfants et les personnes atteintes d’une forme aggravée d’asthme.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recNOYE5yvxCxa7Tn"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Inhalers are devices used to deliver medication to someone's lungs through inhalation, or breathing. There are different types of inhalers, including nebulizers, soft mist inhalers (SMI), and dry powder inhalers (DPI). The most common type of inhalers are called hydrofluoroalkane inhalers (HFAs) or metered-dose inhalers (MDI), and work by using a chemical propellant to help push the medication into the lungs.\n\nDifferent types of inhalers can be effective in different situations, with each type having advantages and disadvantages. For example, the most common type of inhaler can be less expensive (depending on insurance) but more challenging to use correctly, as well as difficult to use by young children and people with severe asthma."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      113
+    ]
+  },
+  {
+    "id": "recRXBAvsQK24YRqH",
+    "Term": "préexposition",
+    "Definition": "La préexposition désigne la période avant laquelle une personne est exposée à quelque chose, habituellement une maladie ou une infection.\n",
+    "Status": "Published",
+    "EN Term": [
+      "recZZhsMRrNyDPnjg"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Pre-exposure refers to the period before a person is exposed to something, usually a disease or infection."
+    ],
+    "Last Modified": "2020-09-28",
+    "Wordcount total": [
+      18
+    ]
+  }
 ]

@@ -13,6 +13,10 @@ page_gen:
     template: 'term'
     name: 'id'
     dir: '/hi/glossary'
+  - data: 'covid19.glossary-te'
+    template: 'term'
+    name: 'id'
+    dir: '/te/glossary'
 
 # Glossary
 algolia:
@@ -24,20 +28,26 @@ algolia:
     - /index.html
     - /fr/index.html
     - /hi/index.html
+    - /te/index.html
     - /about/index.html
     - /fr/about/index.html
     - /hi/about/index.html
+    - /te/about/index.html
     - /questions/**/index.html
     - /fr/questions/**/index.html
     - /hi/questions/**/index.html
+    - /te/questions/**/index.html
     - /meet-our-experts/
     - /meet-our-experts/index.html
     - /hi/meet-our-experts/index.html
     - /fr/meet-our-experts/index.html
+    - /te/meet-our-experts/index.html
     - /ask-a-question/
     - /ask-a-question/index.html
     - /hi/ask-a-question/index.html
     - /fr/ask-a-question/index.html
+    - /te/ask-a-question/index.html
     - /thanks/index.html
     - /fr/thanks/index.html
     - /hi/thanks/index.html
+    - /te/thanks/index.html

@@ -451,6 +451,47 @@ contributor:
 - sys:
     id: 26BnKkV6uNqzYWtFueaerv
     created_at: !ruby/object:DateTime 2020-08-20 23:13:04.954000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-20 23:13:04.954000000 Z
+    updated_at: !ruby/object:DateTime 2020-09-15 22:27:54.097000000 Z
     content_type_id: contributor
-    revision: 0
+    revision: 2
+  name: Azza el Masri
+  staff: true
+  role: Pan-Arab Newsroom Coordinator
+  location: Beirut
+- sys:
+    id: dyeTaxL6zUN3ST8oyYpTC
+    created_at: !ruby/object:DateTime 2020-09-18 19:04:00.062000000 Z
+    updated_at: !ruby/object:DateTime 2020-09-18 19:04:06.282000000 Z
+    content_type_id: contributor
+    revision: 1
+  name: Megan Marrelli
+  staff: true
+- sys:
+    id: 4h6BuKbk1d9fXmcm4ybfAz
+    created_at: !ruby/object:DateTime 2020-09-21 22:39:38.933000000 Z
+    updated_at: !ruby/object:DateTime 2020-09-23 14:02:31.239000000 Z
+    content_type_id: contributor
+    revision: 1
+  name: Joana Suarez
+  bio: Suarez is a freelance reporter, focused on in-depth journalism about human
+    rights, feminism, health, education and the environment.
+- sys:
+    id: 5i0ZluvBzz6h4ashdZJIkH
+    created_at: !ruby/object:DateTime 2020-09-25 18:28:40.641000000 Z
+    updated_at: !ruby/object:DateTime 2020-09-25 18:30:22.740000000 Z
+    content_type_id: contributor
+    revision: 1
+  name: Sneha Alexander
+  staff: true
+  role: Program Associate, APAC
+  location: Kerala
+- sys:
+    id: 25xGrGNMOnalaiZEH8CS2n
+    created_at: !ruby/object:DateTime 2020-09-25 18:29:45.196000000 Z
+    updated_at: !ruby/object:DateTime 2020-09-25 18:30:27.131000000 Z
+    content_type_id: contributor
+    revision: 1
+  name: Gisela Zuniga
+  staff: true
+  role: Executive Associate
+  location: On the Road

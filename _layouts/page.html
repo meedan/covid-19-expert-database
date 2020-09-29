@@ -1,11 +1,8 @@
----
-lang: en-US
----
 <!DOCTYPE html>
 <html lang="{{ page.lang }}">
 {% include head.html %}
 
-<body {% if page.slug == '/' %}class="front"{% endif %}>
+<body lang="{{ page.lang }}" {% if page.slug == '/' %}class="front"{% endif %}>
   {% include header.html %}
   <div class="content-wrapper">
     {% if page.description %}

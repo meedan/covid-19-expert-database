@@ -24,6 +24,10 @@ class PageMapper < ::Jekyll::Contentful::Mappers::Base
         result['title-hi'] = result['title']['hi']
       end
 
+      if result['title']['te']
+        result['title-te'] = result['title']['te']
+      end
+
       if result['title']['en-US']
         result['title-en'] = result['title']['en-US']
         result['title'] = result['title']['en-US']
@@ -38,6 +42,9 @@ class PageMapper < ::Jekyll::Contentful::Mappers::Base
         end
         if result['description']['hi']
             result['description-hi'] = result['description']['hi']
+        end
+        if result['description']['te']
+          result['description-te'] = result['description']['te']
         end
         result['description'] = result['description']['en-US']
       end

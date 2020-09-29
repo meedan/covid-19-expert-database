@@ -106,13 +106,17 @@ page_gen:
     name: 'slug'
     dir: '/'
   - data: 'contentful.spaces.pages.page'
-    template: 'page-fr'
+    template: 'page'
     name: 'slug'
     dir: '/fr'
   - data: 'contentful.spaces.pages.page'
-    template: 'page-hi'
+    template: 'page'
     name: 'slug'
     dir: '/hi'
+  - data: 'contentful.spaces.pages.page'
+    template: 'page'
+    name: 'slug'
+    dir: '/te'
   - data: 'covid19.questions-en'
     template: 'entry'
     name: 'Question'
@@ -120,15 +124,21 @@ page_gen:
     filter: 'Status'
     filter_condition: record['Status'] == 'Published'
   - data: 'covid19.questions-fr'
-    template: 'entry-fr'
-    name: 'Question'
+    template: 'entry'
+    name: 'id'
     dir: '/fr/questions'
     filter: 'Status'
     filter_condition: record['Status'] == 'Published'
   - data: 'covid19.questions-hi'
-    template: 'entry-hi'
+    template: 'entry'
     name: 'id'
     dir: '/hi/questions'
+    filter: 'Status'
+    filter_condition: record['Status'] == 'Published'
+  - data: 'covid19.questions-te'
+    template: 'entry'
+    name: 'id'
+    dir: '/te/questions'
     filter: 'Status'
     filter_condition: record['Status'] == 'Published'
 
@@ -145,12 +155,15 @@ algolia:
     - /index.html
     - fr/index.html
     - hi/index.html
+    - te/index.html
     - glossary.html
     - fr/glossary.html
     - hi/glossary.html
+    - te/glossary.html
     - glossary/**/index.html
     - /fr/glossary/**/index.html
     - /hi/glossary/**/index.html
+    - /te/glossary/**/index.html
 
 # Airtable Fetch Configuration
 airtable:
@@ -175,26 +188,40 @@ airtable:
       target: 'covid19'
       sheets:
         - name: 'DB (French)'
-          view: 'COVID-19 Expert Database (French)'
+          view: 'Published View'
           target: 'questions-fr'
     - name: 'glossary'
       app_id: ENV_AIRTABLE_APP_ID
       target: 'covid19'
       sheets:
         - name: 'Glossary (French)'
-          view: 'Glossary (French)'
+          view: 'Published View'
           target: 'glossary-fr'
     - name: 'airtable'
       app_id: ENV_AIRTABLE_APP_ID
       target: 'covid19'
       sheets:
         - name: 'DB (Hindi)'
-          view: 'COVID-19 Expert Database (Hindi)'
+          view: 'Published View'
           target: 'questions-hi'
     - name: 'glossary'
       app_id: ENV_AIRTABLE_APP_ID
       target: 'covid19'
       sheets:
         - name: 'Glossary (Hindi)'
-          view: 'Glossary (Hindi)'
+          view: 'Published View'
           target: 'glossary-hi'
+    - name: 'airtable'
+      app_id: ENV_AIRTABLE_APP_ID
+      target: 'covid19'
+      sheets:
+        - name: 'DB (Telugu)'
+          view: 'Published View'
+          target: 'questions-te'
+    - name: 'glossary'
+      app_id: ENV_AIRTABLE_APP_ID
+      target: 'covid19'
+      sheets:
+        - name: 'Glossary (Telugu)'
+          view: 'Published View'
+          target: 'glossary-te'

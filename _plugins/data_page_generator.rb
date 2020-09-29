@@ -59,6 +59,42 @@ module Jekyll
         end
 
         filename = sanitize_filename(raw_filename).to_s
+        
+        # set page language based on config dir path
+        if template == "entry"
+          if dir == '/te/questions'
+            data['lang'] = 'te';
+          elsif dir == '/fr/questions'
+              data['lang'] = 'fr';
+          elsif dir == '/hi/questions'
+              data['lang'] = 'hi';
+          else 
+            data['lang'] = 'en-US';
+          end 
+        end
+
+        if template == "page"
+          if dir == '/te'
+            data['lang'] = 'te';
+          elsif dir == '/fr'
+            data['lang'] = 'fr';
+          elsif dir == '/hi'
+            data['lang'] = 'hi';
+          else 
+            data['lang'] = 'en-US';
+          end 
+        end
+
+        
+        if dir == '/glossary'
+          data['lang'] = 'en-US';
+        elsif dir == '/te/glossary'
+          data['lang'] = 'te';
+        elsif dir == '/fr/glossary'
+            data['lang'] = 'fr';
+        elsif dir == '/hi/glossary'
+            data['lang'] = 'hi';
+        end 
 
         @dir = dir + (index_files ? "/" + filename + "/" : "")
         @name = (index_files ? "index" : filename) + "." + extension.to_s
@@ -98,14 +134,6 @@ module Jekyll
 
         if dir == "/glossary"
           data['lang'] = 'en-US'
-        end
-
-        if dir == "/fr/glossary"
-          data['lang'] = 'fr'
-        end
-
-        if dir == "/hi/glossary"
-          data['lang'] = 'hi'
         end
 
         if template == "term"
