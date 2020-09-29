@@ -2,7 +2,7 @@
 <html lang="{{ page.lang }}">
 {% include head.html %}
 
-<body lang="{{ page.lang }}" {% if page.slug == '/' %}class="front"{% endif %}>
+<body {% if page.slug == '/' %}class="front"{% endif %}>
   {% include header.html %}
   <div class="content-wrapper">
     {% if page.description %}

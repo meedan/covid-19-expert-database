@@ -117,6 +117,10 @@ page_gen:
     template: 'page'
     name: 'slug'
     dir: '/te'
+  - data: 'contentful.spaces.pages.page'
+    template: 'page'
+    name: 'slug'
+    dir: '/es'
   - data: 'covid19.questions-en'
     template: 'entry'
     name: 'Question'
@@ -141,6 +145,12 @@ page_gen:
     dir: '/te/questions'
     filter: 'Status'
     filter_condition: record['Status'] == 'Published'
+  - data: 'covid19.questions-es'
+    template: 'entry'
+    name: 'id'
+    dir: '/es/questions'
+    filter: 'Status'
+    filter_condition: record['Status'] == 'Published'
 
 
 # Algolia search
@@ -156,14 +166,17 @@ algolia:
     - fr/index.html
     - hi/index.html
     - te/index.html
+    - es/index.html
     - glossary.html
     - fr/glossary.html
     - hi/glossary.html
     - te/glossary.html
+    - es/glossary.html
     - glossary/**/index.html
     - /fr/glossary/**/index.html
     - /hi/glossary/**/index.html
     - /te/glossary/**/index.html
+    - /es/glossary/**/index.html
 
 # Airtable Fetch Configuration
 airtable:
@@ -225,3 +238,17 @@ airtable:
         - name: 'Glossary (Telugu)'
           view: 'Published View'
           target: 'glossary-te'
+    - name: 'airtable'
+      app_id: ENV_AIRTABLE_APP_ID
+      target: 'covid19'
+      sheets:
+        - name: 'DB (Spanish)'
+          view: 'Published View'
+          target: 'questions-es'
+    - name: 'glossary'
+      app_id: ENV_AIRTABLE_APP_ID
+      target: 'covid19'
+      sheets:
+        - name: 'Glossary (Spanish)'
+          view: 'Published View'
+          target: 'glossary-es'

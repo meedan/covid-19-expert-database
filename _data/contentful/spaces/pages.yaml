@@ -3,7 +3,7 @@ page:
 - sys:
     id: 59Olgrx6nbKQBCKwPLPslX
     created_at: !ruby/object:DateTime 2020-05-12 16:43:43.001000000 Z
-    updated_at: !ruby/object:DateTime 2020-09-28 22:29:43.758000000 Z
+    updated_at: !ruby/object:DateTime 2020-09-29 03:36:57.525000000 Z
     content_type_id: page
     revision: 4
     space:
@@ -39,8 +39,10 @@ page:
     sur les questions concernant COVID-19.
   description-hi: कोविड-19 से जुड़े सवालों पर ताज़ा खबरों और जानकारियों के लिए पब्लिक
     हेल्थ (सार्वजनिक स्वास्थ्य) विशेषज्ञों का नज़रिया
-  description-te: कोविड-19 से जुड़े सवालों पर ताज़ा खबरों और जानकारियों के लिए पब्लिक
-    हेल्थ (सार्वजनिक स्वास्थ्य) विशेषज्ञों का नज़रिया
+  description-te: జర్నలిజం సేవలో ప్రజారోగ్య నిపుణులు. కోవిడ్-19 గురించి పరిశోధన అంతర్దృష్టులతో
+    మీ వేగవంతమైన ప్రతిస్పందన బృందం.
+  description-es: Expertos en salud pública al servicio del periodismo. Tu equipo
+    de respuesta rápida para el discernimiento de la investigación acerca del COVID-19.
 - sys:
     id: 4xN7lPbCvQdT2WUCgP3I9M
     created_at: !ruby/object:DateTime 2020-05-12 20:31:54.456000000 Z

@@ -26,6 +26,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "August Invoice",
     "Last modified manual (translation)": "2020-08-15",
+    "Last modified manual": "2020-07-07",
     "Background last edited (Translation)": "2020-08-15T04:29:57.000Z",
     "Experts say last edited (translation)": "2020-08-15T04:26:10.000Z",
     "Last modified": "2020-08-15",
@@ -53,8 +54,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-07-07"
+    ]
   },
   {
     "id": "reczBEl25t2qPMM1t",
@@ -68,6 +68,7 @@
     ],
     "Internal Invoicing Notes for LocLab": "August Invoice",
     "Last modified manual (translation)": "2020-08-22",
+    "Last modified manual": "2020-07-10",
     "Background last edited (Translation)": "2020-08-22T18:33:15.000Z",
     "Experts say last edited (translation)": "2020-08-20T20:14:33.000Z",
     "Last modified": "2020-08-22",
@@ -76,8 +77,7 @@
     ],
     "EN Background & context": [
       "There are many fruits, vegetables, herbs, and dietary supplements that have been promoted as preventive therapies or cures for COVID-19. While some of these nutrition-based therapies have theoretical links to scientific research, based on previously conducted cellular studies, animal studies, or human studies, there is not significant scientific evidence on their impacts against SARS-CoV-2, the virus that causes COVID-19. The World Health Organization (WHO) and other health authorities have continually denounced these reports because there is no current scientific evidence suggesting that specific foods or dietary supplements prevent, treat, or cure COVID-19. \n\nIt is important to be aware of possible interactions between medications and some dietary supplements, and there are known risks that accompany supplement use for some patients (i.e, pregnant or lactating women, patients with kidney or liver disease). Some supplement products have been found to not have the components that are advertised on the product packaging, and may contain varied doses, or may contain other contaminants (i.e. heavy metals, pesticides) or additives.\n\nTurmeric: The primary active compound in Turmeric, curcumin, has been extensively studied for its anti-inflammatory and antimicrobial properties. In spite of its potential and successes in laboratory-based tests, most clinical trials in humans have not shown an effect, and more studies are needed to determine if or when curcumin may benefit people. Curcumin has not been studied in patients with COVID-19, though clinical trials have been proposed. The World Health Organization has a specific statement on their website suggesting that there is no current scientific evidence that turmeric prevents COVID-19. There is also no scientific evidence that turmeric can successfully treat or cure COVID-19.\n\nLemon: Lemon is a great source of vitamin C and can be part of a healthy diet. The World Health Organization has a specific statement on their website suggesting that there is no current scientific evidence that lemon prevents COVID-19. There is also no scientific evidence that lemon can successfully treat or cure COVID-19.\n\nPineapple: A variety of fruits (pineapple, mango, durian, and others) all may be included in a well-balanced diet to promote general health and well-being. The World Health Organization has a specific statement on their website suggesting that there is no current scientific evidence that these and other fruits prevent COVID-19. There is also no scientific evidence that fruits can successfully treat or cure COVID-19.\n\nOnion: As a member of the same family as garlic, onions are also known to have some antimicrobial and anti-inflammatory qualities, but studies are limited. To date, there are no studies that evaluate onions as a therapy for COVID-19, and there is no scientific evidence to suggest that onions will prevent, treat, or cure COVID-19.\n\nBlackseed Oil: (also called Nigella sativa) Black seed (or Nigella sativa) is used as a medicinal plant around the world and has been reportedly used to treat a variety of conditions from influenza to diabetes, inflammation to cough or fever. To date, black seed oil and its compounds have not been studied as a possible treatment or cure against COVID-19 in cell studies, animal studies, or human studies, though the idea has been proposed. Currently, there is no scientific evidence to suggest that black see oil will prevent, treat, or cure COVID-19.\n\nHoney: Honey may have some wound healing and antibacterial properties, but much of the published research focuses on topical (skin) application, which doesn't apply to COVID-19 because the virus is an internal infection. While it can be part of a healthy diet, honey is a source of sugar, and leading health organizations recommend limiting dietary sugar intake. Health experts have suggested that products like ginger, tea, or honey may make us feel better when we are sick, but that does not mean that these items cure or treat disease. There is also no scientific evidence that honey can successfully treat or cure COVID-19.\n\nGarlic: Garlic is a healthy food that may have some antimicrobial and anti-tumor properties, though study results are often mixed and there are limitations, gaps, and shortcomings in the published evidence. While it has been widely studied in preparations as a supplement, extract, and food, there is currently no evidence that garlic will prevent or treat COVID-19. The World Health Organization has a specific statement on their website suggesting that “there is no evidence from the current outbreak that eating garlic has protected people from the new coronavirus.” There is also no scientific evidence that garlic can successfully treat or cure COVID-19.\n\nTea: Some teas may have health benefits, but evidence is limited because of difficulty studying the possible effect of tea alone. Health experts have suggested that products like ginger, tea, or honey may make us feel better when we are sick, but that does not mean that these items cure or treat disease. There is no scientific evidence to suggest that tea will prevent, treat, or cure COVID-19.\n\nGinger: As a supplement, ginger is most commonly prescribed to help with nausea. Health experts have suggested that products like ginger, tea, or honey may make us feel better when we are sick, but that does not mean that these items cure or treat disease. There is no scientific evidence to suggest that ginger will prevent, treat, or cure COVID-19.\n\nZinc: Zinc is a mineral that is used throughout the body and is needed for a healthy immune system. While zinc is available in many foods, use of zinc supplements has been shown to be helpful for wound healing and may shorten the duration of colds and acute diarrhea. Use of zinc should be guided by healthcare providers, since there are known side effects that may result from incorrect dosing. In addition, long-term zinc use is known to cause copper deficiency and is not recommended. There are clinical trials registered to study zinc (often in combinations with other vitamins, minerals, or medications) as a therapy for patients with COVID-19, but results are not available yet. While there are many scientists and health professionals that believe zinc may be a helpful therapy for COVID-19 based on its known benefits with other conditions, there is not enough scientific evidence to suggest that zinc supplementation will prevent, treat, or cure COVID-19.\n\nSelenium: Selenium is a mineral has many functions in the body; like other minerals, it is needed for a healthy immune system. Selenium is available in many foods and is also available in supplement form. Most selenium studies to date have focused on thyroid disease, cancer, and cardiovascular disease. Recently, there are scientific papers that have been published as “Letters to the Editor” and similar that suggest that selenium may be beneficial, but these papers are largely observational, have many limitations, and have not gone through the rigorous peer-review process to validate the research methods and claims made. Without further validation, they should be interpreted very cautiously. At present, there is not enough scientific evidence to suggest that selenium supplementation will prevent, treat, or cure COVID-19."
-    ],
-    "Last modified manual": "2020-07-10"
+    ]
   },
   {
     "id": "reclmbP3IRmRL4CmJ",
@@ -111,6 +111,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "July Invoice",
     "Last modified manual (translation)": "2020-07-31",
+    "Last modified manual": "2020-07-20",
     "Background last edited (Translation)": "2020-07-31T18:19:12.000Z",
     "Experts say last edited (translation)": "2020-07-31T18:19:36.000Z",
     "Last modified": "2020-07-31",
@@ -146,8 +147,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-07-20"
+    ]
   },
   {
     "id": "rec3F7UpkqC6pvtSM",
@@ -182,6 +182,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "July Invoice",
     "Last modified manual (translation)": "2020-07-31",
+    "Last modified manual": "2020-08-07",
     "Background last edited (Translation)": "2020-07-31T18:40:19.000Z",
     "Experts say last edited (translation)": "2020-07-31T18:40:46.000Z",
     "Last modified": "2020-07-31",
@@ -218,8 +219,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No\n"
-    ],
-    "Last modified manual": "2020-08-07"
+    ]
   },
   {
     "id": "recOm14qZz4QpDGQr",
@@ -242,6 +242,7 @@
     "Variation of the answer depending on country of residence": "नहीं\n\n",
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n\n",
     "Last modified manual (translation)": "2020-07-05",
+    "Last modified manual": "2020-05-28",
     "Background last edited (Translation)": "2020-07-05T02:27:47.000Z",
     "Experts say last edited (translation)": "2020-07-05T02:27:31.000Z",
     "Last modified": "2020-07-05",
@@ -275,8 +276,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-05-28"
+    ]
   },
   {
     "id": "recWuNukdE0KpKIme",
@@ -312,6 +312,7 @@
     "Variation of the answer depending on country of residence": "नहीं\n\n",
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Last modified manual (translation)": "2020-06-30",
+    "Last modified manual": "2020-07-30",
     "Background last edited (Translation)": "2020-06-30T02:05:39.000Z",
     "Experts say last edited (translation)": "2020-06-30T02:05:28.000Z",
     "Last modified": "2020-06-30",
@@ -356,8 +357,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-07-30"
+    ]
   },
   {
     "id": "recB6GCJU6EzAb2OC",
@@ -382,6 +382,7 @@
       "reczxZFNnUFSbpNxf"
     ],
     "Last modified manual (translation)": "2020-07-08",
+    "Last modified manual": "2020-06-14",
     "Background last edited (Translation)": "2020-07-08T22:59:55.000Z",
     "Experts say last edited (translation)": "2020-07-08T22:52:09.000Z",
     "Last modified": "2020-07-08",
@@ -419,8 +420,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-06-14"
+    ]
   },
   {
     "id": "recNZYf0Bkn6jUj8I",
@@ -446,6 +446,7 @@
     "Variation of the answer depending on country of residence": "नहीं\n\n",
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n\n",
     "Last modified manual (translation)": "2020-07-05",
+    "Last modified manual": "2020-07-15",
     "Background last edited (Translation)": "2020-07-05T01:25:30.000Z",
     "Experts say last edited (translation)": "2020-07-05T01:25:10.000Z",
     "Last modified": "2020-07-05",
@@ -485,8 +486,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-07-15"
+    ]
   },
   {
     "id": "recPlCNtmjyjbvUsf",
@@ -521,6 +521,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "July Invoice",
     "Last modified manual (translation)": "2020-07-31",
+    "Last modified manual": "2020-07-15",
     "Background last edited (Translation)": "2020-07-31T18:44:20.000Z",
     "Experts say last edited (translation)": "2020-07-29T12:28:58.000Z",
     "Last modified": "2020-07-31",
@@ -560,8 +561,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-07-15"
+    ]
   },
   {
     "id": "recqLXlJUDvSE53Ls",
@@ -591,6 +591,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "August Invoice",
     "Last modified manual (translation)": "2020-08-14",
+    "Last modified manual": "2020-07-03",
     "Background last edited (Translation)": "2020-08-14T19:02:44.000Z",
     "Experts say last edited (translation)": "2020-08-14T19:00:22.000Z",
     "Last modified": "2020-08-14",
@@ -619,8 +620,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-07-03"
+    ]
   },
   {
     "id": "recjqzoOLEwA1mSPs",
@@ -643,6 +643,7 @@
     ],
     "Variation of the answer depending on country of residence": "face masks, prevention, respiratory droplets, aerosol\n",
     "Last modified manual (translation)": "2020-07-25",
+    "Last modified manual": "2020-06-14",
     "Background last edited (Translation)": "2020-07-25T02:31:26.000Z",
     "Experts say last edited (translation)": "2020-07-25T02:28:46.000Z",
     "Last modified": "2020-07-25",
@@ -675,8 +676,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-06-14"
+    ]
   },
   {
     "id": "recfva7VUWttebYlH",
@@ -698,6 +698,7 @@
     "Variation of the answer depending on country of residence": "नहीं\n",
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "September Invoice",
+    "Last modified manual": "2020-08-30",
     "Background last edited (Translation)": "2020-09-15T04:13:22.000Z",
     "Experts say last edited (translation)": "2020-09-15T03:33:35.000Z",
     "Last modified": "2020-09-15",
@@ -729,8 +730,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-08-30"
+    ]
   },
   {
     "id": "recOQIzhwZapyh5J3",
@@ -763,6 +763,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "July Invoice",
     "Last modified manual (translation)": "2020-07-31",
+    "Last modified manual": "2020-06-22",
     "Background last edited (Translation)": "2020-07-31T18:37:47.000Z",
     "Experts say last edited (translation)": "2020-07-31T18:37:36.000Z",
     "Last modified": "2020-07-31",
@@ -801,8 +802,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-06-22"
+    ]
   },
   {
     "id": "recXe8yJ7WFnJoW8L",
@@ -831,6 +831,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "August Invoice",
     "Last modified manual (translation)": "2020-08-12",
+    "Last modified manual": "2020-07-03",
     "Background last edited (Translation)": "2020-08-12T20:08:15.000Z",
     "Experts say last edited (translation)": "2020-08-12T20:07:36.000Z",
     "Last modified": "2020-08-12",
@@ -858,8 +859,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-07-03"
+    ]
   },
   {
     "id": "rechStEyPqYtEuAfa",
@@ -894,6 +894,7 @@
     "Variation of the answer depending on country of residence": "नहीं\n\n",
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n\n",
     "Last modified manual (translation)": "2020-06-30",
+    "Last modified manual": "2020-08-11",
     "Background last edited (Translation)": "2020-06-30T22:29:12.000Z",
     "Experts say last edited (translation)": "2020-06-30T22:26:54.000Z",
     "Last modified": "2020-06-30",
@@ -935,8 +936,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-08-11"
+    ]
   },
   {
     "id": "recueLz05RLAeim5j",
@@ -964,6 +964,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "August Invoice",
     "Last modified manual (translation)": "2020-08-13",
+    "Last modified manual": "2020-07-03",
     "Background last edited (Translation)": "2020-08-12T23:50:13.000Z",
     "Experts say last edited (translation)": "2020-08-12T23:34:03.000Z",
     "Last modified": "2020-08-12",
@@ -990,8 +991,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-07-03"
+    ]
   },
   {
     "id": "recmCB2gfbWWiSPYm",
@@ -1029,6 +1029,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "July Invoice",
     "Last modified manual (translation)": "2020-07-31",
+    "Last modified manual": "2020-08-14",
     "Background last edited (Translation)": "2020-07-31T18:36:09.000Z",
     "Experts say last edited (translation)": "2020-07-31T18:35:43.000Z",
     "Last modified": "2020-07-31",
@@ -1067,8 +1068,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-08-14"
+    ]
   },
   {
     "id": "recMkZJD2fpzKkueR",
@@ -1102,6 +1102,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "July Invoice",
     "Last modified manual (translation)": "2020-07-31",
+    "Last modified manual": "2020-06-24",
     "Background last edited (Translation)": "2020-07-30T21:57:23.000Z",
     "Experts say last edited (translation)": "2020-07-31T18:30:43.000Z",
     "Last modified": "2020-07-31",
@@ -1135,8 +1136,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-06-24"
+    ]
   },
   {
     "id": "recyCCDBCKau27mbU",
@@ -1174,6 +1174,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "August Invoice",
     "Last modified manual (translation)": "2020-08-15",
+    "Last modified manual": "2020-07-03",
     "Background last edited (Translation)": "2020-08-14T23:22:50.000Z",
     "Experts say last edited (translation)": "2020-08-14T23:52:26.000Z",
     "Last modified": "2020-08-14",
@@ -1181,7 +1182,7 @@
       "As of now, there is no consensus about whether or not tears can accurately detect the virus in an infected person, but early study results have shown a lower amount of the virus in tears than in other bodily fluids. Some researchers believe parts of the virus might be able to spread from a person's nasal cavity into their eyes, and eventually into tears in the inner corner of the eyes. Whether or not this type of testing will work is still uncertain as scientists have been testing many bodily fluids like semen, saliva, urine, and tears to determine whether or not the virus can be detected in them and if it can, how much. \n\nHumans produce tears in the back of their eye sockets, which is close to the nasal cavity where most COVID-19 tests are being done now. The nasal cavity is located at the back of the nose and is where the COVID-19 virus starts reproducing in people exposed to the virus.\n\nNasal swab tests are designed to collect samples from the nasal cavity that have some genetic material of the virus (DNA and RNA). Tear tests for COVID-19 would try to focus on this similar area of the head as there is a small, thin layer of tissue called the 'conjuctiva' that acts as a bridge between the nasal cavity and the eye socket. "
     ],
     "EN Background & context": [
-      "There is a growing number of research studies as well as media reports about COVID-19 tests that use samples of tears, instead of nasal swabs, throat swabs, saliva collection, blood draws, or other bodily samples. Tears originate near the nasal cavity, and someone with COVID-19 can shed viral particles in their tears. \nLike nasal swab tests, COVID-19 tests using tears analyze the sample through polymerise chain reaction (PCR) and are currently proposed as a potential option for diagnostic testing (checking whether someone has an active infection), which is different from antibody testing (checking whether someone had a past infection and now has antibodies against COVID-19). It is important to note that COVID-19 tests using tears are still in the research and development phase.\nBeyond the COVID-19 tests using tears that are being developed, Yale University has developed a COVID-19 diagnostic test that uses saliva collected in sterile containers, called SalivaDirect. On August 15, 2020, the U.S. Food and Drug Administration (FDA) issued an emergency use authorization for SalivaDirect, although more studies are in progress to better understand how well this test works.\nThe interest in COVID-19 tests using tears and saliva may be related to general interest in increasing the availability, accuracy, affordability, safety, speed, and ease of COVID-19 testing. For example, there is some interest in nasal swab test alternatives to reduce physical discomfort and to avoid inducing sneezing or coughing reflexes that could transmit virus particles to health care workers.\n\nThis entry was updated with new information on September 27, 2020."
+      "There is a growing number of research studies as well as media reports about COVID-19 tests that use samples of tears, instead of nasal swabs, throat swabs, saliva collection, blood draws, or other bodily samples. Tears originate near the nasal cavity, and someone with COVID-19 can shed viral particles in their tears. \n\nLike nasal swab tests, COVID-19 tests using tears analyze the sample through polymerise chain reaction (PCR) and are currently proposed as a potential option for diagnostic testing (checking whether someone has an active infection), which is different from antibody testing (checking whether someone had a past infection and now has antibodies against COVID-19). It is important to note that COVID-19 tests using tears are still in the research and development phase.\n\nBeyond the COVID-19 tests using tears that are being developed, Yale University has developed a COVID-19 diagnostic test that uses saliva collected in sterile containers, called SalivaDirect. On August 15, 2020, the U.S. Food and Drug Administration (FDA) issued an emergency use authorization for SalivaDirect, although more studies are in progress to better understand how well this test works.\n\nThe interest in COVID-19 tests using tears and saliva may be related to general interest in increasing the availability, accuracy, affordability, safety, speed, and ease of COVID-19 testing. For example, there is some interest in nasal swab test alternatives to reduce physical discomfort and to avoid inducing sneezing or coughing reflexes that could transmit virus particles to health care workers."
     ],
     "EN Glossary": [
       "recS7r4IRJ4w3tzwS",
@@ -1214,8 +1215,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-07-03"
+    ]
   },
   {
     "id": "rec7bA8vT7nLLJsBt",
@@ -1246,6 +1246,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "July Invoice",
     "Last modified manual (translation)": "2020-08-06",
+    "Last modified manual": "2020-06-22",
     "Background last edited (Translation)": "2020-08-06T19:44:18.000Z",
     "Experts say last edited (translation)": "2020-08-05T23:24:10.000Z",
     "Last modified": "2020-08-06",
@@ -1274,8 +1275,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-06-22"
+    ]
   },
   {
     "id": "rec3AMklAnFnJjB4F",
@@ -1308,6 +1308,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "August Invoice",
     "Last modified manual (translation)": "2020-08-15",
+    "Last modified manual": "2020-07-10",
     "Background last edited (Translation)": "2020-08-15T04:05:37.000Z",
     "Experts say last edited (translation)": "2020-08-15T04:01:54.000Z",
     "Last modified": "2020-08-15",
@@ -1343,8 +1344,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-07-10"
+    ]
   },
   {
     "id": "recOdx5kTu1J9JSt5",
@@ -1364,6 +1364,7 @@
     ],
     "Variation of the answer depending on country of residence": "infection\n",
     "Last modified manual (translation)": "2020-07-25",
+    "Last modified manual": "2020-07-03",
     "Background last edited (Translation)": "2020-07-25T01:58:45.000Z",
     "Experts say last edited (translation)": "2020-07-13T15:46:44.000Z",
     "Last modified": "2020-07-25",
@@ -1390,8 +1391,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-07-03"
+    ]
   },
   {
     "id": "reco1sk8QaOHSDsDk",
@@ -1425,14 +1425,15 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "July Invoice",
     "Last modified manual (translation)": "2020-07-31",
+    "Last modified manual": "2020-08-06",
     "Background last edited (Translation)": "2020-07-27T23:15:53.000Z",
     "Experts say last edited (translation)": "2020-07-31T18:44:01.000Z",
     "Last modified": "2020-07-31",
     "EN What our experts say": [
-      "Vitamin D has not been tested for its effectiveness in treating COVID-19 patients, and there is no evidence that it can prevent or treat the virus. Multiple observational studies have shown and association between vitamin D deficiency and higher numbers of COVID-19 cases and deaths. While current evidence does suggest that vitamin D deficiency may be a risk factor for COVID-19, there have not been studies to evaluate whether vitamin D supplementation may help prevent COVID-19. Further studies are also needed to better understand what level of deficiency carries COVID-19 risk. Researchers are now working on several studies to determine if Vitamin D can be effective in preventing or treating COVID-19.\n\nThis entry was updated with new information on September 24, 2020."
+      "Vitamin D has not been tested for its effectiveness in treating COVID-19 patients, and there is no evidence that it can prevent or treat the virus. Multiple observational studies have shown and association between vitamin D deficiency and higher numbers of COVID-19 cases and deaths. While current evidence does suggest that vitamin D deficiency may be a risk factor for COVID-19, there have not been studies to evaluate whether vitamin D supplementation may help prevent COVID-19. Further studies are also needed to better understand what level of deficiency carries COVID-19 risk. Researchers are now working on several studies to determine if Vitamin D can be effective in preventing or treating COVID-19."
     ],
     "EN Background & context": [
-      "Vitamin D is an essential nutrient available in foods like salmon or egg yolks, or dietary supplements. It can also be made in the body when the skin is exposed to the sun. Studies have shown that low levels of vitamin D (vitamin D deficiency) are common so blood screening for vitamin D deficiency has become common in many developed countries. Some groups at increased risk for vitamin D deficiency include breastfed infants, older adults, people with limited sun exposure, people with dark skin, and people who are obese.\nHaving enough vitamin D in the body is important for bone health and helps ensure your body's immune system and its cells are working well so they can respond to infections and viruses. Vitamin D has also been shown to reduce cancer cell growth in some cancers, help minimize inflammation, and help control infections.\nVitamin D does play an important role in immune function, and prevention and treatment of vitamin D deficiency is recommended for health. At this time, there is no evidence that Vitamin D intake or supplementation can prevent or treat COVID-19.\n\nThis entry was updated with new information on September 24, 2020."
+      "Vitamin D is an essential nutrient available in foods like salmon or egg yolks, or dietary supplements. It can also be made in the body when the skin is exposed to the sun. Studies have shown that low levels of vitamin D (vitamin D deficiency) are common so blood screening for vitamin D deficiency has become common in many developed countries. Some groups at increased risk for vitamin D deficiency include breastfed infants, older adults, people with limited sun exposure, people with dark skin, and people who are obese.\n\nHaving enough vitamin D in the body is important for bone health and helps ensure your body's immune system and its cells are working well so they can respond to infections and viruses. Vitamin D has also been shown to reduce cancer cell growth in some cancers, help minimize inflammation, and help control infections.\n\nVitamin D does play an important role in immune function, and prevention and treatment of vitamin D deficiency is recommended for health. At this time, there is no evidence that Vitamin D intake or supplementation can prevent or treat COVID-19."
     ],
     "EN Glossary": [
       "recnFUXyIZy81Rj1I"
@@ -1458,8 +1459,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-08-06"
+    ]
   },
   {
     "id": "recKr9zDEV3KkIoty",
@@ -1494,6 +1494,7 @@
     "Variation of the answer depending on country of residence": "नहीं\n\n",
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Last modified manual (translation)": "2020-06-30",
+    "Last modified manual": "2020-06-15",
     "Background last edited (Translation)": "2020-06-30T21:23:22.000Z",
     "Experts say last edited (translation)": "2020-06-30T21:23:10.000Z",
     "Last modified": "2020-06-30",
@@ -1534,8 +1535,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-06-15"
+    ]
   },
   {
     "id": "reciWHhBGLHGO7N82",
@@ -1568,6 +1568,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "August Invoice",
     "Last modified manual (translation)": "2020-08-14",
+    "Last modified manual": "2020-07-01",
     "Background last edited (Translation)": "2020-08-14T05:06:38.000Z",
     "Experts say last edited (translation)": "2020-08-14T04:10:11.000Z",
     "Last modified": "2020-08-14",
@@ -1603,8 +1604,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-07-01"
+    ]
   },
   {
     "id": "recq5h0Prcle128f9",
@@ -1641,6 +1641,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "July Invoice",
     "Last modified manual (translation)": "2020-07-31",
+    "Last modified manual": "2020-06-23",
     "Background last edited (Translation)": "2020-07-31T18:27:04.000Z",
     "Experts say last edited (translation)": "2020-07-31T18:27:32.000Z",
     "Last modified": "2020-07-31",
@@ -1677,8 +1678,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-06-23"
+    ]
   },
   {
     "id": "recHFmRubql8a7rx7",
@@ -1713,6 +1713,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "July Invoice",
     "Last modified manual (translation)": "2020-07-31",
+    "Last modified manual": "2020-07-29",
     "Background last edited (Translation)": "2020-07-31T18:41:36.000Z",
     "Experts say last edited (translation)": "2020-07-31T18:41:09.000Z",
     "Last modified": "2020-07-31",
@@ -1747,8 +1748,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-07-29"
+    ]
   },
   {
     "id": "recHqbhhGdICGE31n",
@@ -1778,6 +1778,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "August Invoice",
     "Last modified manual (translation)": "2020-08-12",
+    "Last modified manual": "2020-07-03",
     "Background last edited (Translation)": "2020-08-12T16:31:08.000Z",
     "Experts say last edited (translation)": "2020-08-12T16:37:20.000Z",
     "Last modified": "2020-08-12",
@@ -1805,8 +1806,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-07-03"
+    ]
   },
   {
     "id": "recoFA0c2kysT1Sul",
@@ -1839,6 +1839,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "August Invoice",
     "Last modified manual (translation)": "2020-08-20",
+    "Last modified manual": "2020-07-21",
     "Background last edited (Translation)": "2020-08-20T03:53:08.000Z",
     "Experts say last edited (translation)": "2020-08-19T23:48:08.000Z",
     "Last modified": "2020-08-20",
@@ -1874,8 +1875,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No\t"
-    ],
-    "Last modified manual": "2020-07-21"
+    ]
   },
   {
     "id": "recurR7td4FCtoIXQ",
@@ -1903,6 +1903,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "July Invoice",
     "Last modified manual (translation)": "2020-08-07",
+    "Last modified manual": "2020-07-03",
     "Background last edited (Translation)": "2020-08-07T03:09:54.000Z",
     "Experts say last edited (translation)": "2020-08-07T03:21:08.000Z",
     "Last modified": "2020-08-07",
@@ -1929,8 +1930,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-07-03"
+    ]
   },
   {
     "id": "recOSiq7r71gpwfWY",
@@ -1959,6 +1959,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "August Invoice",
     "Last modified manual (translation)": "2020-08-12",
+    "Last modified manual": "2020-08-07",
     "Background last edited (Translation)": "2020-08-12T21:24:22.000Z",
     "Experts say last edited (translation)": "2020-08-12T20:56:03.000Z",
     "Last modified": "2020-08-12",
@@ -1987,8 +1988,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-08-07"
+    ]
   },
   {
     "id": "rec7shgDZuifvN3Lk",
@@ -2010,6 +2010,7 @@
     ],
     "Variation of the answer depending on country of residence": "contagious, symptoms\n",
     "Last modified manual (translation)": "2020-07-25",
+    "Last modified manual": "2020-08-20",
     "Background last edited (Translation)": "2020-07-25T02:24:27.000Z",
     "Experts say last edited (translation)": "2020-07-25T02:15:49.000Z",
     "Last modified": "2020-07-25",
@@ -2046,8 +2047,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-08-20"
+    ]
   },
   {
     "id": "rec6pD3zz7tnDWDXP",
@@ -2081,6 +2081,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "August Invoice",
     "Last modified manual (translation)": "2020-08-14",
+    "Last modified manual": "2020-07-06",
     "Background last edited (Translation)": "2020-08-14T03:41:36.000Z",
     "Experts say last edited (translation)": "2020-08-14T04:36:26.000Z",
     "Last modified": "2020-08-14",
@@ -2117,8 +2118,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-07-06"
+    ]
   },
   {
     "id": "rec5j9NoybrNLrh0x",
@@ -2150,6 +2150,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "August Invoice",
     "Last modified manual (translation)": "2020-08-12",
+    "Last modified manual": "2020-07-30",
     "Background last edited (Translation)": "2020-08-12T16:32:14.000Z",
     "Experts say last edited (translation)": "2020-08-12T16:31:48.000Z",
     "Last modified": "2020-08-12",
@@ -2188,8 +2189,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-07-30"
+    ]
   },
   {
     "id": "reclDEivWOJHGmN36",
@@ -2221,6 +2221,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "August Invoice",
     "Last modified manual (translation)": "2020-08-20",
+    "Last modified manual": "2020-07-13",
     "Background last edited (Translation)": "2020-08-20T05:43:18.000Z",
     "Experts say last edited (translation)": "2020-08-20T05:24:53.000Z",
     "Last modified": "2020-08-20",
@@ -2251,8 +2252,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-07-13"
+    ]
   },
   {
     "id": "recghRwerGPpEzj4B",
@@ -2282,6 +2282,7 @@
     "Variation of the answer depending on country of residence": "नहीं\n\n",
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Last modified manual (translation)": "2020-07-04",
+    "Last modified manual": "2020-07-11",
     "Background last edited (Translation)": "2020-07-03T23:20:16.000Z",
     "Experts say last edited (translation)": "2020-07-03T23:19:58.000Z",
     "Last modified": "2020-07-03",
@@ -2317,8 +2318,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-07-11"
+    ]
   },
   {
     "id": "recZxe6na5otSxNrc",
@@ -2337,6 +2337,7 @@
     ],
     "Variation of the answer depending on country of residence": "treatment, medicine\n",
     "Last modified manual (translation)": "2020-07-10",
+    "Last modified manual": "2020-06-25",
     "Background last edited (Translation)": "2020-07-09T23:53:23.000Z",
     "Experts say last edited (translation)": "2020-07-09T23:21:51.000Z",
     "Last modified": "2020-07-09",
@@ -2374,8 +2375,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-06-25"
+    ]
   },
   {
     "id": "recigmYiivuSCvJ0o",
@@ -2408,6 +2408,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "August Invoice",
     "Last modified manual (translation)": "2020-08-12",
+    "Last modified manual": "2020-06-26",
     "Background last edited (Translation)": "2020-08-12T16:34:04.000Z",
     "Experts say last edited (translation)": "2020-08-12T16:33:35.000Z",
     "Last modified": "2020-08-12",
@@ -2444,8 +2445,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-06-26"
+    ]
   },
   {
     "id": "recMi30IwRzi6fGZR",
@@ -2475,6 +2475,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "August Invoice",
     "Last modified manual (translation)": "2020-08-15",
+    "Last modified manual": "2020-07-07",
     "Background last edited (Translation)": "2020-08-14T23:48:32.000Z",
     "Experts say last edited (translation)": "2020-08-14T23:39:58.000Z",
     "Last modified": "2020-08-14",
@@ -2503,8 +2504,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-07-07"
+    ]
   },
   {
     "id": "recuMsGR9XouJYTgV",
@@ -2538,6 +2538,7 @@
     "Variation of the answer depending on country of residence": "नहीं\n\n",
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Last modified manual (translation)": "2020-07-04",
+    "Last modified manual": "2020-07-09",
     "Background last edited (Translation)": "2020-07-03T23:03:11.000Z",
     "Experts say last edited (translation)": "2020-07-03T23:02:59.000Z",
     "Last modified": "2020-07-03",
@@ -2570,8 +2571,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-07-09"
+    ]
   },
   {
     "id": "recpXuDHbtA8QgYvB",
@@ -2593,6 +2593,7 @@
     ],
     "Internal Invoicing Notes for LocLab": "August Invoice",
     "Last modified manual (translation)": "2020-08-20",
+    "Last modified manual": "2020-08-05",
     "Background last edited (Translation)": "2020-08-20T05:49:33.000Z",
     "Experts say last edited (translation)": "2020-08-20T05:36:33.000Z",
     "Last modified": "2020-08-20",
@@ -2609,8 +2610,7 @@
     ],
     "EN Country question was sourced from": [
       "India"
-    ],
-    "Last modified manual": "2020-08-05"
+    ]
   },
   {
     "id": "rec9Vj7CIQcChHjo4",
@@ -2634,6 +2634,7 @@
       "reclucIrtcCSCbOn6"
     ],
     "Internal Invoicing Notes for LocLab": "September Invoice",
+    "Last modified manual": "2020-07-15",
     "Background last edited (Translation)": "2020-09-17T19:54:29.000Z",
     "Experts say last edited (translation)": "2020-09-15T03:44:12.000Z",
     "Last modified": "2020-09-17",
@@ -2671,8 +2672,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       null
-    ],
-    "Last modified manual": "2020-07-15"
+    ]
   },
   {
     "id": "recfPp65sW5B34jq2",
@@ -2706,6 +2706,7 @@
     "Variation of the answer depending on country of residence": "नहीं\n",
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "September Invoice",
+    "Last modified manual": "2020-07-14",
     "Background last edited (Translation)": "2020-09-18T04:06:39.000Z",
     "Experts say last edited (translation)": "2020-09-18T04:05:35.000Z",
     "Last modified": "2020-09-18",
@@ -2743,8 +2744,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-07-14"
+    ]
   },
   {
     "id": "recv1FiBeWvUUxato",
@@ -2782,6 +2782,7 @@
     "Variation of the answer depending on country of residence": "नहीं\n\n",
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Last modified manual (translation)": "2020-06-29",
+    "Last modified manual": "2020-05-26",
     "Background last edited (Translation)": "2020-06-29T22:44:49.000Z",
     "Experts say last edited (translation)": "2020-06-29T22:32:37.000Z",
     "Last modified": "2020-06-29",
@@ -2823,8 +2824,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-05-26"
+    ]
   },
   {
     "id": "recievVAiT0QfVDTa",
@@ -2850,6 +2850,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "July Invoice",
     "Last modified manual (translation)": "2020-08-06",
+    "Last modified manual": "2020-07-03",
     "Background last edited (Translation)": "2020-08-06T22:20:46.000Z",
     "Experts say last edited (translation)": "2020-08-06T00:02:30.000Z",
     "Last modified": "2020-08-06",
@@ -2876,8 +2877,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-07-03"
+    ]
   },
   {
     "id": "rec8B6FXmTmTrWtdv",
@@ -2909,6 +2909,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "August Invoice",
     "Last modified manual (translation)": "2020-08-15",
+    "Last modified manual": "2020-08-13",
     "Background last edited (Translation)": "2020-08-15T19:48:30.000Z",
     "Experts say last edited (translation)": "2020-08-15T19:01:35.000Z",
     "Last modified": "2020-08-15",
@@ -2943,8 +2944,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-08-13"
+    ]
   },
   {
     "id": "recI45JBg4AUfgdUv",
@@ -2979,6 +2979,7 @@
     "Variation of the answer depending on country of residence": "नहीं\n\n",
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Last modified manual (translation)": "2020-06-30",
+    "Last modified manual": "2020-07-16",
     "Background last edited (Translation)": "2020-06-30T01:22:18.000Z",
     "Experts say last edited (translation)": "2020-06-25T16:27:30.000Z",
     "Last modified": "2020-06-30",
@@ -3020,8 +3021,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-07-16"
+    ]
   },
   {
     "id": "recojD7yFZ5jkWu1m",
@@ -3041,6 +3041,7 @@
     ],
     "Internal Invoicing Notes for LocLab": "August Invoice",
     "Last modified manual (translation)": "2020-08-20",
+    "Last modified manual": "2020-08-21",
     "Background last edited (Translation)": "2020-08-20T18:56:26.000Z",
     "Experts say last edited (translation)": "2020-08-20T18:30:49.000Z",
     "Last modified": "2020-08-20",
@@ -3058,8 +3059,7 @@
     ],
     "Translation change notes (from main DB)": [
       "a note with remvoals or other stuff\n\nAdded/changed sentences: \n- [Roughly half of people with COVID-19 will have a fever and 2/3 will have a cough.]\n- \n"
-    ],
-    "Last modified manual": "2020-08-21"
+    ]
   },
   {
     "id": "recGTHUEZHVc2Ddb1",
@@ -3091,6 +3091,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "August Invoice",
     "Last modified manual (translation)": "2020-08-15",
+    "Last modified manual": "2020-08-21",
     "Background last edited (Translation)": "2020-08-15T20:25:57.000Z",
     "Experts say last edited (translation)": "2020-08-15T20:27:15.000Z",
     "Last modified": "2020-08-15",
@@ -3126,8 +3127,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-08-21"
+    ]
   },
   {
     "id": "reca8vJYJ5Hwjlo0O",
@@ -3160,6 +3160,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "July Invoice",
     "Last modified manual (translation)": "2020-07-28",
+    "Last modified manual": "2020-07-29",
     "Background last edited (Translation)": "2020-07-28T00:22:06.000Z",
     "Experts say last edited (translation)": "2020-07-28T00:02:39.000Z",
     "Last modified": "2020-07-28",
@@ -3192,8 +3193,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-07-29"
+    ]
   },
   {
     "id": "rec17g4hTZOY6140S",
@@ -3228,6 +3228,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "July Invoice",
     "Last modified manual (translation)": "2020-07-31",
+    "Last modified manual": "2020-06-25",
     "Background last edited (Translation)": "2020-07-31T18:26:13.000Z",
     "Experts say last edited (translation)": "2020-07-31T18:25:57.000Z",
     "Last modified": "2020-07-31",
@@ -3262,8 +3263,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-06-25"
+    ]
   },
   {
     "id": "recewYnQ7bVNb0XYh",
@@ -3295,6 +3295,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "August Invoice",
     "Last modified manual (translation)": "2020-08-22",
+    "Last modified manual": "2020-07-12",
     "Background last edited (Translation)": "2020-08-22T18:34:01.000Z",
     "Experts say last edited (translation)": "2020-08-20T22:38:58.000Z",
     "Last modified": "2020-08-22",
@@ -3334,8 +3335,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-07-12"
+    ]
   },
   {
     "id": "rec6JSRxYEBnuLp68",
@@ -3348,6 +3348,7 @@
       "rec5d5bDYQKs3umW2"
     ],
     "Internal Invoicing Notes for LocLab": "September Invoice",
+    "Last modified manual": "2020-08-20",
     "Background last edited (Translation)": "2020-09-15T04:03:15.000Z",
     "Experts say last edited (translation)": "2020-09-15T03:21:52.000Z",
     "Last modified": "2020-09-15",
@@ -3356,8 +3357,7 @@
     ],
     "EN Background & context": [
       "While pregnant women might be at increased risk for severe COVID-19 disease, there is no data yet to show any pre-term complications. Since it is possible for pregnant women to transmit the virus to a newborn, it is common to test pregnant women pre-labor for the novel coronavirus. It is unknown if the virus is spread before, during, or after birth. \n\nThere have been documented cases of mistreatment, abuse, and obstetric violence of pregnant women globally in the context of COVID-19. Examples include limited prenatal care, lack of choice around who is in the delivery room, separation from newborns, and verbal abuse. The World Health Organization has issued guidance on pregnancy and COVID-19 aiming to address these concerns by discouraging negative actions such as newborn separation and forced cesarean sections.\n\nThis entry was updated with new information on August 11, 2020."
-    ],
-    "Last modified manual": "2020-08-20"
+    ]
   },
   {
     "id": "recFvSXFM2MnW9tQZ",
@@ -3370,6 +3370,7 @@
       "recz1YK8aca1AExY3"
     ],
     "Internal Invoicing Notes for LocLab": "September Invoice",
+    "Last modified manual": "2020-07-17",
     "Background last edited (Translation)": "2020-09-14T05:03:33.000Z",
     "Experts say last edited (translation)": "2020-09-14T05:39:30.000Z",
     "Last modified": "2020-09-14",
@@ -3378,8 +3379,7 @@
     ],
     "EN Background & context": [
       "The U.S. Centers for Disease Control and Prevention (U.S. CDC) warns that risks of severe COVID-19 illness tend to increase with age, with people over 85 being at highest risk for hospitalization, intensive care, ventilation, and potentially death. Tragically, the lives of young people, including children, have also been lost during the COVID-19 pandemic. More evidence is emerging on how some young patients develop severe symptoms and complications related to COVID-19. Multisystem inflammatory syndrome in children (MIS-C) is a serious and potentially fatal condition in young people, which can appear similar to Kawasaki's disease. In mid-May 2020, the U.S. CDC asked doctors across the country to look out for MIS-C cases. In June 2020, another two studies found over 300 children with MIS-C in the United States, which was reported widely in the media. Researchers around the world continue to study why some children are seriously affected by COVID-19 when the majority of young people have had relatively mild cases."
-    ],
-    "Last modified manual": "2020-07-17"
+    ]
   },
   {
     "id": "rectBcCsddJwBt55Y",
@@ -3415,6 +3415,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "August Invoice",
     "Last modified manual (translation)": "2020-08-15",
+    "Last modified manual": "2020-08-25",
     "Background last edited (Translation)": "2020-08-15T04:46:44.000Z",
     "Experts say last edited (translation)": "2020-08-15T04:36:27.000Z",
     "Last modified": "2020-08-15",
@@ -3454,8 +3455,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No "
-    ],
-    "Last modified manual": "2020-08-25"
+    ]
   },
   {
     "id": "recFtJtgluP9IrWp3",
@@ -3485,6 +3485,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "July Invoice",
     "Last modified manual (translation)": "2020-07-31",
+    "Last modified manual": "2020-07-03",
     "Background last edited (Translation)": "2020-07-31T18:20:43.000Z",
     "Experts say last edited (translation)": "2020-07-31T18:24:08.000Z",
     "Last modified": "2020-07-31",
@@ -3517,8 +3518,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-07-03"
+    ]
   },
   {
     "id": "recbRKuknhY9R9y0U",
@@ -3551,6 +3551,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "हाँ\n",
     "Internal Invoicing Notes for LocLab": "August Invoice",
     "Last modified manual (translation)": "2020-08-13",
+    "Last modified manual": "2020-09-18",
     "Background last edited (Translation)": "2020-08-13T03:53:47.000Z",
     "Experts say last edited (translation)": "2020-08-12T23:57:26.000Z",
     "Last modified": "2020-08-13",
@@ -3589,8 +3590,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "Yes\n\n"
-    ],
-    "Last modified manual": "2020-09-18"
+    ]
   },
   {
     "id": "recQYOQ0S7oq5Ml7t",
@@ -3618,6 +3618,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "August Invoice",
     "Last modified manual (translation)": "2020-08-20",
+    "Last modified manual": "2020-07-24",
     "Background last edited (Translation)": "2020-08-20T05:40:08.000Z",
     "Experts say last edited (translation)": "2020-08-20T05:06:36.000Z",
     "Last modified": "2020-08-20",
@@ -3653,8 +3654,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-07-24"
+    ]
   },
   {
     "id": "recQsQedv6T3fLr8y",
@@ -3684,6 +3684,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "August Invoice",
     "Last modified manual (translation)": "2020-08-22",
+    "Last modified manual": "2020-08-03",
     "Background last edited (Translation)": "2020-08-22T18:36:37.000Z",
     "Experts say last edited (translation)": "2020-08-21T23:31:52.000Z",
     "Last modified": "2020-08-22",
@@ -3720,8 +3721,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No "
-    ],
-    "Last modified manual": "2020-08-03"
+    ]
   },
   {
     "id": "recmzqGqefxHUsds9",
@@ -3752,6 +3752,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "August Invoice",
     "Last modified manual (translation)": "2020-08-14",
+    "Last modified manual": "2020-07-10",
     "Background last edited (Translation)": "2020-08-14T04:41:32.000Z",
     "Experts say last edited (translation)": "2020-08-14T05:02:17.000Z",
     "Last modified": "2020-08-14",
@@ -3781,8 +3782,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-07-10"
+    ]
   },
   {
     "id": "recxg5Br3zPr1B9Q9",
@@ -3809,6 +3809,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "August Invoice",
     "Last modified manual (translation)": "2020-08-22",
+    "Last modified manual": "2020-07-30",
     "Background last edited (Translation)": "2020-08-22T18:39:08.000Z",
     "Experts say last edited (translation)": "2020-08-21T23:38:11.000Z",
     "Last modified": "2020-08-22",
@@ -3841,8 +3842,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-07-30"
+    ]
   },
   {
     "id": "recBSejrBcKWeuOVp",
@@ -3863,6 +3863,7 @@
     ],
     "Variation of the answer depending on country of residence": "mutation, virus, RNA, protein spikes\n",
     "Last modified manual (translation)": "2020-07-10",
+    "Last modified manual": "2020-07-07",
     "Background last edited (Translation)": "2020-07-10T00:53:17.000Z",
     "Experts say last edited (translation)": "2020-07-10T00:17:17.000Z",
     "Last modified": "2020-07-10",
@@ -3899,8 +3900,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-07-07"
+    ]
   },
   {
     "id": "recp8Hn2n3YuBwhjt",
@@ -3920,6 +3920,7 @@
     ],
     "Variation of the answer depending on country of residence": "treatment, United Kingdom, corticosteroid\n",
     "Last modified manual (translation)": "2020-07-09",
+    "Last modified manual": "2020-07-10",
     "Background last edited (Translation)": "2020-07-09T00:08:17.000Z",
     "Experts say last edited (translation)": "2020-07-08T23:41:37.000Z",
     "Last modified": "2020-07-09",
@@ -3957,8 +3958,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-07-10"
+    ]
   },
   {
     "id": "recQwFO94hnJzL3iV",
@@ -3991,14 +3991,15 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "August Invoice",
     "Last modified manual (translation)": "2020-08-20",
+    "Last modified manual": "2020-08-10",
     "Background last edited (Translation)": "2020-08-20T19:00:02.000Z",
     "Experts say last edited (translation)": "2020-08-20T18:51:09.000Z",
     "Last modified": "2020-08-20",
     "EN What our experts say": [
-      "There are currently no clinical trials or observational studies on the use of inhaled steroids in COVID-19 patients. More research is needed before repurposing these drugs as a COVID-19 treatment. \n\nThere have been rumors circulating about using \"nebulizers\" to inhale steroids, such as the anti-inflammatory drug budesonide (brand name Pulmicort), to potentially treat COVID-19. \n\nInhaled steroids like budesonide can have side effects, and are also crucial for patients with health conditions who do not have COVID-19, so these should only be used when recommended by your doctor. Budesonide can be inhaled or taken orally, and when inhaled is part of a family of anti-inflammatory medications called inhaled steroids that are primarily used to help manage symptoms for conditions like asthma and chronic obstructive pulmonary disease (COPD). Budesonide is a prescription-only drug that is not approved by the U.S. Food and Drug Administration (FDA) for treatment of COVID-19.\n\n\"Nebulizers\" are a type of inhaler that change liquid medications, like budesonide, into a mist that can be more easily inhaled into the lungs. Nebulizers can be more expensive than the most common type of inhaler used by people with asthma, and patients usually use nebulizers for specific reasons, such as if a child or someone with severe asthma is having difficulties inhaling medicine.\n\nIn early September of 2020, the World Health Organization (WHO) issued guidance that a class of steroids called corticosteroids - specifically dexamethasone, hydrocortisone, and methylprednisolone - should be considered treatments for severe cases of COVID-19, but should not be used in milder cases. These steroids are given systemically, meaning through the veins or in an oral pill form, but not through a nebulizer. Nebulizer-inhaled steroids have not be recommended or approved for use in COVID-19 cases by the WHO or U.S. FDA."
+      "There are currently no clinical trials or observational studies on the use of inhaled steroids in COVID-19 patients. More research is needed before repurposing these drugs as a COVID-19 treatment. \n\nIn early September of 2020, the World Health Organization (WHO) issued guidance that a class of steroids called corticosteroids - specifically dexamethasone, hydrocortisone, and methylprednisolone - should be considered treatments for severe cases of COVID-19, but should not be used in milder cases. These steroids are given systemically, meaning through the veins or in an oral pill form, but not through a nebulizer. Nebulizer-inhaled steroids have not be recommended or approved for use in COVID-19 cases by the WHO or U.S. FDA.\n\nThere have been rumors circulating about using \"nebulizers\" to inhale steroids, such as the anti-inflammatory drug budesonide (brand name Pulmicort), to potentially treat COVID-19. \n\nInhaled steroids like budesonide can have side effects, and are also crucial for patients with health conditions who do not have COVID-19, so these should only be used when recommended by your doctor. Budesonide can be inhaled or taken orally, and when inhaled is part of a family of anti-inflammatory medications called inhaled steroids that are primarily used to help manage symptoms for conditions like asthma and chronic obstructive pulmonary disease (COPD). Budesonide is a prescription-only drug that is not approved by the U.S. Food and Drug Administration (FDA) for treatment of COVID-19.\n\n\"Nebulizers\" are a type of inhaler that change liquid medications, like budesonide, into a mist that can be more easily inhaled into the lungs. Nebulizers can be more expensive than the most common type of inhaler used by people with asthma, and patients usually use nebulizers for specific reasons, such as if a child or someone with severe asthma is having difficulties inhaling medicine."
     ],
     "EN Background & context": [
-      "In the U.S., a Texas doctor has been recently promoting the use of inhaled steroids such as budesonide to treat COVID-19, which has gained attention on social media. However, there have been no studies to show that inhaled steroids are beneficial in treating COVID-19. The doctor making these claims has also suggested that inhaled steroids are why countries like Taiwan have fewer COVID-19 deaths, but the World Health Organization (WHO) said in a statement provided to FactCheck.org that “there is no evidence suggesting that inhaled corticosteroid have reduced case fatality rate in Taiwan, Japan, Singapore, and Iceland.”\n\nRegarding steroids in general, recent studies have shown that the steroid dexamethasone may be effective in treating severe cases of COVID-19 when given orally or through an IV (intravenous). However, this same impact has not been demonstrated in patients with mild or moderate cases or when dexamethasone is administered through a nebulizer. It should be noted that giving steroids to patients who are not severely ill with COVID-19 might cause more harm than benefit as steroids are known to suppress the immune system rather than help it fight infections more strongly. Doctors have warned against off-label use and hoarding of drugs.\n\nThis entry was updated with new information on August 10, 2020."
+      "In the U.S., a Texas doctor has been recently promoting the use of inhaled steroids such as budesonide to treat COVID-19, which has gained attention on social media. However, there have been no studies to show that inhaled steroids are beneficial in treating COVID-19. The doctor making these claims has also suggested that inhaled steroids are why countries like Taiwan have fewer COVID-19 deaths, but the World Health Organization (WHO) said in a statement provided to FactCheck.org that “there is no evidence suggesting that inhaled corticosteroid have reduced case fatality rate in Taiwan, Japan, Singapore, and Iceland.”\n\nRegarding steroids in general, recent studies have shown that the steroid dexamethasone may be effective in treating severe cases of COVID-19 when given orally or through an IV (intravenous). However, this same impact has not been demonstrated in patients with mild or moderate cases or when dexamethasone is administered through a nebulizer. It should be noted that giving steroids to patients who are not severely ill with COVID-19 might cause more harm than benefit as steroids are known to suppress the immune system rather than help it fight infections more strongly. Doctors have warned against off-label use and hoarding of drugs."
     ],
     "EN Glossary": [
       "recXoBYjLFsoNt5pc",
@@ -4024,8 +4025,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No\t"
-    ],
-    "Last modified manual": "2020-08-10"
+    ]
   },
   {
     "id": "recZtbTsR4v0zcLyf",
@@ -4055,6 +4055,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "August Invoice",
     "Last modified manual (translation)": "2020-08-20",
+    "Last modified manual": "2020-08-13",
     "Background last edited (Translation)": "2020-08-20T05:42:17.000Z",
     "Experts say last edited (translation)": "2020-08-20T05:13:59.000Z",
     "Last modified": "2020-08-20",
@@ -4085,8 +4086,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-08-13"
+    ]
   },
   {
     "id": "recRcgVlVdN7XkmOg",
@@ -4115,6 +4115,7 @@
     "Variation of the answer depending on country of residence": "नहीं\n\n",
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n\n",
     "Last modified manual (translation)": "2020-07-04",
+    "Last modified manual": "2020-06-14",
     "Background last edited (Translation)": "2020-07-04T00:10:16.000Z",
     "Experts say last edited (translation)": "2020-07-04T00:09:54.000Z",
     "Last modified": "2020-07-04",
@@ -4150,8 +4151,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-06-14"
+    ]
   },
   {
     "id": "recOsZvkjBzqEIPAv",
@@ -4177,6 +4177,7 @@
     "Variation of the answer depending on country of residence": "नहीं\n",
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "September Invoice",
+    "Last modified manual": "2020-08-20",
     "Background last edited (Translation)": "2020-09-14T05:09:44.000Z",
     "Experts say last edited (translation)": "2020-09-14T04:20:26.000Z",
     "Last modified": "2020-09-14",
@@ -4209,8 +4210,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No\n"
-    ],
-    "Last modified manual": "2020-08-20"
+    ]
   },
   {
     "id": "recb3wjZHCWdywjSL",
@@ -4237,6 +4237,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "August Invoice",
     "Last modified manual (translation)": "2020-08-15",
+    "Last modified manual": "2020-07-23",
     "Background last edited (Translation)": "2020-08-15T21:04:09.000Z",
     "Experts say last edited (translation)": "2020-08-15T20:50:04.000Z",
     "Last modified": "2020-08-15",
@@ -4271,8 +4272,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-07-23"
+    ]
   },
   {
     "id": "recKxmodohxWvsOKO",
@@ -4296,6 +4296,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "हाँ; उम्र (इस धारणा के साथ कि यह गैर-बाल दर्शकों के लिए है)\n",
     "Internal Invoicing Notes for LocLab": "August Invoice",
     "Last modified manual (translation)": "2020-08-15",
+    "Last modified manual": "2020-07-08",
     "Background last edited (Translation)": "2020-08-15T04:53:48.000Z",
     "Experts say last edited (translation)": "2020-08-15T04:51:37.000Z",
     "Last modified": "2020-08-15",
@@ -4327,8 +4328,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "Yes; age (with the assumption that this is for non-child audiences)"
-    ],
-    "Last modified manual": "2020-07-08"
+    ]
   },
   {
     "id": "recTMwxdfhiFP6PdB",
@@ -4363,6 +4363,7 @@
     "Variation of the answer depending on country of residence": "हां - कुछ देशों ने अपने उपचार प्रोटोकॉल में क्लोरोक्वीन और हाइड्रोक्सीक्लोरोक्वीन को इस तथ्य के बावजूद शामिल किया है कि विश्व स्वास्थ्य संगठन ने इसे एक उपचार के रूप में मान्यता नहीं दी है क्योंकि वे आगे के नैदानिक ​​परीक्षण परिणामों का इंतजार कर रहे हैं।\n",
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Last modified manual (translation)": "2020-06-30",
+    "Last modified manual": "2020-07-31",
     "Background last edited (Translation)": "2020-06-30T00:18:25.000Z",
     "Experts say last edited (translation)": "2020-06-30T00:07:54.000Z",
     "Last modified": "2020-06-30",
@@ -4401,8 +4402,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-07-31"
+    ]
   },
   {
     "id": "rec15gZ2TyiR3EZLv",
@@ -4432,6 +4432,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "July Invoice",
     "Last modified manual (translation)": "2020-08-05",
+    "Last modified manual": "2020-08-20",
     "Background last edited (Translation)": "2020-08-05T20:00:18.000Z",
     "Experts say last edited (translation)": "2020-08-05T19:57:30.000Z",
     "Last modified": "2020-08-05",
@@ -4459,8 +4460,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-08-20"
+    ]
   },
   {
     "id": "rec2HVRTs8k9PuWZw",
@@ -4492,6 +4492,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "August Invoice",
     "Last modified manual (translation)": "2020-08-15",
+    "Last modified manual": "2020-07-08",
     "Background last edited (Translation)": "2020-08-15T19:59:56.000Z",
     "Experts say last edited (translation)": "2020-08-15T19:27:05.000Z",
     "Last modified": "2020-08-15",
@@ -4524,8 +4525,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-07-08"
+    ]
   },
   {
     "id": "recoJqIP70s9YSG3W",
@@ -4559,6 +4559,7 @@
     "Variation of the answer depending on country of residence": "नहीं\n\n",
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Last modified manual (translation)": "2020-06-30",
+    "Last modified manual": "2020-08-04",
     "Background last edited (Translation)": "2020-06-30T21:38:15.000Z",
     "Experts say last edited (translation)": "2020-06-30T21:37:57.000Z",
     "Last modified": "2020-06-30",
@@ -4596,8 +4597,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-08-04"
+    ]
   },
   {
     "id": "recq6Hvn8x5elieUc",
@@ -4631,6 +4631,7 @@
     "Variation of the answer depending on country of residence": "नहीं\n\n",
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Last modified manual (translation)": "2020-07-03",
+    "Last modified manual": "2020-05-27",
     "Background last edited (Translation)": "2020-07-03T14:24:25.000Z",
     "Experts say last edited (translation)": "2020-07-03T14:24:16.000Z",
     "Last modified": "2020-07-03",
@@ -4668,8 +4669,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-05-27"
+    ]
   },
   {
     "id": "recXOk6xPo9jDGiho",
@@ -4685,6 +4685,7 @@
       "rec5mweIOKMurWcRK"
     ],
     "Last modified manual (translation)": "2020-07-13",
+    "Last modified manual": "2020-07-03",
     "Background last edited (Translation)": "2020-07-13T15:26:57.000Z",
     "Experts say last edited (translation)": "2020-07-13T15:13:14.000Z",
     "Last modified": "2020-07-13",
@@ -4712,8 +4713,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-07-03"
+    ]
   },
   {
     "id": "recvtv5hqPycd51X9",
@@ -4756,14 +4756,15 @@
     "Variation of the answer depending on country of residence": "नहीं\n",
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "September Invoice",
+    "Last modified manual": "2020-09-02",
     "Background last edited (Translation)": "2020-09-17T20:18:06.000Z",
     "Experts say last edited (translation)": "2020-09-15T04:00:52.000Z",
     "Last modified": "2020-09-17",
     "EN What our experts say": [
-      "As COVID-19 is a new illness, we don't know all of its short and long-term impacts yet. Most people infected with COVID-19 have mild or no symptoms. Some of the short-term impacts for people with mild symptoms include shortness of breath in the lungs and airways, fever, cough, and body aches. For more severe cases, some short-term impacts can affect several organs. These include pulmonary embolisms (lungs), strokes (brain), and kidney damage due to a lack of oxygen or blood clots. The American Society of Nephrology reported that approximately 50% of patients with severe cases of COVID-19 in intensive care experience kidney failure. One study from Germany published in July 2020 found that 78 out of 100 patients recovering from a COVID-19 infection had heart-related issues that could have serious consequences, such as inflammation and scarring, but the long-term consequences of these findings are still under research. The more severe the case and symptoms of COVID-19 in a person, the more likely major organs are negatively impacted.\n\nThe longer-term effects of COVID-19 are being studied now. Exhaustion, anxiety, dizziness, headaches, muscle aches, loss of taste and smell, and difficulty breathing are often reported in patients who experience symptoms for weeks following their infection with COVID-19. For some people infected with the virus, their symptoms have lasted longer than 100 days.\n\nRecent studies document several long-term impacts of COVID-19 on various organs in the body, including lung scarring, limited lung capacity, neurocognitive impacts, heart damage, renal failure, and more. Vanderbilt University Medical Center launched a study in July 2020 that will study delirium, post-traumatic stress disorder (PTSD), and depression in patients who have been hospitalized with COVID-19. These disabling impacts are also known as post-intensive care syndrome (PICS), and previous studies of intensive care patients similar to COVID-19 patients suggest that 33-50% experience dementia, 10-20% experience PTSD, and 33% experience major depression. Researchers are also studying whether COVID-19 patients with brain inflammation are at higher risk of autoimmune disorders like demyelination, where the protective coating of nerve cells is attacked by the immune system and may lead to weakness, numbness and difficulty with daily activities.\n\nSince this is a new illness, the real long-term impacts remain unknown. \n\nThis entry was updated with new information on August 20, 2020."
+      "As COVID-19 is a new illness, we don't know all of its short and long-term impacts yet. Most people infected with COVID-19 have mild or no symptoms. Some of the short-term impacts for people with mild symptoms include shortness of breath in the lungs and airways, fever, cough, and body aches. For more severe cases, some short-term impacts can affect several organs. These include pulmonary embolisms (lungs), strokes (brain), and kidney damage due to a lack of oxygen or blood clots. The American Society of Nephrology reported that approximately 50% of patients with severe cases of COVID-19 in intensive care experience kidney failure. One study from Germany published in July 2020 found that 78 out of 100 patients recovering from a COVID-19 infection had heart-related issues that could have serious consequences, such as inflammation and scarring, but the long-term consequences of these findings are still under research. The more severe the case and symptoms of COVID-19 in a person, the more likely major organs are negatively impacted.\n\nThe longer-term effects of COVID-19 are being studied now. Exhaustion, anxiety, dizziness, headaches, muscle aches, loss of taste and smell, and difficulty breathing are often reported in patients who experience symptoms for weeks following their infection with COVID-19. For some people infected with the virus, their symptoms have lasted longer than 100 days.\n\nRecent studies document several long-term impacts of COVID-19 on various organs in the body, including lung scarring, limited lung capacity, neurocognitive impacts, heart damage, renal failure, and more. Vanderbilt University Medical Center launched a study in July 2020 that will study delirium, post-traumatic stress disorder (PTSD), and depression in patients who have been hospitalized with COVID-19. These disabling impacts are also known as post-intensive care syndrome (PICS), and previous studies of intensive care patients similar to COVID-19 patients suggest that 33-50% experience dementia, 10-20% experience PTSD, and 33% experience major depression. Researchers are also studying whether COVID-19 patients with brain inflammation are at higher risk of autoimmune disorders like demyelination, where the protective coating of nerve cells is attacked by the immune system and may lead to weakness, numbness and difficulty with daily activities.\n\nSince this is a new illness, the real long-term impacts remain unknown. "
     ],
     "EN Background & context": [
-      "Health professionals, scientists, and journalists have reported major differences in COVID-19 symptoms from patient to patient. This includes differences in the severity of symptoms, in the duration of symptoms, and in the organs affected. For example, some patients report lingering impacts of COVID-19 lasting months, and the long-term effects of the disease are not fully known yet.\n\nRecently, more news is circulating on the potential long-term impacts of COVID-19 in other parts of the body, beyond the lungs. For example, the media has been reporting of COVID-19 impacts on the heart, following a July 2020 research publication from Germany on heart-related issues in patients recovering from COVID-19. In an update as of mid September, US CDC reported that heart conditions like myocarditis (inflammation of the heart muscle) and pericarditis (inflammation of the covering of the heart), are associated with COVID-19. Such heart damages might also explain long-term symptoms like shortness of breath, chest pain, and heart palpitations. Although rare, severe heart damage has also been seen in young, healthy people. The long-term effects of the more common mild heart conditions are still unknown.\n\nAdditionally, COVID-19 damage to the brain was reported in the media, following the publication of two studies on British and French patients who experienced symptoms ranging from brain inflammation and delirium to nerve damage and stroke. Before the COVID-19 pandemic, researchers have already been concerned about the risks of PTSD and delirium in patients who require intensive care. According to a review of previous delirium research published in Intensive Care Medicine, delirium has impacted 20-40% of critically ill patients overall and as many as 80% of those who required a mechanical ventilator.\n\nAlso during July 2020, the impacts of COVID-19 on the kidneys made the news, following updated recommendations from the American Society of Nephrology. On this topic, Mount Sinai Health System Associate Professor of Nephrology and RenalytixAI Co-Founder, Dr. Steven Coca warns about the rise in “chronic kidney disease in the U.S. among those who recovered from the coronavirus...Since the start of the coronavirus pandemic we have seen the highest rate of kidney failure in our lifetimes. It’s a long-term health burden for patients, the medical community — and the U.S. economy.” New research and media reports are continuing to be released.\n\nThis entry was updated with new information on August 20, 2020."
+      "Health professionals, scientists, and journalists have reported major differences in COVID-19 symptoms from patient to patient. This includes differences in the severity of symptoms, in the duration of symptoms, and in the organs affected. For example, some patients report lingering impacts of COVID-19 lasting months, and the long-term effects of the disease are not fully known yet.\n\nRecently, more news is circulating on the potential long-term impacts of COVID-19 in other parts of the body, beyond the lungs. For example, the media has been reporting of COVID-19 impacts on the heart, following a July 2020 research publication from Germany on heart-related issues in patients recovering from COVID-19. In an update as of mid September, US CDC reported that heart conditions like myocarditis (inflammation of the heart muscle) and pericarditis (inflammation of the covering of the heart), are associated with COVID-19. Such heart damages might also explain long-term symptoms like shortness of breath, chest pain, and heart palpitations. Although rare, severe heart damage has also been seen in young, healthy people. The long-term effects of the more common mild heart conditions are still unknown.\n\nAdditionally, COVID-19 damage to the brain was reported in the media, following the publication of two studies on British and French patients who experienced symptoms ranging from brain inflammation and delirium to nerve damage and stroke. Before the COVID-19 pandemic, researchers have already been concerned about the risks of PTSD and delirium in patients who require intensive care. According to a review of previous delirium research published in Intensive Care Medicine, delirium has impacted 20-40% of critically ill patients overall and as many as 80% of those who required a mechanical ventilator.\n\nAlso during July 2020, the impacts of COVID-19 on the kidneys made the news, following updated recommendations from the American Society of Nephrology. On this topic, Mount Sinai Health System Associate Professor of Nephrology and RenalytixAI Co-Founder, Dr. Steven Coca warns about the rise in “chronic kidney disease in the U.S. among those who recovered from the coronavirus...Since the start of the coronavirus pandemic we have seen the highest rate of kidney failure in our lifetimes. It’s a long-term health burden for patients, the medical community — and the U.S. economy.” New research and media reports are continuing to be released."
     ],
     "EN Glossary": [
       "reccJtjL0z55J1CPG",
@@ -4803,8 +4804,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-09-02"
+    ]
   },
   {
     "id": "recEPuhGiPWeqi2lR",
@@ -4835,6 +4835,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "August Invoice",
     "Last modified manual (translation)": "2020-08-14",
+    "Last modified manual": "2020-07-10",
     "Background last edited (Translation)": "2020-08-14T22:59:57.000Z",
     "Experts say last edited (translation)": "2020-08-14T22:52:14.000Z",
     "Last modified": "2020-08-14",
@@ -4871,8 +4872,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-07-10"
+    ]
   },
   {
     "id": "recx72V3iggGydtQr",
@@ -4906,6 +4906,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "July Invoice",
     "Last modified manual (translation)": "2020-08-06",
+    "Last modified manual": "2020-06-19",
     "Background last edited (Translation)": "2020-08-05T22:56:45.000Z",
     "Experts say last edited (translation)": "2020-08-05T23:10:56.000Z",
     "Last modified": "2020-08-05",
@@ -4941,8 +4942,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-06-19"
+    ]
   },
   {
     "id": "recJOSUmpkmkuuqTB",
@@ -4975,6 +4975,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "July Invoice",
     "Last modified manual (translation)": "2020-08-06",
+    "Last modified manual": "2020-06-26",
     "Background last edited (Translation)": "2020-08-06T22:42:12.000Z",
     "Experts say last edited (translation)": "2020-08-06T22:31:22.000Z",
     "Last modified": "2020-08-06",
@@ -5010,8 +5011,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-06-26"
+    ]
   },
   {
     "id": "rec8K7WMOUHrc6dvt",
@@ -5039,6 +5039,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "July Invoice",
     "Last modified manual (translation)": "2020-07-31",
+    "Last modified manual": "2020-07-10",
     "Background last edited (Translation)": "2020-07-31T18:19:56.000Z",
     "Experts say last edited (translation)": "2020-07-31T18:19:45.000Z",
     "Last modified": "2020-07-31",
@@ -5067,8 +5068,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-07-10"
+    ]
   },
   {
     "id": "reco8NbOMlseUkSrH",
@@ -5102,6 +5102,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "August Invoice",
     "Last modified manual (translation)": "2020-08-20",
+    "Last modified manual": "2020-07-31",
     "Background last edited (Translation)": "2020-08-20T04:08:50.000Z",
     "Experts say last edited (translation)": "2020-08-20T00:01:46.000Z",
     "Last modified": "2020-08-20",
@@ -5138,8 +5139,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-07-31"
+    ]
   },
   {
     "id": "recB4DIF0RZD1Zrsb",
@@ -5169,6 +5169,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "July Invoice",
     "Last modified manual (translation)": "2020-07-31",
+    "Last modified manual": "2020-07-03",
     "Background last edited (Translation)": "2020-07-30T23:08:15.000Z",
     "Experts say last edited (translation)": "2020-07-31T18:24:28.000Z",
     "Last modified": "2020-07-31",
@@ -5196,8 +5197,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-07-03"
+    ]
   },
   {
     "id": "recRqKZW3vHx1CRAV",
@@ -5228,6 +5228,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "July Invoice",
     "Last modified manual (translation)": "2020-07-31",
+    "Last modified manual": "2020-07-30",
     "Background last edited (Translation)": "2020-07-31T18:32:17.000Z",
     "Experts say last edited (translation)": "2020-07-31T18:31:38.000Z",
     "Last modified": "2020-07-31",
@@ -5261,8 +5262,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No\t"
-    ],
-    "Last modified manual": "2020-07-30"
+    ]
   },
   {
     "id": "recwnWJGFipJOsK7H",
@@ -5293,6 +5293,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "July Invoice",
     "Last modified manual (translation)": "2020-07-31",
+    "Last modified manual": "2020-08-11",
     "Background last edited (Translation)": "2020-07-30T22:06:17.000Z",
     "Experts say last edited (translation)": "2020-07-31T18:27:53.000Z",
     "Last modified": "2020-07-31",
@@ -5323,8 +5324,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-08-11"
+    ]
   },
   {
     "id": "recwQdw7VE7o4RznT",
@@ -5338,6 +5338,7 @@
     ],
     "Internal Invoicing Notes for LocLab": "August Invoice",
     "Last modified manual (translation)": "2020-08-20",
+    "Last modified manual": "2020-07-23",
     "Background last edited (Translation)": "2020-08-20T04:11:12.000Z",
     "Experts say last edited (translation)": "2020-08-20T00:11:07.000Z",
     "Last modified": "2020-08-20",
@@ -5346,8 +5347,7 @@
     ],
     "EN Background & context": [
       "Media reports suggest that Iceland successfully “beat” coronavirus or “eliminated” the case curve that many countries have been taking measures to flatten. Unlike many countries, early planning and preparedness was instituted to ensure that the country was able to track and trace anyone possibly exposed to an infected person. Iceland began preparing for COVID-19 before any cases had been reported in the country. By employing law enforcement officers, nurses, and a criminologist, the team was able to use their skills as detectives to track both people and the virus once the first case was identified. As cases increased, the tracing team also increased and included epidemiologists, physicians, and other health professionals; and the country expanded testing to the highest per-capita rate in the world. Though Iceland did not ever institute a lockdown, individuals who were exposed and infected had to quarantined and some types of business were closed (i.e. night clubs, hair salons)."
-    ],
-    "Last modified manual": "2020-07-23"
+    ]
   },
   {
     "id": "recKPeD5FnTdztpcM",
@@ -5379,6 +5379,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "July Invoice",
     "Last modified manual (translation)": "2020-07-31",
+    "Last modified manual": "2020-06-22",
     "Background last edited (Translation)": "2020-07-31T18:37:02.000Z",
     "Experts say last edited (translation)": "2020-07-29T13:55:58.000Z",
     "Last modified": "2020-07-31",
@@ -5412,8 +5413,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No\t"
-    ],
-    "Last modified manual": "2020-06-22"
+    ]
   },
   {
     "id": "recBXMWayPZmGZ7Aq",
@@ -5437,6 +5437,7 @@
     "Variation of the answer depending on country of residence": "नहीं\n",
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "September Invoice",
+    "Last modified manual": "2020-07-27",
     "Background last edited (Translation)": "2020-09-14T04:24:01.000Z",
     "Experts say last edited (translation)": "2020-09-12T22:50:47.000Z",
     "Last modified": "2020-09-14",
@@ -5460,8 +5461,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-07-27"
+    ]
   },
   {
     "id": "reci5ZkVYfbId4yH0",
@@ -5493,6 +5493,7 @@
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "नहीं\n",
     "Internal Invoicing Notes for LocLab": "July Invoice",
     "Last modified manual (translation)": "2020-07-31",
+    "Last modified manual": "2020-06-19",
     "Background last edited (Translation)": "2020-07-31T18:39:24.000Z",
     "Experts say last edited (translation)": "2020-07-28T16:14:26.000Z",
     "Last modified": "2020-07-31",
@@ -5524,8 +5525,7 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-06-19"
+    ]
   },
   {
     "id": "recCq6AMpxSN3gjOF",
@@ -5557,6 +5557,7 @@
       "recOiBtU1KHxAQAgq"
     ],
     "Last modified manual (translation)": "2020-06-30",
+    "Last modified manual": "2020-05-27",
     "Background last edited (Translation)": "2020-06-30T02:21:27.000Z",
     "Experts say last edited (translation)": "2020-06-30T02:21:17.000Z",
     "Last modified": "2020-06-30",
@@ -5593,7 +5594,6 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
-    ],
-    "Last modified manual": "2020-05-27"
+    ]
   }
 ]

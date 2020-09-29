@@ -60,7 +60,7 @@ module Jekyll
 
         filename = sanitize_filename(raw_filename).to_s
         
-        # set page language based on config dir path
+        # set entry variables based on config dir path per language
         if template == "entry"
           if dir == '/te/questions'
             data['lang'] = 'te';
@@ -68,24 +68,37 @@ module Jekyll
               data['lang'] = 'fr';
           elsif dir == '/hi/questions'
               data['lang'] = 'hi';
+          elsif dir == '/es/questions'
+              data['lang'] = 'es';
           else 
             data['lang'] = 'en-US';
           end 
         end
 
+        # set page variables based on config dir path per language
         if template == "page"
           if dir == '/te'
             data['lang'] = 'te';
+            data['title'] = data['title-te']
+            data['description'] = data['description-te']
           elsif dir == '/fr'
             data['lang'] = 'fr';
+            data['title'] = data['title-fr']
+            data['description'] = data['description-fr']
           elsif dir == '/hi'
             data['lang'] = 'hi';
+            data['title'] = data['title-hi']
+            data['description'] = data['description-hi']
+          elsif dir == '/es'
+            data['lang'] = 'es';
+            data['title'] = data['title-es']
+            data['description'] = data['description-es']
           else 
             data['lang'] = 'en-US';
           end 
         end
 
-        
+        # set glossary variables based on config dir path per language
         if dir == '/glossary'
           data['lang'] = 'en-US';
         elsif dir == '/te/glossary'
@@ -94,6 +107,8 @@ module Jekyll
             data['lang'] = 'fr';
         elsif dir == '/hi/glossary'
             data['lang'] = 'hi';
+        elsif dir == '/es/glossary'
+            data['lang'] = 'es';
         end 
 
         @dir = dir + (index_files ? "/" + filename + "/" : "")
@@ -104,32 +119,12 @@ module Jekyll
         self.data['title'] = raw_filename
 
         # seo fixes
-        if template == "page-fr"
-          data['title'] = data['title-fr']
-          data['description'] = data['description-fr']
-        end
-
-        if template == "page-hi"
-          data['title'] = data['title-hi']
-          data['description'] = data['description-hi']
-        end
-
         if template == "entry"
           data['title'] = data['Question']
           data['description'] = data['What our experts say'].to_s.split[0...30].join(' ')
           if data['Media']
             data['image'] = data['Media'][0]['thumbnails']['large']['url']
           end
-        end
-
-        if template == "entry-fr"
-          data['title'] = data['Question']
-          data['description'] = data['What our experts say'].to_s.split[0...30].join(' ')
-        end
-
-        if template == "entry-hi"
-          data['title'] = data['Question']
-          data['description'] = data['What our experts say'].to_s.split[0...30].join(' ')
         end
 
         if dir == "/glossary"

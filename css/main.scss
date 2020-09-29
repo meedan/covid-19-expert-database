@@ -131,6 +131,12 @@ html:lang(hi) body {
     font-weight: 500;
 }
 
+// Telugu Font
+html:lang(te) body {
+    font-family: var(--font-family-telugu);
+    font-weight: 500;
+}
+
 header {
     @include responsive('min-width: #{$width-tablet}') {
         display: grid;
