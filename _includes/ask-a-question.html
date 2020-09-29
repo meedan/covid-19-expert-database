@@ -1,6 +1,6 @@
 <div class="header-button-wrapper">
     <a class="header-button" href="{{ path }}ask-a-question">
-        <span>{{ site.data.ui.t[page.lang].ask-a-question }} →</span>
+        <span>{{ site.data.ui.t[page.lang].ask-a-question }} {% if page.lang == 'ar' %}←{% else %}→{% endif %}</span>
         <span>{{ site.data.ui.t[page.lang].ask-a-question-subhead }}</span>
     </a>
 </div>

@@ -119,6 +119,13 @@
     }
 }
 
+.ar.entry .help {
+    border-left: 0;
+    border-right: 4px solid var(--edbOrange);
+    padding-left: 0;
+    padding-right: var(--space-2);
+}
+
 .entry .content-wrapper {
     position: relative;
 }

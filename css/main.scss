@@ -183,7 +183,7 @@ header .header-wrapper {
 
 header h1 {
     margin: 0;
-    padding: 0 var(--space-2) 0 0;
+    padding: 0;
     font-size: var(--scale-1);
     font-weight: var(--font-weight);
     em {
@@ -445,6 +445,10 @@ body.hi header nav {
     font-weight: var(--font-weight);
     color: var(--edbGreen);
     margin: 1.188rem auto 0 0;
+}
+
+.ar .content-wrapper h3 {
+    margin: 1.188rem 0 0 auto;
 }
 
 .content-wrapper h4 {

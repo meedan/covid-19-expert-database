@@ -2,7 +2,7 @@
 <html lang="{{ page.lang }}">
 {% include head.html %}
 
-<body {% if page.slug == '/' %}class="front"{% endif %}>
+<body class="{% if page.slug == '/' %}front {% endif %}{{ page.lang }}">
   {% include header.html %}
   <div class="content-wrapper">
     {% if page.description %}
@@ -17,7 +17,9 @@
     {% endif %}
     {% if page.slug == '/' %}
       {% include module_search.html %}
-      {% include ask-a-question-promo.html %}
+      {% if page.lang == 'en-US' %}
+        {% include ask-a-question-promo.html %}
+      {% endif %}
     {% endif %}
     {% if page.body['en-US'] %}
       <div class="content">

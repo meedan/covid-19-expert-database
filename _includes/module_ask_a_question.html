@@ -3,7 +3,7 @@
     <span>
         <a class="button" href="{{ path }}ask-a-question">
             {{ site.data.ui.t[page.lang].ask-a-question }} 
-            {% if page.url contains '/ask-a-question' %} ↓ {% else %} → {% endif %}
+            {% if page.lang == 'ar' %} ← {% else %} → {% endif %}
         </a>
     </span>
 </div>
