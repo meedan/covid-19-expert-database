@@ -1017,6 +1017,20 @@
     ]
   },
   {
+    "id": "reci2396lusR6bWS9",
+    "Term": "లక్షణాలు",
+    "EN Term": [
+      "recOcmLKbzV6NUkAH"
+    ],
+    "Questions using this term": [
+      "recU5ImzlcIGvrQol"
+    ],
+    "Internal Invoicing Notes for Localization Lab": "July Invoice",
+    "Wordcount total": [
+      1
+    ]
+  },
+  {
     "id": "recHBFQX343xgPuNP",
     "Term": "భాష్ప వాయువు",
     "Definition": "టియర్ గ్యాస్ అనేది రసాయన చికాకుల సమూహం, ఇది తరచూ జనాలను చెదరగొట్టడానికి ఉపయోగిస్తారు. కన్నీటి వాయువులోని రసాయనాలు శ్లేష్మ పొరలను మరియు కళ్ళను చికాకుపెడతాయి, ఇవి తరచూ చిరిగిపోవడం, మెలితిప్పడం, దగ్గు, శ్వాస తీసుకోవడంలో ఇబ్బంది లేదా చర్మపు చికాకును కలిగిస్తాయి.\n",
@@ -1074,6 +1088,20 @@
     ]
   },
   {
+    "id": "recDLKCqlwIQKleEG",
+    "Term": "జీవక్రియ",
+    "EN Term": [
+      "recBBELvoZKXpdyST"
+    ],
+    "Questions using this term": [
+      "recxHype7A5IeDWpA"
+    ],
+    "Internal Invoicing Notes for Localization Lab": "August Invoice",
+    "Wordcount total": [
+      1
+    ]
+  },
+  {
     "id": "recoLcsMYpcohAEmN",
     "Term": "బహిరంగపరచడం",
     "Definition": "పబ్లిక్ హెల్త్ పరిభాషలో ఎక్స్పోజర్ ఒక విదేశీ పదార్ధంతో సంబంధం ఉన్న ప్రదేశంలో ఉండటం వివరిస్తుంది. ఉదాహరణకు, ఇంటి లోపల, ప్రజలు గణనీయమైన సూర్యరశ్మికి తక్కువ అవకాశం కలిగి ఉంటారు, కానీ వారు ఎండ రోజున ఆరుబయట ఉంటే, ప్రజలు సూర్యరశ్మితో సంబంధం కలిగి ఉంటారు మరియు తద్వారా సూర్యుడికి గురవుతారు. ఒక వైరస్‌తో, ఎవరైనా దగ్గు మరియు తుమ్ముతో దగ్గరి సంబంధం కలిగి ఉంటే, ఉదాహరణకు, వారు వైరస్‌కు గురయ్యే అవకాశం ఉంది. బహిర్గతం అయినప్పటికీ, ఎవరైనా వైరస్ నుండి అనారోగ్యానికి గురి కావచ్చు లేదా ఉండకపోవచ్చు. \n",
@@ -1090,6 +1118,48 @@
     ],
     "Wordcount total": [
       98
+    ]
+  },
+  {
+    "id": "recm22xoBblRyaeBl",
+    "Term": "జంతువునుండి మనిషికి వ్యాపించు వ్యాధి",
+    "EN Term": [
+      "rece5ZCMacYxbgECP"
+    ],
+    "Questions using this term": [
+      "recPYRE1Jr3zrqfO1"
+    ],
+    "Internal Invoicing Notes for Localization Lab": "August Invoice",
+    "Wordcount total": [
+      1
+    ]
+  },
+  {
+    "id": "rechcAt3kDSO9hJ3h",
+    "Term": "నియంత్రణ ఆమోదం",
+    "EN Term": [
+      "recJz8lojK2ZaDFhp"
+    ],
+    "Questions using this term": [
+      "rec0dBJdC6SXBHR5M"
+    ],
+    "Internal Invoicing Notes for Localization Lab": "August Invoice",
+    "Wordcount total": [
+      2
+    ]
+  },
+  {
+    "id": "recM9PYCrrqdU0n2j",
+    "Term": "ఔషధ అభివృద్ధి",
+    "EN Term": [
+      "recKrKCs2Ax1jbpw6"
+    ],
+    "Questions using this term": [
+      "rec0dBJdC6SXBHR5M"
+    ],
+    "Internal Invoicing Notes for Localization Lab": "August Invoice",
+    "Wordcount total": [
+      2
     ]
   },
   {
@@ -1112,6 +1182,20 @@
     ]
   },
   {
+    "id": "recgEPbn8FMkOqxjH",
+    "Term": "రోగనిరోధక ప్రతిస్పందన",
+    "EN Term": [
+      "recyXylBebc7GlxTi"
+    ],
+    "Questions using this term": [
+      "recqLym7SRaOuLvKq"
+    ],
+    "Internal Invoicing Notes for Localization Lab": "August Invoice",
+    "Wordcount total": [
+      2
+    ]
+  },
+  {
     "id": "rec9lqfaZkRuN3S6Y",
     "Term": "టీకా",
     "Definition": "వ్యాక్సిన్ అనేది వైరస్లు లేదా బ్యాక్టీరియాను గుర్తించడానికి మరియు పోరాడటానికి శరీరానికి సహాయపడే ఒక ఉత్పత్తి. ఇది చంపబడిన, చికిత్స చేయబడిన లేదా ప్రత్యక్ష సూక్ష్మజీవులతో తయారవుతుంది. ప్రపంచ ఆరోగ్య సంస్థ ప్రకారం, \"వ్యాక్సిన్ వ్యాధులను నివారించడానికి అత్యంత ప్రభావవంతమైన మార్గాలలో ఒకటి\", మరియు ప్రస్తుతం, టీకాలు 25 వేర్వేరు వ్యాధుల నుండి రక్షించడానికి సహాయపడతాయి, అయితే ఈ సమయంలో కోవిడ్-19 కి వ్యాక్సిన్ లేదు.\n",
@@ -1128,6 +1212,34 @@
     ],
     "Wordcount total": [
       64
+    ]
+  },
+  {
+    "id": "rec5QqyXJm9MglEbV",
+    "Term": "యాంటివైరల్",
+    "EN Term": [
+      "recMUR0P3EECMwfrv"
+    ],
+    "Questions using this term": [
+      "recRdKjLVfs5A9TYt"
+    ],
+    "Internal Invoicing Notes for Localization Lab": "August Invoice",
+    "Wordcount total": [
+      1
+    ]
+  },
+  {
+    "id": "rec0xpdZZzo6B08yq",
+    "Term": "రక్తం గడ్డకట్టడం",
+    "EN Term": [
+      "reciKuzcOIBjSFsU4"
+    ],
+    "Questions using this term": [
+      "rec05AIwJD6qaRRkK"
+    ],
+    "Internal Invoicing Notes for Localization Lab": "August Invoice",
+    "Wordcount total": [
+      2
     ]
   },
   {
@@ -1447,6 +1559,20 @@
     ]
   },
   {
+    "id": "rec0Emskz8qkb3Ur4",
+    "Term": "జనరిక్",
+    "EN Term": [
+      "rec9hdVoRIEkjJwtk"
+    ],
+    "Questions using this term": [
+      "recjnEiUTjZ4zVqX9"
+    ],
+    "Internal Invoicing Notes for Localization Lab": "August Invoice",
+    "Wordcount total": [
+      1
+    ]
+  },
+  {
     "id": "reclHhs9L8z7EXbtw",
     "Term": "బ్లైండింగ్",
     "Definition": "బ్లైండింగ్ అనేది పరిశోధనా పాల్గొనేవారు, సంరక్షణ ప్రదాతలు మరియు, కొన్నిసార్లు, పరిశోధకులు మరియు పరిశోధనా బృందంలోని సభ్యులు (అనగా డేటా విశ్లేషకులు, మదింపుదారులు, పర్యవేక్షకులు) నుండి అధ్యయన కాలంలో పరిశోధన ప్రోటోకాల్‌లో భాగంగా దాచబడినప్పుడు ఉపయోగించే పదం. యాదృచ్ఛిక నియంత్రిత ట్రయల్స్‌లో బ్లైండింగ్ సాధారణంగా ఉపయోగించబడుతుంది, తద్వారా రోగులు పరీక్ష చికిత్స, ప్లేసిబో లేదా ప్రామాణిక చికిత్స పొందుతున్నారో పాల్గొనేవారికి మరియు పరిశోధకులకు తెలియదు.\n\nబ్లైండింగ్ అనేది ఒక అధ్యయనం సమయంలో ఏమి జరుగుతుందో ప్రజలు ఎలా ప్రవర్తిస్తుందో, అనుభూతి చెందుతుందో లేదా గమనించాలో ప్రభావితం చేసే పక్షపాతాన్ని తగ్గించడం లేదా తొలగించడం. అధ్యయనం పూర్తయినప్పుడు, అధ్యయనంలో పాల్గొనే ప్రజలందరూ (పాల్గొనేవారు లేదా పరిశోధకులుగా) బంధించబడరు మరియు అధ్యయన వివరాలు అందుబాటులో ఉంటాయి.\n\nబ్లైండింగ్ కోసం ఉపయోగించే ఇతర పదాలు బ్లైండ్, బ్లైండ్డ్ లేదా మాస్క్. కంటికి కనిపించని క్లినికల్ రీసెర్చ్ ట్రయల్ ను \"ఓపెన్ ట్రయల్\" అంటారు.\n",
@@ -1482,6 +1608,34 @@
     ],
     "Wordcount total": [
       95
+    ]
+  },
+  {
+    "id": "recxoeMfzV9zVs87N",
+    "Term": "హార్మోన్లు",
+    "EN Term": [
+      "recT7R7Qqg8v9f9Ui"
+    ],
+    "Questions using this term": [
+      "recEToFhhqcTpcJ8n"
+    ],
+    "Internal Invoicing Notes for Localization Lab": "August Invoice",
+    "Wordcount total": [
+      1
+    ]
+  },
+  {
+    "id": "recx9tUvATa2DBHDa",
+    "Term": "శోథ నిరోధక",
+    "EN Term": [
+      "rec5nIBBaECmAvkrl"
+    ],
+    "Questions using this term": [
+      "recjhfQMJCKLh2nbR"
+    ],
+    "Internal Invoicing Notes for Localization Lab": "August Invoice",
+    "Wordcount total": [
+      1
     ]
   }
 ]

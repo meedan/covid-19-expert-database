@@ -10,7 +10,12 @@
 	{% endif %}
 {% endif %}
 <select id="language" class="select-css" onchange="javascript:location.href = this.value;">
-    <option value="{{ home }}{{ location }}" {% if page.lang == 'en-US' %}selected{% endif %}>{{ site.data.ui.t[page.lang].menu.english }}</option>
+	<option value="/ar{{ location }}" {% if page.lang == 'ar' %}selected{% endif %}>{{ site.data.ui.t[page.lang].menu.arabic }}</option>
+	<option value="/bn{{ location }}" {% if page.lang == 'bn' %}selected{% endif %}>{{ site.data.ui.t[page.lang].menu.bengali }}</option>
+	<option value="{{ home }}{{ location }}" {% if page.lang == 'en-US' %}selected{% endif %}>{{ site.data.ui.t[page.lang].menu.english }}</option>
+	<option value="/es{{ location }}" {% if page.lang == 'es' %}selected{% endif %}>{{ site.data.ui.t[page.lang].menu.spanish }}</option>
 	<option value="/fr{{ location }}" {% if page.lang == 'fr' %}selected{% endif %}>{{ site.data.ui.t[page.lang].menu.french }}</option>
 	<option value="/hi{{ location }}" {% if page.lang == 'hi' %}selected{% endif %}>{{ site.data.ui.t[page.lang].menu.hindi }}</option>
+	<option value="/pt{{ location }}" {% if page.lang == 'pt' %}selected{% endif %}>{{ site.data.ui.t[page.lang].menu.portuguese }}</option>
+	<option value="/te{{ location }}" {% if page.lang == 'te' %}selected{% endif %}>{{ site.data.ui.t[page.lang].menu.telugu }}</option>
 </select>

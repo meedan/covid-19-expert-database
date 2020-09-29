@@ -70,6 +70,12 @@ module Jekyll
               data['lang'] = 'hi';
           elsif dir == '/es/questions'
               data['lang'] = 'es';
+          elsif dir == '/pt/questions'
+              data['lang'] = 'pt';
+          elsif dir == '/bn/questions'
+            data['lang'] = 'bn';
+          elsif dir == '/ar/questions'
+            data['lang'] = 'ar';
           else 
             data['lang'] = 'en-US';
           end 
@@ -93,6 +99,18 @@ module Jekyll
             data['lang'] = 'es';
             data['title'] = data['title-es']
             data['description'] = data['description-es']
+          elsif dir == '/pt'
+            data['lang'] = 'pt';
+            data['title'] = data['title-pt']
+            data['description'] = data['description-pt']
+          elsif dir == '/bn'
+            data['lang'] = 'bn';
+            data['title'] = data['title-bn']
+            data['description'] = data['description-bn']
+          elsif dir == '/ar'
+            data['lang'] = 'ar';
+            data['title'] = data['title-ar']
+            data['description'] = data['description-ar']
           else 
             data['lang'] = 'en-US';
           end 
@@ -107,8 +125,14 @@ module Jekyll
             data['lang'] = 'fr';
         elsif dir == '/hi/glossary'
             data['lang'] = 'hi';
+          elsif dir == '/pt/glossary'
+            data['lang'] = 'pt';
         elsif dir == '/es/glossary'
             data['lang'] = 'es';
+        elsif dir == '/bn/glossary'
+          data['lang'] = 'bn';
+        elsif dir == '/ar/glossary'
+          data['lang'] = 'ar';
         end 
 
         @dir = dir + (index_files ? "/" + filename + "/" : "")

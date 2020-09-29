@@ -56,6 +56,116 @@
     ]
   },
   {
+    "id": "recumLFRn21ADhA5P",
+    "Term": "सांस की बूंदें",
+    "Definition": "सांस की बूंदें एक तरल, आमतौर पर पानी की छोटी बूंदें होती हैं, जो छींकने, खांसने, बात करने, सांस लेने, गाने, या जम्हाई से उत्पन्न होती हैं जो कई मिनटों में जमीन और सतहों पर गिर जाती हैं और कम दूरी पर यात्रा करती हैं: 2 फीट तक (60 सेमी)। इन बूंदों में एक वायरस (कण) के छोटे हिस्से होते हैं, इसलिए वे लोगों के बीच बीमारियों को फैला सकते हैं जब कोई व्यक्ति एक सतह को छूता है जो एक श्वसन बूंद पर उतरा है और फिर उसकी आंखों, मुंह, या नाक या शरीर के अन्य हिस्से को छूता है। श्वसन की बूंदें आकार में बड़ी होती हैं, जहां तक​​यात्रा नहीं होती है, और लंबे समय तक हवा में नहीं रहती हैं। ज्यादातर श्वसन संबंधी बीमारियां सांस की बूंदों से फैलती हैं।\n",
+    "Status": "In progress",
+    "EN Term": [
+      "rec5yviiSvJkufYvu"
+    ],
+    "Questions using this term": [
+      "recKr9zDEV3KkIoty",
+      "rechStEyPqYtEuAfa",
+      "recB6GCJU6EzAb2OC",
+      "recHFmRubql8a7rx7",
+      "recoFA0c2kysT1Sul",
+      "reclDEivWOJHGmN36",
+      "recQsQedv6T3fLr8y",
+      "recfPp65sW5B34jq2"
+    ],
+    "EN Definition": [
+      "Respiratory droplets are small drops of a liquid, usually water, that are produced from humans sneezing, coughing, talking, breathing, singing, yawning, or even just breathing, that fall to the ground and surfaces over several minutes and travel over a short range: up to 2 feet (60 cm). These droplets contain tiny parts of a virus (particles), so they can spread illnesses between people when someone touches a surface that a respiratory droplet has landed on and then touches their eyes, mouth, or nose or other body part. Unlike aerosolized pathogens, respiratory droplets are larger in size at over 5-10μm (hence being referred to also as 'large droplets'), don't travel as far, and don't remain in the air for long periods of time. Most respiratory illnesses are spread by respiratory droplets. \n"
+    ],
+    "Wordcount total": [
+      133
+    ]
+  },
+  {
+    "id": "recGvUUwg7Xc2hGu1",
+    "Term": "हवाई बायोएरोसोल संचरण",
+    "Definition": "एरोसोल संचरण तब होता है जब एक रोगाणु या संक्रामक एजेंट (छोटी बूंद नाभिक) की छोटी बूंदें जो किसी बीमारी (रोगज़नक़) का कारण बन सकती हैं, किसी के खांसने, छींकने, बातचीत करने, उल्टी करने, गाने, हंसने, या साँस छोड़ने के बाद कुछ समय के लिए हवा में रहती हैं और ये बूँदें एक अच्छी धुंध बन जाती है (एरोसोलिज्ड)। ये छोटे कण, जिन्हें एरोसोल के रूप में जाना जाता है, बड़े आकार की दूरी की यात्रा कर सकते हैं, भले ही वे मानव आंखों को दिखाई न दें। जब कोई दूसरा व्यक्ति इस एरोसोलिज्ड धुंध के संपर्क में आता है, तो वे हवा में लटक रहे रोगज़नक़ के संपर्क में आ जाते हैं। श्वसन की बूंदों के विपरीत, एरोसोलिज्ड रोगजनक ज्यादातर शुष्क, हल्के, बहुत छोटे (5 माइक्रोन से कम) होते हैं, और हवा में बने रहने के साथ छोटी और लंबी दूरी की यात्रा कर सकते हैं। कुछ चिकित्सा और सफाई प्रक्रियाएं भी एक रोगज़नक़ के एरोसोल संचरण का कारण बन सकती हैं जैसे कि शौचालय को फ्लश करना या सांस लेने में मदद करने के लिए रोगी के गले में एक ट्यूब डालना।\n",
+    "Status": "In progress",
+    "EN Term": [
+      "rech6tPR0hLDA3JH3"
+    ],
+    "Questions using this term": [
+      "rechStEyPqYtEuAfa"
+    ],
+    "EN Definition": [
+      "Aerosol transmission or airborne transmission occurs when tiny drops of a germ or infectious agent (droplet nuclei, or evaporated residues from droplets expelled by an infected person) that can cause a disease (pathogen) stay in the air for some time after someone coughs, sneezes, talks, vomits, sings, laughs, or exhales and these drops become a fine mist (aerosolized). Droplet nuclei can also be considered evaporated residues from droplets. These small particles, known as aerosols, can travel sizable distances even though they may not be visible to the human eye. Airborne transmission can also sometimes occur from dust particles carrying the virus.\n\n\nWhen another person comes into contact with contamhinateds aerosolized mist, they become exposed to the pathogen hanging in the air as well. Unlike respiratory droplets, aerosolized pathogens are mostly dry, light, very small (under 5μm); these smaller particles can stay suspended in the air for longer and be dispersed farther by air currents, traveling short and long distances as they remain in the air. Some medical and cleaning procedures can also cause aerosol transmission of a pathogen like flushing toilets or putting a tube into a patient's throat to help them breathe."
+    ],
+    "Wordcount total": [
+      193
+    ]
+  },
+  {
+    "id": "recjxkBb1qcNzbone",
+    "Term": "व्यवहार्य",
+    "Definition": "जब कोई चीज अनुकूल परिस्थितियों में जीने या विकसित करने में सक्षम होती है।\n",
+    "Status": "In progress",
+    "EN Term": [
+      "recSf7dMrMv3l3Tcl"
+    ],
+    "Questions using this term": [
+      "rechStEyPqYtEuAfa"
+    ],
+    "EN Definition": [
+      "When something is able to live or develop under favorable conditions."
+    ],
+    "Wordcount total": [
+      12
+    ]
+  },
+  {
+    "id": "recmmfWxaByc9dfDy",
+    "Term": "संक्रामक",
+    "Definition": "जब कोई चीज संक्रामक होती है, तो इसका मतलब है कि एक जीव जो बीमारी का कारण बनता है वह एक व्यक्ति, पौधे या जानवर से दूसरे में पारित होने में सक्षम है। संक्रामक रोगों के संदर्भ में, विश्व स्वास्थ्य संगठन का कहना है कि ये \"रोगजनक सूक्ष्मजीवों, जैसे बैक्टीरिया, वायरस, परजीवी या कवक के कारण होते हैं; बीमारियां प्रत्यक्ष या अप्रत्यक्ष रूप से, एक व्यक्ति से दूसरे व्यक्ति में फैल सकती हैं।\"\n",
+    "Status": "In progress",
+    "EN Term": [
+      "recMOA1iUEl0oP2Vi"
+    ],
+    "Questions using this term": [
+      "recWuNukdE0KpKIme",
+      "rechStEyPqYtEuAfa"
+    ],
+    "EN Definition": [
+      "When something is infectious, it means that an organism that causes disease is able to be passed from a person, plant, or animal to another. In terms of infectious diseases, the World Health Organization says these are \"caused by pathogenic microorganisms, such as bacteria, viruses, parasites or fungi; the diseases can be spread, directly or indirectly, from one person to another.\""
+    ],
+    "Wordcount total": [
+      62
+    ]
+  },
+  {
+    "id": "recoslzSUr2tPx1qE",
+    "Term": "वेंटिलेशन सिस्टम",
+    "Definition": "वेंटिलेशन सिस्टम वे तरीके हैं जो खुले दरवाजे और खिड़कियां या हीटिंग, वेंटिलेशन और एयर कंडीशनिंग (एचवीएसी) सिस्टम जैसी इमारतों के अंदर से बाहर से हवा का प्रवाह होता है।\n",
+    "Status": "In progress",
+    "EN Term": [
+      "recRXYuU3tstg6EO0"
+    ],
+    "EN Definition": [
+      "Ventilation systems are the ways that air flows from the outside through the inside of buildings like open doors and windows or heating, ventilation, and air conditioning (HVAC) systems. "
+    ],
+    "Wordcount total": [
+      32
+    ]
+  },
+  {
+    "id": "recyWu3qeJ7A03mDn",
+    "Term": "गैर संपर्क संचरण",
+    "Definition": "अप्रत्यक्ष संचरण तब होता है जब कोई सीधा मानव-से-मानव संपर्क नहीं होता है लेकिन एक रोगज़नक़ अभी भी एक व्यक्ति, जानवर या पौधे से दूसरे में फैलने में सक्षम है। अप्रत्यक्ष संचरण का एक उदाहरण है जब किसी संक्रमित व्यक्ति की खाँसी या छींक से सांस की बूंदें किसी ऐसी सतह पर गिरती हैं जिसे कोई दूसरा व्यक्ति छूता है। जब दूसरा व्यक्ति अपने स्वयं के मुंह या नाक को छूता है, तो वे स्वयं इस रोगज़नक़ के संपर्क में आ सकते हैं और संक्रमित भी हो सकते हैं।\n",
+    "Status": "In progress",
+    "EN Term": [
+      "recfxNeRDVhNKMgNe"
+    ],
+    "EN Definition": [
+      "Indirect transmission occurs when there is no direct human-to-human contact but a pathogen is still capable of being spread (transmitted) from one person, animal, or plant to another. An example of indirect transmission is when respiratory droplets from the cough or sneeze of an infected person fall onto a surface that another person touches. When the other person then touches their own mouth or nose, they have potentially exposed themselves to this pathogen and become infected as well. "
+    ],
+    "Wordcount total": [
+      82
+    ]
+  },
+  {
     "id": "recYKHvSvNzJNTF7p",
     "Term": "ऊष्मायन अवधि",
     "Definition": "विश्व स्वास्थ्य संगठन के अनुसार, \"ऊष्मायन अवधि वायरस के संपर्क में आने (संक्रमित होने) और लक्षण शुरू होने के बीच का समय है।\"\n",
@@ -108,6 +218,11 @@
     "Wordcount total": [
       82
     ]
+  },
+  {
+    "id": "recoFA1xFvHLBMORt",
+    "Term": "प्रायोगिक उपचार",
+    "Definition": "\n"
   },
   {
     "id": "rec1qyMZ5NV38uciw",
@@ -198,6 +313,25 @@
     ]
   },
   {
+    "id": "recTRy18uWwXdATO5",
+    "Term": "निवारण/रोक-थाम",
+    "Definition": "रोग नियंत्रण के लिए अमेरिकी केंद्रों के अनुसार, रोकथाम को आमतौर पर तीन क्षेत्रों में वर्गीकृत किया जा सकता है। 1. प्राथमिक रोकथाम- टीकाकरण या जोखिम भरे व्यवहार (खराब खाने की आदतें, तंबाकू का उपयोग) में परिवर्तन से पहले होने वाले रोगों को रोकने के लिए हस्तक्षेप। 2. माध्यमिक रोकथाम-स्क्रीनिंग (यानी मैमोग्राफी या नियमित रूप से रक्तचाप परीक्षण) संकेत और लक्षणों की शुरुआत से पहले शुरुआती चरणों में बीमारियों की पहचान करने के लिए। 3. तृतीयक रोकथाम- रोग की प्रगति और आगे की जटिलताओं को धीमा करने या रोकने के लिए रोग पोस्ट निदान (यानी कीमोथेरेपी, पुनर्वास) का प्रबंधन करने के लिए हस्तक्षेप।\n",
+    "Status": "In progress",
+    "EN Term": [
+      "recMZLIWKC45HMVao"
+    ],
+    "Questions using this term": [
+      "recNZYf0Bkn6jUj8I",
+      "recPlCNtmjyjbvUsf"
+    ],
+    "EN Definition": [
+      "Prevention activities can typically be categorized into three areas, according to the U.S. Centers for Disease Control. 1. Primary Prevention—interventions such as vaccinations or altering risky behaviors (poor eating habits, tobacco use) to prevent disease before it occurs. 2. Secondary Prevention—screening (i.e. mammography or regular blood pressure testing) to identify diseases in the earliest stages, before the onset of signs and symptoms. 3. Tertiary Prevention—interventions to manage the disease post diagnosis (i.e. chemotherapy, rehabilitation) in order to slow or stop disease progression and further complications."
+    ],
+    "Wordcount total": [
+      86
+    ]
+  },
+  {
     "id": "recdyaq0orFmPP2rV",
     "Term": "इलाज",
     "Definition": "हेल्थकेयर में, एक उपचार एक थेरेपी है जिसका उपयोग किसी विशेष स्थिति को रोकने, इलाज या इलाज के लिए किया जाता है। उपचारों में दवाएं, सर्जरी, मनोचिकित्सा, भौतिक चिकित्सा, श्वास एड्स, और स्वस्थ आहार और जीवन शैली की आदतों को बढ़ावा देना शामिल है।\n",
@@ -211,6 +345,21 @@
     ],
     "Wordcount total": [
       38
+    ]
+  },
+  {
+    "id": "recWvkvqR9jxKuSnd",
+    "Term": "दवा",
+    "Definition": "एक दवा एक पदार्थ या चिकित्सा है जिसका उपयोग किसी बीमारी, चोट या चिकित्सा स्थिति के इलाज के लिए किया जाता है। दवाओं को अक्सर तरल पदार्थ या गोलियों के रूप में माना जाता है जिन्हें उपचार के रूप में निर्धारित किया जाता है, हालांकि दवाओं को अन्य रूपों में भी निर्धारित किया जा सकता है (यानी साँस, अंतःशिरा, सामयिक क्रीम)। चिकित्सा, दवा, उपाय और औषध शब्द आमतौर पर दवा शब्द के रूप में उपयोग किए जाते हैं।\n\nचिकित्सा पद्धति को मोटे तौर पर स्वास्थ्य को बनाए रखने और बढ़ावा देने और बीमारी को रोकने और ठीक करने की कला और विज्ञान के रूप में परिभाषित किया गया है।\n",
+    "Status": "In progress",
+    "EN Term": [
+      "recOLVaA8YtoF3ofN"
+    ],
+    "EN Definition": [
+      "A medicine is a substance or therapy used to treat an illness, injury, or medical condition. Medicines are often thought of as liquids or pills that are prescribed as treatment, though medicines may also be prescribed in other forms (i.e. inhaled, intravenous, topical creams). The words medication, pharmaceutical, remedy, and drug are commonly used in the same way as the word medicine.\n\nThe practice of medicine is broadly defined as the art and science of maintaining and promoting health, and preventing and curing disease."
+    ],
+    "Wordcount total": [
+      84
     ]
   },
   {
@@ -290,6 +439,24 @@
     ]
   },
   {
+    "id": "recOeLKYm8ZH9Z07g",
+    "Term": "पूर्व-लक्षण संक्रमण",
+    "Definition": "जब कोई व्यक्ति संक्रमित होता है लेकिन अभी तक किसी बीमारी के लक्षणों को प्रदर्शित नहीं करता है, तो इसे पूर्व-लक्षण संक्रमण कहा जाता है। किसी व्यक्ति के संक्रमित होने के क्षण के बीच कुछ दिनों का अंतराल हो सकता है और जब वे लक्षणों का अनुभव करना शुरू करते हैं।\n",
+    "Status": "In progress",
+    "EN Term": [
+      "recbZcFUtsYMA9Vsh"
+    ],
+    "Questions using this term": [
+      "recWuNukdE0KpKIme"
+    ],
+    "EN Definition": [
+      "Pre-symptomatic infections occur when a person is infected but does not yet display symptoms of an illness or disease. There can be a lag of a few days between the moment a person is infected and when they start experiencing symptoms. "
+    ],
+    "Wordcount total": [
+      43
+    ]
+  },
+  {
     "id": "recc9FUquSkJ3xVkn",
     "Term": "टीका",
     "Definition": "एक टीका उत्पाद है जो शरीर को वायरस या बैक्टीरिया को पहचानने और उससे लड़ने में मदद करता है। यह मारे गए, उपचारित या सूक्ष्मजीवों से बना हो सकता है। विश्व स्वास्थ्य संगठन के अनुसार, \"टीकाकरण बीमारियों को रोकने के सबसे प्रभावी तरीकों में से एक है,\" और वर्तमान में, टीके 25 विभिन्न बीमारियों से बचाने में मदद करते हैं हालांकि इस समय कोविड-19 के लिए कोई टीका नहीं है।\n",
@@ -325,6 +492,10 @@
     "Wordcount total": [
       43
     ]
+  },
+  {
+    "id": "recEHqUAQi7FiFbcq",
+    "Term": "मौसम"
   },
   {
     "id": "recfzLZmTL7a03mVg",
@@ -488,6 +659,57 @@
     ]
   },
   {
+    "id": "reccaQvb4UuRQ1Cs0",
+    "Term": "नैदानिक ​​परीक्षण",
+    "Definition": "यू.एस. नेशनल इंस्टीट्यूट ऑफ हेल्थ के अनुसार, नैदानिक​​परीक्षण उन लोगों में किए गए शोध अध्ययन हैं जिनका उद्देश्य चिकित्सा, शल्य चिकित्सा या व्यवहार हस्तक्षेप का मूल्यांकन करना है। वे प्राथमिक तरीके हैं जो शोधकर्ता यह पता लगाते हैं कि एक नया उपचार, जैसे एक नई दवा या आहार या चिकित्सा उपकरण (उदाहरण के लिए, एक पेसमेकर) लोगों में सुरक्षित और प्रभावी है। अक्सर, एक नैदानिक ​​परीक्षण यह जानने के लिए उपयोग किया जाता है कि क्या नया उपचार अधिक प्रभावी है और / या मानक उपचार की तुलना में कम हानिकारक दुष्प्रभाव हैं। नैदानिक​​परीक्षणों में स्वयंसेवकों के समूहों में स्वास्थ्य हस्तक्षेप का परीक्षण करने की आवश्यकता होती है, जिसमें शामिल हैं, परीक्षणों के आधार पर, स्वस्थ व्यक्तियों और / या रोगियों को एक ज्ञात स्वास्थ्य मुद्दे के साथ।\n\nअन्य नैदानिक ​​परीक्षण किसी बीमारी को जल्दी खोजने के तरीकों का परीक्षण करते हैं, कभी-कभी लक्षण होने से पहले। फिर भी, अन्य लोग स्वास्थ्य समस्या को रोकने के तरीकों का परीक्षण करते हैं। एक नैदानिक ​​परीक्षण यह भी देख सकता है कि जीवन-धमकाने वाली बीमारी या पुरानी स्वास्थ्य समस्या वाले लोगों के लिए जीवन को बेहतर कैसे बनाया जाए।\n\nअमेरिकी खाद्य और औषधि प्रशासन (एफडीए) एक नैदानिक ​​परीक्षण शुरू करने की मंजूरी देता है, इससे पहले कि वैज्ञानिकों ने संभावित चिकित्सा की सुरक्षा और प्रभावकारिता का परीक्षण करने के लिए पशुओं में प्रयोगशाला परीक्षण और अध्ययन किया। यदि ये अध्ययन अनुकूल परिणाम दिखाते हैं, तो एफडीए मनुष्यों में परीक्षण के लिए हस्तक्षेप की स्वीकृति देता है।\n",
+    "Status": "In progress",
+    "EN Term": [
+      "recM4p8QOERmuESKr"
+    ],
+    "EN Definition": [
+      "According to the U.S. National Institutes of Health, clinical trials are research studies performed on people, that are aimed at evaluating a medical, surgical, or behavioral intervention. They are the primary way that researchers find out if a new treatment, like a new drug or diet or medical device (for example, a pacemaker) is safe and effective in people. Often, a clinical trial is used to learn if a new treatment is more effective and/or has less harmful side effects than the standard treatment. Clinical trials require testing the health intervention in groups of volunteers which include, depending on the trials, healthy individuals and/or patients with a known health issue.\nOther clinical trials test ways to find a disease early, sometimes before there are symptoms. Still, others test ways to prevent a health problem. A clinical trial may also look at how to make life better for people living with a life-threatening disease or a chronic health problem. \nBefore the U.S. Food and Drug Administration (FDA) approves a clinical trial to begin, scientists perform laboratory tests and studies in animals to test a potential therapy’s safety and efficacy. If these studies show favorable results, the FDA gives approval for the intervention to be tested in humans."
+    ],
+    "Wordcount total": [
+      202
+    ]
+  },
+  {
+    "id": "recKbTlpxjWSF5fYB",
+    "Term": "प्लेसबो",
+    "Definition": "यूएस नेशनल इंस्टीट्यूट ऑफ हेल्थ (NIH) के अनुसार, \"प्लेबोस हानिरहित, निष्क्रिय पदार्थ हैं जो नैदानिक ​​परीक्षण में उपयोग की जाने वाली वास्तविक दवा की तरह दिखते हैं। प्लेसबोस जांचकर्ताओं को यह जानने की अनुमति देता है कि दी जा रही दवा बेहतर काम करती है या बेहतर। सामान्य उपचार से। \"\" NIH आगे बताती है: \"\" लोगों में परीक्षण हस्तक्षेप के लिए \"सोने का मानक\" \"यादृच्छिक, प्लेसबो-नियंत्रित\" नैदानिक ​​परीक्षण है। इसका मतलब है कि स्वयंसेवकों को बेतरतीब ढंग से सौंपा गया है - जो कि संयोग से चुना गया है - प्रायोगिक हस्तक्षेप या नियंत्रण समूह प्राप्त करने वाले एक परीक्षण समूह को या तो एक प्लेसबो या मानक देखभाल प्राप्त करना। दो समूहों से परिणामों की तुलना करने से पता चलता है कि परीक्षण समूह के परिणाम में परिवर्तन उपचार से होता है या संयोग से होता है। कई परीक्षणों में, कोई भी - अनुसंधान दल भी नहीं जानता - जानता है कि किसको इलाज मिलता है, प्लेसिबो या कोई अन्य हस्तक्षेप। जब प्रतिभागियों, परिवार के सदस्यों, और स्टाफ सभी उपचार के लिए \"अंधे\" होते हैं, जब अध्ययन चल रहा होता है, तो अध्ययन को \"डबल-ब्लाइंड, प्लेसबो-नियंत्रित\" नैदानिक ​​परीक्षण कहा जाता है।\n\n",
+    "Status": "In progress",
+    "EN Term": [
+      "recJK5tI9LgCGFRAU"
+    ],
+    "Questions using this term": [
+      "rec9Vj7CIQcChHjo4"
+    ],
+    "EN Definition": [
+      "According to the U.S. National Institutes of Health (NIH), \"Placebos are harmless, inactive substances made to look like the real medicine used in the clinical trial. Placebos allow the investigators to learn whether the medicine being given works better or no better than ordinary treatment.\" \nThe NIH explains further: \"The “gold standard” for testing interventions in people is the “randomized, placebo-controlled” clinical trial. That means volunteers are randomly assigned—that is, selected by chance—to either a test group receiving the experimental intervention or a control group receiving a placebo or standard care. \nComparing results from the two groups suggests whether changes in the test group result from the treatment or occur by chance. In many trials, no one—not even the research team—knows who gets the treatment, the placebo, or another intervention. When participants, family members, and staff all are “blind” to the treatment while the study is underway, the study is called a “double-blind, placebo-controlled” clinical trial.\"\n"
+    ],
+    "Wordcount total": [
+      157
+    ]
+  },
+  {
+    "id": "rect6jdj0PniObEUf",
+    "Term": "निस्संक्रामक",
+    "Definition": "यू.एस. सेंटर्स फॉर डिजीज कंट्रोल के अनुसार, एक कीटाणुनाशक एक रसायन है जो भौतिक या रासायनिक साधनों द्वारा अधिकांश कीटाणुओं को नष्ट कर देता है। एक कीटाणुनाशक एक विशेष सतह पर कीटाणुओं को मारता है, जिससे संक्रमण फैलने का खतरा कम होता है।\n",
+    "EN Term": [
+      "recjGuHkvGujLMjV7"
+    ],
+    "Questions using this term": [
+      "recPlCNtmjyjbvUsf",
+      "recqLXlJUDvSE53Ls"
+    ],
+    "EN Definition": [
+      "According to the U.S. Centers for Disease Control, a disinfectant is a chemical that destroys most germs by physical or chemical means. A disinfectant kills germs on a particular surface, which lowers the risk of spreading infection. "
+    ],
+    "Wordcount total": [
+      39
+    ]
+  },
+  {
     "id": "recOu2NUkim625NVL",
     "Term": "सहकर्मी समीक्षा",
     "Definition": "सहकर्मी की समीक्षा की गई पत्रिकाएं प्रकाशन हैं जिनमें संबंधित क्षेत्र के विशेषज्ञों द्वारा वैज्ञानिक योगदान दिया गया है।\n",
@@ -525,6 +747,55 @@
     "Wordcount total": [
       26
     ]
+  },
+  {
+    "id": "recV8V6TT5PLgISue",
+    "Term": "सामुदायिक फैलाव",
+    "Questions using this term": [
+      "recB6GCJU6EzAb2OC"
+    ]
+  },
+  {
+    "id": "recgO2tlSbAHVrZNd",
+    "Term": "कीटाणुशोधन",
+    "Questions using this term": [
+      "recB6GCJU6EzAb2OC",
+      "recNZYf0Bkn6jUj8I"
+    ]
+  },
+  {
+    "id": "reckp1eNL0B0AlQET",
+    "Term": "From @Megan Marrelli : can you define \"phased testing\" or create a glossary link Thanks @Megan Marrelli - I'm not sure of the format or desired length for glossary terms, so please take a look at what I added and just let me know if more information is needed",
+    "Definition": "**Translators: please ignore**\n"
+  },
+  {
+    "id": "rec8Oc5yadJM5yani",
+    "Term": "@Christin Gilmer Context section has technical words - PCR test. \"viral infection\"; antigen; sensitivity; specificity",
+    "Definition": "**Translators: please ignore**\n",
+    "Questions using this term": [
+      "recmCB2gfbWWiSPYm"
+    ]
+  },
+  {
+    "id": "recIAFo7CKbDimdAF",
+    "Term": "@Jenna Sherman - can we discuss briefly the source you added in the \"background & context\" column? thanks!  @Mohit Nair sure thing! I often use this for my work on the American south",
+    "Definition": "**Translators: please ignore**\n",
+    "Questions using this term": [
+      "recq5h0Prcle128f9"
+    ]
+  },
+  {
+    "id": "recrus3Mb3HKrSdPD",
+    "Term": "but perhaps it's not global enough. I think this was also one of my first contexts so I'm not sure I knew where the sources list was :) More than happy to chat over slack or wherever is easiest.",
+    "Definition": "Translators: please ignore\n",
+    "Questions using this term": [
+      "recq5h0Prcle128f9"
+    ]
+  },
+  {
+    "id": "rec6MRIFeSoy9IZtu",
+    "Term": "MM NOTES:  - made some edits, publishing.  https://www.youtube.com/watch?v=8alkP1Nxyv4&feature=youtu.be Please update the answer in light of Dr Fauci's answer. He's such an INSPO. Also the first paragraph is quite long can we trim it down, please?? Thanks! ",
+    "Definition": "Translators: please ignore\n"
   },
   {
     "id": "recnFPG2gdeETqbEA",
@@ -573,6 +844,10 @@
     "Wordcount total": [
       23
     ]
+  },
+  {
+    "id": "recjxE2EIZJQy4k3v",
+    "Term": "trans"
   },
   {
     "id": "recdT1HQ8HAH78MgQ",
@@ -640,6 +915,9 @@
     "Wordcount total": [
       27
     ]
+  },
+  {
+    "id": "recubZDECjOKPNtvV"
   },
   {
     "id": "recGw14xbRob48j15",
@@ -868,6 +1146,52 @@
     ]
   },
   {
+    "id": "recrDhSHjHZrS0gcv",
+    "Term": "नियामक की मंज़ूरी",
+    "EN Term": [
+      "recJz8lojK2ZaDFhp"
+    ],
+    "Questions using this term": [
+      "recB4DIF0RZD1Zrsb"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "Wordcount total": [
+      2
+    ]
+  },
+  {
+    "id": "rec8UOSJtxo71N7p2",
+    "Term": "दवाएं विकसित करना",
+    "EN Term": [
+      "recKrKCs2Ax1jbpw6"
+    ],
+    "Questions using this term": [
+      "recB4DIF0RZD1Zrsb"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "Wordcount total": [
+      2
+    ]
+  },
+  {
+    "id": "recYlQNE5Gdkn84mD",
+    "Term": "एंटी वाइरल",
+    "EN Term": [
+      "recMUR0P3EECMwfrv"
+    ],
+    "Questions using this term": [
+      "recFtJtgluP9IrWp3"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "Wordcount total": [
+      1
+    ]
+  },
+  {
+    "id": "recYNHK3SYS4VTRPq",
+    "Term": "पानी की बर्बादी"
+  },
+  {
     "id": "rec3IbCmTIJqzBgzn",
     "Term": "गंदा पानी",
     "Definition": "गंदा पानी (या अपशिष्ट जल) ऐसा कोई भी पानी है जो मानव गतिविधि के कारण प्रदूषकों या दूषित पदार्थों से दूषित होता है। अपशिष्ट जल घरों, कारखानों या व्यावसायिक सुविधाओं, कृषि (यानी खेतों, जानवरों के फीडलॉट्स), सीवर सिस्टम और सतह अपवाह (यानी सड़कों से) से आता है।\n",
@@ -925,6 +1249,14 @@
     ]
   },
   {
+    "id": "recpXlcscrMKd6R6F"
+  },
+  {
+    "id": "recJs3iJid5eGKqnj",
+    "Term": "उत्पत्ति",
+    "Internal Invoicing Notes for LocLab": "July Invoice"
+  },
+  {
     "id": "recTPbnDP5I2C57a2",
     "Term": "मलेरिया",
     "Definition": "यू.एस. सेंटर्स फॉर डिजीज कंट्रोल के अनुसार, मलेरिया प्लास्मोडियम परजीवी के कारण होने वाली बीमारी है, जो मादा एनोफेलीज मच्छरों द्वारा प्रेषित होती है।\n",
@@ -976,6 +1308,9 @@
     ]
   },
   {
+    "id": "rec190sbvhgTBncbZ"
+  },
+  {
     "id": "rectvVgYYlbKEasai",
     "Term": "ज़ूनोटिक प्रसारण",
     "Definition": "ज़ूनोटिक ट्रांसमिशन तकनीकी शब्द है जो जानवरों (पालतू जानवर, जंगली, या घरेलू जानवरों) से बीमारियों (यानी वायरस, बैक्टीरिया, कवक, परजीवी और अन्य) के प्रसार का वर्णन करता है, निम्न मार्गों में से एक या अधिक के माध्यम से मनुष्य के लिए:\n\\- प्रत्यक्ष संपर्क: पशु के रक्त, लार, मूत्र, मल या शरीर के तरल पदार्थ के साथ संपर्क\n\\- अप्रत्यक्ष संपर्क: जहां जानवर खलिहान, मछलीघर पानी, मिट्टी सहित रहता है, से संपर्क करें\n\\- वेक्टर-जनित: एक टिक, पिस्सू या मच्छर द्वारा काटे जाने से जो जानवरों और मनुष्यों के बीच बीमारी फैलाता है\n\\- खाद्यजन्य: एक संक्रमित जानवर के मल से दूषित खाद्य पदार्थ जैसे बिना पका हुआ मांस या अंडे, कच्चा दूध, या फल/ सब्जियां खाना\n\\- जलजनित: पीने या संक्रमित जानवर के मल से दूषित पानी के संपर्क में आने से\nएक बार जब एक मानव संक्रमित होता है, तो कुछ बीमारियां एक व्यक्ति से दूसरे व्यक्ति में फैल सकती हैं।\n",
@@ -1011,6 +1346,20 @@
     ],
     "Wordcount total": [
       98
+    ]
+  },
+  {
+    "id": "reco1i7KtexKcL6lT",
+    "Term": "चयापचय",
+    "EN Term": [
+      "recBBELvoZKXpdyST"
+    ],
+    "Questions using this term": [
+      "rec15gZ2TyiR3EZLv"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "Wordcount total": [
+      1
     ]
   },
   {
@@ -1050,6 +1399,20 @@
     ],
     "Wordcount total": [
       49
+    ]
+  },
+  {
+    "id": "recLJlr3Px9kjfpF7",
+    "Term": "रोगक्षम प्रतिक्रिया",
+    "EN Term": [
+      "recyXylBebc7GlxTi"
+    ],
+    "Questions using this term": [
+      "rec7bA8vT7nLLJsBt"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "Wordcount total": [
+      2
     ]
   },
   {
@@ -1107,6 +1470,20 @@
     ],
     "Wordcount total": [
       26
+    ]
+  },
+  {
+    "id": "recykXSKSYLzFGF9m",
+    "Term": "जीनोमिक्स",
+    "EN Term": [
+      "recPzw1C0Nfi9r41m"
+    ],
+    "Questions using this term": [
+      "rec5j9NoybrNLrh0x"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "Wordcount total": [
+      1
     ]
   },
   {
@@ -1190,6 +1567,12 @@
     ]
   },
   {
+    "id": "recykW30N0d8H4OZM"
+  },
+  {
+    "id": "rec98iP35Fff0OG5l"
+  },
+  {
     "id": "recaGCDftUqemkddC",
     "Term": "पीपीई",
     "Definition": "पीपीई व्यक्तिगत सुरक्षा उपकरणों के लिए है। कोविड-19 ट्रांसमिशन की रोकथाम के लिए, पीपीई में अक्सर सर्जिकल मास्क, N95 रेस्पिरेटर, फेस कवरिंग, फेस शील्ड्स, प्रोटेक्टिव आई गॉगल्स, ग्लव्स, गाउन या अन्य उपकरण शामिल होते हैं।\n",
@@ -1207,6 +1590,31 @@
     ],
     "Wordcount total": [
       32
+    ]
+  },
+  {
+    "id": "recmCYCk2Uc5UiOIE",
+    "Term": "रोगक्षम तंत्र",
+    "EN Term": [
+      "recaXXF6coF4J2EUz"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "Wordcount total": [
+      2
+    ]
+  },
+  {
+    "id": "recY5Mo0kcpBEKQdv"
+  },
+  {
+    "id": "rectikFFwA36t8EEx",
+    "Term": "एंटी वाइरल",
+    "EN Term": [
+      "recMUR0P3EECMwfrv"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "Wordcount total": [
+      1
     ]
   },
   {
@@ -1376,6 +1784,35 @@
     ]
   },
   {
+    "id": "rec1J4NBdQfZRgBRk",
+    "Term": "तापमान की जाँच",
+    "EN Term": [
+      "recKu4mUCSpc8htlJ"
+    ],
+    "Questions using this term": [
+      "rec6pD3zz7tnDWDXP",
+      "rec3AMklAnFnJjB4F"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "Wordcount total": [
+      2
+    ]
+  },
+  {
+    "id": "recxzAeFDg0vvqIAa",
+    "Term": "अवरक्त थर्मामीटर",
+    "EN Term": [
+      "recKCiSoxquMlP5ia"
+    ],
+    "Questions using this term": [
+      "rec6pD3zz7tnDWDXP"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "Wordcount total": [
+      2
+    ]
+  },
+  {
     "id": "recoItIKnCVvNV03l",
     "Term": "बुखार",
     "Definition": "बुखार से तात्पर्य तब होता है जब शरीर का तापमान अस्थायी रूप से सामान्य से अधिक बढ़ जाता है और यह संकेत दे सकता है कि शरीर किसी संक्रमण से लड़ रहा है। अमेरिका के रोग नियंत्रण और रोकथाम केंद्र (CDC) बुखार को कम से कम 100.4 ° F (38 ° C) के मापा तापमान के रूप में परिभाषित करते हैं, औसत मानव तापमान 98.6 ° F (37 ° C) से थोड़ा अधिक है। फेवरर्स प्रतिरक्षा प्रणाली की पहली प्रतिक्रियाओं में से एक रोगज़नक़ है जैसे वायरस या बैक्टीरिया शरीर में प्रवेश करते हैं, लेकिन यह पर्यावरणीय कारकों जैसे हीट स्ट्रोक या जैविक प्रतिक्रियाओं जैसे शराब की वापसी के कारण भी हो सकता है। शरीर इन संभावित खतरों को महसूस करता है और अपने तापमान को बढ़ाने के लिए खुद को मजबूर करता है (आपके रक्त में रसायनों के माध्यम से 'पाइरोजेन' नामक बुखार पैदा करता है) जिससे रोगज़नक़ को आपके शरीर को एक मेजबान के रूप में उपयोग करने और वायरस या बैक्टीरिया को पुन: उत्पन्न करने में मुश्किल होती है।\n",
@@ -1491,6 +1928,9 @@
     ]
   },
   {
+    "id": "rec57ERPdjRIaulM9"
+  },
+  {
     "id": "reccTA8qe6Snmh5cu",
     "Term": "डीएनए",
     "Definition": "डीऑक्सीराइबोन्यूक्लिक एसिड (डीएनए) मनुष्यों और कई अन्य जीवों में आनुवंशिक जानकारी का एक स्व-प्रतिकृति वाहक है।\n",
@@ -1508,6 +1948,108 @@
     ],
     "Wordcount total": [
       17
+    ]
+  },
+  {
+    "id": "recUiZ0Fm2xu7q4Zi",
+    "Term": "आरएनए",
+    "EN Term": [
+      "reccH9Nhjj0fi18nJ"
+    ],
+    "Questions using this term": [
+      "recyCCDBCKau27mbU"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "Wordcount total": [
+      1
+    ]
+  },
+  {
+    "id": "rec1ZOORWV2fjtkSd"
+  },
+  {
+    "id": "recHgBMDa0vRr0znD",
+    "Term": "नाक के छेद",
+    "EN Term": [
+      "recz6LiyrAkeNejA2"
+    ],
+    "Questions using this term": [
+      "recyCCDBCKau27mbU"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "Wordcount total": [
+      2
+    ]
+  },
+  {
+    "id": "rec2kVdBAyKeLKJz2",
+    "Term": "कंजक्टिवा",
+    "EN Term": [
+      "rec28MquThUtAwvuU"
+    ],
+    "Questions using this term": [
+      "recyCCDBCKau27mbU"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "Wordcount total": [
+      1
+    ]
+  },
+  {
+    "id": "rec8qqlYPv2ZI51O2",
+    "Term": "शरीर द्रव",
+    "EN Term": [
+      "recek5M0c1XBopk0p"
+    ],
+    "Questions using this term": [
+      "recyCCDBCKau27mbU"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "Wordcount total": [
+      2
+    ]
+  },
+  {
+    "id": "recwHRVxt9d8gIMTI",
+    "Term": "लक्षण",
+    "EN Term": [
+      "recOcmLKbzV6NUkAH"
+    ],
+    "Questions using this term": [
+      "rec3AMklAnFnJjB4F",
+      "recvtv5hqPycd51X9"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "Wordcount total": [
+      1
+    ]
+  },
+  {
+    "id": "recPruWYJHkcQ6KB2",
+    "Term": "तनाव",
+    "EN Term": [
+      "reco4mXMlx86yOkid"
+    ],
+    "Questions using this term": [
+      "rectBcCsddJwBt55Y"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "Wordcount total": [
+      1
+    ]
+  },
+  {
+    "id": "recpLW49mRZPbUA8U",
+    "Term": "प्रोटीन स्पाइक्स",
+    "EN Term": [
+      "recmIgJvajdxBf3eI"
+    ],
+    "Questions using this term": [
+      "rectBcCsddJwBt55Y"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "Wordcount total": [
+      2
     ]
   },
   {
@@ -1565,6 +2107,69 @@
     ],
     "Wordcount total": [
       114
+    ]
+  },
+  {
+    "id": "rec5V8bbq126XLorP",
+    "Term": "पूल परीक्षण",
+    "EN Term": [
+      "recEwxu92Kry1SZKl"
+    ],
+    "Questions using this term": [
+      "rec2HVRTs8k9PuWZw"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "Wordcount total": [
+      2
+    ]
+  },
+  {
+    "id": "recOJjqmjiWVlU5RT",
+    "Term": "अव्यक्त चरण",
+    "EN Term": [
+      "recFjRJ5KunCqLXTo"
+    ],
+    "Questions using this term": [
+      "recb3wjZHCWdywjSL"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "Wordcount total": [
+      2
+    ]
+  },
+  {
+    "id": "recO4Ij83IVuk7aGK",
+    "Term": "एनोस्मिया",
+    "EN Term": [
+      "rec6bCvXI9wPhOuCW"
+    ],
+    "Questions using this term": [
+      "reco8NbOMlseUkSrH"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "Wordcount total": [
+      1
+    ]
+  },
+  {
+    "id": "reciJmrKgI7tXiQWA",
+    "Term": "थक्के",
+    "EN Term": [
+      "rec0fiL9Lg2z7CGlb"
+    ],
+    "Questions using this term": [
+      "recQYOQ0S7oq5Ml7t"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "Wordcount total": [
+      1
+    ]
+  },
+  {
+    "id": "rec1C9VYcVRa3xXhw",
+    "Term": "पूर्व स्पर्शोन्मुख",
+    "Questions using this term": [
+      "recewYnQ7bVNb0XYh"
     ]
   },
   {
@@ -1644,6 +2249,55 @@
     ],
     "Wordcount total": [
       53
+    ]
+  },
+  {
+    "id": "recr2S12fBdCjQ4mD",
+    "Term": "पेरासिटामोल"
+  },
+  {
+    "id": "recwK4evHU6V0Gnwd",
+    "Term": "पेरासिटामोल",
+    "EN Term": [
+      "receyjml9aL7IhxLF"
+    ],
+    "Questions using this term": [
+      "recpXuDHbtA8QgYvB"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "Wordcount total": [
+      1
+    ]
+  },
+  {
+    "id": "rec8iL1IXtgbsZeDZ",
+    "Term": "एसिटामिनोफ़ेन",
+    "EN Term": [
+      "recPAEAye3sSSqXlO"
+    ],
+    "Questions using this term": [
+      "recpXuDHbtA8QgYvB"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "Wordcount total": [
+      1
+    ]
+  },
+  {
+    "id": "recbSowGZjVoZfVpy"
+  },
+  {
+    "id": "rec9knudrlSA3QvuR",
+    "Term": "डोलो 650",
+    "EN Term": [
+      "recXz921OJNShe4qm"
+    ],
+    "Questions using this term": [
+      "recpXuDHbtA8QgYvB"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "Wordcount total": [
+      2
     ]
   },
   {
@@ -1761,6 +2415,69 @@
     ]
   },
   {
+    "id": "rec72KnvCP7J9fCRf",
+    "Term": "आघात",
+    "EN Term": [
+      "reccJtjL0z55J1CPG"
+    ],
+    "Questions using this term": [
+      "recvtv5hqPycd51X9"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "Wordcount total": [
+      1
+    ]
+  },
+  {
+    "id": "recBj8L7B3PN1RXl3",
+    "Term": "रक्त के थक्के",
+    "EN Term": [
+      "reciKuzcOIBjSFsU4"
+    ],
+    "Questions using this term": [
+      "recvtv5hqPycd51X9"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "Wordcount total": [
+      2
+    ]
+  },
+  {
+    "id": "recJSvPMcxk6cIYfM",
+    "Term": "न्यूमोनिया",
+    "EN Term": [
+      "rect47sXxza5ALA3I"
+    ],
+    "Questions using this term": [
+      "recfPp65sW5B34jq2"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "Wordcount total": [
+      1
+    ]
+  },
+  {
+    "id": "recA9Iq9oiNNAfcUk",
+    "Term": "टी सेल",
+    "EN Term": [
+      "recEwiYdLnp5pCbQD"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "Wordcount total": [
+      2
+    ]
+  },
+  {
+    "id": "recn3nfx0sDDYfewX",
+    "Term": "साइटोकिन्स",
+    "EN Term": [
+      "recicqEslROBkl8gG"
+    ],
+    "Wordcount total": [
+      1
+    ]
+  },
+  {
     "id": "rechwFxogtfzLrxd8",
     "Term": "तटस्थ एंटीबॉडीज",
     "Definition": "तटस्थ एंटीबॉडीज एंटीबॉडी का एक सबसेट हैं जो स्वतंत्र रूप से एक वायरस को निष्क्रिय कर सकते हैं और सुरक्षात्मक प्रतिरक्षा के साथ जुड़े हुए हैं।\n",
@@ -1854,6 +2571,44 @@
     ],
     "Wordcount total": [
       122
+    ]
+  },
+  {
+    "id": "reclnvJCs43dOmzjx",
+    "Term": "रक्त प्रकार"
+  },
+  {
+    "id": "recCcj4ltlrECVToV",
+    "Term": "कपड़े का मास्क",
+    "EN Term": [
+      "recqnngV0Ej32WU8H"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "Wordcount total": [
+      2
+    ]
+  },
+  {
+    "id": "recqJFTfAUJ3mirZy",
+    "Term": "हाइपोक्सिया",
+    "EN Term": [
+      "recZuNf7uTj0VplMB"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "Wordcount total": [
+      1
+    ]
+  },
+  {
+    "id": "reczBHRcsWRtp2GGv",
+    "Term": "सकारात्मकता परीक्षण",
+    "Definition": "\n",
+    "EN Term": [
+      "recOfgrqkPp7aa14o"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "Wordcount total": [
+      2
     ]
   },
   {

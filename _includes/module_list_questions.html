@@ -28,6 +28,24 @@
         | sort: 'Last modified manual' 
         | reverse
     %}
+{% elsif page.lang == 'pt' %}
+    {% assign questions = site.data.covid19.questions-pt 
+        | where: 'Status', 'Published'
+        | sort: 'Last modified manual' 
+        | reverse
+    %}
+{% elsif page.lang == 'bn' %}
+    {% assign questions = site.data.covid19.questions-bn 
+        | where: 'Status', 'Published'
+        | sort: 'Last modified manual' 
+        | reverse
+    %}
+{% elsif page.lang == 'ar' %}
+    {% assign questions = site.data.covid19.questions-ar 
+        | where: 'Status', 'Published'
+        | sort: 'Last modified manual' 
+        | reverse
+    %}
 {% endif %}
 <div class="search">
     <div id="search-searchbar"></div>

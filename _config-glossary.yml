@@ -21,6 +21,10 @@ page_gen:
     template: 'term'
     name: 'id'
     dir: '/es/glossary'
+  - data: 'covid19.glossary-pt'
+    template: 'term'
+    name: 'id'
+    dir: '/pt/glossary'
 
 # Glossary
 algolia:
@@ -34,30 +38,18 @@ algolia:
     - /hi/index.html
     - /te/index.html
     - /es/index.html
+    - /pt/index.html
+    - /bn/index.html
+    - /ar/index.html
     - /about/index.html
-    - /fr/about/index.html
-    - /hi/about/index.html
-    - /te/about/index.html
-    - /es/about/index.html
+    - /**/about/index.html
     - /questions/**/index.html
-    - /fr/questions/**/index.html
-    - /hi/questions/**/index.html
-    - /te/questions/**/index.html
-    - /es/questions/**/index.html
+    - /**/questions/**/index.html
     - /meet-our-experts/
     - /meet-our-experts/index.html
-    - /hi/meet-our-experts/index.html
-    - /fr/meet-our-experts/index.html
-    - /te/meet-our-experts/index.html
-    - /es/meet-our-experts/index.html
+    - /**/meet-our-experts/index.html
     - /ask-a-question/
     - /ask-a-question/index.html
-    - /hi/ask-a-question/index.html
-    - /fr/ask-a-question/index.html
-    - /te/ask-a-question/index.html
-    - /es/ask-a-question/index.html
+    - /**/ask-a-question/index.html
     - /thanks/index.html
-    - /fr/thanks/index.html
-    - /hi/thanks/index.html
-    - /te/thanks/index.html
-    - /es/thanks/index.html
+    - /**/thanks/index.html

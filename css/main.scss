@@ -80,7 +80,9 @@
     --font-size: 1.111rem;
     --font-line-height: 1.667rem;
     --font-family-hindi: 'Mukta', sans-serif;
-    --font-family-telugu: 'Baloo Tammudu 2', cursive;
+    --font-family-telugu: 'Baloo Tammudu 2', sans-serif;
+    --font-family-bengali: 'Baloo Da 2', sans-serif;
+    --font-family-arabic: 'Tajawal', sans-serif;
 
     --page-padding-horizontal: 3.75rem;
 }
@@ -135,6 +137,19 @@ html:lang(hi) body {
 html:lang(te) body {
     font-family: var(--font-family-telugu);
     font-weight: 500;
+}
+
+// Bengali Font
+html:lang(bn) body {
+    font-family: var(--font-family-bengali);
+    font-weight: 500;
+}
+
+// Arabic Font
+html:lang(ar) body {
+    font-family: var(--font-family-arabic);
+    font-weight: 500;
+    direction: rtl;
 }
 
 header {
