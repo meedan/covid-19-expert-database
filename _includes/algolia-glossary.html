@@ -67,7 +67,7 @@
     search.addWidgets([
         instantsearch.widgets.searchBox({
             container: '#search-searchbar',
-            placeholder: 'What are you looking for?'
+            placeholder: '{{ site.data.ui.t[page.lang].search.label }}',
         }),
         instantsearch.widgets.refinementList({
             container: '#filters-lang',
