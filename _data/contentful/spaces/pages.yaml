@@ -52,7 +52,7 @@ page:
 - sys:
     id: 4xN7lPbCvQdT2WUCgP3I9M
     created_at: !ruby/object:DateTime 2020-05-12 20:31:54.456000000 Z
-    updated_at: !ruby/object:DateTime 2020-09-11 02:24:15.322000000 Z
+    updated_at: !ruby/object:DateTime 2020-09-30 00:44:47.505000000 Z
     content_type_id: page
     revision: 8
     space:
@@ -97,31 +97,112 @@ page:
       producers and funding organizations.\n\nFunders of Meedan play no role in editorial
       decisions, including our selection of content, or hiring or commissioning of
       contributors."
+    ar: |
+      ### هدفنا هو دعم جهودك لإخبار مجتمعاتك.
+       نحن ملتزمون بجعل المعلومات المهمة والموضوعية حول كوفيد-19 في متناول غرف الأخبار والصحفيين المستقلين ومؤسسات التحقق من الحقائق والمراسلين في جميع أنحاء العالم باللغات الملائمة لك ولمتتبعيك.
+
+      في قاعدة بيانات خبراء كوفيد-19، نقدم السياق والملخصات والردود على الموضوعات والأسئلة الرئيسة المتعلقة بــ كوفيد-19 بسرعة، إذ يسعدنا المتابعة بمزيد من المعلومات حسب الحاجة، خاصة عند ظهور بحث جديد يؤدي إلى إبراز كشف علمي حديث حول هذا الوباء.
+
+      يأتي المحتوى الخاص بنا مباشرة من خلال الشراكات التي نعقدها مع الصحفيين ومنظمات التحقق من الحقائق وغيرها من المنظمات غير الربحية للتأكد من أن أبحاثنا وملخصاتنا تغطي الموضوعات الأكثر أهمية.
+
+      يضم فريقنا المتنامي خبراء، من ضمنهم باحثون من مدرسة تْشَانْ للصحة العامة بجامعة هارفارد ومبادرة الاتصالات الصحية بجامعة ستانفورد ، وعلماء لديهم خبرة في العمل في جميع أنحاء العالم وبلغات متعددة.
+
+      هل هناك موضوع أو سؤال حول كوفيد-19 تريد منا العمل عليه ؟ أرسل لنا رسالة على health@meedan.com وسيبذل خبراؤنا قصارى جهدهم لمساعدتك.
+    bn: |-
+      ### আপনার সম্প্রদায়গুলিকে অবহিত করার জন্য আপনার প্রচেষ্টাকে সমর্থন করাই আমাদের লক্ষ্য ।
+
+      আমরা আপনার এবং আপনার দর্শকদের জন্য গুরুত্বপূর্ণ ভাষাগুলিতে নিউজরুম, ফ্রিল্যান্স সাংবাদিক, ফ্যাক্ট-চেকিং সংস্থাগুলি এবং বিশ্বব্যাপী যোগাযোগকারীদের কাছে গুরুত্বপূর্ণ এবং প্রাসঙ্গিক কোভিড-১৯ সম্পর্কিত তথ্য প্রবেশযোগ্য এবং সময়সীমা-বান্ধব করে তুলতে প্রতিশ্রুতিবদ্ধ।
+      কোভিড-১৯ বিশেষজ্ঞ তথ্যভাণ্ডারে, আমরা কোভিড-১৯ এর মূল বিষয়গুলি এবং প্রশ্নগুলির প্রসঙ্গ, সারমর্ম এবং প্রতিক্রিয়াগুলি দ্রুত সরবরাহ করি এবং প্রয়োজন অনুসারে আরও তথ্যের অনুসন্ধানে আনন্দ লাভ করি, বিশেষত যখন নতুন গবেষণা কোন একটি বিষয়ের সর্বশেষ বৈজ্ঞানিক জানার স্থান পরিবর্তন করতে পারে|
+
+      আমাদের গবেষণা এবং সংক্ষিপ্তসারগুলি সর্বাধিক গুরুত্বপূর্ণ বিষয়গুলি উপস্থাপন করে তা নিশ্চিত করার জন্য আমাদের তথ্যগুলি সাংবাদিক, ফ্যাক্ট-চেকিং সংস্থা এবং অন্যান্য অলাভজনক সংস্থাগুলির সাথে অংশীদারিত্ব থেকে সরাসরি আসে| 
+      আমাদের বিশেষজ্ঞের ক্রমবর্ধমান দলে হার্ভার্ড টি.এইচ চ্যান স্কুল অফ পাবলিক হেলথ এবং স্ট্যানফোর্ড হেলথ কমিউনিকেশনস ইনিশিয়েটিভ এর গবেষকরা অন্তর্ভুক্ত রয়েছে এবং বিজ্ঞানীরা যাদের বিশ্বজুড়ে একাধিক ভাষায় কাজ করার অভিজ্ঞতা রয়েছে।
+      আপনি এখানে কাজ করতে চান এমন কোনও কোভিড -১৯ বিষয় বা প্রশ্ন রয়েছে? আমাদেরকে health@meedan.com এ একটি বার্তা প্রেরণ করুন এবং আমাদের বিশেষজ্ঞরা আপনাকে সহায়তা করার জন্য তাদের যথাসাধ্য চেষ্টা করবেন।
+    es: |-
+      ### Nuestro objetivo es respaldar tus esfuerzos para informar a tus comunidades
+
+      Estamos comprometidos a hacer que la información importante y tópica acerca del COVID-19 sea accesible y puntual para las redacciones de noticias, periodistas independientes, organizaciones de comprobación de hechos y comunicadores de alrededor del mundo, en los idiomas importantes para ti y tus audiencias.
+
+      En la Base de Datos Experta sobre COVID-19 proveemos rápidamente contexto, resúmenes y respuestas a tópicos y preguntas clave sobre el COVID-19, y nos agrada continuar con tanta información como sea necesaria, especialmente cuando nuevas investigaciones podrían cambiar el entendimiento científico más reciente de una cuestión.
+
+      Nuestro contenido proviene directamente de asociaciones con periodistas, organizaciones de comprobación de hechos y otras organizaciones sin fines de lucro, para asegurar que nuestra investigación y resúmenes cubran los tópicos que más importan.
+
+      Nuestro creciente equipo de expertos incluye a investigadores de la Escuela de Salud Pública T.H. Chan de Harvard, la Iniciativa de Comunicaciones de Salud de Stanford, y científicos con experiencia trabajando alrededor del mundo y en múltiples idiomas.
+
+      ¿Hay un tópico o pregunta acerca del COVID-19 sobre el que te gustaría que trabajemos? Envíanos un mensaje a health@meedan.com y nuestros expertos harán lo mejor que puedan para ayudarte.
     fr: |-
-      ### Contextualization crédible et mises à jour essentielles des informations sur COVID-19.
+      ### Notre but est de soutenir les efforts que vous déployez pour informer vos communautés.
 
-      Dans la base de données d'experts COVID-19, scientifiques et journalistes développent des informations essentielles, actuelles, locales et internationales sur la santé publique et la recherche médicale, et distribuent ces informations aux utilisateurs autour du monde. Notre équipe d'experts comprend des chercheurs de la Harvard School of Public Health et de la Stanford Health Communications Initiative, ainsi que des scientifiques ayant une expértise dans multiplies contextes régionaux.
+      Nous nous engageons à rendre accessibles et respectueux des délais des renseignements importants et thématiques sur la COVID-19 pour les salles de rédaction, les journalistes indépendants, les organismes de vérification des faits et pour les communicateurs du monde entier, dans les langues qui sont importantes pour vous et votre auditoire.
 
-      Des suggestions sur de nouvelles question à aborder? Envoyez-nous un message à <a href="mailto:health@meedan.com">health@meedan.com</a>.
-    hi: "### कोविड-19 पर उभरती जानकारी पर ताज़ातरीन, विश्वसनीय सन्दर्भ \n\nCOVID-19
-      एक्सपर्ट डेटाबेस को वैज्ञानिक और पत्रकार तैयार कर रहे हैं. इसमें ताज़ा, अप-टू-डेट,
-      स्थानीय नज़रिये को पब्लिक हेल्थ और मेडिकल रिसर्च से जोड़कर एक ख़ास नजरिया पेश किया
-      जा रहा है और इस नज़रिये को दुनिया भर में लोगों तक पहुंचाया जा रहा है। विशेषज्ञों
-      की हमारी टीम में हार्वर्ड स्कूल ऑफ पब्लिक हेल्थ और स्टैनफोर्ड हेल्थ कम्युनिकेशंस
-      इनिशिएटिव के शोधकर्ता हैं. इनके साथ कई भाषाओं और क्षेत्रीय संदर्भों में काम
-      करने का अनुभव रखने वाले वैज्ञानिक भी शामिल हैं।\n\nक्या आपके पास कोविड-19 से
-      जुड़ा कोई ऐसा सवाल है जिसका जवाब हमने न दिया हो? हमें सन्देश भेजें और हम कोशिश
-      करेंगे कि हमारे वैज्ञानिक आपकी मदद करें"
+      Dans la base de données spécialisée sur la COVID-19, nous offrons rapidement un contexte, des résumés et des réponses aux sujets et questions relatives à la COVID-19. Nous sommes heureux de communiquer d’autres renseignements au besoin, particulièrement si une nouvelle recherche fait basculer la compréhension la plus récente d’une situation.
+
+      Notre contenu provient directement de partenariats avec des journalistes, des organismes de vérification des faits et d’autres organismes sans but lucratif afin de nous assurer que notre recherche et nos résumés couvrent les sujets les plus importants.
+
+      Notre équipe croissante de spécialistes comprend des chercheurs de l’École de santé publique T. H. Chan de Harvard et de l’Initiative sur les communications en matière de santé de Stanford, mais aussi de scientifiques d’expérience qui œuvrent dans le monde entier, en plusieurs langues.
+
+      Souhaitez-vous que nous travaillions sur un sujet ou une question relatifs à la COVID-19 ? Envoyez-nous un courriel à l’adresse health@meedan.com et nos spécialistes feront de leur mieux pour vous assister.
+    hi: |-
+      ### हमारा लक्ष्य है आपके समुदायों को सूचित करने के आपके प्रयासों का समर्थन करना है।
+
+      हम आपके और आपके दर्शकों के लिए महत्वपूर्ण भाषाओं में न्यूज़ रूम, फ्रीलांस पत्रकारों, फैक्ट-चेकिंग संगठनों और संचारकों के लिए महत्वपूर्ण और सामयिक कोविड-19 सूचना को सुलभ और समय सीमा के अनुकूल बनाने के लिए प्रतिबद्ध हैं।
+
+      कोविड-19 विशेषज्ञ डेटाबेस में, हम प्रमुख कोविड-19 विषयों और प्रश्नों के संदर्भ, सारांश और प्रतिक्रियाएं प्रदान करते हैं, और आवश्यकतानुसार अधिक जानकारी के साथ अनुवर्ती करने के लिए खुश हैं, खासकर जब नए शोध किसी मुद्दे की नवीनतम वैज्ञानिक समझ को स्थानांतरित कर सकते हैं।
+
+      हमारी सामग्री पत्रकारों, तथ्य-जाँच संगठनों और अन्य गैर-लाभकारी संगठनों के साथ भागीदारी से सीधे आती है ताकि यह सुनिश्चित हो सके कि हमारे शोध और सारांश उन विषयों को कवर करते हैं जो सबसे अधिक मायने रखते हैं।
+
+      हमारे विशेषज्ञों की बढ़ती टीम में हार्वर्ड टी.एच और चैन स्कूल ऑफ पब्लिक हेल्थ और स्टैनफोर्ड हेल्थ कम्युनिकेशंस पहल के शोधकर्ता शामिल हैं, और दुनिया भर में और कई भाषाओं में काम करने का अनुभव रखने वाले वैज्ञानिक।
+
+      क्या कोई कोविड-19 विषय है या आप हमसे काम करना चाहते हैं? हमें health@meedan.com पर एक संदेश भेजें और हमारे विशेषज्ञ आपकी मदद करने की पूरी कोशिश करेंगे।
+    pt: "### Nosso objetivo é apoiar os seus esforços para informar as suas comunidades.
+      \n\nNós nos comprometemos a tornar as informações mais importantes e atuais
+      sobre o COVID-19 acessíveis, com facilidade e dentro dos seus prazos, a redações
+      de jornais, jornalistas independentes, organizações de verificação de fatos
+      e comunicadores em todo o mundo nos idiomas que são importantes para você e
+      seu público.\n\nNo banco de dados especializado COVID-19, nós fornecemos rapidamente
+      contexto, resumos e respostas aos principais assuntos e perguntas relacionados
+      ao COVID-19. Além disso, é com satisfação que fornecemos mais informações sempre
+      que necessário, especialmente quando novas pesquisas podem mudar a compreensão
+      científica mais recente de um assunto.\n\nNossos conteúdos vêm diretamente de
+      parcerias com jornalistas, organizações de verificação de fatos e outras organizações
+      sem fins lucrativos para garantir que nossas pesquisas e resumos cobrem os tópicos
+      mais importantes.\n\nNossa equipe de especialistas está se expandindo e inclui
+      pesquisadores da Harvard T.H. Chan School of Public Health e da Stanford Health
+      Communications Initiative, além de cientistas experientes, que trabalham em
+      todo o mundo e em vários idiomas.\n\nVocê gostaria que nós trabalhemos sobre
+      algum assunto relacionado ao COVID-19? Envie-nos uma mensagem no endereço health@meedan.com
+      e nossos especialistas farão o melhor que puderem para ajudar você."
+    te: "### మీ సంఘాలకు తెలియజేయడానికి మీరు చేసే ప్రయత్నాలకు మద్దతు ఇవ్వడమే మా లక్ష్యం.\n\nమీకు
+      మరియు మీ ప్రేక్షకులకు ముఖ్యమైన భాషలలో న్యూస్‌రూమ్‌లు, ఫ్రీలాన్స్ జర్నలిస్టులు,
+      ఫాక్ట్ చెకింగ్ సంస్థలు మరియు ప్రపంచవ్యాప్తంగా కమ్యూనికేటర్లకు ముఖ్యమైన మరియు
+      సమయోచిత కోవిడ్-19 సమాచారాన్ని ప్రాప్యత చేయడానికి మరియు గడువుకు అనుకూలంగా చేయడానికి
+      మేము కట్టుబడి ఉన్నాము.\n\nకోవిడ్-19 నిపుణుల డేటాబేస్లో, మేము కీలకమైన కోవిడ్-19
+      విషయాలు మరియు ప్రశ్నలకు సందర్భం, సారాంశాలు మరియు ప్రతిస్పందనలను త్వరగా అందిస్తాము
+      మరియు అవసరమైనంత ఎక్కువ సమాచారాన్ని అనుసరించడం ఆనందంగా ఉంది, ప్రత్యేకించి కొత్త
+      పరిశోధన తాజా శాస్త్రీయ అవగాహనను మార్చగలిగినప్పుడు ఒక సమస్య.\n\nమా పరిశోధన జర్నలిస్టులు,
+      నిజ-తనిఖీ సంస్థలు మరియు ఇతర లాభాపేక్షలేని సంస్థలతో భాగస్వామ్యం నుండి నేరుగా
+      వస్తుంది, మా పరిశోధన మరియు సారాంశాలు చాలా ముఖ్యమైన అంశాలను కవర్ చేస్తాయని నిర్ధారించుకోండి.\n\nమా
+      పెరుగుతున్న నిపుణుల బృందంలో హార్వర్డ్ టీ.హెచ్ పరిశోధకులు ఉన్నారు. చాన్ స్కూల్
+      ఆఫ్ పబ్లిక్ హెల్త్ మరియు స్టాన్ఫోర్డ్ హెల్త్ కమ్యూనికేషన్స్ ఇనిషియేటివ్, మరియు
+      ప్రపంచవ్యాప్తంగా మరియు బహుళ భాషలలో పనిచేసిన అనుభవం ఉన్న శాస్త్రవేత్తలు.\n\nకోవిడ్-19
+      అంశం లేదా మేము పని చేయాలనుకుంటున్న ప్రశ్న ఉందా? Health@meedan.com లో మాకు సందేశం
+      పంపండి మరియు మా నిపుణులు మీకు సహాయం చేయడానికి తమ వంతు కృషి చేస్తారు. "
   modules:
     en-US:
     - sys:
         id: 7sOeWskK689sgFsKfczg7D
         created_at: !ruby/object:DateTime 2020-05-13 21:26:02.232000000 Z
-        updated_at: !ruby/object:DateTime 2020-08-20 20:12:00.251000000 Z
+        updated_at: !ruby/object:DateTime 2020-09-30 00:58:17.519000000 Z
         content_type_id: moduleContributors
         revision: 6
       title:
         en-US: Our experts
+        ar: خبراؤنا
+        bn: আমাদের বিশেষজ্ঞমণ্ডলী
+        es: Nuestros Expertos
+        fr: Nos experts
+        hi: हमारे विशेषज्ञ
+        pt: Nossos especialistas
+        te: మా నిపుణులు
       contributors:
         en-US:
         - sys:
@@ -148,17 +229,37 @@ page:
             id: 9WVSMX3NSTMSBu7RUQtPN
         - sys:
             id: 3VDanAW0JZIK2gIl50lGsg
-  title-fr: En savoir plus
-  title-hi: हमारे बारे में
+        - sys:
+            id: 2ZNaGCRvYYbZvo6HuLdmQ4
+  title-fr: À propos de ce projet
+  title-hi: 'इस प्रोजेक्ट के बारे में '
+  title-te: ఈ ప్రాజెక్ట్ గురించి
+  title-es: Acerca de este proyecto
+  title-pt: Sobre esse projeto
+  title-bn: এই প্রকল্প সম্পর্কে
+  title-ar: حول هذا المشروع
   title-en: About
   description-en: We are a global team of public health experts offering relevant
     COVID-19 insights for journalists, fact-checkers, and community information leaders.
-  description-fr: Nous sommes une équipe mondiale d'épidémiologistes, experts en santé
-    publique, chercheurs sur les maladies infectieuses et journalistes offrant des
-    informations critiques sur la science complexe d'une pandémie.
-  description-hi: हमारी ग्लोबल टीम में हैं एपीडीमीओलोजिस्ट, पब्लिक हेल्थ विशेषज्ञ,
-    संक्रामक या इन्फेक्शियस बीमारियों पर शोध करने वाले रीसर्चर और पत्रकार. ये टीम
-    कोविड-19 जैसी महामारी से जुड़े जटिल विज्ञान पर एक ख़ास नजरिया पेश कर रही है
+  description-fr: Nous sommes une équipe internationale d’experts en santé publique
+    qui offre des points de vue pertinents aux journalistes, aux vérificateurs de
+    faits et aux chefs de file de l’information communautaire.
+  description-hi: हम पत्रकारों, तथ्य-जाँचकर्ताओं और सामुदायिक सूचना नेताओं के लिए
+    प्रासंगिक कोविड-19 सूक्ष्म दृष्टि प्रदान करने वाले सार्वजनिक स्वास्थ्य विशेषज्ञों
+    की एक वैश्विक टीम हैं |
+  description-te: మేము జర్నలిస్టులు, ఫాక్ట్-చెకర్స్ మరియు కమ్యూనిటీ ఇన్ఫర్మేషన్ లీడర్స్
+    కోసం సంబంధిత కోవిడ్-19 అంతర్దృష్టులను అందించే ప్రజారోగ్య నిపుణుల ప్రపంచ బృందం.
+  description-es: 'Somos un equipo global de expertos en salud pública ofreciendo
+    a periodistas, comprobadores de hechos y líderes comunitarios de información un
+    discernimiento relevante acerca del COVID-19     '
+  description-pt: Somos uma equipe global de especialistas em saúde pública que oferece
+    informações relevantes sobre o COVID-19 para jornalistas, verificadores de fatos
+    e líderes de informações para comunidades.
+  description-bn: আমরা বিশ্বব্যাপী জনস্বাস্থ্য বিশেষজ্ঞদের একটি দল, যা সাংবাদিক, ফ্যাক্ট-চেকার
+    এবং সম্প্রদায়ের তথ্য নেতাদের জন্য প্রাসঙ্গিক কোভিড-১৯ সম্পর্কিত অন্তর্নিহিত তথ্য
+    সরবরাহ করে|
+  description-ar: نحن فريق عالمي من خبراء الصحة العامة يقدمون رؤى عن كوفيد-19 ذات
+    أهمية للصحفيين ومدققي الحقائق وقادة المعلومات المجتمعية
 - sys:
     id: X2Ji5MiPGaQkqPRQo0sTW
     created_at: !ruby/object:DateTime 2020-06-10 19:09:12.925000000 Z
@@ -184,11 +285,18 @@ page:
     - sys:
         id: 7sOeWskK689sgFsKfczg7D
         created_at: !ruby/object:DateTime 2020-05-13 21:26:02.232000000 Z
-        updated_at: !ruby/object:DateTime 2020-08-20 20:12:00.251000000 Z
+        updated_at: !ruby/object:DateTime 2020-09-30 00:58:17.519000000 Z
         content_type_id: moduleContributors
         revision: 6
       title:
         en-US: Our experts
+        ar: خبراؤنا
+        bn: আমাদের বিশেষজ্ঞমণ্ডলী
+        es: Nuestros Expertos
+        fr: Nos experts
+        hi: हमारे विशेषज्ञ
+        pt: Nossos especialistas
+        te: మా నిపుణులు
       contributors:
         en-US:
         - sys:
@@ -215,6 +323,8 @@ page:
             id: 9WVSMX3NSTMSBu7RUQtPN
         - sys:
             id: 3VDanAW0JZIK2gIl50lGsg
+        - sys:
+            id: 2ZNaGCRvYYbZvo6HuLdmQ4
   title-en: Meet Our Experts
 - sys:
     id: 4rsYkahaSHvaiC75qy2xby
