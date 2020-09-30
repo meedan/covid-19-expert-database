@@ -432,6 +432,15 @@ body.hi header nav {
     }
 }
 
+.ar .content-wrapper .logos {
+    div:nth-of-type(1) {
+        @include responsive('min-width: #{$width-tablet}') {
+            margin-left: var(--space-8);
+            margin-right: 0;
+        }
+    }
+}
+
 .content-wrapper .modules-wrapper {
     @include responsive('min-width: #{$width-tablet}') {
         grid-column: 1/-1;
