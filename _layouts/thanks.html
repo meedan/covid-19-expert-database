@@ -17,7 +17,7 @@
     </h2>
     <div class="content">
       <p>{{ site.data.ui.t[page.lang].form.thanks-next }}</p>
-      <p><a href="{{ path }}">← {{ site.data.ui.t[page.lang].form.thanks-home-link-label }}</a></p>
+      <p><a href="{{ path }}">{% if page.lang == 'ar' %}→{% else %}←{% endif %} {{ site.data.ui.t[page.lang].form.thanks-home-link-label }}</a></p>
     </div>
     {% endif %}
   </div>

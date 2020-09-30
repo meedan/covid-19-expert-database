@@ -1,18 +1,48 @@
 {% if page.lang == 'en-US' %}
     {% assign questions = site.data.covid19.questions-en
-        | where: 'Item status', 'Published'
+        | where: 'Status', 'Published'
         | sort: 'Last modified manual' 
         | reverse
     %}
 {% elsif page.lang == 'fr' %}
     {% assign questions = site.data.covid19.questions-fr 
-        | where: 'Item status', 'Published'
+        | where: 'Status', 'Published'
         | sort: 'Last modified manual' 
         | reverse
     %}
 {% elsif page.lang == 'hi' %}
     {% assign questions = site.data.covid19.questions-hi 
-        | where: 'Item status', 'Published'
+        | where: 'Status', 'Published'
+        | sort: 'Last modified manual' 
+        | reverse
+    %}
+{% elsif page.lang == 'te' %}
+    {% assign questions = site.data.covid19.questions-te 
+        | where: 'Status', 'Published'
+        | sort: 'Last modified manual' 
+        | reverse
+    %}
+{% elsif page.lang == 'es' %}
+    {% assign questions = site.data.covid19.questions-es 
+        | where: 'Status', 'Published'
+        | sort: 'Last modified manual' 
+        | reverse
+    %}
+{% elsif page.lang == 'pt' %}
+    {% assign questions = site.data.covid19.questions-pt 
+        | where: 'Status', 'Published'
+        | sort: 'Last modified manual' 
+        | reverse
+    %}
+{% elsif page.lang == 'bn' %}
+    {% assign questions = site.data.covid19.questions-bn 
+        | where: 'Status', 'Published'
+        | sort: 'Last modified manual' 
+        | reverse
+    %}
+{% elsif page.lang == 'ar' %}
+    {% assign questions = site.data.covid19.questions-ar 
+        | where: 'Status', 'Published'
         | sort: 'Last modified manual' 
         | reverse
     %}
@@ -42,19 +72,12 @@
     {% assign a = question['What our experts say'] %}
     {% assign c = question['Topics'] %}
     {% assign media = question['Media'] %}
-    {% assign last_modified = question['Last modified manual'] | convert_to_date | date: "%-d %B %Y" %}
+    {% assign last_modified = question['= manual'] | convert_to_date | date: "%-d %B %Y" %}
     {% if page.lang == 'en-US' %}
-        
         {% assign url = question.Question | sanitize_filename | prepend: '/questions/' %}
-        
-    {% elsif page.lang == 'fr' %}
-        
-        {% assign url = question['Question'] | sanitize_filename | prepend: '/fr/questions/' %}
-        
-    {% elsif page.lang == 'hi' %}
-        
-        {% assign url = question['id'] | sanitize_filename | prepend: '/hi/questions/' %}
-        
+    {% else %}
+        {% capture path %}/{{ page.lang }}/questions/{% endcapture %}
+        {% assign url = question['id'] | prepend: path %}
     {% endif %}
     <a href="{{ url }}" title="{{ q }}" class="question-wrapper">
         <div class="question">

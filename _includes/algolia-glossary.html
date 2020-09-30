@@ -13,7 +13,6 @@
     });
 
     const hitTemplate = function (hit) {
-
         let title = '';
         if (hit._highlightResult.title) {
             title = hit._highlightResult.title.value;
@@ -46,7 +45,19 @@
         `;
     }
 
+
+    let firstTimeHash = true;
+
     const statTemplate = function(stat) {
+        // Scroll to hash if we just loaded the page.
+        if (firstTimeHash && window.location.hash) {
+            firstTimeHash = false;
+            const entry = document.querySelector(window.location.hash);
+            if (entry) {
+                entry.scrollIntoView();
+            }
+        }
+
         if (stat.hasNoResults) return "No results";
         if (stat.hasOneResult) return "1 result";
         if (stat.hasManyResults) return `${stat.nbHits} results`;
@@ -56,7 +67,7 @@
     search.addWidgets([
         instantsearch.widgets.searchBox({
             container: '#search-searchbar',
-            placeholder: 'What are you looking for?'
+            placeholder: '{{ site.data.ui.t[page.lang].search.label }}',
         }),
         instantsearch.widgets.refinementList({
             container: '#filters-lang',

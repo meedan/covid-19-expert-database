@@ -80,6 +80,9 @@
     --font-size: 1.111rem;
     --font-line-height: 1.667rem;
     --font-family-hindi: 'Mukta', sans-serif;
+    --font-family-telugu: 'Baloo Tammudu 2', sans-serif;
+    --font-family-bengali: 'Baloo Da 2', sans-serif;
+    --font-family-arabic: 'Tajawal', sans-serif;
 
     --page-padding-horizontal: 3.75rem;
 }
@@ -130,6 +133,25 @@ html:lang(hi) body {
     font-weight: 500;
 }
 
+// Telugu Font
+html:lang(te) body {
+    font-family: var(--font-family-telugu);
+    font-weight: 500;
+}
+
+// Bengali Font
+html:lang(bn) body {
+    font-family: var(--font-family-bengali);
+    font-weight: 500;
+}
+
+// Arabic Font
+html:lang(ar) body {
+    font-family: var(--font-family-arabic);
+    font-weight: 500;
+    direction: rtl;
+}
+
 header {
     @include responsive('min-width: #{$width-tablet}') {
         display: grid;
@@ -161,7 +183,7 @@ header .header-wrapper {
 
 header h1 {
     margin: 0;
-    padding: 0 var(--space-2) 0 0;
+    padding: 0;
     font-size: var(--scale-1);
     font-weight: var(--font-weight);
     em {
@@ -410,6 +432,15 @@ body.hi header nav {
     }
 }
 
+.ar .content-wrapper .logos {
+    div:nth-of-type(1) {
+        @include responsive('min-width: #{$width-tablet}') {
+            margin-left: var(--space-8);
+            margin-right: 0;
+        }
+    }
+}
+
 .content-wrapper .modules-wrapper {
     @include responsive('min-width: #{$width-tablet}') {
         grid-column: 1/-1;
@@ -423,6 +454,10 @@ body.hi header nav {
     font-weight: var(--font-weight);
     color: var(--edbGreen);
     margin: 1.188rem auto 0 0;
+}
+
+.ar .content-wrapper h3 {
+    margin: 1.188rem 0 0 auto;
 }
 
 .content-wrapper h4 {

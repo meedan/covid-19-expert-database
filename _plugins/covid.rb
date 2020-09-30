@@ -10,7 +10,12 @@ module Jekyll
           [
             Jekyll.sites[0].data['covid19']['glossary-en'].select{ |t| t['id'] == id }.collect{ |t| t.merge({ 'path' => '' }) },
             Jekyll.sites[0].data['covid19']['glossary-fr'].select{ |t| t['id'] == id }.collect{ |t| t.merge({ 'path' => '/fr' }) },
-            Jekyll.sites[0].data['covid19']['glossary-hi'].select{ |t| t['id'] == id }.collect{ |t| t.merge({ 'path' => '/hi' }) }
+            Jekyll.sites[0].data['covid19']['glossary-hi'].select{ |t| t['id'] == id }.collect{ |t| t.merge({ 'path' => '/hi' }) },
+            Jekyll.sites[0].data['covid19']['glossary-te'].select{ |t| t['id'] == id }.collect{ |t| t.merge({ 'path' => '/te' }) },
+            Jekyll.sites[0].data['covid19']['glossary-es'].select{ |t| t['id'] == id }.collect{ |t| t.merge({ 'path' => '/es' }) },
+            Jekyll.sites[0].data['covid19']['glossary-pt'].select{ |t| t['id'] == id }.collect{ |t| t.merge({ 'path' => '/pt' }) },
+            Jekyll.sites[0].data['covid19']['glossary-ar'].select{ |t| t['id'] == id }.collect{ |t| t.merge({ 'path' => '/ar' }) },
+            Jekyll.sites[0].data['covid19']['glossary-bn'].select{ |t| t['id'] == id }.collect{ |t| t.merge({ 'path' => '/bn' }) },
           ]
         }
         .flatten

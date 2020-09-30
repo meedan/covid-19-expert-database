@@ -1,0 +1,1448 @@
+[
+  {
+    "id": "recjZelO75WPKI88X",
+    "Term": "ইনকিউবেশন পিরিয়ড",
+    "Definition": "বিশ্ব স্বাস্থ্য সংস্থার মতে, ইনকিউবেশন পিরিয়ড হ'ল ভাইরাস সংক্রমণের (সংক্রামিত হওয়া) এবং লক্ষণ দেখা দেওয়ার মধ্যবর্তী সময়।\n",
+    "Status": "Published",
+    "EN Term": [
+      "recE7xmnXgtg8ZanX"
+    ],
+    "Questions using this term": [
+      "recK4YmnyFlCZoi9E"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "According to the World Health Organization, the incubation period is the time between exposure to the virus (becoming infected) and symptom onset."
+    ],
+    "Wordcount total": [
+      24
+    ]
+  },
+  {
+    "id": "recvh39v6lYARbUsZ",
+    "Term": "সংক্রামক",
+    "Definition": "ইউএস ন্যাশনাল ইনস্টিটিউটস অফ হেলথের মতে, একটি সংক্রামক রোগ একটি বিস্তার-সক্ষম রোগ যা প্রত্যক্ষ যোগাযোগের মাধ্যমে সংক্রামিত ব্যক্তির কাছ থেকে দ্রুত সংক্রামিত হতে পারে (সংক্রমণে আক্রান্ত ব্যক্তির স্পর্শ), পরোক্ষ যোগাযোগ (দূষিত জিনিসের স্পর্শ), বা জলীয় কণা বা ড্রপলেট'র যোগাযোগ ( সংক্রমণে আক্রান্ত ব্যক্তির কাশি, হাঁচি বা কথা বলার সময় সৃষ্ট জলীয় কণা বা ড্রপলেট নিঃশ্বাসের সাথে গ্রহণ করলে)।\n",
+    "Status": "Published",
+    "EN Term": [
+      "recJ4Q812SOdo1NGM"
+    ],
+    "Questions using this term": [
+      "recK4YmnyFlCZoi9E",
+      "reclxdUTTUGJcSuos"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "According to the U.S. National Institutes of Health, a contagious disease is a communicable disease that can spread rapidly from person to person through direct contact (touching a person who has the infection), indirect contact (touching a contaminated object), or droplet contact (inhaling droplets made when a person who has the infection coughs, sneezes, or talks)."
+    ],
+    "Wordcount total": [
+      57
+    ]
+  },
+  {
+    "id": "rechNV98fTjsB5uxV",
+    "Term": "লক্ষণহীন",
+    "Definition": "লক্ষণহীন সংক্রমণ ঘটে যখন কোনও ব্যক্তি কোনও অসুস্থতায় আক্রান্ত হয় কিন্তু তাদের সংক্রমণের সময়কালে কোনও লক্ষণ থাকে না।\n",
+    "Status": "Published",
+    "EN Term": [
+      "recx2PeCcs1Awb9rG"
+    ],
+    "Questions using this term": [
+      "recK4YmnyFlCZoi9E",
+      "recSvRQcQKzBGYcnO"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "Asymptomatic infections occur when a person is infected with an illness but does not have symptoms during the duration of their infection."
+    ],
+    "Wordcount total": [
+      23
+    ]
+  },
+  {
+    "id": "recke6pBxT6VreRAz",
+    "Term": "সম্প্রদায় সংক্রমণ",
+    "Definition": "রোগ নিয়ন্ত্রণ কেন্দ্রের মতে, \"সম্প্রদায়ের ছড়িয়ে পড়া মানে এমন একটি অসুস্থতা ছড়িয়ে পড়া যার সংক্রমণের উত্সটি অজানা| এটিও সম্ভব, তবে রোগী হয়তবা সংক্রমিত হয়ে ফিরে আসা কোনও যাত্রীর সংস্পর্শে এসেছিল।\" এই ধরণের সংক্রমণটির অর্থ হ'ল, একটি ব্যক্তি যে সম্প্রদায় সংক্রমণের মাধ্যমে সংক্রামিত হয়েছিল তা ভৌগলিক উৎস বা প্রাদুর্ভাবের অঞ্চলে বা অন্য ব্যক্তির সাথে ঘনিষ্ঠ যোগাযোগ না করেই করেছিল এবং পরিবর্তে তাদের সম্প্রদায়ের মধ্যে বৃহদাকারে সংক্রামিত হয়েছিল তবে অজানা উৎসের মাধ্যমে ।\n",
+    "Status": "Published",
+    "EN Term": [
+      "rec8po7cJXvqkaQYB"
+    ],
+    "Questions using this term": [
+      "recK4YmnyFlCZoi9E",
+      "recMRWW70XfJpEwMU"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "According to the Centers for Disease Control, \"Community spread means spread of an illness for which the source of infection is unknown. It’s also possible, however, that the patient may have been exposed to a returned traveler who was infected.\" This type of transmissions also means that a person who was infected through community transmission did so without going to the geographical source or region of the outbreak or through close contact with another person, and instead became infected within their community at large but through an unknown source.\n\n"
+    ],
+    "Wordcount total": [
+      91
+    ]
+  },
+  {
+    "id": "recA12Sm04IeagXAN",
+    "Term": "লক্ষণপূর্ব",
+    "Definition": "লক্ষণপূর্ব সংক্রমণ ঘটে যখন কোনও ব্যক্তি সংক্রামিত হয় কিন্তু কোনও অসুস্থতা বা রোগের লক্ষণ প্রদর্শন করে না। কোনও ব্যক্তি সংক্রামিত হওয়ার মুহুর্ত এবং যখন তারা লক্ষণগুলি অনুভব করতে শুরু করে তার মধ্যে কয়েক দিনের ব্যবধান থাকতে পারে।\n",
+    "Status": "Published",
+    "EN Term": [
+      "recbZcFUtsYMA9Vsh"
+    ],
+    "Questions using this term": [
+      "recK4YmnyFlCZoi9E"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "Pre-symptomatic infections occur when a person is infected but does not yet display symptoms of an illness or disease. There can be a lag of a few days between the moment a person is infected and when they start experiencing symptoms. "
+    ],
+    "Wordcount total": [
+      43
+    ]
+  },
+  {
+    "id": "reclmkuFydbGZYvYo",
+    "Term": "ইনফ্লুয়েঞ্জা",
+    "Definition": "আমেরিকা যুক্তরাষ্ট্রের রোগ নিয়ন্ত্রণ কেন্দ্রের মতে, মৌসুমী ইনফ্লুয়েঞ্জা ভাইরাসগুলি হল ইনফ্লুয়েঞ্জা এ এবং বি ভাইরাস যা বছরের \"ফ্লু সিজন\" নামে পরিচিত সময়কালে মানুষের মধ্যে ছড়িয়ে পড়ে এবং অসুস্থতা সৃষ্টি করে। মৌসুমী ইনফ্লুয়েঞ্জা ভাইরাসগুলি বছরে শরৎ, শীত এবং বসন্তকালে মার্কিন যুক্তরাষ্ট্রে ইনফ্লুয়েঞ্জা মহামারী সৃষ্টি করে এবং বিশ্বব্যাপী মানুষের মধ্যে ছড়িয়ে পড়ে। মৌসুমী ইনফ্লুয়েঞ্জা এ এবং বি ভাইরাস অবিচ্ছিন্ন উপায়ে ক্রমাগত বিবর্তিত হচ্ছে।\n",
+    "Status": "Published",
+    "EN Term": [
+      "recDalYrz2m23kS2e"
+    ],
+    "Questions using this term": [
+      "recHgGpEBMUlnrgjy"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "Seasonal influenza viruses are infectious diseases that spread and cause illness in people during the time of year known as the “flu season.” Seasonal influenza viruses cause annual U.S. influenza epidemics during fall, winter, and spring, and circulate among people worldwide. Seasonal influenza viruses are continually undergoing evolution in unpredictable ways."
+    ],
+    "Wordcount total": [
+      50
+    ]
+  },
+  {
+    "id": "recPuQi1bDq4cLoyB",
+    "Term": "অ্যান্টিঅক্সিডেন্ট",
+    "Definition": "মার্কিন যুক্তরাষ্ট্রের স্বাস্থ্য সম্পর্কিত ইনস্টিটিউটগুলির মতে, অ্যান্টিঅক্সিড্যান্টস হ'ল মানবসৃষ্ট বা প্রাকৃতিক পদার্থ যা কিছু ধরণের কোষের ক্ষতি বাধা দিতে বা বিলম্ব করতে পারে। শাকসব্জী এবং ফলমূলের উচ্চতর ডায়েটগুলি, যা অ্যান্টিঅক্সিডেন্টগুলির ভাল উৎস, স্বাস্থ্যকর বলে প্রমাণিত হয়েছে; যাইহোক, গবেষণা রোগ প্রতিরোধে উপকারী হিসাবে অ্যান্টিঅক্সিডেন্ট কে পরিপূরক হিসেবে দেখায় নি। অ্যান্টিঅক্সিডেন্টগুলির উদাহরণগুলির মধ্যে রয়েছে ভিটামিন সি এবং ই, সেলেনিয়াম এবং ক্যারোটিনয়েডগুলি, যেমন বিটা-ক্যারোটিন, লাইকোপেন, লুটিন এবং জেক্সানথিন|\n",
+    "Status": "Published",
+    "EN Term": [
+      "recOMUWrX4F2d53iC"
+    ],
+    "Questions using this term": [
+      "recvBblWT1w6G4UgF"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "According to the U.S. National Institutes of Health, antioxidants are man-made or natural substances that may prevent or delay some types of cell damage. Diets high in vegetables and fruits, which are good sources of antioxidants, have been found to be healthy; however, research has not shown antioxidant supplements to be beneficial in preventing diseases. Examples of antioxidants include vitamins C and E, selenium, and carotenoids, such as beta-carotene, lycopene, lutein, and zeaxanthin. "
+    ],
+    "Wordcount total": [
+      75
+    ]
+  },
+  {
+    "id": "rec1aismnWAuw0um1",
+    "Term": "সংক্রমণ",
+    "Definition": "মার্কিন যুক্তরাষ্ট্রের রোগ নিয়ন্ত্রণ কেন্দ্রের মতে, সংক্রমণ সংক্রামিত ব্যক্তির থেকে কীভাবে জীবাণু স্থানান্তরিত করে তা বোঝায়। জীবাণু নিজে নিজে ছড়ায় না। জীবাণু সমানুষ, পরিবেশ এবং / অথবা চিকিৎসা সরঞ্জাম এর (স্বাস্থ্যসেবা বিশিষ্টে) উপর নির্ভর করে।\n",
+    "Status": "Published",
+    "EN Term": [
+      "rec2UNEXbTkSCx30Q"
+    ],
+    "Questions using this term": [
+      "rec0Z43PrHHv6Esm3",
+      "recKtBBPL9SMah5dZ",
+      "recxs9xNzRgQfiGhw",
+      "recSvRQcQKzBGYcnO",
+      "recWcYfX80eIYWEJt",
+      "recg7KQqUOz6d77te",
+      "recfg6ysauGO98T5N",
+      "rec73G2CJA3IlkWTS"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "According to the U.S. Centers for Disease Control, transmission refers to the way germs are moved towards a non-infected person. Germs don’t move themselves. Germs depend on people, the environment, and/or medical equipment (in healthcare settings) to move. "
+    ],
+    "Wordcount total": [
+      40
+    ]
+  },
+  {
+    "id": "recNJ89TVk9m8EAfi",
+    "Term": "অতিবেগুনী  (ইউভি)",
+    "Definition": "মার্কিন যুক্তরাষ্ট্রের রোগ নিয়ন্ত্রণ কেন্দ্রগুলি অনুসারে, অতিবেগুনী (ইউভি) রশ্মি সূর্যের আলোর একটি অংশ যা বিকিরণের একটি অদৃশ্য রূপ। ইউভি রশ্মিগুলি ত্বকের কোষগুলির কাঠামোতে প্রবেশ এবং পরিবর্তন করতে পারে। তিন প্রকারের ইউভি রশ্মি রয়েছে: অতিবেগুনী এ (ইউভিএ), অতিবেগুনী বি (ইউভিবি), এবং অতিবেগুনী সি (ইউভিসি)। ইউভিএ পৃথিবীর পৃষ্ঠে সৌর বিকিরণের সর্বাধিক উৎস এবং এটি মানুষের ত্বকের শীর্ষ স্তর ভেদ করে প্রবেশ করে| বিজ্ঞানীরা বিশ্বাস করেন যে, ইউভিএ বিকিরণ সংযোগকারী টিস্যুগুলিকে ক্ষতি করতে পারে এবং ত্বকের ক্যান্সার হওয়ার জন্য একজন ব্যক্তির ঝুঁকি বাড়িয়ে তোলে। ইউভিবি রশ্মিগুলি ত্বকের গভীরে গভীরভাবে প্রবেশ করে এবং ত্বকের ক্যান্সারের কিছু কারণ হতে পারে। প্রাকৃতিক ইউভিসি রশ্মি শ্রমিকদের জন্য ঝুঁকি তৈরি করে না কারণ পৃথিবীর বায়ুমণ্ডল তা শোষণ করে।\n",
+    "Status": "Published",
+    "EN Term": [
+      "recjOgLIjiAbiBH5F"
+    ],
+    "Questions using this term": [
+      "recANerQQ5GAylbxu"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "According to the U.S. Centers for Disease Control, ultraviolet (UV) rays are a part of sunlight that is an invisible form of radiation. UV rays can penetrate and change the structure of skin cells. There are three types of UV rays: ultraviolet A (UVA), ultraviolet B (UVB), and ultraviolet C (UVC). UVA is the most abundant source of solar radiation at the earth’s surface and penetrates beyond the top layer of human skin. Scientists believe that UVA radiation can cause damage to connective tissue and increase a person’s risk for developing skin cancer. UVB rays penetrate less deeply into skin, but can still cause some forms of skin cancer. Natural UVC rays do not pose a risk to workers because they are absorbed by the Earth’s atmosphere."
+    ],
+    "Wordcount total": [
+      129
+    ]
+  },
+  {
+    "id": "recIZfTgU7dylLsAJ",
+    "Term": "জীবাণুমুক্ত",
+    "Definition": "মার্কিন যুক্তরাষ্ট্রের রোগ নিয়ন্ত্রণ কেন্দ্রগুলির মতে, যখন কোনও কিছু জীবাণুমুক্ত হয় তখন তা সমস্ত জীবিত অণুজীব থেকে মুক্ত থাকার অবস্থায় থাকে। এর অর্থ হ'ল একটি জীবাণুমুক্ত বস্তু সম্পূর্ণ পরিষ্কার এবং ব্যাকটিরিয়া এবং জীবন্ত জীবাণু থেকে মুক্ত।\n",
+    "Status": "Published",
+    "EN Term": [
+      "recUAN8C73rkuPWX9"
+    ],
+    "Questions using this term": [
+      "recRdFef9qJKNqeTy"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "According to the U.S. Centers for Disease Control, when something is sterile it is in a state of being free from all living microorganisms. This means that a sterile object is totally clean and free from bacteria and living germs."
+    ],
+    "Wordcount total": [
+      41
+    ]
+  },
+  {
+    "id": "recvccUgrhJYz3YSv",
+    "Term": "শ্বাসযন্ত্রের জলীয় কণা",
+    "Definition": "শ্বাস প্রশ্বাসের জলীয় কণা (ড্রপলেট) হ'ল একটি তরল, সাধারণত পানির ছোট ফোঁটা যা মানুষের হাঁচি, কাশি, কথা বলা, শ্বাস-প্রশ্বাস, গান গাওয়া, বাজানো বা কেবল শ্বাস-প্রশ্বাস থেকে সৃষ্টি হয়, যা বেশ কয়েক মিনিট ধরে মাটিতে পড়ে থাকে এবং একটি সংক্ষিপ্ত পরিসরে ভ্রমণ করে : ২ ফুট (৬০ সেমি) অবধি। এই ফোঁটাগুলিতে একটি ভাইরাসের ক্ষুদ্র অংশ রয়েছে (কণা), সুতরাং যখন কেউ শ্বাসকষ্টের এই জলীয় কণা যুক্ত কোন পৃষ্ঠের উপরে ছোঁয় এবং তার চোখ, মুখ, নাক বা শরীরের অন্যান্য অংশ স্পর্শ করে তখন তারা মানুষের মধ্যে অসুস্থতা ছড়িয়ে দিতে পারে। বায়ুবাহিত রোগজীবাণুর বিপরীতে, শ্বাস প্রশ্বাসের এই জলীয় কণা আকারে ৫-১০ মাইক্রোমিটার এর বেশি হয় (তাই এটি 'বড় ফোঁটা' হিসাবেও পরিচিত), এতদূর ভ্রমণ করে না এবং দীর্ঘ সময় ধরে বাতাসে থাকে না। শ্বাসযন্ত্রের বেশিরভাগ অসুস্থতা শ্বাসযন্ত্রের জলীয় কণা দ্বারা ছড়িয়ে পড়ে।\n",
+    "Status": "Published",
+    "EN Term": [
+      "rec5yviiSvJkufYvu"
+    ],
+    "Questions using this term": [
+      "recRdFef9qJKNqeTy",
+      "recMRWW70XfJpEwMU",
+      "recSvRQcQKzBGYcnO"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "Respiratory droplets are small drops of a liquid, usually water, that are produced from humans sneezing, coughing, talking, breathing, singing, yawning, or even just breathing, that fall to the ground and surfaces over several minutes and travel over a short range: up to 2 feet (60 cm). These droplets contain tiny parts of a virus (particles), so they can spread illnesses between people when someone touches a surface that a respiratory droplet has landed on and then touches their eyes, mouth, or nose or other body part. Unlike aerosolized pathogens, respiratory droplets are larger in size at over 5-10μm (hence being referred to also as 'large droplets'), don't travel as far, and don't remain in the air for long periods of time. Most respiratory illnesses are spread by respiratory droplets. \n"
+    ],
+    "Wordcount total": [
+      133
+    ]
+  },
+  {
+    "id": "rec7dMcRe2Pl6LJev",
+    "Term": "জীবাণু",
+    "Definition": "মার্কিন যুক্তরাষ্ট্রের রোগ নিয়ন্ত্রণ কেন্দ্রগুলি অনুসারে, জীবাণু হ'ল অণুজীব এবং দৈনন্দিন জীবনের একটি অংশ। এগুলি আমাদের বাতাস, মাটি, পানি এবং আমাদের দেহের বাইরে এবং ভিতরে পাওয়া যায়। কিছু জীবাণু সহায়ক, অন্যরা ক্ষতিকারক। অনেক জীবাণু আমাদের দেহে বাসা বেঁধে ক্ষতি করে না এবং কিছু আমাদের এমনকি সুস্থ রাখতে সহায়তা করে। জীবাণুগুলির একটি ছোট অংশই সংক্রমণের কারণ হিসাবে পরিচিত। জীবাণুগুলি সংক্রামক এজেন্ট হিসাবেও পরিচিত এবং এটি একটি ভাইরাস, ব্যাকটিরিয়া বা অন্যান্য জীবাণু হিসেবে আসে।\n",
+    "Status": "Published",
+    "EN Term": [
+      "rec39wm7MuK12bTI3"
+    ],
+    "Questions using this term": [
+      "recRdFef9qJKNqeTy"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "Germs are microorganisms and a part of everyday life. They can be found in our air, soil, water, and in and on our bodies. Some germs are helpful, others are harmful. Many germs live in and on our bodies without causing harm and some even help us to stay healthy. Only a small portion of germs are known to cause infection. Germs are also known as infectious agents and refer to viruses, bacteria, or other microbes."
+    ],
+    "Wordcount total": [
+      77
+    ]
+  },
+  {
+    "id": "recP5GccXZBwoESTJ",
+    "Term": "বিজিসি ভ্যাকসিন",
+    "Definition": "মার্কিন যুক্তরাষ্ট্রের জাতীয় স্বাস্থ্য ইনস্টিটিউটের মতে, ব্যাকিল ক্যালমেট-গেরিন (বিসিজি) ভ্যাকসিন এমন একটি ভ্যাকসিন যা যক্ষ্মার ঝুঁকিতে রয়েছে বা যেখানে সাধারণভাবে যক্ষ্মা রয়েছে তাদের মধ্যে যক্ষা (টিবি) প্রতিরোধ করতে ব্যবহৃত হয়।\n",
+    "Status": "Published",
+    "EN Term": [
+      "recUx8LCQGkRdxG3B"
+    ],
+    "Questions using this term": [
+      "recvhnf530KTSFMUn"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "According to the U.S. National Institutes of Health, the bacille Calmette-Guerine (BCG) vaccine is a vaccine used to prevent tuberculosis (TB) in people who are at a high risk of TB or where TB is common."
+    ],
+    "Wordcount total": [
+      38
+    ]
+  },
+  {
+    "id": "rec2SFVT4P9JUlBHK",
+    "Term": "যক্ষ্মা",
+    "Definition": "বিশ্ব স্বাস্থ্য সংস্থার মতে, যক্ষ্মা (টিবি) ব্যাকটিরিয়া (মাইকোব্যাক্টেরিয়াম টিউবারকোলোসিস) দ্বারা সৃষ্ট যা প্রায়শই ফুসফুসকে প্রভাবিত করে। যক্ষ্মা নিরাময়যোগ্য এবং প্রতিরোধযোগ্য। টিবি বাতাসের মাধ্যমে এক ব্যক্তি থেকে অন্যে ছড়িয়ে পড়ে। ফুসফুসের টিবিতে আক্রান্ত লোকেরা যখন কাশি, হাঁচি বা থুথুর মাধ্যমে টিবি জীবাণুকে বাতাসে চালিত করে। সংক্রামিত হওয়ার জন্য কোনও ব্যক্তিকে এই কয়েকটি জীবাণু থেকে কেবল কয়েকটি শ্বাস নিতে হয়।বিশ্বের জনসংখ্যার মধ্যে প্রায় এক-চতুর্থাংশ সুপ্ত টিবি রয়েছে, যার অর্থ লোকেরা টিবি ব্যাকটিরিয়ায় আক্রান্ত হয়েছে তবে তারা এই রোগে আক্রান্ত (এখনও) অসুস্থ নয় এবং রোগ সংক্রমণ করার মত নয়।টিবি ব্যাকটিরিয়ায় আক্রান্ত ব্যক্তিদের টিবিতে আক্রান্ত হওয়ার ৫-১৫% আজীবন ঝুঁকি থাকে। অপ্রতুল প্রতিরোধ ব্যবস্থা থাকা ব্যক্তিদের যেমন এইচআইভি, অপুষ্টি বা ডায়াবেটিসে আক্রান্ত ব্যক্তিরা বা তামাক ব্যবহার করেন এমন ব্যক্তিদের অসুস্থ হওয়ার ঝুঁকি বেশি থাকে।যখন কোনও ব্যক্তির সক্রিয় টিবি রোগ হয়, তখন লক্ষণগুলি (যেমন কাশি, জ্বর, রাতের ঘাম বা ওজন হ্রাস) অনেক মাস ধরে হালকা মাত্রায় থাকতে পারে। এটি যত্ন নেওয়ার ক্ষেত্রে বিলম্ব হতে পারে এবং অন্যদের মধ্যে ব্যাকটিরিয়া সংক্রমণ করতে পারে। সক্রিয় টিবিতে আক্রান্ত ব্যক্তিরা এক বছরের ব্যবধানে ঘনিষ্ঠ যোগাযোগের মাধ্যমে ৫-১৫ জন অন্যান্য ব্যক্তিকে সংক্রামিত করতে পারে।\n",
+    "Status": "Published",
+    "EN Term": [
+      "rec9SYUCp1ULDd0UL"
+    ],
+    "Questions using this term": [
+      "recvhnf530KTSFMUn"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "According to the World Health Organization, tuberculosis (TB) is caused by a bacteria (Mycobacterium tuberculosis) that most often affect the lungs. Tuberculosis is curable and preventable. TB is spread from person to person through the air. When people with lung TB cough, sneeze or spit, they propel the TB germs into the air. A person needs to inhale only a few of these germs to become infected.\nAbout one-quarter of the world's population has latent TB, which means people have been infected by TB bacteria but are not (yet) ill with the disease and cannot transmit the disease.\nPeople infected with TB bacteria have a 5–15% lifetime risk of falling ill with TB. Persons with compromised immune systems, such as people living with HIV, malnutrition or diabetes, or people who use tobacco, have a higher risk of falling ill.\nWhen a person develops active TB disease, the symptoms (such as cough, fever, night sweats, or weight loss) may be mild for many months. This can lead to delays in seeking care, and results in transmission of the bacteria to others. People with active TB can infect 5–15 other people through close contact over the course of a year."
+    ],
+    "Wordcount total": [
+      196
+    ]
+  },
+  {
+    "id": "rec4LjHCXWGEoHiGx",
+    "Term": "জিনোমিক বিশ্লেষণ",
+    "Definition": "মাল্টিডিসিপ্লিনারি সায়েন্স জার্নাল নেচার'র মতে জিনোমিক বিশ্লেষণ হ'ল জিনোমিক স্কেল, ডিএনএ সিকোয়েন্স, কাঠামোগত প্রকরণ, জিনের প্রকাশ, বা জিনোমিক স্কেলে নিয়ন্ত্রক এবং কার্যকরী উপাদান টীকা হিসাবে জিনোমিক বৈশিষ্ট্যগুলির সনাক্তকরণ, পরিমাপ বা তুলনা। এই ধরণের বিশ্লেষণ জীবন্ত জীবের ডিএনএ এবং আরএনএর উৎস, পটভূমি, সম্পর্ক এবং ফাংশনগুলি আরও ভালভাবে বোঝার জন্য জিনগুলির একটি সেটকে দেখার জন্য পরীক্ষাগারগুলির পদ্ধতি ব্যবহার করে।\n",
+    "Status": "Published",
+    "EN Term": [
+      "recbQ95pvRq7nP9s3"
+    ],
+    "Questions using this term": [
+      "rec8XX1JUd1UFcNdt"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "According to the multidisciplinary science journal Nature, genomic analysis is the identification, measurement or comparison of genomic features such as DNA sequence, structural variation, gene expression, or regulatory and functional element annotation at a genomic scale. This type of analysis uses laboratory methods to look at a set of genes to better understand the origins, background, relationships, and functions of the DNA and RNA in a living organism."
+    ],
+    "Wordcount total": [
+      68
+    ]
+  },
+  {
+    "id": "recIZgcOnQCXtZZrr",
+    "Term": "জোনোটিক স্থানান্তর",
+    "Definition": "জুনোসোজ হ'ল সংক্রামক রোগ যা প্রাণী থেকে মানুষের মধ্যে সংক্রামিত হতে পারে, বিশেষত যখন তারা তাদের সাথে ঘনিষ্ঠ ভাবে থাকে। মানুষের মতো, সমস্ত প্রাণীও জীবাণু বহন করে। মার্কিন যুক্তরাষ্ট্রের রোগ নিয়ন্ত্রণ কেন্দ্রগুলির মতে, এই জীবাণুগুলি সরাসরি যোগাযোগ, অপ্রত্যক্ষ যোগাযোগ, ভেক্টরবাহিত সংক্রমণ (মশার বা ছারপোকার মতো), খাদ্যজনিত সংক্রমণ এবং জলবাহিত সংক্রমণ মাধ্যমে প্রাণী এবং মানুষের মধ্যে ছড়িয়ে যেতে পারে।\n",
+    "Status": "Published",
+    "EN Term": [
+      "recFSOdDjQBqJHnZ9"
+    ],
+    "Questions using this term": [
+      "rec8XX1JUd1UFcNdt"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "Zoonoses are infectious diseases that animals can transmit to humans, especially when they are in close contact with them. Like humans, all animals carry germs. According to the U.S. Centers for Disease Control, these germs can be spread between animals and humans through direct contact, indirect contact, vector-borne transmission (like a mosquito or tick), foodborne transmission, and waterborne transmission.\n"
+    ],
+    "Wordcount total": [
+      61
+    ]
+  },
+  {
+    "id": "recyfTJ3t9OZ96dJB",
+    "Term": "অ্যান্টিবায়োটিক",
+    "Definition": "মার্কিন যুক্তরাষ্ট্রের রোগ নিয়ন্ত্রণ কেন্দ্রগুলির মতে, অ্যান্টিবায়োটিক একধরনের ওষুধ যা ব্যাকটেরিয়া হত্যা করে অথবা তাদের বৃদ্ধি পাওয়া শক্ত করে তোলার মাধ্যমে মানুষ এবং প্রাণীতে ব্যাকটেরিয়া দ্বারা সৃষ্ট সংক্রমণের বিরুদ্ধে লড়াই করে। অ্যান্টিবায়োটিকগুলি ভাইরাসকে হত্যা করে না এবং কেবল তখনই নেওয়া উচিত যখন সেগুলি প্রয়োজন হয় এবং কোনও চিকিৎসা সরবরাহকারীর দ্বারা নির্ধারিত হয়।\n",
+    "Status": "Published",
+    "EN Term": [
+      "reco5k0tpirgGDeqb"
+    ],
+    "Questions using this term": [
+      "recFawgz1x8cYATVq"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "According to the U.S. Centers for Disease Control, antibiotics are medicines that fight infections caused by bacteria in humans and animals by either killing the bacteria or making it difficult for the bacteria to grow and multiply. Antibiotics don't kill viruses and should only be taken when they're needed and prescribed by a medical provider.\n"
+    ],
+    "Wordcount total": [
+      55
+    ]
+  },
+  {
+    "id": "recOp4OrXCRJQymee",
+    "Term": "ভাইরাস",
+    "Definition": "মার্কিন যুক্তরাষ্ট্রের রোগ নিয়ন্ত্রণ কেন্দ্রগুলির মতে, ভাইরাস হ'ল একটি ক্ষুদ্র জীব যা কোষের মধ্যে বহুগুণ বৃদ্ধি পায় এবং চিকেনপক্স, হাম, গাঁজ, রুবেলা, পের্টুসিস এবং হেপাটাইটিস জাতীয় রোগের কারণ। ভাইরাস অ্যান্টিবায়োটিক দ্বারা প্রভাবিত হয় না, ওষুধগুলি ব্যাকটিরিয়া মারার জন্য ব্যবহৃত হয়। ভাইরাসগুলি ব্যাকটেরিয়ার চেয়ে আকারে আরও ছোট এবং প্রজনন ও এর বৃদ্ধির জন্য জীবন্ত কোষ বা টিস্যুগুলির প্রয়োজন।\n",
+    "Status": "Published",
+    "EN Term": [
+      "recnFUXyIZy81Rj1I"
+    ],
+    "Questions using this term": [
+      "recFawgz1x8cYATVq",
+      "recqCn7zKYBnXukDO"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "According to the U.S. Centers for Diseases Control, a virus is a tiny organism that multiplies within cells and causes disease such as chickenpox, measles, mumps, rubella, pertussis and hepatitis. Viruses are not affected by antibiotics, the drugs used to kill bacteria. Viruses are smaller in size than bacteria and require living cells or tissues in order to grow and reproduce. "
+    ],
+    "Wordcount total": [
+      63
+    ]
+  },
+  {
+    "id": "recCagvfdC6anCFqU",
+    "Term": "গৌণ সংক্রমণ",
+    "Definition": "একটি গৌণ সংক্রমণ এমন একটি সংক্রমণ যা বিদ্যমান সংক্রমণের চিকিৎসার সময় হয় বা অনুসরণ করে। গৌণ সংক্রমণের কারণগুলির মধ্যে কয়েকটিতে প্রথম সংক্রমণের ফলে প্রাপ্ত ব্যক্তির প্রতিরোধ ব্যবস্থাতে পরিবর্তন অন্তর্ভুক্ত থাকতে পারে, বা যদি প্রথম সংক্রমণের জন্য চিকিৎসার ফলে দ্বিতীয় সংক্রমণ হয়।\n",
+    "Status": "Published",
+    "EN Term": [
+      "rechTyFW9yFtRWh8o"
+    ],
+    "Questions using this term": [
+      "recFawgz1x8cYATVq"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "A secondary infection is an infection that takes place either during or following the treatment of an existing infection. Some of the causes of a secondary infection may include changes in the immune system of a person resulting from the first infection, or if the treatment for the first infection led to the secondary infection."
+    ],
+    "Wordcount total": [
+      57
+    ]
+  },
+  {
+    "id": "rec5UN4rM2igwCqSr",
+    "Term": "সহ সংক্রমণ",
+    "Definition": "মার্কিন যুক্তরাষ্ট্রের ন্যাশনাল ইনস্টিটিউট অফ হেলথ'র মতে, একজন ব্যক্তির একই সময়ে দুই বা ততোধিক সংক্রমণ হলে কো-ইনফেকশন বা সহ-সংক্রমণ বলা হয়। উদাহরণস্বরূপ, এইচআইভিতে আক্রান্ত কোনও ব্যক্তির হেপাটাইটিস সি ভাইরাস (এইচসিভি) সমন্বয়, একটি যক্ষ্মা (টিবি) সমন্বয় বা উভয়ই থাকতে পারে।\n",
+    "Status": "Published",
+    "EN Term": [
+      "recRGHDXxeEnXrS9t"
+    ],
+    "Questions using this term": [
+      "recFawgz1x8cYATVq"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "According to the U.S. National Institutes of Health, a co-infection occurs when a person has two or more infections at the same time. For example, a person living with HIV may also have a hepatitis C virus (HCV) coinfection, a tuberculosis (TB) coinfection, or both."
+    ],
+    "Wordcount total": [
+      46
+    ]
+  },
+  {
+    "id": "recTbR51Mjn4gR57b",
+    "Term": "ব্যাকটিরিয়া",
+    "Definition": "মার্কিন যুক্তরাষ্ট্রের রোগ নিয়ন্ত্রণ কেন্দ্রগুলি অনুসারে, ব্যাকটিরিয়া হ'ল জীবাণু। তারা পরিবেশে এবং আমাদের দেহের অভ্যন্তর এবং বাইরে সমস্ত জায়গায় বাস করে। বেশিরভাগ ব্যাকটিরিয়া নিরীহ এবং এমনকি মানুষের পক্ষে সহায়ক, তবে কিছু স্ট্র্যাপ গথ্রোটের মতো সংক্রমণ ঘটাতে পারে। এই মাইক্রোস্কোপিক জীবগুলি একটি একক কোষ দ্বারা গঠিত এবং কেবল জীবিত জিনিস নয়, বিভিন্ন ধরণের পরিবেশে বেঁচে থাকতে পারে। অ্যান্টিবায়োটিক ওষুধগুলি ব্যাকটেরিয়া হ্রাস করতে ব্যবহার করা যেতে পারে।\n",
+    "Status": "Published",
+    "EN Term": [
+      "recAFuzwLppTBDIPe"
+    ],
+    "Questions using this term": [
+      "recFawgz1x8cYATVq"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "According to the U.S. Centers for Disease Control, bacteria are germs. They live in the environment and all over the inside and outside of our bodies. Most bacteria are harmless and even helpful to people, but some can cause infections, like strep throat. These microscopic organisms are made up of one single cell, and can survive in many different types of environments, not just living things. Antibiotic medications can be used to kill bacteria."
+    ],
+    "Wordcount total": [
+      75
+    ]
+  },
+  {
+    "id": "reccHzZYGTYTahDZS",
+    "Term": "ক্লিনিক্যাল ট্রায়াল",
+    "Definition": "মার্কিন যুক্তরাষ্ট্রের ন্যাশনাল ইন্সিটিউট অফ হেলথ'র মতে, ক্লিনিকাল ট্রায়াল হ'ল মানুষের উপর করা গবেষণা, যেগুলি একটি চিকিৎসা, শল্যচিকিৎসা বা আচরণগত হস্তক্ষেপের মূল্যায়ন করার উদ্দেশ্যে করা হয়। এগুলি প্রাথমিক উপায় যার মাধ্যমে গবেষকরা খুঁজে বের করে যে, কোনও নতুন চিকিত্সা, যেমন কোনও নতুন ওষুধ বা খাদ্য বা চিকিৎসা ডিভাইস (উদাহরণস্বরূপ, একটি পেসমেকার) মানুষের মধ্যে নিরাপদ এবং কার্যকর। একটি নতুন চিকিৎসা আরও কার্যকর এবং / অথবা চিকিৎসায় নির্ধারিত মাত্রার চেয়ে চেয়ে কম ক্ষতিকারক পার্শ্ব প্রতিক্রিয়া আছে কিনা তা শিখতে প্রায়শই ক্লিনিকাল ট্রায়াল ব্যবহার করা হয়। ক্লিনিকাল ট্রায়ালগুলির জন্য স্বেচ্ছাসেবীদের গ্রুপে স্বাস্থ্যকর ব্যক্তি এবং / অথবা পরিচিত স্বাস্থ্য সমস্যা সহ রোগীদের স্বাস্থ্য মধ্যবর্তিতার পরীক্ষা করা প্রয়োজন যা পরীক্ষাগুলির উপর নির্ভর করে।\nঅন্যান্য ক্লিনিকাল ট্রায়ালগুলি প্রাথমিকভাবে কোনও রোগ সনাক্ত করার উপায়গুলি পরীক্ষা করে, কখনও কখনও লক্ষণগুলি উপস্থিত হওয়ার আগেই। তবুও, অন্যরা স্বাস্থ্য সমস্যা রোধ করার উপায়গুলি পরীক্ষা করে। একটি ক্লিনিকাল ট্রায়াল জীবন-হুমকিজনিত রোগে বা দীর্ঘস্থায়ী স্বাস্থ্য সমস্যায় আক্রান্ত ব্যক্তিদের জন্য কীভাবে জীবনকে আরও উন্নত করা যায় সেদিকেও নজর দিতে পারে।মার্কিন খাদ্য ও ওষুধ প্রশাসন (এফডিএ) ক্লিনিকাল ট্রায়াল শুরুর অনুমোদনের আগে বিজ্ঞানীরা একটি সম্ভাব্য থেরাপির সুরক্ষা এবং কার্যকারিতা পরীক্ষা করার জন্য প্রাণীগুলিতে পরীক্ষাগার পরীক্ষা এবং অধ্যয়ন করেন। যদি এই অধ্যয়নগুলি অনুকূল ফলাফল দেখায়, এফডিএ মানুষের মধ্যে পরীক্ষা করার জন্য হস্তক্ষেপের অনুমোদন দেয়।\n",
+    "Status": "Published",
+    "EN Term": [
+      "recM4p8QOERmuESKr"
+    ],
+    "Questions using this term": [
+      "recO4uinQPvndAlwL"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "According to the U.S. National Institutes of Health, clinical trials are research studies performed on people, that are aimed at evaluating a medical, surgical, or behavioral intervention. They are the primary way that researchers find out if a new treatment, like a new drug or diet or medical device (for example, a pacemaker) is safe and effective in people. Often, a clinical trial is used to learn if a new treatment is more effective and/or has less harmful side effects than the standard treatment. Clinical trials require testing the health intervention in groups of volunteers which include, depending on the trials, healthy individuals and/or patients with a known health issue.\nOther clinical trials test ways to find a disease early, sometimes before there are symptoms. Still, others test ways to prevent a health problem. A clinical trial may also look at how to make life better for people living with a life-threatening disease or a chronic health problem. \nBefore the U.S. Food and Drug Administration (FDA) approves a clinical trial to begin, scientists perform laboratory tests and studies in animals to test a potential therapy’s safety and efficacy. If these studies show favorable results, the FDA gives approval for the intervention to be tested in humans."
+    ],
+    "Wordcount total": [
+      202
+    ]
+  },
+  {
+    "id": "receGgTWnCKPePPzV",
+    "Term": "প্রতিকূল ঘটনা",
+    "Definition": "একটি প্রতিকূল ঘটনা (প্রতিকূল অভিজ্ঞতা হিসাবেও পরিচিত) যে কোনও প্রতিকূল এবং অযৌক্তিক চিহ্ন হতে পারে (উদাহরণস্বরূপ, পরীক্ষাগারের একটি অস্বাভাবিক সন্ধান), লক্ষণ, বা রোগ সাময়িকভাবে কোনও ওষুধের ব্যবহারের সাথে যুক্ত, ঔষধের কার্যকারিতা বা সম্পর্কের বিষয়ে কোনও বিচার ছাড়াই।\n",
+    "Status": "Published",
+    "EN Term": [
+      "recAiJYWSxD5F1Lz1"
+    ],
+    "Questions using this term": [
+      "recO4uinQPvndAlwL"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "An adverse event (also referred to as an adverse experience) can be any unfavorable and unintended sign (e.g., an abnormal laboratory finding), symptom, or disease temporarily associated with the use of a medication, without any judgment about causality or relationship to the medication. "
+    ],
+    "Wordcount total": [
+      45
+    ]
+  },
+  {
+    "id": "recsMihB1LpGviSJs",
+    "Term": "রোগ প্রতিরোধ ক্ষমতার অসুখ",
+    "Definition": "জাতীয় স্বাস্থ্য ইনস্টিটিউট অনুসারে, \"অটোইমিউন রোগগুলি ইমিউন সিস্টেমের সমস্যাগুলিকে বোঝায়, যা সাধারণত ভাইরাস, ব্যাকটেরিয়া এবং সংক্রমণের বিরুদ্ধে লড়াই করে। এই সমস্যায় আপনার ইমিউন কোষগুলি ভুলক্রমে আপনার শরীরে আক্রমণ করে| এই রোগগুলি শরীরের প্রায় যে কোনও অংশকে প্রভাবিত করতে পারে|\"\n",
+    "Status": "Published",
+    "EN Term": [
+      "recJ1c8DQQVGmXfzM"
+    ],
+    "Questions using this term": [
+      "recO4uinQPvndAlwL"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "According to the National Institutes of Health, \"Autoimmune diseases refer to problems with the immune system, which usually fights off viruses, bacteria, and infection. The problem causes your immune cells to attack your body by mistake. These diseases can affect almost any part of the body.\""
+    ],
+    "Wordcount total": [
+      48
+    ]
+  },
+  {
+    "id": "recxjTTqk8oUe7oRj",
+    "Term": "এলোমেলো নিয়ন্ত্রিত পরীক্ষা",
+    "Definition": "একটি এলোমেলোভাবে নিয়ন্ত্রিত পরীক্ষা (আরসিটি) হ'ল এক ধরণের বৈজ্ঞানিক পরীক্ষা যেখানে একদল লোক এলোমেলোভাবে একাধিক গ্রুপে বিভক্ত হয় এবং পরীক্ষাগুলি চিকিৎসায় অংশগ্রহণকারীদের স্বাস্থ্যের পরিবর্তন করে কিনা তা দেখার জন্য অধ্যয়নকালীন সময়ে দলগুলিকে আলাদাভাবে চিকিৎসা করা হয়।\nএলোমেলোভাবে নিয়ন্ত্রিত পরীক্ষায়, কমপক্ষে একটি নিয়ন্ত্রণ গোষ্ঠী রয়েছে যা মান (স্বাভাবিক বা অ-পরীক্ষামূলক চিকিৎসা), একটি প্লেসবো চিকিৎসা, বা মোটেও চিকিৎসা পায় না। কমপক্ষে একটি পরীক্ষামূলক গ্রুপও রয়েছে যা পরীক্ষা থেরাপি গ্রহণ করে যার মধ্যে একটি নতুন ওষুধ, একটি পৃথক ওষুধের ডোজ, লক্ষ্যযুক্ত শিক্ষা বা অন্যান্য হস্তক্ষেপ অন্তর্ভুক্ত থাকতে পারে। পরীক্ষামূলক / টেস্ট থেরাপি স্বাস্থ্যের ফলাফল পরিবর্তন করে তা নির্ধারণ করতে গবেষণার সময় অংশগ্রহণকারীদের সমস্ত পর্যবেক্ষণ করা হয়; কিছু চিকিৎসায় স্বাস্থ্যের উন্নতি বা অবনতি হতে পারে।\n",
+    "Status": "Published",
+    "EN Term": [
+      "recwhS0IsusP5qFNc"
+    ],
+    "Questions using this term": [
+      "recO4uinQPvndAlwL"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "A randomized controlled trial (RCT) is a type of scientific experiment where a group of people are randomly divided into multiple groups, and the groups are treated differently during the study period, to see if the experimental treatments change the participants' health. \n\nIn RCTs, there is at least one control group that receives either the standard (usual or non-experimental treatment), a placebo treatment, or no treatment at all. There is also at least one experimental group that receives the test therapy that may include a new medication, a different medication dose, targeted education, or other intervention.  All of the participants in an RCT are monitored during the study to determine the experimental/test therapy changes health outcomes; some therapies may improve or worsen health."
+    ],
+    "Wordcount total": [
+      127
+    ]
+  },
+  {
+    "id": "recKkBpJxRNTHf7oP",
+    "Term": "শ্বাসযন্ত্রের জলীয় কণা",
+    "Definition": "শ্বাস প্রশ্বাসের জলীয় কণা (ড্রপলেট) হ'ল একটি তরল, সাধারণত পানির ছোট ফোঁটা যা মানুষের হাঁচি, কাশি, কথা বলা, শ্বাস-প্রশ্বাস, গান গাওয়া, বাজানো বা কেবল শ্বাস-প্রশ্বাস থেকে সৃষ্টি হয়, যা বেশ কয়েক মিনিট ধরে মাটিতে পড়ে থাকে এবং একটি সংক্ষিপ্ত পরিসরে ভ্রমণ করে : ২ ফুট (৬০ সেমি) অবধি। এই ফোঁটাগুলিতে একটি ভাইরাসের ক্ষুদ্র অংশ রয়েছে (কণা), সুতরাং যখন কেউ শ্বাসকষ্টের এই জলীয় কণা যুক্ত কোন পৃষ্ঠের উপরে ছোঁয় এবং তার চোখ, মুখ, নাক বা শরীরের অন্যান্য অংশ স্পর্শ করে তখন তারা মানুষের মধ্যে অসুস্থতা ছড়িয়ে দিতে পারে। বায়ুবাহিত রোগজীবাণুর বিপরীতে, শ্বাস প্রশ্বাসের এই জলীয় কণা আকারে ৫-১০ মাইক্রোমিটার এর বেশি হয় (তাই এটি 'বড় ফোঁটা' হিসাবেও পরিচিত), এতদূর ভ্রমণ করে না এবং দীর্ঘ সময় ধরে বাতাসে থাকে না। শ্বাসযন্ত্রের বেশিরভাগ অসুস্থতা শ্বাসযন্ত্রের জলীয় কণা দ্বারা ছড়িয়ে পড়ে।\n",
+    "Status": "Published",
+    "EN Term": [
+      "rec5yviiSvJkufYvu"
+    ],
+    "Questions using this term": [
+      "reclxdUTTUGJcSuos"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "Respiratory droplets are small drops of a liquid, usually water, that are produced from humans sneezing, coughing, talking, breathing, singing, yawning, or even just breathing, that fall to the ground and surfaces over several minutes and travel over a short range: up to 2 feet (60 cm). These droplets contain tiny parts of a virus (particles), so they can spread illnesses between people when someone touches a surface that a respiratory droplet has landed on and then touches their eyes, mouth, or nose or other body part. Unlike aerosolized pathogens, respiratory droplets are larger in size at over 5-10μm (hence being referred to also as 'large droplets'), don't travel as far, and don't remain in the air for long periods of time. Most respiratory illnesses are spread by respiratory droplets. \n"
+    ],
+    "Wordcount total": [
+      133
+    ]
+  },
+  {
+    "id": "rec7iT9Cxd8QtYLjs",
+    "Term": "অ্যারোসোল / বায়ুবাহিত সংক্রমণ",
+    "Definition": "অ্যারোসোল সংক্রমণ বা বায়ুবাহিত সংক্রমণ ঘটে যখন কোনও জীবাণু বা সংক্রামক এজেন্টের ছোট ছোট ফোঁটা (একটি সংক্রামিত ব্যক্তির দ্বারা বহিষ্কারিত জলীয় কণা থেকে বাষ্প নিউক্লিয়াস বা বাষ্পীয় অবশিষ্টাংশ) কেউ কাশি, হাঁচি, কথা বলা, বমি করা, গান গাওয়া, হাসি বা শ্বাস নেবার পরে কিছু সময়ের জন্য একটি রোগ (প্যাথোজেন) বাতাসে থাকতে পারে এবং এই ফোঁটাগুলি একটি সূক্ষ্ম কুয়াশায় (অ্যারোসোলাইজড পরিণত হয়। জলীয় কণার নিউক্লিয়াস থেকে বাষ্পীভবনের অবশিষ্টাংশকেও জলীয় কণা হিসাবে বিবেচনা করা যেতে পারে। এই ছোট ছোট কণাগুলি, যা এয়ারোসোল নামে পরিচিত, এটি মানুষের চোখের সামনে দৃশ্যমান না হলেও বেশ কিছু দূরত্ব ভ্রমণ করতে পারে। কখনও কখনও ভাইরাস বহনকারী ধূলিকণা থেকেও বায়ুবাহিত সংক্রমণ দেখা দিতে পারে।\n\nঅন্য কোনও ব্যক্তি যখন দূষিত বায়ুবাহিত ঐসব জলীয় কণার সংস্পর্শে আসে, তখন তারা বাতাসে ঝুলন্ত রোগজীবাণুর সংস্পর্শে আসে। শ্বাসপ্রশ্বাসের জলীয় কণার বিপরীতে, অ্যারোসোলাইজড প্যাথোজেনগুলি বেশিরভাগ শুষ্ক, হালকা, খুব ছোট (5μm এর নিচে) হয়; এই ছোট কণাগুলি বাতাসে বেশি দিন স্থির থাকতে পারে এবং বায়ু প্রবাহের দ্বারা আরও দূরে ছড়িয়ে যায়, বাতাসে থাকায় স্বল্প এবং দীর্ঘ দূরত্বে ভ্রমণ করতে পারে। কিছু রোগজনিত চিকিৎসা এবং পরিষ্কারের পদ্ধতিগুলি শ্বাস প্রশ্বাসে সহায়তা করার জন্য টয়লেট ফ্লাশ করা বা রোগীর গলাতে একটি নল লাগানোর কারণে বায়ুবাহিত সংক্রমণ ঘটায়।\n\n\n",
+    "Status": "Published",
+    "EN Term": [
+      "rech6tPR0hLDA3JH3"
+    ],
+    "Questions using this term": [
+      "reclxdUTTUGJcSuos"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "Aerosol transmission or airborne transmission occurs when tiny drops of a germ or infectious agent (droplet nuclei, or evaporated residues from droplets expelled by an infected person) that can cause a disease (pathogen) stay in the air for some time after someone coughs, sneezes, talks, vomits, sings, laughs, or exhales and these drops become a fine mist (aerosolized). Droplet nuclei can also be considered evaporated residues from droplets. These small particles, known as aerosols, can travel sizable distances even though they may not be visible to the human eye. Airborne transmission can also sometimes occur from dust particles carrying the virus.\n\n\nWhen another person comes into contact with contamhinateds aerosolized mist, they become exposed to the pathogen hanging in the air as well. Unlike respiratory droplets, aerosolized pathogens are mostly dry, light, very small (under 5μm); these smaller particles can stay suspended in the air for longer and be dispersed farther by air currents, traveling short and long distances as they remain in the air. Some medical and cleaning procedures can also cause aerosol transmission of a pathogen like flushing toilets or putting a tube into a patient's throat to help them breathe."
+    ],
+    "Wordcount total": [
+      193
+    ]
+  },
+  {
+    "id": "recGzQXo59qekPwaC",
+    "Term": "কার্যকর",
+    "Definition": "যখন কোনও কিছু অনুকূল পরিস্থিতিতে বাঁচতে বা বিকাশ করতে সক্ষম হয়।\n",
+    "Status": "Published",
+    "EN Term": [
+      "recSf7dMrMv3l3Tcl"
+    ],
+    "Questions using this term": [
+      "reclxdUTTUGJcSuos"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "When something is able to live or develop under favorable conditions."
+    ],
+    "Wordcount total": [
+      12
+    ]
+  },
+  {
+    "id": "recRZfMLEGz8x1Ofw",
+    "Term": "বায়ুচলাচল পদ্ধতি",
+    "Definition": "বায়ুচলাচল পদ্ধতি হল, খোলা দরজা অথবা জানালা বা হিটিং এবং শীতাতপনিয়ন্ত্রণ (এইচভিএসি) সিস্টেমগুলির মাধ্যমে ভবনের অভ্যন্তরে বায়ু প্রবাহিত হওয়া।\n",
+    "Status": "Published",
+    "EN Term": [
+      "recRXYuU3tstg6EO0"
+    ],
+    "Questions using this term": [
+      "reclxdUTTUGJcSuos"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "Ventilation systems are the ways that air flows from the outside through the inside of buildings like open doors and windows or heating, ventilation, and air conditioning (HVAC) systems. "
+    ],
+    "Wordcount total": [
+      32
+    ]
+  },
+  {
+    "id": "recA13HN2v6PfY7JQ",
+    "Term": "পরোক্ষ (যোগাযোগ নয়) সংক্রমণ",
+    "Definition": "যখন সরাসরি কোনও মানুষের থেকে মানুষের যোগাযোগ ছাড়াই একটি রোগজীবাণু এখনও একজন ব্যক্তি, প্রাণী বা উদ্ভিদ থেকে অন্য ব্যক্তিতে ছড়িয়ে (সংক্রমণ) পড়তে সক্ষম হয় তখন অপ্রত্যক্ষ সংক্রমণ ঘটে| অপ্রত্যক্ষ সংক্রমণের উদাহরণ হ'ল যখন সংক্রামিত ব্যক্তির কাশি বা হাঁচি থেকে শ্বাস প্রশ্বাসের সাথে নির্গত জলীয় কণা এমন কোনও পৃষ্ঠের উপরে পড়ে যা অন্য কোনও ব্যক্তি স্পর্শ করে। যখন সেই ব্যক্তি তাদের নিজের মুখ বা নাক স্পর্শ করে তখন তারা এই রোগজীবাণুতে নিজেকে সংক্রামিত করে এবং সংক্রামিতও হয়।\n",
+    "Status": "Published",
+    "EN Term": [
+      "recfxNeRDVhNKMgNe"
+    ],
+    "Questions using this term": [
+      "reclxdUTTUGJcSuos"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "Indirect transmission occurs when there is no direct human-to-human contact but a pathogen is still capable of being spread (transmitted) from one person, animal, or plant to another. An example of indirect transmission is when respiratory droplets from the cough or sneeze of an infected person fall onto a surface that another person touches. When the other person then touches their own mouth or nose, they have potentially exposed themselves to this pathogen and become infected as well. "
+    ],
+    "Wordcount total": [
+      82
+    ]
+  },
+  {
+    "id": "recvwUjJtZwGOH3lr",
+    "Term": "জিবানুমুক্তকরন",
+    "Definition": "জিবানুমুক্তকরন হ'ল এমন একটি প্রক্রিয়া যা জীবাণু এবং অন্যান্য ক্ষুদ্র রোগ-বহনকারী জীবকে ('মাইক্রো অর্গানিজম' নামে ডাকা হয়), সাধারণত শক্ত পৃষ্ঠগুলিতে হত্যা করে, যা তাদের বিস্তার থেকে বিরত রাখে। জীবাণুনাশক সাধারণত তাপ, বিকিরণ বা রাসায়নিক ব্যবহারের পরে এমন একটি পৃষ্ঠে প্রয়োগ করা হয় যা ব্যাকটিরিয়া এবং অন্যান্য ক্ষতিকারক অণুজীবকে (স্পোরগুলি ব্যতীত) ধ্বংস করে দেয়।\n",
+    "Status": "Published",
+    "EN Term": [
+      "rec4crPh6OQvCngsk"
+    ],
+    "Questions using this term": [
+      "recrTT8P1sRAzjhmN",
+      "recMRWW70XfJpEwMU"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "Disinfection is a process that kills germs and other tiny disease-carrying organisms (called 'microorganisms'), usually on hard surfaces, which stops them from spreading. Disinfection usually happens after using heat, radiation, or chemicals are applied to a surface that destroys bacteria and other harmful microorganisms (except spores). "
+    ],
+    "Wordcount total": [
+      46
+    ]
+  },
+  {
+    "id": "recwskGEmIjXQwVRk",
+    "Term": "প্রতিরোধ",
+    "Definition": "মার্কিন যুক্তরাষ্ট্রের রোগ নিয়ন্ত্রণ কেন্দ্রগুলির মতে প্রতিরোধ কার্যক্রম সাধারণত তিনটি ক্ষেত্রে শ্রেণীবদ্ধ করা যেতে পারে।\n১. প্রাথমিক প্রতিরোধ- রোগ প্রতিরোধের আগে টিকাদান বা ঝুঁকিপূর্ণ আচরণ (স্বল্প খাদ্যাভাসের অভ্যাস, তামাকের ব্যবহার) পরিবর্তন করার মতো হস্তক্ষেপ|\n২. মাধ্যমিক প্রতিরোধ- লক্ষণ ও লক্ষণগুলির সূচনা হওয়ার আগে, প্রাথমিক পর্যায়ে রোগ সনাক্তকরণের জন্য স্ক্রিনিং (অর্থাৎ ম্যামোগ্রাফি বা নিয়মিত রক্তচাপ পরীক্ষা করা)|\n৩. তৃতীয় প্রতিরোধ- রোগের অগ্রগতি এবং আরও জটিলতাগুলি ধীরে ধীরে বা বন্ধ করার জন্য রোগ পরবর্তী রোগ নির্ণয়ের (যেমন কেমোথেরাপি, পুনর্বাসন) পরিচালনা করতে হস্তক্ষেপ|\n",
+    "Status": "Published",
+    "EN Term": [
+      "recMZLIWKC45HMVao"
+    ],
+    "Questions using this term": [
+      "recrTT8P1sRAzjhmN"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "Prevention activities can typically be categorized into three areas, according to the U.S. Centers for Disease Control. 1. Primary Prevention—interventions such as vaccinations or altering risky behaviors (poor eating habits, tobacco use) to prevent disease before it occurs. 2. Secondary Prevention—screening (i.e. mammography or regular blood pressure testing) to identify diseases in the earliest stages, before the onset of signs and symptoms. 3. Tertiary Prevention—interventions to manage the disease post diagnosis (i.e. chemotherapy, rehabilitation) in order to slow or stop disease progression and further complications."
+    ],
+    "Wordcount total": [
+      86
+    ]
+  },
+  {
+    "id": "rec7J7JYvJAu1VPvg",
+    "Term": "পুল",
+    "Definition": "একটি পুল - প্রায়শই একটি সুইমিং পুল বলা হয় - এটি মাটি বা কাঠামোর একটি গর্ত যা পানি ধারণ করে যেখানে লোকে সাঁতার কাটতে পারে।\n",
+    "Status": "Published",
+    "EN Term": [
+      "recyEDVrAGriFphQH"
+    ],
+    "Questions using this term": [
+      "recMRWW70XfJpEwMU"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "A pool - often called a swimming pool - is a hole in the ground or structure that containts water in which people can swim."
+    ],
+    "Wordcount total": [
+      26
+    ]
+  },
+  {
+    "id": "reck3heztX9statk5",
+    "Term": "পাক্ষিক পর্যালোচনা",
+    "Definition": "পাক্ষিক-পর্যালোচিত জার্নালগুলি এমন প্রকাশনা যেখানে বিজ্ঞানসম্মত অবদানগুলি সম্পর্কিত ক্ষেত্রের বিশেষজ্ঞরা পরীক্ষা করেছেন।\n",
+    "Status": "Published",
+    "EN Term": [
+      "rec8sQHhdcKiEVR9f"
+    ],
+    "Questions using this term": [
+      "rechzr58nRfPRll5y",
+      "rec9znubXIybb1IFx"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "Peer-reviewed journals are publications in which scientific contributions have been vetted by experts in the relevant field."
+    ],
+    "Wordcount total": [
+      18
+    ]
+  },
+  {
+    "id": "rec8iWsAju7J4A8IP",
+    "Term": "ক্যানাবিডিওল",
+    "Definition": "হার্ভার্ড মেডিকেল স্কুল অনুসারে, ভাং (গাঁজা) এর অন্যতম সক্রিয় উপাদান ক্যানাবিডিওল (সিবিডি)। এটি হেম উদ্ভিদ থেকে সরাসরি প্রাপ্ত।\n",
+    "Status": "Published",
+    "EN Term": [
+      "recwkZVfZQxlVPfdW"
+    ],
+    "Questions using this term": [
+      "rec9znubXIybb1IFx"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "According to the Harvard Medical School, cannabidiol (CBD) is one of the main active ingredients of cannabis (marijuana). It is derived directly from the hemp plant.\n"
+    ],
+    "Wordcount total": [
+      27
+    ]
+  },
+  {
+    "id": "recuLOY1MUErgxwcl",
+    "Term": "ব্যাকটেরিয়া",
+    "Definition": "মার্কিন যুক্তরাষ্ট্রের রোগ নিয়ন্ত্রণ কেন্দ্রগুলি অনুসারে, ব্যাকটিরিয়া হ'ল জীবাণু। তারা পরিবেশে এবং আমাদের দেহের অভ্যন্তর এবং বাইরে সমস্ত জায়গায় বাস করে। বেশিরভাগ ব্যাকটিরিয়া নিরীহ এবং এমনকি মানুষের পক্ষে সহায়ক, তবে কিছু স্ট্র্যাপ গথ্রোটের মতো সংক্রমণ ঘটাতে পারে। এই মাইক্রোস্কোপিক জীবগুলি একটি একক কোষ দ্বারা গঠিত এবং কেবল জীবিত জিনিস নয়, বিভিন্ন ধরণের পরিবেশে বেঁচে থাকতে পারে। অ্যান্টিবায়োটিক ওষুধগুলি ব্যাকটেরিয়া হ্রাস করতে ব্যবহার করা যেতে পারে।\n",
+    "Status": "Published",
+    "EN Term": [
+      "recAFuzwLppTBDIPe"
+    ],
+    "Questions using this term": [
+      "recU7SmHjsTAX7QGN"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "According to the U.S. Centers for Disease Control, bacteria are germs. They live in the environment and all over the inside and outside of our bodies. Most bacteria are harmless and even helpful to people, but some can cause infections, like strep throat. These microscopic organisms are made up of one single cell, and can survive in many different types of environments, not just living things. Antibiotic medications can be used to kill bacteria."
+    ],
+    "Wordcount total": [
+      75
+    ]
+  },
+  {
+    "id": "rec45Eflk55v96l50",
+    "Term": "ফেস মাস্ক",
+    "Definition": "ফেস মাস্কগুলি নাক, মুখ এবং চিবুককে ঢাকার জন্য পরিধেয় আচ্ছাদন । মুখোশ স্তরবিশিষ্ট কাপড় বা ফ্যাব্রিক থেকে তৈরি করা যেতে পারে, বা এগুলি মেডিকেল-গ্রেড উপকরণ থেকে তৈরি করা যেতে পারে যা বাতাস থেকে ছোট কণা (ভাইরাস সহ) ফিল্টার করার জন্য নির্দিষ্ট মানদণ্ড পূরণ করে। ফেস মাস্কগুলি পরিধানকারীকে স্বাচ্ছন্দ্যে শ্বাস নিতে দেওয়া উচিত, এবং যখন পরিধানকারী কথা বলছে তখন মুখোশটি যথা স্থানে থাকা উচিত।\n\nমার্কিন যুক্তরাষ্ট্রের রোগ নিয়ন্ত্রণ ও প্রতিরোধ কেন্দ্র (ইউএস সিডিসি) এবং বিশ্ব স্বাস্থ্য সংস্থা (ডাব্লুএইচও) এর নির্দেশনা অনুসারে, ২ বছরের কম বয়সী শিশু এবং শিশুদের; যারা অক্ষম, অজ্ঞান, বা সহায়তা ছাড়াই মুখোশ সরাতে অক্ষম; বা যাদের শ্বাস নিতে সমস্যা হচ্ছে তাদের মাস্ক পরানো উচিত নয়। ইউএস সিডিসি এবং ডাব্লুএইচও উভয়ই তাদের নিজ নিজ ওয়েবসাইটে ফেস মাস্ক সম্পর্কে আরও নির্দেশনা এবং তথ্য সরবরাহ করে এবং নতুন বৈজ্ঞানিক প্রমাণ পাওয়া গেলে তথ্য নিয়মিত আপডেট করা হয়।\n",
+    "Status": "Published",
+    "EN Term": [
+      "reclKahoPRbBLqUKg"
+    ],
+    "Questions using this term": [
+      "recI7zOT1BfOmdOFD"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "Face masks are fitted coverings made to cover the nose, mouth, and chin snugly. Face masks may be made from layered cloth or fabric, or they may be made from medical-grade materials that meet specific criteria for filtering small particles (including viruses) from the air.  Face masks should allow the wearer to breathe comfortably, and the mask should stay in place when the wearer is talking.\n\nAccording to guidance from the US Centers for Disease Control and Prevention (US CDC) and the World Health Organization (WHO), face masks should not be worn by infants and children under the age of 2; those who are incapacitated, unconscious, or unable to remove the mask without assistance; or those who are having trouble breathing. Both the US CDC and WHO provide further guidance and information about face masks on their respective websites, and the information is updated regularly when new scientific evidence is available."
+    ],
+    "Wordcount total": [
+      153
+    ]
+  },
+  {
+    "id": "rec5D05UPKJ0wV8Gr",
+    "Term": "ময়লা পানি",
+    "Definition": "নোংরা পানি (বা বর্জ্য পানি) এমন কোনও পানি যা মানুষের ক্রিয়াকলাপের কারণে দূষিত বা দূষক দ্বারা দূষিত হয়। ঘরবাড়ি, কল-কারখানা বা বাণিজ্যিক সুবিধা, কৃষিকাজ (অর্থাৎ খামার, পশুর খাদ্যস্থল), নর্দমা ব্যবস্থা এবং পৃষ্ঠতল (যেমন রাস্তাগুলি) থেকে বর্জ্য পানি আসে।\n",
+    "Status": "Published",
+    "EN Term": [
+      "recFIn1ipbOFsoZsR"
+    ],
+    "Questions using this term": [
+      "recmFEsPMclSXToz9"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "Waste water (or wastewater) is any water that is contaminated with pollutants or contaminants because of human activity. Waste water comes from homes, factories or commercial facilities, agriculture (i.e. farms, animal feedlots), sewer systems, and surface runoff (i.e. from streets)."
+    ],
+    "Wordcount total": [
+      42
+    ]
+  },
+  {
+    "id": "recy5cP8h8KrCXRvG",
+    "Term": "নর্দমার পানি",
+    "Definition": "নর্দমার পানিতে (সুয়ারেজ, গার্হস্থ্য বর্জ্য পানি, পৌর বর্জ্য পানি নামেও পরিচিত) ঘোলা পানি (অর্থাত ডুবা, বাথটব, ডিশওয়াশার, কাপড় ধোয়ার ওয়াশার), কালো পানি (টয়লেট থেকে পানি), সাবান এবং ডিটারজেন্ট এবং টয়লেট পেপার থাকে। নর্দমার পানি যে বিল্ডিংয়ে উৎপন্ন হয় সেখানে নিরাময় করা যেতে পারে, তবে সাধারণভাবে, নর্দমার পানি একটি বিল্ডিং থেকে বৃহত্তর কমিউনিটি নর্দমা সিস্টেমে ভ্রমণ করে যেখানে একটি নিরাময় সুবিধা পর্যন্ত নিয়ে যাওয়া হয়।\n",
+    "Status": "Published",
+    "EN Term": [
+      "rec8jvvjIb2QmeUrA"
+    ],
+    "Questions using this term": [
+      "recmFEsPMclSXToz9"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "Sewage water (also called sewage, domestic wastewater, municipal wastewater) contains greywater (i.e. water from sinks, bathtubs, dishwashers, clothes washers), blackwater (i.e. water from toilets), soaps and detergents, and toilet paper. Sewage water may be treated in the building where it is generated though, more commonly, sewage water travels from a building into a larger community sewer system where is carried to a treatment facility."
+    ],
+    "Wordcount total": [
+      66
+    ]
+  },
+  {
+    "id": "rec9LEtT7Txzh5C2F",
+    "Term": "কাঁদুনে গ্যাস",
+    "Definition": "কাঁদুনে গ্যাস (টিয়ার গ্যাস) হ'ল একটি রাসায়নিক জ্বালাময় মিশ্রণ যা সাধারণত ভিড় ছত্রভঙ্গ করতে ব্যবহৃত হয়। কাঁদুনে গ্যাসের রাসায়নিকগুলি শ্লেষ্মা ঝিল্লি এবং চোখকে জ্বালাতন করে, যার ফলে প্রায়শই কান্না, কুঁচকানো, কাশি, শ্বাসকষ্ট হওয়া বা ত্বকের জ্বালা হতে থাকে।\n",
+    "Status": "Published",
+    "EN Term": [
+      "recuFmN55qfldR6N8"
+    ],
+    "Questions using this term": [
+      "recWcYfX80eIYWEJt"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "Tear gas is a group of chemical irritants that is often used to disperse crowds. The chemicals in tear gas irritate mucous membranes and the eyes, which often results in tearing, twitching, coughing, difficulty breathing, or skin irritation.\n"
+    ],
+    "Wordcount total": [
+      40
+    ]
+  },
+  {
+    "id": "recJaSNa5PjxPbKpv",
+    "Term": "আয়ুর্বেদ",
+    "Definition": "আয়ুর্বেদ ঐতিহ্যবাহী ঔষধের একটি প্রাচীন ব্যবস্থা, ভারতে এটির ঐতিহাসিক ভিত্তি ৩০০০ বছরের পুরাতন, যা ভেষজ প্রতিকার, বিশেষ খাদ্যাভ্যাস, যোগ এবং ধ্যানের মাধ্যমে মন, শরীর এবং আত্মার মধ্যে ভারসাম্য বাড়ায়। এটি ভারতে সাধারণত অনুশীলিত হয় এবং প্রায়শই এটি মার্কিন যুক্তরাষ্ট্রের পরিপূরক এবং বিকল্প ওষুধ হিসাবে পরিচিত।\n",
+    "Status": "Published",
+    "EN Term": [
+      "rec5OdFSvwX0mLrxy"
+    ],
+    "Questions using this term": [
+      "recfHLfuqC1OkvghP"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "Ayurveda is an ancient system of traditional medicine, with historical roots in India dating back 3000 years, which promotes a balance between mind, body, and spirit through herbal remedies, special diets, yoga and meditation. It is commonly practiced in India, and is frequently referred to as complementary and alternative medicine within the United States."
+    ],
+    "Wordcount total": [
+      55
+    ]
+  },
+  {
+    "id": "recd5grnDYBGugzP5",
+    "Term": "ভেক্টর নিয়ন্ত্রণ",
+    "Definition": "জনস্বাস্থ্যের ক্ষেত্রে, ভেক্টর নিয়ন্ত্রণ এমন পদক্ষেপগুলিকে বোঝায় যেগুলি পোকামাকড় বা অন্যান্য আর্থ্রোপডগুলিকে সীমাবদ্ধ করে বা নির্মূল করে যা রোগ সংক্রমণ করে। ভেক্টর নিয়ন্ত্রণের সর্বাধিক সাধারণ রূপ ম্যালেরিয়া সংক্রমণ রোধ করতে একটি ঘরের অভ্যন্তরে কীটনাশক স্প্রে করা বা মশারী বিতরণ করে মশার নিয়ন্ত্রণ।\n",
+    "Status": "Published",
+    "EN Term": [
+      "recGSLUQITD8EpuHR"
+    ],
+    "Questions using this term": [
+      "recg7KQqUOz6d77te"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "In public health, vector control refers to measures that limit or eradicate insects or other arthropods that transmit diseases. The most common form of vector control is mosquito control through indoor spraying with a residual insecticide or distribution of insecticide-treated bednets to prevent the transmission of malaria."
+    ],
+    "Wordcount total": [
+      49
+    ]
+  },
+  {
+    "id": "recVQx6zmpd7MyntL",
+    "Term": "এক্সপোজার",
+    "Definition": "জনস্বাস্থ্যের পরিভাষায় এক্সপোজার এমন কোনও স্থান বিশেষ যেখানে কোনও অজানা পদার্থের সাথে যোগাযোগ ঘটতে পারে। উদাহরণস্বরূপ, বাড়ির অভ্যন্তরে, লোকেদের উল্লেখযোগ্যভাবে সূর্যের সংস্পর্শে আসার খুব কম সম্ভাবনা রয়েছে তবে তারা যদি কোনও রোদের দিনে বাইরে থাকে তবে লোকেরা সূর্যের আলোর সংস্পর্শে আসবে এবং এইভাবে সূর্যের সংস্পর্শে আসবে। ভাইরাসের ক্ষেত্রে, যদি কেউ কাশি এবং হাঁচি দেওয়া ব্যক্তির সাথে ঘনিষ্ঠ যোগাযোগে থাকে তবে উদাহরণস্বরূপ, তারা ভাইরাসের সংস্পর্শে আসার সম্ভাবনা রয়েছে। এমনকি এক্সপোজারের পরেও, কেউ ভাইরাস থেকে অসুস্থ হতে পারে বা নাও পারে।\n",
+    "Status": "Published",
+    "EN Term": [
+      "recvwSSjn9ohOm9fK"
+    ],
+    "Questions using this term": [
+      "recUw37uD3pe0Q3Lk"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "Exposure in public health terminology describes being in a place where there may be contact with a foreign substance. For example indoors, people have little chance of significant sun exposure, but if they are outdoors on a sunny day, people are likely to come into contact with sunlight and are thus exposed to the sun. With a virus, if someone is in close contact with a person coughing and sneezing, for example, they are likely to have been exposed to the virus.  Even with exposure, however, someone may or may not become ill from the virus. "
+    ],
+    "Wordcount total": [
+      98
+    ]
+  },
+  {
+    "id": "recnuSuL8TmcJn46a",
+    "Term": "অ্যান্টিবডি",
+    "Definition": "একটি নির্দিষ্ট অ্যান্টিজেনের প্রতিক্রিয়া এবং প্রতিক্রিয়া হিসাবে একটি রক্ত প্রোটিন উৎপাদিত হয়। অ্যান্টিবডিগুলি রাসায়নিকভাবে রাসায়নিক পদার্থগুলির সাথে একত্রিত হয় যা শরীর এলিয়েন হিসাবে স্বীকৃতি দেয় যেমন ব্যাকটিরিয়া, ভাইরাস এবং রক্তে অচেনা পদার্থ।\n",
+    "Status": "Published",
+    "EN Term": [
+      "recmajcAORyuqhZPc"
+    ],
+    "Questions using this term": [
+      "recrKoPR2fCKlNoL3",
+      "reci4OWYt0YN1ockY",
+      "reck9dTXXz06jEssE"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "A blood protein produced in response to and counteracting a specific antigen. Antibodies combine chemically with substances which the body recognizes as alien, such as bacteria, viruses, and foreign substances in the blood."
+    ],
+    "Wordcount total": [
+      34
+    ]
+  },
+  {
+    "id": "recp6xh3uoMnn3oIm",
+    "Term": "ভ্যাকসিন",
+    "Definition": "ভ্যাকসিন এমন একটি পণ্য যা শরীরকে ভাইরাস বা ব্যাকটিরিয়া সনাক্ত করতে এবং লড়াই করতে সহায়তা করে। এটি মৃত, প্রভাবিত বা জীবিত অণুজীব দ্বারা তৈরি হতে পারে। বিশ্ব স্বাস্থ্য সংস্থা অনুসারে, \"রোগ প্রতিরোধের সবচেয়ে কার্যকর উপায়ের মধ্যে ভ্যাকসিন একটি\", এবং বর্তমানে, ভ্যাকসিনগুলি২৫টি বিভিন্ন রোগের বিরুদ্ধে সুরক্ষা দিতে সহায়তা করে যদিও এই মুহুর্তে কোভিড -১৯ এর কোনও ভ্যাকসিন নেই।\n",
+    "Status": "Published",
+    "EN Term": [
+      "rec9qqItwSTjq3Eae"
+    ],
+    "Questions using this term": [
+      "recrKoPR2fCKlNoL3"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "A vaccine is a product made to help the body to recognize and fight viruses or bacteria. It may be made of killed, treated, or live microorganisms. According to the World Health Organization, \"vaccination is one of the most effective ways to prevent diseases,\" and, currently, vaccines help protect against 25 different diseases though there is no vaccine for COVID-19 at this time."
+    ],
+    "Wordcount total": [
+      64
+    ]
+  },
+  {
+    "id": "recJFJ4sIbSaHBtFn",
+    "Term": "ক্যাম্পোরা ১ মি.",
+    "Definition": "ক্যাম্পোরা (অন্যান্য নামগুলির মধ্যে একে কর্পোর, আলকানফোর, দারুচিনি কম্পোড়া, কাপুর, লারপুরম ও বলা হয়) সিনামোমম কর্পোর গাছের কাঠ থেকে প্রাপ্ত একটি সংযোজন। রক্তজমা কমাতে এটা ভ্যাপর রাব এ ব্যবহার করা হয় এবং হোমিওপ্যাথিক ওষুধেও এটি ব্যবহৃত হয়।\n\nযদিও কিছু রেফারেন্স থেকে জানা যায় যে ক্যাম্পোরা মৌখিক সর্দি এবং কাশি ওষুধে যুক্ত করা যেতে পারে, অনেকগুলি রেফারেন্স উল্লেখ করে যে, ক্যাম্পোরা মৌখিকভাবে নেওয়া উচিত নয়। ক্যাম্পোরার কিছু গুরুতর পার্শ্ব প্রতিক্রিয়া রয়েছে (যেমন: মুখ বা গলা জ্বলানো, বমি বমিভাব) এবং বিষাক্ততার কারণে খিঁচুনি বা মৃত্যু হতে পারে, বিশেষত ছোট বাচ্চাদের মধ্যে। সঠিকভাবে পাতলা না করে এবং ভাঙা ত্বকে কখনই ক্যাম্পোরা প্রয়োগ করা উচিত নয়।\n",
+    "Status": "Published",
+    "EN Term": [
+      "recXRfJ1kKwVI1gH5"
+    ],
+    "Questions using this term": [
+      "recyCtXut9kruqZxU"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "Camphora (also called camphor, alcanfor, Cinnamomum camphora, kapur, larpuram, among other names) is an additive extracted from the wood of the Cinnamomum Camphora tree. Camphora is commonly used in vapor rub products to help with congestion, and is also used in homeopathic medicine.\n\nThough some references suggest that camphora may be added to oral cold and cough medicines, many references state that camphora should not be taken orally. Camphora has some serious side effects (i.e. burning of the mouth or throat, vomiting), and toxicity may cause seizures or death, especially in young children. Camphora should not be used unless properly diluted and should never be applied to broken skin. "
+    ],
+    "Wordcount total": [
+      111
+    ]
+  },
+  {
+    "id": "recBA98ThNLyOTlQA",
+    "Term": "আর্সেনিক অ্যালবাম  ৩০",
+    "Definition": "আর্সেনিক অ্যালবাম (যাকে আর্সেনিয়াস অক্সাইড, আর্সেনিক ট্রাইঅক্সাইডও বলা হয়) পাচক, কাশি এবং সর্দি-কাশির নিরাময়ের জন্য সাধারণত পাউডার, তরল বা ট্যাবলেট হিসাবে হোমিওপ্যাথিক ওষুধে সাধারণত ব্যবহৃত হয়। আর্সেনিক অ্যালবাম কীভাবে অথবা কখন ব্যবহার করা উচিত তা নির্দেশ করে এমন কোনও বৈজ্ঞানিক নির্দেশিকা নেই ।\n\nহোমিওপ্যাথিক রেফারেন্সে বলা হয়েছে যে, আর্সেনিক অ্যালবাম ন্যূনতম পরিমাণে আর্সেনিক বহন করে, অন্য কয়েকটি রেফারেন্স আর্সেনিক এবং আর্সেনিক অ্যালবামকে আন্তঃবিন্যাস হিসাবে ব্যবহার করে। আর্সেনিক একটি প্রাকৃতিকভাবে তৈরি খনিজ এবং স্বল্প পরিমাণে খাদ্য পণ্যগুলিতে উপস্থিত থাকতে পারে। এটি লক্ষণীয় গুরুত্বপূর্ণ যে, মৌখিকভাবে বা শ্বাস গ্রহণের সময় (ধূলিকণা বা ধোঁয়া দ্বারা) আর্সেনিক বিষাক্ত হিসাবে পরিচিত। দীর্ঘমেয়াদী বা উচ্চ ডোজ এক্সপোজারের কারণে শ্লেষ্মা ঝিল্লির জ্বলন হতে পারে (যেমন নাক, গলা, ফুসফুসের টিস্যু), কিছু ধরণের ক্যান্সারের প্রবণতা বৃদ্ধি পায় এবং মস্তিষ্ক, স্নায়ুতন্ত্র, কিডনি এবং লিভারের সমস্যা হতে পারে।\n",
+    "Status": "Published",
+    "EN Term": [
+      "rec9MiUSM1r2HMDYp"
+    ],
+    "Questions using this term": [
+      "recyCtXut9kruqZxU"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "Arsenic album (also called arsenious oxide, arsenic trioxide) is commonly used in homeopathic medicine as a powder, liquid, or tablet to treat digestive disorders, cough, and cold. There are no scientific guidelines that direct how, if, or when arsenic album should be used.\n\nWhile homeopathic references state that arsenic album contains minimal amounts of arsenic, some other references use arsenic and arsenic album interchangeably. Arsenic is a naturally occurring mineral and can be present in food products in small amounts. It is important to note that arsenic is known to be toxic when taken orally or inhaled (by dust or fumes). Long-term or high dose exposure can cause irritation of mucous membranes (i.e. tissues of the nose, throat, lungs), increased incidence of some types of cancer, and may cause brain, nervous system, kidney, and liver problems."
+    ],
+    "Wordcount total": [
+      138
+    ]
+  },
+  {
+    "id": "recb837bKbk63nmry",
+    "Term": "হোমিওপ্যাথিক",
+    "Definition": "হোমিওপ্যাথি (যাকে হোমিওপ্যাথিক ওষুধও বলা হয়) ২০০ বছরেরও বেশি আগে তৈরি একটি চিকিৎসা ব্যবস্থা। এটি উদ্ভিদ, খনিজ পদার্থ এবং প্রাণীজ থেকে প্রাপ্ত পণ্যগুলি চিকিৎসা সম্পর্কিত সমস্যাগুলি বা চিকিৎসা করার জন্য ব্যবহার করার উপর জোর দেয়। মার্কিন যুক্তরাষ্ট্রে কমপ্লিমেন্টারি এন্ড ইন্টিগ্রেটিভ হেলথ ফর আমেরিকান ন্যাশনাল সেন্টারের মতে, অস্ট্রেলিয়ান সরকারের জাতীয় স্বাস্থ্য ও চিকিৎসা গবেষণা কাউন্সিল কর্তৃক ২০১৫ সালের প্রমাণের একটি বিস্তৃত মূল্যায়ন যা এই সিদ্ধান্তে পৌঁছেছে যে, কোনও স্বাস্থ্যের অবস্থার জন্য হোমিওপ্যাথি কার্যকর এমন কোনও নির্ভরযোগ্য প্রমাণ নেই। হোমিওপ্যাথিক ওষুধগুলি স্বাস্থ্যসেবা সরবরাহকারী দ্বারা সরবরাহ করা যত্নের জায়গায় প্রস্তাবিত নয়।\n\nহোমিওপ্যাথিক পণ্যগুলি অনেক দেশে সামগ্রীর জন্য নিয়ন্ত্রিত হয় না, তাই সক্রিয় এবং নিষ্ক্রিয় উপাদানগুলি পণ্য প্যাকেজে কী রয়েছে তা প্রতিফলিত করতে পারে না এবং কিছু উপাদান বিষাক্ত হতে পারে। হোমিওপ্যাথিক পণ্য এবং অন্যান্য ওষুধের মধ্যে ঘটতে পারে এমন অনেকগুলি বিপজ্জনক পারস্পরিক ক্রিয়া রয়েছে। এছাড়াও, ভারী ধাতু বা অ্যালকোহলযুক্ত হোমিওপ্যাথিক পণ্যগুলিও ক্ষতিকারক হতে পারে।\n",
+    "Status": "Published",
+    "EN Term": [
+      "recW0Z826AuxEWVeS"
+    ],
+    "Questions using this term": [
+      "recyCtXut9kruqZxU"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "Homeopathy (also called homeopathic medicine) is a medical system developed more than 200 years ago. It focuses on using products from plants, minerals, and animals to treat or prevent medical problems. According to the U.S. National Center for Complementary and Integrative Health, a 2015 comprehensive assessment of evidence by the Australian government's National Health and Medical Research Council that concluded that there is no reliable evidence that homeopathy is effective for any health condition. Homeopathic medicines are not recommended in place of care provided by a healthcare provider.\n\nHomeopathic products are not regulated for content in many countries, so active and inactive ingredients may not reflect what is on the product package, and some ingredients may be toxic. There are many possible dangerous interactions that may occur between homeopathic products and other medications. In addition, homeopathic products that contain heavy metals or alcohol may also be harmful."
+    ],
+    "Wordcount total": [
+      147
+    ]
+  },
+  {
+    "id": "rec8LWz8W1IOR3yMa",
+    "Term": "জিন",
+    "Definition": " জিন বংশগত তথ্য ধারণ করে। বংশগত বৈশিষ্ট্যগুলি (উদাহরণ চোখের রং, চুলের রং, রক্তের ধরণ) পিতামাতা থেকে সন্তানের মধ্যে সঞ্চারিত হয় জিনে থাকা বংশগত তথ্যগুলির মাধ্যমে। \n",
+    "Status": "Published",
+    "EN Term": [
+      "rechQcO5gs3FZMcPs"
+    ],
+    "Questions using this term": [
+      "reci4OWYt0YN1ockY"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Genes hold hereditary information. Hereditary traits (i.e. eye color, hair color, blood type) are passed from a parent to a child through the hereditary information in the genes. "
+    ],
+    "Wordcount total": [
+      30
+    ]
+  },
+  {
+    "id": "recxnLbs3RJkqygEO",
+    "Term": "রক্তের ধরণ",
+    "Definition": "রক্তের ধরণ হচ্ছে লোহিত রক্ত কণিকার বৈশিষ্ট্যের উপর ভিত্তি করে একটি শ্রেণীবিভাগ; সবচেয়ে সাধারণ 8 টি রক্তের ধরণ হচ্ছে A+, A-, B+, B-, O+, O-, AB+, AB-. আমেরিকান রেড ক্রস ব্লাড সার্ভিস ডিভিশনের মতে, রক্তের ধরণ নির্ধারণ করা হয় লোহিত রক্ত কণিকার পৃষ্ঠতলের উপরে থাকা দুটি অ্যান্টিজেনের (A এবং/অথবা B) মধ্যে একটি অবস্থিত আছে কি না তার উপর ভিত্তি করে। অ্যান্টিজেনের সঙ্গে থাকা + অথবা – নির্ধারিত হয় Rh ফ্যাক্টর নামক একটি প্রোটিনের উপস্থিতি অথবা অনুপস্থিতির উপর ভিত্তি করে। রক্তের ধরণ জন্মের আগেই নির্ধারিত হয় এবং এটি জিনগত ভাবে পিতামাতা থেকে সন্তানের মধ্যে সঞ্চারিত হয়। \n",
+    "Status": "Published",
+    "EN Term": [
+      "recvEcanaG84OrPm4"
+    ],
+    "Questions using this term": [
+      "reci4OWYt0YN1ockY"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "A blood type is a classification of blood based on characteristics of the red blood cells; the eight most common blood types are A+, A-, B+, B-, O+, O-, AB+, AB-.  According to the American Red Cross Blood Services Division, blood types are determined based on whether or not they have one of two antigens on the surface of red blood cells (A and/or B).  In the absence of either antigen, the blood type is O. In addition to the antigens, the + or - is determined by the presence (+) or absence (-) of a protein called the Rh factor.  Blood type is determined before birth and is genetically passed on from parents to their children."
+    ],
+    "Wordcount total": [
+      122
+    ]
+  },
+  {
+    "id": "recc7GKdZ5qeM5tbO",
+    "Term": "অভিবাসী শ্রমিক",
+    "Definition": "অভিবাসী শ্রমিকরা এমন কর্মী যারা কাজের সন্ধানে তাদের দেশের (এক রাজ্য থেকে অন্য রাজ্যে) যান| এই শ্রমিকদের সাধারণত খুব কম সুবিধা দেওয়া হয় এবং অনিশ্চিত কাজকর্মের পরিস্থিতিতে থাকে। ভারতীয় প্রসঙ্গে, অনেক অভিবাসী শ্রমিক অনানুষ্ঠানিক খাতে কাজ করেন এবং বিহার এবং ঝাড়খণ্ডের মতো রাজ্যগুলি থেকে অস্থায়ীভাবে দিল্লি বা মুম্বাইয়ের মতো গন্তব্য শহরে কাজ করতে যান।\n",
+    "Status": "Published",
+    "EN Term": [
+      "recSMSaoUfxS4ZXWq"
+    ],
+    "Questions using this term": [
+      "recfg6ysauGO98T5N"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "Migrant laborers are workers who move within their country (from one state to another) or outside their country in search of work. In the Indian context, migrant laborers are typically provided very few benefits, and live in precarious working conditions. Many of these Indian migrant laborers work in the informal sector and move temporarily from states such as Bihar and Jharkhand to work in destination cities like Delhi or Mumbai."
+    ],
+    "Wordcount total": [
+      72
+    ]
+  },
+  {
+    "id": "recjYgE06NJ6PohPJ",
+    "Term": "ব্লাইন্ডিং",
+    "Definition": "যখন গবেষণার অংশীদার, যত্ন প্রদানকারী এবং এবং কখনও কখনও গবেষকরা এবং গবেষণা দলের সদস্যদের (যেমন তথ্য বিশ্লেষক, মূল্যায়নকারী, সুপারভাইজার) অধ্যয়নের সময় গবেষণা প্রোটোকলের অংশ হিসাবে তথ্য লুকিয়ে থাকে তাকে ব্লাইন্ডিং নামক শব্দ ব্যবহৃত হয়। ব্লাইন্ডিং সাধারণত এলোমেলোভাবে নিয়ন্ত্রিত পরীক্ষায় ব্যবহৃত হয় যাতে রোগীরা পরীক্ষা চিকিৎসা, প্লাসবো বা মানক চিকিৎসা গ্রহণ করছে কিনা তা অংশগ্রহণকারীরা এবং গবেষকদের অজানা।ব্লাইন্ডিংয়ের উদ্দেশ্য এমন পক্ষপাতদুষ্টতাগুলি হ্রাস করা বা অপসারণ করা যা লোকেরা কীভাবে আচরণ করে, অনুভব করতে পারে বা অধ্যয়নের সময় কী ঘটে তা পর্যবেক্ষণ করতে পারে| অধ্যয়ন শেষ হয়ে গেলে, গবেষণায় অংশ নেওয়া সমস্ত লোক (অংশগ্রহণকারী বা গবেষক হিসাবে) সামনে প্রকাশ করা হয় এবং অধ্যয়নের বিবরণ উপলব্ধ থাকে| লুকানোর জন্য ব্যবহৃত অন্যান্য পদগুলির মধ্যে অন্ধ, বাঁধন বা মুখোশযুক্ত| একটি ক্লিনিকাল গবেষণা পরীক্ষা যা লুকানো হয় না তাকে \"ওপেন ট্রায়াল\" বলা হয়।\n",
+    "Status": "Published",
+    "EN Term": [
+      "reccupU786x3cn86Q"
+    ],
+    "Questions using this term": [
+      "recQj9RB5OqFq0CS5"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "Blinding is a term used when information is hidden from research participants, care providers, and, sometimes, researchers and members of the research team (i.e. data analysts, evaluators, supervisors) as part of the research protocol during the study period. Blinding is commonly used in randomized controlled trials so that participants and researchers are unaware if patients are receiving the test treatment, placebo, or standard treatment. \n\nBlinding aims to reduce or eliminate biases that may impact how people behave, feel, or observe what happens during a study. When the study is finished, all people participating in the study (as participants or researchers) are unblinded and the study details are available.\n\nOther terms used for blinding include blind, blinded, or masked. A clinical research trial that is not blinded is called an \"open trial.\""
+    ],
+    "Wordcount total": [
+      131
+    ]
+  },
+  {
+    "id": "rec3T686s6VDc0pd5",
+    "Term": "র‍্যান্ডমাইজেশন",
+    "Definition": "র‍্যান্ডমাইজেশন একটি কৌশল যা বৈজ্ঞানিক গবেষণায় ব্যবহার করে অংশগ্রহণকারীদের পছন্দ অনুসারে নিয়োগের পরিবর্তে এলোমেলো গ্রুপগুলিতে বিভক্ত করার জন্য ব্যবহৃত হয়। গবেষণায় অন্তর্ভুক্ত হওয়ার জন্য রোগীরা যখন সাধারণ মানদণ্ডগুলি পূরণ করেন, তখন পক্ষপাত কমাতে র‍্যান্ডমাইজেশন করা হয় যাতে গবেষণায় অংশ নেওয়া প্রত্যেকেরই চিকিৎসা (বা পরীক্ষা) গ্রুপ বা একটি নিয়ন্ত্রণ গ্রুপে থাকার সমান সম্ভাবনা থাকে। এটি গবেষকরা উদ্দেশ্যমূলকভাবে এমন কিছু রোগীকে বাছাই করতে বাধা দেয় যাদের গবেষণায় আরও ভাল পারফরম্যান্সের সম্ভাবনা বেশি রয়েছে (অর্থাৎ রোগীরা যারা আরও কম বয়সী বা যারা সাধারণত স্বাস্থ্যবান বলে মনে করেন)।\n",
+    "Status": "Published",
+    "EN Term": [
+      "recPX0N6FB6koiXCL"
+    ],
+    "Questions using this term": [
+      "recQj9RB5OqFq0CS5"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "Randomization is a technique used in scientific research to divide participants into random groups by chance, rather than assigning them by choice. Once patients meet the general criteria to be included in a study, randomization is done to reduce bias so that everyone who participates in the study has an equal chance of being in a treatment (or test) group or a control group. It prevents researchers from purposely selecting certain patients who are more likely to perform better in the study (i.e. patients who are younger or those who seem generally healthier). "
+    ],
+    "Wordcount total": [
+      95
+    ]
+  },
+  {
+    "id": "recLqVyVxkOv8g0ml",
+    "Term": "ডায়াগনস্টিক পরীক্ষা",
+    "Definition": " একটি ডায়াগনস্টিক পরীক্ষা (যাকে সাধারণভাবে চিকিৎসাগত পরীক্ষাও বলা হয়ে থাকে) কোন অসুখের উপস্থিতি নিশ্চিত করতে অথবা নির্দিষ্ট কোন অসুখ (বা অসুস্থতা) থাকা রোগীদের ক্ষেত্রে অসুখের তীব্রতা মূল্যায়ন করতে ব্যবহার করা হয়। ডায়াগনস্টিক পরীক্ষাগুলি ব্যবহার করা হয় চিকিৎসাগত রোগনির্ণয় নিশ্চিত করার জন্য। ডায়াগনস্টিক পরীক্ষাগুলি ব্যবহার করা হয় একটি চিকিৎসাগত রোগনির্ণয় করতে অথবা সেটিকে নিশ্চিত করতে। \n \n বহু ধরণের ডায়াগনস্টিক পরীক্ষা আছে যার অন্তর্গত রক্ত পরীক্ষা, এক্স-রে, টিস্যু বায়োপ্সি, হাড়ের স্ক্যান, এবং আরও অনেক কিছু ব্যবহার করা হয় বিভিন্ন অসুখের রোগনির্ণয় করতে যার অন্তর্গত গর্ভাবস্থা, রক্তাল্পতা, ক্যানসার অথবা সংক্রমণ এবং তার সঙ্গে হৃৎপিণ্ড, দৃষ্টিশক্তি অথবা বৃক্কের সমস্যা। কোভিড-১৯ এর ক্ষেত্রে, ডায়াগনস্টিক পরীক্ষা ব্যবহার করা হয় কোভিড-১৯ রোগনির্ণয় করার জন্য এবং রোগীদের মধ্যে অ্যান্টিবডি আছে কি না দেখার জন্যও পরীক্ষা করা হয় যাতে বোঝা যায় তাদের কখনও কোভিড-১৯ সংক্রমণ হয়েছিল কি না, এমনকি যদি তারা এখন ভালো হয়ে গিয়ে থাকেন তাহলেও। \n \n \n",
+    "Status": "Published",
+    "EN Term": [
+      "recPNexvQiug4RFJu"
+    ],
+    "Questions using this term": [
+      "reck9dTXXz06jEssE"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "A diagnostic test (also commonly called a medical test) is used to confirm the presence of a disease or evaluate the severity of a disease for patients suspected of having a particular disease or condition. Diagnostic tests are used to make or confirm a medical diagnosis.\n\nThere are many different kinds of diagnostic tests, including blood tests, x-rays, tissue biopsies, bone scans, and more that may be used to help diagnose conditions including pregnancy, anemia, cancer, or infections as well as heart, vision, or kidney problems. In the case of COVID-19, there are diagnostic tests used to diagnose patients with COVID-19 and tests that are used to test patients for antibodies, to see if they were previously infected with COVID-19 even if they are now recovered."
+    ],
+    "Wordcount total": [
+      127
+    ]
+  },
+  {
+    "id": "recMryJLmSfGwLtkp",
+    "Term": "প্রোফাইল্যাক্সিস",
+    "Definition": " মার্কিন যুক্তরাষ্ট্রের ন্যাশনাল ইন্সটিটিউট অফ হেলথ অনুসারে, একটি প্রোফাইল্যাক্টিক চিকিৎসাকে ওষুধ অথবা অন্য কোন চিকিৎসার রূপ হিসাবে বর্ণনা করা যায়, যা এমন একজন মানুষের মধ্যে একটি অসুখ তৈরি হওয়া প্রতিরোধ করে যিনি সেই অসুখ হওয়ার ঝুঁকিতে রয়েছেন কিন্তু তার সেই অসুখের কোন পূর্ব ইতিহাস নেই। \n",
+    "Status": "Published",
+    "EN Term": [
+      "recUOHoAQtR97mxFC"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "According to the U.S. National Institutes of Health, a prophylactic treatment can be described as drugs or other forms of treatment used to prevent the development of a disease in a person who is at risk for but with no prior history of the disease."
+    ],
+    "Wordcount total": [
+      46
+    ]
+  },
+  {
+    "id": "recsbnQMUfj0kWopD",
+    "Term": "উন্মুক্ততা-পরবর্তী",
+    "Definition": " উন্মুক্ততা-পরবর্তী বলতে এমন একটি সময়কালকে বোঝানো হয় যেটি কোন একজন ব্যক্তির কোন কিছুতে, সাধারণত কোন অসুখ বা সংক্রমণে, উন্মুক্ত হওয়ার পরবর্তী সময়কাল।\n",
+    "Status": "Published",
+    "EN Term": [
+      "reccE6W6JYLJi0i1n"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Post-exposure refers to the period of time after a person is exposed to something, usually a disease or infection."
+    ],
+    "Wordcount total": [
+      20
+    ]
+  },
+  {
+    "id": "reclzqMNZLEycBshs",
+    "Term": "উন্মুক্ততা-পূর্ব",
+    "Definition": "উন্মুক্ততা-পূর্ব বলতে একটি সময়কালকে বোঝানো হয় যখন একজন ব্যক্তি কোনকিছু, সাধারণত কোন অসুখ বা সংক্রমণে, উন্মুক্ত হন নি। \n",
+    "Status": "Published",
+    "EN Term": [
+      "recZZhsMRrNyDPnjg"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Pre-exposure refers to the period before a person is exposed to something, usually a disease or infection."
+    ],
+    "Wordcount total": [
+      18
+    ]
+  },
+  {
+    "id": "recRVKGmS0J3JQr0n",
+    "Term": "সহানুভূতিশীল ব্যবহার",
+    "Definition": " মার্কিন যুক্তরাষ্ট্র ন্যাশনাল ইন্সটিটিউট অফ হেলথ অনুসারে, সহানুভূতিশীল ব্যবহার – যাকে ‘পরিবর্ধিত উপলব্ধতা’ ও বলা হয় – একজন রোগীকে তদন্তমূলক চিকিৎসা দেওয়ার একটি উপায় যিনি নিদানিক পরীক্ষণে এই চিকিৎসা পাওয়ার যোগ্য হন, কিন্তু যার গুরুতর জীবন-হানিকর অসুখ রয়েছে যার জন্য অন্য কোন চিকিৎসা উপলব্ধ নেই। সহানুভূতিশীল ব্যবহার রোগীদের প্রতিশ্রুতিময় কিন্তু এখনও পর্যন্ত সম্পূর্ণ অধ্যয়ন করা বা অনুমোদিত ক্যানসারের চিকিৎসা প্রদান করে যেখানে আর কোন চিকিৎসার বিকল্প বিদ্যমান নেই। এটিকে পরিবর্ধিত উপলব্ধতাও বলা হয়।\n",
+    "Status": "Published",
+    "EN Term": [
+      "recsuWy4EfRZwvcmh"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "According to the U.S. National Institutes of Health, compassionate use - also called 'expanded access' - is a way to provide an investigational therapy to a patient who is not eligible to receive that therapy in a clinical trial, but who has a serious or life-threatening illness for which other treatments are not available. Compassionate use allows patients to receive promising but not yet fully studied or approved cancer therapies when no other treatment option exists. Also called expanded access."
+    ],
+    "Wordcount total": [
+      82
+    ]
+  },
+  {
+    "id": "rec5yVfC98zikfUJf",
+    "Term": "সহায়ক যত্ন",
+    "Definition": " সহায়ক যত্ন একটি চিকিৎসাগত যত্ন যেখানে অসুখের উপসর্গগুলির চিকিৎসা করা হয় (যেমন জ্বর, শ্বাসকষ্ট, পেট খারাপ) যে অসুখ অথবা অসুস্থতার কারণে এই উপসর্গগুলি দেখা দিচ্ছে সেটিকে না সারিয়ে। সহায়ক যত্নের অন্তর্গত ওষুধ, শ্বাসের চিকিৎসা, শারীরিক চিকিৎসা, মনঃসমীক্ষণ, অথবা অন্যান্য চিকিৎসা। সহায়ক চিকিৎসা হাসপাতাল, ক্লিনিক, অথবা বাড়িতে প্রদান করা যেতে পারে। \n",
+    "Status": "Published",
+    "EN Term": [
+      "recde2XyBQC0lDace"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Supportive care is medical care that treats symptoms of illness (i.e. fever, breathing problems, diarrhea) without treating or curing the disease or illness that is causing the symptoms. Supportive care may include medications, breathing treatments, physical therapy, psychotherapy, or other treatments.  Supportive therapy may be provided in the hospital, clinic, or at home."
+    ],
+    "Wordcount total": [
+      56
+    ]
+  },
+  {
+    "id": "recdGA16JGqMIWAS0",
+    "Term": "N95 মাস্ক",
+    "Definition": " N95 মাস্কগুলি (অথবা N95 রেস্পিরেটরগুলি) হল বিশেষ ধরণের মাস্ক যা পরিধানকারীকে অতিক্ষুদ্র বায়ুবাহিত কণাগুলি শ্বাসের মাধ্যমে নেওয়া থেকে রক্ষা করে। এগুলিকে নিয়ন্ত্রণ করা হয় যাতে নিশ্চিত করা যায় যে এগুলি নিরাপত্তার কঠোর মান পূরণ করছে। মার্কিন যুক্তরাষ্ট্রে N95 মাস্ক যে প্রয়োজনীয়তাগুলি পূরণ করে সেই একই প্রয়োজনীয়তা পূরণ করা মাস্কের ক্ষেত্রে অন্যান্য দেশ আলাদা আলাদা কোড ব্যবহার করে; অন্যান্য N95-ধরণের মাস্কের কিছু উদাহরণের অন্তর্গত হল চিনে KN95 এবং ইউরোপিয়ান দেশগুলিতে FFP2।\n \n মার্কিন যুক্তরাষ্ট্রের সেন্টার ফর ডিজিজ কন্ট্রোল অ্যান্ড প্রিভেনশন জানিয়েছে যে কোভিড-১৯ প্রতিরোধ করার জন্য সাধারণ মানুষের N95 মাস্ক ব্যবহার করা উচিৎ নয় কারণ N95 মাস্ক স্বাস্থ্যকর্মীদের এবং প্রাথমিক স্বাস্থ্য পরিষেবা প্রদানকারীদের জন্য সংরক্ষিত রাখা উচিৎ।\n \n",
+    "Status": "Published",
+    "EN Term": [
+      "recCEG85awzcotyRi"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "N95 masks (or N95 respirators) are special masks that protect the wearer from breathing in very small airborne particles. They are regulated to ensure that they meet strict standards for safety. Other countries use other codes for masks that meet the same requirements as N95 masks in the U.S.; some examples of other N95-type masks include the KN95 in China and FFP2 in European countries.\n\nThe U.S. Centers for Disease Control and Prevention has stated the N95 masks should not be used by the general public to prevent themselves from COVID-19 because N95 masks should be reserved for health care workers and medical first responders."
+    ],
+    "Wordcount total": [
+      106
+    ]
+  },
+  {
+    "id": "recj8jHpRnnotJrSM",
+    "Term": "পার্শ্ব প্রতিক্রিয়া",
+    "Definition": " একটি পার্শ্ব প্রতিক্রিয়া হচ্ছে একটি উপসর্গ (সাধারণত অনাকাঙ্ক্ষিত) যা এমন কোন ওষুধ অথবা চিকিৎসার ফলে দেখা দিয়েছে যা ব্যবহার করে কোন অসুখের চিকিৎসা করা হচ্ছে। চিকিৎসা তথা রোগীর বয়স, লিঙ্গ, সাধারণ স্বাস্থ্য, অন্যান্য অসুখ এবং ওষুধপত্র, ওজন, অথবা জাতিগত উৎসের উপর ভিত্তি করে পার্শ্ব প্রতিক্রিয়া পরিবর্তিত হয়। বেশীরভাগ ক্ষেত্রেই পার্শ্ব প্রতিক্রিয়া সামান্য এবং সাময়িক, কিন্তু, কিছু ক্ষেত্রে পার্শ্ব প্রতিক্রিয়া গুরুতর হতে পারে এবং চিরস্থায়ী বিকলত্ব সৃষ্টি করতে পারে। পার্শ্ব প্রতিক্রিয়াকে গৌণ প্রভাবও বলা যেতে পারে।\n",
+    "Status": "Published",
+    "EN Term": [
+      "recpDS35Y5vAuQ7Oa"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "A side effect is a symptom (usually undesirable) that is caused by a medication or therapy that is being used to treat an illness. Side effects vary depending upon the therapy as well as the patient's age, gender, general health, other illnesses or medications, weight, or ethnicity. Often side effects are both minor and temporary, but, in some instances, side effects can be severe and result in permanent disability. A side effect also may be called a side reaction or secondary effect."
+    ],
+    "Wordcount total": [
+      84
+    ]
+  },
+  {
+    "id": "recNIR9B7xiFWeGho",
+    "Term": "প্রকল্প",
+    "Definition": " জ্ঞাত তথ্য এবং পর্যবেক্ষণের উপর ভিত্তি করে কোন একটি ধারনা অথবা পূর্বাভাষকে বলা হয় প্রকল্প। একবার একটি প্রকল্প তৈরি করলে, কোন একটি প্রদত্ত পরিস্থিতিতে সেই ধারনাটি সঠিক, আংশিকভাবে সঠিক, নাকি ভুল তা নির্ধারণ করার জন্য বৈজ্ঞানিক পদ্ধতিগুলি দ্বারা সেটির আরও পরীক্ষা করা হয়। একটি প্রকল্পকে শিক্ষিত অনুমান, প্রস্তাব, পূর্বাভাষ, বা অস্থায়ী ব্যাখ্যাও বলা হয়ে থাকে। \n",
+    "Status": "Published",
+    "EN Term": [
+      "rec4gz4UIxctLqy94"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "A hypothesis is an idea or prediction based on known facts or observations. Once a hypothesis has been made, it is then further tested using scientific processes to determine if the idea is correct, partially correct, or incorrect in the given situation. A hypothesis may also be described as an educated guess, proposition, prediction, or tentative explanation."
+    ],
+    "Wordcount total": [
+      58
+    ]
+  },
+  {
+    "id": "rec6OYhOq7ss5nEZZ",
+    "Term": "উপসর্গ-পূর্ব",
+    "Definition": " উপসর্গ-পূর্ব সংক্রমণ ঘটে যখন যখন কোন একজন মানুষ একটি অসুখে সংক্রামিত কিন্তু এখনও পর্যন্ত কোন উপসর্গ দেখা দেয়নি।\n",
+    "Status": "Published",
+    "Internal Invoicing Notes for LocLab": "August Invoice"
+  },
+  {
+    "id": "rec905cSE6FKbJ69K",
+    "Term": "চিকিৎসা",
+    "Definition": " স্বাস্থ্যসেবার ক্ষেত্রে, চিকিৎসা হচ্ছে একটি পদ্ধতি যা একটি বিশেষ অসুখ প্রতিরোধ, চিকিৎসা, বা নিরাময় করার জন্য ব্যবহার করা হয়। চিকিৎসার অন্তর্গত বিভিন্ন পদ্ধতি যেমন ওষুধ, অস্ত্রোপচার, মনঃসমীক্ষণ, শারীরিক চিকিৎসা, শ্বাসযন্ত্র, এবং সুস্বাস্থ্যকর খাদ্য এবং জীবনযাত্রার অভ্যাস।\n",
+    "Status": "Published",
+    "EN Term": [
+      "recRog4Fq88ayf62O"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "In healthcare, a treatment is a therapy that is used to prevent, treat, or cure a particular condition. Treatments include therapies like medications, surgery, psychotherapy, physical therapy, breathing aids, and promotion of healthy diet and lifestyle habits."
+    ],
+    "Wordcount total": [
+      38
+    ]
+  },
+  {
+    "id": "recUNK7Ktf9I4lEMJ",
+    "Term": "ওষুধ",
+    "Definition": " ওষুধ এমন একটি বস্তু অথবা চিকিৎসা যা কোন অসুখ, আঘাত, অথবা অসুস্থতার চিকিৎসা করার জন্য ব্যবহার করা হয়। বেশীরভাগ ক্ষেত্রে ওষুধ বলতে আমরা বুঝি তরল অথবা বড়ি যা চিকিৎসার জন্য প্রেস্ক্রাইব করা হয়, যদিও অন্যান্য রূপেও ওষুধ পাওয়া যায় (উদাহরণ শ্বাসের মাধ্যমে নেওয়া, শিরার মধ্যে দেওয়া, এবং ত্বকের উপর ব্যবহারের ক্রিম)। ওষুধের সাধারণত অন্যান্য ব্যবহৃত নামগুলি হল ঔষধ, ফার্মাসিউটিক্যাল, প্রতিকার, এবং ড্রাগ। \n \n ওষুধের অনুশীলন বলতে বিস্তৃতভাবে সংজ্ঞায়িত করা হয় সেই কলা এবং বিজ্ঞানকে যা সুস্বাস্থ্য বজায় রাখে এবং তার উন্নতিসাধন করে, অসুখ রোধ করে এবং সেগুলিকে নিরাময় করে।\n \n",
+    "Status": "Published",
+    "EN Term": [
+      "recOLVaA8YtoF3ofN"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "A medicine is a substance or therapy used to treat an illness, injury, or medical condition. Medicines are often thought of as liquids or pills that are prescribed as treatment, though medicines may also be prescribed in other forms (i.e. inhaled, intravenous, topical creams). The words medication, pharmaceutical, remedy, and drug are commonly used in the same way as the word medicine.\n\nThe practice of medicine is broadly defined as the art and science of maintaining and promoting health, and preventing and curing disease."
+    ],
+    "Wordcount total": [
+      84
+    ]
+  },
+  {
+    "id": "recFvgwqnTGFSdwmq",
+    "Term": "পরীক্ষামূলক চিকিৎসা ",
+    "Definition": " একটি অনুসন্ধানমূলক চিকিৎসা হচ্ছে এমন একটি ওষুধ বা চিকিৎসা যা কোন একটি বিশেষ অসুখ বা অসুস্থতার বিরুদ্ধে কার্যকরী কি না তা মূল্যায়ন করার জন্য পরীক্ষা করা হচ্ছে। অনুসন্ধানমূলক চিকিৎসা হতে পারে এমন বিদ্যমান কোন ওষুধ বা চিকিৎসা যা কোন একটি অসুখের চিকিৎসার ক্ষেত্রে কাজ করে বলে জ্ঞাত এবং অন্য একটি অসুখের চিকিৎসায় কার্যকরী হবে কি না তার জন্য পরীক্ষিত হচ্ছে (উদাহরণ যখন একটি নতুন ভাইরাসের চিকিৎসা করার জন্য অ্যান্টিভাইরাল ওষুধ ব্যবহার করা হয়, শুরুর দিকের চিকিৎসাগুলিকে অনুসন্ধানমূলক বিবেচনা করা হয় কারণ এই ওষুধ কাজ করবে কি করবে না তা স্পষ্ট নয়)। অনুসন্ধানমূলক চিকিৎসা নতুন ওষুধ বা চিকিৎসাও হতে পারে যা এর আগে কখনও ব্যবহার করা হয়নি। অনুসন্ধানমূলক চিকিৎসা নির্দিষ্ট কোন অসুখের চিকিৎসা করতে পারবে কি না তা জানার সঙ্গে, এই অনুসন্ধান প্রক্রিয়ার মাধ্যমে সম্ভাব্য পার্শ্ব প্রতিক্রিয়ার জন্যেও এই চিকিৎসাগুলির মূল্যায়ন করা যায়। \n",
+    "Status": "Published",
+    "EN Term": [
+      "rec3XmnugOMexQiQA"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "An experimental treatment is a medication or therapy that is being tested to evaluate if it is effective against an illness or medical condition. Experimental treatments may be existing medications or therapies that are known to work in treating one illness that are tried as a treatment for another illness (i.e. when an antiviral medication is used to treat a new virus, early treatments are considered experimental because it is unclear as to whether or not the medication will work). Experimental treatments may also be new medications or treatments that have not been used before. In addition to learning whether experimental treatments treat particular illnesses, the experimental process evaluates the therapies for possible side effects."
+    ],
+    "Wordcount total": [
+      117
+    ]
+  },
+  {
+    "id": "recXP26iIkX1yMcrN",
+    "Term": "ভেন্টিলেটর",
+    "Definition": " একটি ভেন্টিলেটর এমন একটি মেশিন যা যান্ত্রিকভাবে এমন রোগীর ফুসফুসের মধ্যে হাওয়া ভরতে পারে অথবা ফুসফুস থেকে হাওয়া বের করে আনতে পারে যাদের স্বাভাবিকভাবে শ্বাস নিতে অসুবিধা হচ্ছে। \n",
+    "Status": "Published",
+    "EN Term": [
+      "recb7T7hH9zHd3k1R"
+    ],
+    "Questions using this term": [
+      "recPmWkFrYYfRKJSi"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "A ventilator is a machine that mechanically moves air into and out of the lungs of a patient who faces difficulty in breathing."
+    ],
+    "Wordcount total": [
+      24
+    ]
+  },
+  {
+    "id": "recjDAlm9kkS3AGoP",
+    "Term": "পরিপূরক অক্সিজেন",
+    "Definition": " পরিপূরক অক্সিজেন বলতে বোঝায় শ্বাসকষ্ট আছে এমন মানুষের ক্ষেত্রে অক্সিজেনের ব্যবস্থা করা। অক্সিজেন জমা রাখার একটি ট্যাঙ্ক এবং একটি মেশিন যাকে বলা হয় কম্প্রেসর তা বেশীরভাগ ক্ষেত্রেই এই প্রক্রিয়ার অংশ হিসাবে ব্যবহার করা হয়, এবং এটি সাধারণত সেই সমস্ত কোভিড-১৯ রোগীদের জন্য ব্যবহার করা হয় যাদের শ্বাসের সমস্যা আছে। \n",
+    "Status": "Published",
+    "EN Term": [
+      "recROlYn1QcWitPtM"
+    ],
+    "Questions using this term": [
+      "recPmWkFrYYfRKJSi"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Supplemental oxygen refers to the provision of oxygen to people with breathing difficulties. A storage tank of oxygen or a machine called a compressor is often used as part of this process, and it is commonly used for patients experiencing difficulty breathing due to COVID-19."
+    ],
+    "Wordcount total": [
+      47
+    ]
+  },
+  {
+    "id": "rec9gw0Um8zzBKmoK",
+    "Term": "যথেচ্ছকৃত নিয়ন্ত্রিত পরীক্ষণগুলি",
+    "Definition": " একটি যথেচ্ছকৃত নিয়ন্ত্রিত পরীক্ষণ (RCT) এক ধরণের বৈজ্ঞানিক পরীক্ষা যা একটি নতুন চিকিৎসার কার্যকারিতা পরীক্ষার সময় পক্ষপাতিত্বের নির্দিষ্ট কিছু উৎস হ্রাস করার লক্ষ্যে পরিচালনা করা হয়। এই ধরণের অধ্যয়নগুলিতে, মানুষকে যথেচ্ছকৃতভাবে (শুধুমাত্র দৈবক্রমে) কোন একটি দলে একটি চিকিৎসা প্রাপ্ত করার জন্য নির্ধারণ করা হয়। একটি দল –অনুসন্ধানমূলক দল – যারা মূল্যায়ন করা হচ্ছে এমন চিকিৎসা পায়, অন্যদিকে অন্য দলটি—সাধারণত নিয়ন্ত্রণ দল বলা হয়—তারা একটি বিকল্প চিকিৎসা পায়, যেমন প্রমাণ মানের চিকিৎসা , একটি প্লাসিবো (\"চিনির বড়ি \"), অথবা একদমই কোন চিকিৎসা নয়। দলগুলিকে পরীক্ষণের নকশার অধীনে অনুসরণ করা হয় এবং ফলাফলগুলিকে তুলনা করে দেখা হয় অনুসন্ধানমূলক চিকিৎসা নিয়ন্ত্রণ দলের তুলনায় কতখানি কার্যকরী।\n",
+    "Status": "Published",
+    "EN Term": [
+      "recjILnexcCRlyBIb"
+    ],
+    "Questions using this term": [
+      "recPmWkFrYYfRKJSi"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "A randomized controlled trial (RCT) is a type of scientific experiment that aims to reduce certain sources of bias when testing the effectiveness of new treatments. In these studies, people are randomly (by chance alone) assigned to a group to receive an intervention. One group—the experimental group—receives the intervention being assessed, while the other—usually called the control group—has an alternative intervention, such as the standard medical treatment, a placebo (\"sugar pill\") or no intervention at all. The groups are followed under conditions of the trial design and outcomes are compared to see how effective the experimental intervention was in comparison to the control."
+    ],
+    "Wordcount total": [
+      102
+    ]
+  },
+  {
+    "id": "recVzww9POtFxBolp",
+    "Term": "জুনোটিক সংক্রমণ",
+    "Definition": "জুনোটোটিক সংক্রমণ হ'ল প্রযুক্তিগত শব্দ যা রোগ (যেমন ভাইরাস, ব্যাকটিরিয়া, ছত্রাক, পরজীবী এবং অন্যান্য) প্রাণীগুলি (পোষা প্রাণী, বন্য বা গৃহপালিত প্রাণী) থেকে মানুষের মধ্যে নিম্নলিখিত বা একাধিক রুটের মাধ্যমে ছড়িয়ে যাওয়ার বর্ণনা দেয়:\n\\- সরাসরি যোগাযোগ: পশুর রক্ত, লালা, মূত্র, মল বা শরীরের তরলের সাথে যোগাযোগ|\n\\- পরোক্ষ যোগাযোগ: প্রাণী যেখানে বাস করে যেমন- খামার, অ্যাকোয়ারিয়াম এর পানি , মাটি সহ ইত্যাদির সাথে যোগাযোগ|\n\\- ভেক্টর-বাহিত: প্রাণী এবং মানুষের মধ্যে রোগ ছড়ায় এমন একটি পোকা, মাছি বা মশার কামড়|\n\\- খাদ্যজনিত: রান্না করা মাংস বা ডিম, কাঁচা দুধের মতো দূষিত খাবার খাওয়া বা আক্রান্ত প্রাণীর মলের দ্বারা দূষিত ফল / সবজি খাওয়া|\n\\- জলবাহিত: সংক্রামিত প্রাণীর মল দ্বারা দূষিত পানির সংস্পর্শে আসা বা পান করা| একবার মানুষ সংক্রামিত হয়ে গেলে কিছু কিছু রোগ জনে জনে ছড়িয়ে যেতে পারে।\n",
+    "Status": "Published",
+    "EN Term": [
+      "reclGZpfnO5BRIJdt"
+    ],
+    "Questions using this term": [
+      "rec3m61JgaMh3T8qJ"
+    ],
+    "Internal Invoicing Notes for LocLab": "July Invoice",
+    "EN Definition": [
+      "Zoonotic transmission is the technical term that describes the spread of diseases (i.e. viruses, bacteria, fungi, parasites and others) from animals (pets, wild, or domestic animals) to humans, through one or more of the following routes:\n- Direct contact: contact with the animal's blood, saliva, urine, feces or body fluids\n- Indirect contact: contact with where the animal lives including barns, aquarium water, soil \n- Vector-borne: being bitten by a tick, flea, or mosquito that spreads the disease between animals and humans\n- Foodborne: eating contaminated foods like uncooked meat or eggs, raw milk, or eating fruits/vegetables contaminated with feces from an infected animal\n- Waterborne: drinking or coming into contact with water contaminated with feces from an infected animal\nOnce a human is infected, some diseases can then be spread from person to person."
+    ],
+    "Wordcount total": [
+      132
+    ]
+  },
+  {
+    "id": "recWq7ColIowNPNLy",
+    "Term": "ক্লোরিন ডাইঅক্সাইড",
+    "Definition": " ক্লোরিন ডাইঅক্সাইড মানুষের তৈরি করা একটি গ্যাস যা প্রকৃতিতে স্বাভাবিকভাবে পাওয়া যায়না এবং এটি চোখ, নাক, গলা, এবং ফুসফুসের জ্বালা সৃষ্টি করে। বহু শিল্পে এটির ব্যবহার আছে (যার অন্তর্গত ডিসইনফেকট্যান্ট হিসাবে ব্যবহার করা) এবং এটিকে নিয়ন্ত্রিত পরিমাণে নির্দিষ্ট কিছু চিকিৎসাগত ক্ষেত্রে, চাষবাস, খাদ্য প্রক্রিয়াকরণ, কাগজ তৈরি, পরিষ্কার করতে এবং জল পরিশোধন করতে ব্যবহার করা হয়।। ক্লোরিন ডাইঅক্সাইড একটি সহজদাহ্য বস্তু যা দীর্ঘসময় ধরে উচ্চ মাত্রায় সংস্পর্শে এলে প্রাণঘাতী হতে পারে। \n",
+    "Status": "Published",
+    "EN Term": [
+      "rec1XtRl9QPx5zxBQ"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Chlorine dioxide is a man made gas that does not occur naturally in the environment and is irritating to the eyes, nose, throat, and lungs. It has many industrial uses (including as a disinfectant) and is used in controlled quantities as a commercial chemical for certain medical treatments, agriculture, food processing, paper making, cleaning, and water treatment. Chloride dioxide is flammable and may be fatal with long-term or high-dose exposure. "
+    ],
+    "Wordcount total": [
+      73
+    ]
+  },
+  {
+    "id": "reckV7eKDeGJqP7y2",
+    "Term": "মানব চ্যালেঞ্জ পরীক্ষণ",
+    "Definition": " মানব চ্যালেঞ্জ পরীক্ষণ এক ধরণের চিকিৎসাগত গবেষণা অধ্যয়ন যা এটি নির্ধারণ করতে সাহায্য করে যে একটি প্রতিষেধক কোন একটি নির্দিষ্ট প্যাথোজেনের (উদাহরণ ভাইরাস) বিরুদ্ধে কোন একটি অসুখ আটকাতে কার্যকরী কি না। একজন স্বেচ্ছাসেবী প্রতিষেধক পাবেন এবং, আগত সপ্তাহগুলিতে, ঐ স্বেচ্ছাসেবী ইচ্ছাকৃতভাবে উক্ত প্যাথোজেন (উদাহরণ ভাইরাস) এর সংস্পর্শে আসবেন এটি দেখার জন্য যে ভ্যাক্সিনটি সংক্রমণ এড়াতে সাহায্য করে কি না।\n",
+    "Status": "Published",
+    "EN Term": [
+      "rec5P1moAv3DjPkbT"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "A human challenge trial is a type of medical research study that helps to determine if a vaccine is effective in preventing illness against a particular pathogen (i.e. virus). A volunteer receives the vaccine and, in the weeks following, the volunteer is intentionally exposed to the pathogen (i.e. virus) to see if the vaccine works to prevent infection."
+    ],
+    "Wordcount total": [
+      61
+    ]
+  },
+  {
+    "id": "rec0oqg0DY2FID1if",
+    "Term": "নির্দিষ্টটা",
+    "Definition": " নির্দিষ্টতা একটি স্ট্যাটিস্টিক্যাল পরিভাষা যা অসুখ না থাকা মানুষের সংখ্যা বর্ণনা করে যাদেরকে সঠিকভাবে কোন অসুখ নেই বলে চিহ্নিত করা গেছে। উচ্চ নির্দিষ্টতা থাকা একটি পরীক্ষা খুব বিরলক্ষেত্রে ইতিবাচক পরীক্ষার ফলাফল দেয় সুস্থ রোগীদের ক্ষেত্রে, তাই ইতিবাচক পরীক্ষার ফলাফল এর অর্থ হবে যে সম্ভবত কারো অসুখ রয়েছে।\n \n উদাহরণ, যদি 100 জন রোগীর কোন একটি অসুখ নেই বলে জানা থাকে এবং তাদের সবাইকে পরীক্ষা করা হয়, 100% নির্দিষ্টতা যুক্ত একটি পরীক্ষা 0 ইতিবাচক পরীক্ষার ফলাফল দেখাবে। একই দল ব্যবহার করে, শুধুমাত্র 80% নির্দিষ্টতা সহ একটি পরীক্ষা 80 টি নেতিবাচক পরীক্ষার ফলাফল (এবং 20 টি ইতিবাচক ফলাফল) দেখাবে এমনকি যদি 100 জন মানুষের এই অসুখ নাও থাকে।\n \n নির্দিষ্টতা কে আরও সাধারণভাবে বলা হয় \"প্রকৃত নেতিবাচকতার হার।\"\n \n",
+    "Status": "Published",
+    "EN Term": [
+      "recc8ZAXzbbMiYc51"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Specificity is a statistical term that describes the number of people without an illness that are correctly identified as NOT having the illness. A test with high specificity rarely gives positive test results in healthy patients, so a positive test result means that it is likely that someone has the illness.\n\nFor example, if 100 people are known NOT to have an illness and all are tested, a test with 100% specificity would show 0 positive test results. Using the same group, a test with only 80% specificity would have 80 negative test results (and 20 positive results) even though all 100 people do NOT have the illness.\n\nSpecificity is is also commonly called the \"true negative rate.\""
+    ],
+    "Wordcount total": [
+      117
+    ]
+  },
+  {
+    "id": "recru5cJW0eThMwuv",
+    "Term": "সংবেদনশীলতা",
+    "Definition": " জন স্বাস্থ্য পরিভাষা অনুযায়ী সংবেদনশীলতা একটি স্ট্যাটিস্টিক্যাল পরিভাষা যা বর্ণনা করে কতজন মানুষের একটি নির্দিষ্ট অসুখ আছে এবং যাদের যথাযথভাবে এই অসুখ আছে বলে চিহ্নিত করা গেছে। এটি বেশীরভাগ ক্ষেত্রে ব্যবহার করা হয় বর্ণনা করার জন্য যে একটি রোগনির্ণয় করার জন্য একটি চিকিৎসাগত পরীক্ষা কতখানি ভরসার যোগ্য, এটি নিশ্চিত করার মাধ্যমে যে যতখানি সম্ভব কম সংখ্যক ভুল নেতিবাচক (যে সমস্ত মানুষের অসুখ রয়েছে কিন্তু যাদের পরীক্ষার ফলাফল নেতিবাচক আসে) পাওয়া যায়।\n \n উদাহরণ, যদি ১০০ জন মানুষের অসুখ পরীক্ষা করা হয় এবং পরীক্ষার সংবেদনশীলতা ১০০% হয় তাহলে ১০০ টি ইতিবাচক পরীক্ষার ফলাফল দেখা যাবে। একই দল ব্যবহার করে, অনেক কম সংবেদনশীল পরীক্ষা করলে হয়তো ৮০ টি ইতিবাচক পরীক্ষার ফলাফল এবং ২০ জন মানুষ ভুল নেতিবাচক ফলাফল পাবেন যদিও তাদের সত্যই সেই অসুখ আছে। \n \n সংবেদনশীলতাকে সাধারণভাবে “প্রকৃত ইতিবাচকতার হার” \"প্রত্যাহার,\" \"মহামারী সংক্রান্ত সংবেদনশীলতা,\" \"নিদানিক সংবেদনশীলতা,\" অথবা \"রোগ নির্ণয়ের সম্ভাবনা\" বলা হয়।\n \n",
+    "Status": "Published",
+    "EN Term": [
+      "rec06X4QusZL1zCzd"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Sensitivity in public health terminology is a statistical term that describes the number of people who have a particular illness and are correctly identified as having that illness. It is often used to describe how reliable a medical test is for making a diagnosis, by making sure that there are as few false negatives (people who have the illness but receive a negative test result) as possible. \n\nFor example, if 100 people with an illness are tested, a test with 100% sensitivity would show 100 positive test results. Using the same group, a test with lower sensitivity could have 80 positive test results and 20 people would receive false negative results even though they do indeed have the illness.\n\nSensitivity is also commonly called the \"true positive rate,\" \"recall,\" \"epidemiological sensitivity,\" \"clinical sensitivity,\" or \"probability of detection.\""
+    ],
+    "Wordcount total": [
+      137
+    ]
+  },
+  {
+    "id": "rec6TeRATw1gRQVoB",
+    "Term": "অঙ্গ",
+    "Definition": " একটি অঙ্গ হচ্ছে শরীরের এমন একটি অংশ যার একটি নির্দিষ্ট গঠন, কার্যকারিতা, এবং কোষের ধরণ আছে। মানব শরীরে অঙ্গের অন্তর্গত কিন্তু সীমিত নয়, হৃৎপিণ্ড, যকৃত, পাকস্থলী, মস্তিষ্ক, বৃক্ক, এবং ফুসফুস। মানব শরীরে অঙ্গগুলি তন্ত্রের অন্তর্গত। উদাহরণ, পাচনতন্ত্রের অন্তর্গত পাকস্থলী এবং তার সঙ্গে খাদ্যনালী ও অন্ত্র; সংবহনতন্ত্রের অন্তর্গত উভয় হৃৎপিণ্ড এবং রক্তনালিকাগুলি যার মাধ্যমে সারা শরীরে রক্ত পরিবাহিত হয়। মোট ১০ টি তন্ত্র দেখা যায় এগুলির অন্তর্গত নিম্নলিখিত: আচ্ছাদন তন্ত্র (ত্বক), অস্থিতন্ত্র(হাড়), পেশীতন্ত্র (পেশী), স্নায়ুতন্ত্র (স্নায়ু), অন্তঃস্রাবী (হরমোনাল), পাচনতন্ত্র, শ্বাসতন্ত্র (শ্বাস নেওয়া), সংবহনতন্ত্র, রেচনতন্ত্র (মূত্র, বর্জ্য), এবং জননতন্ত্র।\n",
+    "Status": "Published",
+    "EN Term": [
+      "recqwr4O57SOjNZYx"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "An organ is a body part with a specific structure, function, and cell type. Organs in the human body include, but are not limited to, the heart, liver, stomach, brain, kidneys, and lungs. Organs in the human body are part of organ systems. For example, the digestive system includes the stomach in addition to the esophagus and intestines; the circulatory system includes both the heart and blood vessels that circulate blood throughout the body. There are 10 organic systems in total including the following: integumentary (skin), skeletal (bones), muscular (muscles), nervous (nerves), endocrine (hormonal), digestive, respiratory (breathing), circulatory, excretory (urine, waste), and reproductive."
+    ],
+    "Wordcount total": [
+      104
+    ]
+  },
+  {
+    "id": "recXNOTZgCY8cskB9",
+    "Term": "রক্তবাহী নালিকা",
+    "Definition": " রক্ত নালিকাগুলি বিভিন্ন আলাদা মাপের টিউব যা আমাদের সারা শরীরের মধ্যে উপস্থিত থাকে। বড় রক্ত নালিকাগুলি শরীরের অন্যান্য অংশ থেকে হৃৎপিণ্ডে রক্ত নিয়ে যায় (শিরা) অথবা হৃৎপিণ্ড থেকে শরীরের অন্যান্য অংশে রক্ত নিয়ে যায় (ধমনী)। বড় রক্ত নালিকা শরীরে ছোট রক্ত নালিকাগুলির সঙ্গে যুক্ত হয় যেগুলি শরীরের কলাগুলির মধ্যে রক্ত বয়ে নিয়ে যায়, জল, অক্সিজেন, কার্বন ডাইঅক্সাইড এবং অন্যান্য বস্তুগুলিতে (উদাহরণ ভিটামিন, খনিজ, ইলেক্ট্রোলাইট, হরমোন) দেওয়া নেওয়া করে। ধমনী, উপধমনী, সূক্ষ্ম ধমনী, কৈশিক নালিকা, উপশিরা, শিরা এইগুলি সমস্ত বিভিন্ন ধরণের রক্তবাহী নালিকা যা সংবহন তন্ত্রের অংশ।\n \n অন্যান্য যে সমস্ত শব্দ রক্তবাহী নালিকাগুলিকে বর্ণনা করার জন্য ব্যবহার করাও হয় সেগুলি ভাস্কুলার সিস্টেম, কার্ডিওভ্যাসকুলার সিস্টেম (যার অন্তর্গত হৃৎপিণ্ড এবং রক্তবাহী নালিকা) এবং সংবহন তন্ত্র। \n \n",
+    "Status": "Published",
+    "EN Term": [
+      "recqf9kWDH9WkLibg"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "Blood vessels are tubes of different sizes present throughout the body. Larger blood vessels carry blood to the heart from other parts of the body (veins) or away from the heart to other parts of the body (arteries). Larger blood vessels connect to smaller blood vessels in the body that transport blood within tissues, where they exchange water, oxygen, carbon dioxide, and other compounds (i.e. vitamins, minerals, electrolytes, hormones). Arteries, arterioles, capillaries, venules, and veins are all different types of blood vessels that are part of the circulatory system. \n\nOther words that are used to describe blood vessels include vascular system, cardiovascular system (includes the heart and blood vessels), and circulatory system."
+    ],
+    "Wordcount total": [
+      114
+    ]
+  },
+  {
+    "id": "recSFgXV4atomIEND",
+    "Term": "ব্যাকটেরিয়া সংক্রমণ",
+    "Definition": " বিভিন্ন ধরণের ব্যাকটেরিয়া সাধারণভাবে ত্বকের উপর বেঁচে থাকে, তার সঙ্গে নাক, মুখ, এবং খাদ্যনালীতেও। বেশীরভাগ সময় এই ব্যাকটেরিয়াগুলি ক্ষতিকর নয় এবং, কিছু ক্ষেত্রে, তারা হজম করতে এবং কিছু কিছু অসুখ আটকাতেও সাহায্য করেছে বলে দেখা গেছে। \n \n একটি ব্যাকটেরিয়া সংক্রমণ ঘটে যখন ক্ষতিকর ব্যাকটেরিয়া শরীরে প্রবেশ করে এবং সংখ্যা বৃদ্ধি করতে শুরু করে। শরীরের যেকোনো স্থানে ব্যাকটেরিয়া সংক্রমণ ঘটতে পারে যার অন্তর্গত ফুসফুস, গলা, অন্ত্র, অথবা ত্বকের উপর। ব্যাকটেরিয়া সংক্রমণের লক্ষণগুলি আলাদা হয় সংক্রমণ এর অবস্থানের উপর ভিত্তি করে (উদাহরণ, গলার স্ট্রেপটোকক্কাস সংক্রমণের সাধারণ উপসর্গ গলা ব্যথা হওয়া, ব্যাকটেরিয়া খাদ্যে বিষক্রিয়া সৃষ্টি করলে তা থেকে বমি অথবা পেট খারাপ হতে পারে)। ব্যাকটেরিয়া সংক্রমণের চিকিৎসা করার জন্য হয়তো অ্যান্টিবায়োটিক ব্যবহার করা যেতে পারে, যদি ব্যাকটেরিয়া সংক্রমণের চিকিৎসা না করা হয় তা গুরুতর আকার ধারণ করতে পারে।\n \n",
+    "Status": "Published",
+    "EN Term": [
+      "recVfOgvT8WVpJgfA"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "There are many different kinds of bacteria that naturally live on the skin, as well as in the nose, mouth, and digestive tract. Most of the time these bacteria are not harmful and, in some cases, they have been shown to help with digestion and prevention of some illnesses.\n\nA bacterial infection occurs when harmful bacteria enter the body and begin to multiply. Bacterial infections can occur anywhere in the body including the lungs, throat, intestines, or on the skin. Symptoms of bacterial infection are different depending upon where the infection is located (i.e. a sore throat is a common symptom of Streptococcus infection of the throat, food poisoning caused by bacteria may cause vomiting or diarrhea). Antibiotics may be used to treat bacterial infections and, if bacterial infections are left untreated, they can become severe. "
+    ],
+    "Wordcount total": [
+      138
+    ]
+  },
+  {
+    "id": "rec0AeURYIsYUnNXB",
+    "Term": "সামাজিক দূরত্ব",
+    "Definition": " ইউ.এস. সেন্টার ফর ডিজিজ কন্ট্রোল অ্যান্ড প্রিভেনশন অনুসারে, সামাজিক দূরত্ব বজায় রাখা হচ্ছে আপনার বাড়ির বাইরে আপনার এবং অন্যান্য মানুষদের মধ্যে দূরত্ব বজায় রাখা যাতে কোভিড-১৯ এর ছড়িয়ে পড়া আটকানো যায়। সামাজিক দূরত্ব অভ্যাস করার জন্য, বিশেষজ্ঞরা পরামর্শ দেন যে মানুষ অন্তত experts 6 ফুট (2 মিটার) দূরত্ব বজায় রাখেন। সামাজিক দূরত্বকে শারীরিক দূরত্বও বলা হয়। \n",
+    "Status": "Published",
+    "EN Term": [
+      "recEer1bgt6r6jukM"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "According to the U.S. Centers for Disease Control and Prevention, social-distancing is the act of keeping space between yourself and other people outside of your home to prevent the spread of COVID-19.  To practice social-distancing, experts recommend that people stay at least 6 feet (2 meters) apart.  Social-distancing is also sometimes called physical distancing."
+    ],
+    "Wordcount total": [
+      58
+    ]
+  },
+  {
+    "id": "recjgnDG9ByH0qgU0",
+    "Term": "প্রাক-বিদ্যমান অসুস্থতা",
+    "Definition": " ইউ.এস. এ, প্রাক-বিদ্যমান অসুখ হচ্ছে সবচেয়ে বেশী ব্যবহৃত শব্দ যা একটি চিকিৎসাগত সমস্যাকে বর্ণনা করতে ব্যবহার করা হয় (উদাহরণ ডায়াবেটিস, হাঁপানি, হৃৎপিণ্ডের সমস্যা, উচ্চ রক্ত চাপ, স্থূলতা, ক্যানসার) যা একজন রোগীর আছে, তারা নতুন মেডিক্যাল ইনসিওরেন্সের আওতায় থাকা শুরু করার আগে। বর্তমানে কোভিড-১৯ প্যান্ডেমিকে এই শব্দের ব্যবহার গৃহীত হয়েছে এমন সমস্ত সাধারণ দীর্ঘস্থায়ী (অথবা দুরারোগ্য) অসুখের জন্য (উদাহরণ ডায়াবেটিস, হাঁপানি, হৃৎপিণ্ডের সমস্যা, উচ্চ রক্তচাপ, স্থূলতা, ক্যানসার) যা একজন রোগীর এই ভাইরাস থেকে সংক্রামিত অথবা অসুস্থ হয়ে পড়ার সম্ভাবনাকে বাড়িয়ে দিতে পারে।\n",
+    "Status": "Published",
+    "EN Term": [
+      "recz6wQ17eV2G7r6w"
+    ],
+    "Internal Invoicing Notes for LocLab": "August Invoice",
+    "EN Definition": [
+      "In the U.S., a pre-existing condition are words commonly used to describe as a medical problem (i.e. diabetes, asthma, heart disease, high blood pressure, obesity, cancer) that a patient has, before they begin new medical insurance coverage. The use of the word has been adapted to the current COVID-19 pandemic to describe common long term (or chronic) health problems (i.e. diabetes, asthma, heart disease, high blood pressure, obesity, cancer) that may increase a patient's chances of becoming infected or seriously ill from the virus."
+    ],
+    "Wordcount total": [
+      86
+    ]
+  }
+]

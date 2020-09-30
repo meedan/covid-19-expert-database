@@ -24,6 +24,26 @@ class PageMapper < ::Jekyll::Contentful::Mappers::Base
         result['title-hi'] = result['title']['hi']
       end
 
+      if result['title']['te']
+        result['title-te'] = result['title']['te']
+      end
+
+      if result['title']['es']
+        result['title-es'] = result['title']['es']
+      end
+
+      if result['title']['pt']
+        result['title-pt'] = result['title']['pt']
+      end
+
+      if result['title']['bn']
+        result['title-bn'] = result['title']['bn']
+      end
+
+      if result['title']['ar']
+        result['title-ar'] = result['title']['ar']
+      end
+
       if result['title']['en-US']
         result['title-en'] = result['title']['en-US']
         result['title'] = result['title']['en-US']
@@ -38,6 +58,21 @@ class PageMapper < ::Jekyll::Contentful::Mappers::Base
         end
         if result['description']['hi']
             result['description-hi'] = result['description']['hi']
+        end
+        if result['description']['te']
+          result['description-te'] = result['description']['te']
+        end
+        if result['description']['es']
+          result['description-es'] = result['description']['es']
+        end
+        if result['description']['pt']
+          result['description-pt'] = result['description']['pt']
+        end
+        if result['description']['bn']
+          result['description-bn'] = result['description']['bn']
+        end
+        if result['description']['ar']
+          result['description-ar'] = result['description']['ar']
         end
         result['description'] = result['description']['en-US']
       end

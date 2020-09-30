@@ -59,6 +59,81 @@ module Jekyll
         end
 
         filename = sanitize_filename(raw_filename).to_s
+        
+        # set entry variables based on config dir path per language
+        if template == "entry"
+          if dir == '/te/questions'
+            data['lang'] = 'te';
+          elsif dir == '/fr/questions'
+              data['lang'] = 'fr';
+          elsif dir == '/hi/questions'
+              data['lang'] = 'hi';
+          elsif dir == '/es/questions'
+              data['lang'] = 'es';
+          elsif dir == '/pt/questions'
+              data['lang'] = 'pt';
+          elsif dir == '/bn/questions'
+            data['lang'] = 'bn';
+          elsif dir == '/ar/questions'
+            data['lang'] = 'ar';
+          else 
+            data['lang'] = 'en-US';
+          end 
+        end
+
+        # set page variables based on config dir path per language
+        if template == "page"
+          if dir == '/te'
+            data['lang'] = 'te';
+            data['title'] = data['title-te']
+            data['description'] = data['description-te']
+          elsif dir == '/fr'
+            data['lang'] = 'fr';
+            data['title'] = data['title-fr']
+            data['description'] = data['description-fr']
+          elsif dir == '/hi'
+            data['lang'] = 'hi';
+            data['title'] = data['title-hi']
+            data['description'] = data['description-hi']
+          elsif dir == '/es'
+            data['lang'] = 'es';
+            data['title'] = data['title-es']
+            data['description'] = data['description-es']
+          elsif dir == '/pt'
+            data['lang'] = 'pt';
+            data['title'] = data['title-pt']
+            data['description'] = data['description-pt']
+          elsif dir == '/bn'
+            data['lang'] = 'bn';
+            data['title'] = data['title-bn']
+            data['description'] = data['description-bn']
+          elsif dir == '/ar'
+            data['lang'] = 'ar';
+            data['title'] = data['title-ar']
+            data['description'] = data['description-ar']
+          else 
+            data['lang'] = 'en-US';
+          end 
+        end
+
+        # set glossary variables based on config dir path per language
+        if dir == '/glossary'
+          data['lang'] = 'en-US';
+        elsif dir == '/te/glossary'
+          data['lang'] = 'te';
+        elsif dir == '/fr/glossary'
+            data['lang'] = 'fr';
+        elsif dir == '/hi/glossary'
+            data['lang'] = 'hi';
+          elsif dir == '/pt/glossary'
+            data['lang'] = 'pt';
+        elsif dir == '/es/glossary'
+            data['lang'] = 'es';
+        elsif dir == '/bn/glossary'
+          data['lang'] = 'bn';
+        elsif dir == '/ar/glossary'
+          data['lang'] = 'ar';
+        end 
 
         @dir = dir + (index_files ? "/" + filename + "/" : "")
         @name = (index_files ? "index" : filename) + "." + extension.to_s
@@ -68,16 +143,6 @@ module Jekyll
         self.data['title'] = raw_filename
 
         # seo fixes
-        if template == "page-fr"
-          data['title'] = data['title-fr']
-          data['description'] = data['description-fr']
-        end
-
-        if template == "page-hi"
-          data['title'] = data['title-hi']
-          data['description'] = data['description-hi']
-        end
-
         if template == "entry"
           data['title'] = data['Question']
           data['description'] = data['What our experts say'].to_s.split[0...30].join(' ')
@@ -86,26 +151,8 @@ module Jekyll
           end
         end
 
-        if template == "entry-fr"
-          data['title'] = data['Question']
-          data['description'] = data['What our experts say'].to_s.split[0...30].join(' ')
-        end
-
-        if template == "entry-hi"
-          data['title'] = data['Question']
-          data['description'] = data['What our experts say'].to_s.split[0...30].join(' ')
-        end
-
         if dir == "/glossary"
           data['lang'] = 'en-US'
-        end
-
-        if dir == "/fr/glossary"
-          data['lang'] = 'fr'
-        end
-
-        if dir == "/hi/glossary"
-          data['lang'] = 'hi'
         end
 
         if template == "term"

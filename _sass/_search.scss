@@ -81,6 +81,12 @@
     }
 }
 
+.ar .ais-SearchBox-form button,
+.ar .ais-SearchBox-form .ais-SearchBox-loadingIndicator {
+    padding-right: 0;
+    padding-left: var(--space-1);
+}
+
 .ais-SearchBox-submit {
     order: -1;
 }

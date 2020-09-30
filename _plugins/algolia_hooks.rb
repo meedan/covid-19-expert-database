@@ -64,6 +64,10 @@ module Jekyll
         record.delete(:'Experts say last edited (translation)')
         record.delete(:'Media Package')
         record.delete(:'Last modified')
+        record.delete(:'Internal Invoicing Notes for LocLab')
+        record.delete(:'Background last edited (Translation)')
+        record.delete(:'Experts say last edited (translation)')
+        record.delete(:'Internal notes')
         record.delete(:'Background and context')
         
 

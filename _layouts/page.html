@@ -1,11 +1,9 @@
----
-lang: en-US
----
 <!DOCTYPE html>
 <html lang="{{ page.lang }}">
 {% include head.html %}
 
-<body {% if page.slug == '/' %}class="front"{% endif %}>
+<body class="{% if page.slug == '/' %}front {% endif %}{{ page.lang }}">
+  {% include message.html %}
   {% include header.html %}
   <div class="content-wrapper">
     {% if page.description %}
@@ -20,11 +18,30 @@ lang: en-US
     {% endif %}
     {% if page.slug == '/' %}
       {% include module_search.html %}
-      {% include ask-a-question-promo.html %}
+      {% if page.lang == 'en-US' %}
+        {% include ask-a-question-promo.html %}
+      {% endif %}
     {% endif %}
-    {% if page.body['en-US'] %}
+    {% if page.lang == 'en-US' %}
+      {% assign body = page.body['en-US'] %}
+    {% elsif page.lang == 'ar' %}
+      {% assign body = page.body['ar'] %}
+    {% elsif page.lang == 'bn' %}
+      {% assign body = page.body['bn'] %}
+    {% elsif page.lang == 'es' %}
+      {% assign body = page.body['es'] %}
+    {% elsif page.lang == 'fr' %}
+      {% assign body = page.body['fr'] %}
+    {% elsif page.lang == 'hi' %}
+      {% assign body = page.body['hi'] %}
+    {% elsif page.lang == 'pt' %}
+      {% assign body = page.body['pt'] %}
+    {% elsif page.lang == 'te' %}
+      {% assign body = page.body['te'] %}
+    {% endif %}
+    {% if body %}
       <div class="content">
-        {{ page.body['en-US'] | markdownify }}
+        {{ body | markdownify }}
         {% if page.slug == 'about' %}
           {% include logos.html %}
           {% include support.html %}
