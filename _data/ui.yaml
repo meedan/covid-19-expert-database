@@ -78,6 +78,8 @@ t:
       glossary-terms: "Glossary Terms"
     blog:
       recent-posts: "Recent Posts"
+    search:
+      label: "What are you looking for?"
   fr:
     site-name: "Covid-19 Expert Database"
     ask-a-question: "Poser une question"
