@@ -70,7 +70,6 @@ module Jekyll
         record.delete(:'Internal notes')
         record.delete(:'Background and context')
         
-        
 
         # Do not send homepage
         return nil if record[:url] == '/'
