@@ -69,6 +69,29 @@ module Jekyll
         record.delete(:'Experts say last edited (translation)')
         record.delete(:'Internal notes')
         record.delete(:'Background and context')
+        record.delete(:'French Q status')
+        record.delete(:'Hindi Q Status')
+        record.delete(:'Arabic Q Status')
+        record.delete(:'Bengali Q Status')
+        record.delete(:'Telugu Q Status')
+        record.delete(:'Spanish Q Status')
+        record.delete(:'Portuguese Q Status')
+        record.delete(:'Hindi - What our experts say')
+        record.delete(:'Hindi - Background and context')
+        record.delete(:'French - What our experts say')
+        record.delete(:'French - Background and context')
+        record.delete(:'Arabic - Background and context')
+        record.delete(:'Arabic - What our experts say')
+        record.delete(:'Bengali - Background and context')
+        record.delete(:'Bengali - What our experts say')
+        record.delete(:'Telugu - Background and context')
+        record.delete(:'Telugu - What our experts say')
+        record.delete(:'Spanish - Background and context')
+        record.delete(:'Spanish - What our experts say')
+        record.delete(:'Portuguese - Background and context')
+        record.delete(:'Portuguese - What our experts say')
+        
+
         
 
         # Do not send homepage

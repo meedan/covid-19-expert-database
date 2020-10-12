@@ -146,6 +146,32 @@
     ]
   },
   {
+    "id": "recSXrpaflisq8AhK",
+    "Question": "Le plasma de convalescence peut-il aider à traiter la COVID-19 ?",
+    "Status": "Ready for expert review",
+    "Background and context": "L’utilisation de plasma de convalescence de personnes infectées antérieurement afin de traiter des malades existe depuis près de 100 ans pour traiter plusieurs maladies, dont la poliomyélite, la grippe et Ebola. Le plasma est le constituant liquide du sang et il contient des anticorps propres aux maladies, qui aident à combattre l’infection chez une personne rétablie. C’est pourquoi le plasma de convalescence est évalué en tant qu’option pour prévenir et traiter la COVID-19.\n\nEn mars 2020, l’Agence des produits alimentaires et médicamenteux des États-Unis (FDA) a annoncé un processus de recherche d’urgence afin de permettre aux docteurs de traiter des cas graves avec du plasma de convalescence. En avril 2020, la FDA des États-Unis a annoncé un protocole national d’accès élargi grâce à la Clinique Mayo afin que le traitement au plasma de convalescence comprenne des adultes qui présentent un risque de maladie grave en plus des cas sévères. En août 2020, la FDA des États-Unis a annoncé une autorisation d’utilisation d’urgence. Elle autorise la distribution de plasma de convalescence de COVID-19 aux États-Unis et son administration par des fournisseurs de soins de santé afin de traiter des patients hospitalisés, que l’on soupçonne être atteints de COVID-19 ou dont la maladie a été confirmée en laboratoire. De plus, certains essais cliniques sont en cours afin d’étudier l’efficacité du plasma de convalescence pour prévenir ou traiter la COVID-19 dans une gamme de cas.\n\nDes recherches supplémentaires sont encore nécessaires afin de déterminer si le plasma de convalescence est un traitement efficace et sans danger de la COVID-19. Des scientifiques sont à l’œuvre pour déterminer s’il pourrait aider à réduire la gravité et la durée de la maladie, voire prévenir des morts associés à la COVID-19.\n\n_Cette entrée a été mise à jour avec de nouveaux renseignements le 25 août 2020._\n",
+    "What our experts say": "Quand quelqu’un a été infecté par le virus de la COVID-19, le système immunitaire du corps de cette personne produit des substances appelées anticorps qui se mettent à l’œuvre pour détruire le virus. Ces anticorps peuvent habituellement être trouvés dans le sang d’une personne après qu’elle s’est remise du virus, particulièrement dans une partie du sang appelée « plasma ». Les anticorps du plasma aident une personne infectée à combattre le virus, et des chercheurs examinent donc la possibilité de transférer du plasma de patients rétablis ou presque rétablis (dit « de convalescence ») pour aider les systèmes immunitaires à combattre l’infection.\n\nCette utilisation expérimentale de plasma de convalescence pour la COVID-19 n’est un traitement approuvé ni par l’Organisation mondiale de la santé ni par les Centres de contrôle et de prévention des maladies des États-Unis, mais il existe des indications du bienfait d’un tel traitement dans les stades précoces d’une infection par le virus de la COVID-19. Le 23 août 2020, l’Agence des produits alimentaires et médicamenteux des États-Unis (FDA) a émis une autorisation d’utilisation d’urgence (EUA) pour le plasma de convalescence comme traitement de recherche de la COVID-19 chez des patients hospitalisés, autorisation fondée sur leur évaluation que les bienfaits connus et potentiels l’emportent sur les risques connus et potentiels. Cela signifie que le plasma de convalescence de COVID-19 est maintenant réglementé comme produit de recherche, mais son utilisation n’est pas encore approuvée par la FDA des États-Unis.\n\nDe plus amples recherches doivent être entreprises afin que les scientifiques parviennent à un consensus sur les bienfaits, mais aussi sur les conséquences négatives que le plasma pourrait avoir chez les patients infectés.\n\n_Cette entrée a été mise à jour avec de nouveaux renseignements le 25 août 2020._\n",
+    "Other resources": "1\\. Convalescent Plasma and COVID-19 (JAMA)\n2\\. Recommendations for Investigational COVID-19 Convalescent Plasma (U.S. FDA)\n3\\. FDA Issues Emergency Use Authorization for Convalescent Plasma as Potential Promising COVID–19 Treatment, Another Achievement in Administration’s Fight Against Pandemic (U.S. FDA)\n4\\. COVID-19 and Convalescent Plasma: Frequently Asked Questions (American Society of Hematology)\n5\\. Deployment of convalescent plasma for the prevention and treatment of COVID-19 (Journal of Clinical Investigation)\n",
+    "EN Question": [
+      "rec4kQXR2QgCNdlgs"
+    ],
+    "Internal Invoicing Notes for LocLab": "September Invoice",
+    "Last modified manual (translation)": "2020-09-03",
+    "Last modified manual": "2020-09-03",
+    "Background last edited (translation)": "2020-09-03T19:01:15.000Z",
+    "Experts say last edited (French)": "2020-09-03T19:01:41.000Z",
+    "Last modified": "2020-09-03",
+    "EN What our experts say": [
+      "When someone has been infected with COVID-19, their body's immune system produces substances called antibodies that work to destroy the virus. These antibodies can usually be found in someone's blood after they recover from the virus, specifically in a  portion of the blood called 'plasma.' Antibodies in plasma help an infected person fight off the virus, so researchers are studying whether transferring plasma from recovered patients or almost recovered (also called 'convalescent') can help immune systems fight off the infection.\n\nThis experimental use of convalescent plasma for COVID-19 is not an approved treatment by the World Health Organization or the U.S. Centers for Disease Control and Prevention, but there is some indication that it might be beneficial in the early stages of a COVID-19 infection. On August 23, 2020, the U.S. Food and Drug Administration (FDA) issued an emergency use authorization (EUA) for investigational convalescent plasma for the treatment of COVID-19 in hospitalized patients, based on their assessment that the known and potential benefits outweigh the known and potential risks. This means COVID-19 convalescent plasma is now regulated as an investigational product, but it not yet U.S. FDA approved for use.\n\nMore research needs to be conducted before scientists reach a consensus about the benefits as well as negative impacts plasma may have in infected patients."
+    ],
+    "EN Background and context": [
+      "Using convalescent plasma from previously infected people to treat sick individuals has been in practice for nearly 100 years, for several diseases including polio, influenza, and Ebola. Plasma is the liquid portion of the blood and contains disease-specific antibodies that helped fight the infection in a recovered individual, and that may help fight the infection in a newly infected recipient. As a result, convalescent plasma is being explored as an option for prevention and treatment of COVID-19.\n\nIn March 2020, the U.S. Federal Drug Administration (FDA) announced an emergency investigational process to allow doctors to treat serious cases with convalescent plasma. In April 2020, the U.S. FDA announced a National Expanded Access Protocol through the Mayo Clinic that expanded convalescent plasma treatment to include adults at risk of severe disease in addition to adults with severe cases. In August 2020, the U.S. FDA announced an emergency use authorization that authorizes the distribution of COVID-19 convalescent plasma in the U.S. and its administration by healthcare providers to treat hospitalized patients with suspected or laboratory-confirmed COVID-19. In contrast, the U.S. National Institute of Health (NIH) COVID-19 Treatment Guidelines Panel has issued a statement warning that there is currently insufficient data from studies to recommend the use of convalescent plasma to treat COVID-19. A number of clinical trials are underway to study the efficacy of convalescent plasma in preventing or treating COVID-19 in a range of cases. \n\nMore research is still necessary to determine if convalescent plasma is effective and safe as a treatment for COVID-19. Scientists are working to identify whether it might help reduce severity of illness, shorten the duration of illness, or even prevent death associated with COVID-19."
+    ],
+    "EN Other resources": [
+      "1. Convalescent Plasma and COVID-19 (JAMA)\n2. Recommendations for Investigational COVID-19 Convalescent Plasma (U.S. FDA)\n3. FDA Issues Emergency Use Authorization for Convalescent Plasma as Potential Promising COVID–19 Treatment, Another Achievement in Administration’s Fight Against Pandemic (U.S. FDA)\n4. COVID-19 and Convalescent Plasma: Frequently Asked Questions (American Society of Hematology)\n5. Deployment of convalescent plasma for the prevention and treatment of COVID-19 (Journal of Clinical Investigation)\n6. The COVID-19 Treatment Guidelines Panel's Statement on the Emergency Use Authorization of Convalescent Plasma for the Treatment of COVID-19 (U.S. NIH)"
+    ]
+  },
+  {
     "id": "rec3EisBjaWNuh52z",
     "Question": "La COVID-19 peut-elle être transmise par l’argent ?",
     "Status": "Published",
@@ -520,6 +546,64 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
+    ]
+  },
+  {
+    "id": "recKDU3ZXsRvXXFlC",
+    "Question": "Une personne peut-elle être réinfectée et contracter la COVID-19 une deuxième fois ?",
+    "Status": "Ready for expert review",
+    "Category": "Réinfection",
+    "Subcategory": "Sur : COVID-19 et réinfection",
+    "Background and context": "Alors que les scientifiques, les professionnels de la santé publique et les docteurs suivent la pandémie de COVID-19, ils continuent d’apprendre sur la façon dont le virus se propage, les symptômes qu’il provoque, et sur d’autres facteurs importants pour le diagnostic, les tests de dépistage, le suivi et la planification à long terme des services de santé publique. La possibilité d’une réinfection continue à faire les manchettes, avec des professionnels de la santé qui déclarent que des patients complètement rétablis avaient ultérieurement présenté des symptômes de nouveau. Certaines observations indiquent en détail comment le suivi des symptômes et le dépistage ont été effectués et, dans certains cas, des patients dont la guérison de la COVID-19 est documentée et dont les tests de dépistage sont négatifs sont tombés malades des semaines ou des mois plus tard, avec des tests de dépistage positifs.\n\nBien que de nombreux aspects du virus et de la pandémie soient encore inconnus, des recherches récentes suggèrent que la réinfection est possible. Une recherche plus récente prépubliée le 11 juillet 2020 a trouvé que les anticorps qui réagissent au virus de la COVID-19 fonctionnent de la même façon que ceux sécrétés pour répondre à d’autres coronavirus associés avec le coryza (rhume de cerveau). Alors que le nombre d’anticorps est plus élevé chez les patients qui présentent une forme plus grave de la maladie, des rapports suggèrent que la protection des anticorps diminue relativement rapidement (parfois dans un délai de 60 jours), plus particulièrement chez les patients qui ont présenté une forme plus légère de COVID-19. De la même façon, une étude de population en Espagne a examiné les anticorps de plus de 50 000 personnes probablement exposées au début de la pandémie et a découvert que très peu avaient encore des anticorps, même celles qui habitaient dans des zones considérablement impactées par le virus. Enfin, une étude effectuée chez des primates (pas des êtres humains) a démontré qu’il y avait immunité au virus de la COVID-19 pendant 28 jours après l’infection initiale. Cependant, l’étude ne présentait pas de mesures à plus long terme et, en tant qu’étude chez les animaux, peut ne pas être directement comparable à l’immunité chez l’être humain.\n\nIl est important de noter que contrairement aux autres virus, le nombre d’anticorps nécessaires pour prévenir une réinfection par le virus de la COVID-19 est inconnu, comme l’est le niveau d’anticorps nécessaires pour suggérer que quelqu’un est « immunisé » contre le virus. Des études sont en cours pour mieux comprendre l’immunité ainsi que la possibilité de réinfection.\n",
+    "What our experts say": "Nous apprenons encore beaucoup sur le genre de défense naturelle, aussi appelée immunité, qu’une personne présente après avoir été infecté par le SARS-CoV-2 et contracté la COVID-19. À ce jour, il a été rapporté que seul un très petit nombre de personnes ont été réinfectées par le virus à la suite d’une infection initiale.\n\nLes scientifiques ne savent pas encore de façon certaine si l’on peut contracter la COVID-19 une deuxième fois. Il nous faut plus de données probantes afin de déterminer s’il peut y avoir réinfection ou non chez les patients, et le niveau d’immunité au virus que les personnes peuvent développer une fois qu’elles ont été infectées.\n\nDes études prépubliées récentes ont cité des cas apparents de patients réinfectés par le virus de la COVID-19, mais elles n’ont encore été ni publiées ni évaluées par des pairs. D’autres experts n’ont donc pas pu étudier rigoureusement les données ni les résultats complets des études. Il faut noter que les patients de ces études ont soi-disant été infectés avec des souches différentes du virus lors de la deuxième infection. Cela pourrait signifier que les patients n’ont pas une immunité à vie au virus, et si immunité il y a après que quelqu’un a été infecté par le virus, nous ne savons ni pour combien de temps ni la force de cette immunité. C’est pourquoi il est important que tous continuent à appliquer les mesures de prévention telles que le port du masque et la distanciation physique afin d’arrêter la propagation du virus.\n\nDans certains cas, des patients ont reçu des tests positifs de dépistage du virus une deuxième fois, mais les scientifiques pensent que ce sont probablement des traces résiduelles dans le corps de l’infection originale. Cela pourrait changer au fur et à mesure que nous en apprenons davantage sur l’immunité à long terme et sur la protection contre la réinfection, mais nous n’avons actuellement pas vu de cas publiés pour soutenir cette possibilité.\n\nPour ceux qui se soucient des tests de dépistage d’anticorps, les tests utilisés afin de déterminer si une personne a été infectée ou non par le virus de la COVID-19 par le passé, il est important de noter que l’absence d’anticorps plusieurs mois après l’infection ne signifie pas que la personne n’est pas immunisée contre le virus ni qu’elle pourrait être infectée de nouveau.\n\n_Cette entrée a été mise à jour avec de nouveaux renseignements le 20 août 2020._\n",
+    "Topics": [
+      "réinfection",
+      "prévention",
+      "souche"
+    ],
+    "Other resources": "1\\. Longitudinal evaluation and decline of antibody responses in SARS-CoV-2 infection (MedRxiv)\n2\\. Direct observation of repeated infections with endemic coronaviruses (J of Inf Disease)\n3\\. Prevalence of SARS-CoV-2 in Spain (ENE-COVID): a nationwide, population-based seroepidemiological study (Lancet)\n4\\. Study in Primates Finds Acquired Immunity Prevents COVID-19 Reinfections (NIH Director's Blog)\n5\\. Interview with Virologist Dr. Rasmussen (Gizmodo)\n6\\. What Is COVID-19? (JAMA) \n7\\. Scientists say Hong Kong man got coronavirus a second time (AP) \n8\\. First Documented Coronavirus Reinfection Reported in Hong Kong (NYT) \n9\\. Genomic Evidence for a Case of Reinfection with SARS-CoV-2 (The Lancet Preprint)\n",
+    "EN Question": [
+      "reccgbdzob0VzK2nF"
+    ],
+    "Variation of the answer depending on country of residence": "Non\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "Non\n",
+    "Internal Invoicing Notes for LocLab": "September Invoice",
+    "Last modified manual (translation)": "2020-09-01",
+    "Last modified manual": "2020-09-01",
+    "Background last edited (translation)": "2020-09-01T21:47:05.000Z",
+    "Experts say last edited (French)": "2020-09-01T21:48:47.000Z",
+    "Last modified": "2020-09-01",
+    "EN Topics": [
+      "reinfection",
+      "prevention",
+      "strain"
+    ],
+    "EN Category": [
+      "Reinfection"
+    ],
+    "EN Subcategory": [
+      "On: COVID-19 & Reinfection"
+    ],
+    "EN What our experts say": [
+      "We are still learning a lot about what kind of natural defense, also known as immunity, a person has after being infected with SARS-CoV-2/COVID-19. A very small amount of people have reportedly become reinfected with virus following an initial infection. \n\nRegardless of the anecdotal evidence, scientists still do not know for sure if people can become infected with COVID-19 a second time, but it appears to be possible. More evidence is needed to determine whether or not reinfection can occur in patients, how common it is, and what kind of immunity to the virus people might obtain once they have been infected.\n\nRecent pre-print studies cite apparent cases of COVID-19 reinfecting patients, but those findings have not yet been published or peer-reviewed, so other scientific experts are not yet able to rigorously study the data or full results of the papers. It should be noted that the patients in the studies were supposedly infected with different strains of the virus during their second infection. This might mean that patients do not have lifelong immunity to the virus, and if any immunity does exist after someone is infected, the length and strength of the immunity is unclear. \n\nIn some cases of patients testing positive a second time, scientists think that  traces of the original infection left in the body are cause the second positive result. This could be due to very sensitive tests or  false-positive tests. \n\nIt is also important to note that antibody levels may not be a strong indicator of immunity against the virus and susceptibility to reinfection.\n\nThis entry was updated with new information on August 30, 2020"
+    ],
+    "EN Background and context": [
+      "As scientists, public health professionals, and doctors monitor the COVID-19 pandemic, they continue to learn about how the virus spreads, its symptoms, and other factors important to diagnosis, testing, monitoring, and long-term public health planning. The possibility of reinfection continues to be a prominent news headline with healthcare professionals reporting that some patients who had fully recovered from the virus later redeveloped symptoms. Some case reports detail how both symptom monitoring and testing have been performed, and, in some instances, patients have documented recovery of COVID-19 with negative virus test results only to become ill and test positive weeks or months later. \n\nWhile there are still many aspects of the virus and the pandemic that are unknown, recent research suggests that reinfection may be possible. Newer research shared with a preprint release on July 11th, 2020 found that COVID-19 antibodies function similarly to those from other coronaviruses that are associated with common colds. While the number of antibodies is higher in patients with more severe illness, reports suggest that the protective antibodies decrease relatively quickly (sometimes within 60 days), especially in patients who had a mild case of COVID-19. Similarly, a population-based study from Spain examined antibodies of more than 50,000 people with possible exposure early in the pandemic and found that very few people have maintained antibodies to date, even those who lived in areas significantly impacted by the virus. Finally, a study done in primates (not humans) showed that COVID-19 immunity was maintained for 28 days following the original infection, but the study did not include longer range measures and, as an animal study, may not be directly comparable to humans.\n\nIt is important to note that, unlike other viruses, the number of antibodies needed to prevent reinfection with COVID-19 is unknown as is the level of antibodies needed to suggest that someone is “immune” to the virus. Studies to further understand immunity as well as the possibility for reinfection are ongoing."
+    ],
+    "EN Other resources": [
+      "1. Longitudinal evaluation and decline of antibody responses in SARS-CoV-2 infection (MedRxiv)\n2. Direct observation of repeated infections with endemic coronaviruses (J of Inf Disease)\n3. Prevalence of SARS-CoV-2 in Spain (ENE-COVID): a nationwide, population-based seroepidemiological study (Lancet)\n4. Study in Primates Finds Acquired Immunity Prevents COVID-19 Reinfections (NIH Director's Blog)\n5. Interview with Virologist Dr. Rasmussen (Gizmodo)\n6. What Is COVID-19? (JAMA) \n7. Scientists say Hong Kong man got coronavirus a second time (AP) \n8. First Documented Coronavirus Reinfection Reported in Hong Kong (NYT) \n9. Genomic Evidence for a Case of Reinfection with SARS-CoV-2 (The Lancet Preprint)"
+    ],
+    "Translation change notes (from main DB)": [
+      null
+    ],
+    "EN Variation of the answer depending on country of residence": [
+      "No"
+    ],
+    "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
+      "No"
+    ],
+    "How often revision needed": [
+      "Weekly"
     ]
   },
   {
@@ -1046,6 +1130,78 @@
     ]
   },
   {
+    "id": "rec7DbR8cpUtj6laV",
+    "Question": "La vaccination au BCG protège-t-elle contre la COVID-19 ?",
+    "Status": "Ready for expert review",
+    "Category": "Traitement",
+    "Subcategory": "Sur : COVID-19 et vaccins",
+    "Source of the question": [
+      "Médias sociaux"
+    ],
+    "Country question was sourced from": [
+      "Sénégal"
+    ],
+    "Background and context": "Le vaccin BGC, ou vaccin bilié de Calmette et Guérin, est un vaccin contre la tuberculose (TB). Ce vaccin est utilisé afin de prévenir la propagation de la maladie dans de nombreux pays où le taux de tuberculose est élevé. Alors que les chercheurs en santé publique tentent de comprendre le faible nombre de cas et de décès liés à la COVID-19 en Afrique subsaharienne et dans certaines parties de l’Asie du Sud-Est, des hypothèses ont été émises sur le pouvoir protecteur du vaccin BCG contre le coronavirus en raison d’une corrélation entre les pays où le vaccin BCG est largement utilisé et le faible nombre de cas de COVID-19 signalés dans ces pays. Les études récentes publiées sur ce sujet ne soutiennent pas l’idée que la vaccination au BCG dans l’enfance a un effet protecteur chez l’adulte contre la COVID-19. D’autres études sont en cours, car l’interaction du vaccin BCG avec le virus responsable de la COVID-19 n’est pas encore évidente.\n",
+    "What our experts say": "De nombreuses études explorent le lien entre les politiques de vaccination au BCG dans divers pays et le nombre relativement plus faible de cas de COVID-19 et de décès qui y sont liés dans ces pays. Les études récentes publiées ne soutiennent pas l’idée que la vaccination au BCG dans l’enfance peut protéger l’adulte contre la COVID-19. L’Organisation mondiale de la santé (OMS) a publié une note à ce sujet qui déclarait qu’en l’absence de données probantes, l’OMS ne recommande pas la vaccination au BCG pour prévenir la COVID-19.\n\nUne étude publiée dans la revue états-unienne « Proceedings of the National Academy of Sciences » (Comptes rendus de l’Académie nationale des sciences) indiquait qu’après avoir pris en compte les différences de variables telles que le revenu, la structure par âge et l’accès aux services de santé, les pays dont le taux de vaccination au BCG est plus élevé présentaient des taux maximaux de mortalité liés à la COVID-19 inférieurs. Cependant, bien qu’il y ait association entre vaccination au BCG et gravité réduite des cas observés de COVID-19 dans cette étude épidémiologique, cela ne signifie pas qu’il a suffisamment de données probantes pour considérer que la vaccination au BCG est un facteur de protection contre une COVID-19 grave. D’autres études sont en cours.\n\n_Cette entrée a été mise à jour avec de nouveaux renseignements le 11 juillet 2020._\n",
+    "Glossary Terms": [
+      "rec6TkHKY7sNXMmZV",
+      "recF5ZskHxC3iLoRg"
+    ],
+    "Topics": [
+      "prévention",
+      "vaccin",
+      "BCG"
+    ],
+    "Other resources": "1\\. SARS-CoV-2 Rates in BCG-Vaccinated and Unvaccinated Young Adults (JAMA) \n2\\. Bacille Calmette-Guérin (BCG) vaccination and COVID-19 (WHO) \n3\\. BCG vaccine protection from severe coronavirus disease 2019 (COVID-19) (PNAS) \n",
+    "EN Question": [
+      "recCC7GhsX2CKZJbs"
+    ],
+    "Variation of the answer depending on country of residence": "Non\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "Non\n",
+    "Internal Invoicing Notes for LocLab": "September Invoice",
+    "Last modified manual (translation)": "2020-08-31",
+    "Last modified manual": "2020-08-31",
+    "Background last edited (translation)": "2020-08-26T18:28:10.000Z",
+    "Experts say last edited (French)": "2020-08-31T19:20:34.000Z",
+    "Last modified": "2020-08-31",
+    "EN Glossary Terms": [
+      "rec9SYUCp1ULDd0UL",
+      "recUx8LCQGkRdxG3B"
+    ],
+    "EN Topics": [
+      "prevention",
+      "vaccine",
+      "BCG"
+    ],
+    "EN Category": [
+      "Treatment"
+    ],
+    "EN Subcategory": [
+      "On: COVID-19 & vaccines"
+    ],
+    "EN Source of the Question": [
+      "Social Media"
+    ],
+    "EN Country question was sourced from": [
+      "Senegal"
+    ],
+    "EN What our experts say": [
+      "Multiple studies are exploring the link between BCG vaccination policies in various countries, and the relatively lower number of COVID-19 cases and deaths in those countries. Recent studies published do not support the idea that BCG vaccination in childhood is a cause of protection against COVID-19 in adulthood. The World Health Organization (WHO) has published a note on this topic that stated that in the absence of evidence, WHO does not recommend BCG vaccination for the prevention of COVID-19. \n\nA study published in the Proceedings of the National Academy of Sciences (U.S.) noted that after they accounted for differences in variables like income, age distribution, and access to health services, countries with higher BCG vaccination rates had lower peak mortality rates from COVID-19. However, though there is an association between BCG vaccination and reduced severity of COVID-19 observed in this epidemiological study, it does not mean that there is enough evidence to consider BCG vaccination a cause of protection from severe COVID-19. More studies are underway.\n \nThis entry was updated with new information on July 11, 2020"
+    ],
+    "EN Background and context": [
+      "The BGC vaccine, or the bacille Calmette-Guerin vaccine, is a vaccine for tuberculosis (TB) disease. This vaccine is used in many countries that have high rates of tuberculosis in order to prevent the disease from spreading. As public health researchers try and understand the low case numbers and death count in sub-Saharan Africa and parts of South-East Asia from COVID-19, hypotheses have emerged about the protective power of the BCG vaccine against the coronavirus because of a correlation between countries where the BCG vaccine is widely used and the low number of COVID-19 cases reported in those countries. Recent studies published on this topic do not support the idea that BCG vaccination in childhood has a protective effect against COVID-19 in adulthood. More studies are underway as it's still not clear yet how the BCG vaccine interacts with the virus that causes COVID-19.\n"
+    ],
+    "EN Other resources": [
+      "1. SARS-CoV-2 Rates in BCG-Vaccinated and Unvaccinated Young Adults (JAMA) \n2. Bacille Calmette-Guérin (BCG) vaccination and COVID-19 (WHO) \n3. BCG vaccine protection from severe coronavirus disease 2019 (COVID-19) (PNAS) \n"
+    ],
+    "EN Variation of the answer depending on country of residence": [
+      "No"
+    ],
+    "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
+      "No"
+    ]
+  },
+  {
     "id": "recXOlSZvyEECnqkk",
     "Question": "Existe-t-il un lien entre la prise d’antibiotiques et le traitement de la COVID-19 ?",
     "Status": "Published",
@@ -1130,6 +1286,87 @@
     ]
   },
   {
+    "id": "recbjW2CdPdJHM0wE",
+    "Question": "Quelles sont les origines du virus ?",
+    "Status": "Ready for expert review",
+    "Category": "Origine",
+    "Subcategory": "Sur : origines de la COVID-19",
+    "Source of the question": [
+      "Médias sociaux"
+    ],
+    "Country question was sourced from": [
+      "Inde",
+      "Kenya",
+      "É.-U."
+    ],
+    "Background and context": "Les coronavirus sont un groupe de virus qui peuvent provoquer une variété de maladies, mais principalement des maladies des voies respiratoires supérieures chez l’humain. Ces maladies comprennent le coryza (rhume de cerveau), le syndrome respiratoire aigu sévère (SRAS) et le syndrome respiratoire du Moyen-Orient (SRMO). Certains virus peuvent être d’origine animale et ensuite infecter les êtres humains de différentes manières, dont : manger de la viande ou des aliments qui ont été contaminés par le virus ; par voie aérienne ou par contact avec une surface qui a été touchée par un animal infecté ; par un contact proche avec un animal infecté ; par des piqûres ou morsures d’insectes. Tous les virus ne se transmettent pas des animaux aux êtres humains de toutes ces façons, cela dépend du virus. La section Ressources présente plus de précisions à ce sujet.\n",
+    "What our experts say": "La COVID-19 a été détectée pour la première fois fin 2019 dans la ville de Wuhan, en Chine. Il a depuis été partiellement déterminé que l’origine du virus est un grand marché de fruits de mer et d’animaux dans la ville de Wuhan, après que plusieurs personnes qui avaient fréquenté le marché contractèrent la maladie que nous connaissons maintenant sous le nom de COVID-19. Des scientifiques ont pu effectuer des analyses génétiques pour confirmer que le virus avait d’abord été découvert chez des personnes de la ville de Wuhan. Comme pour la génétique de l’être humain, les analyses génétiques de virus peuvent être source de nombreux renseignements sur leur origine. La plupart des études scientifiques soutiennent maintenant l’idée que l’origine du virus chez les animaux fût les chauves-souris, plus particulièrement des rhinolophes provenant possiblement de Chine ou des pays voisins que sont la Birmanie, le Laos et le Vietnam. Des scientifiques suggèrent aussi que le virus a peut-être été transmis aux êtres humains par un hôte intermédiaire, mais ne sont pas certains de la nature de l’animal-hôte, bien que les pangolins et les civettes aient été suggérés. Une enquête est en cours pour déterminer les détails de cet événement que l’on appelle un transfert zoonotique. Les experts de l’Organisation mondiale de la santé voyageront bientôt en Chine afin de travailler avec les représentants des services de santé chinois pour définir la source du virus.\n\n_Cette entrée a été mise à jour avec de nouveaux renseignements le 16 juillet 2020._\n",
+    "Glossary Terms": [
+      "recbMekD6UXPWJAi6",
+      "recYcTN9RFmkJyENu"
+    ],
+    "Topics": [
+      "origine",
+      "chauve-souris",
+      "Wuhan",
+      "Chine"
+    ],
+    "Other resources": "1\\. Viral and host factors related to the clinical outcome of COVID-19 (Nature)\n2\\. Genomic Study Points to Natural Origin of COVID-19 (NIH) \n3\\. Zoonotic diseases (U.S. CDC) \n4\\. Update and Interim Guidance on Outbreak of 2019 Novel Coronavirus (2019-nCoV) in Wuhan, China (U.S. CDC) \n5\\. Coronavirus Disease 2019 (COVID-19) (U.S. CDC) \n6\\. COVID-19: a novel zoonotic disease caused by a coronavirus from China: what we know and what we don’t (NCBI)\n7\\. Six months of coronavirus: the mysteries scientists are still racing to solve (Nature) \n8\\. The biggest mystery: what it will take to trace the coronavirus source (Nature) \n9\\. Emergence of SARS-CoV-2 through recombination and strong purifying selection (Science Advances) \n10\\. WHO experts to travel to China (WHO) \n",
+    "EN Question": [
+      "recqFRWiE9Y6nbUM5"
+    ],
+    "Variation of the answer depending on country of residence": "Non\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "Non\n",
+    "Internal Invoicing Notes for LocLab": "September Invoice",
+    "Last modified manual (translation)": "2020-08-31",
+    "Last modified manual": "2020-08-31",
+    "Background last edited (translation)": "2020-08-25T15:59:19.000Z",
+    "Experts say last edited (French)": "2020-08-31T21:23:19.000Z",
+    "Last modified": "2020-08-31",
+    "EN Glossary Terms": [
+      "recbQ95pvRq7nP9s3",
+      "recFSOdDjQBqJHnZ9"
+    ],
+    "EN Topics": [
+      "origin",
+      "bats",
+      "Wuhan",
+      "China"
+    ],
+    "EN Category": [
+      "Origin"
+    ],
+    "EN Subcategory": [
+      "On: The origin of COVID-19 "
+    ],
+    "EN Source of the Question": [
+      "Social Media"
+    ],
+    "EN Country question was sourced from": [
+      "India",
+      "Kenya",
+      "USA"
+    ],
+    "EN What our experts say": [
+      "COVID-19 was first detected in the city of Wuhan, China in late 2019. The virus has since been partially traced back to a large seafood and animal market in the city of Wuhan, after several people who had been to the market became sick with the illness we now know as COVID-19. Scientists were able to use genetic tests to confirm that the virus was first identified in people in the city of Wuhan. Tests on the genetics of viruses, much like genetics in humans, can reveal a lot about their origins. \nThe majority of scientific studies now support the idea that the origin of the virus in animals was bats, specifically horseshoe bats, potentially from China or neighboring countries of Myanmar, Laos and Vietnam. Scientists also suggest that the virus may have been passed to humans through an intermediate host before spreading to humans, but are unsure about what animal the host might have been, though pangolins and civets have been suggested. The details about that event, which is called a zoonotic transfer, are still being investigated. World Health Organization experts will soon travel to China and work with Chinese health officials to identify the source of the virus.\n\nThis entry was updated with new information on July 16, 2020"
+    ],
+    "EN Background and context": [
+      "Coronaviruses are a group of viruses that can cause a variety of different illnesses, but primarily upper-respiratory tract illnesses in humans. These illnesses include the common cold, severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS). Some viruses can originate in animals and later infect humans, and this can happen in a number of different ways, including: by eating meat or produce that has been contaminated by the virus, through the air or by touching a surface that was touched by an infected animal, through close contact with an infected animal, or through insect bites. Not all viruses transfer from animals to humans in all of these ways, it depends on the virus. The resources section contains more information about this. \n"
+    ],
+    "EN Other resources": [
+      "1. Viral and host factors related to the clinical outcome of COVID-19 (Nature)\n2. Genomic Study Points to Natural Origin of COVID-19 (NIH) \n3. Zoonotic diseases (U.S. CDC) \n4. Update and Interim Guidance on Outbreak of 2019 Novel Coronavirus (2019-nCoV) in Wuhan, China (U.S. CDC) \n5. Coronavirus Disease 2019 (COVID-19) (U.S. CDC) \n6. COVID-19: a novel zoonotic disease caused by a coronavirus from China: what we know and what we don’t (NCBI)\n7. Six months of coronavirus: the mysteries scientists are still racing to solve (Nature) \n8. The biggest mystery: what it will take to trace the coronavirus source (Nature) \n9. Emergence of SARS-CoV-2 through recombination and strong purifying selection (Science Advances) \n10. WHO experts to travel to China (WHO) \n"
+    ],
+    "EN Variation of the answer depending on country of residence": [
+      "No"
+    ],
+    "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
+      "No"
+    ],
+    "How often revision needed": [
+      "Monthly"
+    ]
+  },
+  {
     "id": "recPkJ5SuaRbWr2Z8",
     "Question": "Que savons-nous sur l’alun en tant qu’assainisseur de remplacement ?",
     "Status": "Published",
@@ -1195,6 +1432,31 @@
     ],
     "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
       "No"
+    ]
+  },
+  {
+    "id": "rec1Y0HsS4cS3Iqfl",
+    "Question": "Que savons-nous sur le rapport entre le groupe sanguin et une réaction grave à la COVID-19 ?",
+    "Status": "Ready for expert review",
+    "EN Question": [
+      "recYvTpiS4HB4XVtT"
+    ],
+    "Internal Invoicing Notes for LocLab": "September Invoice",
+    "Experts say last edited (French)": "2020-07-27T15:51:25.000Z",
+    "EN Glossary Terms": [
+      "rechQcO5gs3FZMcPs",
+      "recvEcanaG84OrPm4",
+      "rectkO1d0FhUHQ0Of",
+      "recmajcAORyuqhZPc"
+    ],
+    "EN What our experts say": [
+      "As of now, there is not enough evidence to indicate whether or not there may be some connection between blood type and COVID-19 risk, though the link is likely to be minimal if it does exist. Studies previously cited in the news suggested that Type A blood could be associated with higher risks of severe cases of COVID-19, and reporting included studies that had not yet been assessed by scientific experts (referred to in science as the peer-review process). One of these recent studies had been peer-reviewed and published in the New England Journal of Medicine (NEJM); however it used genes to determine the blood type, which is a method that is not very accurate. The gene testing company, 23andMe, recently released the preprint of a study (awaiting peer-review and using a similar gene association method) that identifies a strong association between blood type and COVID-19 diagnosis. The study suggests that people with blood group O tested positive less often compared to people with other blood groups, under similar circumstances.  \n   \nTwo more recent studies from Columbia University and Massachusetts General Hospital in the U.S. found that blood type is not associated with risks of intubation or death from COVID-19, after adjusting for other factors. While scientists continue to learn more, age and underlying health conditions remain more significant risk factors for severe COVID-19 symptoms, and Type A blood is not thought to be a major risk factor at this time. \n\nWhile some studies have suggested a potential risk reduction for people with Type O blood, not all the studies have been peer-reviewed and the use of blood donors as study participants can give the appearance of Type O being more protective than it is (Type O blood is over-represented in blood donors, compared to the general population). Type O blood does not mean immunity to COVID-19."
+    ],
+    "EN Background and context": [
+      "The media is now reporting on how more recent studies found that blood type is not linked to risks of intubation or death from COVID-19, after adjusting for other factors like age and gender identity. Furthermore, it is important to note that Type O blood does not mean immunity to COVID-19."
+    ],
+    "EN Other resources": [
+      "1. Genes, Blood Type Tied to Risk of Severe COVID-19 (NIH)\n2. The ABO blood group locus and a chromosome 3 gene cluster associate with SARS-CoV-2 respiratory failure in an Italian-Spanish genome-wide association and analysis (medRxiv)\n3. Genes May Leave Some People More Vulnerable to Severe Covid-19 (NYT)\n4. Is there a relationship between blood type and covid-19 infection? (MIT Technology Review)\n5. Genomewide Association Study of Severe Covid-19 with Respiratory Failure (NEJM)\n6. Testing the association between blood type and COVID-19 infection, intubation, and death (medRxiv)\n7. Relationship between the ABO Blood Group and the COVID-19 Susceptibility  (medRxiv)\n8. Blood type and outcomes in patients with COVID-19  (Annals of Hematology)\n9. COVID and Blood Type (Harvard Medical School)\n10. Trans-ethnic analysis reveals genetic and non-genetic associations with COVID-19 susceptibility and severity (medRxiv)\n11. Early research from 23andMe strengthens link between blood types and Covid-19 (Statnews)"
     ]
   },
   {
@@ -1708,6 +1970,102 @@
     ],
     "EN Other resources": [
       "1. Clinical Characteristics and Results of Semen Tests Among Men With Coronavirus Disease 2019 (JAMA) "
+    ],
+    "EN Variation of the answer depending on country of residence": [
+      "No"
+    ],
+    "EN Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": [
+      "No"
+    ]
+  },
+  {
+    "id": "rec8sg7onKcFdH8Y6",
+    "Question": "Quels sont les effets à court et à long terme de la COVID-19 sur les autres parties du corps, dont les poumons, le cerveau, le cœur et les reins ?",
+    "Status": "Ready for expert review",
+    "Category": "Symptômes",
+    "Subcategory": "Sur : COVID-19 et effets à court et long terme",
+    "Source of the question": [
+      "Organisme de vérification des faits"
+    ],
+    "Country question was sourced from": [
+      "Philippines"
+    ],
+    "Background and context": "Les professionnels de la santé, les scientifiques et les journalistes ont rapporté de très grandes différences de symptômes d’un patient atteint de la COVID-19 à l’autre. Il y a entre autres des différences de gravité et de durée des symptômes, et d’organes affectés. Par exemple, certains patients signalent des conséquences persistantes de la COVID-19 pendant des mois, et les effets à long terme de la maladie ne sont pas encore connus.\n\nRécemment, des nouvelles circulent sur les conséquences potentielles à long terme de la COVID-19 sur d’autres parties du corps en plus des poumons. Par exemple, les médias ont couvert les conséquences de la COVID-19 sur le cœur, à la suite de la publication en juillet 2020 d’une étude allemande sur les problèmes cardiaques chez des patients atteints de COVID-19 en convalescence.\n\nDe plus, des lésions cérébrales associées à la COVID-19 ont été rapportées dans les médias à la suite de la publication de deux études sur des patients britanniques et français qui avaient présenté des symptômes allant d’inflammation cérébrale et d’états confusionnels aigus à des lésions nerveuses et des accidents vasculaires cérébraux. Avant la pandémie de COVID-19, les chercheurs se sont déjà inquiétés des risques de TSPT et d’états confusionnels aigus chez les patients qui demandent des soins intensifs. D’après l’analyse d’une recherche antérieure sur les états confusionnels aigus publiée dans le journal « Intensive Care Medicine » (médecine des soins intensifs), de manière générale, un état confusionnel aigu a été constaté chez 20 à 40 % des patients en phase critique. Un respirateur était nécessaire chez jusqu’à 80 % de ces patients.\n\nEn juillet 2020, les conséquences de la COVID-19 sur les reins ont aussi fait les manchettes à la suite d’une mise à jour des recommandations de la Société états-unienne de néphrologie. À ce sujet, le professeur agrégé en néphrologie du Système de santé Mont Sinaï et cofondateur de RenalytixAI, le Dr Steven Coca, tire la sonnette d’alarme sur l’augmentation des « maladies rénales chroniques aux États-Unis chez les personnes guéries de la COVID-19. Depuis le début de la pandémie de coronavirus, nous avons constaté le plus haut taux d’insuffisance rénale de nos vies. C’est un fardeau de santé à long terme pour les patients, la communauté médicale et l’économie états-unienne. ». De nouvelles recherches et de nouveaux reportages des médias continuent de paraître.\n\n_Cette entrée a été mise à jour avec de nouveaux renseignements le 20 août 2020._\n",
+    "What our experts say": "Dans la mesure où la COVID-19 est une nouvelle maladie, nous ne connaissons pas encore toutes ses conséquences à court et à long terme. La plupart des personnes atteintes de la COVID-19 présentent des symptômes légers ou aucun symptôme. Pour les personnes qui présentent des symptômes légers, les conséquences à court terme comprennent des essoufflements (dyspnée ressentie dans les poumons et les voies respiratoires), de la fièvre, de la toux et des courbatures. Pour les cas plus graves, certaines conséquences à court terme peuvent affecter plusieurs organes. On relèvera ainsi des embolies pulmonaires (poumons), des accidents vasculaires cérébraux (cerveau), des lésions rénales provoquées par le manque d’oxygène ou des caillots sanguins. La Société états-unienne de néphrologie a rapporté qu’approximativement 50 % des patients souffrant de cas graves de COVID-19 en soins intensifs ont subi des insuffisances rénales. Une étude allemande publiée en juin 2020 a trouvé que 70 patients sur 100 atteints de COVID-19 en convalescence présentaient des problèmes cardiaques qui pourraient avoir des conséquences graves, telles que des inflammations ou des cicatrisations, mais les conséquences à long terme de ces résultats de recherche sont en cours d’évaluation. Plus le cas de COVID-19 et ses symptômes sont graves, plus grands seront les risques que les organes de la personne subissent des effets néfastes.\n\nLes effets à long terme de la COVID-19 sont à l’étude actuellement. Épuisement, anxiété, étourdissement, maux de tête, courbatures, perte du goût et de l’odorat et difficultés respiratoires sont souvent signalés par les patients qui présentent des symptômes plusieurs semaines après avoir contracté la COVID-19. Pour certaines personnes infectées par le virus, leurs symptômes ont duré plus de 100 jours.\n\nDes études récentes présentent plusieurs conséquences à long terme de la COVID-19 sur divers organes du corps, dont une cicatrisation des poumons, une capacité pulmonaire réduite, des conséquences neurocognitives, des lésions cardiaques, des insuffisances rénales et plus encore. Le Centre médical de l’Université Vanderbilt a lancé en juillet 2020 une étude sur les états confusionnels aigus, les troubles de stress post-traumatique (TSPT) et les dépressions chez les patients atteints de COVID-19 qui ont été hospitalisés. Ces conséquences invalidantes sont aussi appelées trouble post-soins intensifs (TPSI), et des études précédentes de patients des soins intensifs semblables à ceux atteints de COVID-19 suggèrent que 33 à 50 % souffrent de démence, 10 à 20 % d’un TSPT et 33 % d’un trouble dépressif caractérisé. Les chercheurs tentent aussi de découvrir si les patients atteints de COVID-19 et qui souffrent d’une inflammation cérébrale courent ou non un plus grand risque de troubles auto-immuns tels que la démyélinisation, qui est une attaque par le système immunitaire de la gaine protectrice des cellules nerveuses, et qui peut provoquer des faiblesses, des engourdissements et des difficultés dans les activités quotidiennes.\n\nNous avons affaire à une nouvelle maladie et les conséquences réelles à long terme sont inconnues.\n\n_Cette entrée a été mise à jour avec de nouveaux renseignements le 20 août 2020._\n",
+    "Glossary Terms": [
+      "recxpTTXErbiR1Huo",
+      "recO3ooytYieoirQn",
+      "recUAuf57xAdRwqOV",
+      "recBCgii3PjSX298i",
+      "recmKKFz8XmXLoc6X"
+    ],
+    "Topics": [
+      "accident vasculaire cérébral ",
+      "cerveau",
+      "poumons",
+      "rein",
+      "insuffisance rénale",
+      "conséquence",
+      "court terme",
+      "long terme",
+      "caillot sanguin",
+      "mal de tête",
+      "étourdissement",
+      "neurocognitif"
+    ],
+    "Other resources": "1\\. Coronavirus (WHO) \n2\\. The Long-Term Health Effects of COVID-19 (GAVI) \n3\\. What are the potential long-term effects of having COVID-19? (AP) \n4\\. What Long-Term Effects Could COVID-19 Have on Your Lungs? (Banner Health) \n5\\. Acute Pulmonary Embolism in COVID-19 Patients on CT Angiography and Relationship to D-Dimer Levels (Radiology) \n6\\. Extrapulmonary manifestations of COVID-19, see Figure 2 (Nature)\n7\\. Association of Cardiac Injury With Mortality in Hospitalized Patients With COVID-19 in Wuhan, China (JAMA) \n8\\. Outcomes of Cardiovascular Magnetic Resonance Imaging in Patients Recently Recovered From Coronavirus Disease 2019 (COVID-19) (JAMA Cardiology)\n9\\. New data shows COVID-19 can cause kidney failure — and launch a different kind of epidemic (Poynter)\n10\\. The American Society of Nephrology's Resources and Recommendations (ASN)\n11\\. COVID-19 and Kidney Failure in the Acute Care Setting: Our Experience From Seattle (AJKD) \n12\\. Coronavirus: Kidney Damage Caused by COVID-19 (Hopkins Medicine)\n13\\. How Covid-19 can damage the brain (BBC) \n14\\. Neurologic Manifestations of Hospitalized Patients With Coronavirus Disease 2019 in Wuhan, China (JAMA) \n15\\. Neurologic Features in Severe SARS-CoV-2 Infection (NEJM) \n16\\. The emerging spectrum of COVID-19 neurology: clinical, radiological and laboratory findings (Brain)\n17\\. Long after the fire of a Covid-19 infection, mental and neurological effects can still smolder (STAT News)\n18\\. Delirium, PTSD, brain fog: The aftermath of surviving COVID-19 (American Psychological Association)\n19\\. Study to explore how COVID affects cognition over time (Vanderbilt University Medical Center)\n",
+    "EN Question": [
+      "recq1zzyVh3GSLrhz"
+    ],
+    "Variation of the answer depending on country of residence": "Non\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "Non\n",
+    "Internal Invoicing Notes for LocLab": "September Invoice",
+    "Last modified manual (translation)": "2020-09-03",
+    "Last modified manual": "2020-09-03",
+    "Background last edited (translation)": "2020-09-03T18:02:10.000Z",
+    "Experts say last edited (French)": "2020-09-03T18:02:10.000Z",
+    "Last modified": "2020-09-03",
+    "EN Glossary Terms": [
+      "reccJtjL0z55J1CPG",
+      "reciKuzcOIBjSFsU4",
+      "reclXuRND3ea8LAA1",
+      "recU4JuZ6HJpfe2ZK",
+      "recOcmLKbzV6NUkAH"
+    ],
+    "EN Topics": [
+      "stroke",
+      "brain",
+      "lungs",
+      "kidney",
+      "renal failure",
+      "impact",
+      "short-term",
+      "long-term",
+      "blood clot",
+      "headache",
+      "dizziness ",
+      "neurocognitive"
+    ],
+    "EN Category": [
+      "Symptoms"
+    ],
+    "EN Subcategory": [
+      "On: COVID-19 & short- and long-term effects"
+    ],
+    "EN Source of the Question": [
+      "Fact-checking organization"
+    ],
+    "EN Country question was sourced from": [
+      "Philippines"
+    ],
+    "EN What our experts say": [
+      "As COVID-19 is a new illness, we don't know all of its short and long-term impacts yet. Most people infected with COVID-19 have mild or no symptoms. Some of the short-term impacts for people with mild symptoms include shortness of breath in the lungs and airways, fever, cough, and body aches. For more severe cases, some short-term impacts can affect several organs. These include pulmonary embolisms (lungs), strokes (brain), and kidney damage due to a lack of oxygen or blood clots. The American Society of Nephrology reported that approximately 50% of patients with severe cases of COVID-19 in intensive care experience kidney failure. One study from Germany published in July 2020 found that 78 out of 100 patients recovering from a COVID-19 infection had heart-related issues that could have serious consequences, such as inflammation and scarring, but the long-term consequences of these findings are still under research. The more severe the case and symptoms of COVID-19 in a person, the more likely major organs are negatively impacted.\n\nThe longer-term effects of COVID-19 are being studied now. Exhaustion, anxiety, dizziness, headaches, muscle aches, loss of taste and smell, and difficulty breathing are often reported in patients who experience symptoms for weeks following their infection with COVID-19. For some people infected with the virus, their symptoms have lasted longer than 100 days.\n\nRecent studies document several long-term impacts of COVID-19 on various organs in the body, including lung scarring, limited lung capacity, neurocognitive impacts, heart damage, renal failure, and more. Vanderbilt University Medical Center launched a study in July 2020 that will study delirium, post-traumatic stress disorder (PTSD), and depression in patients who have been hospitalized with COVID-19. These disabling impacts are also known as post-intensive care syndrome (PICS), and previous studies of intensive care patients similar to COVID-19 patients suggest that 33-50% experience dementia, 10-20% experience PTSD, and 33% experience major depression. Researchers are also studying whether COVID-19 patients with brain inflammation are at higher risk of autoimmune disorders like demyelination, where the protective coating of nerve cells is attacked by the immune system and may lead to weakness, numbness and difficulty with daily activities.\n\nSince this is a new illness, the real long-term impacts remain unknown. "
+    ],
+    "EN Background and context": [
+      "Health professionals, scientists, and journalists have reported major differences in COVID-19 symptoms from patient to patient. This includes differences in the severity of symptoms, in the duration of symptoms, and in the organs affected. For example, some patients report lingering impacts of COVID-19 lasting months, and the long-term effects of the disease are not fully known yet.\n\nRecently, more news is circulating on the potential long-term impacts of COVID-19 in other parts of the body, beyond the lungs. For example, the media has been reporting of COVID-19 impacts on the heart, following a July 2020 research publication from Germany on heart-related issues in patients recovering from COVID-19. In an update as of mid September, US CDC reported that heart conditions like myocarditis (inflammation of the heart muscle) and pericarditis (inflammation of the covering of the heart), are associated with COVID-19. Such heart damages might also explain long-term symptoms like shortness of breath, chest pain, and heart palpitations. Although rare, severe heart damage has also been seen in young, healthy people. The long-term effects of the more common mild heart conditions are still unknown.\n\nAdditionally, COVID-19 damage to the brain was reported in the media, following the publication of two studies on British and French patients who experienced symptoms ranging from brain inflammation and delirium to nerve damage and stroke. Before the COVID-19 pandemic, researchers have already been concerned about the risks of PTSD and delirium in patients who require intensive care. According to a review of previous delirium research published in Intensive Care Medicine, delirium has impacted 20-40% of critically ill patients overall and as many as 80% of those who required a mechanical ventilator.\n\nAlso during July 2020, the impacts of COVID-19 on the kidneys made the news, following updated recommendations from the American Society of Nephrology. On this topic, Mount Sinai Health System Associate Professor of Nephrology and RenalytixAI Co-Founder, Dr. Steven Coca warns about the rise in “chronic kidney disease in the U.S. among those who recovered from the coronavirus...Since the start of the coronavirus pandemic we have seen the highest rate of kidney failure in our lifetimes. It’s a long-term health burden for patients, the medical community — and the U.S. economy.” New research and media reports are continuing to be released."
+    ],
+    "EN Other resources": [
+      "1. Coronavirus (WHO) \n2. The Long-Term Health Effects of COVID-19 (GAVI) \n3. What are the potential long-term effects of having COVID-19? (AP) \n4. What Long-Term Effects Could COVID-19 Have on Your Lungs? (Banner Health) \n5. Acute Pulmonary Embolism in COVID-19 Patients on CT Angiography and Relationship to D-Dimer Levels (Radiology) \n6. Extrapulmonary manifestations of COVID-19, see Figure 2 (Nature)\n7. Association of Cardiac Injury With Mortality in Hospitalized Patients With COVID-19 in Wuhan, China (JAMA) \n8. Outcomes of Cardiovascular Magnetic Resonance Imaging in Patients Recently Recovered From Coronavirus Disease 2019 (COVID-19) (JAMA Cardiology)\n9. New data shows COVID-19 can cause kidney failure — and launch a different kind of epidemic (Poynter)\n10. The American Society of Nephrology's Resources and Recommendations (ASN)\n11. COVID-19 and Kidney Failure in the Acute Care Setting: Our Experience From Seattle (AJKD) \n12. Coronavirus: Kidney Damage Caused by COVID-19 (Hopkins Medicine)\n13. How Covid-19 can damage the brain (BBC) \n14. Neurologic Manifestations of Hospitalized Patients With Coronavirus Disease 2019 in Wuhan, China (JAMA) \n15. Neurologic Features in Severe SARS-CoV-2 Infection (NEJM) \n16. The emerging spectrum of COVID-19 neurology: clinical, radiological and laboratory findings (Brain)\n17. Long after the fire of a Covid-19 infection, mental and neurological effects can still smolder (STAT News)\n18. Delirium, PTSD, brain fog: The aftermath of surviving COVID-19 (American Psychological Association)\n19. Study to explore how COVID affects cognition over time (Vanderbilt University Medical Center)\n20. Coronavirus Disease: Long-Term Effects (US CDC)"
     ],
     "EN Variation of the answer depending on country of residence": [
       "No"

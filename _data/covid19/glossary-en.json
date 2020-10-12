@@ -165,7 +165,8 @@
       "recE68fRyDEYYEuIr",
       "recAvJuac1TZ49MjL",
       "recXUQjiQ2yaPXyxo",
-      "recN7xZOc6jUGgDCA"
+      "recN7xZOc6jUGgDCA",
+      "recVpklak5rzFJoLX"
     ],
     "Status": "Published",
     "French": [
@@ -268,6 +269,9 @@
     "id": "recsuWy4EfRZwvcmh",
     "Term": "compassionate use",
     "Definition": "According to the U.S. National Institutes of Health, compassionate use - also called 'expanded access' - is a way to provide an investigational therapy to a patient who is not eligible to receive that therapy in a clinical trial, but who has a serious or life-threatening illness for which other treatments are not available. Compassionate use allows patients to receive promising but not yet fully studied or approved cancer therapies when no other treatment option exists. Also called expanded access.\n",
+    "Questions using this term": [
+      "rec9thjuTgT5ytu9t"
+    ],
     "Status": "Published",
     "French": [
       "rec6vNnYlTtVahGRO"
@@ -300,6 +304,9 @@
     "id": "rec3XmnugOMexQiQA",
     "Term": "experimental treatment",
     "Definition": "An experimental treatment is a medication or therapy that is being tested to evaluate if it is effective against an illness or medical condition. Experimental treatments may be existing medications or therapies that are known to work in treating one illness that are tried as a treatment for another illness (i.e. when an antiviral medication is used to treat a new virus, early treatments are considered experimental because it is unclear as to whether or not the medication will work). Experimental treatments may also be new medications or treatments that have not been used before. In addition to learning whether experimental treatments treat particular illnesses, the experimental process evaluates the therapies for possible side effects.\n",
+    "Questions using this term": [
+      "rec9thjuTgT5ytu9t"
+    ],
     "Status": "Published",
     "French": [
       "recSzsRVZvSvXvlel"
@@ -499,7 +506,9 @@
     "Term": "treatment",
     "Definition": "In healthcare, a treatment is a therapy that is used to prevent, treat, or cure a particular condition. Treatments include therapies like medications, surgery, psychotherapy, physical therapy, breathing aids, and promotion of healthy diet and lifestyle habits.\n",
     "Questions using this term": [
-      "recxbPxkhx1NeoE5Q"
+      "recxbPxkhx1NeoE5Q",
+      "rec0TXrBjHL8mZPG8",
+      "rec9thjuTgT5ytu9t"
     ],
     "Status": "Published",
     "French": [
@@ -532,7 +541,8 @@
     "Term": "medicine",
     "Definition": "A medicine is a substance or therapy used to treat an illness, injury, or medical condition. Medicines are often thought of as liquids or pills that are prescribed as treatment, though medicines may also be prescribed in other forms (i.e. inhaled, intravenous, topical creams). The words medication, pharmaceutical, remedy, and drug are commonly used in the same way as the word medicine.\n\nThe_ practice_ of medicine is broadly defined as the art and science of maintaining and promoting health, and preventing and curing disease.\n",
     "Questions using this term": [
-      "recWWXBObp8mm4ii4"
+      "recWWXBObp8mm4ii4",
+      "rec0TXrBjHL8mZPG8"
     ],
     "Status": "Published",
     "French": [
@@ -763,7 +773,8 @@
       "recu5zvFnlQeNTxk8",
       "reczwkJJR0nVeblx9",
       "recyq5D0irsIhQn1B",
-      "rec6Ka1kiwtOXSKe0"
+      "rec6Ka1kiwtOXSKe0",
+      "recfMZ84AyYqSqoBS"
     ],
     "Status": "Published",
     "French": [
@@ -909,7 +920,9 @@
       "rec2shxecDOlAie8Q",
       "recWWXBObp8mm4ii4",
       "reczwkJJR0nVeblx9",
-      "recyq5D0irsIhQn1B"
+      "recyq5D0irsIhQn1B",
+      "rec0TXrBjHL8mZPG8",
+      "rec9thjuTgT5ytu9t"
     ],
     "Status": "Published",
     "French": [
@@ -996,7 +1009,8 @@
       "recdSj2U4jms12Bhy",
       "recUf54dYwOUfEzIR",
       "rech4v50JJeU3kcVw",
-      "recSCMovWVO7VKvPB"
+      "recSCMovWVO7VKvPB",
+      "rece1Xl8IwRL6DtyN"
     ],
     "Status": "Published",
     "French": [
@@ -2077,6 +2091,25 @@
     "Wordcount Definition": 54,
     "Wordcount Term": 2,
     "Total wordcount": 56
+  },
+  {
+    "id": "recFg30lvATvVhmBG",
+    "Term": "monoclonal antibodies",
+    "Definition": "First developed in the 1970s, monoclonal antibodies are typically produced in a lab through cloning to act as optimized antibodies (proteins made by the body to fight infections). Monoclonal antibodies (the prefix \"mono-\" means one) are different from polyclonal antibodies (the prefix \"poly-\" means many):\n\n1) Monoclonal antibodies are made by identical immune cells cloned from a single parent cell; and\n2) Monoclonal antibodies work by binding to a part of the COVID-19 virus and signaling the body's immune system to attack \n\nDue to these properties, monoclonal antibodies have the potential to be produced with consistent quality and purity at a large scale. Additionally, monoclonal antibodies have the potential to provide therapeutic benefits to the immune system because they are highly selective in how they bond to specific antigens that cause disease. Medical applications of monoclonal antibodies have included drugs for cancer.\n",
+    "Questions using this term": [
+      "reczdKiAkOFyEuS5P",
+      "rec9thjuTgT5ytu9t"
+    ],
+    "Status": "Published",
+    "French": [
+      "recgAUh3t2FDPwmFd"
+    ],
+    "Spanish": [
+      "rec8kbW2E608kiY2E"
+    ],
+    "Wordcount Definition": 140,
+    "Wordcount Term": 2,
+    "Total wordcount": 142
   },
   {
     "id": "rec1XtRl9QPx5zxBQ",
