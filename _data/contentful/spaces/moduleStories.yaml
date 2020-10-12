@@ -3,11 +3,224 @@ moduleStories:
 - sys:
     id: 7s8B9FgTZA4NcTCAz2F5DX
     created_at: !ruby/object:DateTime 2020-03-10 00:51:48.166000000 Z
-    updated_at: !ruby/object:DateTime 2020-09-21 20:26:18.497000000 Z
+    updated_at: !ruby/object:DateTime 2020-10-02 21:37:48.061000000 Z
     content_type_id: moduleStories
-    revision: 49
+    revision: 51
   title: Blog
   stories:
+  - sys:
+      id: 6sow0jBp3Nvi9ofcelRoi3
+      created_at: !ruby/object:DateTime 2020-10-02 20:22:28.160000000 Z
+      updated_at: !ruby/object:DateTime 2020-10-07 20:24:15.436000000 Z
+      content_type_id: story
+      revision: 3
+    title: U.S. President Donald Trump has COVID-19. Here are some public health explainers
+      that can help you with your breaking news reporting
+    slug: u-s-president-donald-trump-has-covid-19-here-are-some-public-health
+    topic:
+    - sys:
+        id: 13HcGYCQHm8vDRW3EAkw6j
+    lead_image:
+      sys:
+        id: K6WGWO7Bog8pzhLbRc3zf
+        created_at: !ruby/object:DateTime 2020-10-02 21:29:55.385000000 Z
+        updated_at: !ruby/object:DateTime 2020-10-02 21:34:51.906000000 Z
+      title: U.S. President Donald Trump has COVID-19. Here are some public health
+        explainers that can help you with your breaking news reporting
+      description: 
+      url: "//images.ctfassets.net/g118h5yoccvd/K6WGWO7Bog8pzhLbRc3zf/a93270e292b145d747c2e90040b0ca82/meedan_trump-covid-19-health.jpg"
+    body: "On Thursday, Oct. 1, U.S. President Donald Trump and First Lady Melania
+      Trump reported positive diagnoses of COVID-19. The story is still developing,
+      and a lot of information—both scientific and political—is still unknown. Meedan’s
+      team of in-house public health experts at learnaboutcovid19.org have explainers
+      that can help support your reporting on this breaking news event. We’ll update
+      this with more resources as more information becomes available and clear.\n\n####
+      [How many days after exposure should one be tested to yield the most accurate
+      results, and with which test?](https://learnaboutcovid19.org/questions/how-many-days-after-exposure-should-one-be-tested-to-yield-the-most-accurate-results-and-with-which-test/)\n\nOn
+      Oct. 2, 2020 press reported that former Vice President and presidential hopeful
+      Joe Biden tested negative for COVID-19 after his exposure to President Trump
+      during the first 2020 presidential debate on Sept. 29, 2020. Research suggests
+      that diagnostic testing is more accurate a few days after symptoms start, or
+      around a week after exposure to a person who is infected with COVID-19. Testing
+      more than once can also confirm negative results. Testing Vice President Biden
+      more than once would be the best way to ensure confirmation that he is COVID-19
+      free. The Biden campaign has said on record that Biden and his team are tested
+      regularly for the virus.  \n\n#### [When do we consider someone with COVID-19
+      to have recovered?](https://learnaboutcovid19.org/questions/when-do-we-consider-someone-with-covid-19-to-have-recovered/)\n\nThis
+      is a question that will impact the final weeks of the presidential campaign.
+      A review of COVID-19 recovery guidelines being used around the world show most
+      doctors agree on the following criteria: 1) Clinical: The patient no longer
+      has symptoms, and 2) Laboratory: The patient has negative test results (testing
+      through swabs taken from the nose and throat) showing the virus is no longer
+      present in the upper respiratory system. Both of these criteria should be considered
+      in combination to determine recovery. Negative test results are important because
+      people can still spread the virus even if they have no symptoms or their symptoms
+      have stopped. It remains to be seen how these types of criteria will be implemented
+      amid campaign efforts. \n\n#### [Can someone be infected with COVID-19 more
+      than once?](https://learnaboutcovid19.org/questions/can-someone-be-infected-with-covid-19-more-than-once/)\n\nMedia
+      [report](https://www.washingtonpost.com/politics/barrett-coronavirus-court-trump/2020/10/02/ecf7c7ce-04cf-11eb-8879-7663b816bfa5_story.html)
+      that Supreme Court Justice nominee Amy Coney Barrett tested positive for COVID-19
+      earlier in 2020 but then recovered. Barrett has met with senators and the president
+      in recent days to discuss her nomination. Can Barrett be reinfected? Our scientists
+      say that regardless of the anecdotal evidence, experts still do not know for
+      sure if people can become infected with COVID-19 a second time, but it appears
+      to be possible. More evidence is needed to determine whether or not reinfection
+      can occur in patients, how common it is, and what kind of immunity to the virus
+      people might obtain once they have been infected.\n\n#### [Are you as likely
+      to die from a common cold as COVID-19?](https://learnaboutcovid19.org/questions/are-you-as-likely-to-die-from-a-common-cold-as-covid-19/)\n\nThe
+      president is reported to have mild cold-like symptoms at the time of writing
+      this roundup. While symptoms of the common cold can be similar to COVID-19,
+      there are some clear differences in the potential severity of the two diseases.
+      Namely, COVID-19 is far more lethal than the virus that causes the common cold,
+      even though the vast majority of COVID-19 patients only experience mild or no
+      symptoms. The president’s COVID-19 diagnosis does remain mild, according to
+      White House reports. \n\n#### [What would successful contact tracing look like
+      following the President of the United States’ COVID-19 infection?](https://learnaboutcovid19.org/questions/what-would-successful-contact-tracing-look-like-following-the-president-of-the-united-states-covid-19-infection/)\n\nContact
+      tracing is one of the most effective ways to control the spread of COVID-19.
+      It’s a process that involves tracking down the contacts of any person that tests
+      positive for the disease, so that those contacts can themselves get tested and/or
+      isolate themselves to stop further spread. Many news reports are currently outlining
+      the President’s many points of contact with individuals at rallies, events and
+      interactions with supporters and donors. This entry outlines what will be involved
+      in chasing down those contacts to ensure further spread can stop before it starts.
+      \n\n#### [What does the science say about COVID-19 on surfaces?](https://learnaboutcovid19.org/questions/what-does-the-science-say-about-covid-19-on-surfaces/)\n\nDays
+      before his diagnosis, President Trump was seen throwing hats into a crowd at
+      a campaign event. Video footage of him doing that is now being reported by multiple
+      major media outlets in light of his positive test result. What do we know so
+      far about COVID-19 on surfaces, including hats? The virus that causes COVID-19
+      primarily spreads through close, person-to-person contact, not through surface
+      contamination. However, if a person touches a contaminated surface with traces
+      of the virus and then touches their eyes, nose, or mouth, they could become
+      infected if the surface contains large amounts of the virus. \n\nThis is why
+      it is important to clean and disinfect any surfaces that people might come into
+      contact with, especially those like doorknobs, cell phones, light switches,
+      handles, countertops, sinks, toilets, and more. If possible, people should try
+      to avoid touching high-contact surfaces in public. Washing your hands for 20
+      seconds, avoiding touching your face, maintaining six feet (two meters) of distance
+      and wearing a mask are key steps in combatting the spread of the virus.\n\n####
+      [What is the difference between exposure and infection to a virus?](https://learnaboutcovid19.org/questions/what-is-the-difference-between-exposure-and-infection-to-a-virus/)\n\nThe
+      president and his aides shared rooms and outdoor spaces with many people in
+      the days leading up to the announcement of his COVID-19 infection. There are
+      key differences between being exposed to the virus, and being infected with
+      it. In this entry, we outline where exposure stops, and infection begins. In
+      short, when it comes to infectious diseases, “exposure” means coming into contact
+      with a virus or bacteria. Infection happens when someone is exposed and actually
+      becomes sick from the exposure. \n\n#### [What short and long-term effects does
+      COVID-19 have on other body parts, including lungs, brain, heart and kidneys?](https://learnaboutcovid19.org/questions/what-short-and-long-term-effects-does-covid-19-have-on-other-body-parts-including-lungs-brain-heart-and-kidneys/)\n\nSome
+      health experts are concerned that the president’s age and his weight put him
+      in a category of people that are most likely to have severe symptoms of COVID-19.
+      This is because the disease can attack not just a person’s respiratory system
+      but also their heart, brain and other organs. This entry outlines some of the
+      impacts, short-term and long, that COVID-19 patients experience. In more severe
+      cases of the disease, symptoms can impact several organs. These include pulmonary
+      embolisms (lungs), strokes (brain), and kidney damage due to a lack of oxygen
+      or blood clots.  Often the disease’s symptoms are mild and resolve within a
+      couple of weeks, but sometimes they can be more severe. \n\n[What do we know
+      about monoclonal antibodies as part of a treatment or vaccine for COVID-19?](https://learnaboutcovid19.org/questions/what-do-we-know-about-monoclonal-antibodies-as-part-of-a-treatment-or-vaccine-for-covid-19/)\n\nWhile
+      he was in the hospital, President Trump received an experimental monoclonal
+      antibody cocktail from Regeneron as part of his COVID-19 treatment. What *is*
+      a monoclonal antibody? Our scientists write that monoclonal antibodies (which
+      means ‘one type of antibody’) are antibodies created in a lab that can act as
+      a replacement for the antibodies the body normally creates. The difference between
+      these lab-made antibodies and those created by the immune system is that the
+      monoclonal types are uniquely designed to target a specific antigen, in this
+      case the virus that causes COVID-19, so it can send it messages, try to destroy
+      it, and even make it easier for the immune system to find the antigen and attack
+      it."
+    words_by:
+    - sys:
+        id: 1uaMTril4FB8NxxRTKwLDH
+  - sys:
+      id: KHBUqb0oSmmFDMJ6aU0bK
+      created_at: !ruby/object:DateTime 2020-09-28 20:42:36.165000000 Z
+      updated_at: !ruby/object:DateTime 2020-10-06 15:53:43.826000000 Z
+      content_type_id: story
+      revision: 2
+    title: Welcome Gisela Zuniga, Our New Executive Associate
+    slug: welcome-gisela-zuniga-our-new-executive-associate
+    topic:
+    - sys:
+        id: 32ogZlDIXFakgZXiZ8l3MT
+    lead_image:
+      sys:
+        id: 6QHyhIw5Io6P6DD66cCegx
+        created_at: !ruby/object:DateTime 2020-10-06 15:52:28.962000000 Z
+        updated_at: !ruby/object:DateTime 2020-10-06 15:53:35.706000000 Z
+      title: Gisela Zoom portrait
+      description: 
+      url: "//images.ctfassets.net/g118h5yoccvd/6QHyhIw5Io6P6DD66cCegx/9659c3e0cfacfde5c33595f8d1e22b11/undefined"
+    body: "Over the past few years, Meedan has grown significantly, expanding to three
+      major programs — [Check Global](https://meedan.com/projects/check-global/),
+      the [WhatsApp 3PFC project](https://meedan.com/check) and the [Digital Health
+      Lab](https://health.meedan.com/) — alongside our existing initiatives such as
+      the [Credibility Coalition](https://credibilitycoalition.org/), [Pop Up Newsroom](https://popup.news/),
+      the [Content Moderation Project](https://meedan.com/projects) and our ongoing
+      trainings. With this growth comes a need for more operational infrastructural
+      support. We're thrilled to welcome Gisela Zuniga to the team as our new executive
+      associate, supporting our operational and administrative work throughout the
+      organization. She brings her skills as a communicator to the team as well, having
+      already helped us run two events and revamping our communications strategy.
+      \n\nHere's a short Q&A where we spend some time getting to know Gisela and welcoming
+      her to the team!\n\n### 1. What has been your experience before you joined Meedan?\n\nI
+      studied filmmaking and cultural studies for undergrad in New York; during this
+      time, I completed internships about archiving activist artwork, museum programming,
+      and media nonprofit development. After graduating, I joined the independent
+      media outlet Neta in my hometown of McAllen, Texas, focused on sharing grassroots
+      narratives about the U.S.-Mexico border. I first joined as a video journalist,
+      and transitioned to creative strategy, taking on additional freelance work in
+      documentary film and mixed reality projects in both Texas and New York. I'm
+      a member of [Brown Girls Doc Mafia](https://www.browngirlsdocmafia.com/), a
+      global women of color filmmakers group, and do art residencies occasionally.\n\n###
+      2. Tell us about a journalism project that you worked on that was exciting and
+      insightful.\n\nWhile at Neta, I produced a video about low-income residents
+      of Texas border towns organizing to install public lighting in colonias. Colonias,
+      or unincorporated settlements of Mexican immigrants and Mexican-Americans, often
+      don't have access to sanitation or other city services like the streetlights
+      many of us take for granted. We collaborated with local civic rights organization
+      [ARISE](http://www.arisesotex.org/), led by the headstrong women of these colonias,
+      to develop the Spanish-language script and create a digital landing page for
+      this video guide. We got to present this collaborative project in city hall
+      to local legislators, and since then many more colonias have been able to get
+      public lighting installed!\n\n![Alumbrado Publico](//images.ctfassets.net/g118h5yoccvd/3cRpMhh9QHDPvjmIT8ldEl/092e0e5e47d919992fa7e2a689bc39dc/Alumbrado_Publico_Screenshot.png)\n<p
+      class=\"caption\">November 6, 2018. A 6-year-old girl plays in the streets as
+      the sun sets, before her neighborhood goes completely dark. This colonia in
+      Alamo, Texas awaits installation of public lights scheduled for January 2019.</p>\n\n###
+      3. What is the local news media ecosystem like in the US? What are the strengths
+      and what gaps do you see?\n\nBased on my experience, the U.S. local news media
+      ecosystem is fundamental to how we understand our lives as community members
+      in our town/state/region in a way distinct from national coverage. However,
+      local news has been set up to fail by investment capital, corporate influence,
+      and the scarcity of sustainable funding models, creating massive gaps for meaningful
+      growth. Its strength lies in the resistance of its journalists to imagine a
+      better industry and the incredible organizing to bring it to life. Groups like
+      [Study Hall](https://studyhall.xyz/) create national dialogues for workers across
+      individual contexts to share resources, and [Press On Media](https://www.presson.media/)
+      and [Migrant Roots Media](https://www.migrantrootsmedia.org/) has done incredible
+      work organizing U.S. Southern BIPOC-led local outlets to connect and build a
+      better industry together.\n\n### 4. What brought you to Meedan?\n\nI have become
+      increasingly curious about the tech world and its intersection with media over
+      the years. While my introduction to this field has been through creative technology
+      applications, I've been voraciously learning as much as I can about emerging
+      tools to imagine and implement a more just world. Given Meedan's work to support
+      fact-checkers worldwide via open-source tool Check, to cultivate the sustainability
+      of independent media organizations via the Check Global program, and to explore
+      cutting-edge research in AI technology, joining the Meedan team felt like the
+      natural next step in my career.\n\n### 5. What skills are you hoping to grow
+      at Meedan?\n\nI'm hoping to strengthen my skills in operations management, nonprofit
+      development, and to learn more about nuances of the tech industry. My past experience
+      working in the arts and media emphasized to me that the way colleagues work
+      and communicate with one another is just as vital as the quality of the actual
+      product made. Learning how to craft systems that affirm team members, establish
+      clear expectations for workflows, and cultivate a culture of care within management
+      dynamics not only strengthens my own systems thinking skills, but empowers me
+      to envision what a better tech and media world might look like and bring it
+      to life.\n\n### 6. Tell us some fun facts about Gisela.\n\n-   Buffy the Vampire
+      Slayer is my favorite TV show!\n-   Favorite food is *poc chuc*, a Yucatecan
+      Maya dish of grilled pork chops marinated with sour orange and served with pickled
+      red onions and avocado.\n-   I think the best ways to get active are salsa dancing,
+      roller skating, and taekwondo.\n-   I'm a U.S. Southerner of the Mexican and
+      Honduran diaspora, and call the Rio Grande Valley of South Texas home."
+    alt_date: !ruby/object:DateTime 2020-09-30 00:00:00.000000000 Z
   - sys:
       id: 65aZv1NdLpBSOPYo40kHci
       created_at: !ruby/object:DateTime 2020-08-20 21:41:41.130000000 Z
@@ -299,177 +512,6 @@ moduleStories:
       that is being delivered across nine countries. \n\nMore details to come soon!
       If you’re interested in learning more, contact <a href=\"mailto:hello@meedan.com\">hello@meedan.com</a>.
       \n"
-  - sys:
-      id: 2u4u08lDCEkeTriJ00cqfm
-      created_at: !ruby/object:DateTime 2020-09-18 18:53:15.848000000 Z
-      updated_at: !ruby/object:DateTime 2020-09-18 21:58:34.301000000 Z
-      content_type_id: story
-      revision: 8
-    title: Investigating civilian harm using open source intelligence on Meedan’s
-      flagship software, Check
-    slug: investigating-civilian-harm-using-open-source-intelligence-on-check
-    topic:
-    - sys:
-        id: 3YteOu0dCPeNZKQlFMQNwF
-    lead_image:
-      sys:
-        id: 5Yf1dxnpLLuuSUxOwykOsn
-        created_at: !ruby/object:DateTime 2020-09-18 19:29:55.361000000 Z
-        updated_at: !ruby/object:DateTime 2020-09-18 19:34:48.241000000 Z
-      title: meedan tbji open-source-investigation
-      description: 
-      url: "//images.ctfassets.net/g118h5yoccvd/5Yf1dxnpLLuuSUxOwykOsn/164691b8968de91e8b79a696cda9bea1/meedan_tbji_open-source-investigation.jpg"
-    description: 'A collaboration on Check between The Bureau of Investigative Journalism
-      and Bellingcat''s open-source intelligence community leads to extensive public
-      interest reporting on the air war in Afghanistan. '
-    body: "In 2019, a reporter from The [Bureau of Investigative Journalism](https://www.thebureauinvestigates.com/)
-      in London reached out to Meedan. She needed help with an investigation into
-      airstrikes in Afghanistan, specifically, to document evidence of civilian harm
-      from 21 alleged airstrikes that in recent years had reportedly hit civilian
-      homes and killed family members.\n\n[Jess Purkiss](https://www.thebureauinvestigates.com/profile/jessicapurkiss)
-      and her team knew that using official information from U.S. and Afghan forces
-      would prove near impossible; the Bureau has been tracking strikes in Afghanistan
-      for more than five years and often, both sides of the conflict deny accountability
-      for harm inflicted on innocent citizens. \n\nTurning to the open web, the Bureau
-      first connected with Meedan partner [Bellingcat](https://www.bellingcat.com/),
-      an open source investigation community well known for its investigations that
-      [Meedan supports](https://www.bellingcat.com/resources/articles/2014/08/06/investigating-the-mh17-crash-site-with-meedans-checkdesk/)
-      through our open source verification software, Check. \n\nPurkiss set out to
-      crowdsource information about her list of suspected airstrikes. Were they indeed
-      airstrikes? Who was harmed by them? Where, specifically, did they happen? Whose
-      homes were destroyed? Who survived? Bellingcat’s community of internet sleuths
-      searched the expanses of Twitter, Facebook and other platforms for any evidence
-      that might answer those questions. They logged their findings and built large
-      bodies of evidence for each reported airstrike in Check, where the Bureau could
-      review and verify open source submissions, ask questions and prompt answers.
-      \n\n![edit&ltmpl=docs](//images.ctfassets.net/g118h5yoccvd/6XZGBYzHQV9OKH9zCqkFZO/f0830d02a89f8d51658197e89a7ddb14/Check-Example__1_.jpg)\n<p
-      class=\"caption\">An image of the investigative workspace in Check</p>\n\nWorking
-      together, the team was able to piece together some definitive narratives behind
-      what happened, and to whom, as a result of these airstrikes. In a [brief of
-      one incident](https://www.thebureauinvestigates.com/stories/2020-06-03/finding-the-faces-of-afghanistans-slaughtered-civilians)
-      on the Bureau’s site, the team writes: \n\n> \"One of the strikes on the Bureau’s
-      list had hit a building – a home – in  Baghlan province, north of Kabul, on
-      July 9, 2019. Early narratives around  this incident were conflicting. A few
-      brief lines in news reports at the   time said that the Afghan Ministry of Defence
-      had admitted civilians had died in a strike, but stopped short of taking responsibility.
-      And while the US denied carrying out strikes in the area, the governor of the
-      province was on camera blaming Nato forces – a common shorthand for the US,
-      the only Nato member still conducting air operations in Afghanistan.\n\n> Coordinating
-      an OSINT [Open Source Intelligence] operation involves setting priorities for
-      different strikes – what is known already, and what’s most important to find
-      out? Do we know for sure that a strike happened, or are we trying to pinpoint
-      where and when?\n\n> In the Baghlan case, the key information to find was the
-      coordinates. In incidents like this, where responsibility is not clear, finding
-      the exact location of the strike can make a huge difference. In the strike on
-      Masih’s house, it was this detail that had prompted a reversal of the US military’s
-      initial denial.\"\n\nUsing Check to collectively document findings, the team
-      of OSINT volunteers searched the internet to geolocate where the strike happened.
-      One user even found evidence that determined the location of the strike. Others
-      were able to help the Bureau build weights of information that detailed who
-      strikes killed and when. \n\nIn total, the Check-supported reporting led to
-      [this piece](https://www.thebureauinvestigates.com/stories/2020-06-03/finding-the-faces-of-afghanistans-slaughtered-civilians)
-      examining two of the incidents and looking at how OSINT can help fill accountability
-      gaps and produce leads to follow up on the ground. Another [version of the piece](https://www.wired.co.uk/article/afghanistan-civilian-deaths-us-military)
-      appeared in WIRED. \n\nOne strike in particular, in Baghlan province on July
-      9, outlined the technical process for verification in this Bellingcat [case
-      study](https://www.bellingcat.com/news/rest-of-world/2020/06/04/investigating-one-case-of-civilian-harm-in-afghanistan/).
-      \n\nOSINT findings also [fed into this long read](https://www.thebureauinvestigates.com/stories/2020-06-03/the-families-paying-the-price-for-the-war-in-afghanistan),
-      examining accountability for the airwar in Afghanistan, which investigated strikes
-      that hit ten civilian compounds. A number of the cases came from the Check account,
-      while others are from investigations outside this project. Work on a Nangarhar
-      strike is featured in an [Al Jazeera Fault Lines documentary](https://www.aljazeera.com/programmes/faultlines/2020/06/afghanistan-civilian-loss-air-war-200602093444066.html).
-      The film crew journeyed to meet this family in Afghanistan, and others in partnership
-      with TBIJ. \n\nThis case study is an example of how the open source community
-      can use [Check](https://checkmedia.org/) to document important information,
-      especially when that information is not accessible due to lack of transparency
-      or resource. On the platform, volunteers from all walks of life, coupled with
-      a rigorous layer of verification by the Bureau, helped shine a light on murky
-      incidents of war that greatly impacted families, homes and livelihoods."
-    words_by:
-    - sys:
-        id: dyeTaxL6zUN3ST8oyYpTC
-    alt_date: !ruby/object:DateTime 2020-09-18 00:00:00.000000000 Z
-  - sys:
-      id: 1KD70kebuy8BZ1aSJaooKF
-      created_at: !ruby/object:DateTime 2020-09-08 12:46:22.017000000 Z
-      updated_at: !ruby/object:DateTime 2020-09-23 22:53:41.244000000 Z
-      content_type_id: story
-      revision: 2
-    title: 'Meet Sneha Alexander: Meedan''s new Program Associate in APAC'
-    slug: meet-sneha-alexander-meedans-new-program-associate-in-apac
-    topic:
-    - sys:
-        id: 32ogZlDIXFakgZXiZ8l3MT
-    lead_image:
-      sys:
-        id: QdhOBPj5FQUFe0xwLWOKg
-        created_at: !ruby/object:DateTime 2020-09-08 12:55:49.324000000 Z
-        updated_at: !ruby/object:DateTime 2020-09-16 22:21:13.692000000 Z
-      title: Sneha Alexander
-      description: 'Sneha Alexander '
-      url: "//images.ctfassets.net/g118h5yoccvd/QdhOBPj5FQUFe0xwLWOKg/41bee47f5e05fab732afb0ea70391158/259e3415-2ffc-4cea-8926-ef6574ca7044.jpg"
-    body: "In the last one year, Meedan has entered into new and exciting partnerships
-      with fact-checking groups, newsrooms and networks focusing on human rights in
-      the Asia Pacific region. With new partnerships and existing programs, we have
-      a team working closely with partners and supporting their work. As part of this
-      team, we're excited to welcome Sneha Alexander to Meedan. Sneha has joined us
-      as the Program Associate for the Asia Pacific region. Her background in journalism
-      and fact-checking will contribute to Meedan's work on these areas. \n\nCatch
-      Sneha in this short Q&A here where she talks about her background, interests
-      and fun facts that we're thrilled to learn about! \n\n### 1. What has been your
-      experience before you joined Meedan? \n\nI came to Mumbai to pursue a Masters
-      in Public Policy. During this time, I worked part-time with a travel company
-      where I drafted itineraries and helped organize study tours and adventure programmes
-      for schools and college students. Later I worked in the Indian news industry
-      for 4 years. First, as a policy analyst cum fact-checker with BOOM, one of India’s
-      premier fact-checking organizations. Later, I worked as a data journalist for
-      the Plain Facts column of Mint, one of India’s leading financial dailies.  \n\n###
-      2. Tell us about a story/ assignment that you worked on that was exciting and
-      insightful.\n\nThe assignments that I enjoyed the most involved fact-checking
-      claims of top officials / leaders of the country, speaking to subject experts
-      and had a direct impact on people’s lives.\nAn example is a story in which my
-      co-author and I questioned the veracity of the government claim that Indian
-      villages have become open defecation free. We pointed to the contradiction in
-      data provided by two wings of the government - administrative data of Clean
-      India Mission from the concerned ministry and [the household survey data of
-      the National Statistical Organizatio](https://www.livemint.com/news/india/india-s-toilet-stats-raise-a-stink-11576658602838.html)n.
-      Other than pointing to the discrepancy in data, we also reached out to subject
-      experts to put in perspective the government’s claim that beneficiaries may
-      have under-reported sanitation coverage. This article also attracted criticism
-      from the government [in a public information bureau release](https://pib.gov.in/Pressreleaseshare.aspx?PRID=1596964).
-      \n\n### 3. What is the Indian media and fact-checking ecosystem like? What are
-      the strengths and what gaps do you see?\n\nThe Indian media and fact-checking
-      ecosystem is an extremely competitive space, where organizations have the drive
-      to be first to report stories and flag misinformation. Thanks to the huge country
-      India is and thriving social media platforms, there is no dearth of content
-      or audience. Since there is space for everyone and great scope for adoption
-      of technology driven reporting, the focus should be on producing credible, non-partisan
-      and fact-driven content. There also needs to be greater coverage of rural and
-      local issues. \n\n### 4. What brought you to Meedan?\n\nHaving worked as a fact-checker
-      and a journalist, I felt it would be great to facilitate credible journalism.
-      Moreover, I was very excited by the prospect of working with the global fact-check
-      community and team members from across the world in making the web a more inclusive
-      and better place. \n\n### 5. What's a project you're excited about right now?\n\nI
-      am excited about [Meedan’s End-to-End Fact-Checking project](https://meedan.com/files/Meedan-WhatsApp-Case-Study-End-to-End-Fact-Checking.pdf?utm_source=website&utm_medium=press-release&utm_campaign=global-fact)
-      involving different Indian fact-check organizations using WhatsApp tiplines
-      and Check for fact-checking. Earlier, I was at the other end, a user of fact-check
-      technology. Switching to the role of facilitator will provide great insights
-      in understanding the intersection of technology and media. I am also very keen
-      to be part of projects like the COVID-19 microgrants which support the good
-      work of individuals and grassroot level media organizations that keep local
-      issues in perspective and integrate communities to the larger online community.
-      \n\nIn the long run, I also look forward to seeing a greater focus on data based
-      fact-checks in the global fact-check space. Many times, the claims of political
-      leaders and top officials are not backed by data and include misrepresentation
-      of facts. This later turns out to be the ‘truth’ on social media platforms and
-      at dinner table conversations giving way to hatred and other dangers. To tackle
-      this, there needs to be more conversation and greater use of credible data in
-      fact-checking.  \n\n### 6. Tell us some fun facts about Sneha.\n\n- I enjoy
-      following Indian politics and would love to be part of election and political
-      strategizing some time in future\n- Acting in a film is on my bucket list. \n-
-      A plate of chicken biriyani can lift my mood. \n- I love spicy food and can
-      nibble on green chilli with almost anything!!\n"
-    alt_date: !ruby/object:DateTime 2020-09-16 00:00:00.000000000 Z
 - sys:
     id: 4hDOrsmcTmB60zhqrzF6Xp
     created_at: !ruby/object:DateTime 2020-07-30 20:31:01.387000000 Z
