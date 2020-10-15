@@ -44,8 +44,9 @@
             </span>
         </span>` : '';
 
+        // Setting date with UTC timezone
         const last_modified = 'Last modified manual' in hit ?
-            new Date(hit['Last modified manual'])
+            new Date(`${hit['Last modified manual']}T23:59:59`)
                 .toLocaleDateString(undefined, { weekday: undefined, year: 'numeric', month: 'long', day: 'numeric' })
             : '';
 

@@ -623,14 +623,112 @@
       "COVID-19"
     ],
     "Other resources": "1. Coronavirus Testing Basics ([U.S. FDA](https://www.fda.gov/consumers/consumer-updates/coronavirus-testing-basics))\n2. Testing for COVID-19 ([U.S. CDC](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/testing.html))\n3. The Latest in Coronavirus (COVID-19) Testing Methods and Availability ([GoodRx](https://www.goodrx.com/blog/coronavirus-covid-19-testing-updates-methods-cost-availability/))\n4. Variation in False-Negative Rate of Reverse Transcriptase Polymerase Chain Reaction–Based SARS-CoV-2 Tests by Time Since Exposure ([Annals of Internal Medicine](https://www.acpjournals.org/doi/10.7326/M20-1495))\n5. Association of Initial Viral Load in Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Patients with Outcome and Symptoms ([American Journal of Pathology](https://ajp.amjpathol.org/article/S0002-9440(20)30328-X/fulltext))\n6. Temporal dynamics in viral shedding and transmissibility of COVID-19 ([Nature](https://www.nature.com/articles/s41591-020-0869-5))\n7. Study Raises Questions About False Negatives From Quick COVID-19 Test ([NPR](https://www.npr.org/sections/health-shots/2020/04/21/838794281/study-raises-questions-about-false-negatives-from-quick-covid-19-test))\n8. Performance of the rapid Nucleic Acid Amplification by Abbott ID NOW COVID-19 in nasopharyngeal swabs transported in viral media and dry nasal swabs, in a New York City academic institution ([bioRxiv](https://www.biorxiv.org/content/10.1101/2020.05.11.089896v1.article-info))\n",
+    "Media": [
+      {
+        "id": "attrn9FcXShRm4AgY",
+        "url": "https://dl.airtable.com/.attachments/2b7bee01a09cad8afeccfc37c225cbaa/bd938f40/Slide_1",
+        "filename": "Slide_1",
+        "size": 166254,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/1b0485caccc591eae0e483cb09950290/5b5951f4",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c319ce9472b30e3b8969b5212bdb06e2/cfeb5ad1",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7142f5cbc2854d973b61537c2967fc55/60bf1829",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "att4pznttEysOQrZS",
+        "url": "https://dl.airtable.com/.attachments/2df47ccdaeb78d99146fa74b3778fdeb/1cee3fd5/Slide_2",
+        "filename": "Slide_2",
+        "size": 192777,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ce4e8586e27ee877361686c483bd7dfd/64b9dc60",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/8b86de93fbda0969c847c0e33a34803c/290dd9f2",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2cb5ec571e3fd08018d1e290cb37b013/1c0fe7a3",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attWhb45H5SdGLjpB",
+        "url": "https://dl.airtable.com/.attachments/449b2c3810c673dd5cc3915c0081f8fa/43aee508/Slide_3",
+        "filename": "Slide_3",
+        "size": 184610,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/04efdb734641dd4eb4c79873df564da1/e0597750",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/95b37d8f81b3d16cd1a8631e7f17188a/ec24b8c0",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7d3796b7ec674c361cd2d59e57635ce6/47e4b26d",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attAKD4Mv7OwbWkpq",
+        "url": "https://dl.airtable.com/.attachments/a639a2110a4adc5c1accaf2d5d64e9e4/be1b9ba6/Slide_4",
+        "filename": "Slide_4",
+        "size": 243670,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/912095ee5f31bed73ed12bfe97005427/ab9212f2",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a06cd57264955fb416f5625670c6735e/9760d4f7",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e19b8cdb2066c4baf248c135835986ba/aca55430",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "Last modified manual": "2020-08-28",
     "Last edited (simplified)": "2020-08-21T14:28:19.000Z",
-    "Last edited (experts say)": "2020-09-08T20:57:17.000Z",
+    "Last edited (experts say)": "2020-10-13T20:22:35.000Z",
     "What our experts say wordcount": 465,
     "Background and context wordcount": 266,
     "Other resources wordcount": 115,
     "Wordcount": 846,
-    "Last modified": "2020-09-08"
+    "Last modified": "2020-10-13"
   },
   {
     "id": "recIWpxnU5BOReqN2",
@@ -1600,17 +1698,115 @@
       "disinfectants"
     ],
     "Other resources": "1. Considerations for the cleaning and disinfection of environmental surfaces in the context of COVID-19 in non-health care settings ([WHO](https://www.who.int/news-room/q-a-detail/q-a-considerations-for-the-cleaning-and-disinfection-of-environmental-surfaces-in-the-context-of-covid-19-in-non-health-care-settings))\n2. COVID-19: Cleaning and Disinfecting Your Facility ([U.S. CDC](https://www.cdc.gov/coronavirus/2019-ncov/community/disinfecting-building-facility.html))\n3. Disinfection tunnels: potentially counterproductive in the context of a prolonged pandemic of COVID-19 ([Elsevier Public Health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7200329/))\n4. UV Industry Associations Discourage the Use of UV Light on the Human Body to Disinfect Against the Coronavirus ([PR Newswire](https://www.prnewswire.com/news-releases/uv-industry-associations-discourage-the-use-of-uv-light-on-the-human-body-to-disinfect-against-the-coronavirus-301047108.html))\n5. “Disinfection Tunnels” Are Popping Up Around the World, Fueled By Misinformation and Fear ([Leapsmag](https://leapsmag.com/disinfection-tunnels-are-popping-up-around-the-world-fueled-by-misinformation-and-fear/))\n6. Disinfection tunnels: a problematic COVID-19 invention? | Analysis ([Africa News](https://www.africanews.com/2020/06/25/disinfection-tunnels-a-problematic-covid-19-invention-analysis//))\n",
+    "Media": [
+      {
+        "id": "att89djJcxqVfYGXL",
+        "url": "https://dl.airtable.com/.attachments/490b160dfb49b7553b615ecc680d94d8/7a75a8ab/Slide_1",
+        "filename": "Slide_1",
+        "size": 137607,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f100ea9789ae46ab44d7646673ece260/b644fc39",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/1f609bbac202ddad2ea1cf0d57ba36cb/72318cf7",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/89240cab4f7d446c05d59b18fb10aa00/552c8acd",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attNLpkWlWu9AqLMi",
+        "url": "https://dl.airtable.com/.attachments/c94419c0812166b1c8a9d338af044f4a/98863d43/Slide_2",
+        "filename": "Slide_2",
+        "size": 233305,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/4b966e327bf3e7c3802e7e000ffeaed2/737f6135",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/bd42a8c73e5b060e717ccadbaf458004/3c8909aa",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a4e0b31bda5e9c8d7fe6c9b594ba5e50/f118cb9d",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attCs4DZ5zBwA61ZZ",
+        "url": "https://dl.airtable.com/.attachments/c00533caaabb2ec5322dbb3ee8c40c16/96438ac0/Slide_3",
+        "filename": "Slide_3",
+        "size": 175029,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ec3c71ed9d9467285d259446e8d0a78f/2d0387ad",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c3ccd6a5bc6d5eaabbd6639dbdb49ad7/4b5de961",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/12618361a32e1aa3c5577af2cd313995/be17080d",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attEvyj8Qri4B3Sxp",
+        "url": "https://dl.airtable.com/.attachments/e8c75389d5873c60dc4b51042ead2c07/e9710aa6/Slide_4",
+        "filename": "Slide_4",
+        "size": 294092,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b8fd18d9b340e16d83861de64c513302/398f9134",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/97fe20351869cfff12fc4fe3dceff983/2b5f73c3",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/654b565a916bec67169bccd1a081a609/6c955c54",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "Rollup test 2": [
       "recqD5CWejCR7ZMVp"
     ],
     "Last modified manual": "2020-08-12",
     "Last edited (simplified)": "2020-08-11T23:34:30.000Z",
-    "Last edited (experts say)": "2020-08-12T18:26:13.000Z",
+    "Last edited (experts say)": "2020-10-13T20:17:15.000Z",
     "What our experts say wordcount": 299,
     "Background and context wordcount": 181,
     "Other resources wordcount": 88,
     "Wordcount": 568,
-    "Last modified": "2020-08-11"
+    "Last modified": "2020-10-13"
   },
   {
     "id": "rec7DJ38UBOLWSnqC",
@@ -3390,11 +3586,11 @@
   {
     "id": "recXUQjiQ2yaPXyxo",
     "Question": "What do we know so far about airborne transmission and how does it differ from respiratory droplet transmission? ",
-    "Status": "Published",
+    "Status": "Update ready for review",
     "Category": "Transmission",
     "Subcategory": "Differences between airborne transmission and respiratory droplets",
-    "Background and context": "Respiratory droplet transmission happens when disease, in this case COVID-19, spreads through droplets expelled by an infected person, through coughing, sneezing, talking, or even just breathing; these droplets are larger than 5-10 micrometers. One micrometer is one millionth of a meter. Respiratory droplets are relatively heavy, and fall to the ground quickly. In contrast, airborne transmission is when residue from droplets smaller than 5 micrometers, or dust particles carrying the virus, stay suspended in the air for a while and travel as their air moves. Scientists and the World Health Organization (WHO) have recognized that evidence is emerging on the possibility of airborne transmission, particularly in crowded, closed, poorly ventilated settings. If airborne transmission of COVID-19 is significant, this has major implications for containment efforts (ex. masks may be needed indoors and even in socially-distant settings, ventilation systems may need to minimize recirculating air and find ways to filter or disinfect contaminated air, etc.). \n",
-    "What our experts say": "There is increasing evidence that COVID-19 can spread through airborne transmission, which is when a person infected with COVID-19 releases tiny droplets of fluid into the air called 'droplet nuclei' by coughing, sneezing, talking, or during some medical procedures. Droplet nuclei are very light, relatively dry, and microscopic in size so they can remain suspended in the air like a mist, which is why airborne transmission is also called 'aerosol transmission', and pose a risk of infection to people in close proximity or people sitting in areas that are poorly ventilated. This is different from the main theory that the virus spreads through bigger respiratory droplets that are heavier, fall to the ground relatively quickly, and do not remain suspended in the air or spread through the air. \n\nResearchers are still studying aerosol transmission, but the World Health Organization (WHO) acknowledged emerging evidence regarding airborne transmission in poorly ventilated spaces. Public health experts have repeatedly warned that airborne transmission is most likely contributing to transmission, especially in indoor spaces, and recommendations should incorporate the need for sufficient ventilation, high efficiency filtration, and limiting crowded spaces, in addition to universal adoption of masks, social distancing, and frequent hand washing with soap and water. New studies about previous outbreaks, such as the Diamond Princess cruise ship outbreak, found that the virus spread rapidly between passengers due to aerosol transmission through small droplets that were light enough to linger in the air. Yet another study found evidence of the novel coronavirus in the air from isolated individuals who had COVID-19. These studies highlight the importance of combining proper ventilation with cloth masks and social distancing to prevent transmission of the virus.\n\n_This entry was updated with new information on August 03, 2020._\n",
+    "Background and context": "Respiratory droplet transmission happens when disease, in this case COVID-19, spreads through droplets expelled by an infected person, through coughing, sneezing, talking, or even just breathing; these droplets are larger than 5-10 micrometers. One micrometer is one millionth of a meter. Respiratory droplets are relatively heavy, and fall to the ground quickly. In contrast, airborne transmission is when residue from droplets smaller than 5 micrometers, or dust particles carrying the virus, stay suspended in the air for a while and travel as their air moves. Scientists and the World Health Organization (WHO) have recognized that evidence is emerging on the possibility of airborne transmission, particularly in crowded, closed, poorly ventilated settings. If airborne transmission of COVID-19 is significant, this has major implications for containment efforts (ex. masks may be needed indoors and even in socially-distant settings, ventilation systems may need to minimize recirculating air and find ways to filter or disinfect contaminated air, etc.). \nThe US CDC has recently acknowledged well-documented evidence of airborne transmission of SARS-CoV-2 under circumstances of enclosed spaces, prolonged exposure to respiratory particles from an infectious person, or inadequate ventilation. \n",
+    "What our experts say": "There is increasing evidence that COVID-19 can spread through airborne transmission, which is when a person infected with COVID-19 releases tiny droplets of fluid into the air called 'droplet nuclei' by coughing, sneezing, talking, or during some medical procedures. Droplet nuclei are very light, relatively dry, and microscopic in size so they can remain suspended in the air like a mist, which is why airborne transmission is also called 'aerosol transmission', and pose a risk of infection to people in close proximity or people sitting in areas that are poorly ventilated. This is different from the main theory that the virus spreads through bigger respiratory droplets that are heavier, fall to the ground relatively quickly, and do not remain suspended in the air or spread through the air. \n\nWhile researchers are still studying aerosol transmission, the World Health Organization (WHO) and the US CDC acknowledged emerging evidence regarding airborne transmission in poorly ventilated spaces. Enclosed spaces were found to contain enough virus to cause infections in people who were more than six feet away or passed through a space soon after an infectious person had left the room. \n\nPublic health experts have repeatedly warned that airborne transmission is most likely contributing to transmission, especially in indoor spaces, and recommendations should incorporate the need for sufficient ventilation, high efficiency filtration, and limiting crowded spaces, in addition to universal adoption of masks, social distancing, and frequent hand washing with soap and water. New studies about previous outbreaks, such as the Diamond Princess cruise ship outbreak, found that the virus spread rapidly between passengers due to aerosol transmission through small droplets that were light enough to linger in the air. Yet another study found evidence of the novel coronavirus in the air from isolated individuals who had COVID-19. These studies highlight the importance of combining proper ventilation with cloth masks and social distancing to prevent transmission of the virus.\n",
     "Glossary Terms": [
       "recy3qWpegJbN2rbV",
       "recTotk6ZnYu3ib8P",
@@ -3410,7 +3606,7 @@
       "droplet",
       "respiratory droplets"
     ],
-    "Other resources": "1. Modes of transmission of virus causing COVID-19: implications for IPC precaution recommendations ([WHO](https://www.who.int/news-room/commentaries/detail/modes-of-transmission-of-virus-causing-covid-19-implications-for-ipc-precaution-recommendations))\n2. Open Letter: It is Time to Address Airborne Transmission of COVID-19 ([Clinical Infectious Diseases](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/5867798))\n3. Aboard the Diamond Princess, a Case Study in Aerosol Transmission ([NYT](https://www.nytimes.com/2020/07/30/health/diamond-princess-coronavirus-aerosol.html))\n4. Mechanistic Transmission Modeling of COVID-19 on the Diamond Princess Cruise Ship Demonstrates the Importance of Aerosol Transmission ([medRxiv](https://www.medrxiv.org/content/10.1101/2020.07.13.20153049v1))\n5. Aerosol and surface contamination of SARS-CoV-2 observed in quarantine and isolation care ([Nature](https://www.nature.com/articles/s41598-020-69286-3))\n6. W.H.O. to Review Evidence of Airborne Transmission of Coronavirus ([NYT](https://www.nytimes.com/2020/07/07/health/coronavirus-aerosols-who.html))\n7. Mechanistic Transmission Modeling of COVID-19 on the Diamond Princess Cruise Ship Demonstrates the Importance of Aerosol Transmission ([medRxiv](https://www.medrxiv.org/content/10.1101/2020.07.13.20153049v1))\n8. 239 Experts With One Big Claim: The Coronavirus Is Airborne ([NYT](https://www.nytimes.com/2020/07/04/health/239-experts-with-one-big-claim-the-coronavirus-is-airborne.html))\n9. Evidence for probable aerosol transmission of SARS-CoV-2 in a poorly ventilated restaurant ([medRxiv](https://www.medrxiv.org/content/10.1101/2020.04.16.20067728v1))\n10. Scientists Urge WHO To Update Guidance On Airborne Transmission Of The Coronavirus ([NPR](https://www.npr.org/2020/07/06/887925721/scientists-urge-who-to-update-guidance-on-airborne-transmission-of-the-coronavir))\n11. Aerodynamic Characteristics and RNA Concentration of SARS-CoV-2 Aerosol in Wuhan Hospitals during COVID-19 Outbreak ([bioRxiv](https://www.biorxiv.org/content/10.1101/2020.03.08.982637v1))\n12. Coronavirus: WHO rethinking how Covid-19 spreads in air ([BBC](https://www.bbc.com/news/world-53329946))\n13. Transmission of SARS-CoV-2: implications for infection prevention precautions ([WHO](https://www.who.int/publications/i/item/modes-of-transmission-of-virus-causing-covid-19-implications-for-ipc-precaution-recommendations)) \n",
+    "Other resources": "1. Modes of transmission of virus causing COVID-19: implications for IPC precaution recommendations ([WHO](https://www.who.int/news-room/commentaries/detail/modes-of-transmission-of-virus-causing-covid-19-implications-for-ipc-precaution-recommendations))\n2. Open Letter: It is Time to Address Airborne Transmission of COVID-19 ([Clinical Infectious Diseases](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/5867798))\n3. Aboard the Diamond Princess, a Case Study in Aerosol Transmission ([NYT](https://www.nytimes.com/2020/07/30/health/diamond-princess-coronavirus-aerosol.html))\n4. Mechanistic Transmission Modeling of COVID-19 on the Diamond Princess Cruise Ship Demonstrates the Importance of Aerosol Transmission ([medRxiv](https://www.medrxiv.org/content/10.1101/2020.07.13.20153049v1))\n5. Aerosol and surface contamination of SARS-CoV-2 observed in quarantine and isolation care ([Nature](https://www.nature.com/articles/s41598-020-69286-3))\n6. W.H.O. to Review Evidence of Airborne Transmission of Coronavirus ([NYT](https://www.nytimes.com/2020/07/07/health/coronavirus-aerosols-who.html))\n7. Mechanistic Transmission Modeling of COVID-19 on the Diamond Princess Cruise Ship Demonstrates the Importance of Aerosol Transmission ([medRxiv](https://www.medrxiv.org/content/10.1101/2020.07.13.20153049v1))\n8. 239 Experts With One Big Claim: The Coronavirus Is Airborne ([NYT](https://www.nytimes.com/2020/07/04/health/239-experts-with-one-big-claim-the-coronavirus-is-airborne.html))\n9. Evidence for probable aerosol transmission of SARS-CoV-2 in a poorly ventilated restaurant ([medRxiv](https://www.medrxiv.org/content/10.1101/2020.04.16.20067728v1))\n10. Scientists Urge WHO To Update Guidance On Airborne Transmission Of The Coronavirus ([NPR](https://www.npr.org/2020/07/06/887925721/scientists-urge-who-to-update-guidance-on-airborne-transmission-of-the-coronavir))\n11. Aerodynamic Characteristics and RNA Concentration of SARS-CoV-2 Aerosol in Wuhan Hospitals during COVID-19 Outbreak ([bioRxiv](https://www.biorxiv.org/content/10.1101/2020.03.08.982637v1))\n12. Coronavirus: WHO rethinking how Covid-19 spreads in air ([BBC](https://www.bbc.com/news/world-53329946))\n13. Transmission of SARS-CoV-2: implications for infection prevention precautions ([WHO](https://www.who.int/publications/i/item/modes-of-transmission-of-virus-causing-covid-19-implications-for-ipc-precaution-recommendations)[) ](https://www.cdc.gov/coronavirus/2019-ncov/more/scientific-brief-sars-cov-2.html)\n14. SARS-CoV-2 & Potential Airborne Transmission ([US CDC)](https://www.cdc.gov/coronavirus/2019-ncov/more/scientific-brief-sars-cov-2.html)\n",
     "How often revision needed": "Weekly",
     "DB (Hindi)": [
       "recQsQedv6T3fLr8y"
@@ -3579,12 +3775,12 @@
       }
     ],
     "Last modified manual": "2020-08-03",
-    "Last edited (simplified)": "2020-07-31T20:30:18.000Z",
-    "Last edited (experts say)": "2020-08-31T19:10:23.000Z",
-    "What our experts say wordcount": 288,
-    "Background and context wordcount": 155,
-    "Other resources wordcount": 169,
-    "Wordcount": 612,
+    "Last edited (simplified)": "2020-10-13T17:00:41.000Z",
+    "Last edited (experts say)": "2020-10-13T17:00:41.000Z",
+    "What our experts say wordcount": 316,
+    "Background and context wordcount": 185,
+    "Other resources wordcount": 176,
+    "Wordcount": 677,
     "Hindi Q Status": [
       "Published"
     ],
@@ -3594,7 +3790,7 @@
     "Hindi - Background and context": [
       "श्वसन की छोटी बूंद का संचरण तब होता है जब रोग, इस मामले में सीओवीआईडी ​​-19, संक्रमित व्यक्ति द्वारा खांसी, छींकने, बात करने या यहां तक ​​कि सिर्फ सांस लेने के माध्यम से निष्कासित बूंदों के माध्यम से फैलता है; ये बूंदें 5-10 माइक्रोमीटर से बड़ी होती हैं। एक माइक्रोमीटर एक मीटर का दसवां हिस्सा है। श्वसन की बूंदें अपेक्षाकृत भारी होती हैं, और जल्दी से जमीन पर गिर जाती हैं। इसके विपरीत, एयरबोर्न ट्रांसमिशन तब होता है जब 5 माइक्रोमीटर, या वायरस ले जाने वाले धूल कणों से छोटी बूंदों से अवशेष थोड़ी देर के लिए हवा में निलंबित रहते हैं और उनकी हवा चलती है। वैज्ञानिकों और विश्व स्वास्थ्य संगठन (डब्ल्यूएचओ) ने माना है कि सबूत हवाई प्रसारण की संभावना पर उभर रहे हैं, विशेष रूप से भीड़, बंद, खराब हवादार सेटिंग्स में। यदि कोविड-19 का एयरबोर्न ट्रांसमिशन महत्वपूर्ण है, तो इसमें रोकथाम के प्रयासों के लिए प्रमुख निहितार्थ हैं (पूर्व मास्क को घर के अंदर और यहां तक ​​कि सामाजिक-दूर की सेटिंग्स में भी हो सकता है, वेंटिलेशन सिस्टम को पुन: परिसंचारी हवा को कम करने और दूषित हवा को फिल्टर या कीटाणुरहित करने के तरीके खोजने की आवश्यकता हो सकती है। , आदि)।"
     ],
-    "Last modified": "2020-08-31"
+    "Last modified": "2020-10-13"
   },
   {
     "id": "recqFRWiE9Y6nbUM5",
@@ -4617,11 +4813,11 @@
   {
     "id": "recSOnnQBIkFxZ8t8",
     "Question": "Is there a cure for COVID-19? What is the cure?\n",
-    "Status": "Published",
+    "Status": "Update ready for review",
     "Category": "Treatment",
     "Subcategory": "On: COVID-19 & treatments",
     "Background and context": "The word 'cure' is a broad one that technically means a procedure or drug that ends a certain medical condition, and implies a complete restoration of health. The word 'treatment,' on the other hand, technically means a procedure or drug that improves a certain medical condition, but doesn't necessarily end it. This distinction is important because there is currently no cure for COVID-19, but there are treatments in use, namely Remdesivir, which is under emergency use authorization (EUA) by the U.S. FDA, and Dexamethasone, which was previously approved by the FDA to treat a range of other health conditions. None of these treatments, however, are officially approved for COVID-19. There are multiple studies being conducted around the world to test a variety of cures, treatments, and preventative vaccines for COVID-19.\n",
-    "What our experts say": "As of July 29, 2020, there is no known cure for COVID-19, but there are ways to manage the symptoms of the disease. Healthcare professionals around the world are researching various treatments for COVID-19, including drugs that already exist to treat other conditions to see if they may be effective against COVID-19 as well.\n\nNo treatments are currently approved by the U.S. Food and Drug Administration (FDA) for COVID-19, but because COVID-19 is a public health crisis, doctors can treat patients using some drugs that are not technically approved for COVID-19. Emergency use authorization enables unapproved medical products or unapproved uses of approved medical products to be used for diagnosis, treatment or prevention in an emergency setting, even if the treatments may still be under further study.\n\nRemdesivir, an antiviral drug manufactured by Gilead Sciences that stops the virus from replicating, received emergency use authorization by the U.S. FDA. It reportedly reduced the recovery time for hospitalized patients from 15 days to 11 days, and early results indicate that it may reduce mortality among patients who are very sick from COVID-19. \n\nIn terms of clinical management of symptoms, the U.S. National Institutes of Health (NIH) COVID-19 treatment guidelines indicate that Remdesivir supplies are limited and should be prioritized for patients who need it most (hospitalized patients who require supplemental oxygen). The guidelines also recommend the use of dexamethasone, a steroid that can reduce inflammation, for patients who require ventilators or supplemental oxygen. Healthcare professionals use ventilators and supplemental oxygen to ensure that hospitalized patients have a healthy supply of oxygen in the body, and monitor patients accordingly. At present, there is no other cure for COVID-19.\n",
+    "What our experts say": "There is no known cure for COVID-19 right now, but there are ways to manage the symptoms of the disease. A cure is a substance or act that ends and relieves the symptoms of a medical condition so patients can have their health restored. One for COVID-19 is currently being researched in many clinical trials around the world, but no treatment or practice has been shown to effectively meet these standards. Healthcare professionals around the world are researching various treatments for COVID-19, including drugs that already exist to treat other conditions to see if they may be effective against COVID-19 as well.\n\nNo treatments are currently approved by the U.S. Food and Drug Administration (FDA) for COVID-19, but because COVID-19 is a public health crisis, doctors can treat patients using some drugs that are not technically approved for COVID-19. Emergency use authorization enables unapproved medical products or unapproved uses of approved medical products to be used for diagnosis, treatment or prevention in an emergency setting, even if the treatments may still be under further study.\n\nRemdesivir, an antiviral drug manufactured by Gilead Sciences that stops the virus from replicating, received emergency use authorization by the U.S. FDA. It reportedly reduced the recovery time for hospitalized patients from 15 days to 11 days, and early results indicate that it may reduce mortality among patients who are very sick from COVID-19. \n\nIn terms of clinical management of symptoms, the U.S. National Institutes of Health (NIH) COVID-19 treatment guidelines indicate that Remdesivir supplies are limited and should be prioritized for patients who need it most (hospitalized patients who require supplemental oxygen). The guidelines also recommend the use of dexamethasone, a steroid that can reduce inflammation, for patients who require ventilators or supplemental oxygen (and potentially other corticosteroids). Healthcare professionals may use ventilators and supplemental oxygen to ensure that hospitalized patients have a healthy supply of oxygen in the body, and monitor patients accordingly. Prone positioning (flipping COVID-19 patients onto their bellies in order to open up their lungs ) is also widely used to help patients recover from the virus. At present, there is no cure for COVID-19.\n",
     "Glossary Terms": [
       "recjILnexcCRlyBIb",
       "recROlYn1QcWitPtM",
@@ -4645,18 +4841,18 @@
     ],
     "Last modified manual": "2020-07-30",
     "Last edited (simplified)": "2020-07-29T17:34:46.000Z",
-    "Last edited (experts say)": "2020-07-29T23:54:57.000Z",
-    "What our experts say wordcount": 274,
+    "Last edited (experts say)": "2020-10-15T19:24:34.000Z",
+    "What our experts say wordcount": 353,
     "Background and context wordcount": 130,
     "Other resources wordcount": 23,
-    "Wordcount": 427,
+    "Wordcount": 506,
     "Bengali - What our experts say": [
       " \" জুলাই ২৯, ২০২০ তারিখে, কোভিড-১৯ এর জন্য কোন জানা নিরাময় নেই, কিন্তু অসুখের উপসর্গগুলি সামলানোর বিভিন্ন উপায় আছে। সারা পৃথিবী জুড়ে স্বাস্থ্য সুরক্ষা কর্মীরা কোভিড-১৯ এর বিভিন্ন চিকিৎসা নিয়ে গবেষণা করছেন, যার অন্তর্গত এমন ওষুধ যা অন্যান্য অসুখের চিকিৎসার জন্য বর্তমানে বিদ্যমান, যা কোভিড-১৯ এর বিরুদ্ধেও কার্যকরী হয় কি না দেখার জন্য। \n \n এই মুহূর্তে মার্কিন যুক্তরাষ্ট্রের ফুড অ্যান্ড ড্রাগ অ্যাডমিনিস্ট্রেশন (এফডিএ) দ্বারা কোন চিকিৎসাই অনুমোদিত হয়নি, কিন্তু যেহেতু কোভিড-১৯ একটি জনস্বাস্থ্য সংকট, তাই চিকিৎসকেরা এমন কিছু ওষুধ ব্যবহার করে রোগীদের চিকিৎসা করতে পারেন যা প্রযুক্তিগতভাবে কোভিড-১৯ এর জন্য অনুমোদিত নয়। জরুরীকালীন ব্যবহার অনুমোদন যেকোনো জরুরী অবস্থায় রোগনির্ণয়, চিকিৎসা বা প্রতিরোধের জন্য অনুমোদন না হওয়া চিকিৎসাগত পণ্য অথবা অনুমোদিত চিকিৎসা পণ্যের অননুমোদিত ব্যবহার করতে দেয়, এমনকি যদি চিকিৎসা তখনও পর্যন্ত অতিরিক্ত অধ্যয়নের অধীনে থাকে তাহলেও।\n \n রেমডেসিভির, একটি অ্যান্টিভাইরাস ওষুধ, যা প্রস্তুত করেছেন গিলিয়াড সায়েন্সেস, যা ভাইরাসটিকে রেপ্লিকেট করা থেকে আটকায়, এটি মার্কিন যুক্তরাষ্ট্রের FDA দ্বারা জরুরী ব্যবহারের অনুমোদন পেয়েছেন। এটি হাসপাতালে ভর্তি হওয়া রোগীদের মধ্যে সেরে ওঠার সময় ১৫ দিন থেকে ১১ দিনে কমিয়ে এনেছে বলে রিপোর্ট পাওয়া গেছে, এবং প্রাথমিক ফলাফল থেকে দেখা যায় যে এটি হয়তো সেই সমস্ত রোগীর মধ্যে মৃত্যুর হার হ্রাস করেছেন যারা কোভিড-১৯ থেকে খুবই অসুস্থ। \n \n উপসর্গের নিদানিক ব্যবস্থাপনার ক্ষেত্রে, মার্কিন যুক্তরাষ্ট্রের ন্যাশনাল ইন্সটিটিউট অফ হেলথ (NIH) এর কোভিড-১৯ নির্দেশিকা থেকে জানা যায় যে রেমডেসিভির এর সরবরাহ সীমিত এবং যে সমস্ত রোগীর সবচেয়ে প্রয়োজন (হাসপাতালে ভর্তি রোগী যাদের সাপ্লিমেন্টাল অক্সিজেন প্রয়োজন) তাদেরকে অগ্রাধিকার দিয়ে এটি ব্যবহার করা উচিৎ। এছাড়াও এই নির্দেশিকা ভেন্টিলেটর অথবা সাপ্লিমেন্টাল অক্সিজেনের প্রয়োজন পড়ছে এমন রোগীর মধ্যে প্রদাহ কমানোর জন্য ডেক্সামেথাসোন, একটি স্টেরয়েড, ব্যবহার করার পরামর্শ দেয়। রোগীদের শরীরে স্বাস্থ্যকর পরিমাণ অক্সিজেনের সরবরাহ রয়েছে কি না তা নিশ্চিত করার জন্য স্বাস্থ্য পরিষেবা প্রদানকারীরা ভেন্টিলেটর এবং সাপ্লিমেন্টাল অক্সিজেন ব্যবহার করেন, এবং সেই অনুযায়ী রোগীকে পর্যবেক্ষণ করেন। বর্তমানে, কোভিড-১৯ এর কোন নিরাময় নেই।\"\n "
     ],
     "Bengali - Background and context": [
       " ‘নিরাময়’ শব্দটিকে বহু অর্থে ব্যবহার করা হয়, যার প্রযুক্তিগত অর্থ হচ্ছে একটি প্রক্রিয়া অথবা ওষুধ যা কোন একটি নির্দিষ্ট অসুখকে শেষ করে দেয়, এবং এটি বোঝায় যে স্বাস্থ্য সম্পূর্ণ পুনরুদ্ধার হবে। অন্যদিকে ‘চিকিৎসা’ শব্দটি প্রযুক্তিগতভাবে বোঝায় এমন একটি প্রক্রিয়া বা ওষুধ যা নির্দিষ্ট কোন অসুখের ক্ষেত্রে অবস্থার উন্নতি ঘটায়, কিন্তু অপরিহার্যভাবে সেটিকে শেষ করে না। এই পার্থক্যটি গুরুত্বপূর্ণ কারণ বর্তমানে কোভিড-১৯ এর কোন নিরাময় নেই, কিন্তু বিভিন্ন চিকিৎসা ব্যবস্থা ব্যবহার করা হচ্ছে, যেমন রেমডেসিভির যা মার্কিন যুক্তরাষ্ট্রের FDA দ্বারা জরুরী ব্যবহার অনুমোদন (EUA) এর অধীন, এবং ডেক্সামেথাসোন, যা এর আগে বিভিন্ন অন্যান্য অসুখের চিকিৎসার জন্য FDA দ্বারা অনুমোদিত হয়েছে। এই চিকিৎসাগুলির মধ্যে কোনটিই, যদিও, কোভিড-১৯ এর জন্য আনুষ্ঠানিকভাবে অনুমোদিত হয় নি। সারা পৃথিবী জুড়ে বিভিন্ন নিরাময়, চিকিৎসা, এবং কোভিড-১৯ প্রতিরোধকারী ভ্যাক্সিন পরীক্ষা করার জন্য একাধিক অধ্যয়ন পরিচালনা করা হচ্ছে।"
     ],
-    "Last modified": "2020-07-29"
+    "Last modified": "2020-10-15"
   },
   {
     "id": "recwnCbclyAAZHewu",
@@ -6072,14 +6268,14 @@
   {
     "id": "recXb3N5IK5AseYsP",
     "Question": "What does the science say about COVID-19 on surfaces?",
-    "Status": "Published",
+    "Status": "Update ready for review",
     "Category": "Tranmission",
     "Subcategory": "On: COVID-19 & surfaces",
     "Source of the question": [
       "Partner Organization"
     ],
     "Background and context": "The current science suggests that people most commonly become infected with COVID-19 through close contact with another infected person, even if the infected person is not showing symptoms. Close contact is when people are within about 6 feet (2 meters), and the infected person spreads the virus by coughing, sneezing, talking, or breathing into the close space.\n\nEven though the current science suggests that COVID-19 spreads most often through close personal contact, the public health community is continually learning about other ways that COVID-19 spreads. A major idea put forward is that COVID-19 could be spread from one person to another if the virus remains alive on surfaces like packages, food, plastic, or metals for long amounts of time, and that people touch their faces after having touched these surfaces. Multiple studies have analyzed how long the virus survives on different surfaces, and this evidence will continue to add to the understanding of the virus and how it is spread. This new evidence allows scientists to better understand whether or not people are likely to become infected by touching items in a market, collecting their mail or packages, or by contact with other surfaces in shared spaces (i.e. a table at a restaurant, a chair in an office) and public places (i.e. a bench at the park).\n",
-    "What our experts say": "The virus that causes COVID-19 primarily spreads through close, person-to-person contact, not through surface contamination. However, the virus can live on surfaces and the amount of time that COVID-19 can survive on a surface depends on the material of the surface. According to recent studies, COVID-19 can survive from 3 hours to 7 days on surfaces, though the virus' lifespan varies greatly on different areas.\n\nIt should be noted that the amount of living virus that is on a surface decreases over time. In practice, the amount of the virus on a surface usually drops dramatically in the first few hours. It is also important to note that even though some of the living virus might still be detected on a surface after several hours or days, it might not be present in a large enough quantity to make someone sick.  \n\nAccording to The Lancet and the New England Journal of Medicine, the living virus could be detected on different surfaces for varying periods of time:\n\n• **Aluminum**: 2-8 hours\n• **Stainless steel**: 2-7 days\n• **Paper**: 3 hours\n• **Copper**: 4 hours\n• **Cardboard**: 24 hours\n• **Cloth**: 2 days\n• **Wood**: 4 days\n• **Plastic**: 3-7 days\n• **Metal:** 5 days\n• **Glass**: 5 days\n• **Paper money**: 4 days\n• **Face masks**: 7 days (**_Note:_**_ A small amount of viable virus was still present on the outside of the mask after 7 days, but masks should be frequently washed, sanitized, or be used only once._)\n\nIf a person touches a contaminated surface with traces of the virus and then touches their eyes, nose, or mouth, they could become infected if the surface contains large amounts of the virus. This is why it is important to clean and disinfect any surfaces that people might come into contact with, especially those like doorknobs, cell phones, light switches, handles, countertops, sinks, toilets, and more. If possible, people should try to avoid touching high-contact surfaces in public. Washing your hands for 20 seconds, avoiding touching your face, maintaining six feet (two meters) of distance and wearing a mask are key steps in combatting the spread of the virus.\n\n",
+    "What our experts say": "The virus that causes COVID-19 primarily spreads through close, person-to-person contact, not through surface contamination. However, the virus can live on surfaces and the amount of time that COVID-19 can survive on a surface depends on the material of the surface. \nAccording to a recent study published in the Virology Journal, depending on the temperature, COVID-19 survived on different surfaces from a few hours to several days, with a half-life (time taken for 50% of the virus to no longer be infectious) of up to 2.7 days. The virus remained infectious on stainless steel, polymer and paper notes, glass, cotton and vinyl for much longer at 20°C as compared to 40°C.\nIn practice, the amount of the virus on a surface usually drops dramatically in the first few hours. It is also important to note that even though some of the living virus might still be detected on a surface after several hours or days, it might not be present in a large enough quantity to make someone sick. The recent findings, however, suggest that the virus can remain infectious for longer periods of time than considered earlier, especially at lower temperatures.\n According to The Lancet and the New England Journal of Medicine, the living virus could be detected on different surfaces for varying periods of time:\n\n• **Aluminum**: 2-8 hours\n• **Stainless steel**: 2-7 days\n• **Paper**: 3 hours\n• **Copper**: 4 hours\n• **Cardboard**: 24 hours\n• **Cloth**: 2 days\n• **Wood**: 4 days\n• **Plastic**: 3-7 days\n• **Metal:** 5 days\n• **Glass**: 5 days\n• **Paper money**: 4 days\n• **Face masks**: 7 days (**_Note:_**_ A small amount of viable virus was still present on the outside of the mask after 7 days, but masks should be frequently washed, sanitized, or be used only once._)\n\nIf a person touches a contaminated surface with traces of the virus and then touches their eyes, nose, or mouth, they could become infected if the surface contains large amounts of the virus. This is why it is important to clean and disinfect any surfaces that people might come into contact with, especially those like doorknobs, cell phones, light switches, handles, countertops, sinks, toilets, and more. If possible, people should try to avoid touching high-contact surfaces in public. Washing your hands for 20 seconds, avoiding touching your face, maintaining six feet (two meters) of distance and wearing a mask are key steps in combatting the spread of the virus.\n\n",
     "Variation of the answer depending on country of residence": "Yes; places with more humidity and higher temperatures may lead to the virus surviving a shorter amount of time\t\n",
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\t\n",
     "Topics": [
@@ -6089,7 +6285,7 @@
       "survive",
       "surface"
     ],
-    "Other resources": "1. Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1 ([NEJM](https://www.nejm.org/doi/full/10.1056/NEJMc2004973)) \n2. Stability of SARS-CoV-2 in different environmental conditions ([The Lancet](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(20)30003-3/fulltext)) \n3. How Long Will Coronavirus Survive on Surfaces? ([Cleveland Clinic](https://health.clevelandclinic.org/how-long-will-coronavirus-survive-on-surfaces/)) \n4. How long does coronavirus live on surfaces? ([NASEM](https://sites.nationalacademies.org/BasedOnScience/covid-19-how-long-does-coronavirus-live-on-surfaces/index.htm)) \n5. How long can the virus that causes COVID-19 live on surfaces?? ([Johns Hopkins](https://hub.jhu.edu/2020/03/20/sars-cov-2-survive-on-surfaces/)) \n6. How long does coronavirus last on surfaces? Stay in the air? ([SF Chronicle](https://www.sfchronicle.com/health/article/Coronavirus-FAQ-How-long-does-it-stay-on-15152021.php)) \n",
+    "Other resources": "1. Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1 ([NEJM](https://www.nejm.org/doi/full/10.1056/NEJMc2004973)) \n2. Stability of SARS-CoV-2 in different environmental conditions ([The Lancet](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(20)30003-3/fulltext)) \n3. How Long Will Coronavirus Survive on Surfaces? ([Cleveland Clinic](https://health.clevelandclinic.org/how-long-will-coronavirus-survive-on-surfaces/)) \n4. How long does coronavirus live on surfaces? ([NASEM](https://sites.nationalacademies.org/BasedOnScience/covid-19-how-long-does-coronavirus-live-on-surfaces/index.htm)) \n5. How long can the virus that causes COVID-19 live on surfaces?? ([Johns Hopkins](https://hub.jhu.edu/2020/03/20/sars-cov-2-survive-on-surfaces/)) \n6. How long does coronavirus last on surfaces? Stay in the air? ([SF Chronicle](https://www.sfchronicle.com/health/article/Coronavirus-FAQ-How-long-does-it-stay-on-15152021.php)) \n7. The effect of temperature on persistence of SARS-CoV-2 on common surfaces ([Virology Journal](https://virologyj.biomedcentral.com/articles/10.1186/s12985-020-01418-7))\n",
     "In translated DBs?": "Yes",
     "DB (Arabic)": [
       "recrxDBUY3ZlnL92B"
@@ -6105,11 +6301,11 @@
     ],
     "Last modified manual": "2020-07-21",
     "Last edited (simplified)": "2020-07-21T00:10:33.000Z",
-    "Last edited (experts say)": "2020-07-21T00:10:33.000Z",
-    "What our experts say wordcount": 331,
+    "Last edited (experts say)": "2020-10-13T17:48:20.000Z",
+    "What our experts say wordcount": 381,
     "Background and context wordcount": 216,
-    "Other resources wordcount": 70,
-    "Wordcount": 617,
+    "Other resources wordcount": 83,
+    "Wordcount": 680,
     "Arabic Q status": [
       "Published"
     ],
@@ -6125,7 +6321,7 @@
     "Portuguese - Background and context": [
       "A ciência, em seu estado atual, sugere que as pessoas são mais frequentemente infectadas com o COVID-19 por meio de contato próximo com outra pessoa infectada, mesmo que a pessoa infectada não esteja apresentando sintomas. O contato próximo ocorre quando as pessoas estão a menos de 2 metros de distância uma da outra e a pessoa infectada transmite o vírus tossindo, espirrando, conversando ou respirando em um espaço fechado. \nEmbora a ciência em seu estado atual sugira que o COVID-19 se propaga com mais frequência por meio de contato pessoal próximo, a comunidade de saúde pública está continuamente melhorando seu conhecimento sobre outras meios de propagação do COVID-19. Uma ideia importante que foi proposta é que o COVID-19 poderia se espalhar de uma pessoa para outra se o vírus permanecesse vivo em superfícies como embalagens, alimentos, plásticos ou metais por longos períodos de tempo, e se as pessoas tocassem no rosto depois de tocarem essas superfícies. Vários estudos analisaram por quanto tempo o vírus sobrevive em diferentes superfícies, e essas evidências continuarão contribuir para aperfeiçoar o conhecimento sobre o vírus e como ele se propagou. Essas novas evidências permitem que os cientistas entendam melhor a probabilidade de que as pessoas sejam infectadas tocando itens em um mercado, apanhando suas correspondências ou pacotes ou entrando em contato com outras superfícies em espaços compartilhados (por exemplo, uma mesa em um restaurante ou em um escritório) e locais públicos (por exemplo, um banco no parque)."
     ],
-    "Last modified": "2020-07-21"
+    "Last modified": "2020-10-13"
   },
   {
     "id": "recFGva1N4EIOvcyA",
@@ -8834,8 +9030,8 @@
     "Country question was sourced from": [
       "USA"
     ],
-    "Background and context": "Avifavir as a potential COVID-19 treatment has been emerging in visibility given that delivery of the drug to Russian hospitals began in June, following the approval of the Russian Ministry of Health. The approval follows promising but limited studies on Avifavir's accuracy in Russia, carried out in partnership of The Russian Direct Investment Fund (RDIF), Russia’s sovereign wealth fund, and the ChemRar Group. Studies on the drug have also been conducted in China — with seemingly promising results yet severe study limitations — as well as in the US, Italy, Japan and India. Data on the drug's efficacy for COVID-19 is still inconclusive.\n\nIn September 2020, RDIF announced that it has administered more than 60,000 doses of the drug in Russia and the surrounding region since June 2020, and that more doses will be delivered to 17 countries in Latin America, the Middle East, Eastern Europe, and Africa. Trends in Russia's COVID-19 data, and in particular, additional evidence, are needed to determine efficacy. \n",
-    "What our experts say": "Avifavir is an antiviral medication primarily used to treat severe cases of influenza. This medication is currently being studied in several countries as a potential experimental treatment for COVID-19, but we do not yet have enough evidence to determine whether or not Avifavir is an effective treatment for the virus. \n\nRecently in Russia, the health ministry approved the medication's use as a COVID-19 treatment by using an accelerated, short-term form of a clinical trial with fewer people involved than traditional studies would normally require. However, this study has not been published in a peer-reviewed journal so the data, methods, and other study characteristics have yet to critiqued or evaluated by other scientists. Though this research is still occurring in the country, Russia's preliminary results suggested Avifavir might help reduce the number of days people are infected with the virus and shorten the duration of time people experience high-grade fevers while sick. \n\nIn September 2020, a publication from India reviewed clinical trials in China and Japan, along with the on-going trials in Russia and other on-going studies in Saudi Arabia, the United States, and India. The researchers acknowledged that Avifavir does not have as much supportive data to back its use compared to other drugs, but that it may be emerging as an agent that is worth considering in mild to moderate cases. The preliminary results from a study in India suggest that Avifavir may help reduce the time it takes for COVID-19 patients to recover, and lead to a two-day shorter viral shedding period when patients are infectious.\n\nUntil more studies are completed and a greater amount of data can demonstrate Avifavir's efficacy and safety, we do not have enough information to determine whether or not this medication can help treat COVID-19.\n",
+    "Background and context": "Avifavir as a potential COVID-19 treatment has been emerging in visibility given that delivery of the drug to Russian hospitals began in June, following the approval of the Russian Ministry of Health. The approval follows promising but limited studies on Avifavir's accuracy in Russia, carried out in partnership of the Russian Direct Investment Fund (RDIF), Russia’s sovereign wealth fund, and the ChemRar Group. Studies on the drug have also been conducted in China — with seemingly promising results yet severe study limitations — as well as in the US, Italy, Japan and India. Data on the drug's efficacy for COVID-19 is still inconclusive.\n\nIn September 2020, RDIF announced that it has administered more than 60,000 doses of the drug in Russia and the surrounding region since June 2020, and that more doses will be delivered to 17 countries in Latin America, the Middle East, Eastern Europe, and Africa. Trends in Russia's COVID-19 data, and in particular, additional evidence, are needed to determine efficacy.\n",
+    "What our experts say": "Avifavir is an antiviral medication primarily used to treat severe cases of influenza. This medication is currently being studied in several countries as a potential experimental treatment for COVID-19, but we do not yet have enough evidence to determine whether or not Avifavir is an effective treatment for the virus. \n\nRecently in Russia, the health ministry approved the medication's use as a COVID-19 treatment by using an accelerated, short-term form of a clinical trial with fewer people involved than traditional studies would normally require. However, this study has not been published in a peer-reviewed journal so the data, methods, and other study characteristics have yet to be critiqued or evaluated by other scientists. Though this research is still occurring in the country, Russia's preliminary results suggested Avifavir might help reduce the number of days people are infected with the virus and shorten the duration of time people experience high-grade fevers while sick. \n\nIn September 2020, a publication from India reviewed clinical trials in China and Japan, along with the on-going trials in Russia and other on-going studies in Saudi Arabia, the United States, and India. The researchers acknowledged that Avifavir does not have as much supportive data to back its use compared to other drugs, but that it may be emerging as a medication that is worth considering in mild to moderate cases. The preliminary results from a study in India suggest that Avifavir may help reduce the time it takes for COVID-19 patients to recover, and lead to a two-day shorter viral shedding period when patients are infectious.\n\nUntil more studies are completed and a greater amount of data can demonstrate Avifavir's efficacy and safety, we do not have enough information to determine whether or not this medication can help treat COVID-19.\n",
     "Glossary Terms": [
       "recMUR0P3EECMwfrv"
     ],
@@ -8866,10 +9062,10 @@
       "recloqVVwudYYo4zL"
     ],
     "Last modified manual": "2020-10-08",
-    "Last edited (simplified)": "2020-10-08T21:36:09.000Z",
-    "Last edited (experts say)": "2020-10-08T22:11:17.000Z",
-    "What our experts say wordcount": 291,
-    "Background and context wordcount": 163,
+    "Last edited (simplified)": "2020-10-13T21:41:55.000Z",
+    "Last edited (experts say)": "2020-10-13T21:41:55.000Z",
+    "What our experts say wordcount": 292,
+    "Background and context wordcount": 162,
     "Other resources wordcount": 84,
     "Wordcount": 538,
     "Hindi Q Status": [
@@ -8905,7 +9101,7 @@
     "Bengali - Background and context": [
       "সম্ভাব্য কোভিড -১৯ চিকিৎসা হিসাবে আভিফাভির দৃশ্যমান হয়ে উঠেছে, রাশিয়ার স্বাস্থ্য মন্ত্রণালয়ের অনুমোদনের পরে জুনে রাশিয়ান হাসপাতালগুলিতে ওষুধ সরবরাহ শুরু হয়েছিল । দ্যা রাশিয়ান ডাইরেক্ট ইনভেস্টমেন্ট ফান্ড (RDIF), রাশিয়ার সার্বভৌম সম্পদ তহবিল এবং কেমরার গ্রুপের অংশীদারিত্বের ভিত্তিতে রাশিয়ায় আভিফাভিরের যথার্থতার বিষয়ে আশ্বাসপ্রাপ্ত তবে সীমিত অধ্যয়ন অনুমোদিত হয়েছে। চিনে ওষুধ নিয়ে গবেষণা করা হয়েছিল - আপাতদৃষ্টিতে আশ্বাসিত ফলাফলের সাথে তীব্র অধ্যয়নের সীমাবদ্ধতা - পাশাপাশি মার্কিন যুক্তরাষ্ট্র, ইতালি, জাপান এবং ভারতেও গবেষণা করা হয়েছিল। আভিফাভির আরএনএ পলিমেরেজ নির্বাচন করে বাধা দিয়ে কাজ করে যা ভাইরাস প্রতিলিপির জন্য প্রয়োজনীয়, তবে কোভিড-১৯ এর জন্য কার্যকারিতা সম্পর্কিত তথ্য এখনও অপর্যাপ্ত। আরডিআইএফ জানিয়েছে, মাসের শেষের দিকে ওষুধের ৬০০০০ ডোজ সরবরাহ করা হবে। কার্যকারিতা নির্ধারণের জন্য রাশিয়ার কোভিড-১৯ প্রবণতার তথ্য এবং অন্যান্য অতিরিক্ত প্রমাণ প্রয়োজন।"
     ],
-    "Last modified": "2020-10-08"
+    "Last modified": "2020-10-13"
   },
   {
     "id": "recGc8EkSPcnV1kkW",
@@ -9389,7 +9585,7 @@
     "Country question was sourced from": [
       "USA"
     ],
-    "Background and context": "The context for favipiravir is the same as for avifavir, given that avifavir is a generic form of favipiravir. Favipiravir as a potential COVID-19 treatment has been emerging in visibility given that delivery of the drug to Russian hospitals began in June, following the approval of the Russian Ministry of Health. The approval follows promising but limited studies on favipiravir's accuracy in Russia, carried out in partnership of The Russian Direct Investment Fund (RDIF), Russia’s sovereign wealth fund, and the ChemRar Group. Studies on the drug had also been conducted in China -- with seemingly promising results yet severe study limitations -- as well as in the US, Italy, Japan and India. Favipiravir works by selectively inhibiting RNA polymerase, necessary for viral replication, but data on its efficacy for COVID-19 is still inconclusive. 60,000 doses of the drug are set to be administered by the end of the month, according to RDIF. Trends in Russia's COVID-19 data, and in particular, additional evidence, are needed to determine efficacy. Though only approved for influenza treatment in Japan, the drug has also been tested with varying levels of accuracy for treatment of Ebola, Zika, West Nile virus, yellow fever virus, foot-and-mouth disease virus, and Rift Valley fever, among other diseases. \n",
+    "Background and context": "The context for favipiravir is the same as for avifavir, given that avifavir is a generic form of favipiravir. Favipiravir as a potential COVID-19 treatment has been emerging in visibility given that delivery of the drug to Russian hospitals began in June, following the approval of the Russian Ministry of Health. The approval follows promising but limited studies on favipiravir's accuracy in Russia, carried out in partnership of the Russian Direct Investment Fund (RDIF), Russia’s sovereign wealth fund, and the ChemRar Group. Studies on the drug had also been conducted in China -- with seemingly promising results yet severe study limitations -- as well as in the US, Italy, Japan and India. Favipiravir works by selectively inhibiting RNA polymerase, necessary for viral replication, but data on its efficacy for COVID-19 is still inconclusive. 60,000 doses of the drug are set to be administered by the end of the month, according to RDIF. Trends in Russia's COVID-19 data, and in particular, additional evidence, are needed to determine efficacy. Though only approved for influenza treatment in Japan, the drug has also been tested with varying levels of accuracy for treatment of Ebola, Zika, West Nile virus, yellow fever virus, foot-and-mouth disease virus, and Rift Valley fever, among other diseases. \n",
     "What our experts say": "There is not enough evidence right now to know whether or not favipiravir, also known as Avigan, can help treat COVID-19. Favipiravir is a drug that is used as an influenza medication in Japan and China, and is currently in studies to treat other viral infections, including COVID-19, in many other countries. Early studies involving favipiravir showed promising results in reducing the duration of symptoms of COVID-19 and aiding in the recovery of patients. However, there were shortcomings to these studies as well, like only having a small number of patients involved and the presence of age differences between study groups. Additionally, participants in the study were not randomly assigned to their groups (called randomization) and study subjects and their doctors both knew which treatments they received and didn't receive. This might help explain why there is no consensus as to whether or not favipiravir is an effect treatment for COVID-19 at this time.\n",
     "Glossary Terms": [
       "reccupU786x3cn86Q",
@@ -9423,8 +9619,8 @@
       "recCI5NN4Ixq8yGUt"
     ],
     "Last modified manual": "2020-06-25",
-    "Last edited (simplified)": "2020-06-24T06:32:22.000Z",
-    "Last edited (experts say)": "2020-06-24T23:06:54.000Z",
+    "Last edited (simplified)": "2020-10-13T21:39:20.000Z",
+    "Last edited (experts say)": "2020-10-13T21:39:20.000Z",
     "What our experts say wordcount": 154,
     "Background and context wordcount": 208,
     "Other resources wordcount": 82,
@@ -9462,7 +9658,7 @@
     "Bengali - Background and context": [
       "ফভিপিরাবির প্রসঙ্গটি আভিফাভিরের মতো একই, অ্যাভিফাভির ফ্যাভিপিরাবির এর একটি জেনেরিক রূপ| সম্ভাব্য কোভিড -১৯ চিকিৎসা হিসাবে আভিফাভির দৃশ্যমান হয়ে উঠেছে, রাশিয়ার স্বাস্থ্য মন্ত্রণালয়ের অনুমোদনের পরে জুনে রাশিয়ান হাসপাতালগুলিতে ওষুধ সরবরাহ শুরু হয়েছিল । দ্যা রাশিয়ান ডাইরেক্ট ইনভেস্টমেন্ট ফান্ড (RDIF), রাশিয়ার সার্বভৌম সম্পদ তহবিল এবং কেমরার গ্রুপের অংশীদারিত্বের ভিত্তিতে রাশিয়ায় আভিফাভিরের যথার্থতার বিষয়ে আশ্বাসপ্রাপ্ত তবে সীমিত অধ্যয়ন অনুমোদিত হয়েছে। চিনে ওষুধ নিয়ে গবেষণা করা হয়েছিল - আপাতদৃষ্টিতে আশ্বাসিত ফলাফলের সাথে তীব্র অধ্যয়নের সীমাবদ্ধতা - পাশাপাশি মার্কিন যুক্তরাষ্ট্র, ইতালি, জাপান এবং ভারতেও গবেষণা করা হয়েছিল। আভিফাভির আরএনএ পলিমেরেজ নির্বাচন করে বাধা দিয়ে কাজ করে যা ভাইরাস প্রতিলিপির জন্য প্রয়োজনীয়, তবে কোভিড-১৯ এর জন্য কার্যকারিতা সম্পর্কিত তথ্য এখনও অপর্যাপ্ত। আরডিআইএফ জানিয়েছে, মাসের শেষের দিকে ওষুধের ৬০০০০ ডোজ সরবরাহ করা হবে। কার্যকারিতা নির্ধারণের জন্য রাশিয়ার কোভিড-১৯ প্রবণতার তথ্য এবং অন্যান্য অতিরিক্ত প্রমাণ প্রয়োজন। \nযদিও কেবল জাপানে ইনফ্লুয়েঞ্জা চিকিৎসার জন্য অনুমোদিত, ওষুধটি ইবোলা, জিকা, ওয়েস্ট নাইল ভাইরাস, হলুদ জ্বর ভাইরাস, পা-ও-মুখের রোগ ভাইরাস, এবং রিফ্ট ভ্যালি ফিভারের চিকিৎসা সহ অন্যান্য রোগের জন্য বিভিন্ন স্তরের নির্ভুলতার সাথেও পরীক্ষা করা হয়েছে।"
     ],
-    "Last modified": "2020-06-24"
+    "Last modified": "2020-10-13"
   },
   {
     "id": "recRIjHM0TPx23tcU",
@@ -11501,14 +11697,136 @@
       "respiratory system"
     ],
     "Other resources": "1. Can I Get COVID-19 Through My Eyes or Ears? ([US News](https://www.usnews.com/news/health-news/articles/2020-06-04/can-i-get-covid-19-through-my-eyes-or-ears#:~:text=The%20skin%20in%20the%20outer,Eye%20and%20Ear%20in%20Boston.))\n2. COVID-19 and Ear Surgery ([American Academy of Otolaryngology](https://www.entnet.org/sites/default/files/uploads/covid-19_and_ear_surgery_rk_jackler_stanford.pdf))\n3. COVID-19 in the Ear: Have You Heard About the Risk for HCPs? ([MedPage Today](https://www.medpagetoday.com/infectiousdisease/covid19/87720))\n",
+    "Media": [
+      {
+        "id": "att7zHekXREfsS4AW",
+        "url": "https://dl.airtable.com/.attachments/f3a5a2d0bde5f368070246b0f6be069b/5ff1c36d/Slide_1",
+        "filename": "Slide_1",
+        "size": 227975,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/67c452bff6ef1f08f38453eb6feebde9/3f37152e",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a98cc61a4ee2058baecd03e2ea7a0764/a3dc0db3",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b0abd17354da6a0a99ee16d2789b9f2b/040d3d27",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attCnm3Ra0FB53xW1",
+        "url": "https://dl.airtable.com/.attachments/08b9e0b3bb00792d75b10ccc74d3d45c/06ca68f1/Slide_2",
+        "filename": "Slide_2",
+        "size": 184262,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a2602722d67fe726a24025b47db858fb/7070144f",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b7940eee08b397f3ee45c27ba64fd6a5/a5c7172e",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/fa67a0feeb8f5cd58cbc4c3de39c6f8c/2a4d8254",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attScXMWm36KZXV8I",
+        "url": "https://dl.airtable.com/.attachments/51af48d59ddcb59485f5bdbf0d4b6ce1/6790d893/Slide_3",
+        "filename": "Slide_3",
+        "size": 202831,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/1303db8d226f2050e3ae4ff00d52fd58/2028c38c",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d15146c262fd82193697085e60f346be/5f713fb3",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a6539ef3241fca571c14866eceae67ed/309fec60",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "att0FJkDHq8m1hRBq",
+        "url": "https://dl.airtable.com/.attachments/48b0538e829816f2908fe0d78b73155f/fed78003/Slide_4",
+        "filename": "Slide_4",
+        "size": 183876,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f1ffc79b643d5d360800472c9b67ba9b/358f326f",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/224c006dd735e945bcdbf7fdf408c451/bd3f097d",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/37f4b0922b20d08b4faeae2d0a3cdf69/35c8f725",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attSbhc30pd6sVqfM",
+        "url": "https://dl.airtable.com/.attachments/e5cc32c39df90e4481cba7454304634c/8347fe13/Slide_5",
+        "filename": "Slide_5",
+        "size": 183876,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/038be9254fa15bf2f4e268c86f01d467/5f1ee13a",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d2391636863e13cc2db5d37c8d619d6e/43bd95db",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ed22ea783e898afa1fcc508828e33297/bb800c6e",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "Last modified manual": "2020-08-28",
     "Last edited (simplified)": "2020-08-27T19:36:53.000Z",
-    "Last edited (experts say)": "2020-08-28T13:50:19.000Z",
+    "Last edited (experts say)": "2020-10-13T20:15:56.000Z",
     "What our experts say wordcount": 230,
     "Background and context wordcount": 107,
     "Other resources wordcount": 34,
     "Wordcount": 371,
-    "Last modified": "2020-08-28"
+    "Last modified": "2020-10-13"
   },
   {
     "id": "recT6kzJNVsejsEac",
@@ -11681,7 +11999,7 @@
   {
     "id": "recyq5D0irsIhQn1B",
     "Question": "Why do vaccine clinical trials sometimes stop or suspend operations?",
-    "Status": "Published",
+    "Status": "Update ready for review",
     "Category": "Prevention",
     "Subcategory": "On: COVID-19 & vaccines",
     "Source of the question": [
@@ -11690,7 +12008,7 @@
     "Country question was sourced from": [
       "USA"
     ],
-    "Background and context": "Recently, a clinical trial for a vaccine created by Oxford University and AzstraZeneca (a pharmaceutical company) was paused due to safety concerns. This trial was in the phase three stage of development, and stopped as a patient developed \"transverse myelitis\" which caused neurological issues stemming from inflammation of the spinal cord. (At the time of writing this, this trial has resumed). \n\nThis trial participant received the vaccine and not a placebo (which is a harmless substance that has no impact on a person, and is used to compare results of active vaccines in clinical trials). However, it is unknown whether or not the patient's illness occurred because of the vaccine they were given, or some other medical issue. Either way, the safety board recommended stopping the vaccine, which often occurs when vaccines reach the later stages of clinical trials.\n",
+    "Background and context": "Recently, a clinical trial for a vaccine created by Oxford University and AzstraZeneca (a pharmaceutical company) was paused due to safety concerns. This trial was in the phase three stage of development, and stopped as a patient developed \"transverse myelitis\" which caused neurological issues stemming from inflammation of the spinal cord. (At the time of writing this, this trial has resumed). \n\nThis trial participant received the vaccine and not a placebo (which is a harmless substance that has no impact on a person, and is used to compare results of active vaccines in clinical trials). However, it is unknown whether or not the patient's illness occurred because of the vaccine they were given, or some other medical issue. Either way, the safety board recommended stopping the vaccine, which often occurs when vaccines reach the later stages of clinical trials.\n\nOn October 12, 2020, Johnson & Johnson announced that a phase 3 clinical trial of its Janssen COVID-19 vaccine candidate was paused due to \"unexplained illness\" in one participant. Johnson & Johnson stated that is is following its prespecified guidelines on when to pause studies due to reports of an unexpected serious adverse event (SAE), so there can be a \"careful review of all of the medical information before deciding whether to restart the study.\"\n\nThis entry was updated with new information on October 13, 2020.\n",
     "What our experts say": "Pausing or suspending clinical trials occurs frequently in the development of new medications and vaccines. This is because every clinical trial is overseen by a data and safety monitoring board that routinely looks at data from the different trial phases to see if there are any harmful or adverse issues happening in trial participants. The board also monitors  to see if there is any evidence of the vaccine being effective.\n\nIf the board has any concerns at any point during a clinical trial, they will suggest stopping a trial until they can determine a) what caused the patient(s) to develop a harmful medical issue, b) if people receiving the vaccine in the clinical trials are doing much better than those who didn't, or c) if people who received the vaccine are doing much worse than the people who didn't. \n\nThese prescheduled checks by the boards may sound alarming, but they occur frequently in all phases of clinical trials. As vaccines move into the third phases of clinical trials, in which they are given to tens of thousands of people, it is not surprising that one or more people develop a medical issue which may or may not be related to the vaccine itself. \n\nLists of side effects that you see on medications stem from these clinical trial phases. Studies also have pre-set protocols and criteria that determine what events will cause them to pause or stop their research phases. They cannot ethically continue with the trial if they have reasons for concern about the health of clinical trial participants who have received their vaccines.\n\n",
     "Glossary Terms": [
       "rec7kWtMzB3nNOEpH",
@@ -11707,14 +12025,14 @@
       "safety board",
       "side effects"
     ],
-    "Other resources": "1. AstraZeneca Covid-19 vaccine study put on hold due to suspected adverse reaction in participant in the U.K. ([STAT](https://www.statnews.com/2020/09/08/astrazeneca-covid-19-vaccine-study-put-on-hold-due-to-suspected-adverse-reaction-in-participant-in-the-u-k/)) \n2. The ethics of pausing a vaccine trial in the midst of a pandemic: a conversation with Ruth Faden ([STAT](https://www.statnews.com/2020/09/11/ethics-halting-vaccine-trial-pandemic-conversation-ruth-faden/)) \n3. One of the leading coronavirus vaccine trials is currently paused. Prominent vaccine researchers tell CNN that's unusual ([CNN](https://www.cnn.com/2020/09/12/health/coronavirus-vaccine-trial-pause/index.html)) \n4. A leading coronavirus vaccine trial is on hold: scientists react ([Nature](https://www.nature.com/articles/d41586-020-02594-w)) \n5. Oxford's COVID vaccine trial \"back up and running\" after brief pause for safety check ([CBS](https://www.cbsnews.com/news/covid-vaccine-oxford-trial-astrazenca-resumes-safety-check/)) \n6. BMS, Merck and Pfizer Join List of Companies Pausing Some Clinical Trials During Pandemic ([BioSpace](https://www.biospace.com/article/merck-bms-pfizer-and-others-pause-enrollment-in-some-clinical-trials-due-to-covid-19/)) \n7. Learn About Clinical Studies ([ClinicalTrials.Gov](https://www.clinicaltrials.gov/ct2/about-studies/learn)) \n8. Why AstraZeneca just paused its coronavirus vaccine trial ([LiveScience](https://www.livescience.com/astrazeneca-oxford-vaccine-trial-paused.html)) \n9. Experts Say It’s a Good Sign That a COVID-19 Vaccine Trial Was Paused. Here’s Why ([Healthline](https://www.healthline.com/health-news/experts-say-its-a-good-sign-that-a-covid-19-vaccine-trial-was-paused-heres-why)) \n\n",
-    "Last edited (simplified)": "2020-09-16T13:14:05.000Z",
-    "Last edited (experts say)": "2020-09-16T13:14:05.000Z",
+    "Other resources": "1. AstraZeneca Covid-19 vaccine study put on hold due to suspected adverse reaction in participant in the U.K. ([STAT](https://www.statnews.com/2020/09/08/astrazeneca-covid-19-vaccine-study-put-on-hold-due-to-suspected-adverse-reaction-in-participant-in-the-u-k/)) \n2. The ethics of pausing a vaccine trial in the midst of a pandemic: a conversation with Ruth Faden ([STAT](https://www.statnews.com/2020/09/11/ethics-halting-vaccine-trial-pandemic-conversation-ruth-faden/)) \n3. One of the leading coronavirus vaccine trials is currently paused. Prominent vaccine researchers tell CNN that's unusual ([CNN](https://www.cnn.com/2020/09/12/health/coronavirus-vaccine-trial-pause/index.html)) \n4. A leading coronavirus vaccine trial is on hold: scientists react ([Nature](https://www.nature.com/articles/d41586-020-02594-w)) \n5. Oxford's COVID vaccine trial \"back up and running\" after brief pause for safety check ([CBS](https://www.cbsnews.com/news/covid-vaccine-oxford-trial-astrazenca-resumes-safety-check/)) \n6. BMS, Merck and Pfizer Join List of Companies Pausing Some Clinical Trials During Pandemic ([BioSpace](https://www.biospace.com/article/merck-bms-pfizer-and-others-pause-enrollment-in-some-clinical-trials-due-to-covid-19/)) \n7. Learn About Clinical Studies ([ClinicalTrials.Gov](https://www.clinicaltrials.gov/ct2/about-studies/learn)) \n8. Why AstraZeneca just paused its coronavirus vaccine trial ([LiveScience](https://www.livescience.com/astrazeneca-oxford-vaccine-trial-paused.html)) \n9. Experts Say It’s a Good Sign That a COVID-19 Vaccine Trial Was Paused. Here’s Why ([Healthline](https://www.healthline.com/health-news/experts-say-its-a-good-sign-that-a-covid-19-vaccine-trial-was-paused-heres-why)) \n10. Johnson & Johnson pauses Covid-19 vaccine trial after 'unexplained illness' ([CNN](https://www.cnn.com/2020/10/12/health/johnson-coronavirus-vaccine-pause-bn/index.html))\n\n",
+    "Last edited (simplified)": "2020-10-13T21:17:49.000Z",
+    "Last edited (experts say)": "2020-10-13T21:27:50.000Z",
     "What our experts say wordcount": 264,
-    "Background and context wordcount": 139,
-    "Other resources wordcount": 136,
-    "Wordcount": 539,
-    "Last modified": "2020-09-16"
+    "Background and context wordcount": 221,
+    "Other resources wordcount": 147,
+    "Wordcount": 632,
+    "Last modified": "2020-10-13"
   },
   {
     "id": "rec66KHO6Hpfk6T1N",
@@ -12107,7 +12425,8 @@
     "What our experts say wordcount": 0,
     "Background and context wordcount": 0,
     "Other resources wordcount": 0,
-    "Wordcount": 0
+    "Wordcount": 0,
+    "Status": "In progress"
   },
   {
     "id": "rec9thjuTgT5ytu9t",
@@ -12253,5 +12572,62 @@
     "Other resources wordcount": 53,
     "Wordcount": 683,
     "Last modified": "2020-10-08"
+  },
+  {
+    "id": "recDDflelah3aTf6X",
+    "Question": "Can pink eye be a symptom of COVID-19?",
+    "Status": "Published",
+    "Category": "Symptoms",
+    "Subcategory": "On: COVID-19 & conjunctivitis",
+    "Source of the question": [
+      "Expert Recommendation"
+    ],
+    "Country question was sourced from": [
+      "USA"
+    ],
+    "Background and context": "During the U.S. vice presidential debate on October 7, 2020, many people thought that Vice President Pence may have had conjuctivitis (pink eye) and asked if this is a symptom of COVID-19. People were concerned in part because President Trump announced that he tested positive for COVID-19 the week before the vice presidential debate. A White House spokesperson said that both Vice President Pence and Second Lady Pence tested negative for COVID-19 and were taking additional precautions leading up to the vice presidential debate. \n",
+    "What our experts say": "Conjunctivitis, also known as pink eye because it can cause the white of the eye to appear red or pink, is an inflammation or infection of the conjunctiva (a transparent membrane that lines the eyelid and covers the white part of the eye). Conjunctivitis can have different causes, including bacterial infections and viral infections (including adenoviruses, which cause the common cold, and the novel coronavirus that causes COVID-19). The appearance of reddish eyes can also be due to allergies, dryness, fatigue, or other factors and does not necessarily mean a person has conjunctivitis.\n\nSome research studies have identified conjunctivitis as a possible symptom of COVID-19, including a study of 38 patients with COVID-19 in China, which found that 12 of the patients had ocular or eye-related symptoms such as conjunctivitis. Patients with more severe COVID-19 were more likely to have ocular symptoms, and 1 patient in the study presented with conjunctivitis as their first symptom. In Canada, a case study was published on a female patient with COVID-19 who had severe conjunctivitis and minimal respiratory symptoms. In the U.K., another case study of a male patient with COVID-19 found that conjunctivitis was a symptom in the middle phase of COVID-19 illness. A review of ocular symptoms in COVID-19 patients that was published in August 2020 found no reports of COVID-19 becoming sight-threatening.\n\nThe American Academy of Ophthalmology has stated that conjunctivitis can be an infrequent symptom of COVID-19, estimated to occur in 1% to 3% of patients who test positive for COVID-19. A meta-analysis of 1167 patients in 3 studies found that the overall rate of conjunctivitis was 1.1%, with the rate being 3% in patients with severe COVID-19 and 0.7% in patients with non-severe COVID‐19. Conjunctivitis may be more common as a COVID-19 symptom in children. A study of 216 children with COVID-19 in China found that 22.7% showed an ocular symptom, including conjunctivitis. \n\nSince conjunctivitis is not among the most common COVID-19 symptoms and can have underlying causes that are unrelated to COVID-19, many public health and medical experts are advising that adults and children with suspected conjunctivitis seek care for their eyes. If someone with conjunctivitis has been at risk of exposure to COVID-19, a healthcare provider can help with determining whether a person with conjunctivitis should also get tested for COVID-19. \n",
+    "Glossary Terms": [
+      "recOcmLKbzV6NUkAH",
+      "rec28MquThUtAwvuU",
+      "recORiIMwk54TDQB6"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "symptoms",
+      "infection"
+    ],
+    "Other resources": "1. Is pink eye a symptom of COVID-19? ([Los Angeles Times](https://www.latimes.com/science/story/2020-10-08/is-pink-eye-symptom-covid-19))\n2. Characteristics of Ocular Findings of Patients With Coronavirus Disease 2019 (COVID-19) in Hubei Province, China ([JAMA Ophthalmology](https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2764083))\n3. Researchers identify pink eye as possible primary symptom of COVID-19 ([Ophthalmology Times](https://www.ophthalmologytimes.com/view/coronavirus-pink-eye-symptoms))\n4. Ocular manifestations of a hospitalised patient with confirmed 2019 novel coronavirus disease ([BMJ](https://bjo.bmj.com/content/104/6/748.long))\n5. Ophthalmic Manifestations Of Coronavirus (COVID-19) ([StatPearls](https://www.ncbi.nlm.nih.gov/books/NBK556093/))\n6. Eye Care During the Coronavirus Pandemic (COVID-19) ([American Academy of Ophthalmology](https://www.aao.org/eye-health/tips-prevention/coronavirus-covid19-eye-infection-pinkeye))\n7. Conjunctivitis and COVID‐19: A meta‐analysis ([Journal of Medical Virology](https://onlinelibrary.wiley.com/doi/full/10.1002/jmv.25938))\n8. Pink Eye May Be a Symptom of COVID-19 in Children, New Study Suggests ([American Academy of Opthalmology](https://www.aao.org/eye-health/news/pink-eye-symptom-covid19-coronavirus-children))\n",
+    "Last edited (simplified)": "2020-10-13T21:11:04.000Z",
+    "Last edited (experts say)": "2020-10-15T19:22:24.000Z",
+    "What our experts say wordcount": 384,
+    "Background and context wordcount": 85,
+    "Other resources wordcount": 96,
+    "Wordcount": 565,
+    "Last modified": "2020-10-15",
+    "Last modified manual": "2020-10-15"
+  },
+  {
+    "id": "rec6LvLwc24HqHqQ1",
+    "Question": "What are the markers of a second COVID-19 wave?",
+    "Status": "In progress",
+    "Category": "Transmission",
+    "What our experts say wordcount": 0,
+    "Background and context wordcount": 0,
+    "Other resources wordcount": 0,
+    "Wordcount": 0
+  },
+  {
+    "id": "recdAeExWSCQq3rHn",
+    "Question": "What are the pros and cons of each available COVID-19 test?",
+    "Status": "In progress",
+    "What our experts say": "There are 3 main types of COVID-19 tests, which we will discuss below. Two of these test types are diagnostic (molecular and antigen tests) so they show active infections while one test type looks for antibodies as a result of a previous infection (antibody tests):\n\n1) Molecular tests - polymerase chain reaction (PCR) tests, viral RNA tests, and nucleic acid tests - are completed using nasal swabs, throat swabs, and through testing bodily fluids like saliva. These tests look for genetic material of the virus (biological markers) and has a low rate of false-positive results (when a test says you have the virus but you do not) but a higher rate of false-negative results (when a test says you do not have the virus but you really do). Using a deep nasal swab PCR test called a nasal pharyngeal swab that collects viral material at the back of nose near your throat is the most trusted option of the molecular tests because it is the most accurate and there is a higher amount of virus in that area of the body than anywhere else. These tests are highly sensitive, which means they are able to accurately determine when a person actually has an infection. However, this method is uncomfortable, the results can take hours to days, they are the most expensive to do, and can be overly sensitive and pick up inactive virus fragments when a person no longer has an active infection.\n\n2) Ant\n",
+    "Last edited (experts say)": "2020-10-15T19:40:15.000Z",
+    "What our experts say wordcount": 241,
+    "Background and context wordcount": 0,
+    "Other resources wordcount": 0,
+    "Wordcount": 241,
+    "Last modified": "2020-10-15"
   }
 ]
