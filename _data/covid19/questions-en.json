@@ -623,14 +623,112 @@
       "COVID-19"
     ],
     "Other resources": "1. Coronavirus Testing Basics ([U.S. FDA](https://www.fda.gov/consumers/consumer-updates/coronavirus-testing-basics))\n2. Testing for COVID-19 ([U.S. CDC](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/testing.html))\n3. The Latest in Coronavirus (COVID-19) Testing Methods and Availability ([GoodRx](https://www.goodrx.com/blog/coronavirus-covid-19-testing-updates-methods-cost-availability/))\n4. Variation in False-Negative Rate of Reverse Transcriptase Polymerase Chain Reaction–Based SARS-CoV-2 Tests by Time Since Exposure ([Annals of Internal Medicine](https://www.acpjournals.org/doi/10.7326/M20-1495))\n5. Association of Initial Viral Load in Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Patients with Outcome and Symptoms ([American Journal of Pathology](https://ajp.amjpathol.org/article/S0002-9440(20)30328-X/fulltext))\n6. Temporal dynamics in viral shedding and transmissibility of COVID-19 ([Nature](https://www.nature.com/articles/s41591-020-0869-5))\n7. Study Raises Questions About False Negatives From Quick COVID-19 Test ([NPR](https://www.npr.org/sections/health-shots/2020/04/21/838794281/study-raises-questions-about-false-negatives-from-quick-covid-19-test))\n8. Performance of the rapid Nucleic Acid Amplification by Abbott ID NOW COVID-19 in nasopharyngeal swabs transported in viral media and dry nasal swabs, in a New York City academic institution ([bioRxiv](https://www.biorxiv.org/content/10.1101/2020.05.11.089896v1.article-info))\n",
+    "Media": [
+      {
+        "id": "attrn9FcXShRm4AgY",
+        "url": "https://dl.airtable.com/.attachments/2b7bee01a09cad8afeccfc37c225cbaa/bd938f40/Slide_1",
+        "filename": "Slide_1",
+        "size": 166254,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/1b0485caccc591eae0e483cb09950290/5b5951f4",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c319ce9472b30e3b8969b5212bdb06e2/cfeb5ad1",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7142f5cbc2854d973b61537c2967fc55/60bf1829",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "att4pznttEysOQrZS",
+        "url": "https://dl.airtable.com/.attachments/2df47ccdaeb78d99146fa74b3778fdeb/1cee3fd5/Slide_2",
+        "filename": "Slide_2",
+        "size": 192777,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ce4e8586e27ee877361686c483bd7dfd/64b9dc60",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/8b86de93fbda0969c847c0e33a34803c/290dd9f2",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2cb5ec571e3fd08018d1e290cb37b013/1c0fe7a3",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attWhb45H5SdGLjpB",
+        "url": "https://dl.airtable.com/.attachments/449b2c3810c673dd5cc3915c0081f8fa/43aee508/Slide_3",
+        "filename": "Slide_3",
+        "size": 184610,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/04efdb734641dd4eb4c79873df564da1/e0597750",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/95b37d8f81b3d16cd1a8631e7f17188a/ec24b8c0",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7d3796b7ec674c361cd2d59e57635ce6/47e4b26d",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attAKD4Mv7OwbWkpq",
+        "url": "https://dl.airtable.com/.attachments/a639a2110a4adc5c1accaf2d5d64e9e4/be1b9ba6/Slide_4",
+        "filename": "Slide_4",
+        "size": 243670,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/912095ee5f31bed73ed12bfe97005427/ab9212f2",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a06cd57264955fb416f5625670c6735e/9760d4f7",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e19b8cdb2066c4baf248c135835986ba/aca55430",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "Last modified manual": "2020-08-28",
     "Last edited (simplified)": "2020-08-21T14:28:19.000Z",
-    "Last edited (experts say)": "2020-09-08T20:57:17.000Z",
+    "Last edited (experts say)": "2020-10-13T20:22:35.000Z",
     "What our experts say wordcount": 465,
     "Background and context wordcount": 266,
     "Other resources wordcount": 115,
     "Wordcount": 846,
-    "Last modified": "2020-09-08"
+    "Last modified": "2020-10-13"
   },
   {
     "id": "recIWpxnU5BOReqN2",
@@ -1151,7 +1249,7 @@
       "pre-symptomatic",
       "transmission"
     ],
-    "Other resources": "1. Follow-up of asymptomatic patients with SARS-CoV-2 infection ([Clinical Microbiology and Infection](https://www.clinicalmicrobiologyandinfection.com/article/S1198-743X(20)30169-5/fulltext)) \n2. Estimating the asymptomatic proportion of coronavirus disease 2019 (COVID-19) cases on board the Diamond Princess cruise ship, Yokohama, Japan, 2020. ([Eurosurveillance](https://www.ncbi.nlm.nih.gov/research/coronavirus/publication/32183930))\n3. COVID-19: in the footsteps of Ernest Shackleton ([BMJ](https://thorax.bmj.com/content/early/2020/06/09/thoraxjnl-2020-215091)) \n4. SARS-CoV-2 Community Transmission During Shelter-in-Place in San Francisco ([medRxiv](https://www.medrxiv.org/content/10.1101/2020.06.15.20132233v1)) \n5. Estimating the extent of asymptomatic COVID-19 and its potential for community transmission: systematic review and meta-analysis ([medRxiv](https://www.medrxiv.org/content/10.1101/2020.05.10.20097543v2)) \n6. Prevalence of Asymptomatic SARS-CoV-2 Infection ([Annals of Internal Medicine](https://www.acpjournals.org/doi/10.7326/M20-3012)) \n7. In the W.H.O.’s Coronavirus Stumbles, Some Scientists See a Pattern ([New York Times](https://www.nytimes.com/2020/06/09/health/coronavirus-asymptomatic-world-health-organization.html)) \n8. White House Adviser Warned of Risks of Pandemic; Trump Misleads on Testing ([New York Times](https://www.nytimes.com/2020/04/06/world/coronavirus-live-news-updates.html)) \n9. COVID-19 Pandemic Planning Scenarios ([U.S. CDC](https://www.cdc.gov/coronavirus/2019-ncov/hcp/planning-scenarios.html)) \n10. Clinical Course and Molecular Viral Shedding Among Asymptomatic and Symptomatic Patients With SARS-CoV-2 Infection in a Community Treatment Center in the Republic of Korea ([JAMA](https://jamanetwork-com.ezp-prod1.hul.harvard.edu/journals/jamainternalmedicine/fullarticle/2769235))\n11. Can asymptomatic patients spread coronavirus? Here's what a new study reveals ([Advisory.com](https://www.advisory.com/daily-briefing/2020/08/10/asymptomatic))\n",
+    "Other resources": "1. Follow-up of asymptomatic patients with SARS-CoV-2 infection ([Clinical Microbiology and Infection](https://www.clinicalmicrobiologyandinfection.com/article/S1198-743X(20)30169-5/fulltext)) \n2. Estimating the asymptomatic proportion of coronavirus disease 2019 (COVID-19) cases on board the Diamond Princess cruise ship, Yokohama, Japan, 2020. ([Eurosurveillance](https://www.ncbi.nlm.nih.gov/research/coronavirus/publication/32183930))\n3. COVID-19: in the footsteps of Ernest Shackleton ([BMJ](https://thorax.bmj.com/content/early/2020/06/09/thoraxjnl-2020-215091)) \n4. SARS-CoV-2 Community Transmission During Shelter-in-Place in San Francisco ([medRxiv](https://www.medrxiv.org/content/10.1101/2020.06.15.20132233v1)) \n5. Estimating the extent of asymptomatic COVID-19 and its potential for community transmission: systematic review and meta-analysis ([medRxiv](https://www.medrxiv.org/content/10.1101/2020.05.10.20097543v2)) \n6. Prevalence of Asymptomatic SARS-CoV-2 Infection ([Annals of Internal Medicine](https://www.acpjournals.org/doi/10.7326/M20-3012)) \n7. In the W.H.O.’s Coronavirus Stumbles, Some Scientists See a Pattern ([NYT](https://www.nytimes.com/2020/06/09/health/coronavirus-asymptomatic-world-health-organization.html)) \n8. White House Adviser Warned of Risks of Pandemic; Trump Misleads on Testing ([New York Times](https://www.nytimes.com/2020/04/06/world/coronavirus-live-news-updates.html)) \n9. COVID-19 Pandemic Planning Scenarios ([U.S. CDC](https://www.cdc.gov/coronavirus/2019-ncov/hcp/planning-scenarios.html)) \n10. Clinical Course and Molecular Viral Shedding Among Asymptomatic and Symptomatic Patients With SARS-CoV-2 Infection in a Community Treatment Center in the Republic of Korea ([JAMA](https://jamanetwork-com.ezp-prod1.hul.harvard.edu/journals/jamainternalmedicine/fullarticle/2769235))\n11. Can asymptomatic patients spread coronavirus? Here's what a new study reveals ([Advisory.com](https://www.advisory.com/daily-briefing/2020/08/10/asymptomatic))\n",
     "DB (Hindi)": [
       "recZtbTsR4v0zcLyf"
     ],
@@ -1167,11 +1265,11 @@
     ],
     "Last modified manual": "2020-08-13",
     "Last edited (simplified)": "2020-08-13T20:56:52.000Z",
-    "Last edited (experts say)": "2020-08-13T20:56:52.000Z",
+    "Last edited (experts say)": "2020-10-20T21:47:48.000Z",
     "What our experts say wordcount": 213,
     "Background and context wordcount": 64,
-    "Other resources wordcount": 155,
-    "Wordcount": 432,
+    "Other resources wordcount": 153,
+    "Wordcount": 430,
     "Hindi Q Status": [
       "Published"
     ],
@@ -1600,17 +1698,115 @@
       "disinfectants"
     ],
     "Other resources": "1. Considerations for the cleaning and disinfection of environmental surfaces in the context of COVID-19 in non-health care settings ([WHO](https://www.who.int/news-room/q-a-detail/q-a-considerations-for-the-cleaning-and-disinfection-of-environmental-surfaces-in-the-context-of-covid-19-in-non-health-care-settings))\n2. COVID-19: Cleaning and Disinfecting Your Facility ([U.S. CDC](https://www.cdc.gov/coronavirus/2019-ncov/community/disinfecting-building-facility.html))\n3. Disinfection tunnels: potentially counterproductive in the context of a prolonged pandemic of COVID-19 ([Elsevier Public Health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7200329/))\n4. UV Industry Associations Discourage the Use of UV Light on the Human Body to Disinfect Against the Coronavirus ([PR Newswire](https://www.prnewswire.com/news-releases/uv-industry-associations-discourage-the-use-of-uv-light-on-the-human-body-to-disinfect-against-the-coronavirus-301047108.html))\n5. “Disinfection Tunnels” Are Popping Up Around the World, Fueled By Misinformation and Fear ([Leapsmag](https://leapsmag.com/disinfection-tunnels-are-popping-up-around-the-world-fueled-by-misinformation-and-fear/))\n6. Disinfection tunnels: a problematic COVID-19 invention? | Analysis ([Africa News](https://www.africanews.com/2020/06/25/disinfection-tunnels-a-problematic-covid-19-invention-analysis//))\n",
+    "Media": [
+      {
+        "id": "att89djJcxqVfYGXL",
+        "url": "https://dl.airtable.com/.attachments/490b160dfb49b7553b615ecc680d94d8/7a75a8ab/Slide_1",
+        "filename": "Slide_1",
+        "size": 137607,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f100ea9789ae46ab44d7646673ece260/b644fc39",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/1f609bbac202ddad2ea1cf0d57ba36cb/72318cf7",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/89240cab4f7d446c05d59b18fb10aa00/552c8acd",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attNLpkWlWu9AqLMi",
+        "url": "https://dl.airtable.com/.attachments/c94419c0812166b1c8a9d338af044f4a/98863d43/Slide_2",
+        "filename": "Slide_2",
+        "size": 233305,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/4b966e327bf3e7c3802e7e000ffeaed2/737f6135",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/bd42a8c73e5b060e717ccadbaf458004/3c8909aa",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a4e0b31bda5e9c8d7fe6c9b594ba5e50/f118cb9d",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attCs4DZ5zBwA61ZZ",
+        "url": "https://dl.airtable.com/.attachments/c00533caaabb2ec5322dbb3ee8c40c16/96438ac0/Slide_3",
+        "filename": "Slide_3",
+        "size": 175029,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ec3c71ed9d9467285d259446e8d0a78f/2d0387ad",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c3ccd6a5bc6d5eaabbd6639dbdb49ad7/4b5de961",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/12618361a32e1aa3c5577af2cd313995/be17080d",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attEvyj8Qri4B3Sxp",
+        "url": "https://dl.airtable.com/.attachments/e8c75389d5873c60dc4b51042ead2c07/e9710aa6/Slide_4",
+        "filename": "Slide_4",
+        "size": 294092,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b8fd18d9b340e16d83861de64c513302/398f9134",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/97fe20351869cfff12fc4fe3dceff983/2b5f73c3",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/654b565a916bec67169bccd1a081a609/6c955c54",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "Rollup test 2": [
       "recqD5CWejCR7ZMVp"
     ],
     "Last modified manual": "2020-08-12",
     "Last edited (simplified)": "2020-08-11T23:34:30.000Z",
-    "Last edited (experts say)": "2020-08-12T18:26:13.000Z",
+    "Last edited (experts say)": "2020-10-13T20:17:15.000Z",
     "What our experts say wordcount": 299,
     "Background and context wordcount": 181,
     "Other resources wordcount": 88,
     "Wordcount": 568,
-    "Last modified": "2020-08-11"
+    "Last modified": "2020-10-13"
   },
   {
     "id": "rec7DJ38UBOLWSnqC",
@@ -2545,8 +2741,8 @@
     "Country question was sourced from": [
       "USA"
     ],
-    "Background and context": "A recent Facebook post from August 4, 2020, falsely claimed that the current national positivity rate demonstrates that herd immunity has been reached for COVID-19. The post attempted to analyze a positivity rate graph from Johns Hopkins, but also included the author's own insights about testing, population level risk assessments, and added in 'bumps' to describe what he assumed were increases in testing. Though the post noted that the author believed an increase in positivity rates were being reported for political reasons (extending the shutdowns and requiring continued mask use) there is no evidence to support this claim. Additionally, there is no evidence to support claims that we've reached herd immunity, that COVID-19 positivity rates indicate anything about a population's immunity, or that 60% of a population needs to be infected in order to reach herd immunity for the virus. \n",
-    "What our experts say": "No, positivity rates of COVID-19 are not an indication of herd immunity. The rate of positivity in a community is defined as the percentage of total COVID-19 tests that come back positive out of all the people who have been tested in that community or population within a given time period. Positivity rates can indicate an increasing outbreak, if the rate of positive tests increases while the amount of testing stays the same. A positivity rate can also indicate that not enough tests are being conducted, if more tests come back with positive results but tests were conducted on a smaller percentage of the population than the week before. Neither of these have anything to do with herd immunity.\n\n\"Herd immunity\" refers to a given percentage of people that need to become immunized to a virus, through vaccines or through becoming infected in a natural setting, against a virus in order to provide safety for an entire population—i.e. the herd. It's the idea that if most people are immune, then the rate of transmission will be low or non-existent. COVID-19 is not vaccine-preventable at this time and we know very little about how we become immune to the virus. Herd immunity would require a large majority of the population to become infected with the virus and obtain long-term immunity to COVID-19 — but since we know so little about long-term immunity right now, we can't say anything about herd immunity in relation to COVID-19.\n\nPercent positive rates of COVID-19 are not being used to determine herd immunity in a community because we know so little about immunity in general, and because positive rates can mean a wide variety of things. If there is a higher percentage of positive test results in a region, this is not indicative of any potential for herd immunity, because evidence to support long-term immunity is lacking.\n",
+    "Background and context": "A Facebook post from August 4, 2020, falsely claimed that the current national positivity rate demonstrates that herd immunity has been reached for COVID-19. The post attempted to analyze a positivity rate graph from Johns Hopkins, but also included the author's own insights about testing, population level risk assessments, and added in 'bumps' to describe what he assumed were increases in testing. Though the post noted that the author believed an increase in positivity rates were being reported for political reasons (extending the shutdowns and requiring continued mask use) there is no evidence to support this claim. Additionally, there is no evidence to support claims that we've reached herd immunity, that COVID-19 positivity rates indicate anything about a population's immunity, or that 60% of a population needs to be infected in order to reach herd immunity for the virus. \n\nOn October 4, 2020, a proposal called the Great Barrington Declaration was signed in Great Barrington, Massachusetts, recommending the end of stay-at-home orders for people perceived to be at lower risk for COVID-19 until herd immunity is developed. One of President Trump's science advisors is a lead author behind the Great Barrington Declaration, which was funded by the libertarian think tank called the American Institute for Economic Research that is behind other statements to allow sweatshop labor and reduce environmental protections. The Great Barrington Declaration has since been embraced by several White House officials, while numerous public health agencies including the World Health Organization (WHO) have responded with warnings. An open letter by the American Public Health Association and 13 other public health organizations in the U.S. warned that the Great Barrington Declaration \"is not a strategy, it is a political statement. It ignores sound public health expertise. It preys on a frustrated populace. Instead of selling false hope that will predictably backfire, we must focus on how to manage this pandemic in a safe, responsible, and equitable way.\" Over 4,800 scientists, researchers and healthcare professionals have signed another response published in the Lancet on October 14, 2020 called the John Snow Memorandum, which condemns the policies recommended by the Great Barrington Declaration and calls for acting based on evidence. \n\nOutside of the U.S., other politicians have tried to promote achieving herd immunity as a pandemic response approach. For example, Sweden's policies had mostly avoided preventative public health measures like lockdowns and mask wearing, but newer policies starting October 19, 2020 are more restrictive in response to Sweden seeing one of the highest per-capita death rates in the world (58.6 per 100,000 people) and an average increase in daily COVID-19 cases by 173% since the autumn of 2020. While some Swedish politicians have tried to avoid publicly using the language of herd immunity, journalists have obtained emails between high-level Swedish public health officials revealing that achieving herd immunity was discussed as a strategy as early as March 2020. In the U.K., Prime Minister Boris Johnson's chief scientific adviser said on March 13 that he believed their country would be able to achieve herd immunity, but the U.K. ultimately changed its strategy and did impose a lockdown after medical experts warned that attempting to achieve herd immunity could risk killing hundreds of thousands of people. In Brazil, researchers have been studying the city of Manaus, where it is estimated that 44% to 66% of the population was infected with COVID-19 in the summer of 2020 and cases had started to drop, only to start rising again in the fall of 2020. While some suggested that Manaus may have reached herd immunity, others are warning that cases are still rising in Manaus and more lives should not be put at risk.\n\n",
+    "What our experts say": "Positivity rates of COVID-19 are not an indication of herd immunity. The rate of positivity in a community is defined as the percentage of total COVID-19 tests that come back positive out of all the people who have been tested in that community or population, within a given time period. Positivity rates can indicate an increasing outbreak, if the rate of positive tests increases while the amount of testing stays the same. A positivity rate can also indicate that not enough tests are being conducted, if more tests come back with positive results but tests were conducted on a smaller percentage of the population than the week before. Neither of these have anything to do with herd immunity.\n\n\"Herd immunity\" refers to a given percentage of people that need to become immunized to a virus, through vaccines or through becoming infected in a natural setting, against a virus in order to provide safety for an entire population—i.e. the herd. It's the idea that if most people are immune, then the rate of transmission will be low or non-existent. COVID-19 is not vaccine-preventable at this time and we know very little about how we become immune to the virus. Herd immunity would require a large majority of the population to become infected with the virus and obtain long-term immunity to COVID-19 — but since we know so little about long-term immunity right now, we can't say anything about herd immunity in relation to COVID-19.\n\nPercent positive rates of COVID-19 are not being used to determine herd immunity in a community because we know so little about immunity in general, and because positive rates can mean a wide variety of things. If there is a higher percentage of positive test results in a region, this is not indicative of any potential for herd immunity, because evidence to support long-term immunity is lacking.\n",
     "Glossary Terms": [
       "rec0zhEV63ySy7APc",
       "rec4kgXUEMkPzbQvP"
@@ -2558,18 +2754,18 @@
       "positivity rate",
       "percent positive"
     ],
-    "Other resources": "1. \"Herd Immunity\": A Rough Guide ([CID](https://academic.oup.com/cid/article/52/7/911/299077))\n2. Vaccine refusal and herd immunity ([Lancet ID](https://www.sciencedirect.com/science/article/abs/pii/S1473309915000535))\n3. COVID and Herd Immunity ([The Atlantic](https://www.theatlantic.com/health/archive/2020/07/herd-immunity-coronavirus/614035/)) \n",
+    "Other resources": "1. \"Herd Immunity\": A Rough Guide ([CID](https://academic.oup.com/cid/article/52/7/911/299077))\n2. Vaccine refusal and herd immunity ([Lancet ID](https://www.sciencedirect.com/science/article/abs/pii/S1473309915000535))\n3. COVID and Herd Immunity ([The Atlantic](https://www.theatlantic.com/health/archive/2020/07/herd-immunity-coronavirus/614035/)) \n4. White House embraces a declaration from scientists that opposes lockdowns and relies on ‘herd immunity.’ ([NYT](https://www.nytimes.com/live/2020/10/13/world/coronavirus-covid#white-house-embraces-a-declaration-from-scientists-that-opposes-lockdowns-and-relies-on-herd-immunity))\n5. The Fight Over A Controversial \"Herd Immunity' Coronavirus Proposal ([WBUR](https://www.wbur.org/radioboston/2020/10/20/great-barrington-john-snow))\n6. After Months of Minimal COVID-19 Containment, Sweden Appears to Be Considering a New Approach ([Time](https://time.com/5901352/sweden-local-lockdowns/))\n7. Coronavirus: science chief defends UK plan from criticism ([The Guardian](https://www.theguardian.com/world/2020/mar/13/coronavirus-science-chief-defends-uk-measures-criticism-herd-immunity))\n8. The UK abandoned its coronavirus plan after realizing it would have resulted in 'hundreds of thousands of deaths' ([Business Insider](https://www.businessinsider.com/uk-abandoned-coronavirus-strategy-that-would-cause-250000-deaths-2020-3?r=US&IR=T))\n9. In Brazil's Amazon a COVID-19 resurgence dashes herd immunity hopes ([Reuters](http://In Brazil's Amazon a COVID-19 resurgence dashes herd immunity hopes))\n",
     "Rollup test 2": [
       "recPGUHX6HxoOdhdh"
     ],
-    "Last modified manual": "2020-08-06",
-    "Last edited (simplified)": "2020-08-05T22:00:43.000Z",
-    "Last edited (experts say)": "2020-08-06T20:53:37.000Z",
-    "What our experts say wordcount": 309,
-    "Background and context wordcount": 140,
-    "Other resources wordcount": 21,
-    "Wordcount": 470,
-    "Last modified": "2020-08-06"
+    "Last modified manual": "2020-10-27",
+    "Last edited (simplified)": "2020-10-21T21:53:02.000Z",
+    "Last edited (experts say)": "2020-10-21T21:53:02.000Z",
+    "What our experts say wordcount": 308,
+    "Background and context wordcount": 607,
+    "Other resources wordcount": 103,
+    "Wordcount": 1018,
+    "Last modified": "2020-10-21"
   },
   {
     "id": "rec7awl8Ed6xdZIiv",
@@ -3393,8 +3589,8 @@
     "Status": "Published",
     "Category": "Transmission",
     "Subcategory": "Differences between airborne transmission and respiratory droplets",
-    "Background and context": "Respiratory droplet transmission happens when disease, in this case COVID-19, spreads through droplets expelled by an infected person, through coughing, sneezing, talking, or even just breathing; these droplets are larger than 5-10 micrometers. One micrometer is one millionth of a meter. Respiratory droplets are relatively heavy, and fall to the ground quickly. In contrast, airborne transmission is when residue from droplets smaller than 5 micrometers, or dust particles carrying the virus, stay suspended in the air for a while and travel as their air moves. Scientists and the World Health Organization (WHO) have recognized that evidence is emerging on the possibility of airborne transmission, particularly in crowded, closed, poorly ventilated settings. If airborne transmission of COVID-19 is significant, this has major implications for containment efforts (ex. masks may be needed indoors and even in socially-distant settings, ventilation systems may need to minimize recirculating air and find ways to filter or disinfect contaminated air, etc.). \n",
-    "What our experts say": "There is increasing evidence that COVID-19 can spread through airborne transmission, which is when a person infected with COVID-19 releases tiny droplets of fluid into the air called 'droplet nuclei' by coughing, sneezing, talking, or during some medical procedures. Droplet nuclei are very light, relatively dry, and microscopic in size so they can remain suspended in the air like a mist, which is why airborne transmission is also called 'aerosol transmission', and pose a risk of infection to people in close proximity or people sitting in areas that are poorly ventilated. This is different from the main theory that the virus spreads through bigger respiratory droplets that are heavier, fall to the ground relatively quickly, and do not remain suspended in the air or spread through the air. \n\nResearchers are still studying aerosol transmission, but the World Health Organization (WHO) acknowledged emerging evidence regarding airborne transmission in poorly ventilated spaces. Public health experts have repeatedly warned that airborne transmission is most likely contributing to transmission, especially in indoor spaces, and recommendations should incorporate the need for sufficient ventilation, high efficiency filtration, and limiting crowded spaces, in addition to universal adoption of masks, social distancing, and frequent hand washing with soap and water. New studies about previous outbreaks, such as the Diamond Princess cruise ship outbreak, found that the virus spread rapidly between passengers due to aerosol transmission through small droplets that were light enough to linger in the air. Yet another study found evidence of the novel coronavirus in the air from isolated individuals who had COVID-19. These studies highlight the importance of combining proper ventilation with cloth masks and social distancing to prevent transmission of the virus.\n\n_This entry was updated with new information on August 03, 2020._\n",
+    "Background and context": "Respiratory droplet transmission happens when disease, in this case COVID-19, spreads through droplets expelled by an infected person, through coughing, sneezing, talking, or even just breathing; these droplets are larger than 5-10 micrometers. One micrometer is one millionth of a meter. Respiratory droplets are relatively heavy, and fall to the ground quickly. In contrast, airborne transmission is when residue from droplets smaller than 5 micrometers, or dust particles carrying the virus, stay suspended in the air for a while and travel as their air moves. Scientists and the World Health Organization (WHO) have recognized that evidence is emerging on the possibility of airborne transmission, particularly in crowded, closed, poorly ventilated settings. \n\nIf airborne transmission of COVID-19 is significant, this has major implications for containment efforts (ex. masks may be needed indoors and even in socially-distant settings, ventilation systems may need to minimize recirculating air and find ways to filter or disinfect contaminated air, etc.). \n\nThe US CDC has recently acknowledged well-documented evidence of airborne transmission of SARS-CoV-2 under circumstances of enclosed spaces, prolonged exposure to respiratory particles from an infectious person, or inadequate ventilation. \n",
+    "What our experts say": "There is increasing evidence that COVID-19 can spread through airborne transmission, which is when a person infected with COVID-19 releases tiny droplets of fluid into the air called 'droplet nuclei' by coughing, sneezing, talking, or during some medical procedures. Droplet nuclei are very light, relatively dry, and microscopic in size so they can remain suspended in the air like a mist, which is why airborne transmission is also called 'aerosol transmission', and pose a risk of infection to people in close proximity or people sitting in areas that are poorly ventilated. This is different from the main theory that the virus spreads through bigger respiratory droplets that are heavier, fall to the ground relatively quickly, and do not remain suspended in the air or spread through the air. \n\nWhile researchers are still studying aerosol transmission, the World Health Organization (WHO) and the US CDC acknowledged emerging evidence regarding airborne transmission in poorly ventilated spaces. Enclosed spaces have been found to contain enough virus to cause infections in people more than six feet apart, or who passed through a space soon after an infectious person left the room. \n\nPublic health experts have repeatedly warned that airborne transmission is most likely contributing to transmission, especially in indoor spaces, and recommendations should incorporate the need for sufficient ventilation, high efficiency filtration, and limiting crowded spaces, in addition to universal adoption of masks, social distancing, and frequent hand washing with soap and water. New studies about previous outbreaks, such as the Diamond Princess cruise ship outbreak, found that the virus spread rapidly between passengers due to aerosol transmission through small droplets that were light enough to linger in the air. Yet another study found evidence of the novel coronavirus in the air from isolated individuals who had COVID-19. These studies highlight the importance of combining proper ventilation with cloth masks and social distancing to prevent transmission of the virus.\n",
     "Glossary Terms": [
       "recy3qWpegJbN2rbV",
       "recTotk6ZnYu3ib8P",
@@ -3410,7 +3606,7 @@
       "droplet",
       "respiratory droplets"
     ],
-    "Other resources": "1. Modes of transmission of virus causing COVID-19: implications for IPC precaution recommendations ([WHO](https://www.who.int/news-room/commentaries/detail/modes-of-transmission-of-virus-causing-covid-19-implications-for-ipc-precaution-recommendations))\n2. Open Letter: It is Time to Address Airborne Transmission of COVID-19 ([Clinical Infectious Diseases](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/5867798))\n3. Aboard the Diamond Princess, a Case Study in Aerosol Transmission ([NYT](https://www.nytimes.com/2020/07/30/health/diamond-princess-coronavirus-aerosol.html))\n4. Mechanistic Transmission Modeling of COVID-19 on the Diamond Princess Cruise Ship Demonstrates the Importance of Aerosol Transmission ([medRxiv](https://www.medrxiv.org/content/10.1101/2020.07.13.20153049v1))\n5. Aerosol and surface contamination of SARS-CoV-2 observed in quarantine and isolation care ([Nature](https://www.nature.com/articles/s41598-020-69286-3))\n6. W.H.O. to Review Evidence of Airborne Transmission of Coronavirus ([NYT](https://www.nytimes.com/2020/07/07/health/coronavirus-aerosols-who.html))\n7. Mechanistic Transmission Modeling of COVID-19 on the Diamond Princess Cruise Ship Demonstrates the Importance of Aerosol Transmission ([medRxiv](https://www.medrxiv.org/content/10.1101/2020.07.13.20153049v1))\n8. 239 Experts With One Big Claim: The Coronavirus Is Airborne ([NYT](https://www.nytimes.com/2020/07/04/health/239-experts-with-one-big-claim-the-coronavirus-is-airborne.html))\n9. Evidence for probable aerosol transmission of SARS-CoV-2 in a poorly ventilated restaurant ([medRxiv](https://www.medrxiv.org/content/10.1101/2020.04.16.20067728v1))\n10. Scientists Urge WHO To Update Guidance On Airborne Transmission Of The Coronavirus ([NPR](https://www.npr.org/2020/07/06/887925721/scientists-urge-who-to-update-guidance-on-airborne-transmission-of-the-coronavir))\n11. Aerodynamic Characteristics and RNA Concentration of SARS-CoV-2 Aerosol in Wuhan Hospitals during COVID-19 Outbreak ([bioRxiv](https://www.biorxiv.org/content/10.1101/2020.03.08.982637v1))\n12. Coronavirus: WHO rethinking how Covid-19 spreads in air ([BBC](https://www.bbc.com/news/world-53329946))\n13. Transmission of SARS-CoV-2: implications for infection prevention precautions ([WHO](https://www.who.int/publications/i/item/modes-of-transmission-of-virus-causing-covid-19-implications-for-ipc-precaution-recommendations)) \n",
+    "Other resources": "1. Modes of transmission of virus causing COVID-19: implications for IPC precaution recommendations ([WHO](https://www.who.int/news-room/commentaries/detail/modes-of-transmission-of-virus-causing-covid-19-implications-for-ipc-precaution-recommendations))\n2. Open Letter: It is Time to Address Airborne Transmission of COVID-19 ([Clinical Infectious Diseases](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/5867798))\n3. Aboard the Diamond Princess, a Case Study in Aerosol Transmission ([NYT](https://www.nytimes.com/2020/07/30/health/diamond-princess-coronavirus-aerosol.html))\n4. Mechanistic Transmission Modeling of COVID-19 on the Diamond Princess Cruise Ship Demonstrates the Importance of Aerosol Transmission ([medRxiv](https://www.medrxiv.org/content/10.1101/2020.07.13.20153049v1))\n5. Aerosol and surface contamination of SARS-CoV-2 observed in quarantine and isolation care ([Nature](https://www.nature.com/articles/s41598-020-69286-3))\n6. W.H.O. to Review Evidence of Airborne Transmission of Coronavirus ([NYT](https://www.nytimes.com/2020/07/07/health/coronavirus-aerosols-who.html))\n7. Mechanistic Transmission Modeling of COVID-19 on the Diamond Princess Cruise Ship Demonstrates the Importance of Aerosol Transmission ([medRxiv](https://www.medrxiv.org/content/10.1101/2020.07.13.20153049v1))\n8. 239 Experts With One Big Claim: The Coronavirus Is Airborne ([NYT](https://www.nytimes.com/2020/07/04/health/239-experts-with-one-big-claim-the-coronavirus-is-airborne.html))\n9. Evidence for probable aerosol transmission of SARS-CoV-2 in a poorly ventilated restaurant ([medRxiv](https://www.medrxiv.org/content/10.1101/2020.04.16.20067728v1))\n10. Scientists Urge WHO To Update Guidance On Airborne Transmission Of The Coronavirus ([NPR](https://www.npr.org/2020/07/06/887925721/scientists-urge-who-to-update-guidance-on-airborne-transmission-of-the-coronavir))\n11. Aerodynamic Characteristics and RNA Concentration of SARS-CoV-2 Aerosol in Wuhan Hospitals during COVID-19 Outbreak ([bioRxiv](https://www.biorxiv.org/content/10.1101/2020.03.08.982637v1))\n12. Coronavirus: WHO rethinking how Covid-19 spreads in air ([BBC](https://www.bbc.com/news/world-53329946))\n13. Transmission of SARS-CoV-2: implications for infection prevention precautions ([WHO](https://www.who.int/publications/i/item/modes-of-transmission-of-virus-causing-covid-19-implications-for-ipc-precaution-recommendations)[) ](https://www.cdc.gov/coronavirus/2019-ncov/more/scientific-brief-sars-cov-2.html)\n14. SARS-CoV-2 & Potential Airborne Transmission ([US CDC)](https://www.cdc.gov/coronavirus/2019-ncov/more/scientific-brief-sars-cov-2.html)\n",
     "How often revision needed": "Weekly",
     "DB (Hindi)": [
       "recQsQedv6T3fLr8y"
@@ -3578,13 +3774,13 @@
         "type": "application/zip"
       }
     ],
-    "Last modified manual": "2020-08-03",
-    "Last edited (simplified)": "2020-07-31T20:30:18.000Z",
-    "Last edited (experts say)": "2020-08-31T19:10:23.000Z",
-    "What our experts say wordcount": 288,
-    "Background and context wordcount": 155,
-    "Other resources wordcount": 169,
-    "Wordcount": 612,
+    "Last modified manual": "2020-10-16",
+    "Last edited (simplified)": "2020-10-16T19:41:11.000Z",
+    "Last edited (experts say)": "2020-10-16T19:41:11.000Z",
+    "What our experts say wordcount": 315,
+    "Background and context wordcount": 185,
+    "Other resources wordcount": 176,
+    "Wordcount": 676,
     "Hindi Q Status": [
       "Published"
     ],
@@ -3594,7 +3790,7 @@
     "Hindi - Background and context": [
       "श्वसन की छोटी बूंद का संचरण तब होता है जब रोग, इस मामले में सीओवीआईडी ​​-19, संक्रमित व्यक्ति द्वारा खांसी, छींकने, बात करने या यहां तक ​​कि सिर्फ सांस लेने के माध्यम से निष्कासित बूंदों के माध्यम से फैलता है; ये बूंदें 5-10 माइक्रोमीटर से बड़ी होती हैं। एक माइक्रोमीटर एक मीटर का दसवां हिस्सा है। श्वसन की बूंदें अपेक्षाकृत भारी होती हैं, और जल्दी से जमीन पर गिर जाती हैं। इसके विपरीत, एयरबोर्न ट्रांसमिशन तब होता है जब 5 माइक्रोमीटर, या वायरस ले जाने वाले धूल कणों से छोटी बूंदों से अवशेष थोड़ी देर के लिए हवा में निलंबित रहते हैं और उनकी हवा चलती है। वैज्ञानिकों और विश्व स्वास्थ्य संगठन (डब्ल्यूएचओ) ने माना है कि सबूत हवाई प्रसारण की संभावना पर उभर रहे हैं, विशेष रूप से भीड़, बंद, खराब हवादार सेटिंग्स में। यदि कोविड-19 का एयरबोर्न ट्रांसमिशन महत्वपूर्ण है, तो इसमें रोकथाम के प्रयासों के लिए प्रमुख निहितार्थ हैं (पूर्व मास्क को घर के अंदर और यहां तक ​​कि सामाजिक-दूर की सेटिंग्स में भी हो सकता है, वेंटिलेशन सिस्टम को पुन: परिसंचारी हवा को कम करने और दूषित हवा को फिल्टर या कीटाणुरहित करने के तरीके खोजने की आवश्यकता हो सकती है। , आदि)।"
     ],
-    "Last modified": "2020-08-31"
+    "Last modified": "2020-10-16"
   },
   {
     "id": "recqFRWiE9Y6nbUM5",
@@ -4621,7 +4817,7 @@
     "Category": "Treatment",
     "Subcategory": "On: COVID-19 & treatments",
     "Background and context": "The word 'cure' is a broad one that technically means a procedure or drug that ends a certain medical condition, and implies a complete restoration of health. The word 'treatment,' on the other hand, technically means a procedure or drug that improves a certain medical condition, but doesn't necessarily end it. This distinction is important because there is currently no cure for COVID-19, but there are treatments in use, namely Remdesivir, which is under emergency use authorization (EUA) by the U.S. FDA, and Dexamethasone, which was previously approved by the FDA to treat a range of other health conditions. None of these treatments, however, are officially approved for COVID-19. There are multiple studies being conducted around the world to test a variety of cures, treatments, and preventative vaccines for COVID-19.\n",
-    "What our experts say": "As of July 29, 2020, there is no known cure for COVID-19, but there are ways to manage the symptoms of the disease. Healthcare professionals around the world are researching various treatments for COVID-19, including drugs that already exist to treat other conditions to see if they may be effective against COVID-19 as well.\n\nNo treatments are currently approved by the U.S. Food and Drug Administration (FDA) for COVID-19, but because COVID-19 is a public health crisis, doctors can treat patients using some drugs that are not technically approved for COVID-19. Emergency use authorization enables unapproved medical products or unapproved uses of approved medical products to be used for diagnosis, treatment or prevention in an emergency setting, even if the treatments may still be under further study.\n\nRemdesivir, an antiviral drug manufactured by Gilead Sciences that stops the virus from replicating, received emergency use authorization by the U.S. FDA. It reportedly reduced the recovery time for hospitalized patients from 15 days to 11 days, and early results indicate that it may reduce mortality among patients who are very sick from COVID-19. \n\nIn terms of clinical management of symptoms, the U.S. National Institutes of Health (NIH) COVID-19 treatment guidelines indicate that Remdesivir supplies are limited and should be prioritized for patients who need it most (hospitalized patients who require supplemental oxygen). The guidelines also recommend the use of dexamethasone, a steroid that can reduce inflammation, for patients who require ventilators or supplemental oxygen. Healthcare professionals use ventilators and supplemental oxygen to ensure that hospitalized patients have a healthy supply of oxygen in the body, and monitor patients accordingly. At present, there is no other cure for COVID-19.\n",
+    "What our experts say": "There is no known cure for COVID-19 right now, but there are ways to manage the symptoms of the disease. A cure is a substance or act that ends and relieves the symptoms of a medical condition so patients can have their health restored. One for COVID-19 is currently being researched in many clinical trials around the world, but no treatment or practice has been shown to effectively meet these standards. Healthcare professionals around the world are researching various treatments for COVID-19, including drugs that already exist to treat other conditions to see if they may be effective against COVID-19 as well.\n\nNo treatments are currently approved by the U.S. Food and Drug Administration (FDA) for COVID-19, but because COVID-19 is a public health crisis, doctors can treat patients using some drugs that are not technically approved for COVID-19. Emergency use authorization enables unapproved medical products or unapproved uses of approved medical products to be used for diagnosis, treatment or prevention in an emergency setting, even if the treatments may still be under further study.\n\nRemdesivir, an antiviral drug manufactured by Gilead Sciences that stops the virus from replicating, received emergency use authorization by the U.S. FDA. It reportedly reduced the recovery time for hospitalized patients from 15 days to 11 days, and early results indicate that it may reduce mortality among patients who are very sick from COVID-19. \n\nIn terms of clinical management of symptoms, the U.S. National Institutes of Health (NIH) COVID-19 treatment guidelines indicate that Remdesivir supplies are limited and should be prioritized for patients who need it most (hospitalized patients who require supplemental oxygen). The guidelines also recommend the use of dexamethasone, a steroid that can reduce inflammation, for patients who require ventilators or supplemental oxygen (and potentially other corticosteroids). Healthcare professionals may use ventilators and supplemental oxygen to ensure that hospitalized patients have a healthy supply of oxygen in the body, and monitor patients accordingly. Prone positioning (flipping COVID-19 patients onto their bellies in order to open up their lungs ) is also widely used to help patients recover from the virus. At present, there is no cure for COVID-19.\n",
     "Glossary Terms": [
       "recjILnexcCRlyBIb",
       "recROlYn1QcWitPtM",
@@ -4645,18 +4841,18 @@
     ],
     "Last modified manual": "2020-07-30",
     "Last edited (simplified)": "2020-07-29T17:34:46.000Z",
-    "Last edited (experts say)": "2020-07-29T23:54:57.000Z",
-    "What our experts say wordcount": 274,
+    "Last edited (experts say)": "2020-10-15T19:24:34.000Z",
+    "What our experts say wordcount": 353,
     "Background and context wordcount": 130,
     "Other resources wordcount": 23,
-    "Wordcount": 427,
+    "Wordcount": 506,
     "Bengali - What our experts say": [
       " \" জুলাই ২৯, ২০২০ তারিখে, কোভিড-১৯ এর জন্য কোন জানা নিরাময় নেই, কিন্তু অসুখের উপসর্গগুলি সামলানোর বিভিন্ন উপায় আছে। সারা পৃথিবী জুড়ে স্বাস্থ্য সুরক্ষা কর্মীরা কোভিড-১৯ এর বিভিন্ন চিকিৎসা নিয়ে গবেষণা করছেন, যার অন্তর্গত এমন ওষুধ যা অন্যান্য অসুখের চিকিৎসার জন্য বর্তমানে বিদ্যমান, যা কোভিড-১৯ এর বিরুদ্ধেও কার্যকরী হয় কি না দেখার জন্য। \n \n এই মুহূর্তে মার্কিন যুক্তরাষ্ট্রের ফুড অ্যান্ড ড্রাগ অ্যাডমিনিস্ট্রেশন (এফডিএ) দ্বারা কোন চিকিৎসাই অনুমোদিত হয়নি, কিন্তু যেহেতু কোভিড-১৯ একটি জনস্বাস্থ্য সংকট, তাই চিকিৎসকেরা এমন কিছু ওষুধ ব্যবহার করে রোগীদের চিকিৎসা করতে পারেন যা প্রযুক্তিগতভাবে কোভিড-১৯ এর জন্য অনুমোদিত নয়। জরুরীকালীন ব্যবহার অনুমোদন যেকোনো জরুরী অবস্থায় রোগনির্ণয়, চিকিৎসা বা প্রতিরোধের জন্য অনুমোদন না হওয়া চিকিৎসাগত পণ্য অথবা অনুমোদিত চিকিৎসা পণ্যের অননুমোদিত ব্যবহার করতে দেয়, এমনকি যদি চিকিৎসা তখনও পর্যন্ত অতিরিক্ত অধ্যয়নের অধীনে থাকে তাহলেও।\n \n রেমডেসিভির, একটি অ্যান্টিভাইরাস ওষুধ, যা প্রস্তুত করেছেন গিলিয়াড সায়েন্সেস, যা ভাইরাসটিকে রেপ্লিকেট করা থেকে আটকায়, এটি মার্কিন যুক্তরাষ্ট্রের FDA দ্বারা জরুরী ব্যবহারের অনুমোদন পেয়েছেন। এটি হাসপাতালে ভর্তি হওয়া রোগীদের মধ্যে সেরে ওঠার সময় ১৫ দিন থেকে ১১ দিনে কমিয়ে এনেছে বলে রিপোর্ট পাওয়া গেছে, এবং প্রাথমিক ফলাফল থেকে দেখা যায় যে এটি হয়তো সেই সমস্ত রোগীর মধ্যে মৃত্যুর হার হ্রাস করেছেন যারা কোভিড-১৯ থেকে খুবই অসুস্থ। \n \n উপসর্গের নিদানিক ব্যবস্থাপনার ক্ষেত্রে, মার্কিন যুক্তরাষ্ট্রের ন্যাশনাল ইন্সটিটিউট অফ হেলথ (NIH) এর কোভিড-১৯ নির্দেশিকা থেকে জানা যায় যে রেমডেসিভির এর সরবরাহ সীমিত এবং যে সমস্ত রোগীর সবচেয়ে প্রয়োজন (হাসপাতালে ভর্তি রোগী যাদের সাপ্লিমেন্টাল অক্সিজেন প্রয়োজন) তাদেরকে অগ্রাধিকার দিয়ে এটি ব্যবহার করা উচিৎ। এছাড়াও এই নির্দেশিকা ভেন্টিলেটর অথবা সাপ্লিমেন্টাল অক্সিজেনের প্রয়োজন পড়ছে এমন রোগীর মধ্যে প্রদাহ কমানোর জন্য ডেক্সামেথাসোন, একটি স্টেরয়েড, ব্যবহার করার পরামর্শ দেয়। রোগীদের শরীরে স্বাস্থ্যকর পরিমাণ অক্সিজেনের সরবরাহ রয়েছে কি না তা নিশ্চিত করার জন্য স্বাস্থ্য পরিষেবা প্রদানকারীরা ভেন্টিলেটর এবং সাপ্লিমেন্টাল অক্সিজেন ব্যবহার করেন, এবং সেই অনুযায়ী রোগীকে পর্যবেক্ষণ করেন। বর্তমানে, কোভিড-১৯ এর কোন নিরাময় নেই।\"\n "
     ],
     "Bengali - Background and context": [
       " ‘নিরাময়’ শব্দটিকে বহু অর্থে ব্যবহার করা হয়, যার প্রযুক্তিগত অর্থ হচ্ছে একটি প্রক্রিয়া অথবা ওষুধ যা কোন একটি নির্দিষ্ট অসুখকে শেষ করে দেয়, এবং এটি বোঝায় যে স্বাস্থ্য সম্পূর্ণ পুনরুদ্ধার হবে। অন্যদিকে ‘চিকিৎসা’ শব্দটি প্রযুক্তিগতভাবে বোঝায় এমন একটি প্রক্রিয়া বা ওষুধ যা নির্দিষ্ট কোন অসুখের ক্ষেত্রে অবস্থার উন্নতি ঘটায়, কিন্তু অপরিহার্যভাবে সেটিকে শেষ করে না। এই পার্থক্যটি গুরুত্বপূর্ণ কারণ বর্তমানে কোভিড-১৯ এর কোন নিরাময় নেই, কিন্তু বিভিন্ন চিকিৎসা ব্যবস্থা ব্যবহার করা হচ্ছে, যেমন রেমডেসিভির যা মার্কিন যুক্তরাষ্ট্রের FDA দ্বারা জরুরী ব্যবহার অনুমোদন (EUA) এর অধীন, এবং ডেক্সামেথাসোন, যা এর আগে বিভিন্ন অন্যান্য অসুখের চিকিৎসার জন্য FDA দ্বারা অনুমোদিত হয়েছে। এই চিকিৎসাগুলির মধ্যে কোনটিই, যদিও, কোভিড-১৯ এর জন্য আনুষ্ঠানিকভাবে অনুমোদিত হয় নি। সারা পৃথিবী জুড়ে বিভিন্ন নিরাময়, চিকিৎসা, এবং কোভিড-১৯ প্রতিরোধকারী ভ্যাক্সিন পরীক্ষা করার জন্য একাধিক অধ্যয়ন পরিচালনা করা হচ্ছে।"
     ],
-    "Last modified": "2020-07-29"
+    "Last modified": "2020-10-15"
   },
   {
     "id": "recwnCbclyAAZHewu",
@@ -5359,9 +5555,21 @@
     "id": "recJdTUlHe5fd1cw1",
     "Question": "Why has Iceland had fewer deaths of COVID-19 than other countries?",
     "Status": "Published",
-    "Background and context": "Media reports suggest that Iceland successfully “beat” coronavirus or “eliminated” the case curve that many countries have been taking measures to flatten. Unlike many countries, early planning and preparedness was instituted to ensure that the country was able to track and trace anyone possibly exposed to an infected person. Iceland began preparing for COVID-19 before any cases had been reported in the country. By employing law enforcement officers, nurses, and a criminologist, the team was able to use their skills as detectives to track both people and the virus once the first case was identified. As cases increased, the tracing team also increased and included epidemiologists, physicians, and other health professionals; and the country expanded testing to the highest per-capita rate in the world. Though Iceland did not ever institute a lockdown, individuals who were exposed and infected had to quarantined and some types of business were closed (i.e. night clubs, hair salons).\n",
-    "What our experts say": "Iceland, a country with 365,000 people has registered 10 deaths from COVID-19, prompting many analyses and news articles over its success in containing the pandemic. Iceland has a small population spread over a very large geography, with hundreds of miles of the Atlantic Ocean separating it from the rest of the Nordic region. This gives it a natural advantage in fighting an infectious disease like COVID-19 that spreads through people, and whose transmission increases exponentially in high density areas. \nIn addition, Iceland took very rapid decisions to respond to the virus on its territory and prevent infections transmission, as soon as they observed the pandemic unfolding in China and Europe, even before cases were registered in Iceland. Hospitals were testing people arriving from abroad for a month before the first confirmed case in Iceland, and a media campaign urged hand washing and social distancing. The country put early restrictions on nursing homes to protect vulnerable segments of the population, and also closed high schools and universities. When cases were declared in Iceland and increasing at a fast rate, Iceland implemented very rigorously the test-trace-isolate strategy of containing infectious diseases. All contacts of confirmed cases were located and ordered to quarantine themselves for 14 days. Their policy of testing and tracking to find and isolate infected people, was comprehensive as it was not limited only to people experiencing symptoms but also to asymptomatic people. Their extensive contact tracing effort relied on teams on a large number of people mobilized, including nurses, police officers and health care professionals. \nIceland was able to test such large numbers of people, thanks to a partnership with a private sector company named [deCODE Genetics](https://www.decode.com/), based in Reykjavik, Iceland.\n",
-    "Other resources": "1. How Iceland Beat the Coronavirus ([The New Yorker](https://www.newyorker.com/magazine/2020/06/08/how-iceland-beat-the-coronavirus))\n2. Research article: Spread of SARS-CoV-2 in the Icelandic Population ([NEJM](https://www.nejm.org/doi/10.1056/NEJMoa2006100))\n\n",
+    "Background and context": "Early in the pandemic, media reports suggested that Iceland successfully “beat” coronavirus or “eliminated” the case curve that many countries have been taking measures to flatten. Unlike many countries, early planning and preparedness was instituted to ensure that the country was able to track and trace anyone possibly exposed to an infected person. Iceland began preparing for COVID-19 before any cases had been reported in the country. By employing law enforcement officers, nurses, and a criminologist, the team was able to use their skills as detectives to track both people and the virus once the first case was identified. As cases increased, the tracing team also increased and included epidemiologists, physicians, and other health professionals. At one time, the country expanded testing to the highest per-capita rate in the world. \n\nWith an increase in cases, as of October 2020, gatherings are limited to no more than 20, businesses where social distancing cannot be maintained (like bars, clubs, pools, and gyms) are closed, and masks are required in areas where safe distancing cannot be maintained. These restrictions are to continue at least through October 2020.\nAdditionally, Iceland's borders are only open to those within the Schengen Area (including the European Union, European Free Trade Association, European Economic Area). Those arriving to Iceland have the option to be tested for COVID-19 upon entry or undergo a 14-day quarantine. Those who receive a test at the border are still required to quarantine for five days then undergo a follow-up test. Current travel restrictions are in place until at least December 2020.\n",
+    "What our experts say": "By using a test-trace-isolate strategy of containing infectious diseases early in the pandemic, Iceland was viewed as a model for quickly addressing and managing the spread of COVID-19. As of early October 2020, however, the current number COVID-19 cases is higher than in the first wave of the pandemic. According to the World Health Organization, as of October 19th, 2020, there have been 3998 cases and 11 deaths from COVID-19.\n\nIceland is a small nation and, as an island, its borders are well controlled. Frequent testing, including testing for all who enter the country, in combination with contact tracing, isolation, and quarantine measures, has helped ensure that hospitals are not overwhelmed by patients. Doctors have reported that, while hospitalizations are greater in the second wave of the pandemic, intensive care admissions for COVID-19 are lower. The lower need for intensive care may be because younger, otherwise healthy people are being infected at higher rates than older individuals. \n\nIn addition to earlier monitoring and supportive treatments, the lower number of deaths may also be related to the fact that most residents of Iceland (95.3%) have access to Universal Health Coverage and the incidence of pre-existing conditions (like obesity and diabetes) is lower than in many countries, including the US.\n\n",
+    "Glossary Terms": [
+      "recEer1bgt6r6jukM",
+      "recz6wQ17eV2G7r6w",
+      "recmPbJ79ZZs8PRcU"
+    ],
+    "Topics": [
+      "transmission",
+      "COVID-19",
+      "testing",
+      "incidence",
+      "quarantine"
+    ],
+    "Other resources": "1. Iceland ([WHO](https://covid19.who.int/region/euro/country/is))\n2. What is the status of COVID-19 in Iceland? ([Iceland Review](https://www.icelandreview.com/ask-ir/whats-the-status-of-covid-19-in-iceland))\n3. Iceland ([IHME](http://www.healthdata.org/iceland))\n4. How Iceland Beat the Coronavirus ([The New Yorker](https://www.newyorker.com/magazine/2020/06/08/how-iceland-beat-the-coronavirus))\n5. Research article: Spread of SARS-CoV-2 in the Icelandic Population ([NEJM](https://www.nejm.org/doi/10.1056/NEJMoa2006100))\n\n",
     "DB (Hindi)": [
       "recwQdw7VE7o4RznT"
     ],
@@ -5375,13 +5583,13 @@
     "Rollup test 2": [
       "recFBS7Llbq2F731J"
     ],
-    "Last modified manual": "2020-07-23",
-    "Last edited (simplified)": "2020-07-23T19:00:55.000Z",
-    "Last edited (experts say)": "2020-07-23T19:00:55.000Z",
-    "What our experts say wordcount": 280,
-    "Background and context wordcount": 153,
-    "Other resources wordcount": 19,
-    "Wordcount": 452,
+    "Last modified manual": "2020-10-21",
+    "Last edited (simplified)": "2020-10-21T21:49:12.000Z",
+    "Last edited (experts say)": "2020-10-21T21:49:12.000Z",
+    "What our experts say wordcount": 207,
+    "Background and context wordcount": 257,
+    "Other resources wordcount": 33,
+    "Wordcount": 497,
     "Hindi Q Status": [
       "Published"
     ],
@@ -5391,7 +5599,7 @@
     "Hindi - Background and context": [
       "मीडिया रिपोर्टों से पता चलता है कि आइसलैंड ने सफलतापूर्वक कोरोनोवायरस को \"हराया\" या केस वक्र को \"समाप्त\" कर दिया है जो कई देशों को समतल करने के लिए उपाय कर रहा है। कई देशों के विपरीत, आरंभिक योजना और तैयारियों को यह सुनिश्चित करने के लिए शुरू किया गया था कि देश किसी संक्रमित व्यक्ति को उजागर करने में सक्षम हो सकता है। देश में कोई भी मामले दर्ज होने से पहले आइसलैंड ने कोविड-19 की तैयारी शुरू कर दी थी। कानून प्रवर्तन अधिकारियों, नर्सों और एक क्रिमिनोलॉजिस्ट को नियुक्त करके, टीम पहले मामले की पहचान होने के बाद लोगों और वायरस दोनों को ट्रैक करने के लिए जासूस के रूप में अपने कौशल का उपयोग करने में सक्षम थी। जैसे-जैसे मामले बढ़ते गए, ट्रेसिंग टीम भी बढ़ती गई और इसमें महामारी विज्ञानियों, चिकित्सकों और अन्य स्वास्थ्य पेशेवरों को शामिल किया गया; और देश ने दुनिया में उच्चतम प्रति व्यक्ति दर के परीक्षण का विस्तार किया। हालांकि आइसलैंड ने कभी भी एक लॉकडाउन संस्थान नहीं बनाया था, जो लोग उजागर हुए थे और संक्रमित थे, उन्हें अलग करना पड़ा और कुछ प्रकार के व्यवसाय बंद हो गए (यानी नाइट क्लब, हेयर सैलून)।"
     ],
-    "Last modified": "2020-07-23"
+    "Last modified": "2020-10-21"
   },
   {
     "id": "recIdXgirdLhuul85",
@@ -6079,7 +6287,7 @@
       "Partner Organization"
     ],
     "Background and context": "The current science suggests that people most commonly become infected with COVID-19 through close contact with another infected person, even if the infected person is not showing symptoms. Close contact is when people are within about 6 feet (2 meters), and the infected person spreads the virus by coughing, sneezing, talking, or breathing into the close space.\n\nEven though the current science suggests that COVID-19 spreads most often through close personal contact, the public health community is continually learning about other ways that COVID-19 spreads. A major idea put forward is that COVID-19 could be spread from one person to another if the virus remains alive on surfaces like packages, food, plastic, or metals for long amounts of time, and that people touch their faces after having touched these surfaces. Multiple studies have analyzed how long the virus survives on different surfaces, and this evidence will continue to add to the understanding of the virus and how it is spread. This new evidence allows scientists to better understand whether or not people are likely to become infected by touching items in a market, collecting their mail or packages, or by contact with other surfaces in shared spaces (i.e. a table at a restaurant, a chair in an office) and public places (i.e. a bench at the park).\n",
-    "What our experts say": "The virus that causes COVID-19 primarily spreads through close, person-to-person contact, not through surface contamination. However, the virus can live on surfaces and the amount of time that COVID-19 can survive on a surface depends on the material of the surface. According to recent studies, COVID-19 can survive from 3 hours to 7 days on surfaces, though the virus' lifespan varies greatly on different areas.\n\nIt should be noted that the amount of living virus that is on a surface decreases over time. In practice, the amount of the virus on a surface usually drops dramatically in the first few hours. It is also important to note that even though some of the living virus might still be detected on a surface after several hours or days, it might not be present in a large enough quantity to make someone sick.  \n\nAccording to The Lancet and the New England Journal of Medicine, the living virus could be detected on different surfaces for varying periods of time:\n\n• **Aluminum**: 2-8 hours\n• **Stainless steel**: 2-7 days\n• **Paper**: 3 hours\n• **Copper**: 4 hours\n• **Cardboard**: 24 hours\n• **Cloth**: 2 days\n• **Wood**: 4 days\n• **Plastic**: 3-7 days\n• **Metal:** 5 days\n• **Glass**: 5 days\n• **Paper money**: 4 days\n• **Face masks**: 7 days (**_Note:_**_ A small amount of viable virus was still present on the outside of the mask after 7 days, but masks should be frequently washed, sanitized, or be used only once._)\n\nIf a person touches a contaminated surface with traces of the virus and then touches their eyes, nose, or mouth, they could become infected if the surface contains large amounts of the virus. This is why it is important to clean and disinfect any surfaces that people might come into contact with, especially those like doorknobs, cell phones, light switches, handles, countertops, sinks, toilets, and more. If possible, people should try to avoid touching high-contact surfaces in public. Washing your hands for 20 seconds, avoiding touching your face, maintaining six feet (two meters) of distance and wearing a mask are key steps in combatting the spread of the virus.\n\n",
+    "What our experts say": "The virus that causes COVID-19 primarily spreads through close, person-to-person contact, not through surface contamination. However, the virus can live on surfaces and the amount of time that SARS-CoV-2 can survive on a surface depends on the material of the surface. \n\nAccording to a recent study published in the Virology Journal, depending on the temperature, COVID-19 survived on different surfaces from a few hours to several days, with a half-life (time taken for 50% of the virus to no longer be infectious) of up to 2.7 days. The virus remained infectious on stainless steel, polymer and paper notes, glass, cotton and vinyl for much longer at 20°C as compared to 40°C.\n\nIn practice, the amount of the virus on a surface usually drops dramatically in the first few hours. It is also important to note that even though some of the living virus might still be detected on a surface after several hours or days, it might not be present in a large enough quantity to make someone sick. The recent findings, however, suggest that the virus can remain infectious for longer periods of time than considered earlier, especially at lower temperatures.\n\nIf a person touches a contaminated surface with traces of the virus and then touches their eyes, nose, or mouth, they could become infected if the surface contains large amounts of the virus. This is why it is important to clean and disinfect any surfaces that people might come into contact with, especially those like doorknobs, cell phones, light switches, handles, countertops, sinks, toilets, and more. If possible, people should try to avoid touching high-contact surfaces in public. Washing your hands for 20 seconds, avoiding touching your face, maintaining six feet (two meters) of distance and wearing a mask are key steps in combatting the spread of the virus.\n\n",
     "Variation of the answer depending on country of residence": "Yes; places with more humidity and higher temperatures may lead to the virus surviving a shorter amount of time\t\n",
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\t\n",
     "Topics": [
@@ -6089,7 +6297,7 @@
       "survive",
       "surface"
     ],
-    "Other resources": "1. Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1 ([NEJM](https://www.nejm.org/doi/full/10.1056/NEJMc2004973)) \n2. Stability of SARS-CoV-2 in different environmental conditions ([The Lancet](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(20)30003-3/fulltext)) \n3. How Long Will Coronavirus Survive on Surfaces? ([Cleveland Clinic](https://health.clevelandclinic.org/how-long-will-coronavirus-survive-on-surfaces/)) \n4. How long does coronavirus live on surfaces? ([NASEM](https://sites.nationalacademies.org/BasedOnScience/covid-19-how-long-does-coronavirus-live-on-surfaces/index.htm)) \n5. How long can the virus that causes COVID-19 live on surfaces?? ([Johns Hopkins](https://hub.jhu.edu/2020/03/20/sars-cov-2-survive-on-surfaces/)) \n6. How long does coronavirus last on surfaces? Stay in the air? ([SF Chronicle](https://www.sfchronicle.com/health/article/Coronavirus-FAQ-How-long-does-it-stay-on-15152021.php)) \n",
+    "Other resources": "1. Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1 ([NEJM](https://www.nejm.org/doi/full/10.1056/NEJMc2004973)) \n2. Stability of SARS-CoV-2 in different environmental conditions ([The Lancet](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(20)30003-3/fulltext)) \n3. How Long Will Coronavirus Survive on Surfaces? ([Cleveland Clinic](https://health.clevelandclinic.org/how-long-will-coronavirus-survive-on-surfaces/)) \n4. How long does coronavirus live on surfaces? ([NASEM](https://sites.nationalacademies.org/BasedOnScience/covid-19-how-long-does-coronavirus-live-on-surfaces/index.htm)) \n5. How long can the virus that causes COVID-19 live on surfaces?? ([Johns Hopkins](https://hub.jhu.edu/2020/03/20/sars-cov-2-survive-on-surfaces/)) \n6. How long does coronavirus last on surfaces? Stay in the air? ([SF Chronicle](https://www.sfchronicle.com/health/article/Coronavirus-FAQ-How-long-does-it-stay-on-15152021.php)) \n7. The effect of temperature on persistence of SARS-CoV-2 on common surfaces ([Virology Journal](https://virologyj.biomedcentral.com/articles/10.1186/s12985-020-01418-7))\n",
     "In translated DBs?": "Yes",
     "DB (Arabic)": [
       "recrxDBUY3ZlnL92B"
@@ -6103,13 +6311,13 @@
     "Rollup test 2": [
       "reciWwdN2x9L21F8Z"
     ],
-    "Last modified manual": "2020-07-21",
+    "Last modified manual": "2020-10-16",
     "Last edited (simplified)": "2020-07-21T00:10:33.000Z",
-    "Last edited (experts say)": "2020-07-21T00:10:33.000Z",
-    "What our experts say wordcount": 331,
+    "Last edited (experts say)": "2020-10-19T22:01:33.000Z",
+    "What our experts say wordcount": 299,
     "Background and context wordcount": 216,
-    "Other resources wordcount": 70,
-    "Wordcount": 617,
+    "Other resources wordcount": 83,
+    "Wordcount": 598,
     "Arabic Q status": [
       "Published"
     ],
@@ -6125,7 +6333,7 @@
     "Portuguese - Background and context": [
       "A ciência, em seu estado atual, sugere que as pessoas são mais frequentemente infectadas com o COVID-19 por meio de contato próximo com outra pessoa infectada, mesmo que a pessoa infectada não esteja apresentando sintomas. O contato próximo ocorre quando as pessoas estão a menos de 2 metros de distância uma da outra e a pessoa infectada transmite o vírus tossindo, espirrando, conversando ou respirando em um espaço fechado. \nEmbora a ciência em seu estado atual sugira que o COVID-19 se propaga com mais frequência por meio de contato pessoal próximo, a comunidade de saúde pública está continuamente melhorando seu conhecimento sobre outras meios de propagação do COVID-19. Uma ideia importante que foi proposta é que o COVID-19 poderia se espalhar de uma pessoa para outra se o vírus permanecesse vivo em superfícies como embalagens, alimentos, plásticos ou metais por longos períodos de tempo, e se as pessoas tocassem no rosto depois de tocarem essas superfícies. Vários estudos analisaram por quanto tempo o vírus sobrevive em diferentes superfícies, e essas evidências continuarão contribuir para aperfeiçoar o conhecimento sobre o vírus e como ele se propagou. Essas novas evidências permitem que os cientistas entendam melhor a probabilidade de que as pessoas sejam infectadas tocando itens em um mercado, apanhando suas correspondências ou pacotes ou entrando em contato com outras superfícies em espaços compartilhados (por exemplo, uma mesa em um restaurante ou em um escritório) e locais públicos (por exemplo, um banco no parque)."
     ],
-    "Last modified": "2020-07-21"
+    "Last modified": "2020-10-19"
   },
   {
     "id": "recFGva1N4EIOvcyA",
@@ -8351,7 +8559,7 @@
   },
   {
     "id": "recYJj2fg6IEXFncp",
-    "Question": "How effective are Remdesivir and Favipiravir and can they be taken without medical supervision? ",
+    "Question": "How effective are Remdesivir and Favipiravir, and can they be taken without medical supervision? ",
     "Status": "Published",
     "Source of the question": [
       "Social Media"
@@ -8359,8 +8567,8 @@
     "Country question was sourced from": [
       "USA"
     ],
-    "Background and context": "With efforts to find therapeutic options for the millions of patients suffering with COVID-19, there has been a rapid pace at drug evaluation. While some treatments are being evaluated and generic versions might be approved, there is still not enough data to confirm specific treatments for COVID-19 patients. Studies have found successful outcomes with Remdesivir, which has been approved in several countries. While these emergent use applications are an encouraging sign, it is important to monitor patients closely and report their outcomes or negative side effects. \n",
-    "What our experts say": "SARS-CoV-2/COVID-19 is a new infectious disease and, while there has been a lot of research aimed at identifying possible treatments, many therapies remain under investigation for both safety and effectiveness. \n \nIn a recent study funded by Gilead Sciences, a biopharmaceutical company, 53 patients with severe cases of COVID-19 were prescribed Remdesivir, and researchers observed clinical improvements, including a decreased need for breathing support, in 68% (36 of 53 patients) of the participants. While the initial data looks promising for this drug, it is important to note that this initial study was small and the drug has not been rigorously studied for COVID-19. In addition, the study did not include patients with mild or moderate COVID-19 symptoms. \n \nFavipiravir is also considered to be a possible treatment for COVID-19. A small study showed the virus being reduced faster with the drug in comparison to other medications. Without further study, there is not enough evidence suggesting effectiveness and safety.\n\nIn general, studies remain underway, and it is too early to determine which medications may be effective therapeutic options for COVID-19 patients. At present, Remdesivir has been given emergency use authorization in the U.S. and approval in Japan for severe COVID-19 cases. When either Remdesivir or Favipiravir is prescribed, it is important that medical providers monitor the patient's clinical condition noting effectiveness and possible negative side effects. Taking either drug without medical supervision is not recommended and may be harmful. \n",
+    "Background and context": "With efforts to find therapeutic options for the millions of patients suffering from COVID-19, there has been a rapid pace of drug development and evaluation. \n\nSome treatments are further along than others. For instance, studies have found successful outcomes so far with Remdesivir, which has been approved in several countries, such as recently in the U.S. as of October 22, 2020. Positive data is also emerging on the possibility of Favipiravir as a treatment for COVID-19, but still lacks sufficient evidence. \n\nWhile these emergent approvals and study developments on Remdesivir and Favipiravir are encouraging signs, it is important to monitor patients closely when on any new medications and report their outcomes or any negative side effects. And while some treatments are being evaluated, with generic versions on their way to approval for Remdesivir, there is still not enough data to confirm most specific treatments being tested for COVID-19 patients.\n",
+    "What our experts say": "On October 22, 2020, the U.S. Food and Drug Administration (FDA) approved Remdesivir (also known as Veklury), based off of the evidence of three randomized controlled trials. Remdesivir is the first officially approved treatment of COVID-19 within the U.S. The FDA first issued an Emergency Use Authorization (EUA) for Remdesivir on May 1. Remdesivir was developed by pharmaceutical company Gilead.\n\nOne clinical trial, conducted by the National Institute of Allergy and Infectious Diseases, assessed COVID-19 recovery time within 29 days of being treated. The trial looked at 1,062 hospitalized subjects with mild, moderate, and severe COVID-19 who received Remdesivir versus those who did not. The median time to recovery from COVID-19 for those who received Remdesivir was 10 days compared to 15 days for those who did not, a statistically significant difference. The odds of clinical improvement were also higher for those who took Remdesivir at Day 15 compared to those who did not. This difference, however, was not statistically significant.\n\nA second study found that the odds of a subject’s COVID-19 symptoms improving were higher if they had taken Remdesivir compared to if they had received the standard of care. If the drug was taken for 10 days rather than 5 days, the chances increased more, but not to a statistically significant extent. The third, separate study found that a patient’s odds of their COVID-19 symptoms improving were similar for those taking Remdesivir for 5 days as those for 10 days, and that there were no statistically significant differences in recovery or mortality rates between the two groups. \n\nA fourth study, conducted by the World Health Organization’s Solidarity trial, found that that Remdesivir does not reduce COVID-19 deaths. The trial studied data from 405 hospitals in 30 countries, and randomly assigned more than 11,000 people hospitalized with COVID-19 to assess Remdesivir and three other drugs. 301 of 2,743 people hospitalized with COVID-19 taking Remdesivir died, compared with 303 of 2,708 who were not taking Remdesivir, demonstrating that Remdesivir does not have a statistically significant mortality benefit. This study, however, is preprint and has not yet been peer reviewed. Its findings also do not mean that Remdesivir should not be prescribed, given that it has been shown to reduce amount of sick days and (non-statistically significant) clinical improvement that is still worth considering.\n \nFavipiravir is also considered to be a possible treatment for COVID-19. A small study showed the virus being reduced faster with the drug in comparison to other medications. Without further study, there is not enough evidence suggesting effectiveness and safety.\n\nMany studies for COVID-19 treatments remain underway, and it is too early to determine which additional ones may be effective therapeutic options for COVID-19 patients. When Favipiravir or any medication not officially approved is prescribed, it is important that medical providers monitor the patient's clinical condition noting effectiveness and possible negative side effects. \n\nRemdesivir's approval by the FDA means that it no longer requires the oversight that it did under the EUA, but that it should only be administered in a hospital or a healthcare setting able to provide acute care similar to inpatient hospital care so that symptoms and conditions can be monitored. Taking either drug without medical supervision is not recommended and may be harmful. SARS-CoV-2/COVID-19 is a new infectious disease and, while there has been a lot of research aimed at identifying possible treatments, many therapies remain under investigation for both safety and effectiveness. \n",
     "Glossary Terms": [
       "rec9hdVoRIEkjJwtk"
     ],
@@ -8369,7 +8577,7 @@
     "Topics": [
       "treatment"
     ],
-    "Other resources": "1. Compassionate Use of Remdesivir for Patients with Severe Covid-19. ([NEJM](https://www.nejm.org/doi/full/10.1056/NEJMoa2007016))\n2. Gilead Remdesivir Release. ([Gilead](https://www.gilead.com/news-and-press/press-room/press-releases/2020/6/gilead-announces-results-from-phase-3-trial-of-remdesivir-in-patients-with-moderate-covid-19))\n3. Potential therapeutic agents against COVID-19: What we know so far ([J Chin Med Assoc](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7176266/pdf/ca9-publish-ahead-of-print-10.1097.jcma.0000000000000318.pdf))\n4. A review of the safety of favipiravir- a potential treatment in the COVID-19 pandemic? ([Journal of Virus Eradication](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7213073/pdf/jve-6-45.pdf))\n",
+    "Other resources": "1. FDA Approves First Treatment for COVID-19 ([U.S. Food & Drug Administration](https://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-covid-19))\n2. F.D.A. Approves Remdesivir as First Drug to Treat Covid-19 ([New York Times](https://www.nytimes.com/interactive/2020/10/15/us/coronavirus-cases-us-surge.html))\n3. Compassionate Use of Remdesivir for Patients with Severe Covid-19. ([NEJM](https://www.nejm.org/doi/full/10.1056/NEJMoa2007016))\n4. Gilead Remdesivir Release. ([Gilead](https://www.gilead.com/news-and-press/press-room/press-releases/2020/6/gilead-announces-results-from-phase-3-trial-of-remdesivir-in-patients-with-moderate-covid-19))\n5. Potential therapeutic agents against COVID-19: What we know so far ([J Chin Med Assoc](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7176266/pdf/ca9-publish-ahead-of-print-10.1097.jcma.0000000000000318.pdf))\n6. A review of the safety of favipiravir- a potential treatment in the COVID-19 pandemic? ([Journal of Virus Eradication](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7213073/pdf/jve-6-45.pdf))\n",
     "DB (Hindi)": [
       "recurR7td4FCtoIXQ"
     ],
@@ -8383,13 +8591,13 @@
     "DB (Portuguese)": [
       "recVn5DS1BAWyFXYm"
     ],
-    "Last modified manual": "2020-07-03",
-    "Last edited (simplified)": "2020-06-24T02:10:02.000Z",
-    "Last edited (experts say)": "2020-07-07T13:03:42.000Z",
-    "What our experts say wordcount": 233,
-    "Background and context wordcount": 87,
-    "Other resources wordcount": 47,
-    "Wordcount": 367,
+    "Last modified manual": "2020-10-29",
+    "Last edited (simplified)": "2020-10-29T23:10:43.000Z",
+    "Last edited (experts say)": "2020-10-29T23:10:43.000Z",
+    "What our experts say wordcount": 562,
+    "Background and context wordcount": 149,
+    "Other resources wordcount": 70,
+    "Wordcount": 781,
     "Hindi Q Status": [
       "Published"
     ],
@@ -8414,7 +8622,7 @@
     "Bengali - Background and context": [
       "কোভিড-১৯-এ আক্রান্ত লক্ষ লক্ষ রোগীদের জন্য চিকিৎসার উপায়গুলি খুঁজে পাওয়ার চেষ্টার সাথে ওষুধের মূল্যায়নে দ্রুত গতি এসেছে। কিছু চিকিৎসার মূল্যায়ন করা হচ্ছে এবং জেনেরিক সংস্করণগুলি অনুমোদিত হতে পারে, তবে এখনও কোভিড-১৯ রোগীদের জন্য নির্দিষ্ট চিকিৎসার নিশ্চিত করার জন্য পর্যাপ্ত তথ্য নেই। অধ্যয়নগুলি রেমডেসিভিরের সাথে সফল ফলাফল পেয়েছে, যা বেশ কয়েকটি দেশে অনুমোদিত হয়েছে। এই উদীয়মান ব্যবহারের প্রয়োগগুলি একটি উৎসাহজনক লক্ষণ হলেও রোগীদের ঘনিষ্ঠভাবে পর্যবেক্ষণ করা এবং তাদের ফলাফলগুলি বা নেতিবাচক পার্শ্ব প্রতিক্রিয়াগুলি প্রতিবেদন করা গুরুত্বপূর্ণ।"
     ],
-    "Last modified": "2020-07-03"
+    "Last modified": "2020-10-29"
   },
   {
     "id": "recTXvz6ulqo2CENE",
@@ -8834,8 +9042,8 @@
     "Country question was sourced from": [
       "USA"
     ],
-    "Background and context": "Avifavir as a potential COVID-19 treatment has been emerging in visibility given that delivery of the drug to Russian hospitals began in June, following the approval of the Russian Ministry of Health. The approval follows promising but limited studies on Avifavir's accuracy in Russia, carried out in partnership of The Russian Direct Investment Fund (RDIF), Russia’s sovereign wealth fund, and the ChemRar Group. Studies on the drug have also been conducted in China — with seemingly promising results yet severe study limitations — as well as in the US, Italy, Japan and India. Data on the drug's efficacy for COVID-19 is still inconclusive.\n\nIn September 2020, RDIF announced that it has administered more than 60,000 doses of the drug in Russia and the surrounding region since June 2020, and that more doses will be delivered to 17 countries in Latin America, the Middle East, Eastern Europe, and Africa. Trends in Russia's COVID-19 data, and in particular, additional evidence, are needed to determine efficacy. \n",
-    "What our experts say": "Avifavir is an antiviral medication primarily used to treat severe cases of influenza. This medication is currently being studied in several countries as a potential experimental treatment for COVID-19, but we do not yet have enough evidence to determine whether or not Avifavir is an effective treatment for the virus. \n\nRecently in Russia, the health ministry approved the medication's use as a COVID-19 treatment by using an accelerated, short-term form of a clinical trial with fewer people involved than traditional studies would normally require. However, this study has not been published in a peer-reviewed journal so the data, methods, and other study characteristics have yet to critiqued or evaluated by other scientists. Though this research is still occurring in the country, Russia's preliminary results suggested Avifavir might help reduce the number of days people are infected with the virus and shorten the duration of time people experience high-grade fevers while sick. \n\nIn September 2020, a publication from India reviewed clinical trials in China and Japan, along with the on-going trials in Russia and other on-going studies in Saudi Arabia, the United States, and India. The researchers acknowledged that Avifavir does not have as much supportive data to back its use compared to other drugs, but that it may be emerging as an agent that is worth considering in mild to moderate cases. The preliminary results from a study in India suggest that Avifavir may help reduce the time it takes for COVID-19 patients to recover, and lead to a two-day shorter viral shedding period when patients are infectious.\n\nUntil more studies are completed and a greater amount of data can demonstrate Avifavir's efficacy and safety, we do not have enough information to determine whether or not this medication can help treat COVID-19.\n",
+    "Background and context": "Avifavir as a potential COVID-19 treatment has been emerging in visibility given that delivery of the drug to Russian hospitals began in June, following the approval of the Russian Ministry of Health. The approval follows promising but limited studies on Avifavir's accuracy in Russia, carried out in partnership of the Russian Direct Investment Fund (RDIF), Russia’s sovereign wealth fund, and the ChemRar Group. Studies on the drug have also been conducted in China — with seemingly promising results yet severe study limitations — as well as in the US, Italy, Japan and India. Data on the drug's efficacy for COVID-19 is still inconclusive.\n\nIn September 2020, RDIF announced that it has administered more than 60,000 doses of the drug in Russia and the surrounding region since June 2020, and that more doses will be delivered to 17 countries in Latin America, the Middle East, Eastern Europe, and Africa. Trends in Russia's COVID-19 data, and in particular, additional evidence, are needed to determine efficacy.\n",
+    "What our experts say": "Avifavir is an antiviral medication primarily used to treat severe cases of influenza. This medication is currently being studied in several countries as a potential experimental treatment for COVID-19, but we do not yet have enough evidence to determine whether or not Avifavir is an effective treatment for the virus. \n\nRecently in Russia, the health ministry approved the medication's use as a COVID-19 treatment by using an accelerated, short-term form of a clinical trial with fewer people involved than traditional studies would normally require. However, this study has not been published in a peer-reviewed journal so the data, methods, and other study characteristics have yet to be critiqued or evaluated by other scientists. Though this research is still occurring in the country, Russia's preliminary results suggested Avifavir might help reduce the number of days people are infected with the virus and shorten the duration of time people experience high-grade fevers while sick. \n\nIn September 2020, a publication from India reviewed clinical trials in China and Japan, along with the on-going trials in Russia and other on-going studies in Saudi Arabia, the United States, and India. The researchers acknowledged that Avifavir does not have as much supportive data to back its use compared to other drugs, but that it may be emerging as a medication that is worth considering in mild to moderate cases. The preliminary results from a study in India suggest that Avifavir may help reduce the time it takes for COVID-19 patients to recover, and lead to a two-day shorter viral shedding period when patients are infectious.\n\nUntil more studies are completed and a greater amount of data can demonstrate Avifavir's efficacy and safety, we do not have enough information to determine whether or not this medication can help treat COVID-19.\n",
     "Glossary Terms": [
       "recMUR0P3EECMwfrv"
     ],
@@ -8866,10 +9074,10 @@
       "recloqVVwudYYo4zL"
     ],
     "Last modified manual": "2020-10-08",
-    "Last edited (simplified)": "2020-10-08T21:36:09.000Z",
-    "Last edited (experts say)": "2020-10-08T22:11:17.000Z",
-    "What our experts say wordcount": 291,
-    "Background and context wordcount": 163,
+    "Last edited (simplified)": "2020-10-13T21:41:55.000Z",
+    "Last edited (experts say)": "2020-10-13T21:41:55.000Z",
+    "What our experts say wordcount": 292,
+    "Background and context wordcount": 162,
     "Other resources wordcount": 84,
     "Wordcount": 538,
     "Hindi Q Status": [
@@ -8905,7 +9113,7 @@
     "Bengali - Background and context": [
       "সম্ভাব্য কোভিড -১৯ চিকিৎসা হিসাবে আভিফাভির দৃশ্যমান হয়ে উঠেছে, রাশিয়ার স্বাস্থ্য মন্ত্রণালয়ের অনুমোদনের পরে জুনে রাশিয়ান হাসপাতালগুলিতে ওষুধ সরবরাহ শুরু হয়েছিল । দ্যা রাশিয়ান ডাইরেক্ট ইনভেস্টমেন্ট ফান্ড (RDIF), রাশিয়ার সার্বভৌম সম্পদ তহবিল এবং কেমরার গ্রুপের অংশীদারিত্বের ভিত্তিতে রাশিয়ায় আভিফাভিরের যথার্থতার বিষয়ে আশ্বাসপ্রাপ্ত তবে সীমিত অধ্যয়ন অনুমোদিত হয়েছে। চিনে ওষুধ নিয়ে গবেষণা করা হয়েছিল - আপাতদৃষ্টিতে আশ্বাসিত ফলাফলের সাথে তীব্র অধ্যয়নের সীমাবদ্ধতা - পাশাপাশি মার্কিন যুক্তরাষ্ট্র, ইতালি, জাপান এবং ভারতেও গবেষণা করা হয়েছিল। আভিফাভির আরএনএ পলিমেরেজ নির্বাচন করে বাধা দিয়ে কাজ করে যা ভাইরাস প্রতিলিপির জন্য প্রয়োজনীয়, তবে কোভিড-১৯ এর জন্য কার্যকারিতা সম্পর্কিত তথ্য এখনও অপর্যাপ্ত। আরডিআইএফ জানিয়েছে, মাসের শেষের দিকে ওষুধের ৬০০০০ ডোজ সরবরাহ করা হবে। কার্যকারিতা নির্ধারণের জন্য রাশিয়ার কোভিড-১৯ প্রবণতার তথ্য এবং অন্যান্য অতিরিক্ত প্রমাণ প্রয়োজন।"
     ],
-    "Last modified": "2020-10-08"
+    "Last modified": "2020-10-13"
   },
   {
     "id": "recGc8EkSPcnV1kkW",
@@ -9389,7 +9597,7 @@
     "Country question was sourced from": [
       "USA"
     ],
-    "Background and context": "The context for favipiravir is the same as for avifavir, given that avifavir is a generic form of favipiravir. Favipiravir as a potential COVID-19 treatment has been emerging in visibility given that delivery of the drug to Russian hospitals began in June, following the approval of the Russian Ministry of Health. The approval follows promising but limited studies on favipiravir's accuracy in Russia, carried out in partnership of The Russian Direct Investment Fund (RDIF), Russia’s sovereign wealth fund, and the ChemRar Group. Studies on the drug had also been conducted in China -- with seemingly promising results yet severe study limitations -- as well as in the US, Italy, Japan and India. Favipiravir works by selectively inhibiting RNA polymerase, necessary for viral replication, but data on its efficacy for COVID-19 is still inconclusive. 60,000 doses of the drug are set to be administered by the end of the month, according to RDIF. Trends in Russia's COVID-19 data, and in particular, additional evidence, are needed to determine efficacy. Though only approved for influenza treatment in Japan, the drug has also been tested with varying levels of accuracy for treatment of Ebola, Zika, West Nile virus, yellow fever virus, foot-and-mouth disease virus, and Rift Valley fever, among other diseases. \n",
+    "Background and context": "The context for favipiravir is the same as for avifavir, given that avifavir is a generic form of favipiravir. Favipiravir as a potential COVID-19 treatment has been emerging in visibility given that delivery of the drug to Russian hospitals began in June, following the approval of the Russian Ministry of Health. The approval follows promising but limited studies on favipiravir's accuracy in Russia, carried out in partnership of the Russian Direct Investment Fund (RDIF), Russia’s sovereign wealth fund, and the ChemRar Group. Studies on the drug had also been conducted in China -- with seemingly promising results yet severe study limitations -- as well as in the US, Italy, Japan and India. Favipiravir works by selectively inhibiting RNA polymerase, necessary for viral replication, but data on its efficacy for COVID-19 is still inconclusive. 60,000 doses of the drug are set to be administered by the end of the month, according to RDIF. Trends in Russia's COVID-19 data, and in particular, additional evidence, are needed to determine efficacy. Though only approved for influenza treatment in Japan, the drug has also been tested with varying levels of accuracy for treatment of Ebola, Zika, West Nile virus, yellow fever virus, foot-and-mouth disease virus, and Rift Valley fever, among other diseases. \n",
     "What our experts say": "There is not enough evidence right now to know whether or not favipiravir, also known as Avigan, can help treat COVID-19. Favipiravir is a drug that is used as an influenza medication in Japan and China, and is currently in studies to treat other viral infections, including COVID-19, in many other countries. Early studies involving favipiravir showed promising results in reducing the duration of symptoms of COVID-19 and aiding in the recovery of patients. However, there were shortcomings to these studies as well, like only having a small number of patients involved and the presence of age differences between study groups. Additionally, participants in the study were not randomly assigned to their groups (called randomization) and study subjects and their doctors both knew which treatments they received and didn't receive. This might help explain why there is no consensus as to whether or not favipiravir is an effect treatment for COVID-19 at this time.\n",
     "Glossary Terms": [
       "reccupU786x3cn86Q",
@@ -9423,8 +9631,8 @@
       "recCI5NN4Ixq8yGUt"
     ],
     "Last modified manual": "2020-06-25",
-    "Last edited (simplified)": "2020-06-24T06:32:22.000Z",
-    "Last edited (experts say)": "2020-06-24T23:06:54.000Z",
+    "Last edited (simplified)": "2020-10-13T21:39:20.000Z",
+    "Last edited (experts say)": "2020-10-13T21:39:20.000Z",
     "What our experts say wordcount": 154,
     "Background and context wordcount": 208,
     "Other resources wordcount": 82,
@@ -9462,7 +9670,7 @@
     "Bengali - Background and context": [
       "ফভিপিরাবির প্রসঙ্গটি আভিফাভিরের মতো একই, অ্যাভিফাভির ফ্যাভিপিরাবির এর একটি জেনেরিক রূপ| সম্ভাব্য কোভিড -১৯ চিকিৎসা হিসাবে আভিফাভির দৃশ্যমান হয়ে উঠেছে, রাশিয়ার স্বাস্থ্য মন্ত্রণালয়ের অনুমোদনের পরে জুনে রাশিয়ান হাসপাতালগুলিতে ওষুধ সরবরাহ শুরু হয়েছিল । দ্যা রাশিয়ান ডাইরেক্ট ইনভেস্টমেন্ট ফান্ড (RDIF), রাশিয়ার সার্বভৌম সম্পদ তহবিল এবং কেমরার গ্রুপের অংশীদারিত্বের ভিত্তিতে রাশিয়ায় আভিফাভিরের যথার্থতার বিষয়ে আশ্বাসপ্রাপ্ত তবে সীমিত অধ্যয়ন অনুমোদিত হয়েছে। চিনে ওষুধ নিয়ে গবেষণা করা হয়েছিল - আপাতদৃষ্টিতে আশ্বাসিত ফলাফলের সাথে তীব্র অধ্যয়নের সীমাবদ্ধতা - পাশাপাশি মার্কিন যুক্তরাষ্ট্র, ইতালি, জাপান এবং ভারতেও গবেষণা করা হয়েছিল। আভিফাভির আরএনএ পলিমেরেজ নির্বাচন করে বাধা দিয়ে কাজ করে যা ভাইরাস প্রতিলিপির জন্য প্রয়োজনীয়, তবে কোভিড-১৯ এর জন্য কার্যকারিতা সম্পর্কিত তথ্য এখনও অপর্যাপ্ত। আরডিআইএফ জানিয়েছে, মাসের শেষের দিকে ওষুধের ৬০০০০ ডোজ সরবরাহ করা হবে। কার্যকারিতা নির্ধারণের জন্য রাশিয়ার কোভিড-১৯ প্রবণতার তথ্য এবং অন্যান্য অতিরিক্ত প্রমাণ প্রয়োজন। \nযদিও কেবল জাপানে ইনফ্লুয়েঞ্জা চিকিৎসার জন্য অনুমোদিত, ওষুধটি ইবোলা, জিকা, ওয়েস্ট নাইল ভাইরাস, হলুদ জ্বর ভাইরাস, পা-ও-মুখের রোগ ভাইরাস, এবং রিফ্ট ভ্যালি ফিভারের চিকিৎসা সহ অন্যান্য রোগের জন্য বিভিন্ন স্তরের নির্ভুলতার সাথেও পরীক্ষা করা হয়েছে।"
     ],
-    "Last modified": "2020-06-24"
+    "Last modified": "2020-10-13"
   },
   {
     "id": "recRIjHM0TPx23tcU",
@@ -10902,7 +11110,7 @@
   {
     "id": "recrNXw7eBw8czwGW",
     "Question": "What is the latest research around sunbathing and COVID-19?",
-    "Status": "Published",
+    "Status": "Update in progress",
     "Category": "Prevention",
     "Subcategory": "On: COVID-19 & sunbathing",
     "Source of the question": [
@@ -11272,7 +11480,7 @@
     ],
     "Last modified manual": "2020-05-27",
     "Last edited (simplified)": "2020-05-27T22:47:11.000Z",
-    "Last edited (experts say)": "2020-06-13T19:48:31.000Z",
+    "Last edited (experts say)": "2020-10-27T21:20:25.000Z",
     "What our experts say wordcount": 55,
     "Background and context wordcount": 51,
     "Other resources wordcount": 16,
@@ -11501,14 +11709,136 @@
       "respiratory system"
     ],
     "Other resources": "1. Can I Get COVID-19 Through My Eyes or Ears? ([US News](https://www.usnews.com/news/health-news/articles/2020-06-04/can-i-get-covid-19-through-my-eyes-or-ears#:~:text=The%20skin%20in%20the%20outer,Eye%20and%20Ear%20in%20Boston.))\n2. COVID-19 and Ear Surgery ([American Academy of Otolaryngology](https://www.entnet.org/sites/default/files/uploads/covid-19_and_ear_surgery_rk_jackler_stanford.pdf))\n3. COVID-19 in the Ear: Have You Heard About the Risk for HCPs? ([MedPage Today](https://www.medpagetoday.com/infectiousdisease/covid19/87720))\n",
+    "Media": [
+      {
+        "id": "att7zHekXREfsS4AW",
+        "url": "https://dl.airtable.com/.attachments/f3a5a2d0bde5f368070246b0f6be069b/5ff1c36d/Slide_1",
+        "filename": "Slide_1",
+        "size": 227975,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/67c452bff6ef1f08f38453eb6feebde9/3f37152e",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a98cc61a4ee2058baecd03e2ea7a0764/a3dc0db3",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b0abd17354da6a0a99ee16d2789b9f2b/040d3d27",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attCnm3Ra0FB53xW1",
+        "url": "https://dl.airtable.com/.attachments/08b9e0b3bb00792d75b10ccc74d3d45c/06ca68f1/Slide_2",
+        "filename": "Slide_2",
+        "size": 184262,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a2602722d67fe726a24025b47db858fb/7070144f",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b7940eee08b397f3ee45c27ba64fd6a5/a5c7172e",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/fa67a0feeb8f5cd58cbc4c3de39c6f8c/2a4d8254",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attScXMWm36KZXV8I",
+        "url": "https://dl.airtable.com/.attachments/51af48d59ddcb59485f5bdbf0d4b6ce1/6790d893/Slide_3",
+        "filename": "Slide_3",
+        "size": 202831,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/1303db8d226f2050e3ae4ff00d52fd58/2028c38c",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d15146c262fd82193697085e60f346be/5f713fb3",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a6539ef3241fca571c14866eceae67ed/309fec60",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "att0FJkDHq8m1hRBq",
+        "url": "https://dl.airtable.com/.attachments/48b0538e829816f2908fe0d78b73155f/fed78003/Slide_4",
+        "filename": "Slide_4",
+        "size": 183876,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f1ffc79b643d5d360800472c9b67ba9b/358f326f",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/224c006dd735e945bcdbf7fdf408c451/bd3f097d",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/37f4b0922b20d08b4faeae2d0a3cdf69/35c8f725",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attSbhc30pd6sVqfM",
+        "url": "https://dl.airtable.com/.attachments/e5cc32c39df90e4481cba7454304634c/8347fe13/Slide_5",
+        "filename": "Slide_5",
+        "size": 183876,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/038be9254fa15bf2f4e268c86f01d467/5f1ee13a",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d2391636863e13cc2db5d37c8d619d6e/43bd95db",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ed22ea783e898afa1fcc508828e33297/bb800c6e",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "Last modified manual": "2020-08-28",
     "Last edited (simplified)": "2020-08-27T19:36:53.000Z",
-    "Last edited (experts say)": "2020-08-28T13:50:19.000Z",
+    "Last edited (experts say)": "2020-10-13T20:15:56.000Z",
     "What our experts say wordcount": 230,
     "Background and context wordcount": 107,
     "Other resources wordcount": 34,
     "Wordcount": 371,
-    "Last modified": "2020-08-28"
+    "Last modified": "2020-10-13"
   },
   {
     "id": "recT6kzJNVsejsEac",
@@ -11690,7 +12020,7 @@
     "Country question was sourced from": [
       "USA"
     ],
-    "Background and context": "Recently, a clinical trial for a vaccine created by Oxford University and AzstraZeneca (a pharmaceutical company) was paused due to safety concerns. This trial was in the phase three stage of development, and stopped as a patient developed \"transverse myelitis\" which caused neurological issues stemming from inflammation of the spinal cord. (At the time of writing this, this trial has resumed). \n\nThis trial participant received the vaccine and not a placebo (which is a harmless substance that has no impact on a person, and is used to compare results of active vaccines in clinical trials). However, it is unknown whether or not the patient's illness occurred because of the vaccine they were given, or some other medical issue. Either way, the safety board recommended stopping the vaccine, which often occurs when vaccines reach the later stages of clinical trials.\n",
+    "Background and context": "Recently, a clinical trial for a vaccine created by Oxford University and AzstraZeneca (a pharmaceutical company) was paused due to safety concerns. This trial was in the phase three stage of development, and stopped as a patient developed \"transverse myelitis\" which caused neurological issues stemming from inflammation of the spinal cord. (At the time of writing this, this trial has resumed). \n\nThis trial participant received the vaccine and not a placebo (which is a harmless substance that has no impact on a person, and is used to compare results of active vaccines in clinical trials). However, it is unknown whether or not the patient's illness occurred because of the vaccine they were given, or some other medical issue. Either way, the safety board recommended stopping the vaccine, which often occurs when vaccines reach the later stages of clinical trials.\n\nOn October 12, 2020, Johnson & Johnson announced that a phase 3 clinical trial of its Janssen COVID-19 vaccine candidate was paused due to \"unexplained illness\" in one participant. Johnson & Johnson stated that is is following its prespecified guidelines on when to pause studies due to reports of an unexpected serious adverse event (SAE), so there can be a \"careful review of all of the medical information before deciding whether to restart the study.\"\n\nThis entry was updated with new information on October 13, 2020.\n",
     "What our experts say": "Pausing or suspending clinical trials occurs frequently in the development of new medications and vaccines. This is because every clinical trial is overseen by a data and safety monitoring board that routinely looks at data from the different trial phases to see if there are any harmful or adverse issues happening in trial participants. The board also monitors  to see if there is any evidence of the vaccine being effective.\n\nIf the board has any concerns at any point during a clinical trial, they will suggest stopping a trial until they can determine a) what caused the patient(s) to develop a harmful medical issue, b) if people receiving the vaccine in the clinical trials are doing much better than those who didn't, or c) if people who received the vaccine are doing much worse than the people who didn't. \n\nThese prescheduled checks by the boards may sound alarming, but they occur frequently in all phases of clinical trials. As vaccines move into the third phases of clinical trials, in which they are given to tens of thousands of people, it is not surprising that one or more people develop a medical issue which may or may not be related to the vaccine itself. \n\nLists of side effects that you see on medications stem from these clinical trial phases. Studies also have pre-set protocols and criteria that determine what events will cause them to pause or stop their research phases. They cannot ethically continue with the trial if they have reasons for concern about the health of clinical trial participants who have received their vaccines.\n\n",
     "Glossary Terms": [
       "rec7kWtMzB3nNOEpH",
@@ -11707,21 +12037,22 @@
       "safety board",
       "side effects"
     ],
-    "Other resources": "1. AstraZeneca Covid-19 vaccine study put on hold due to suspected adverse reaction in participant in the U.K. ([STAT](https://www.statnews.com/2020/09/08/astrazeneca-covid-19-vaccine-study-put-on-hold-due-to-suspected-adverse-reaction-in-participant-in-the-u-k/)) \n2. The ethics of pausing a vaccine trial in the midst of a pandemic: a conversation with Ruth Faden ([STAT](https://www.statnews.com/2020/09/11/ethics-halting-vaccine-trial-pandemic-conversation-ruth-faden/)) \n3. One of the leading coronavirus vaccine trials is currently paused. Prominent vaccine researchers tell CNN that's unusual ([CNN](https://www.cnn.com/2020/09/12/health/coronavirus-vaccine-trial-pause/index.html)) \n4. A leading coronavirus vaccine trial is on hold: scientists react ([Nature](https://www.nature.com/articles/d41586-020-02594-w)) \n5. Oxford's COVID vaccine trial \"back up and running\" after brief pause for safety check ([CBS](https://www.cbsnews.com/news/covid-vaccine-oxford-trial-astrazenca-resumes-safety-check/)) \n6. BMS, Merck and Pfizer Join List of Companies Pausing Some Clinical Trials During Pandemic ([BioSpace](https://www.biospace.com/article/merck-bms-pfizer-and-others-pause-enrollment-in-some-clinical-trials-due-to-covid-19/)) \n7. Learn About Clinical Studies ([ClinicalTrials.Gov](https://www.clinicaltrials.gov/ct2/about-studies/learn)) \n8. Why AstraZeneca just paused its coronavirus vaccine trial ([LiveScience](https://www.livescience.com/astrazeneca-oxford-vaccine-trial-paused.html)) \n9. Experts Say It’s a Good Sign That a COVID-19 Vaccine Trial Was Paused. Here’s Why ([Healthline](https://www.healthline.com/health-news/experts-say-its-a-good-sign-that-a-covid-19-vaccine-trial-was-paused-heres-why)) \n\n",
-    "Last edited (simplified)": "2020-09-16T13:14:05.000Z",
-    "Last edited (experts say)": "2020-09-16T13:14:05.000Z",
+    "Other resources": "1. AstraZeneca Covid-19 vaccine study put on hold due to suspected adverse reaction in participant in the U.K. ([STAT](https://www.statnews.com/2020/09/08/astrazeneca-covid-19-vaccine-study-put-on-hold-due-to-suspected-adverse-reaction-in-participant-in-the-u-k/)) \n2. The ethics of pausing a vaccine trial in the midst of a pandemic: a conversation with Ruth Faden ([STAT](https://www.statnews.com/2020/09/11/ethics-halting-vaccine-trial-pandemic-conversation-ruth-faden/)) \n3. One of the leading coronavirus vaccine trials is currently paused. Prominent vaccine researchers tell CNN that's unusual ([CNN](https://www.cnn.com/2020/09/12/health/coronavirus-vaccine-trial-pause/index.html)) \n4. A leading coronavirus vaccine trial is on hold: scientists react ([Nature](https://www.nature.com/articles/d41586-020-02594-w)) \n5. Oxford's COVID vaccine trial \"back up and running\" after brief pause for safety check ([CBS](https://www.cbsnews.com/news/covid-vaccine-oxford-trial-astrazenca-resumes-safety-check/)) \n6. BMS, Merck and Pfizer Join List of Companies Pausing Some Clinical Trials During Pandemic ([BioSpace](https://www.biospace.com/article/merck-bms-pfizer-and-others-pause-enrollment-in-some-clinical-trials-due-to-covid-19/)) \n7. Learn About Clinical Studies ([ClinicalTrials.Gov](https://www.clinicaltrials.gov/ct2/about-studies/learn)) \n8. Why AstraZeneca just paused its coronavirus vaccine trial ([LiveScience](https://www.livescience.com/astrazeneca-oxford-vaccine-trial-paused.html)) \n9. Experts Say It’s a Good Sign That a COVID-19 Vaccine Trial Was Paused. Here’s Why ([Healthline](https://www.healthline.com/health-news/experts-say-its-a-good-sign-that-a-covid-19-vaccine-trial-was-paused-heres-why)) \n10. Johnson & Johnson pauses Covid-19 vaccine trial after 'unexplained illness' ([CNN](https://www.cnn.com/2020/10/12/health/johnson-coronavirus-vaccine-pause-bn/index.html))\n\n",
+    "Last modified manual": "2020-10-16",
+    "Last edited (simplified)": "2020-10-13T21:17:49.000Z",
+    "Last edited (experts say)": "2020-10-13T21:27:50.000Z",
     "What our experts say wordcount": 264,
-    "Background and context wordcount": 139,
-    "Other resources wordcount": 136,
-    "Wordcount": 539,
-    "Last modified": "2020-09-16"
+    "Background and context wordcount": 221,
+    "Other resources wordcount": 147,
+    "Wordcount": 632,
+    "Last modified": "2020-10-13"
   },
   {
     "id": "rec66KHO6Hpfk6T1N",
     "Question": "Why does everyone have to get a vaccine for a vaccine to work?",
     "Status": "Published",
-    "Category": "vaccines",
-    "Subcategory": "vaccines",
+    "Category": "Vaccines",
+    "Subcategory": "On: COVID-19 & vaccine effectiveness",
     "Background and context": "Herd immunity varies based off the infectious disease, but in most cases requires 70%-90% of the population to be vaccinated. For example, declining vaccination rates of MMR (measles vaccine), helped contribute to the uptick in cases. \n",
     "What our experts say": "Reducing or eliminating an infectious disease can be done with a vaccine, but it requires a level of vaccination that leads a population to herd immunity. \n\nHerd immunity takes place when a majority of a population is immune to a disease, either through because most people have been vaccinated or most people have been infected already. When this happens, the level of immunity in a population provides so few options for a virus or bacteria to spread that the disease becomes eradicated, or drastically diminished, from the population. \n\nFor example, if 80 out of 100 people in a community are immune to an infectious disease, through vaccination or previous infection, the disease has very few options to spread. Most of the people it tries to infect will have a resistance to infection. As a result, the disease may die entirely, without the resources it needs to grow, or it may weaken drastically. \n\nSome people are not able to get vaccinated due to health concerns. A high level of vaccination in a general population creates herd immunity that protects against disease not just for those who received the vaccine, but also for those that are not able to vaccinate. Coming back to our example, this means those 80 people with immunity protect not just themselves, but also the other 20 people in the population that may not be able to vaccinate due to health concerns. \n\nThis common method requires a large percentage of people to become vaccinated, so they don't acquire the disease and spread it. To ensure indirect protection, large-scale vaccination and immunity must occur.  \n",
     "Variation of the answer depending on country of residence": "No\n",
@@ -12104,10 +12435,26 @@
   {
     "id": "recdOJkSCvzxVJLxO",
     "Question": "What do we know about controlling the spread of COVID-19 through hyper-local measures?",
-    "What our experts say wordcount": 0,
-    "Background and context wordcount": 0,
+    "Status": "Published",
+    "Subcategory": "Lockdowns",
+    "Source of the question": [
+      "Social Media"
+    ],
+    "Country question was sourced from": [
+      "USA"
+    ],
+    "Background and context": "There have been recent questions about hyper-local control measures in response to New York City’s announcement on October 4, 2020, to impose new restrictions in 20 COVID-19 hotspots in Brooklyn and Queens where the COVID-19 positivity rate has been higher than 3% for 7 consecutive days. 11 zip codes have lesser restrictions, such as banned indoor dining, and 9 zip codes with the highest positivity rates have major restrictions, which include closing schools, nonessential businesses, and day care centers, essentially reversing progress the city had made on fighting the outbreak in the spring. \n\nGiven that zipcodes that fall into the three categories of 1) major hotspot, 2) minor hotspot, and 3) not a hotspot, in some cases, all neighbor each other or are closely nearby, questions have been raised as to how effective such hyper-local interventions such as these are towards the end of keeping the case count from increasing and, ideally, ultimately lowering the case count. \n",
+    "What our experts say": "Imposing restrictions at a hyper-local level, such as by postal code or zip code, can work to contain COVID-19, but is not without challenges and comes with a set of both pros and cons. The pros come into effect if individuals who are residents of that zip code or neighborhood a) follow the restrictions imposed and do not travel outside their neighborhood, especially at a mass level. The cons come into effect if individuals who are residents of that zip code or neighborhood either do not follow restrictions imposed, or travel outside their neighborhood, especially at a mass level.\n\nAs a result, it’s crucial to communicate with residents so that they understand the expectations and what is at risk if local measures aren’t followed. To help ensure that they are followed, local public health officials and leaders must share information with residents on how to access the resources that they need hyper-locally, both for healthcare and otherwise, so that individuals are not pushed to seek resources outside of their affected area, and in turn potentially increasing positive rates in other neighborhoods, worsening the problem overall. \n\nOf note is that hyperlocal surveillance of COVID-19 is also useful for tracking and ultimately controlling the spread of the virus, as the more local the data is, the more granular it is likely to be and the less gaps it is likely to have.\n",
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Last modified manual": "2020-10-19",
+    "Last edited (simplified)": "2020-10-16T20:57:52.000Z",
+    "Last edited (experts say)": "2020-10-21T18:41:30.000Z",
+    "What our experts say wordcount": 228,
+    "Background and context wordcount": 156,
     "Other resources wordcount": 0,
-    "Wordcount": 0
+    "Wordcount": 384,
+    "Last modified": "2020-10-21"
   },
   {
     "id": "rec9thjuTgT5ytu9t",
@@ -12253,5 +12600,382 @@
     "Other resources wordcount": 53,
     "Wordcount": 683,
     "Last modified": "2020-10-08"
+  },
+  {
+    "id": "recDDflelah3aTf6X",
+    "Question": "Can pink eye be a symptom of COVID-19?",
+    "Status": "Published",
+    "Category": "Symptoms",
+    "Subcategory": "On: COVID-19 & conjunctivitis",
+    "Source of the question": [
+      "Expert Recommendation"
+    ],
+    "Country question was sourced from": [
+      "USA"
+    ],
+    "Background and context": "During the U.S. vice presidential debate on October 7, 2020, many people thought that Vice President Pence may have had conjuctivitis (pink eye) and asked if this is a symptom of COVID-19. People were concerned in part because President Trump announced that he tested positive for COVID-19 the week before the vice presidential debate. A White House spokesperson said that both Vice President Pence and Second Lady Pence tested negative for COVID-19 and were taking additional precautions leading up to the vice presidential debate. \n",
+    "What our experts say": "Conjunctivitis, also known as pink eye because it can cause the white of the eye to appear red or pink, is an inflammation or infection of the conjunctiva (a transparent membrane that lines the eyelid and covers the white part of the eye). Conjunctivitis can have different causes, including bacterial infections and viral infections (including adenoviruses, which cause the common cold, and the novel coronavirus that causes COVID-19). The appearance of reddish eyes can also be due to allergies, dryness, fatigue, or other factors and does not necessarily mean a person has conjunctivitis.\n\nSome research studies have identified conjunctivitis as a possible symptom of COVID-19, including a study of 38 patients with COVID-19 in China, which found that 12 of the patients had ocular or eye-related symptoms such as conjunctivitis. Patients with more severe COVID-19 were more likely to have ocular symptoms, and 1 patient in the study presented with conjunctivitis as their first symptom. In Canada, a case study was published on a female patient with COVID-19 who had severe conjunctivitis and minimal respiratory symptoms. In the U.K., another case study of a male patient with COVID-19 found that conjunctivitis was a symptom in the middle phase of COVID-19 illness. A review of ocular symptoms in COVID-19 patients that was published in August 2020 found no reports of COVID-19 becoming sight-threatening.\n\nThe American Academy of Ophthalmology has stated that conjunctivitis can be an infrequent symptom of COVID-19, estimated to occur in 1% to 3% of patients who test positive for COVID-19. A meta-analysis of 1167 patients in 3 studies found that the overall rate of conjunctivitis was 1.1%, with the rate being 3% in patients with severe COVID-19 and 0.7% in patients with non-severe COVID‐19. Conjunctivitis may be more common as a COVID-19 symptom in children. A study of 216 children with COVID-19 in China found that 22.7% showed an ocular symptom, including conjunctivitis. \n\nSince conjunctivitis is not among the most common COVID-19 symptoms and can have underlying causes that are unrelated to COVID-19, many public health and medical experts are advising that adults and children with suspected conjunctivitis seek care for their eyes. If someone with conjunctivitis has been at risk of exposure to COVID-19, a healthcare provider can help with determining whether a person with conjunctivitis should also get tested for COVID-19. \n",
+    "Glossary Terms": [
+      "recOcmLKbzV6NUkAH",
+      "rec28MquThUtAwvuU",
+      "recORiIMwk54TDQB6"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "symptoms",
+      "infection"
+    ],
+    "Other resources": "1. Is pink eye a symptom of COVID-19? ([Los Angeles Times](https://www.latimes.com/science/story/2020-10-08/is-pink-eye-symptom-covid-19))\n2. Characteristics of Ocular Findings of Patients With Coronavirus Disease 2019 (COVID-19) in Hubei Province, China ([JAMA Ophthalmology](https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2764083))\n3. Researchers identify pink eye as possible primary symptom of COVID-19 ([Ophthalmology Times](https://www.ophthalmologytimes.com/view/coronavirus-pink-eye-symptoms))\n4. Ocular manifestations of a hospitalised patient with confirmed 2019 novel coronavirus disease ([BMJ](https://bjo.bmj.com/content/104/6/748.long))\n5. Ophthalmic Manifestations Of Coronavirus (COVID-19) ([StatPearls](https://www.ncbi.nlm.nih.gov/books/NBK556093/))\n6. Eye Care During the Coronavirus Pandemic (COVID-19) ([American Academy of Ophthalmology](https://www.aao.org/eye-health/tips-prevention/coronavirus-covid19-eye-infection-pinkeye))\n7. Conjunctivitis and COVID‐19: A meta‐analysis ([Journal of Medical Virology](https://onlinelibrary.wiley.com/doi/full/10.1002/jmv.25938))\n8. Pink Eye May Be a Symptom of COVID-19 in Children, New Study Suggests ([American Academy of Opthalmology](https://www.aao.org/eye-health/news/pink-eye-symptom-covid19-coronavirus-children))\n",
+    "Last modified manual": "2020-10-15",
+    "Last edited (simplified)": "2020-10-13T21:11:04.000Z",
+    "Last edited (experts say)": "2020-10-15T19:22:24.000Z",
+    "What our experts say wordcount": 384,
+    "Background and context wordcount": 85,
+    "Other resources wordcount": 96,
+    "Wordcount": 565,
+    "Last modified": "2020-10-15"
+  },
+  {
+    "id": "rec6LvLwc24HqHqQ1",
+    "Question": "What are the markers of a second COVID-19 wave?",
+    "Status": "Published",
+    "Category": "Transmission",
+    "Background and context": "Talk of a second wave has been heavily underway since early to mid-summer, when cases of COVID-19 started to stay consistent or fall in some cities, particularly those that were hit hardest and therefore had the most thorough initial response plans. At the time, we were still firmly in the first wave, which most media outlets [accurately explained](https://www.reuters.com/article/us-health-coronavirus-usa-wave/explainer-what-is-a-second-wave-of-a-pandemic-and-has-it-arrived-in-the-u-s-idUSKBN23U396). \n\nMedia attention regarding second and third waves of COVID-19 globally has resumed, with cases of COVID-19 surging following lower numbers of cases in the late spring and over the summer on average in the U.S. and in many parts of the world, such as the Spain and Iceland. In the U.S., [some experts](https://www.washingtonpost.com/health/coronavirus-fall-projections-second-wave/2020/09/04/6edb3392-ed61-11ea-99a1-71343d03bc29_story.html) argue that we are still in the second wave, with the projection that it will peak (hit its highest number of cases) in mid-late November. [Other experts](https://www.nytimes.com/interactive/2020/10/15/us/coronavirus-cases-us-surge.html) argue that we are in a third wave based on how cases have dropped twice and are now surging a third time. Again, these different perspectives are based on different definitions of disease waves. Regardless of which wave we're in, the U.S. and many parts of the world are experiencing a surge in cases that is projected to worsen. The timing of this surge is especially challenging given its overlap with other respiratory viruses such as influenza.\n",
+    "What our experts say": "There is no single definition of a “wave” of a disease in public health. Defining a disease wave varies across scientific literature and even by the scientist you ask. This lack of continuity has to do with the complexity of disease outbreaks, and in particular 1) the ways in which diseases affect different populations at different times, 2) the difficulty in accessing accurate data, and 3) most importantly, the lack of a standardized definition of a disease wave.\n\nWe do, however, know a disease wave when we see one in public health, and agree on indicators of second, third, and fourth waves, and beyond. A disease wave can be thought of as a sustained surge (or spike) in cases, following and relative to a period of sustained low cases. Think of a line on a graph that curves high (first wave), dips low (end of the first wave), then curves high again (second wave). \n\nIn defining the end of a first wave for the U.S., on June 18 2020, Dr. Anthony Fauci, U.S. White House advisor and director of the National Institute of Allergy and Infectious Diseases, told the Washington Post that in order to consider the first wave in the U.S. technically \"over\", we would need to see a specific region, state, or city have a sustained decrease of positive infection rates until they were in the low single digits. \n\nThis is just one expert's definition, however, and just because a region may not have reached single digits of positive test rates does not mean they might not be considered by some to be in a second wave now, and by others in a third wave, if they’re seeing a significant and sustained surge in positive rates compared to what that area’s positive test rate number was previously. \n",
+    "Glossary Terms": [
+      "recOfgrqkPp7aa14o",
+      "rec0zhEV63ySy7APc",
+      "recDalYrz2m23kS2e"
+    ],
+    "Other resources": "1. Explainer: What is a second wave of a pandemic, and has it arrived in the U.S.? ([Reuters](https://www.reuters.com/article/us-health-coronavirus-usa-wave/explainer-what-is-a-second-wave-of-a-pandemic-and-has-it-arrived-in-the-u-s-idUSKBN23U396))\n2. What a ‘second wave’ of Covid-19 could look like and how to prevent it ([CNBC](https://www.cnbc.com/2020/06/28/what-second-wave-of-covid-19-means-and-how-to-prevent-it.html))\n3. Anthony S. Fauci: ‘We are still in the first wave’ of coronavirus ([Washington Post](https://www.washingtonpost.com/health/2020/06/18/anthony-fauci-interview-first-wave/))\n4. First and Second Waves of Coronavirus ([Johns Hopkins Medicine](https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/first-and-second-waves-of-coronavirus))\n5. Second wave COVID-19 pandemics in Europe: a temporal playbook ([Nature](https://www.nature.com/articles/s41598-020-72611-5))\n6. Experts project autumn surge in coronavirus cases, with a peak after Election Day ([Washington Post](https://www.washingtonpost.com/health/coronavirus-fall-projections-second-wave/2020/09/04/6edb3392-ed61-11ea-99a1-71343d03bc29_story.html))\n7. U.S. Virus Cases Climb Toward a Third Peak ([NYT](https://www.nytimes.com/interactive/2020/10/15/us/coronavirus-cases-us-surge.html))\n\n",
+    "Last modified manual": "2020-10-16",
+    "Last edited (simplified)": "2020-10-16T19:16:50.000Z",
+    "Last edited (experts say)": "2020-10-20T21:47:30.000Z",
+    "What our experts say wordcount": 296,
+    "Background and context wordcount": 214,
+    "Other resources wordcount": 90,
+    "Wordcount": 600,
+    "Last modified": "2020-10-16"
+  },
+  {
+    "id": "recdAeExWSCQq3rHn",
+    "Question": "What are the pros and cons of each available COVID-19 test?",
+    "Status": "Published",
+    "Category": "Testing",
+    "Subcategory": "On: COVID-19 & testing types",
+    "Source of the question": [
+      "Expert Recommendation"
+    ],
+    "Country question was sourced from": [
+      "USA"
+    ],
+    "Background and context": "Having massive testing available for large populations has been a challenge throughout the COVID-19 pandemic. We often hear about testing challenges in the news without knowing exactly what tests they are, what their results mean, and if we can trust them. Testing will continue to be a vital component of the COVID-19 response across the world and will help determine how many people in a population have been potentially infected, and if any outbreaks might be occurring. Using different tests for different people at different times in the exposure and infection process is a decision that should be made between a patient and their doctors, who can interpret the results and help them make decisions about how to proceed. Unless testing is consistently available for every person frequently, people should continue wearing masks, practicing social distancing, washing their hands often, and engaging in other prevention strategies.\n",
+    "What our experts say": "There are 3 main types of COVID-19 tests. Two are diagnostic (molecular and antigen tests), which means they show active infections. One test type looks for antibodies that occur in the body following a previous infection (also known as antibody tests).\n\n1) Molecular tests (polymerase chain reaction (PCR) tests, viral RNA tests, and nucleic acid tests) are completed using nasal swabs, throat swabs, and through testing bodily fluids like saliva. These tests look for evidence of genetic material from the virus. They have a low rate of false-positive results (when a test says you have the virus, but you do not) but a higher rate of false-negative results (when a test says you do not have the virus, but you really do). \n\nUsing a deep nasal swab PCR test that collects viral material at the back of nose, near your throat, is the most trusted option of the molecular tests. That's because it is the most accurate, and there is a higher amount of virus in that area of the body than anywhere else. These tests are highly sensitive, which means they are able to accurately determine when a person actually has an infection. However, the method is uncomfortable, the results can take hours to days, they are the most expensive to do, and can be overly sensitive and pick up inactive virus fragments when a person no longer has an active infection.\n\n2) Antigen tests are completed using nasal or throat swabs and they look for proteins (antigens) from the virus. Most people are familiar with this technology because it is commonly seen in pregnancy tests. These results are available in as little as 10 minutes, the test is less expensive than other forms, and uses simpler technology than PCR tests. These tests are usually highly accurate for positive results, but might require a molecular test to confirm if a person really is negative because they can often have a high rate of false-negative results.\n\n3) Antibody tests are different than diagnostic tests because they are blood tests that look for a former COVID-19 infection through the presence of antibodies,  a protein that latches on to foreign invaders in the body - in this case, COVID-19 - neutralizes them, and then remains in a person's system after infection. A person produces COVID-19 antibodies when they are exposed to the virus, so an antibody test can show whether or not someone has been infected in the past. Antibody test results are usually available within a few days. However, these tests produce a lot of false-negatives and we don't know enough about how long antibodies last after exposure or infections, how long any immunity might last, and how many antibodies are needed in a person who has recovered from the virus to show a positive test result.\n\nThere are many different elements involved in how accurate or reliable tests may be at the time they are taken and at the stage of exposure and infection each person is presently in, and every testing type has different strengths or weaknesses. It is important to remember that the best test for each person should be chosen with their doctor on an individual basis.\n",
+    "Glossary Terms": [
+      "recPNexvQiug4RFJu",
+      "recCAIWWubTpPdk1u"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\t\t\n",
+    "Topics": [
+      "diagnostic test",
+      "molecular test",
+      "PCR test",
+      "antigen test",
+      "antibody test"
+    ],
+    "Other resources": "1. Which test is best for COVID-19? ([HMS](https://www.health.harvard.edu/blog/which-test-is-best-for-covid-19-2020081020734#:~:text=A%20molecular%20test%20using%20a,types%20of%20samples%20taken.)) \n2. Which COVID test is best? Pros and cons of coronavirus detection methods ([UTS](https://utswmed.org/medblog/covid19-testing-methods/)) \n3. Rapid tests. PCR. Antigen. Antibody. These are coronavirus test options, and what’s coming ([SFC](https://www.sfchronicle.com/health/article/Rapid-tests-PCR-Antigen-Antibody-These-are-15637159.php)) \n\n",
+    "Last modified manual": "2020-10-16",
+    "Last edited (simplified)": "2020-10-16T19:27:12.000Z",
+    "Last edited (experts say)": "2020-10-16T19:27:12.000Z",
+    "What our experts say wordcount": 523,
+    "Background and context wordcount": 146,
+    "Other resources wordcount": 38,
+    "Wordcount": 707,
+    "Last modified": "2020-10-16"
+  },
+  {
+    "id": "recXkB1pAufZu4OAB",
+    "Question": "What do we know about false positives with rapid antigen testing?",
+    "Status": "Published",
+    "Category": "Testing",
+    "Subcategory": "On: COVID-19 & antigen tests",
+    "Source of the question": [
+      "Partner Organization"
+    ],
+    "Country question was sourced from": [
+      "India"
+    ],
+    "Background and context": "Generally, concerns about antigen tests are usually around its rate of false negatives, but recent outbreaks and articles have concerned many in public health and medicine about rates of false positive results. While the rate of false-positives ranges from 50-90%, newer tests have aimed to positively identify active cases of COVID-19 in at least 80-90% of cases, preferably higher. The longer these tests are in circulation and the more antigen tests enter the market, the more accurate our readings of the virus will be.\n",
+    "What our experts say": "Antigen tests for COVID-19 have many advantages, including rapid results, cheap production costs, and a high rate of accurate test results for people who are actively infected with COVID-19. However, one of the major downsides of these tests is their high rate of false negative results (having a negative test result even if you are actively infected with the virus). Comparatively, false positive test results, which incorrectly show that a healthy person is infected by the virus when they are not, are very rare in tests that have been approved by regulatory agencies like the United States Food & Drug Administration. Despite having low rates of false positives, these types or errors in antigen tests still exist due to technical issues like handling, contamination, or test errors. These considerations have a large impact as their effects can directly result in health impacts for people who test positive (but are not) and are quarantined with people with active infections or receive treatments like medication when it may be harmful.\n\nOverall, most antigen tests accurately identify people with active COVID-19 infections 50% and 90% of the time (true positive rate), though newer tests aim for accuracy over 80 - 90%. Several experts recommend using a second test to confirm a patient is truly positive in some cases where patients may have no symptoms or have not been exposed to people who tested positive for the virus due to this range of false positive results. While antigen tests can usually diagnose active COVID-19 infections, they are more likely to miss an active infection in comparison to molecular tests (polymerase chain reaction or PCR). \n\nSeveral countries have recently authorized the use of newer antigen tests that report lower rates of false positives and false negatives. As more of these tests are produced and used on a wide scale, we hope to learn more about their accuracy and achieve as sensitive (correctly identifying those who are are actively infected with the virus) and specific (correctly identifying those who do not have an active infection) as possible.\n \n",
+    "Glossary Terms": [
+      "recFR6ePHXqdNxvmH",
+      "rec06X4QusZL1zCzd",
+      "recc8ZAXzbbMiYc51",
+      "reciINrN2CDoIYwsl"
+    ],
+    "Variation of the answer depending on country of residence": "Yes\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "PCR test",
+      "antigen test",
+      "false positive",
+      "false negative"
+    ],
+    "Other resources": "1. Which test is best for COVID-19? ([HMS](https://www.health.harvard.edu/blog/which-test-is-best-for-covid-19-2020081020734)) \n2. Coronavirus antigen tests: quick and cheap, but too often wrong? ([Science](https://www.sciencemag.org/news/2020/05/coronavirus-antigen-tests-quick-and-cheap-too-often-wrong)) \n3. Why False Positives Merit Concern, Too ([NYT](https://www.nytimes.com/2020/10/25/health/coronavirus-testing-false-positive.html)) \n4. Why Trump’s Rapid-Testing Plan Worries Scientists ([Atlantic](https://www.theatlantic.com/health/archive/2020/10/do-rapid-antigen-tests-have-accuracy-problem/616681/)) \n5. Coronavirus: India tries new type of tests to tackle virus ([BBC](https://www.bbc.com/news/world-asia-india-53609404)) \n6. India's new paper Covid-19 test could be a ‘game changer’ ([BBC](https://www.bbc.com/news/world-asia-india-54338864)) \n7. Countries turn to rapid antigen tests to contain second wave of COVID-19 ([Reuters](https://www.reuters.com/article/us-health-coronavirus-rapid-tests/countries-turn-to-rapid-antigen-tests-to-contain-second-wave-of-covid-19-idUSKBN26Y2PX)) \n8. Rapid tests. PCR. Antigen. Antibody. These are coronavirus test options, and what’s coming ([SFC](https://www.sfchronicle.com/health/article/Rapid-tests-PCR-Antigen-Antibody-These-are-15637159.php))\n",
+    "Last modified manual": "2020-10-29",
+    "Last edited (simplified)": "2020-10-28T00:09:21.000Z",
+    "Last edited (experts say)": "2020-10-29T23:11:42.000Z",
+    "What our experts say wordcount": 341,
+    "Background and context wordcount": 84,
+    "Other resources wordcount": 89,
+    "Wordcount": 514,
+    "Last modified": "2020-10-29"
+  },
+  {
+    "id": "rec8pqDaJA5uM1U0y",
+    "Question": "What do we know about in silico methodology and its uses in finding a COVID-19 treatment?",
+    "Status": "Published",
+    "Category": "Research, Treatment",
+    "Subcategory": "On: COVID-19 and in-silico methodology",
+    "Source of the question": [
+      "Expert Recommendation",
+      "Social Media"
+    ],
+    "Country question was sourced from": [
+      "USA",
+      "India"
+    ],
+    "Background and context": "In silico methods have been trending in the media, in part due to 14-year-old Anika Chebrolu winning the 3M Young Scientist Challenge for finding a molecule that selectively binds to the spike protein of the SARS-CoV-2 virus that causes COVID-19. In silico methods have been similarly used by scientists around the world, including in the United States and India, to identify molecules that bind to the spike protein of SARS-CoV-2 for potential use in COVID-19 antiviral drugs.\n\nThe term \"in silico\" comes from the chemical element silicon, which is widely used for making computer chips. This term follows the style of previous Latin descriptions for research, such as \"in vivo\" (which means in living organisms), \"in vitro\" (which means in glass, such as test tubes with cells separated from their biological context), and \"in situ\" (which means in place or on site).\n",
+    "What our experts say": "In silico methods, also called computer-aided drug design (CADD) methods, refer to methods that are performed on a computer or using computer simulation. In silico methods have been used for decades to help reduce the required time and expenses during drug development processes, including for drugs that fight cancer and tuberculosis.\n\nDuring the COVID-19 pandemic, in silico methods have been used in various ways to find effective interventions for preventing and treating COVID-19.  For example, in silico methods have been used to quickly screen a large number of compounds, helping to identify which have more potential to inhibit the virus SARS-CoV-2 that causes COVID-19 for application in therapeutic drugs. Another example is the use of in silico methods to model how COVID-19 can spread in a population, and to simulate the impact of different preventative measures such as wearing masks. In silico methods can also be used to speed up the design and evaluation of medical devices and other supplies. Additionally, in silico methods have been used to model, and sometimes attempt to predict, COVID-19 symptoms or complications by comparing simulations to actual clinical data. Researchers are continuing to apply in silico methods in different ways to figure out how to best prevent and treat COVID-19.\n",
+    "Glossary Terms": [
+      "recRog4Fq88ayf62O",
+      "recZsKsIsYqt1xEW4",
+      "recmIgJvajdxBf3eI",
+      "recMUR0P3EECMwfrv"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "research",
+      "treatment"
+    ],
+    "Other resources": "1. In Silico Methods ([Springer](https://link.springer.com/referenceworkentry/10.1007%2F978-3-642-25240-2_55#citeas))\n2. Editorial: _In silico_ Methods for Drug Design and Discovery ([Frontiers in Chemistry](https://www.frontiersin.org/articles/10.3389/fchem.2020.00612/full))\n3. How In Silico fights Coronavirus  ([In Silico World](https://insilico.world/coronavirus/))\n4. In-silico modeling of COVID-19 ARDS: pathophysiological insights and potential management implications ([medRxiv](https://www.medrxiv.org/content/10.1101/2020.07.21.20158659v1))\n5. This 14-year-old girl won a $25K prize for a discovery that could lead to a cure for Covid-19 ([CNN](https://www.cnn.com/2020/10/18/us/anika-chebrolu-covid-treatment-award-scn-trnd/index.html))\n6. Identification of SARS-CoV-2 Cell Entry Inhibitors by Drug Repurposing Using _in silico_ Structure-Based Virtual Screening Approach ([Frontiers in Immunology](https://www.frontiersin.org/articles/10.3389/fimmu.2020.01664/full))\n7. In silico design of antiviral peptides targeting the spike protein of SARS-CoV-2 ([Elsevier Peptides](https://www.sciencedirect.com/science/article/pii/S0196978120300772))\n",
+    "Last modified manual": "2020-10-29",
+    "Last edited (simplified)": "2020-10-27T20:04:45.000Z",
+    "Last edited (experts say)": "2020-10-27T21:30:41.000Z",
+    "What our experts say wordcount": 206,
+    "Background and context wordcount": 141,
+    "Other resources wordcount": 90,
+    "Wordcount": 437,
+    "Last modified": "2020-10-27"
+  },
+  {
+    "id": "recU4loGz5tqh9ps1",
+    "Question": "Does mental state or emotion prevent COVID-19 from spreading?",
+    "Status": "Published",
+    "Background and context": "A recent study was carried out by researchers at Aarhus University, Denmark. The study explored the psychology behind social behaviors of mask wearing and physical distancing. It was carried out in three Western countries of Germany, the United States and the United Kingdom and found that empathy plays a role in motivating people to use protective measures like wearing masks and physically distancing.  \n\nThe findings of this study have been interpreted and reported in misleading ways across the globe, some suggesting empathy can stop COVID-19 from spreading.\n\nThe study involved self-reporting participant surveys about their own perceptions and actions, which could be subject to social desirability bias; which means participants respond to questions with socially desirable answers rather than truthful answers.\n",
+    "What our experts say": "Mental state and emotion cannot prevent COVID-19 from spreading. The use of face coverings, physical distancing and hand washing are recommended guidelines by WHO and US CDC health officials to reduce the spread of the SAR-CoV-2 virus.\n\nA recent study by researchers at Aarhus University found that people who are empathetic towards those who may be more vulnerable to the infection tend to wear face masks and maintain physical distancing more often. The study demonstrates that evoking empathy may be effective for promoting and encouraging the use of face masks and physical distancing, compared with  using factual information alone. The findings do not imply that if one is empathetic or in a particular mental state, they will not spread the virus.\n",
+    "Other resources": "1. The Emotional Path to Action: Empathy Promotes Physical Distancing and Wearing of Face Masks During the COVID-19 Pandemic ([Psychological Science)](https://journals-sagepub-com.ezp-prod1.hul.harvard.edu/doi/10.1177/0956797620964422)\n",
+    "Last modified manual": "2020-10-21",
+    "Last edited (simplified)": "2020-10-21T21:35:50.000Z",
+    "Last edited (experts say)": "2020-10-21T21:36:27.000Z",
+    "What our experts say wordcount": 121,
+    "Background and context wordcount": 121,
+    "Other resources wordcount": 21,
+    "Wordcount": 263,
+    "Last modified": "2020-10-21"
+  },
+  {
+    "id": "recQOw0bJlQFe3pbW",
+    "Question": "What do we know so far about COVID-19 and diabetes?",
+    "Status": "Published",
+    "Category": "Symptoms",
+    "Subcategory": "On: COVID-19 & diabetes",
+    "Source of the question": [
+      "Expert Recommendation",
+      "Newsroom"
+    ],
+    "Country question was sourced from": [
+      "USA",
+      "Mexico",
+      "Brazil"
+    ],
+    "Background and context": "The media has reported frequently on diabetes being a pre-existing condition that can lead to higher risks of severe COVID-19 illness, and the need for people with diabetes to be cautious during the COVID-19 pandemic. With stories emerging of adults and children getting unexpectedly diagnosed with diabetes after recovering from COVID-19, the media is starting to report on research into whether and how COVID-19 can lead to diabetes.\n\nDiabetes is a medical condition that receives a lot of attention in many countries because it is becoming increasingly common. In the U.S., the American Diabetes Association has estimated that 10.5% of the population had diabetes in 2018, and that the prevalence in seniors was even higher at 26.8%. In Brazil, researchers have estimated that 11.4% of the population between the ages of 20-79 has diabetes and have published studies on barriers faced by Brazilians living with diabetes during the COVID-19 pandemic. In Mexico, the International Diabetes Federation has estimated that 13.5% of the population between the ages of 20-79 had diabetes in 2019. \n",
+    "What our experts say": "Diabetes is a disease where the blood glucose (sugar) levels are too high, and is generally differentiated into Type 1 (where the body cannot produce the insulin that is required to turn blood glucose into energy) and Type 2 (where the body does not respond well to insulin, allowing blood glucose levels to rise). Type 2 diabetes is considered an underlying (pre-existing) medical condition that has the \"strongest and most consistent evidence\" for increasing the risk of severe illness due to COVID-19, according to the U.S. Centers for Disease Control and Prevention (CDC). In July 2020, U.S. health officials stated that almost 40% of people who have died with COVID-19 had diabetes.\n\nBeyond diabetes leading to COVID-19 complications, researchers are now studying the potential for COVID-19 to lead to diabetes. Medical experts have reported diabetes in patients who tested positive and in some cases appeared to have otherwise recovered from COVID-19, despite the patients having no previous history, genetic predisposition, or traditional risk factors (such as lifestyle factors) for diabetes. As of October 2020, over 300 doctors applied to share cases for review in a global registry on this topic led by King's College London. The U.S. National Institutes of Health (NIH) is also funding research on how COVID-19 may cause high blood glucose levels and diabetes. Additionally, doctors as well as researchers have been raising the alarm on how more children appear to be getting diagnosed with diabetes during the COVID-19 pandemic, compared to similar months in previous years.\n\nPrior to the COVID-19 pandemic, other viral infections including influenza and other coronaviruses have been linked to triggering Type 1 diabetes, but this is usually in people who are predisposed to developing diabetes. While researchers know that infections stress the body and can lead to higher blood glucose levels, researchers still have not fully understood why some people develop diabetes after infection and others do not. The connections between COVID-19 and diabetes are continuing to be studied.\n",
+    "Glossary Terms": [
+      "recz6wQ17eV2G7r6w",
+      "recOcmLKbzV6NUkAH",
+      "recbr3ZePtuRaGnEd",
+      "rectZMnCI5KMhjzkJ"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "Unknown at this time. Prior to the pandemic, diabetes has varied by demographic factors such as race, ethnicity, age, and sex.\n",
+    "Topics": [
+      "long-term",
+      "symptoms"
+    ],
+    "Other resources": "1. Doctors probe whether COVID-19 is causing diabetes ([Reuters](https://www.reuters.com/article/us-health-coronavirus-diabetes-insight-idUSKBN2741ET?taid=5f8db47e26f6750001eb7689&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter))\n2. Evidence used to update the list of underlying medical conditions that increase a person’s risk of severe illness from COVID-19 ([U.S. CDC](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/evidence-table.html))\n3. COVID-19 in people living with diabetes: An international consensus ([Journal of Diabetes and its Complications](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7336933/))\n4. Statistics About Diabetes ([American Diabetes Association](https://www.diabetes.org/resources/statistics/statistics-about-diabetes)) \n5. The impact of COVID-19 on people with diabetes in Brazil ([Elsevier Diabetes Research and Clinical Practice](https://www.sciencedirect.com/science/article/pii/S0168822720305568))\n6. Diabetes Atlas ([International Diabetes Federation](https://diabetesatlas.org/en/))\n",
+    "Last modified manual": "2020-10-29",
+    "Last edited (simplified)": "2020-10-27T21:17:16.000Z",
+    "Last edited (experts say)": "2020-10-27T21:31:41.000Z",
+    "What our experts say wordcount": 325,
+    "Background and context wordcount": 172,
+    "Other resources wordcount": 74,
+    "Wordcount": 571,
+    "Last modified": "2020-10-27"
+  },
+  {
+    "id": "recvA3dMAEFu2Cl80",
+    "Question": "What do we know about UV light and COVID-19?",
+    "Status": "Needs + Editing",
+    "Category": "Prevention",
+    "Source of the question": [
+      "Social Media"
+    ],
+    "Country question was sourced from": [
+      "India"
+    ],
+    "Background and context": "Recent UV light products have been circulating that claim to disinfect COVID-19 at up to 99.99% efficiency. Some of these products include UV lamps that claim to disinfect hands, a UV microwave-style “oven” that claims to disinfect objects, and UV chambers that claim to disinfect individuals. Either these products are highly ineffective, or they are highly dangerous.\n\nUltraviolet or UV rays are a form of electromagnetic radiation, present in sunlight. Sunlight emits three kinds of UV rays: UVA, UVB, and UVC. UVC has the highest energy and is filtered by the atmosphere, so it does not naturally reach the Earth’s surface. UVC rays can come from some man-made sources, such as UV sanitizing bulbs. These bulbs can be used in indoor settings, such as hospitals, to disinfect medical equipment and surfaces. This is because UVC has the most energy of the three, and its energy can destroy the genetic material inside viruses. The genetic material in viruses includes information that can control the reproduction, development or behavior of a virus. But artificial UVC rays are extremely dangerous and deadly to humans and should not be used outside of professional settings to disinfect surfaces and objects. \n",
+    "What our experts say": "Using an at-home ultraviolet (UV) light is ineffective at treating, curing or preventing COVID-19, and can be highly dangerous. There is one type of UV ray (UVC rays) that can kill the COVID-19 virus, but it is highly dangerous to use UVC ray treatment unless you’re properly trained. It is not intended for use outside of hospital settings, such as in public non-hospital spaces or at home. \n\nExposing yourself or your belongings to at-home non-UVC UV rays through lamps or lights for any period of time does not prevent someone from spreading COVID-19 to another person or catching COVID-19 from another person, and does not disinfect items. \n\nLong-term exposure to sunlight or UV radiation can be very damaging and increase your risk of skin cancer. As of now, there is no clear benefit of using any at-home UV products for preventing or treating COVID-19. \n",
+    "Glossary Terms": [
+      "recjOgLIjiAbiBH5F",
+      "rec4crPh6OQvCngsk"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "ultraviolet",
+      "disinfectants",
+      "sunlight"
+    ],
+    "Other resources": "1. Coronavirus disease (COVID-19) advice for the public: Myth busters ([WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters)) \n2. Ultraviolet radiation and the INTERSUN Programme ([WHO](https://www.who.int/uv/faq/whatisuv/en/index2.html)) \n3. As Coronavirus Looms, Mask Shortage Gives Rise to Promising Approach ([NYT](https://www.nytimes.com/2020/03/20/health/coronavirus-masks-reuse.html)) \n4. The role of vitamin D in the prevention of coronavirus disease 2019 infection and mortality ([Aging Clinical and Experimental Research](https://link.springer.com/article/10.1007/s40520-020-01570-8))\n5. Vitamin D supplementation to prevent acute respiratory tract infections: systematic review and meta-analysis of individual participant data ([BMJ](https://www.bmj.com/content/356/bmj.i6583))\n6. Rapid evidence summary on SARS-CoV-2 survivorship and disinfection, and a reusable PPE protocol using a double-hit process ([medRxiv](https://www.medrxiv.org/content/10.1101/2020.04.02.20051409v1.full.pdf))\n",
+    "Last modified manual": "2020-10-21",
+    "Last edited (simplified)": "2020-10-27T03:24:14.000Z",
+    "Last edited (experts say)": "2020-10-27T03:24:14.000Z",
+    "What our experts say wordcount": 144,
+    "Background and context wordcount": 194,
+    "Other resources wordcount": 88,
+    "Wordcount": 426,
+    "Last modified": "2020-10-27"
+  },
+  {
+    "id": "recrS0OwNdQMAmMdI",
+    "Question": "What do rising COVID-19 cases during the fall of 2020 in U.S. Midwestern states mean for other states, like Florida? ",
+    "Status": "Published",
+    "Category": "Spread",
+    "Subcategory": "On: COVID-19 & third waves",
+    "Source of the question": [
+      "Partner Organization"
+    ],
+    "Country question was sourced from": [
+      "USA"
+    ],
+    "Background and context": "As the Northern Hemisphere enters a colder season and some people get tired of maintaining preventative measures during the pandemic, public health experts have warned about potential new waves of COVID-19 cases and deaths. Several U.S. states have already seen major surges in COVID-19 infection during the fall of 2020, while some other U.S. states are starting to see alarming increases that could indicate another upcoming surge. The U.S. Centers for Disease Control and Prevention (CDC) continue to discourage non-essential travel between states, especially ahead of the upcoming fall and winter holidays when larger groups tend to gather and colder weather leads to people spending more time together indoors. Beyond considering the risks of transmitting COVID-19 from a state with higher rates of infection to a state with lower rates of infection, it is also important to reduce the community spread of infection within a state by maintaining preventative measures (ex. avoiding non-essential travel and outings, wearing masks, washing hands and high-touch surfaces, and keeping physical distance).\n",
+    "What our experts say": "Without a distinct, explicit, and obvious uptick in travel pattern volumes, and access to data about those travel pattern volumes, it is not possible to predict how the number of cases in one state or geographical region, such as the U.S. Midwest, will impact COVID-19 infection rates in another state or region, such as Florida. \n\nKnown mass migration from one region to another could help epidemiologists predict how COVID-19 may spread, but U.S. travel tends to be spontaneous and multidirectional, with individuals traveling across and between different regions, rather than traveling as a large group from one specific region to another. \n\nThough widespread travel and transmission patterns are difficult to predict, we can reasonably conclude that a high volume of COVID-19 cases throughout the United States means that the likelihood of transmission of COVID-19 in the country is high, compared to other parts of the world. To prevent the spread of COVID-19, public health experts continue to recommend that people wash their hands, wear masks, avoid crowds (especially indoors), practice social distancing, and stay home when possible. \n\nOut of the top five states that have seen COVID-19 cases rise the fastest during the first couple weeks of October 2020, four states (Idaho, Nebraska, South Dakota, North Dakota) are in the Midwest. Some health care workers and public health researchers have referred to the rising cases in the Midwest during the fall of 2020 as a \"third wave,\" after the summer wave and the initial wave of COVID-19 cases. Dr. Anthony Fauci and other infectious disease experts have warned that states across the U.S. could see another wave of COVID-19 cases, particularly with current case numbers remaining high in several places, colder weather setting in and coinciding with what is typically the annual influenza (flu) season, and people starting to become fatigued with maintaining pandemic prevention measures. \n\nSimultaneously in Florida, 5,558 new COVID-19 cases were reported on October 22, 2020, which is one of the highest single-day increases that the state has seen since mid-August 2020 (the only days with higher numbers in the fall of 2020 are thought to be due to irregularities in reporting). The reported increase brings Florida's statewide total to 768,091 COVID-19 cases and over 16,470 deaths related to COVID-19 as of October 22, 2020. Following the Florida Governor's decision on September 25, 2020 to move to Phase 3 of their reopening plans, including fully open bars and restaurants, public health experts have been warning that Florida could see a rise in COVID-19 cases and that this could also coincide with the anticipated flu season. \n",
+    "Glossary Terms": [
+      "recORiIMwk54TDQB6",
+      "rec0zhEV63ySy7APc"
+    ],
+    "Variation of the answer depending on country of residence": "No, although not applicable to other countries\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No, not for state-level data\n",
+    "Topics": [
+      "infection",
+      "positivity rate",
+      "spread"
+    ],
+    "Other resources": "1. COVID-19 ravages US Midwest as cases, deaths surge ([Al Jazeera](https://www.aljazeera.com/news/2020/10/21/covid-19-ravages-us-midwest-as-cases-deaths-increase))\n2. A Third Coronavirus Surge Has Taken Root in the U.S. ([NYT](https://www.nytimes.com/live/2020/10/20/world/covid-19-coronavirus-updates))\n3. Five U.S. States Where COVID-19 Cases Are Rising Fastest ([Newsweek](https://www.newsweek.com/coronavirus-us-states-cases-rising-idaho-nebraska-south-north-dakota-rhode-island-1540909))\n4. Florida adds 5,558 coronavirus cases, the highest daily record since August ([Tampa Bay Times](https://www.tampabay.com/news/health/2020/10/22/florida-adds-5558-coronavirus-cases-the-highest-daily-record-since-august/))\n5. Fauci Calls Florida's Decision to Fully Reopen Bars and Restaurants ‘Very Concerning' ([NBC Miami](https://www.nbcmiami.com/news/local/fauci-calls-floridas-decision-to-fully-reopen-bars-and-restaurants-very-concerning/2299173/))\n6. Travel during the COVID-19 Pandemic ([U.S. CDC](https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html))\n",
+    "Last modified manual": "2020-10-23",
+    "Last edited (simplified)": "2020-10-22T20:20:47.000Z",
+    "Last edited (experts say)": "2020-10-23T15:15:03.000Z",
+    "What our experts say wordcount": 429,
+    "Background and context wordcount": 167,
+    "Other resources wordcount": 67,
+    "Wordcount": 663,
+    "Last modified": "2020-10-23"
+  },
+  {
+    "id": "recF1HaT5WaKmZ832",
+    "Question": "What do we know about using CT scans to diagnose COVID-19?",
+    "Status": "Published",
+    "Background and context": "The 'sensitivity' of a test is its ability to correctly identify a patient with the disease. The sensitivity of RT PCR swab tests is around 50-80%, which means that around 30 to 50% of cases which are actually positive are being missed as false negative (inaccurate result that they are negative, when they are actually positive). Due to the lack of accurate diagnostic testing, infected people and their contacts are not being isolated.  CT scans sensitivity is estimated to be over 90% but also has the risk of false positives (result shows positive for coronavirus when it is actually negative).\n\nPhysicians in China started using Chest CT scans early in the outbreak because they couldn't rely on the PCR tests fully.  They started recommending CT based identification and improved quarantining.\n\nACR recommends against it citing false-positive rates, scanner contamination and no change in patient management even if the COVID is detected.\n",
+    "What our experts say": "High levels of false negatives from RT-PCR testing and long waits to receive test results have led many medical institutions to use chest CT (computed tomography) scans to diagnose COVID-19. Several studies, mostly conducted in China, have shown higher sensitivity of CT scans in detecting coronavirus when a PCR test showed a negative result. However, this does not mean that CT scans alone should be used for disease identification. CT scans can also miss detecting the virus and be misidentified with other pulmonary infectious/ viral pneumonias. Some experts believe that CT scans do not add any diagnostic value, while others believe that from a population health perspective during a pandemic, CT scans should be used to isolate suspicious cases for COVID-19, because of its high sensitivity and rapid identification.\nSome studies support a dual approach of CT scans and RT-PCR, or  the use of chest CT scan to screen for coronavirus when RT-PCR tests are negative. CT scans are relatively expensive compared to swab tests and also expose patients to a small dose of radiation. Some experts argue that because CT scans are resource intensive, they cannot be used as a population-wide testing tool. \nThe American College of Radiology (ACR) and US CDC recommend against using Chest CT scanning for screening or diagnosis of coronavirus disease 2019. On the other hand, the National Health Commission of China has encouraged the use of Chest CT scans for diagnosis.\nLocal resource constrains and expert physician advise on individual patient conditions are important factors in deciding on the use of CT scans or not.\n",
+    "Topics": [
+      "testing",
+      "PCR test",
+      "false negative",
+      "false positive",
+      "diagnostic test"
+    ],
+    "Other resources": "1. Correlation of Chest CT and RT-PCR Testing for Coronavirus Disease 2019 (COVID-19) in China: A Report of 1014 Cases ([RSNA -Radiology)](https://pubs.rsna.org/doi/10.1148/radiol.2020200642)\n2. A role for CT in COVID-19? What data really tell us so far ([The Lancet](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30728-5/fulltext))\n3. CT scan is a reliable test for COVID-19. Why aren’t we using it? ([Lown Institute)](https://lowninstitute.org/ct-scan-is-a-reliable-test-for-covid-19-why-arent-we-using-it/)\n4. Sensitivity of Chest CT for COVID-19: Comparison to RT-PCR ([RSNA - Radiology](https://pubs.rsna.org/doi/full/10.1148/radiol.2020200432))\n5. Chest CT Findings in Coronavirus Disease-19 (COVID-19): Relationship to Duration of Infection ([RSNA - Radiology](https://pubs.rsna.org/doi/full/10.1148/radiol.2020200463))\n6. ACR Recommendations for the use of Chest Radiography and Computed Tomography (CT) for Suspected COVID-19 Infection ([American College of Radiology](http://ACR Recommendations for the use of Chest Radiography and Computed Tomography (CT) for Suspected COVID-19 Infection))\n7. COVID-19 and Imaging: Why CT Scans and X-Rays Have a Limited Role in Diagnosing Coronavirus ([UVA Health](https://blog.radiology.virginia.edu/covid-19-and-imaging/))\n8. What is the role of CT scanning in the diagnosis of coronavirus disease 2019 (COVID-19)? ([Medscape](https://www.medscape.com/answers/2500114-197443/what-is-the-role-of-ct-scanning-in-the-diagnosis-of-coronavirus-disease-2019-covid-19))\n9. Covid-19 testing issues could sink plans to re-open the country. Might CT scans help? ([Statnews](https://www.statnews.com/2020/04/16/ct-scans-alternative-to-inaccurate-coronavirus-tests/#:~:text=In%20one%20recent%20study%20of,in%20fact%20had%20the%20disease.))\n10. Can CT scans diagnose COVID-19? Experts argue for and against ([Medical News Today](https://www.medicalnewstoday.com/articles/ct-use-in-covid-19-diagnosis))\n",
+    "Last modified manual": "2020-10-29",
+    "Last edited (simplified)": "2020-10-29T23:36:14.000Z",
+    "Last edited (experts say)": "2020-10-29T23:36:14.000Z",
+    "What our experts say wordcount": 260,
+    "Background and context wordcount": 151,
+    "Other resources wordcount": 160,
+    "Wordcount": 571,
+    "Last modified": "2020-10-29"
+  },
+  {
+    "id": "rec1lIxrlFHbwK7NV",
+    "Question": "What do we know so far about using VCO for COVID-19?",
+    "Status": "Published",
+    "Country question was sourced from": [
+      "Philippines"
+    ],
+    "Background and context": "Media around the potential use of coconut has increased due to the recent announcement of the results from the Phillipine’s Department of Science and Technology (DOST) laboratory studies on VCO and COVID-19, which found that VCO decreased viral load for mild to moderate cases of COVID-19 60 to 90%. A study on VCO and COVID-19 is also being carried out in Indonesia, adding to the coverage of this topic on Southeast Asia. \n\nCoconut oil has antibacterial and antiviral properties due to lauric acid (C12), which makes up 50% of the oil. Monolaurin is a derivative of Lauric acid — produced by the human body in response to ingesting coconut oil, which can act as an even more powerful antiviral agent. Researchers, however, are unsure of how lauric acid is converted into monolaurin in the body, and therefore how much one would need to ingest to receive benefits.\n",
+    "What our experts say": "Virgin coconut oil (VCO) is being studied in the Philippines and other countries as a potential supplementary treatment for COVID-19 — that is, a potential additional treatment used in combination with other COVID-19 treatments. These community-based trials are being carried out by the Filipino Department of Science and Technology (DOST) at the Sta. Rosa Community Hospital in Laguna, and involved both probable cases of COVID-19 (i.e. highly suspected cases) and mild cases of COVID-19. There are also two trials being carried out at the Philippine General Hospital (PGH) looking into the effects of VCO on moderate cases of COVID-19 or those who are hospitalized.\n\nThese two sets of studies aim to understand if VCO can shorten the COVID-19 recovery time, prevent further complications, and prevent hospitalization time. These studies follow 6 months of laboratory experiments that found VCO to decrease the coronavirus count by 60 to 90% for mild to moderate cases of COVID-19. If proven to be effective with sufficient evidence in the community-based trials, VCO could be a safe and affordable supplementary treatment for COVID-19.\n\nIt is important to note that these studies are still in development and that The World Health Organization (WHO) does not support the use of any specific medication to treat, cure, or prevent COVID-19. While coconut oil is safe in certain doses, more evidence is needed to understand its effect on COVID-19 and it should not be used as a COVID-19 treatment or prevention medication. \n",
+    "Glossary Terms": [
+      "rec3XmnugOMexQiQA",
+      "recRog4Fq88ayf62O",
+      "recMUR0P3EECMwfrv"
+    ],
+    "Other resources": "1. Laguna VCO clinical trials for COVID-19 treatment to be completed by December – DOST ([CNN](https://www.cnnphilippines.com/news/2020/10/21/Laguna-VCO-clinical-trials-December-completion.html?fbclid#.X5Y4U9LpxQ0.facebook))\n2. Virgin Coconut Oil (VCO) as a Potential Adjuvant Therapy in COVID-19 Patients ([ClinicalTrials.gov](https://clinicaltrials.gov/ct2/show/NCT04594330))\n3. “Solidarity” clinical trial for COVID-19 treatments ([WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov/solidarity-clinical-trial-for-covid-19-treatments))\n4. Activity of Virgin Coconut Oil, Lauric Acid or Monolaurin in Combination with Lactic Acid Against Staphylococcus Aureus ([Southeast Asian Journal of Tropical Medicine and Public Health](https://search-proquest-com.ezp-prod1.hul.harvard.edu/docview/1033359597/abstract/B1FA518303674B84PQ/1?accountid=11311))\n",
+    "Last modified manual": "2020-10-29",
+    "Last edited (simplified)": "2020-10-28T04:44:29.000Z",
+    "Last edited (experts say)": "2020-10-29T23:34:34.000Z",
+    "What our experts say wordcount": 239,
+    "Background and context wordcount": 146,
+    "Other resources wordcount": 62,
+    "Wordcount": 447,
+    "Last modified": "2020-10-29"
+  },
+  {
+    "id": "recg7uMkciGJxiye0",
+    "Question": "What role do autoantibodies play in how your body responds to COVID-19?",
+    "Status": "In progress",
+    "Category": "Disease Progression",
+    "Subcategory": "On: COVID-19 & autoantibodies",
+    "Source of the question": [
+      "Expert Recommendation"
+    ],
+    "Country question was sourced from": [
+      "USA"
+    ],
+    "Background and context": "Doctors and scientists have known for months that COVID-19 can cause widespread impacts on an infected person's immune system. With autoantibodies created in response to the virus, the body cannot determine the difference between itself and COVID-19 (non-self). This might make symptoms like inflammation much worse, even causing long-term physical challenges and much more serious cases. Though the recent study many of these findings stem from is a pre-print and has not yet been peer-reviewed, the authors have strong reputations in the field and were recently published in a peer-reviewed scientific journal regarding the presence of autoantibodies in severe cases of COVID-19. \n\nThese findings are important because doctors may be able to test for the presence of these tests and find out if there might be a genetic link to this type of overactive immune system response or even if a patient is more likely to have an asymptomatic case of the virus of a severe one. Doctors could also use existing tests to locate patients with autoantibodies and potentially treat them in similar ways to patients with autoimmune diseases like lupus and rheumatoid arthritis as they also produce autoantibodies and face the issue of the immune system fighting itself. As more research continues to be published in respected journals, the more opportunities doctors and scientists have for pinpointing the pathways of the virus and how it impacts certain groups of people but not others.\n",
+    "What our experts say": "When a foreign threat - an antigen - like bacteria or a virus attacks a person, their body's immune system responds in several ways. One of these ways is through the release of antibodies: proteins in the body that help fight off and clear out the threat from the body. In the case of COVID-19,  some people's immune system produces a type of antibody called an autoantibody that works to fight against the body instead of the virus. As of now, scientists are unsure if a person's genetic background might cause them to produce autoantibodies, if their presence has to do with a viral infection, hormonal responses, exposure to a variety of environmental issues, some combination or these things, or something else, much like some autoimmune diseases. This immune response might make cases of COVID-19 more severe, causing dangerous symptoms like serious inflammation, excessive cell death, and long-term effects in people who produced autoantibodies as part of their immune system's response to the COVID-19 antigen.\n\nNormally, the body will produce B cells (a major part of the immune system that helps activate the immune response to destroy antigens) in response to the virus. These B cells then create antibodies when they identify a genetic piece of the virus through its DNA and latches onto it. However, a recent pre-print study suggests that in some people with an abnormal response to the virus, they create unique B cells that produce autoantibodies that latch onto the DNA of dead cells from their body, not the RNA from the virus. These autoantibodies might cause the body to attack itself, causing the immune system to then have to fight off both the virus and its own response to its cells. At this time, it is unknown if these antibodies cause permanent or long lasting damage in patients similar to autoimmune diseases such as lupus or rheumatoid arthritis. Doctors do have options for treating excessive immune responses like this, including medications and treatments that help balance the actions of the immune system to an appropriate level (with the goal of stopping its attack on its own cells and stopping the progression of the virus). But since there is only one U.S. Food and Drug Administration approved medication to treat COVID-19 (Remdesivir), much more research must be completed on this phenomenon before any medications or approaches can effectively treat it. \n\n",
+    "Glossary Terms": [
+      "reclilEKmEDvsjnzW",
+      "recaXXF6coF4J2EUz",
+      "recyXylBebc7GlxTi"
+    ],
+    "Variation of the answer depending on country of residence": "No\t\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "antibody",
+      "autoantibodies",
+      "interferon",
+      "immune system"
+    ],
+    "Other resources": "1. Inborn errors of type I IFN immunity in patients with life-threatening COVID-19 ([Science](https://science.sciencemag.org/content/370/6515/eabd4570)) \n2. Autoantibodies against type I IFNs in patients with life-threatening COVID-19 ([Science](https://science.sciencemag.org/content/370/6515/eabd4585)) \n3. Scientists discover genetic and immunologic underpinnings of some cases of severe COVID-19 ([U.S. NIH](https://www.nih.gov/news-events/news-releases/scientists-discover-genetic-immunologic-underpinnings-some-cases-severe-covid-19)) \n4. Some Covid Survivors Have Antibodies That Attack the Body, not Virus ([NYT](https://www.nytimes.com/2020/10/27/health/covid-antibodies-autoimmunity.html)) \n5. Do cross-reactive antibodies cause neuropathology in COVID-19? ([Nature](https://www.nature.com/articles/s41577-020-00458-y)) \n6. Clinically identifiable autoreactivity is common in severe SARS-CoV-2 Infection ([medRxiv](https://www.medrxiv.org/content/10.1101/2020.10.21.20216192v2)) \n",
+    "Last edited (simplified)": "2020-10-29T07:40:35.000Z",
+    "Last edited (experts say)": "2020-10-29T07:40:35.000Z",
+    "What our experts say wordcount": 395,
+    "Background and context wordcount": 234,
+    "Other resources wordcount": 75,
+    "Wordcount": 704,
+    "Last modified": "2020-10-29"
   }
 ]

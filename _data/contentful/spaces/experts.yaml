@@ -355,13 +355,18 @@ contributor:
 - sys:
     id: 3MDM05wtxjGNQC5PY7gIpT
     created_at: !ruby/object:DateTime 2020-05-14 20:04:55.127000000 Z
-    updated_at: !ruby/object:DateTime 2020-09-30 20:05:30.161000000 Z
+    updated_at: !ruby/object:DateTime 2020-10-17 03:06:50.142000000 Z
     content_type_id: contributor
     revision: 4
   name:
     en-US: Shalini Joshi
+    ar: Shalini Joshi
+    bn: Shalini Joshi
+    es: Shalini Joshi
     fr: Shalini Joshi
     hi: 'शालिनी जोशी '
+    pt: Shalini Joshi
+    te: Shalini Joshi
   slug:
     en-US: shalini-joshi
   bio:
@@ -378,36 +383,6 @@ contributor:
       in newsrooms and fact-checking organisations.  \nShalini set up and managed
       the tipline used to collect WhatsApp-based rumors for Checkpoint, a research
       project to study misinformation at scale during the 2019 Indian general elections."
-    fr: Shalini Joshi est une chef de programme chez Meedan et l’ancienne directrice
-      et cofondatrice de « Khabar Lahariya », le seul réseau indépendant de nouvelles
-      numériques d’Inde offert aux spectateurs de régions rurales et de petites villes
-      éloignées. Shalini a transformé « Khabar Lahariya » de l’édition d’un journal
-      imprimé à une agence primée de nouvelles numériques offertes à plus de 10 millions
-      de spectateurs. Elle possède une compréhension sophistiquée des médias locaux
-      et des questions de genre, mais aussi de la manière dont ils peuvent empêcher
-      les femmes de participer à la sphère publique en Asie du Sud. Shalini était
-      une partenaire et une membre agréée TruthBuzz auprès du Centre international
-      pour les journalistes (ICFJ). Elle donne des formations en journalisme, en vérification
-      et en vérification des faits. Pour des nouvelles de salles de rédactions et
-      d’organismes de vérification des faits, elle a conçu, mis en place et renforcé
-      les stratégies et les pratiques de reportage et de rédaction. Shalini a mis
-      en place et géré pour Checkpoint, un projet de recherche pour étudier la mésinformation
-      à grande échelle lors des élections générales indiennes de 2010, la ligne de
-      signalement utilisée pour recueillir les rumeurs fondées sur WhatsApp.
-    hi: शालिनी जोशी मीडन में एक प्रोग्राम लीड हैं और पूर्व में कार्यकारी संपादक और
-      ख़बर लहारिया के सह-संस्थापक हैं - भारत का एकमात्र स्वतंत्र, डिजिटल समाचार नेटवर्क
-      जो दूरदराज के ग्रामीण क्षेत्रों और छोटे शहरों में दर्शकों के लिए उपलब्ध है।
-      शालिनी ने ख़बर लहारिया को एक मुद्रित समाचार पत्र के एक संस्करण से एक पुरस्कार
-      विजेता डिजिटल समाचार एजेंसी में बदल दिया, जो दस से अधिक दर्शकों को उपलब्ध है।
-      उसे स्थानीय मीडिया और लिंग की एक परिष्कृत समझ है, और उसकी जीस तरह से दक्षिण
-      एशिया में महिलाओं को सार्वजनिक क्षेत्र में भाग लेने से रोक सकते हैं। शालिनी
-      इंटरनेशनल सेंटर फ़ॉर जर्नलिस्ट्स (आइसीएफजे) के साथ एक ट्रुबझ पार्टनर और फेलो
-      थीं। वह पत्रकारिता, सत्यापन और तथ्य-जाँच में एक प्रशिक्षक हैं। उन्होंने समाचार
-      रिपोर्टिंग और संपादकीय नीतियों और प्रथाओं और समाचारों और तथ्य-जाँच संगठनों में
-      प्रथाओं को डिजाइन, कार्यान्वित और मजबूत किया है। शालिनी ने 2019 के भारतीय आम
-      चुनावों के दौरान गलत सूचनाओं का अध्ययन करने के लिए एक शोध परियोजना, चेकपॉइंट
-      के लिए व्हाट्सएप-आधारित अफवाहों को इकट्ठा करने के लिए उपयोग की जाने वाली टिपलाइन
-      की स्थापना और प्रबंधन किया।
     ar: شاليني جوشي هي رئيسة البرامج في ميدان وكانت سابقًا المحرر التنفيذي والمؤسس
       المشارك لـ "خبر لاهاريا" - شبكة الأخبار الرقمية المستقلة الوحيدة في الهند والمتاحة
       للمشاهدين في المناطق الريفية النائية والمدن الصغيرة. حوَّلت شاليني "خبر لاهاريا"
@@ -449,6 +424,36 @@ contributor:
       para recolectar rumores originados en WhatsApp) para Checkpoint, un proyecto
       de investigación para estudiar la desinformación a gran escala durante las elecciones
       generales en India en 2019.
+    fr: Shalini Joshi est une chef de programme chez Meedan et l’ancienne directrice
+      et cofondatrice de « Khabar Lahariya », le seul réseau indépendant de nouvelles
+      numériques d’Inde offert aux spectateurs de régions rurales et de petites villes
+      éloignées. Shalini a transformé « Khabar Lahariya » de l’édition d’un journal
+      imprimé à une agence primée de nouvelles numériques offertes à plus de 10 millions
+      de spectateurs. Elle possède une compréhension sophistiquée des médias locaux
+      et des questions de genre, mais aussi de la manière dont ils peuvent empêcher
+      les femmes de participer à la sphère publique en Asie du Sud. Shalini était
+      une partenaire et une membre agréée TruthBuzz auprès du Centre international
+      pour les journalistes (ICFJ). Elle donne des formations en journalisme, en vérification
+      et en vérification des faits. Pour des nouvelles de salles de rédactions et
+      d’organismes de vérification des faits, elle a conçu, mis en place et renforcé
+      les stratégies et les pratiques de reportage et de rédaction. Shalini a mis
+      en place et géré pour Checkpoint, un projet de recherche pour étudier la mésinformation
+      à grande échelle lors des élections générales indiennes de 2010, la ligne de
+      signalement utilisée pour recueillir les rumeurs fondées sur WhatsApp.
+    hi: शालिनी जोशी मीडन में एक प्रोग्राम लीड हैं और पूर्व में कार्यकारी संपादक और
+      ख़बर लहारिया के सह-संस्थापक हैं - भारत का एकमात्र स्वतंत्र, डिजिटल समाचार नेटवर्क
+      जो दूरदराज के ग्रामीण क्षेत्रों और छोटे शहरों में दर्शकों के लिए उपलब्ध है।
+      शालिनी ने ख़बर लहारिया को एक मुद्रित समाचार पत्र के एक संस्करण से एक पुरस्कार
+      विजेता डिजिटल समाचार एजेंसी में बदल दिया, जो दस से अधिक दर्शकों को उपलब्ध है।
+      उसे स्थानीय मीडिया और लिंग की एक परिष्कृत समझ है, और उसकी जीस तरह से दक्षिण
+      एशिया में महिलाओं को सार्वजनिक क्षेत्र में भाग लेने से रोक सकते हैं। शालिनी
+      इंटरनेशनल सेंटर फ़ॉर जर्नलिस्ट्स (आइसीएफजे) के साथ एक ट्रुबझ पार्टनर और फेलो
+      थीं। वह पत्रकारिता, सत्यापन और तथ्य-जाँच में एक प्रशिक्षक हैं। उन्होंने समाचार
+      रिपोर्टिंग और संपादकीय नीतियों और प्रथाओं और समाचारों और तथ्य-जाँच संगठनों में
+      प्रथाओं को डिजाइन, कार्यान्वित और मजबूत किया है। शालिनी ने 2019 के भारतीय आम
+      चुनावों के दौरान गलत सूचनाओं का अध्ययन करने के लिए एक शोध परियोजना, चेकपॉइंट
+      के लिए व्हाट्सएप-आधारित अफवाहों को इकट्ठा करने के लिए उपयोग की जाने वाली टिपलाइन
+      की स्थापना और प्रबंधन किया।
     pt: Shalini Joshi é chefe de programa na Meedan e antiga editora executiva e co-fundadora
       da Khabar Lahariya - a única rede de notícias digital independente da Índia
       disponível para um público em áreas rurais remotas e pequenas cidades. Shalini
@@ -1360,15 +1365,31 @@ contributor:
 - sys:
     id: 2ZNaGCRvYYbZvo6HuLdmQ4
     created_at: !ruby/object:DateTime 2020-09-30 00:58:11.951000000 Z
-    updated_at: !ruby/object:DateTime 2020-09-30 20:05:27.485000000 Z
+    updated_at: !ruby/object:DateTime 2020-10-17 03:06:38.068000000 Z
     content_type_id: contributor
-    revision: 1
+    revision: 3
   name:
     en-US: Ben Kertman
+    ar: Ben Kertman
+    bn: Ben Kertman
+    es: Ben Kertman
+    fr: Ben Kertman
+    hi: Ben Kertman
+    pt: Ben Kertman
+    te: Ben Kertman
   slug:
     en-US: ben-kertman
   bio:
-    en-US: ‫بن كرتمان هو عالم في تغيير السلوك واختصاصي في الصحة العامة، أصبح مستشارا
+    en-US: Ben Kertman is a behavior change scientist and public health specialist
+      who became a user research consultant to help organizations design experiences
+      that change behaviors and improve human well-being. Impatient with the tendency
+      of behavior change companies to use a single discipline approach (e.g. behavioral
+      economics) and guard their methods behind paywalls, Ben spent the last 7 years
+      developing an open-source, multi-discipline, behavior change framework for researchers
+      and designers to apply to UX. Ben is an in-house SME at Fidelity Investments
+      and consults for non-profits on the side. Ben holds a masters in Social and
+      Behavior Science and Public Health from Harvard.
+    ar: ‫بن كرتمان هو عالم في تغيير السلوك واختصاصي في الصحة العامة، أصبح مستشارا
       لأبحاث المستخدمين لمساعدة المؤسسات على تصميم الخبرات التي تغير السلوكيات وتحسن
       رفاهية الإنسان. أدى عدم صبره على توجه شركات تغيير السلوك إلى استخدام نهج واحد
       (مثل الاقتصاد السلوكي) و حمايتها لأساليبها باستخدام أقفال منع الوصول إليها غير

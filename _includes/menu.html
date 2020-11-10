@@ -6,7 +6,4 @@
     {% endif %}
     <a href="{{ path }}glossary">{{ site.data.ui.t[page.lang].menu.glossary }}
     </a>
-    {% if page.slug != 'entry' and page.slug != 'blog' %}
-        {% include language_switcher.html %}
-    {% endif %}
 </nav>
