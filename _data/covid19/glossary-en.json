@@ -305,7 +305,8 @@
     "Term": "experimental treatment",
     "Definition": "An experimental treatment is a medication or therapy that is being tested to evaluate if it is effective against an illness or medical condition. Experimental treatments may be existing medications or therapies that are known to work in treating one illness that are tried as a treatment for another illness (i.e. when an antiviral medication is used to treat a new virus, early treatments are considered experimental because it is unclear as to whether or not the medication will work). Experimental treatments may also be new medications or treatments that have not been used before. In addition to learning whether experimental treatments treat particular illnesses, the experimental process evaluates the therapies for possible side effects.\n",
     "Questions using this term": [
-      "rec9thjuTgT5ytu9t"
+      "rec9thjuTgT5ytu9t",
+      "rec1lIxrlFHbwK7NV"
     ],
     "Status": "Published",
     "French": [
@@ -508,7 +509,9 @@
     "Questions using this term": [
       "recxbPxkhx1NeoE5Q",
       "rec0TXrBjHL8mZPG8",
-      "rec9thjuTgT5ytu9t"
+      "rec9thjuTgT5ytu9t",
+      "rec8pqDaJA5uM1U0y",
+      "rec1lIxrlFHbwK7NV"
     ],
     "Status": "Published",
     "French": [
@@ -809,7 +812,8 @@
     "Definition": "Seasonal influenza viruses are infectious diseases that spread and cause illness in people during the time of year known as the “flu season.” Seasonal influenza viruses cause annual U.S. influenza epidemics during fall, winter, and spring, and circulate among people worldwide. Seasonal influenza viruses are continually undergoing evolution in unpredictable ways.\n",
     "Questions using this term": [
       "recOiBtU1KHxAQAgq",
-      "rec6Ka1kiwtOXSKe0"
+      "rec6Ka1kiwtOXSKe0",
+      "rec6LvLwc24HqHqQ1"
     ],
     "Status": "Published",
     "French": [
@@ -959,7 +963,8 @@
     "Definition": "According to the U.S. Centers for Disease Control, ultraviolet (UV) rays are a part of sunlight that is an invisible form of radiation. UV rays can penetrate and change the structure of skin cells. There are three types of UV rays: ultraviolet A (UVA), ultraviolet B (UVB), and ultraviolet C (UVC). UVA is the most abundant source of solar radiation at the earth’s surface and penetrates beyond the top layer of human skin. Scientists believe that UVA radiation can cause damage to connective tissue and increase a person’s risk for developing skin cancer. UVB rays penetrate less deeply into skin, but can still cause some forms of skin cancer. Natural UVC rays do not pose a risk to workers because they are absorbed by the Earth’s atmosphere.\n",
     "Questions using this term": [
       "recrNXw7eBw8czwGW",
-      "rec7sYlAOUsRLHy0O"
+      "rec7sYlAOUsRLHy0O",
+      "recvA3dMAEFu2Cl80"
     ],
     "Status": "Published",
     "French": [
@@ -1281,6 +1286,9 @@
     "id": "recEer1bgt6r6jukM",
     "Term": "social distancing",
     "Definition": "According to the U.S. Centers for Disease Control and Prevention, social-distancing is the act of keeping space between yourself and other people outside of your home to prevent the spread of COVID-19.  To practice social-distancing, experts recommend that people stay at least 6 feet (2 meters) apart.  Social-distancing is also sometimes called physical distancing.\n",
+    "Questions using this term": [
+      "recJdTUlHe5fd1cw1"
+    ],
     "Status": "Published",
     "French": [
       "recHM7OkgPC2MdHBD"
@@ -1347,6 +1355,10 @@
     "id": "recz6wQ17eV2G7r6w",
     "Term": "pre-existing condition",
     "Definition": "In the U.S., a pre-existing condition are words commonly used to describe as a medical problem (i.e. diabetes, asthma, heart disease, high blood pressure, obesity, cancer) that a patient has, before they begin new medical insurance coverage. The use of the word has been adapted to the current COVID-19 pandemic to describe common long term (or chronic) health problems (i.e. diabetes, asthma, heart disease, high blood pressure, obesity, cancer) that may increase a patient's chances of becoming infected or seriously ill from the virus.\n",
+    "Questions using this term": [
+      "recJdTUlHe5fd1cw1",
+      "recQOw0bJlQFe3pbW"
+    ],
     "Status": "Published",
     "French": [
       "rec2FN7GIecPbmxoP"
@@ -1515,7 +1527,8 @@
     "Term": "sensitivity",
     "Definition": "Sensitivity in public health terminology is a statistical term that describes the number of people who have a particular illness and are correctly identified as having that illness. It is often used to describe how reliable a medical test is for making a diagnosis, by making sure that there are as few false negatives (people who have the illness but receive a negative test result) as possible. \n\nFor example, if 100 people with an illness are tested, a test with 100% sensitivity would show 100 positive test results. Using the same group, a test with lower sensitivity could have 80 positive test results and 20 people would receive false negative results even though they do indeed have the illness.\n\nSensitivity is also commonly called the \"true positive rate,\" \"recall,\" \"epidemiological sensitivity,\" \"clinical sensitivity,\" or \"probability of detection.\"\n",
     "Questions using this term": [
-      "recp0leXTiAvzw4cH"
+      "recp0leXTiAvzw4cH",
+      "recXkB1pAufZu4OAB"
     ],
     "Status": "Published",
     "French": [
@@ -1548,7 +1561,8 @@
     "Term": "specificity",
     "Definition": "Specificity is a statistical term that describes the number of people without an illness that are correctly identified as NOT having the illness. A test with high specificity rarely gives positive test results in healthy patients, so a positive test result means that it is likely that someone has the illness.\n\nFor example, if 100 people are known NOT to have an illness and all are tested, a test with 100% specificity would show 0 positive test results. Using the same group, a test with only 80% specificity would have 80 negative test results (and 20 positive results) even though all 100 people do NOT have the illness.\n\nSpecificity is is also commonly called the \"true negative rate.\"\n",
     "Questions using this term": [
-      "recp0leXTiAvzw4cH"
+      "recp0leXTiAvzw4cH",
+      "recXkB1pAufZu4OAB"
     ],
     "Status": "Published",
     "French": [
@@ -1625,7 +1639,8 @@
       "recp0leXTiAvzw4cH",
       "recisKOQNAShlHmql",
       "recRNOP1DQIw90RaZ",
-      "recufj0t4myAoM7yM"
+      "recufj0t4myAoM7yM",
+      "recdAeExWSCQq3rHn"
     ],
     "Status": "Published",
     "French": [
