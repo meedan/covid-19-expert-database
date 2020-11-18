@@ -44,7 +44,8 @@
       "rec1KveB4FFU90Equ",
       "rec7awl8Ed6xdZIiv",
       "recu5zvFnlQeNTxk8",
-      "recIWpxnU5BOReqN2"
+      "recIWpxnU5BOReqN2",
+      "recSCWgMrGT3yvFkH"
     ],
     "Status": "Published",
     "French": [
@@ -126,7 +127,8 @@
       "recAvJuac1TZ49MjL",
       "recXUQjiQ2yaPXyxo",
       "recC2wUIEcU6WPCCA",
-      "recN7xZOc6jUGgDCA"
+      "recN7xZOc6jUGgDCA",
+      "recrz9eAiWOXKBiHx"
     ],
     "Status": "Published",
     "French": [
@@ -166,7 +168,8 @@
       "recAvJuac1TZ49MjL",
       "recXUQjiQ2yaPXyxo",
       "recN7xZOc6jUGgDCA",
-      "recVpklak5rzFJoLX"
+      "recVpklak5rzFJoLX",
+      "recrz9eAiWOXKBiHx"
     ],
     "Status": "Published",
     "French": [
@@ -777,7 +780,10 @@
       "reczwkJJR0nVeblx9",
       "recyq5D0irsIhQn1B",
       "rec6Ka1kiwtOXSKe0",
-      "recfMZ84AyYqSqoBS"
+      "recfMZ84AyYqSqoBS",
+      "recGJZyxcGglnEryM",
+      "reccN0swQANNJwGir",
+      "recYE4J6Nh1lta1lB"
     ],
     "Status": "Published",
     "French": [
@@ -926,7 +932,8 @@
       "reczwkJJR0nVeblx9",
       "recyq5D0irsIhQn1B",
       "rec0TXrBjHL8mZPG8",
-      "rec9thjuTgT5ytu9t"
+      "rec9thjuTgT5ytu9t",
+      "recYE4J6Nh1lta1lB"
     ],
     "Status": "Published",
     "French": [
@@ -1015,7 +1022,9 @@
       "recUf54dYwOUfEzIR",
       "rech4v50JJeU3kcVw",
       "recSCMovWVO7VKvPB",
-      "rece1Xl8IwRL6DtyN"
+      "rece1Xl8IwRL6DtyN",
+      "recSCWgMrGT3yvFkH",
+      "recrz9eAiWOXKBiHx"
     ],
     "Status": "Published",
     "French": [
@@ -1152,7 +1161,8 @@
     "Term": "side effects",
     "Definition": "A side effect is a symptom (usually undesirable) that is caused by a medication or therapy that is being used to treat an illness. Side effects vary depending upon the therapy as well as the patient's age, gender, general health, other illnesses or medications, weight, or ethnicity. Often side effects are both minor and temporary, but, in some instances, side effects can be severe and result in permanent disability. A side effect also may be called a side reaction or secondary effect.\n",
     "Questions using this term": [
-      "recxbPxkhx1NeoE5Q"
+      "recxbPxkhx1NeoE5Q",
+      "recGJZyxcGglnEryM"
     ],
     "Status": "Published",
     "French": [
@@ -1357,7 +1367,8 @@
     "Definition": "In the U.S., a pre-existing condition are words commonly used to describe as a medical problem (i.e. diabetes, asthma, heart disease, high blood pressure, obesity, cancer) that a patient has, before they begin new medical insurance coverage. The use of the word has been adapted to the current COVID-19 pandemic to describe common long term (or chronic) health problems (i.e. diabetes, asthma, heart disease, high blood pressure, obesity, cancer) that may increase a patient's chances of becoming infected or seriously ill from the virus.\n",
     "Questions using this term": [
       "recJdTUlHe5fd1cw1",
-      "recQOw0bJlQFe3pbW"
+      "recQOw0bJlQFe3pbW",
+      "recSCWgMrGT3yvFkH"
     ],
     "Status": "Published",
     "French": [
@@ -1920,7 +1931,9 @@
       "recIWpxnU5BOReqN2",
       "recHgpMkShciBa9VJ",
       "recoFYIiBdptZqQXi",
-      "recgYhZKtG7oXfSPv"
+      "recgYhZKtG7oXfSPv",
+      "recrz9eAiWOXKBiHx",
+      "rec0CA3DO8hiIjlta"
     ],
     "Status": "Published",
     "French": [
@@ -2158,5 +2171,29 @@
     "Wordcount Definition": 71,
     "Wordcount Term": 2,
     "Total wordcount": 73
+  },
+  {
+    "id": "recR5R4QhqxWEg2nF",
+    "Term": "vaccine effectiveness",
+    "Definition": "Vaccine effectiveness studies examine how well a vaccine prevents a particular disease in the “real world,” where people are doing things like going to the grocery store, work, and school. Vaccine effectiveness is different from vaccine efficacy because efficacy is used to measure how well a vaccine works to prevent a particular disease in controlled, research environments.\n\nThough vaccine efficacy and vaccine effectiveness are similar terms and are often used interchangeably, the differences between the two terms are important. When a new vaccine is being developed and studied in clinical trials, the vaccine's efficacy is reported until the vaccine is made available for large population groups, at which point effectiveness can be measured. Real world vaccine effectiveness reflects population differences in health status, weight, age, and other factors across communities and is a much more reliable and accurate term for how helpful a vaccine is at preventing disease in daily life.\n",
+    "Questions using this term": [
+      "recfMZ84AyYqSqoBS"
+    ],
+    "Status": "Published",
+    "Wordcount Definition": 149,
+    "Wordcount Term": 2,
+    "Total wordcount": 151
+  },
+  {
+    "id": "rec10nAxiKgWhYJLd",
+    "Term": "vaccine efficacy",
+    "Definition": "Vaccine efficacy is used to report on how well a vaccine works to prevent a particular disease in controlled, research environments. Vaccine efficacy is used to communicate how well the vaccine prevents the virus in the research vaccine group, when compared to the group of participants who did not receive the research vaccine. For example, if 100 study participants were a given study vaccine with 90% efficacy, 90 patients would not contract the disease and 10 would. The minimum United States Food and Drug Administration (U.S. FDA) target of 50% efficacy; no vaccine has a 100% efficacy. \n",
+    "Questions using this term": [
+      "recYE4J6Nh1lta1lB"
+    ],
+    "Status": "Published",
+    "Wordcount Definition": 98,
+    "Wordcount Term": 2,
+    "Total wordcount": 100
   }
 ]

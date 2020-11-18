@@ -2221,8 +2221,8 @@
     "id": "rec2shxecDOlAie8Q",
     "Question": "What do we know about the Moderna vaccine so far?",
     "Status": "Published",
-    "Background and context": "Over 165 vaccines against the coronavirus are in development around the world, and approximately 25 are in human trials. Moderna was the first American company to test a vaccine in humans. The genetic vaccine, which uses genetic material from the virus (called mRNA) to prompt the immune system to fight the virus, was developed by researchers at the U.S. National Institute of Allergy and Infectious Diseases. Because this vaccine was the first to be tried in humans as part of a clinical trial, it has been widely discussed and followed, and has gained more media attention recently due to Moderna publishing promising Phase 1 results on July 14, and announcing that moved into a Phase 3 trial on July 27. A phase 2 trial in 600 healthy adults is ongoing. Though Moderna had originally hoped to have the vaccine available in early 2021, on October 1st, 2020, Moderna's CEO, Stéphane Bancel, announced that widespread vaccine availability is not expected before spring of 2021.\n\nThe results from the Moderna Phase 1 trial show that those who received the vaccine produced more antibodies that neutralized the virus **-- **meaning the antibodies successfully defended cells from the virus by blocking any effect the virus has biologically**.** These results have prompted wider discussion of a few open questions regarding the success of this vaccine and the others in development: 1) Can the production of antibodies predict protection against an infection? 2) Can antibodies predict protection against the level of infection, and 3) Will the antibodies produced last for a long time? and if yes, for how long? Research is ongoing to answer these questions. \n\n",
-    "What our experts say": "Following encouraging results of early vaccine clinical trials, Moderna's COVID-19 vaccine started phase 3 trials on July 27, 2020 with 30,000 participants age 18 and older. There are typically three phases of vaccine clinical trials, where Phase 3 is the last one conducted on a large amount of people. Phase 3 seeks to confirm results obtained in Phase 1 and Phase 2 with respect to safety and efficacy of the vaccine before approving it for manufacturing and distribution. In the upcoming Moderna Phase 3 trial, patients will be randomly assigned to receive two vaccine doses or a placebo.** **A placebo is a harmless, inactive substance that physically looks like the vaccine being tested, so researchers can make a comparison.\n\nModerna published early results in the New England Journal of Medicine (NEJM) on July 14, 2020, based on Phase 1 trials with 45 participants, between age 18 and 55, receiving two vaccine doses each. The participants were split evenly into 3 groups to test different amounts of the vaccine: 25, 100, and 250 micrograms. While no major safety concerns were found that would stop the trials, over half of the participants experienced side effects such as fatigue, chills, headache, muscle aches, and pain at the injection site. The participants receiving the highest vaccine dose (250 micrograms) had more severe side effects. A phase 2 trial is ongoing and is evaluating doses of 50 and 100 micrograms in participants. The next phase (Phase 3) of the clinical trial will focus on studying the middle vaccine amount (100 micrograms).\n\nBy day 43 of the Phase 1 trial, researchers observed immune responses in all participants that could reduce the ability of SARS-CoV-2, the virus that causes COVID-19, to infect people by 80% or more. By day 57, participants who received 100 micrograms of the vaccine had average levels of neutralizing antibodies that were about twice the average levels found in patients who have recovered from COVID-19. Neutralizing antibodies, made from plasma cells (a type of white blood cell), are a subset of antibodies (special proteins that help the body to fight viruses, bacteria, and other threats that can make people sick) that reduce the ability of a virus to infect cells and cause disease. More research is being conducted to ensure the Moderna vaccine is safe for use by diverse populations, and effective in providing long-term immunity that can protect people from getting sick when exposed to the virus.\n\nOn September 29th, 2020, a new study was published in the New England Journal of Medicine (NEJM) examining immune responses for the vaccine in 40 older adults. The study examined two different vaccine doses (25 micrograms and 100 micrograms given in two doses, 28 days apart) and found that the higher (100 micrograms) dose produced a greater antibody titer (immune) response in the older adult population. Researchers reported that side effects from the vaccine were found to be mild for most participants and suggest that a higher dose (100 micrograms) should be used in the phase 3 clinical trial.\n\nOn October 1st, 2020, Moderna's CEO, Stéphane Bancel, announced that widespread vaccine availability is not expected before spring of 2021.\n",
+    "Background and context": "Over 165 vaccines against the coronavirus are in development around the world, and approximately 54 are in human trials. Moderna was the first American company to test a vaccine in humans, and is the second U.S. drugmaker to report successful preliminary results from a phase 3 trial. Moderna’s vaccine trials are part of the U.S. government’s Operation Warp Speed program, and received approximately $1 billion from the U.S. government in funding to support the research and development of the vaccine. \n\nThe genetic vaccine, which uses genetic material from the virus (called mRNA) to prompt the immune system to fight the virus, was developed by researchers at the U.S. National Institute of Allergy and Infectious Diseases. Because 1) this vaccine was the first to be tried in humans as part of a clinical trial, 2) is now the second U.S. drugmaker to announcement successful efficacy in a phase 3 trial, 3) the vaccine’s high efficacy rate of 94.5%, the Modern vaccine has been widely discussed and followed, and has gained more media attention recently with the November 16 announcement.\n\nEarly results on phase 1 were published by Moderna in the New England Journal of Medicine (NEJM) on July 14, 2020. Phase 1 included 45 participants, between age 18 and 55, who received two vaccine doses each. The participants were split evenly into 3 groups to test different amounts of the vaccine: 25, 100, and 250 micrograms. While no major safety concerns were found that would stop the trials, over half of the participants experienced side effects such as fatigue, chills, headache, muscle aches, and pain at the injection site. The participants receiving the highest vaccine dose (250 micrograms) had more severe side effects. \n\nBy day 43 of the phase 1 trial, researchers observed immune responses in all participants that could reduce the ability of SARS-CoV-2, the virus that causes COVID-19, to infect people by 80% or more. By day 57, participants who received 100 micrograms of the vaccine had average levels of neutralizing antibodies that were about twice the average levels found in patients who have recovered from COVID-19. Neutralizing antibodies, made from plasma cells (a type of white blood cell), are a subset of antibodies (special proteins that help the body to fight viruses, bacteria, and other threats that can make people sick) that reduce the ability of a virus to infect cells and cause disease. \n\nA phase 2 trial evaluated the doses of 50 and 100 micrograms in participants, which helped to the decision to focus Phase 3 of the clinical trial on studying the middle vaccine amount (100 micrograms). In addition to phase 2 trial data, on September 29th, 2020, a new study was published in the New England Journal of Medicine (NEJM) examining immune responses for the vaccine in 40 older adults at different doses. The study examined two different vaccine doses (25 micrograms and 100 micrograms given in two doses, 28 days apart) and found that the higher (100 micrograms) dose produced a greater antibody titer (immune) response in the older adult population.\n",
+    "What our experts say": "Biotechnology company Moderna announced on Monday, November 16, that their experimental COVID-19 vaccine achieved 94.5% efficacy in preventing COVID-19 in controlled, early studies. The results are based on early data from a large-scale, stage-three trial that is ongoing. This announcement followed an announcement that Pfizer's COVID-19 vaccine prevented infection in 90% of participants who received the drug company’s late-stage clinical trial dose. This makes Moderna the second U.S. drugmaker to report clinical trial results that exceeded the expectations of the US Food and Drug Administration, which has set a minimum efficacy standard of 50% for COVID-19 vaccines. \n\nFollowing encouraging results of early vaccine clinical trials, Moderna's COVID-19 vaccine started phase 3 trials on July 27, 2020 with recruitment of 30,000 participants age 18 and older. On October 22, the company announced the recruitment was complete, and that 25,650 participants had already received two shots. Ultimately, 37% of study participants were from Communities of Color, and 42% were from populations considered high risk (as enrollment was slowed in September to increase diversity). \n\nModerna’s promising early analysis results are based on 95 infections among all trial participants who received either the vaccine or a placebo (shots of saltwater). Five of those 95 infections were among the participants who actually received the vaccine mRNA-1273 — which is administered in two shots 28 days apart. As volunteers were randomly assigned to receive either two vaccine doses or a placebo (a harmless, inactive substance that is used to compare the impacts of a drug or vaccine), volunteers were unaware of what injection they received. The majority, the 90 participants who contracted COVID-19, were in the non-vaccinated placebo group. This difference is highly statistically significant. Of the 95 cases, 11 were severe, and all 11 were in the placebo group. The company also announced that its vaccine can be stored at a standard refrigerator temperature range of 2 degrees Celsius (35.6 degrees Fahrenheit) to 8 degrees Celsius (46.4 degrees Fahrenheit) for up to 30 days. The vaccine can also be kept in long-term storage at a standard freezer temperatures of -20 degrees Celsius (-4 degrees Fahrenheit) for up to six months. The ease of storage compared to Pfizer’s vaccine and others could  potentially help improve the supply chain and delivery of the vaccine. \n\nModerna, through the U.S. government’s Operation Warp Speed program, hopes to produce approximately 20 million vaccine doses for the U.S. this year, millions of which the company has already made and is ready to ship if they receive an FDA emergency use authorization (EUA), which they have enough safety data to file for, and plan to do so in the coming weeks. Distribution could start as early as December, but the exact timing has yet to be determined and will depend on a number of factors. \n\nIt is crucial to note that clinical trials were designed to measure whether the vaccines prevented participants from getting severe infections of COVID-19, rather than looking at whether they prevented transmission, which remains to be tested. It is also crucial to note that the study is ongoing and that more data is needed to make sure that the vaccine’s efficacy is consistent across all groups, particularly older individuals. Questions ranging from distribution to dosage numbers to uptake within the public also remain. \n\nResearchers reported that side effects from the vaccine were found to be mild for most participants and suggest that a higher dose (100 micrograms) should be used in the phase 3 clinical trial. Data from phase 2 showed that several volunteers noted minor side effects, though no serious health impacts were reported.\n",
     "Glossary Terms": [
       "rec9qqItwSTjq3Eae",
       "recMJMGqkERKGcbL5",
@@ -2234,7 +2234,13 @@
       "recmajcAORyuqhZPc",
       "recyXylBebc7GlxTi"
     ],
-    "Other resources": "1. A Study to Evaluate Efficacy, Safety, and Immunogenicity of mRNA-1273 Vaccine in Adults Aged 18 Years and Older to Prevent COVID-19 ([U.S. Clinical Trials Registry](https://clinicaltrials.gov/ct2/show/NCT04470427?term=moderna+COVID-19&draw=2&rank=1))\n2. An mRNA Vaccine against SARS-CoV-2 — Preliminary Report ([NEJM](https://www.nejm.org/doi/full/10.1056/NEJMoa2022483))\n3. First data for Moderna Covid-19 vaccine show it spurs an immune response ([STAT News](https://www.statnews.com/2020/07/14/moderna-covid19-vaccine-first-data-show-spurs-immune-response/))\n4. Vaccine experts say Moderna didn’t produce data critical to assessing Covid-19 vaccine ([STAT News](https://www.statnews.com/2020/05/19/vaccine-experts-say-moderna-didnt-produce-data-critical-to-assessing-covid-19-vaccine/))\n5. Will Moderna Match Competitors’ Covid-19 Vaccine Prices? ([Forbes](https://www.forbes.com/sites/johnlamattina/2020/07/22/will-moderna-match-competitors-covid-19-vaccine-prices/#2ee3c6e5e014))\n6. Safety and Immunogenicity of SARS-CoV-2 mRNA-1273 Vaccine in Older Adults ([NEJM](https://www.nejm.org/doi/full/10.1056/NEJMoa2028436))\n7. Moderna's vaccine won't be ready for the public until spring, CEO says ([Washington Post](https://www.washingtonpost.com/nation/2020/10/01/coronavirus-covid-live-updates-us/))\n",
+    "Topics": [
+      "vaccine",
+      "vaccine effectiveness",
+      "clinical trial",
+      "prevention"
+    ],
+    "Other resources": "1. A Study to Evaluate Efficacy, Safety, and Immunogenicity of mRNA-1273 Vaccine in Adults Aged 18 Years and Older to Prevent COVID-19 ([U.S. Clinical Trials Registry](https://clinicaltrials.gov/ct2/show/NCT04470427?term=moderna+COVID-19&draw=2&rank=1))\n2. An mRNA Vaccine against SARS-CoV-2 — Preliminary Report ([NEJM](https://www.nejm.org/doi/full/10.1056/NEJMoa2022483))\n3. First data for Moderna Covid-19 vaccine show it spurs an immune response ([STAT News](https://www.statnews.com/2020/07/14/moderna-covid19-vaccine-first-data-show-spurs-immune-response/))\n4. Vaccine experts say Moderna didn’t produce data critical to assessing Covid-19 vaccine ([STAT News](https://www.statnews.com/2020/05/19/vaccine-experts-say-moderna-didnt-produce-data-critical-to-assessing-covid-19-vaccine/))\n5. Will Moderna Match Competitors’ Covid-19 Vaccine Prices? ([Forbes](https://www.forbes.com/sites/johnlamattina/2020/07/22/will-moderna-match-competitors-covid-19-vaccine-prices/#2ee3c6e5e014))\n6. Safety and Immunogenicity of SARS-CoV-2 mRNA-1273 Vaccine in Older Adults ([NEJM](https://www.nejm.org/doi/full/10.1056/NEJMoa2028436))\n7. Moderna's vaccine won't be ready for the public until spring, CEO says ([Washington Post](https://www.washingtonpost.com/nation/2020/10/01/coronavirus-covid-live-updates-us/))\n8. We can stop COVID-19: Moderna vaccine success gives world more hope ([Reuters](https://in.reuters.com/article/health-coronavirus-vaccines-moderna/we-can-stop-covid-19-moderna-vaccine-success-gives-world-more-hope-idUSKBN27W1EG)) \n9. Moderna: Covid vaccine shows nearly 95% protection ([BBC](https://www.bbc.com/news/health-54902908))\n10. Early Data Show Moderna’s Coronavirus Vaccine Is 94.5% Effective ([NYT](https://www.nytimes.com/2020/11/16/health/Covid-moderna-vaccine.html))\n",
     "Media": [
       {
         "id": "attejjFsTwMqr6VJQ",
@@ -2376,14 +2382,14 @@
         "type": "application/zip"
       }
     ],
-    "Last modified manual": "2020-08-07",
-    "Last edited (simplified)": "2020-10-07T16:48:51.000Z",
-    "Last edited (experts say)": "2020-10-07T16:49:07.000Z",
-    "What our experts say wordcount": 519,
-    "Background and context wordcount": 268,
-    "Other resources wordcount": 96,
-    "Wordcount": 883,
-    "Last modified": "2020-10-07"
+    "Last modified manual": "2020-11-17",
+    "Last edited (simplified)": "2020-11-18T07:40:56.000Z",
+    "Last edited (experts say)": "2020-11-18T13:16:56.000Z",
+    "What our experts say wordcount": 594,
+    "Background and context wordcount": 502,
+    "Other resources wordcount": 127,
+    "Wordcount": 1223,
+    "Last modified": "2020-11-18"
   },
   {
     "id": "recUakBDhgsxJwFic",
@@ -2816,8 +2822,8 @@
       "recTGqUnlwR03P8tA"
     ],
     "Last modified manual": "2020-08-06",
-    "Last edited (simplified)": "2020-09-29T00:29:57.000Z",
-    "Last edited (experts say)": "2020-09-29T00:29:57.000Z",
+    "Last edited (simplified)": "2020-11-16T19:22:03.000Z",
+    "Last edited (experts say)": "2020-11-16T19:22:03.000Z",
     "What our experts say wordcount": 111,
     "Background and context wordcount": 181,
     "Other resources wordcount": 96,
@@ -2864,7 +2870,7 @@
     "Bengali - Background and context": [
       "ভিটামিন ডি একটি প্রয়োজনীয় পুষ্টি উপাদান, যার অর্থ আপনার দেহে এটি প্রয়োজন আছে কিন্তু এটি শরীর নিজেই তৈরি করতে পারে না। এজন্য লোকজনকে স্যামন মাছ বা ডিমের কুসুম, পরিপূরক জাতীয় খাবার বা রোদে স্বল্প পরিমাণে সময় ব্যয় করে তাদের ভিটামিন ডি গ্রহণ করতে হবে। ভিটামিন ডি আপনার দেহের রোগ প্রতিরোধ ক্ষমতা এবং এর কোষগুলি ভালভাবে কাজ করছে তা নিশ্চিত করতে সহায়তা করে যাতে তারা সংক্রমণ এবং ভাইরাসের প্রতিক্রিয়া জানাতে পারে। শরীরে ক্যালসিয়ামের মাত্রা ধরে রাখতে এবং হাড়ের স্বাস্থ্যের বজায়ে সহায়তা করার পাশাপাশি ভিটামিন ডি ক্যান্সার কোষের বৃদ্ধিও হ্রাস করতে পারে, প্রদাহ হ্রাস করতে সহায়তা করতে এবং সংক্রমণ নিয়ন্ত্রণে সহায়তা করতে পারে।"
     ],
-    "Last modified": "2020-09-29"
+    "Last modified": "2020-11-16"
   },
   {
     "id": "recFi8qUxcrBhBeb9",
@@ -12054,17 +12060,17 @@
     "Category": "Vaccines",
     "Subcategory": "On: COVID-19 & vaccine effectiveness",
     "Background and context": "Herd immunity varies based off the infectious disease, but in most cases requires 70%-90% of the population to be vaccinated. For example, declining vaccination rates of MMR (measles vaccine), helped contribute to the uptick in cases. \n",
-    "What our experts say": "Reducing or eliminating an infectious disease can be done with a vaccine, but it requires a level of vaccination that leads a population to herd immunity. \n\nHerd immunity takes place when a majority of a population is immune to a disease, either through because most people have been vaccinated or most people have been infected already. When this happens, the level of immunity in a population provides so few options for a virus or bacteria to spread that the disease becomes eradicated, or drastically diminished, from the population. \n\nFor example, if 80 out of 100 people in a community are immune to an infectious disease, through vaccination or previous infection, the disease has very few options to spread. Most of the people it tries to infect will have a resistance to infection. As a result, the disease may die entirely, without the resources it needs to grow, or it may weaken drastically. \n\nSome people are not able to get vaccinated due to health concerns. A high level of vaccination in a general population creates herd immunity that protects against disease not just for those who received the vaccine, but also for those that are not able to vaccinate. Coming back to our example, this means those 80 people with immunity protect not just themselves, but also the other 20 people in the population that may not be able to vaccinate due to health concerns. \n\nThis common method requires a large percentage of people to become vaccinated, so they don't acquire the disease and spread it. To ensure indirect protection, large-scale vaccination and immunity must occur.  \n",
+    "What our experts say": "While the current data is promising, the study is ongoing, and more information is needed before Pfizer can pursue U.S. FDA approval. To ensure that there are not major safety concerns, the U.S. FDA is requiring manufacturers to provide at least two months of follow-up data for at least half of the volunteer participants. Most serious side effects from vaccines occur within about six weeks after the vaccine is given. In vaccine clinical trials, any observed impacts of the vaccine on volunteer participants are eventually considered side effects with more serious side effects causing the trials to pause or stop completely. No safety concerns about these potential side effects have been reported so far.\n",
     "Variation of the answer depending on country of residence": "No\n",
     "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
     "Other resources": "JHU Herd Immunity and COVID ([2020](https://www.jhsph.edu/covid-19/articles/achieving-herd-immunity-with-covid19.html)). \n",
     "Last edited (simplified)": "2020-09-15T19:33:37.000Z",
-    "Last edited (experts say)": "2020-09-29T00:15:23.000Z",
-    "What our experts say wordcount": 267,
+    "Last edited (experts say)": "2020-11-10T03:31:06.000Z",
+    "What our experts say wordcount": 114,
     "Background and context wordcount": 37,
     "Other resources wordcount": 7,
-    "Wordcount": 311,
-    "Last modified": "2020-09-29"
+    "Wordcount": 158,
+    "Last modified": "2020-11-10"
   },
   {
     "id": "reczwkJJR0nVeblx9",
@@ -12079,7 +12085,7 @@
       "USA"
     ],
     "Background and context": "Clinical trials have historically excluded diverse populations. In 1993, the U.S. National Institutes of Health (NIH) adopted a new policy which required all federal grants for clinical research to include women and minorities, in an effort to diversify the pool of trial participants and the lack of inclusion of women and communities of color. However, demographic disparities continue to persist as Black and Latinx populations are consistently underrepresented in clinical trials. One recent study found that out of 230 oncology clinical trials analyzed over a ten-year period, more than 76% of participants were white, while only 18.3% were Black, 3.1% were Asian, and 6.1% were Hispanic. Another study in Nature found that 92% of the participants in clinical trials registered with the U.S. Food and Drug Administration were white in 1997. Progress has been slow as the proportion of white participants was still approximately 86% in 2014.\n",
-    "What our experts say": "Pfizer, an American pharmaceutical company, has proposed expanding their vaccine trial to include 44,000 participants (up from the initially planned 30,000) from diverse patient populations, since diverse populations may respond differently to the same vaccine.  \n\nVariations in age, gender, ethnicity, weight, geographic location, and other demographic characteristics can influence the required dosage or effect of a particular vaccine, but historically, clinical trials have predominantly included white populations and failed to account for that demographic diversity. \n\nIn one example of these demographic differences, Pfizer has reported that African Americans may require different doses for the same blood pressure or heart-related conditions compared to white, Hispanic or Asian populations. \n\nUnderrepresented communities also face systemic barriers to accessing healthcare services, which makes recruitment in clinical trials even more difficult. Expanding the size of the clinical trial and improving outreach efforts to underrepresented communities will ensure that vaccine trials include diverse populations, which will help ensure that the vaccine is safe and effective for all populations.\n",
+    "What our experts say": "\n",
     "Glossary Terms": [
       "rec9qqItwSTjq3Eae",
       "recM4p8QOERmuESKr"
@@ -12095,12 +12101,12 @@
     "Other resources": "1. Diversity in clinical trials: why it's important ([Pfizer](https://www.pfizer.com/news/featured_stories/featured_stories_detail/diversity_in_clinical_trials_why_it_s_important)) \n2. NIH Revitalization Act of 1993 Public Law 103-43 ([NIH](https://www.ncbi.nlm.nih.gov/books/NBK236539/?report=reader)) \n3. Disparity of Race Reporting and Representation in Clinical Trials Leading to Cancer Drug Approvals From 2008 to 2018 ([JAMA](https://jamanetwork.com/journals/jamaoncology/fullarticle/2748395)) \n4. When will clinical trials finally reflect diversity? ([Nature](https://www.nature.com/articles/d41586-018-05049-5))\n",
     "Newsletter": true,
     "Last edited (simplified)": "2020-09-15T16:57:11.000Z",
-    "Last edited (experts say)": "2020-09-16T13:22:30.000Z",
-    "What our experts say wordcount": 163,
+    "Last edited (experts say)": "2020-11-10T03:31:06.000Z",
+    "What our experts say wordcount": 0,
     "Background and context wordcount": 147,
     "Other resources wordcount": 48,
-    "Wordcount": 358,
-    "Last modified": "2020-09-16"
+    "Wordcount": 195,
+    "Last modified": "2020-11-10"
   },
   {
     "id": "rec676VflF3k3p4Kj",
@@ -12114,7 +12120,7 @@
       "USA"
     ],
     "Background and context": "Many people are turning to outdoor activities and exercise, given the current restrictions on many indoor activities due to preventative measures implemented during the COVID-19 pandemic. In some locations, policies have closed or reduced access to beaches, lakes, and public pools. These policies not only vary by location, but can change over time based on the current state of COVID-19 cases and healthcare capacity to respond. In many locations that shut down beaches and pools earlier in the pandemic, restrictions are now lifting as places reopen. Stricter preventative measures may have to be re-implemented if infections increase again. People who wish to swim, surf, and do other water sports can check on the latest guidance for their location from the appropriate government and public health institutions.\n",
-    "What our experts say": "It is possible for SARS-CoV-2, the virus that causes COVID-19, to be present in contaminated water, such as sewage discharge. The risk of becoming infected with COVID-19 from doing activities in water, such as swimming or surfing, may depend on the levels of contamination in the body of water. In most bodies of water where swimming, surfing and other water sports are allowed, such contamination is likely to be diluted, posing a relatively low risk for COVID-19 transmission. The U.S. Centers for Disease Control and Prevention (CDC) says that there is currently no evidence of human COVID-19 transmission happening through recreational waters.\n\nBeyond water contamination, doing water sports can carry risks of COVID-19 infection from being in contact with other people. As the risk of transmission between people may be greater than the risk of transmission from contaminated water, public health policies for beaches and pools often recommend maintaining physical distance (sometimes at more than 2 meters, due to wind), wearing face coverings when not in the water, and avoiding or regularly cleaning any shared facilities and equipment. In general, the risk of COVID-19 infection is greater in places that are crowded (ex. indoor facilities, small pools and hot tubs, water parks, docks, busy beaches).\n\nTo prevent COVID-19 infection while swimming, surfing, and doing other water sports, follow public health guidance about where to safely pursue such activities while maintaining physical distance and hygiene practices.\n",
+    "What our experts say": "This vaccine requires an initial injection followed by a secondary shot called a “booster” to achieve its full level of protection. The clinical trial includes more than 43,000 volunteer participants, many of whom have already received two doses of the vaccine. In the interim analysis, there were 94 cases of COVID-19 in trial participants, and the study will continue until there have been 164 cases of COVID-19 among study volunteers.\n",
     "Glossary Terms": [
       "rec8jvvjIb2QmeUrA",
       "recFIn1ipbOFsoZsR"
@@ -12128,27 +12134,27 @@
     ],
     "Other resources": "1. Visiting Beaches and Pools ([U.S. CDC](http://cdc.gov/coronavirus/2019-ncov/daily-life-coping/beaches-pools.html))\n2. Considerations for Public Pools, Hot Tubs, and Water Playgrounds During COVID-19 ([U.S. CDC](http://cdc.gov/coronavirus/2019-ncov/community/parks-rec/aquatic-venues.html)))\n3. Early Studies Suggest Outdoor Environments are Low Risk for COVID-19 ([Surfer Magazine](http://surfer.com/features/early-studies-suggest-outdoor-environments-are-low-risk-for-covid-19/))\n",
     "Last edited (simplified)": "2020-09-16T13:53:48.000Z",
-    "Last edited (experts say)": "2020-09-16T13:53:48.000Z",
-    "What our experts say wordcount": 233,
+    "Last edited (experts say)": "2020-11-10T03:31:06.000Z",
+    "What our experts say wordcount": 70,
     "Background and context wordcount": 126,
     "Other resources wordcount": 32,
-    "Wordcount": 391,
-    "Last modified": "2020-09-16"
+    "Wordcount": 228,
+    "Last modified": "2020-11-10"
   },
   {
     "id": "reczJf2HdOHuyl5dx",
     "Question": "What does the northern hemisphere entering its colder season mean for the spread of COVID-19?",
     "Status": "In progress",
     "Background and context": "The SARS-CoV-2 virus is known to be transmissible in all climates and it cannot be called \"seasonal\" at this point. Some lab experiments also showed that SARS-CoV-2 may be sensitive to temperature, humidity, and ultraviolet light. This leads people to believe that climatic effects could protect people from transmission. However, while experimental evidence can show environmental sensitivity, on a larger scale in the real world the effects of climate on COVID-19 appear to be negligible. \n",
-    "What our experts say": "Scientists have not yet determined the exact seasonal implications on the spread of the virus, but COVID-19 is known to spread in cold as well as warm climates. \n\nA host of different factors, including changes in human behavior during different seasons, have to be kept in mind when considering the transmission in different climates. \n\nOne possibility is that transmission may increase, because people spending more time indoors during colder months, and the virus has been seen to spread more easily indoors than outdoors. Another possible but unconfirmed scenario could be that some infected people, who may have been out in public spaces during warmer months, will now remain indoors in the winter and actually reduce community transmission. It is hard to know what will happen as winter hits the northern hemisphere.\n\nCoupled with the onset of the winter influenza season in the northern hemisphere, COVID-19 could potentially over-burden health care systems and cause panic when people fall sick, since clinical symptoms for the flu and COVID-19 are similar. There are also chances of people getting both COVID-19 and the flu at once.\n\nAlternately, with many social distancing and travel restrictions still in place, along with the widespread use of masks in many regions, the spread of the flu might actually be deterred this year, as was the case with the southern hemisphere's winter season.\n",
+    "What our experts say": "\n",
     "Other resources": "1. Transmission Dynamics of Coronavirus Disease 2019 (COVID-19) in the World: The Roles of Intervention and Seasonality ([medRxiv](https://www.medrxiv.org/content/10.1101/2020.07.17.20156430v1))\n2. How will COVID-19 affect the coming flu season? Scientists struggle for clues ([Science)](https://www.sciencemag.org/news/2020/08/how-will-covid-19-affect-coming-flu-season-scientists-struggle-clues)\n3. Misconceptions about weather and seasonality must not misguide COVID-19 response ([Nature](https://www.nature.com/articles/s41467-020-18150-z.pdf))\n4. Will the spread of covid-19 be affected by changing seasons? ([NewScientist](https://www.newscientist.com/article/2239380-will-the-spread-of-covid-19-be-affected-by-changing-seasons/))\n5. Is COVID-19 a seasonal disease? ([WEF](https://www.weforum.org/agenda/2020/07/does-covid-19-thrive-in-cold-weather/))\n",
     "Last edited (simplified)": "2020-09-16T15:20:51.000Z",
-    "Last edited (experts say)": "2020-09-16T22:10:28.000Z",
-    "What our experts say wordcount": 222,
+    "Last edited (experts say)": "2020-11-10T03:31:06.000Z",
+    "What our experts say wordcount": 0,
     "Background and context wordcount": 75,
     "Other resources wordcount": 58,
-    "Wordcount": 355,
-    "Last modified": "2020-09-16"
+    "Wordcount": 133,
+    "Last modified": "2020-11-10"
   },
   {
     "id": "receDZXkDnG0f1EKj",
@@ -12189,7 +12195,7 @@
       "China"
     ],
     "Background and context": "Previous research published before the pandemic found that people may involuntarily touch their eyes several times per hour. A study from China was published in mid-September 2020 where researchers suggested that wearing glasses may prevent people from touching their eyes, and recommended paying more attention to potential COVID-19 exposure through the eyes.\n\nDuring the COVID-19 pandemic, public health and medical experts have recommended that everyone try to avoid touching their face and eyes, whether they wear glasses or not, to reduce the possibility of contaminated hands infecting the body. This recommendation complements other recommendations to keep hands clean with regular hand washing or sanitizing, and to maintain distance from other people when possible.\n",
-    "What our experts say": "There is not enough data and research on how wearing glasses contributes to COVID-19 exposure to change public health recommendations. However, in a recent study of about 279 patients with COVID-19 in China, researchers found that a smaller proportion (5.8%) of the patients wore glasses than the estimated proportion (31.5%) of people who wear glasses in the general population. In this study, researchers focused on people who wear glasses for at least 8 hours a day and hypothesized that people who wear glasses may touch their eyes less frequently, reducing potential exposure because the eyes are a pathway for the virus to enter the body.\n\nHowever, the researchers acknowledge that the study has several limitations and cannot determine whether glasses actually cause a reduction in COVID-19 infections. The limitations include a relatively small number of participating patients in the study, its reliance on older research to estimate rates of wearing glasses in the local population, and also an absence of studied patients who use contact lenses instead of glasses.\n\nIt is not yet clear whether people who need vision correction should use glasses over contact lenses during the pandemic. Healthcare workers currently recommend that people use what is comfortable, clean glasses and contact lenses, and avoid touching the face and eyes as much as possible. \n\nThe recommendation to avoid touching the face and eyes as much as possible also applies to people who do not need any vision correction, such as glasses or contact lenses.\n\nAdditionally, many recommendations for wearing eye protection, such as safety goggles, currently focus on first responders and people in higher-risk occupations rather than the general public. More research may be needed before changing public health recommendations to include eye protection for the general public in addition to first responders. Masks and face coverings are still recommended for everyone, except very young children and people with certain medical conditions.\n\nResearchers continue to study preventative measures that may be effective for reducing COVID-19 transmission, and public health recommendations are being revised accordingly.\n",
+    "What our experts say": "Because the news about this vaccine is still early, there is still a lot we don't know. Remaining questions include when the vaccine might be available for everyone, if it will work in children younger than 12 (as they have been excluded from the early trials), if it will stop the virus from spreading in people who are infected but don't have any symptoms (asymptomatic), if it will prevent people from developing severe cases, and how long the vaccine might offer protection from the the virus.\n",
     "Glossary Terms": [
       "recORiIMwk54TDQB6",
       "recvwSSjn9ohOm9fK",
@@ -12204,12 +12210,12 @@
     ],
     "Other resources": "1. Association of Daily Wear of Eyeglasses With Susceptibility to Coronavirus Disease 2019 Infection ([JAMA](https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2770872))\n2. Face touching: a frequent habit that has implications for hand hygiene ([American Journal of Infection Control](https://linkinghub.elsevier.com/retrieve/pii/S0196655314012814))\n",
     "Last edited (simplified)": "2020-09-17T20:52:06.000Z",
-    "Last edited (experts say)": "2020-09-18T13:40:34.000Z",
-    "What our experts say wordcount": 331,
+    "Last edited (experts say)": "2020-11-10T03:31:06.000Z",
+    "What our experts say wordcount": 86,
     "Background and context wordcount": 112,
     "Other resources wordcount": 31,
-    "Wordcount": 474,
-    "Last modified": "2020-09-18"
+    "Wordcount": 229,
+    "Last modified": "2020-11-10"
   },
   {
     "id": "recSCMovWVO7VKvPB",
@@ -12221,7 +12227,7 @@
       "USA"
     ],
     "Background and context": "Wildfires have continued to burn across the West Coast of the United States through September 2020, leading to evacuation orders for large areas, widespread displacement, and destruction of property, in addition to an increase in air pollution. In California alone, 3.3 million acres have burned since the beginning of 2020.\n\nNatural disasters such as wildfires can cause significant long-term damage to lungs. Wildfire smoke has small particles that are 2.5 microns (microscopic) in size, but they can be inhaled deep into the lungs and cause inflammation in the airways. This is particularly harmful for people with pre-existing health conditions or respiratory problems, and there is some evidence to indicate that it can increase the risk of respiratory problems. While it is too early to determine the impact of wildfire smoke on COVID-19 symptoms, some experts worry it could increase the severity of existing symptoms. \n",
-    "What our experts say": "Wildfires can cause a range of respiratory issues and increase the severity of COVID-19 symptoms, but public health experts also worry that widespread evacuations may contribute to an increased risk of spreading the virus. \n\nNatural disasters such as hurricanes and wildfires can often lead to crowded grocery stores and overcrowded emergency shelters, which make it harder for populations to follow social distancing guidelines. Sheltering-in-place or remaining inside a home may not be possible in a natural disaster. People who are evacuating may be temporarily placed in emergency shelters, which can increase the risk of getting infected with the coronavirus. When entire populations migrate during an emergency situation, both the population that is fleeing and the local population receiving internally displaced people can be at heightened risk of transmission. One scientific study indicated that places like Harris County, Texas are at a high risk of hurricanes and  simultaneously have a large proportion of COVID-19 cases. While there are no detailed studies looking specifically at COVID-19 transmission following evacuation orders afters the recent 2020 wildfires on the West Coast of the United States, public health authorities worry about a potential spike in cases. \n",
+    "What our experts say": "\n",
     "Glossary Terms": [
       "rec2UNEXbTkSCx30Q",
       "recOcmLKbzV6NUkAH"
@@ -12236,12 +12242,12 @@
     ],
     "Other resources": "1. Wildfire Smoke and COVID-19 ([U.S. CDC](https://www.cdc.gov/disasters/covid-19/wildfire_smoke_covid-19.html))\n2. What to Know About Wildfire Smoke and COVID-19 ([UCSF](https://www.ucsf.edu/news/2020/08/418276/what-know-about-wildfire-smoke-and-covid-19))\n3. Hurricanes and Wildfires Are Compounding COVID-19 Risks ([Scientific American](https://www.scientificamerican.com/article/hurricanes-and-wildfires-are-compounding-covid-19-risks/))\n",
     "Last edited (simplified)": "2020-09-17T17:35:01.000Z",
-    "Last edited (experts say)": "2020-09-18T13:42:35.000Z",
-    "What our experts say wordcount": 193,
+    "Last edited (experts say)": "2020-11-10T03:31:06.000Z",
+    "What our experts say wordcount": 0,
     "Background and context wordcount": 144,
     "Other resources wordcount": 25,
-    "Wordcount": 362,
-    "Last modified": "2020-09-18"
+    "Wordcount": 169,
+    "Last modified": "2020-11-10"
   },
   {
     "id": "rec8wGyjeDolqSj8b",
@@ -12955,7 +12961,7 @@
       "USA"
     ],
     "Background and context": "Doctors and scientists have known for months that COVID-19 can cause widespread impacts on an infected person's immune system. With autoantibodies created in response to the virus, the body cannot determine the difference between itself and COVID-19 (non-self). This might make symptoms like inflammation much worse, even causing long-term physical challenges and much more serious cases. Though the recent study many of these findings stem from is a pre-print and has not yet been peer-reviewed, the authors have strong reputations in the field and were recently published in a peer-reviewed scientific journal regarding the presence of autoantibodies in severe cases of COVID-19. \n\nThese findings are important because doctors may be able to test for the presence of these tests and find out if there might be a genetic link to this type of overactive immune system response or even if a patient is more likely to have an asymptomatic case of the virus of a severe one. Doctors could also use existing tests to locate patients with autoantibodies and potentially treat them in similar ways to patients with autoimmune diseases like lupus and rheumatoid arthritis as they also produce autoantibodies and face the issue of the immune system fighting itself. As more research continues to be published in respected journals, the more opportunities doctors and scientists have for pinpointing the pathways of the virus and how it impacts certain groups of people but not others.\n",
-    "What our experts say": "When a foreign threat - an antigen - like bacteria or a virus attacks a person, their body's immune system responds in several ways. One of these ways is through the release of antibodies: proteins in the body that help fight off and clear out the threat from the body. In the case of COVID-19,  some people's immune system produces a type of antibody called an autoantibody that works to fight against the body instead of the virus. As of now, scientists are unsure if a person's genetic background might cause them to produce autoantibodies, if their presence has to do with a viral infection, hormonal responses, exposure to a variety of environmental issues, some combination or these things, or something else, much like some autoimmune diseases. This immune response might make cases of COVID-19 more severe, causing dangerous symptoms like serious inflammation, excessive cell death, and long-term effects in people who produced autoantibodies as part of their immune system's response to the COVID-19 antigen.\n\nNormally, the body will produce B cells (a major part of the immune system that helps activate the immune response to destroy antigens) in response to the virus. These B cells then create antibodies when they identify a genetic piece of the virus through its DNA and latches onto it. However, a recent pre-print study suggests that in some people with an abnormal response to the virus, they create unique B cells that produce autoantibodies that latch onto the DNA of dead cells from their body, not the RNA from the virus. These autoantibodies might cause the body to attack itself, causing the immune system to then have to fight off both the virus and its own response to its cells. At this time, it is unknown if these antibodies cause permanent or long lasting damage in patients similar to autoimmune diseases such as lupus or rheumatoid arthritis. Doctors do have options for treating excessive immune responses like this, including medications and treatments that help balance the actions of the immune system to an appropriate level (with the goal of stopping its attack on its own cells and stopping the progression of the virus). But since there is only one U.S. Food and Drug Administration approved medication to treat COVID-19 (Remdesivir), much more research must be completed on this phenomenon before any medications or approaches can effectively treat it. \n\n",
+    "What our experts say": "\n",
     "Glossary Terms": [
       "reclilEKmEDvsjnzW",
       "recaXXF6coF4J2EUz",
@@ -12971,11 +12977,276 @@
     ],
     "Other resources": "1. Inborn errors of type I IFN immunity in patients with life-threatening COVID-19 ([Science](https://science.sciencemag.org/content/370/6515/eabd4570)) \n2. Autoantibodies against type I IFNs in patients with life-threatening COVID-19 ([Science](https://science.sciencemag.org/content/370/6515/eabd4585)) \n3. Scientists discover genetic and immunologic underpinnings of some cases of severe COVID-19 ([U.S. NIH](https://www.nih.gov/news-events/news-releases/scientists-discover-genetic-immunologic-underpinnings-some-cases-severe-covid-19)) \n4. Some Covid Survivors Have Antibodies That Attack the Body, not Virus ([NYT](https://www.nytimes.com/2020/10/27/health/covid-antibodies-autoimmunity.html)) \n5. Do cross-reactive antibodies cause neuropathology in COVID-19? ([Nature](https://www.nature.com/articles/s41577-020-00458-y)) \n6. Clinically identifiable autoreactivity is common in severe SARS-CoV-2 Infection ([medRxiv](https://www.medrxiv.org/content/10.1101/2020.10.21.20216192v2)) \n",
     "Last edited (simplified)": "2020-10-29T07:40:35.000Z",
-    "Last edited (experts say)": "2020-10-29T07:40:35.000Z",
-    "What our experts say wordcount": 395,
+    "Last edited (experts say)": "2020-11-10T03:31:06.000Z",
+    "What our experts say wordcount": 0,
     "Background and context wordcount": 234,
     "Other resources wordcount": 75,
-    "Wordcount": 704,
-    "Last modified": "2020-10-29"
+    "Wordcount": 309,
+    "Last modified": "2020-11-10"
+  },
+  {
+    "id": "recGJZyxcGglnEryM",
+    "Question": "What does it mean for Pfizer's vaccine results to be 90% effective? ",
+    "Status": "Published",
+    "Category": "Vaccines",
+    "Source of the question": [
+      "Expert Recommendation"
+    ],
+    "Country question was sourced from": [
+      "USA"
+    ],
+    "Background and context": "Vaccine efficacy and vaccine effectiveness are similar terms, but the differences between them are important to note when we are learning about new vaccines to prevent COVID-19. The term “vaccine efficacy” is used to measure how well a vaccine works to prevent a particular disease (in this case, COVID-19) in controlled, research environments. “Vaccine effectiveness” studies examine how well a vaccine prevents a particular disease in the “real world” community environment where people are doing things like going to the grocery store, work, and school. \n\nIn the recently published interim report from Pfizer’s experimental COVID-19 vaccine trial, the vaccine efficacy was reported at 90%, which means that people who were vaccinated in the study are much less likely to contract COVID-19 than the control group, who were not vaccinated with the experimental drug. Using an example of 100 trial participants in a given trial of a vaccine with 90% efficacy, 90 patients would not contract the disease and 10 would contract COVID-19. \n\nIf this vaccine receives U.S. Food and Drug Administration (U.S. FDA) approval and is distributed to large populations around the world, scientists will then be able to calculate vaccine effectiveness in real-world settings. The U.S. FDA has set the minimum efficacy requirement at 50% for potential COVID-19 vaccines, though many hope that the vaccines currently in development will exceed this target. Real world vaccine effectiveness is a much more reliable and accurate term for telling us how helpful a vaccine is at preventing disease in daily life-; not just in a controlled, research setting.\n\nLike the flu vaccine, an effective COVID-19 vaccine may also help to reduce the severity of disease for those who do become infected, which may keep patients out of the hospital or out of intensive care. The goal of vaccines is to protect populations from diseases, and this vaccine is no different. Whether or not it will be successful depends on its study results (which are evaluated by the U.S. FDA), distribution among different people in different settings, how many people agree to receive the vaccine, how long its protection lasts, and many other elements that vary by each country. \n",
+    "What our experts say": "On November 9th, 2020, Pfizer announced that its experimental COVID-19 vaccine (BNT162b2) prevented infection in 90% of participants who received the drug company’s late-stage clinical trial dose. These early results exceeded the minimum United States Food and Drug Administration (U.S. FDA) target of 50% efficacy—but it is important to reiterate that no vaccine is ever 100% effective. It is impossible to know how well a vaccine actually works until it is deployed  in the real world and given to large populations, not just volunteer participants in a trial. \n\nWhile the current data is promising, the study is ongoing, and more information is needed before Pfizer can pursue U.S. FDA approval. To ensure that there are not major safety concerns, the U.S. FDA is requiring manufacturers to provide at least two months of follow-up data for at least half of the volunteer participants. Most serious side effects from vaccines occur within about six weeks after the vaccine is given. In vaccine clinical trials, any observed impacts of the vaccine on volunteer participants are eventually considered side effects with more serious side effects causing the trials to pause or stop completely. No safety concerns about these potential side effects have been reported so far.\n\nBecause the news about this vaccine is still early, there is still a lot we don't know. Remaining questions include when the vaccine might be available for everyone, if it will work in children younger than 12 (as they have been excluded from the early trials), if it will stop the virus from spreading in people who are infected but don't have any symptoms (asymptomatic), if it will prevent people from developing severe cases, and how long the vaccine might offer protection from the the virus.\n\nThis vaccine requires an initial injection followed by a secondary shot called a “booster” to achieve its full level of protection. The clinical trial includes more than 43,000 volunteer participants, many of whom  already received two doses of the vaccine. In the interim analysis, there were 94 cases of COVID-19 in trial participants, and the study will continue until there have been 164 cases of COVID-19 among study volunteers.\n\nIt is important to note that these study results may not play out the same under “real life” circumstances because of differences in health status, weight, age, and other factors across communities. While Pfizer has reported that 42% of participants are from “diverse backgrounds,” the study population may not reflect the diversity of our global populations and  communities.\n",
+    "Glossary Terms": [
+      "rec9qqItwSTjq3Eae",
+      "recpDS35Y5vAuQ7Oa"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "vaccine",
+      "immunity"
+    ],
+    "Other resources": "1. Vaccine efficacy or vaccine effectiveness ([CDC](https://www.cdc.gov/csels/dsepd/ss1978/lesson3/section6.html)) \n2. How Flu Vaccine Effectiveness and Efficacy are Measured ([CDC](https://www.cdc.gov/flu/vaccines-work/effectivenessqa.htm))\n3. Overview of Vaccine Efficacy and Vaccine Effectiveness ([WHO](https://www.who.int/influenza_vaccines_plan/resources/Session4_VEfficacy_VEffectiveness.PDF))\n4. What does COVID-19 vaccine efficacy mean? ([Science News](https://www.sciencenews.org/article/coronavirus-what-does-covid-19-vaccine-efficacy-mean))\n5. What defines an efficacious COVID-19 vaccine? A review of the challenges assessing the clinical efficacy of vaccines against SARS-CoV-2 ([The Lancet](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30773-8/fulltext))\n6. A COVID-19 Vaccine May Be Only 50% Effective. Is That Good Enough? ([NPR](https://www.npr.org/sections/health-shots/2020/09/12/911987987/a-covid-19-vaccine-may-be-only-50-effective-is-that-good-enough))\n7. Pfizer’s Covid Vaccine: 11 Things You Need to Know ([New York Times](https://www.nytimes.com/2020/11/09/health/pfizer-covid-19-vaccine.html))\n",
+    "Last modified manual": "2020-11-10",
+    "Last edited (simplified)": "2020-11-10T14:24:24.000Z",
+    "Last edited (experts say)": "2020-11-10T14:29:55.000Z",
+    "What our experts say wordcount": 412,
+    "Background and context wordcount": 353,
+    "Other resources wordcount": 79,
+    "Wordcount": 844,
+    "Last modified": "2020-11-10"
+  },
+  {
+    "id": "recSCWgMrGT3yvFkH",
+    "Question": "Birth and infant outcomes following COVID-19 ",
+    "Status": "Published",
+    "Category": "Research",
+    "Subcategory": "On: COVID-19 & pregnancy",
+    "Country question was sourced from": [
+      "USA"
+    ],
+    "Background and context": "Research has shown that pregnant individuals may be at increased risk of contracting COVID-19 and becoming severely ill as a result of the infection. People who are older, overweight, or have other pre-existing medical conditions like high blood pressure or diabetes are also at increased risk. \n\nSince the start of the pandemic, multiple studies have observed that infants born to birth givers diagnosed with COVID-19 during pregnancy are more likely to be born prematurely (<37 weeks’ gestation) than infants born to birth givers who have not had COVID-19. The reasons for premature delivery are not well understood at this time. It is also not well understood if maternal COVID-19 passes to the infant during pregnancy or delivery. Though studies have documented some cases where infants tested positive for COVID-19 after birth, limited data is available. \n** **\nWhile the impact of COVID-19 on pregnancy outcomes remains under investigation, the US Centers for Disease Control and Prevention (CDC) continues to encourage pregnant women to attend prenatal care appointments; practice handwashing, social distancing, and mask wearing; and avoid crowds especially in indoor areas to prevent COVID-19 infection. In addition, the CDC recommends that doctors and healthcare providers should be aware of the possible risks for severe illness among pregnant people.\n",
+    "What our experts say": "Maternal COVID-19 infection during pregnancy may be a risk factor for premature birth. According to current U.S. data (as of November 6th, 2020), 12.9% of infants born to individuals who had been diagnosed with COVID-19 during pregnancy were born prematurely (<37 weeks gestation), which is greater than the national estimate of 10.2%.\n\nIn November 2020, the US Centers for Disease Control and Prevention (CDC) released outcomes data for infants born to birth givers who had been diagnosed with COVID-19 during pregnancy. The data was collected between March and October of 2020 and included a total of 3,912 infants. Incidence of prematurity in study participants was higher than average, which suggests that maternal COVID-19 infection may be a risk factor for prematurity. \n\nIn the U.S., COVID-19 has not impacted all communities equally; non-Hispanic Black and Hispanic communities have been unduly impacted by the virus. Racial and ethnic disparities also exist in overall health outcomes and impact maternal morbidity, mortality, and adverse birth outcomes. In this study, non-Hispanic Black and Hispanic women were disproportionately represented, and the authors note that further observation and analysis of outcomes by race and ethnicity is needed.\n\nWhile the impact of COVID-19 on pregnancy outcomes remains under investigation, the CDC continues to encourage pregnant people to attend prenatal care appointments; practice handwashing, social distancing, and mask wearing; and avoid crowds especially in indoor areas to prevent COVID-19 infection. They also suggest that providers counsel pregnant individuals on steps to prevent COVID-19 infection.\n",
+    "Glossary Terms": [
+      "recnFUXyIZy81Rj1I",
+      "rec2UNEXbTkSCx30Q",
+      "recz6wQ17eV2G7r6w"
+    ],
+    "Variation of the answer depending on country of residence": "No\t\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "pregnancy",
+      "infant",
+      "infection",
+      "virus",
+      "transmission",
+      "racial disparities"
+    ],
+    "Other resources": "1. Coronavirus disease (COVID-19): Pregnancy and childbirth ([WHO](https://www.who.int/news-room/q-a-detail/coronavirus-disease-covid-19-pregnancy-and-childbirth))\n2. Characteristics and Maternal and Birth Outcomes of Hospitalized Pregnant Women with Laboratory-Confirmed COVID-19- COVID-NET, 13 States, March 1-August 22, 2020 ([US CDC](https://www.cdc.gov/mmwr/volumes/69/wr/mm6938e1.htm?s_cid=mm6938e1_w))\n3. Clinical manifestations, risk factors, and maternal and perinatal outcomes of coronavirus disease 2019 in pregnancy: living systematic review and meta-analysis ([BMJ](https://www.bmj.com/content/370/bmj.m3320))\n4. SARS-CoV-2 Infection Among Hospitalized Pregnant Women: Reasons for Admission and Pregnancy Characteristics- Eight U.S. Health Care Centers March 1-May 30, 2020 ([US CDC](https://www.cdc.gov/mmwr/volumes/69/wr/mm6938e2.htm?s_cid=mm6938e2_w))\n5. Birth and Infant Outcomes FollowingLaboratory-Confirmed SARS-CoV-2 Infection in Pregnancy- SET-NET, 16 Jurisdictions, March 29-October 14, 2020 ([US CDC](https://www.cdc.gov/mmwr/volumes/69/wr/mm6944e2.htm?s_cid=mm6944e2_w)) \n",
+    "Last modified manual": "2020-11-11",
+    "Last edited (simplified)": "2020-11-11T15:11:08.000Z",
+    "Last edited (experts say)": "2020-11-11T15:11:08.000Z",
+    "What our experts say wordcount": 242,
+    "Background and context wordcount": 204,
+    "Other resources wordcount": 93,
+    "Wordcount": 539,
+    "Last modified": "2020-11-11"
+  },
+  {
+    "id": "recK4fRfTEqhsS3G2",
+    "Question": "Does air pollution increase your risk of getting COVID-19?",
+    "Status": "Published",
+    "Background and context": "Outdoor air pollution has adverse health consequences. According to the WHO the smallest type of pollution, with a diameter of less than 10 microns, poses the greatest risks to health. The tiny particles are able to travel deep into respiratory tracts. Long exposure to that pollution is known to cause and exacerbate respiratory conditions and even heart conditions.\n\nOutdoors, fine particles may be emitted through exhausts of various vehicles and equipment, burning of wood, coal, or reactions of gases at power plants. Sometimes, fine particles can also be carried over long distances by wind. Indoors, fine particles can be generated from tobacco smoke, cooking, burning candles or fireplaces. \n\nDensely populated urban areas and industrial areas are known to have higher levels of fine particulate matter in general.\n",
+    "What our experts say": "Urban air-pollution is known to increase vulnerability to respiratory syndromes. Several studies show that long-term exposure to fine particulate matter (bad air or air pollution) is a leading risk factor for death, especially among the elderly.\n\nExposure to high levels of bad air pollution damages human airways, causes chronic inflammation and could weaken pulmonary immune response. It has been reported that individuals with preexisting respiratory conditions are more susceptible to COVID-19. Studies conducted in China, Italy, and the United States show a correlation between increase in particulate matter and an increase in the number of COVID-19 cases.  However, the United States study notes that the findings are for county-level populations and cannot be used to link individual cases to air pollution. More studies will need to be conducted for that. \n\nImportantly, COVID-19 cannot be linked directly to air-pollution. No research shows that reducing air pollution leads to fewer COVID-19 deaths.\n\n",
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "lungs",
+      "respiratory system"
+    ],
+    "Other resources": "1. Assessing the relationship between surface levels of PM2.5 and PM10 particulate matter impact on COVID-19 in Milan, Italy ([Science Direct - Science of the Total Environment](https://www-sciencedirect-com.ezp-prod1.hul.harvard.edu/science/article/pii/S0048969720333453))\n2. Air pollution and COVID-19 mortality in the United States: Strengths and limitations of an ecological regression analysis ([Science Advances](https://advances.sciencemag.org/content/6/45/eabd4049))\n3. Evaluating the impact of long-term exposure to fine particulate matter on mortality among the elderly ([Science Advances](https://advances.sciencemag.org/content/6/29/eaba5692?ijkey=a48261a69074ca56ec53969031f037ddf71fc21a&keytype2=tf_ipsecsha))\n4. Linkages Between Air Pollution and the Health Burden From COVID-19: Methodological Challenges and Opportunities ([American Journal of Epidemiology](https://academic.oup.com/aje/article/189/11/1238/5872672))\n5. Can exposure to PM2.5 particles increase the incidence of coronavirus disease 2019 (COVID-19)? ([Science of the Total Environment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7308784/)) \n6. Air Pollution ([WHO](https://www.who.int/airpollution/ambient/pollutants/en/))\n",
+    "Last modified manual": "2020-11-17",
+    "Last edited (simplified)": "2020-11-18T02:51:17.000Z",
+    "Last edited (experts say)": "2020-11-18T02:51:17.000Z",
+    "What our experts say wordcount": 150,
+    "Background and context wordcount": 126,
+    "Other resources wordcount": 103,
+    "Wordcount": 379,
+    "Last modified": "2020-11-18"
+  },
+  {
+    "id": "rec0CA3DO8hiIjlta",
+    "Question": "Can wearing a mask with Teflon (PTFE) increase your risk of getting cancer?",
+    "Status": "Published",
+    "Category": "masks",
+    "Subcategory": "Masks",
+    "Source of the question": [
+      "Social Media"
+    ],
+    "Country question was sourced from": [
+      "USA"
+    ],
+    "Background and context": "On October 31, Kourtney Kardashian re-shared a post on her Instagram story to her 103 million followers with the false claim that common blue surgical masks contain PTFE, and that wearing them increases your risk of certain cancers, such as breast cancer, other diseases, such as preeclampsia, thyroid disease, as well as flu-like symptoms. While the post claims this information is from Cancer.org, that claim is false, and there is otherwise no identifiable source. \n\nThough this false claim had already been circulating, particularly on social media platforms such as Facebook and Twitter, the wide reach of Kourtney’s Instagram amplified it and coverage both by the public and news sources has increased. \n",
+    "What our experts say": "Wearing a mask with polytetrafluoroethylene (PTFE) does not increase your risk of getting cancer or any other negative health outcome. PTFE is the polymer that also makes Teflon, the brand name of a non-stick chemical coating commonly used on kitchen appliances such as pots and pans. While some masks are sprayed with PTFE or have a PTFE filter, as PTFE has widely been used in the field of air filtration, it would take a mask with PTFE to 1) be heated to an extremely high temperature — 300 to 400 degrees celsius or 572 to 752 degrees Fahrenheit, 2) for fumes to be released, and 3) for those fumes to be breathed in, for any ailment to be caused. \n\nThe specific condition the highly unlikely hypothetical scenario would cause is not a cancer, but rather is a flu-like ailment known as “[polymer fume fever](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4544973/),” informally known as Teflon flu. \n\nMost surgical face masks do not contain PTFE, and are made out of a different type of plastic called polypropylene. If you do have a mask that contains PTFE, there is no evidence that wearing the mask would cause any flue-like symptoms or other negative outcomes when worn properly and normally. \n",
+    "Glossary Terms": [
+      "reclKahoPRbBLqUKg",
+      "recIHiTMEF5Yjayd4"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "face masks",
+      "prevention"
+    ],
+    "Other resources": "1. Teflon in masks does not pose a health risk, unless you get it extremely hot ([Full Fact](https://fullfact.org/health/teflon-masks-symptoms/))\n2. Debunked: No, face masks 'sprayed with Teflon' are not causing flu-like symptoms ([thejournal.ie](https://www.thejournal.ie/blue-face-masks-ptfe-spray-teflon-5238881-Nov2020/)) \n3. How Surgical Masks are Made ([Thomas Net](https://www.thomasnet.com/articles/other/how-surgical-masks-are-made/#_How_are_Surgical))\n4. Preparation and properties of PTFE hollow fiber membranes for the removal of ultrafine particles in PM2.5 with repetitive usage capability ([RSC Advances](https://pubs-rsc-org.ezp-prod1.hul.harvard.edu/en/content/articlelanding/2018/RA/C8RA07789D#!divAbstract))\n5. Doctors Call Kourtney Kardashian’s Mask Conspiracy Theory “Unbelievably Dangerous” ([Refinery29](https://www.refinery29.com/en-us/2020/11/10145902/kourtney-kardashian-mask-cancer-ptfe-instagram))\n",
+    "Last modified manual": "2020-11-12",
+    "Last edited (simplified)": "2020-11-12T22:48:54.000Z",
+    "Last edited (experts say)": "2020-11-12T22:48:54.000Z",
+    "What our experts say wordcount": 200,
+    "Background and context wordcount": 111,
+    "Other resources wordcount": 71,
+    "Wordcount": 382,
+    "Last modified": "2020-11-18"
+  },
+  {
+    "id": "reccN0swQANNJwGir",
+    "Question": "Does a flu shot increase you chances of getting COVID-19?",
+    "Status": "In progress",
+    "Category": "Vaccines",
+    "Subcategory": "On: COVID-19 risk & flu vaccines",
+    "Source of the question": [
+      "Social Media"
+    ],
+    "Country question was sourced from": [
+      "United Kingdom",
+      "USA"
+    ],
+    "Glossary Terms": [
+      "rec9qqItwSTjq3Eae"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "vaccine",
+      "Influenza",
+      "United Kingdom"
+    ],
+    "What our experts say wordcount": 0,
+    "Background and context wordcount": 0,
+    "Other resources wordcount": 0,
+    "Wordcount": 0,
+    "Last modified": "2020-11-12"
+  },
+  {
+    "id": "recrz9eAiWOXKBiHx",
+    "Question": "Does wearing a mask protect the mask wearer?",
+    "Status": "Published",
+    "Category": "Prevention",
+    "Subcategory": "On: COVID-19 & face masks",
+    "Source of the question": [
+      "Expert Recommendation"
+    ],
+    "Country question was sourced from": [
+      "USA"
+    ],
+    "Background and context": "Despite several studies demonstrating that wearing a face mask could help protect both the person wearing the mask and the people around them from COVID-19, the United States Centers for Disease Control & Prevention (U.S. CDC) recently updated their guidelines to reflect the two-way protection given by masks. While face mask requirements vary with every country and region, they have been shown to help protect both wearers and the community around them. The more layers of fabric, the better the protection they offer with higher thread counts and tighter weaves increasing their effectiveness.\n\nAs masks alone cannot stop COVID-19, the U.S. CDC continues to encourage people to socially distance themselves, wash their hands for 20 seconds, and avoid touching their face.\n\n",
+    "What our experts say": "Wearing a face mask helps prevent the spread of COVID-19 in two ways: It protects the person wearing a mask from being exposed to the virus and protects the people around them from being exposed to the virus. \n\nWhen a person talks, coughs, sneezes, or even breathes, they are exposing the people around them to what is in their body through the spread of small drops of liquid, called respiratory droplets, and even smaller, drier particles that float in the air. These bigger droplets carry saliva, mucus, and other germs (like the disease that causes the COVID-19 virus) which fall to surfaces while the smaller particles tend to stay in the air for a period of time. When people inhale these droplets through their mouths, noses, or eyes or touch their face after touching a surface where droplets fell, they are exposing themselves to COVID-19 and other germs exhaled by people their area. Wearing a face mask helps prevent those particles from ever reaching your mouth and nose and can help stop people from touching their faces. We now know that masks help stop germs from getting out into common spaces while also helping masks wearers from inhaling the germs of others.\n\nIt is still important to note that though masks can be highly effective at preventing the spread of the virus, it also depends on the quality of the mask, the amount of layers it has, and how many people are wearing them in a specific area. This is why continuing to follow prevention protocols like social distancing and hand washing is still important.\n",
+    "Glossary Terms": [
+      "reclKahoPRbBLqUKg",
+      "rec2UNEXbTkSCx30Q",
+      "rech6tPR0hLDA3JH3",
+      "rec5yviiSvJkufYvu"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "transmission",
+      "prevention",
+      "aerosol",
+      "respiratory droplets",
+      "face masks",
+      "community transmission"
+    ],
+    "Other resources": "1. Scientific Brief: Community Use of Cloth Masks to Control the Spread of SARS-CoV-2 ([U.S. CDC](https://www.cdc.gov/coronavirus/2019-ncov/more/masking-science-sars-cov2.html)) \n2. Masks Work. Really. We’ll Show You How ([NYT](https://www.nytimes.com/interactive/2020/10/30/science/wear-mask-covid-particles-ul.html)) \n3. Effectiveness of Face Masks in Preventing Airborne Transmission of SARS-CoV-2 ([mSphere](https://pubmed.ncbi.nlm.nih.gov/33087517/)) \n4. Face Coverings, Aerosol Dispersion and Mitigation of Virus Transmission Risk ([arXiv](https://arxiv.org/abs/2005.10720)) \n5. Aerosol Filtration Efficiency of Common Fabrics Used in Respiratory Cloth Masks ([ACS Nano](https://pubmed.ncbi.nlm.nih.gov/32329337/)) \n6. Viral Filtration Efficiency of Fabric Masks Compared with Surgical and N95 Masks ([Pathogens](https://pubmed.ncbi.nlm.nih.gov/32957638/)) \n7. Forgotten Technology in the COVID-19 Pandemic: Filtration Properties of Cloth and Cloth Masks-A Narrative Review ([Mayo Clinic Proc](https://pubmed.ncbi.nlm.nih.gov/33012350/)) \n8. Face Masks, Public Policies and Slowing the Spread of COVID-19: Evidence from Canada ([NBER](https://www.nber.org/papers/w27891)) \n",
+    "Last modified manual": "2020-11-12",
+    "Last edited (simplified)": "2020-11-12T22:51:46.000Z",
+    "Last edited (experts say)": "2020-11-12T22:51:46.000Z",
+    "What our experts say wordcount": 263,
+    "Background and context wordcount": 120,
+    "Other resources wordcount": 112,
+    "Wordcount": 495,
+    "Last modified": "2020-11-12"
+  },
+  {
+    "id": "rec6wY0Fcw1tnLsPW",
+    "Question": "What do we know so far about Pfizer's vaccine?",
+    "What our experts say wordcount": 0,
+    "Background and context wordcount": 0,
+    "Other resources wordcount": 0,
+    "Wordcount": 0
+  },
+  {
+    "id": "recppmZ8rTsHURemn",
+    "Question": "Does the Astra Zeneca vaccine contain \"aborted male fetus\" cells?",
+    "Status": "Published",
+    "Category": "Vaccines",
+    "Subcategory": "Vaccines",
+    "Source of the question": [
+      "Newsroom"
+    ],
+    "Background and context": "In a video about the AstraZeneca COVID-19 vaccine that was shared across social media platforms, a host encouraged viewers to share false information, telling them to avoid the COVID-19 vaccine if they do not want “aborted fetal tissue fragments put into them or their DNA fragments changed.” The host also says falsely that there is aborted fetal lung tissue in the vaccine. \n\nMany different types of cells are used in medical research and vaccine production and development, and MRC-5 cells, originally obtained in 1966 from the lungs of a 14-week aborted male fetus, are used commonly. \n \nWhile there can be residual DNA in vaccines, it is not recognizable as human DNA.  Research has suggested that there could be some DNA present when a vaccine is made using cells, but the DNA exposure is unlikely to be harmful, because the DNA is very fragmented (broken into small parts). \n\nThe US Food and Drug Administration limits the size and amount of DNA in vaccines and while we are not aware of any risks associated with DNA fragments that could be present in vaccines, the exact level of risk is not defined. \n \nVaccines are widely used to prevent infections, but the development of vaccines to prevent viral infections requires special techniques to grow the viruses in the lab. Viruses do not grow (or multiply) in liquids or on agar plates (like bacteria or fungi) so, during vaccine production and development, a virus is cultured (or grown) in special cells in a laboratory. Sometimes these cells, called “cultured cells,” are grown under controlled laboratory conditions and, in some instances, are replicated from human fetal cells. Human cells are used to test vaccines because they are more accurate than animal cells for testing a virus’ infection in humans and are considered safer in comparison.\n",
+    "What our experts say": "The AstraZeneca COVID-19 vaccine (AZD1222) does not contain human cells or tissues. During vaccine production, the virus gets cultured (or grown) in laboratory cells called MRC-5 cells, and is then collected to make the vaccine. However, there is no evidence that these cells are present in the vaccine itself.\n\nThe MRC-5 cells were collected in 1966 from the lung tissue of a 14-week aborted male fetus. Since then, labs have reproduced those cells for some medical purposes, including research and vaccine development. The MRC abbreviation refers to the Medical Research Council (MRC) in London.\n \nMRC-5 culture cells are not part of the vaccine itself. The cells are killed before a patient receives a vaccine, dying either from being burst by the virus trying to be released, or from a filtering and purification process that breaks down the cellular pieces and any remaining DNA before a vaccine is deployed to humans.\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "vaccine"
+    ],
+    "Other resources": "1. MRC-5 (ATCC CCL-171) ([ATCC](https://www.atcc.org/Products/All/CCL-171.aspx?geo_country=us#characteristics))\n2. Vaccine Ingredients- DNA ([Children’s Hospital of Philadelphia](https://www.chop.edu/centers-programs/vaccine-education-center/vaccine-ingredients/dna))\n3. Vaccines and Related Biological Products Advisory Committee 154th Meeting ([FDA](https://www.fda.gov/media/120334/download))\n4. Bioethics News: Is it true that there are vaccines produced using aborted fetus cells? ([Bioethics Research Laboratory, Georgetown University](https://bioethics.georgetown.edu/2017/01/is-it-true-that-there-are-vaccines-produced-using-aborted-fetuses/))\n5. Vaccine Ingredient- Fetal Tissues ([Children’s Hospital of Philadelphia](https://www.chop.edu/centers-programs/vaccine-education-center/vaccine-ingredients/fetal-tissues))\n",
+    "Last modified manual": "2020-11-16",
+    "Last edited (simplified)": "2020-11-16T20:57:51.000Z",
+    "Last edited (experts say)": "2020-11-16T21:02:32.000Z",
+    "What our experts say wordcount": 147,
+    "Background and context wordcount": 295,
+    "Other resources wordcount": 49,
+    "Wordcount": 491,
+    "Last modified": "2020-11-16"
+  },
+  {
+    "id": "recYE4J6Nh1lta1lB",
+    "Question": "What do we know so far about Astra Zeneca's vaccine?",
+    "Status": "Published",
+    "Category": "Prevention",
+    "Subcategory": "On: COVID-19 & AstraZeneca vaccine",
+    "Source of the question": [
+      "Expert Recommendation"
+    ],
+    "Country question was sourced from": [
+      "USA"
+    ],
+    "Background and context": "As the race for new COVID-19 vaccines continues, several candidates have recently made headlines with their positive reporting. However, the collaboration between the University of Oxford and AstraZeneca was forced to pause for several weeks during September of 2020 when a United Kingdom volunteer who had received the vaccine reportedly experienced spinal cord inflammation. This was allegedly similar to another neurological event that had happened previously in a vaccinated volunteer. However, these events were determined to be unrelated to the vaccine, so most study sites restarted their trial. The trial in the United States continued with a longer pause, but no definite reason was given for this delay. United States trial sites resumed their studies in late October of 2020.\n\nAzstraZeneca has already reached agreements with several nations to deliver up to 2 billion doses of its vaccine if it is approved. It has already begun manufacturing the vaccine in large quantities so it can be rapidly deployed if regulatory agencies confirm that it is effective.\n\n\n",
+    "What our experts say": "The University of Oxford and its manufacturing partner (British-Swedish pharmaceutical company AstraZeneca) are testing a potential vaccine for COVID-19 called ChAdOx1/AZD1222. This vaccine was developed using an adenovirus—a weakened, harmless virus that usually causes the common cold in chimpanzees—as a way to transport the vaccine's ingredients into the human body. This type of vaccine is called a \"vector vaccine,\" because the adenovirus serves as the vector (or vehicle) for getting the drug into human cells. The adenovirus can stimulate a response from a person's immune system when their body detects it in cells. \n\nWhen the vaccine is injected, it penetrates into the body and gives a blueprint (DNA) for how to defend itself against COVID-19. In this case, that means the cells start to produce club-shaped spike proteins found in coronaviruses, including COVID-19. These three-dimensional spike proteins are so similar to a normal COVID-19 infection that it causes inflammation and the creation of antibodies and T cells. Then when a vaccinated person is eventually exposed to COVID-19, their body would attack the virus because it already recognizes how to respond to those spike proteins, and can fight against them to prevent infection. \n\nEssentially, the vaccine helps train human bodies to detect and eliminate a real COVID-19 infection through showing it mock spike proteins, before COVID-19 can cause any severe symptoms or a severe infection.\n\nClinical trials began in April of 2020 and are currently in Phases 2 and 3. The trials were expanded in Phase 2 to include a small number of people aged 56-69, people over 70, and children aged 5-12 before the vaccine entered Phase 3 trials where it is currently being evaluated in a large group of participants from the United Kingdom, Brazil, South Africa, Kenya, and the United States of America. \n\nAstraZeneca reported positive findings in its early trial data and confirmed that older and younger volunteers had the same sort of antibody response. The company also reported fewer side effects in older volunteers. The company hopes to present its Phase 2 and 3 clinical trial data before the end of 2020 or early 2021 in order to receive regulatory approval for for ChAdOx1/AZD1222. As of November 17, 2020, there have been no reported efficacy rates for this vaccine.\n\n\n",
+    "Glossary Terms": [
+      "rec9qqItwSTjq3Eae",
+      "rec10nAxiKgWhYJLd",
+      "recM4p8QOERmuESKr"
+    ],
+    "Variation of the answer depending on country of residence": "Yes\t\t\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "prevention",
+      "immune system",
+      "vaccine",
+      "efficacy",
+      "clinical trial"
+    ],
+    "Other resources": "1. ChAdOx1 nCoV-19 vaccine for SARS-CoV-2 ([Lancet](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32270-4/fulltext)) \n2. Oxford's ChAdOx1 nCoV-19 clinical trials ([Oxford](https://www.research.ox.ac.uk/Article/2020-07-19-oxford-covid-19-vaccine-trials)) \n3. COVID-19 Oxford Vaccine Trial ([Oxford](https://covid19vaccinetrial.co.uk/ab)) \n4. Covid: 6,000 UK volunteers to be injected with vaccine in phase 3 trial ([Guardian](https://www.theguardian.com/world/2020/nov/16/6000-uk-volunteers-to-be-injected-with-covid-vaccine-in-phase-3-trial)) \n5. Two Companies Restart Virus Trials in U.S. After Safety Pauses ([NYT](https://www.nytimes.com/2020/10/23/health/covid-vaccine-astrazeneca-johnson-and-johnson.html)) \n6. Coronavirus Vaccine Tracker ([NYT](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus-vaccines&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=0bc1c9e0-28a0-11eb-b483-d78e057a8304&variant=1_Show)) \n7. Pfizer and AstraZeneca slide as Moderna's rival COVID-19 vaccine shows strong efficacy ([MI](https://markets.businessinsider.com/news/stocks/pfizer-astrazeneca-stock-price-moderna-covid19-vaccine-shows-strong-efficacy-2020-11-1029806658)) \n8. Nobody has looked at AstraZeneca vaccine data yet - UK health official ([Reuters](https://www.reuters.com/article/health-coronavirus-britain-astrazeneca/nobody-has-looked-at-astrazeneca-vaccine-data-yet-uk-health-official-idUSS8N2GW0AF)) \n9. AstraZeneca says COVID-19 vaccine could arrive in January of next year ([CBS](https://www.cbsnews.com/news/covid-vaccine-astrazeneca-ceo-says-december-january/)) \n10. About the Oxford COVID-19 vaccine ([Oxford](https://www.research.ox.ac.uk/Article/2020-07-19-the-oxford-covid-19-vaccine)) \n11. Oxford Covid vaccine works in all ages, trials suggest ([The Guardian](https://www.theguardian.com/world/2020/oct/27/covid-vaccine-uk-oxford-university-astrazeneca-works-in-all-ages-trials-suggest)) \n",
+    "Last modified manual": "2020-11-17",
+    "Last edited (simplified)": "2020-11-18T13:02:55.000Z",
+    "Last edited (experts say)": "2020-11-18T13:02:55.000Z",
+    "What our experts say wordcount": 371,
+    "Background and context wordcount": 164,
+    "Other resources wordcount": 113,
+    "Wordcount": 648,
+    "Last modified": "2020-11-18"
   }
 ]

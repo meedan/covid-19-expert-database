@@ -1,9 +1,9 @@
 {% if page.lang == 'fr' %}
-{% assign form_action = '/fr/thanks' %}
-{% elsif page.lang == 'hi' }
-    {% assign form_action = '/hi/thanks' %}
+  {% assign form_action = '/fr/thanks' %}
+{% elsif page.lang == 'hi' %}
+  {% assign form_action = '/hi/thanks' %}
 {% else %}
-{% assign form_action = '/thanks' %}
+  {% assign form_action = '/thanks' %}
 {% endif %}
 <form name="ask-a-question" id="ask-a-question" class="ask-a-question-form"
   action="{{ form_action | default: '/thanks'}}" netlify-honeypot="bot" netlify>
