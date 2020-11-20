@@ -1,5 +1,4 @@
-<form name="ask-a-question-{{ page.lang }}" id="ask-a-question" class="ask-a-question-form"
-  action="/thanks" netlify-honeypot="bot" data-netlify="true">
+<form name="ask-a-question-{{ page.lang }}" method="POST" id="ask-a-question" class="ask-a-question-form" action="/thanks" netlify-honeypot="bot" data-netlify="true">
   <div class="form-group" style="display: none;">
     <label>Don’t fill this out: <input name="bot"></label>
   </div>
