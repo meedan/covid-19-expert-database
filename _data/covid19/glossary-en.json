@@ -2177,7 +2177,8 @@
     "Term": "vaccine effectiveness",
     "Definition": "Vaccine effectiveness studies examine how well a vaccine prevents a particular disease in the “real world,” where people are doing things like going to the grocery store, work, and school. Vaccine effectiveness is different from vaccine efficacy because efficacy is used to measure how well a vaccine works to prevent a particular disease in controlled, research environments.\n\nThough vaccine efficacy and vaccine effectiveness are similar terms and are often used interchangeably, the differences between the two terms are important. When a new vaccine is being developed and studied in clinical trials, the vaccine's efficacy is reported until the vaccine is made available for large population groups, at which point effectiveness can be measured. Real world vaccine effectiveness reflects population differences in health status, weight, age, and other factors across communities and is a much more reliable and accurate term for how helpful a vaccine is at preventing disease in daily life.\n",
     "Questions using this term": [
-      "recfMZ84AyYqSqoBS"
+      "recfMZ84AyYqSqoBS",
+      "recGJZyxcGglnEryM"
     ],
     "Status": "Published",
     "Wordcount Definition": 149,
@@ -2189,7 +2190,9 @@
     "Term": "vaccine efficacy",
     "Definition": "Vaccine efficacy is used to report on how well a vaccine works to prevent a particular disease in controlled, research environments. Vaccine efficacy is used to communicate how well the vaccine prevents the virus in the research vaccine group, when compared to the group of participants who did not receive the research vaccine. For example, if 100 study participants were a given study vaccine with 90% efficacy, 90 patients would not contract the disease and 10 would. The minimum United States Food and Drug Administration (U.S. FDA) target of 50% efficacy; no vaccine has a 100% efficacy. \n",
     "Questions using this term": [
-      "recYE4J6Nh1lta1lB"
+      "recYE4J6Nh1lta1lB",
+      "recfMZ84AyYqSqoBS",
+      "recGJZyxcGglnEryM"
     ],
     "Status": "Published",
     "Wordcount Definition": 98,
