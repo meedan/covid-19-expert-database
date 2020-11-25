@@ -13,6 +13,10 @@ module Jekyll
         # if record[:Term]
         #   record[:content_type] = 'glossary'
         # end
+        puts record[:'What our experts say']
+        if record[:'What our experts say'].to_s.size > 1400
+          record.delete(:'What our experts say')
+        end
         record.delete(:content)
         record.delete(:'Other resources')
         record.delete(:html)
@@ -90,6 +94,7 @@ module Jekyll
         record.delete(:'Spanish - What our experts say')
         record.delete(:'Portuguese - Background and context')
         record.delete(:'Portuguese - What our experts say')
+        record.delete(:'Telugu - Context and background')
         
 
         

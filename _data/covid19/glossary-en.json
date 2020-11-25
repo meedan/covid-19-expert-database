@@ -196,6 +196,33 @@
     "Total wordcount": 193
   },
   {
+    "id": "recRXYuU3tstg6EO0",
+    "Term": "ventilation systems",
+    "Definition": "Ventilation systems are mechanical systems that control air movement in a space like a building, home, car, or plane. Air may be exchanged from the outside to the inside of buildings (as well as from the indie to the outside) via open doors and windows or through heating and air conditioning systems (often called heating ventilation and air conditioning systems- HVAC systems). In some cases, however, ventilation systems recirculate indoor air without exchanging air from outside. To control air flow, humidity, temperature, and other factors, fans, pumps, grates, ducts, and filters are common parts of ventilation systems.\n",
+    "Questions using this term": [
+      "recE68fRyDEYYEuIr"
+    ],
+    "Status": "Published",
+    "French": [
+      "rectGx1TwAGePCyfG"
+    ],
+    "Hindi": [
+      "recoslzSUr2tPx1qE"
+    ],
+    "Telugu": [
+      "rec2Nkq4OOD3aMPPj"
+    ],
+    "Spanish": [
+      "recN7Tse4RCWNczH0"
+    ],
+    "Bengali": [
+      "recRZfMLEGz8x1Ofw"
+    ],
+    "Wordcount Definition": 97,
+    "Wordcount Term": 2,
+    "Total wordcount": 99
+  },
+  {
     "id": "recE7xmnXgtg8ZanX",
     "Term": "incubation period",
     "Definition": "According to the World Health Organization, the incubation period is the time between exposure to the virus (becoming infected) and symptom onset.\n",
@@ -302,6 +329,41 @@
     "Wordcount Definition": 80,
     "Wordcount Term": 2,
     "Total wordcount": 82
+  },
+  {
+    "id": "rec3XmnugOMexQiQA",
+    "Term": "experimental treatment",
+    "Definition": "An experimental treatment is a medication or therapy that is being tested to evaluate if it is effective against an illness or medical condition. Experimental treatments may be existing medications or therapies that are known to work in treating one illness and are tried as a treatment for another illness (e.g. when an antiviral medication is used to treat a new virus, early treatments are considered experimental because it is unclear as to whether or not the medication will work). Experimental treatments may also be new medications or treatments that have not been used before. In addition to learning whether experimental treatments treat particular illnesses, the experimental process evaluates the therapies for possible side effects.\n",
+    "Questions using this term": [
+      "rec9thjuTgT5ytu9t",
+      "rec1lIxrlFHbwK7NV"
+    ],
+    "Status": "Published",
+    "French": [
+      "recSzsRVZvSvXvlel"
+    ],
+    "Hindi": [
+      "reczL6p3LSFic06ab"
+    ],
+    "Telugu": [
+      "recTPj1uejyNxO2Mn"
+    ],
+    "Spanish": [
+      "recrZQ9NrhdhkPDS0"
+    ],
+    "Arabic": [
+      "recIMOdquYjpRXYhY"
+    ],
+    "Bengali": [
+      "recFvgwqnTGFSdwmq"
+    ],
+    "Portuguese": [
+      "recepujRRaXKztKiV"
+    ],
+    "Internal notes": "[@Emily LaRose](https://airtable.com/appKBFbOCN23iz8eF/mengrToiwoPg5k6ql/usroPZ4yKxHAs6odJ?recordId=rec3XmnugOMexQiQA&fieldId=fldFWQAjehRWQv5n2) It seems to me that in definitions, you often use “i.e” (that is to say) when “e.g.” (for example) could be a better fit. What do you think? :-) --> resolved 11/24/2020\n",
+    "Wordcount Definition": 115,
+    "Wordcount Term": 2,
+    "Total wordcount": 117
   },
   {
     "id": "recZZhsMRrNyDPnjg",
@@ -732,7 +794,7 @@
   {
     "id": "rec9qqItwSTjq3Eae",
     "Term": "vaccine",
-    "Definition": "A vaccine is a product made to help the body to recognize and fight viruses or bacteria. It may be made of killed, treated, or live microorganisms. According to the World Health Organization, \"vaccination is one of the most effective ways to prevent diseases,\" and, currently, vaccines help protect against 25 different diseases though there is no vaccine for COVID-19 at this time.\n",
+    "Definition": "A vaccine is a product made to help the body's immune system recognize and fight viruses or other \"foreign invaders\" (like bacteria). According to the World Health Organization, \"vaccination is one of the most effective ways to prevent diseases,\" and, currently, vaccines help protect against 25 different diseases. There is no approved vaccine for COVID-19 at this time, but there are more than 100 vaccines currently in development.\n",
     "Questions using this term": [
       "reciHqvo2ldywmQrQ",
       "recNhNi9YMJidUo7K",
@@ -773,9 +835,9 @@
     "Portuguese": [
       "recJTKsxlgSWlX1kY"
     ],
-    "Wordcount Definition": 63,
+    "Wordcount Definition": 68,
     "Wordcount Term": 1,
-    "Total wordcount": 64
+    "Total wordcount": 69
   },
   {
     "id": "recDalYrz2m23kS2e",
@@ -784,7 +846,8 @@
     "Questions using this term": [
       "recOiBtU1KHxAQAgq",
       "rec6Ka1kiwtOXSKe0",
-      "rec6LvLwc24HqHqQ1"
+      "rec6LvLwc24HqHqQ1",
+      "reccN0swQANNJwGir"
     ],
     "Status": "Published",
     "French": [
@@ -1127,7 +1190,8 @@
     "Definition": "A side effect is a symptom (usually undesirable) that is caused by a medication or therapy that is being used to treat an illness. Side effects vary depending upon the therapy as well as the patient's age, gender, general health, other illnesses or medications, weight, or ethnicity. Often side effects are both minor and temporary, but, in some instances, side effects can be severe and result in permanent disability. A side effect also may be called a side reaction or secondary effect.\n",
     "Questions using this term": [
       "recxbPxkhx1NeoE5Q",
-      "recGJZyxcGglnEryM"
+      "recGJZyxcGglnEryM",
+      "rec2shxecDOlAie8Q"
     ],
     "Status": "Published",
     "French": [
@@ -1189,6 +1253,37 @@
     "Wordcount Definition": 43,
     "Wordcount Term": 2,
     "Total wordcount": 45
+  },
+  {
+    "id": "recwhS0IsusP5qFNc",
+    "Term": "randomized controlled trial",
+    "Definition": "A randomized controlled trial (RCT) is a type of scientific experiment where a group of people are randomly divided into multiple groups, and the groups are treated differently during the study period, to see if the experimental treatments change the participants' health. \n\nIn RCTs, there is at least one control group that receives either the standard treatment (usual or non-experimental treatment), a placebo treatment, or no treatment at all. There is also at least one experimental group that receives the test therapy that may include a new medication, a different medication dose, targeted education, or other intervention.  All of the participants in an RCT are monitored during the study to determine the experimental/test therapy changes health outcomes; some therapies may improve or worsen health.\n",
+    "Status": "Published",
+    "French": [
+      "recKgDIquwTvB5xPR"
+    ],
+    "Hindi": [
+      "recZzMR1KiQjYok9q"
+    ],
+    "Telugu": [
+      "recEtHuNtmOWh5Oys"
+    ],
+    "Spanish": [
+      "recEb0MXWSHmbNJ0F"
+    ],
+    "Arabic": [
+      "recYmgezEFi4kzCr5"
+    ],
+    "Bengali": [
+      "recxjTTqk8oUe7oRj"
+    ],
+    "Portuguese": [
+      "recWzdE6Z49QVfj1i"
+    ],
+    "Internal notes": "[@Emily LaRose](https://airtable.com/appKBFbOCN23iz8eF/men6Qo92rRBUrMRZl/usroPZ4yKxHAs6odJ?recordId=recwhS0IsusP5qFNc&fieldId=fldFWQAjehRWQv5n2) The word “treatment” is missing in “the standard (usual or non-experimental treatment), a placebo treatment, or no treatment at all” for the sentence logic to hold. This could rather read: “receives either the standard treatment (usual or non-experimental treatment), a placebo treatment, or no treatment at all”.--> Resolved 11/23/2020\n",
+    "Wordcount Definition": 125,
+    "Wordcount Term": 3,
+    "Total wordcount": 128
   },
   {
     "id": "rec39wm7MuK12bTI3",
@@ -1365,6 +1460,41 @@
     "Total wordcount": 131
   },
   {
+    "id": "recPX0N6FB6koiXCL",
+    "Term": "randomization",
+    "Definition": "Randomization is a technique used in scientific research to divide participants into groups by chance, rather than assigning them by choice. Once patients meet the general criteria to be included in a study, randomization is done to reduce bias so that everyone who participates in the study has an equal chance of being in a treatment (or test) group or a control group. It prevents researchers from purposely selecting certain patients who are more likely to perform better in the study (e.g. patients who are younger or those who seem generally healthier). \n",
+    "Questions using this term": [
+      "recpt1R0CCrgLqFhO"
+    ],
+    "Status": "Published",
+    "French": [
+      "rec6NlTvOmQP1MrDn"
+    ],
+    "Hindi": [
+      "recDBg6zMMcfeOKtr"
+    ],
+    "Telugu": [
+      "recpzWNBApVsdXL2i",
+      "recUrGrnOZ30Msyi8"
+    ],
+    "Spanish": [
+      "rec2SPlTh2tdvEyne"
+    ],
+    "Arabic": [
+      "recGhuKl1S5puQ8Pa"
+    ],
+    "Bengali": [
+      "rec3T686s6VDc0pd5"
+    ],
+    "Portuguese": [
+      "rec2uKwVJ5PKpjahN"
+    ],
+    "Internal notes": "[@Emily LaRose](https://airtable.com/appKBFbOCN23iz8eF/mengaTq8a8P3KLkUL/usroPZ4yKxHAs6odJ?recordId=recPX0N6FB6koiXCL&fieldId=fldFWQAjehRWQv5n2) Since random means happening, done, or chosen by chance rather than according to a plan, “into random groups by chance” is redundant.\nIf you do not want to use random to define randomization, it could rather read “to divide participants into groups by chance”.\nAlso “e.g.” could be used instead of “i.e.” since we are giving two examples of what biased selection could be, we are not saying that biased selection is always choosing patients who are younger or those who seem generally healthier. --> resolved 11/23/2020\n",
+    "Wordcount Definition": 93,
+    "Wordcount Term": 1,
+    "Total wordcount": 94
+  },
+  {
     "id": "recqf9kWDH9WkLibg",
     "Term": "blood vessels",
     "Definition": "Blood vessels are tubes of different sizes present throughout the body. Larger blood vessels carry blood to the heart from other parts of the body (veins) or away from the heart to other parts of the body (arteries). Larger blood vessels connect to smaller blood vessels in the body that transport blood within tissues, where they exchange water, oxygen, carbon dioxide, and other compounds (i.e. vitamins, minerals, electrolytes, hormones). Arteries, arterioles, capillaries, venules, and veins are all different types of blood vessels that are part of the circulatory system. \n\nOther words that are used to describe blood vessels include vascular system, cardiovascular system (includes the heart and blood vessels), and circulatory system.\n",
@@ -1397,6 +1527,40 @@
     "Wordcount Definition": 112,
     "Wordcount Term": 2,
     "Total wordcount": 114
+  },
+  {
+    "id": "recqwr4O57SOjNZYx",
+    "Term": "organ",
+    "Definition": "An organ is a body part with a specific structure, function, and cell type. Organs in the human body include, but are not limited to, the heart, liver, stomach, brain, kidneys, and lungs. Organs in the human body are part of organ systems. For example, the digestive system includes the stomach in addition to the esophagus and intestines; the circulatory system includes both the heart and blood vessels that circulate blood throughout the body. There are 10 organ systems in total including the following: integumentary (skin), skeletal (bones), muscular (muscles), nervous (nerves), endocrine (hormonal), digestive, respiratory (breathing), circulatory, excretory (urine, waste), and reproductive.\n",
+    "Questions using this term": [
+      "recbwOwl3dwdrh1iY"
+    ],
+    "Status": "Published",
+    "French": [
+      "rectEEG97iAhTnwMP"
+    ],
+    "Hindi": [
+      "recfG0Ep7PnNCgLr5"
+    ],
+    "Telugu": [
+      "recQMrcsT2itGIEpD"
+    ],
+    "Spanish": [
+      "recwXFiRtQl0OLXxu"
+    ],
+    "Arabic": [
+      "recnkzz35g9c8huL5"
+    ],
+    "Bengali": [
+      "rec6TeRATw1gRQVoB"
+    ],
+    "Portuguese": [
+      "recmfZmRWmWZ4KUbt"
+    ],
+    "Internal notes": "[@Emily LaRose](https://airtable.com/appKBFbOCN23iz8eF/menC2QWh621XVYh5t/usroPZ4yKxHAs6odJ?recordId=recqwr4O57SOjNZYx&fieldId=fldFWQAjehRWQv5n2) Would “There are 10 organ systems” be more accurate? Also, would it make sense to add a word in parentheses for all organ systems (because all readers may not have a clear understanding)?--> resolved 11/23/2020\n",
+    "Wordcount Definition": 103,
+    "Wordcount Term": 1,
+    "Total wordcount": 104
   },
   {
     "id": "rec06X4QusZL1zCzd",
@@ -1682,6 +1846,34 @@
     "Total wordcount": 30
   },
   {
+    "id": "recvEcanaG84OrPm4",
+    "Term": "blood type",
+    "Definition": "The eight most common blood types are A+, A-, B+, B-, O+, O-, AB+, AB-. The different blood types are based on characteristics of the red blood cells.  According to the American Red Cross Blood Services Division, blood types are determined based on whether or not they have one of two special molecules (called antigens) on the surface of red blood cells (A and/or B).  If the red blood cells do not contain either antigen, the blood type is O. In addition to the antigens, the + or - is determined by the presence (+) or absence (-) of a protein called the Rh factor.  Blood type is determined before birth and is genetically passed on from parents to their children.\n",
+    "Questions using this term": [
+      "recYvTpiS4HB4XVtT"
+    ],
+    "Status": "Published",
+    "French": [
+      "recgLGgfz8IYQhWpb"
+    ],
+    "Hindi": [
+      "recdZc63Ki57fbRVu"
+    ],
+    "Spanish": [
+      "recsuWDdzQOw8zRIt"
+    ],
+    "Arabic": [
+      "recUkgUMOLnvdd1Zh"
+    ],
+    "Bengali": [
+      "recxnLbs3RJkqygEO"
+    ],
+    "Internal notes": "[@Emily LaRose](https://airtable.com/appKBFbOCN23iz8eF/meneb1xSQaw4QXOQo/usroPZ4yKxHAs6odJ?recordId=recvEcanaG84OrPm4&fieldId=fldFWQAjehRWQv5n2) this is still a little too technical - can you bring it down to a grade 8 reading level? thx!\n\n[@Emily LaRose](https://airtable.com/appKBFbOCN23iz8eF/men8hFtDPWYUqRobN/usroPZ4yKxHAs6odJ?recordId=recvEcanaG84OrPm4&fieldId=fldFWQAjehRWQv5n2) this is a little confusing because it explains A and B but not O - can you clarify?\n[@Megan Marrelli](https://airtable.com/appKBFbOCN23iz8eF/menpE1Ma5Hrw8EMHa/usrMppbVYyXPkbsJq?recordId=recvEcanaG84OrPm4&fieldId=fldFWQAjehRWQv5n2) I've added O in there- does that work? EL\n[@Emily LaRose](https://airtable.com/appKBFbOCN23iz8eF/mendTVoacGksDPdXv/usroPZ4yKxHAs6odJ?recordId=recvEcanaG84OrPm4&fieldId=fldFWQAjehRWQv5n2) I’m confused by “(A and/or B- in the absence of either antigen, the blood type is O)”. Is it clear to you when you read it?\n[@AO LocLAb](https://airtable.com/appKBFbOCN23iz8eF/men8TBOkcxPmKApq1/usrFuUGZLOsk8emML?recordId=recvEcanaG84OrPm4&fieldId=fldFWQAjehRWQv5n2) I think it was a punctuation issue- I've adjusted some.  [@Christin Gilmer](https://airtable.com/appKBFbOCN23iz8eF/menGZcFYcbJYxu3bQ/usrDTYZtkXBziEsWP?recordId=recvEcanaG84OrPm4&fieldId=fldFWQAjehRWQv5n2) thoughts? EL\nI removed an extra space (double space).\n",
+    "Wordcount Definition": 124,
+    "Wordcount Term": 2,
+    "Total wordcount": 126
+  },
+  {
     "id": "reclGZpfnO5BRIJdt",
     "Term": "zoonotic transmission",
     "Definition": "Zoonotic transmission is the technical term that describes the spread of diseases (i.e. viruses, bacteria, fungi, parasites and others) from animals (pets, wild, or domestic animals) to humans, through one or more of the following routes:\n- Direct contact: contact with the animal's blood, saliva, urine, feces or body fluids\n- Indirect contact: contact with where the animal lives including barns, aquarium water, soil \n- Vector-borne: being bitten by a tick, flea, or mosquito that spreads the disease between animals and humans\n- Foodborne: eating contaminated foods like uncooked meat or eggs, raw milk, or eating fruits/vegetables contaminated with feces from an infected animal\n- Waterborne: drinking or coming into contact with water contaminated with feces from an infected animal\nOnce a human is infected, some diseases can then be spread from person to person.\n",
@@ -1831,6 +2023,70 @@
     "Total wordcount": 153
   },
   {
+    "id": "recOcmLKbzV6NUkAH",
+    "Term": "symptoms",
+    "Definition": "A symptom is an abnormal feeling that is experienced by a patient as a result of an illness. Symptoms may be objective, like a cough of fever that can be observed by another person, or subjective, like tiredness or a headache that can only be observed by the patient. A combination of symptoms may be used to suggest that someone has a particular disease, but to make a diagnosis, other tests may be used. The terms signs and symptoms are often used interchangeably, though often signs refer to objective symptoms that can be observed by another person.\n",
+    "Questions using this term": [
+      "reckgFENw9gVgnWtC",
+      "recu8mvHonrGr57Z6",
+      "recq1zzyVh3GSLrhz",
+      "recvikqCDP9wMlBjd",
+      "recEpxyl0057WLvCV",
+      "recSCMovWVO7VKvPB",
+      "recDDflelah3aTf6X",
+      "recQOw0bJlQFe3pbW"
+    ],
+    "Status": "Published",
+    "French": [
+      "recmKKFz8XmXLoc6X"
+    ],
+    "Hindi": [
+      "recwHRVxt9d8gIMTI"
+    ],
+    "Telugu": [
+      "reci2396lusR6bWS9"
+    ],
+    "Spanish": [
+      "rec464JAoctkPBabA"
+    ],
+    "Bengali": [
+      "rec3k5PVkSpsRGW80"
+    ],
+    "Portuguese": [
+      "recdIHXWgPq1SKCCD"
+    ],
+    "Wordcount Definition": 97,
+    "Wordcount Term": 1,
+    "Total wordcount": 98
+  },
+  {
+    "id": "recMJMGqkERKGcbL5",
+    "Term": "phased testing",
+    "Definition": "A phased testing approach involves a series of steps, where each step involves careful study and evaluation with a series of checkpoints to decide whether to proceed to the next phase. For medicines and vaccines, the process is overseen by the US Food and Drug Administration (FDA) in the US.\n\nSubstantial (preclinical) research needs to be completed by scientists before phased testing. Once the preclinical or \"pre-human\" research has been completed, there are three research phases of trials that take place. \n\nDuring the first stage (Phase 1), the new vaccine is provided to small groups of people—the first time the vaccine is tested in humans. This phase is used to learn if the vaccine or medication is safe, if it works, it there any serious side effects, and if the size of the dose is related to the side effects.\n\nThe second stage (Phase 2) involves testing the vaccine on people who have similar characteristics (such as age and physical health) to the target population, or the group for which the medicine or vaccine is intended. The goal of this stage is to learn what the most common short-term side effects are and understand how the volunteers respond to the medicine or vaccine.  In the case of a vaccine, in a Phase 2 Trial, researchers are specifically looking at how the immune system responds to the trial vaccine.\n\nThe final stage (Phase 3) provides the medicine or vaccine to hundreds or thousands of people to see how safe and effective it is and to identify the most common side effects. Once the medicine or vaccine clears this last stage, the manufacturer can apply for a license from regulatory authorities (like the FDA) to market for human use.\n\nSometimes medications or vaccines that have already been approved by the U.S. FDA in clinical trials will enter into a Phase 4 trial. This phase focuses on potential side effects from the vaccine or medication that were not seen in the first three phases. This phase also helps researchers understand how well a vaccine works over a longer time frame and how safe it is, often with thousands of people over several years. Phase 4 is also called a 'post-marketing surveillance' trial.\n",
+    "Questions using this term": [
+      "recYyHq4Ec1FWbNtQ",
+      "reclucIrtcCSCbOn6",
+      "rec2shxecDOlAie8Q"
+    ],
+    "Status": "Published",
+    "French": [
+      "reccdTp6lJV5GXV7J"
+    ],
+    "Hindi": [
+      "rec9G3x1XDri9yuMd"
+    ],
+    "Spanish": [
+      "recKHPGiYpRYNY7E6"
+    ],
+    "Arabic": [
+      "recOblV1CKncnPoVW"
+    ],
+    "Internal notes": "[@Jessica Huang](https://airtable.com/appKBFbOCN23iz8eF/men28lLnQED7XpaQb/usr7F6wgKz1f26438?recordId=recMJMGqkERKGcbL5&fieldId=fldFWQAjehRWQv5n2) I’d recommend to write “U.S. Food and Drugs Administration” in the first paragraph, then “FDA” in the second.\n\nAgreed, thanks! I also just edited the numbering for the phases to be consistent - it used to say Phase 1, Phase 2, Phase 3, and Phase IV. Hope that's okay (JH)\n",
+    "Wordcount Definition": 366,
+    "Wordcount Term": 2,
+    "Total wordcount": 368
+  },
+  {
     "id": "recCEG85awzcotyRi",
     "Term": "N95 mask",
     "Definition": "N95 masks (or N95 respirators) are special masks that protect the wearer from breathing in very small airborne particles. They are regulated to ensure that they meet strict standards for safety. Other countries use other codes for masks that meet the same requirements as N95 masks in the U.S.; some examples of other N95-type masks include the KN95 in China and FFP2 in European countries.\n\nThe U.S. Centers for Disease Control and Prevention has stated the N95 masks should not be used by the general public to prevent themselves from COVID-19 because N95 masks should be reserved for health care workers and medical first responders.\n",
@@ -1868,6 +2124,57 @@
     "Total wordcount": 106
   },
   {
+    "id": "recJz8lojK2ZaDFhp",
+    "Term": "regulatory approval",
+    "Definition": "Regulatory approval is a process where permission is sought from a decision-making authority with legal power, usually a governmental agency, for a product or activity. Not everything is subject to regulatory approval, but in the case of medicines or vaccines, governmental oversight is used to make sure that the products are safe and work as intended before they are prescribed to patients. Even once approved, governmental agencies work with local, national, and international authorities, manufacturers, researchers, and public health experts to monitor safety and effectiveness at the population level.\n",
+    "Questions using this term": [
+      "recTXvz6ulqo2CENE"
+    ],
+    "Status": "Published",
+    "French": [
+      "recukqOwqnmNI0Zlu"
+    ],
+    "Hindi": [
+      "recrDhSHjHZrS0gcv"
+    ],
+    "Telugu": [
+      "rechcAt3kDSO9hJ3h"
+    ],
+    "Spanish": [
+      "reclUqxaUMLsTStsv"
+    ],
+    "Bengali": [
+      "recalu3zuCLgrM2ct"
+    ],
+    "Wordcount Definition": 89,
+    "Wordcount Term": 2,
+    "Total wordcount": 91
+  },
+  {
+    "id": "recr3NlaEcaDxSbvI",
+    "Term": "RNA virus",
+    "Definition": "RNA viruses have RNA (ribonucleic acid) as their genetic material. Examples of RNA viruses include SARS-CoV-2, influenza, rabies, and measles. Unlike DNA (deoxyribonucleic acid), RNA lacks a self-correcting mechanism so RNA viruses are more prone to mutations [cross-reference with RNA, DNA]. \n",
+    "Questions using this term": [
+      "rec2shxecDOlAie8Q"
+    ],
+    "Status": "Published",
+    "French": [
+      "recORnkYAfLWnBvNi"
+    ],
+    "Hindi": [
+      "recqxjjX1FQkHRDtP"
+    ],
+    "Spanish": [
+      "recdDvDf1cRyjMRTn"
+    ],
+    "Arabic": [
+      "recmICUkcEELeWCk9"
+    ],
+    "Wordcount Definition": 42,
+    "Wordcount Term": 2,
+    "Total wordcount": 44
+  },
+  {
     "id": "rectkO1d0FhUHQ0Of",
     "Term": "antigen",
     "Definition": "Antigens are molecules that are capable of stimulating body's immune response and production of antibodies.\n",
@@ -1896,6 +2203,68 @@
     "Wordcount Definition": 15,
     "Wordcount Term": 1,
     "Total wordcount": 16
+  },
+  {
+    "id": "recaXXF6coF4J2EUz",
+    "Term": "immune system",
+    "Definition": "The immune system is the part of the body that protects it from bacteria, viruses, fungi, and other \"foreign invaders\" that may cause harm even though they are too small to be seen without a microscope. Humans are born with a natural \"innate\" immune system and develop an adaptive (or acquired) immune system as we are exposed to viruses and other microbes in everyday life. The adaptive immune system changes throughout life as we are exposed to these foreign invaders (like viruses and microbes), and the adaptive immune system develops antibodies (special proteins) that help remove these foreign invaders from the body. Some vaccines are designed to help the adaptive immune system to develop antibodies.\n",
+    "Questions using this term": [
+      "recr3yXfQwXc2jnMv",
+      "recO53s7i9ioAfKKv",
+      "rec3gzGDZLC9DoYmq",
+      "rec6Ka1kiwtOXSKe0",
+      "recg7uMkciGJxiye0",
+      "rec2shxecDOlAie8Q",
+      "rech0c2iaQGp03KXI"
+    ],
+    "Status": "Published",
+    "French": [
+      "recBwmNJLg7MWiuXq"
+    ],
+    "Hindi": [
+      "recmCYCk2Uc5UiOIE"
+    ],
+    "Spanish": [
+      "rechZN05s0SRaRKAM"
+    ],
+    "Wordcount Definition": 115,
+    "Wordcount Term": 2,
+    "Total wordcount": 117
+  },
+  {
+    "id": "rec5P1moAv3DjPkbT",
+    "Term": "human challenge trial",
+    "Definition": "A human challenge trial is a type of medical research study that helps to determine if a vaccine is effective in preventing illness against a particular pathogen (e.g. virus). A volunteer receives the vaccine and, in the weeks following, the volunteer is intentionally exposed to the pathogen (i.e. virus) to see if the vaccine works to prevent infection.\n",
+    "Questions using this term": [
+      "reci5KRmNIo5UfFt5"
+    ],
+    "Status": "Published",
+    "French": [
+      "recXmU1X3lGGvAQvK"
+    ],
+    "Hindi": [
+      "rec211mH9oe56brQ2",
+      "recG3PXdBKvQkR4FF"
+    ],
+    "Telugu": [
+      "recRchATDJrdl0ZE6"
+    ],
+    "Spanish": [
+      "rectCRNBmeVrtDPDI"
+    ],
+    "Arabic": [
+      "recqpghi3IbuULxz2"
+    ],
+    "Bengali": [
+      "reckV7eKDeGJqP7y2"
+    ],
+    "Portuguese": [
+      "recFeRu0mZ5djT2TE"
+    ],
+    "Internal notes": "[@Emily LaRose](https://airtable.com/appKBFbOCN23iz8eF/meneF9HHRDI0trUHQ/usroPZ4yKxHAs6odJ?recordId=rec5P1moAv3DjPkbT&fieldId=fldFWQAjehRWQv5n2) Here as in many other glossary entries, it seems that “i.e.” should rather read “e.g.” in the first occurrence: “(e.g., a virus)”. The second one makes more sense. Using “i.e.” implies that the pathogen is always a virus in such a trial. Is that the case?  Resolved 11/23/2020\n",
+    "Wordcount Definition": 58,
+    "Wordcount Term": 3,
+    "Total wordcount": 61
   },
   {
     "id": "recE5fZ79yZqKorXK",
@@ -1953,6 +2322,81 @@
     "Total wordcount": 56
   },
   {
+    "id": "recJhCnFxAX2jAH0h",
+    "Term": "neutralizing antibodies ",
+    "Definition": "Neutralizing antibodies are made from plasma cells (a type of white blood cell). Antibodies are special proteins that are part of the immune system and help the body to fight viruses, bacteria, and other threats that can make people sick. Neutralizing antibodies are special antibodies that \"neutralize\" viruses and other harmful bacteria or toxins by making it so that they cannot infect cells and cause disease. \n",
+    "Questions using this term": [
+      "rec2shxecDOlAie8Q",
+      "reczdKiAkOFyEuS5P",
+      "rech0c2iaQGp03KXI"
+    ],
+    "Status": "Published",
+    "French": [
+      "rec4qaGiLgF9X6Epn"
+    ],
+    "Hindi": [
+      "rechwFxogtfzLrxd8"
+    ],
+    "Spanish": [
+      "recn2tYxK69xC5L6y"
+    ],
+    "Arabic": [
+      "recl8sO6Ut4JrtBGd",
+      "recJhmNR9B6oEMIil"
+    ],
+    "Wordcount Definition": 66,
+    "Wordcount Term": 3,
+    "Total wordcount": 69
+  },
+  {
+    "id": "recb7T7hH9zHd3k1R",
+    "Term": "ventilator",
+    "Definition": "A ventilator is a machine that helps a patient breathe when the patient cannot do so (or cannot do so well) on their own. When needed, the machine is used to move air into and out of the lungs through a mask or via a tube (or tubes) inserted into the patient's nose, mouth, or throat. \n",
+    "Questions using this term": [
+      "recSOnnQBIkFxZ8t8"
+    ],
+    "Status": "Published",
+    "French": [
+      "recYpRBlv4ymABlL5"
+    ],
+    "Hindi": [
+      "recjH0n0J9P2BCqtQ"
+    ],
+    "Spanish": [
+      "rec2B4RTMIqiAlEBE"
+    ],
+    "Arabic": [
+      "rec5w2ZN0yNaDqyzY"
+    ],
+    "Bengali": [
+      "recXP26iIkX1yMcrN"
+    ],
+    "Wordcount Definition": 57,
+    "Wordcount Term": 1,
+    "Total wordcount": 58
+  },
+  {
+    "id": "reclXuRND3ea8LAA1",
+    "Term": "renal failure",
+    "Definition": "Renal failure is another way of saying kidney failure and refers to when the kidneys are working at less than 15% of normal. Kidney (renal) failure may happen quickly (acute) or may happen over time (chronic), may be temporary or permanent, and may be caused by infection, injury, drug use, high blood pressure, diabetes, or other causes. People who are in kidney failure are not able to remove waste or extra fluid from their blood and require medical treatments (including dialysis or kidney transplant) to do so.\n",
+    "Questions using this term": [
+      "recq1zzyVh3GSLrhz"
+    ],
+    "Status": "Published",
+    "French": [
+      "recUAuf57xAdRwqOV"
+    ],
+    "Spanish": [
+      "recBxyrhd7VsxqlNx"
+    ],
+    "Arabic": [
+      "rec1JCkXhGtcBQEBt"
+    ],
+    "Wordcount Definition": 87,
+    "Wordcount Term": 2,
+    "Total wordcount": 89
+  },
+  {
     "id": "recFg30lvATvVhmBG",
     "Term": "monoclonal antibodies",
     "Definition": "First developed in the 1970s, monoclonal antibodies are typically produced in a lab through cloning to act as optimized antibodies (proteins made by the body to fight infections). Monoclonal antibodies (the prefix \"mono-\" means one) are different from polyclonal antibodies (the prefix \"poly-\" means many):\n\n1) Monoclonal antibodies are made by identical immune cells cloned from a single parent cell; and\n2) Monoclonal antibodies work by binding to a part of the COVID-19 virus and signaling the body's immune system to attack \n\nDue to these properties, monoclonal antibodies have the potential to be produced with consistent quality and purity at a large scale. Additionally, monoclonal antibodies have the potential to provide therapeutic benefits to the immune system because they are highly selective in how they bond to specific antigens that cause disease. Medical applications of monoclonal antibodies have included drugs for cancer.\n",
@@ -1970,6 +2414,25 @@
     "Wordcount Definition": 140,
     "Wordcount Term": 2,
     "Total wordcount": 142
+  },
+  {
+    "id": "recXugVJFvUHIcWsH",
+    "Term": "repurposed",
+    "Definition": "Repurposed means that something normally used for one purpose is used, or altered and then used, for something different. For example, a medicine that has been developed for one disease may be \"repurposed\" and used to treat a different disease. Similarly, a vaccine that has been developed to prevent one disease may be \"repurposed\" and used to prevent another disease. In some cases, medicines or vaccines that were not found to successfully treat or prevent a disease are used in trials for new diseases to see if they may be effective.\n",
+    "Questions using this term": [
+      "recjmxNuHf9q8gjRL",
+      "recxbPxkhx1NeoE5Q"
+    ],
+    "Status": "Published",
+    "French": [
+      "recY0auZtsLDCgPjL"
+    ],
+    "Spanish": [
+      "recJ3JAjifusNiBav"
+    ],
+    "Wordcount Definition": 91,
+    "Wordcount Term": 1,
+    "Total wordcount": 92
   },
   {
     "id": "rec1XtRl9QPx5zxBQ",
@@ -2005,6 +2468,36 @@
     "Total wordcount": 73
   },
   {
+    "id": "rec0Z0wt4ie5D2pH7",
+    "Term": "surveillance",
+    "Definition": "In general, surveillance is another way to say monitoring or watching and is thought of as an ongoing process for learning and understanding in public health. Public health surveillance systems are used to monitor health-related data at a population level (like in a neighborhood, city, state, country, or around the world). These systems help researchers and public health professionals understand patterns in how diseases spread, risk factors for diseases, how well vaccines work, how health is influenced by the environment, and many other things. \n\nPublic health surveillance is defined by the US Centers for Disease Control and Prevention (CDC) as “the ongoing, systematic collection, analysis, and interpretation of health-related data essential to planning, implementation, and evaluation of public health practice.” \n",
+    "Questions using this term": [
+      "recgZZwuf8TlI84F8"
+    ],
+    "Status": "Published",
+    "French": [
+      "recdF3ZjBLzosTPdb"
+    ],
+    "Spanish": [
+      "recoPLvYjBuOdyELx"
+    ],
+    "Wordcount Definition": 121,
+    "Wordcount Term": 1,
+    "Total wordcount": 122
+  },
+  {
+    "id": "reci0r8fUkfYPAxJU",
+    "Term": "case fatality rate",
+    "Definition": "The case-fatality rate, or CFR, is the proportion of the people who die from a disease out of the total number of people with that disease. According to the CDC, the CFR measures the severity of a disease by determining how many individuals who contract a new condition die from it. The numerator is the number of disease-specific deaths among incident cases (that is, new cases), and the denominator is the total number of incident cases. The deaths in the numerator must also belong to the deaths in the denominator. \n",
+    "Questions using this term": [
+      "rec8wGyjeDolqSj8b"
+    ],
+    "Status": "Published",
+    "Wordcount Definition": 91,
+    "Wordcount Term": 3,
+    "Total wordcount": 94
+  },
+  {
     "id": "recR5R4QhqxWEg2nF",
     "Term": "vaccine effectiveness",
     "Definition": "Vaccine effectiveness studies examine how well a vaccine prevents a particular disease in the “real world,” where people are doing things like going to the grocery store, work, and school. Vaccine effectiveness is different from vaccine efficacy because efficacy is used to measure how well a vaccine works to prevent a particular disease in controlled, research environments.\n\nThough vaccine efficacy and vaccine effectiveness are similar terms and are often used interchangeably, the differences between the two terms are important. When a new vaccine is being developed and studied in clinical trials, the vaccine's efficacy is reported until the vaccine is made available for large population groups, at which point effectiveness can be measured. Real world vaccine effectiveness reflects population differences in health status, weight, age, and other factors across communities and is a much more reliable and accurate term for how helpful a vaccine is at preventing disease in daily life.\n",
@@ -2032,5 +2525,161 @@
     "Wordcount Definition": 98,
     "Wordcount Term": 2,
     "Total wordcount": 100
+  },
+  {
+    "id": "recdTCKk9cPKJzUAf",
+    "Term": "effectiveness",
+    "Definition": "Medicine, treatment, or vaccine effectiveness studies examine how well the medicine, treatment, or vaccine works for the general population in the “real world,” rather than solely in a research setting. Effectiveness is different from efficacy because efficacy is used to measure how well a medicine or vaccine works in controlled, research environments.\n\nThough efficacy and effectiveness are similar terms and are often used interchangeably, the differences between the two terms are important. When a new medicine, treatment, or vaccine is being developed and studied in clinical trials, the efficacy is reported until it is made available for the general population, at which point effectiveness can be measured. \n",
+    "Questions using this term": [
+      "rec2shxecDOlAie8Q"
+    ],
+    "Status": "Published",
+    "Wordcount Definition": 106,
+    "Wordcount Term": 1,
+    "Total wordcount": 107
+  },
+  {
+    "id": "recTwPtyLhmTc3TBa",
+    "Term": "efficacy",
+    "Definition": "Medicine, treatment, or vaccine efficacy is used to report on how well a medicine, treatment, or vaccine works in controlled, research environments. Efficacy is used to communicate how well the trial product works in research group, when compared to the group of participants who did not receive the trial product. Using vaccine efficacy as an example, if 100 study participants were a given study vaccine with 90% efficacy, 90 patients would not contract the disease and 10 would. \n\nThough efficacy and effectiveness are similar terms and are often used interchangeably, the differences between the two terms are important. When a new medicine, treatment, or vaccine is being developed and studied in clinical trials, the efficacy is reported until it is made available for the general population, at which point effectiveness can be measured. \n",
+    "Questions using this term": [
+      "rec2shxecDOlAie8Q"
+    ],
+    "Status": "Published",
+    "Wordcount Definition": 134,
+    "Wordcount Term": 1,
+    "Total wordcount": 135
+  },
+  {
+    "id": "rec5Cya6SiM7o3VRq",
+    "Term": "Phase 1 Trial",
+    "Definition": "After approval following preclinical laboratory or animal testing, new vaccines and medications advance to phased testing, beginning with a Phase 1 Trial. The US Food and Drug Administration has standards in place to ensure safety of trial volunteers. A Phase 1 Trial is the first time a new medicine or vaccine is tested on humans and includes between 20 and 100 healthy volunteers and seeks to learn if the vaccine or medication is safe, if it works, it there any serious side effects, and if the size of the dose is related to the side effects.\n",
+    "Questions using this term": [
+      "rec2shxecDOlAie8Q"
+    ],
+    "Status": "Published",
+    "Wordcount Definition": 96,
+    "Wordcount Term": 3,
+    "Total wordcount": 99
+  },
+  {
+    "id": "recKI7Pa78bZM8n78",
+    "Term": "Phase 2 Trial",
+    "Definition": "After a vaccine or medication has been cleared to advance from Phase 1 to Phase 2, several hundred volunteers are recruited for participation. A Phase 2 Trial seeks to learn what the most common short-term side effects are and understand how the volunteers respond to the medicine or vaccine.  In the case of a vaccine, in a Phase 2 Trial, researchers are specifically looking at how the immune system responds to the trial vaccine.\n",
+    "Questions using this term": [
+      "rec2shxecDOlAie8Q",
+      "rec9thjuTgT5ytu9t"
+    ],
+    "Status": "Published",
+    "Wordcount Definition": 75,
+    "Wordcount Term": 3,
+    "Total wordcount": 78
+  },
+  {
+    "id": "recQYfy6k4QB8HKXM",
+    "Term": "Phase 3 Trial",
+    "Definition": "After a vaccine or medication has been cleared to advance from Phase 2 to Phase 3, hundreds or thousands of volunteers are recruited for participation. A Phase 3 Trial seeks to understand what happens to people who do receive the medication or vaccine in comparison to those who do not. Researchers also evaluate if the medication or vaccine is safe, if it works (if it is effective), and what the most common side effects are. After a Phase 3 Trial, the manufacturer can ask for approval from the government (the Food and Drug Administration in the US, for example) if the new medicine or vaccine is safe and effective and its benefits are greater than its risks.\n",
+    "Questions using this term": [
+      "rec2shxecDOlAie8Q",
+      "rec9thjuTgT5ytu9t"
+    ],
+    "Status": "Published",
+    "Wordcount Definition": 117,
+    "Wordcount Term": 3,
+    "Total wordcount": 120
+  },
+  {
+    "id": "rec71GRZ4tY3XHahI",
+    "Term": "genetic",
+    "Definition": "\"Genetic\" is an adjective that means relating to genes [cross-reference with genes]. For example, genetic material (e.g. DNA, RNA) is material from an organism carrying hereditary information that can be passed from one generation to the next. Genetic engineering is the use of biotechnology to change an organism's genes, often to create genetically modified food, therapeutic drugs and vaccines.\n",
+    "Questions using this term": [
+      "rec2shxecDOlAie8Q"
+    ],
+    "Status": "Published",
+    "Wordcount Definition": 59,
+    "Wordcount Term": 1,
+    "Total wordcount": 60
+  },
+  {
+    "id": "recAz0hbQJmTotphI",
+    "Term": "mRNA vaccine",
+    "Definition": "mRNA vaccines use messenger RNA (abbreviated as mRNA) to create an immune response that can protect against infection. mRNA is a single-stranded RNA molecule that is critical in telling cells to make proteins [cross-reference with RNA, protein] and trigger an immune response.\n\nmRNA vaccines are non-infectious and can have safety benefits over conventional vaccines that contain weakened or inactivated germs. The Pfizer and Moderna COVID-19 vaccine candidates are examples of mRNA vaccines. \n",
+    "Questions using this term": [
+      "rec2shxecDOlAie8Q"
+    ],
+    "Status": "Published",
+    "Wordcount Definition": 72,
+    "Wordcount Term": 2,
+    "Total wordcount": 74
+  },
+  {
+    "id": "recDjpljNhPHIGIdl",
+    "Term": "statistical significance",
+    "Definition": "Statistical significance refers to when the result of a study is unlikely to have happened by chance. Results can be reported as statistically significant when the likelihood of the result happening by chance is usually set at 5% (p<0.05) or lower, depending on the field of research and the specifics of the study.\n\nIt is important to remember that even though a statistically significant result is unlikely to have happened by chance alone, the result still could have actually happened by chance (rather than due to a treatment or intervention). Additionally, statistical significance does not necessarily mean that a result is important or has practical significance. Clinical significance is the term used to refer to when a treatment has a real and noticeable effect in life. \n",
+    "Questions using this term": [
+      "rec2shxecDOlAie8Q"
+    ],
+    "Status": "Published",
+    "Internal notes": "[@Emily LaRose](https://airtable.com/appKBFbOCN23iz8eF/menbhpaLkcxykVqD8/usroPZ4yKxHAs6odJ?recordId=recDjpljNhPHIGIdl&fieldId=fldFWQAjehRWQv5n2) [@Christin Gilmer](https://airtable.com/appKBFbOCN23iz8eF/men6xNUjFZxBLeD1y/usrDTYZtkXBziEsWP?recordId=recDjpljNhPHIGIdl&fieldId=fldFWQAjehRWQv5n2) I got a statistics instructor at MIT to review this, but you may want to check this to make sure language is still accessible and accurate - it might also be too long for a glossary entry, so we may want to split some of this content into other entries. Thanks! (JH)\n\nTagging [@Megan Marrelli](https://airtable.com/appKBFbOCN23iz8eF/menAq11f4BlauX4UF/usrMppbVYyXPkbsJq?recordId=recDjpljNhPHIGIdl&fieldId=fldFWQAjehRWQv5n2) to review then we can revise/edit as needed (EL)\n",
+    "Wordcount Definition": 126,
+    "Wordcount Term": 2,
+    "Total wordcount": 128
+  },
+  {
+    "id": "recjO3BV7pxq9azVL",
+    "Term": "preclinical testing",
+    "Definition": "Before a new medicine or vaccine can be tested in humans in clinical trials, it is tested in laboratory cells and/or animals to determine if it is safe and effective (if it works).\n",
+    "Questions using this term": [
+      "rec2shxecDOlAie8Q"
+    ],
+    "Status": "Published",
+    "Wordcount Definition": 33,
+    "Wordcount Term": 2,
+    "Total wordcount": 35
+  },
+  {
+    "id": "recoghnXBPMudiniS",
+    "Term": "viral vector vaccine",
+    "Definition": "Viral vectors are tools used to deliver genetic information into cells, often made from weakened or inactivated viruses (e.g. adenoviruses that cause the common cold). Vector-based vaccines use viral vectors to deliver genetic information for our body to produce antigens, which create an immune response that can protect against infection [cross-reference with virus, antigen]. \n\nSince vector-based vaccines get the body to produce antigens, one benefit is that a single dose of this type of vaccine may be sufficient for protection, like with the Ervebo vaccine for Ebola.\n",
+    "Status": "Published",
+    "Wordcount Definition": 87,
+    "Wordcount Term": 3,
+    "Total wordcount": 90
+  },
+  {
+    "id": "recyZcuCITdQF1J6s",
+    "Term": "protein-based vaccine",
+    "Definition": "Protein-based vaccines use isolated proteins from germs (e.g. bacteria, viruses) to create an immune response that can protect against infection [cross-reference with RNA, protein].\n\nProtein-based vaccines are non-infectious and can have safety benefits over conventional vaccines that contain weakened or inactivated germs. The Sanofi and GSK COVID-19 vaccine candidate is an example of a protein-based vaccine.\n",
+    "Status": "Published",
+    "Wordcount Definition": 55,
+    "Wordcount Term": 2,
+    "Total wordcount": 57
+  },
+  {
+    "id": "rech5b3fZCsVLwYTi",
+    "Term": "repurposed vaccine",
+    "Definition": "Repurposed vaccines use existing vaccines combined with new components to create an immune response that can protect against infection from a different disease. For example, researchers at the University of Sydney and Centenary Institute are trying to repurpose an existing tuberculosis (TB) vaccine, called Bacille Calmette-Guérin (BCG), for a COVID-19 vaccine.\n",
+    "Status": "Published",
+    "Wordcount Definition": 51,
+    "Wordcount Term": 2,
+    "Total wordcount": 53
+  },
+  {
+    "id": "recveSOS4CT67fNhU",
+    "Term": "inactivated virus vaccine",
+    "Definition": "Inactivated vaccines use germs (e.g. bacteria, viruses) that have been killed to create an immune response that can protect against infection. In an attenuated virus vaccine, a small quantity of the killed virus is used for the vaccine. This differs from an attenuated virus vaccine, which uses a weakened live version of the virus for the vaccine [cross-reference with attenuated virus vaccine].\n\nInactivated vaccines are sometimes not as strong as attenuated vaccines, so multiple doses or booster shots of an inactivated vaccine may be required to provide ongoing protection against a disease. The vaccine for Hepatitis A is an example of an inactivated virus vaccine.\n",
+    "Status": "Published",
+    "Wordcount Definition": 104,
+    "Wordcount Term": 3,
+    "Total wordcount": 107
+  },
+  {
+    "id": "recSzNFBOgQUnLtAd",
+    "Term": "attenuated virus vaccine",
+    "Definition": "Live-attenuated vaccines use germs (e.g. bacteria, viruses) that have been weakened (i.e. attenuated) to create an immune response that can protect against infection. In an attenuated virus vaccine, a small quantity of the weakened live virus is used for the vaccine. This differs from an inactivated virus vaccine, which uses a killed version of the virus for the vaccine [cross-reference with inactivated virus vaccine].\n\nPeople with weakened immune systems or certain health conditions may need to consult a physician before taking a live-attenuated vaccine. Attenuated vaccines typically need to be kept cold during transportation, requiring certain infrastructure for distribution. The combined vaccine for measles, mumps and rubella (MMR) is an example of an attenuated virus vaccine.\n",
+    "Status": "Published",
+    "Wordcount Definition": 115,
+    "Wordcount Term": 3,
+    "Total wordcount": 118
   }
 ]
