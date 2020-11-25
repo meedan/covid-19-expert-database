@@ -304,41 +304,6 @@
     "Total wordcount": 82
   },
   {
-    "id": "rec3XmnugOMexQiQA",
-    "Term": "experimental treatment",
-    "Definition": "An experimental treatment is a medication or therapy that is being tested to evaluate if it is effective against an illness or medical condition. Experimental treatments may be existing medications or therapies that are known to work in treating one illness that are tried as a treatment for another illness (i.e. when an antiviral medication is used to treat a new virus, early treatments are considered experimental because it is unclear as to whether or not the medication will work). Experimental treatments may also be new medications or treatments that have not been used before. In addition to learning whether experimental treatments treat particular illnesses, the experimental process evaluates the therapies for possible side effects.\n",
-    "Questions using this term": [
-      "rec9thjuTgT5ytu9t",
-      "rec1lIxrlFHbwK7NV"
-    ],
-    "Status": "Published",
-    "French": [
-      "recSzsRVZvSvXvlel"
-    ],
-    "Hindi": [
-      "reczL6p3LSFic06ab"
-    ],
-    "Telugu": [
-      "recTPj1uejyNxO2Mn"
-    ],
-    "Spanish": [
-      "recrZQ9NrhdhkPDS0"
-    ],
-    "Arabic": [
-      "recIMOdquYjpRXYhY"
-    ],
-    "Bengali": [
-      "recFvgwqnTGFSdwmq"
-    ],
-    "Portuguese": [
-      "recepujRRaXKztKiV"
-    ],
-    "Internal notes": "[@Emily LaRose](https://airtable.com/appKBFbOCN23iz8eF/mengrToiwoPg5k6ql/usroPZ4yKxHAs6odJ?recordId=rec3XmnugOMexQiQA&fieldId=fldFWQAjehRWQv5n2) It seems to me that in definitions, you often use “i.e” (that is to say) when “e.g.” (for example) could be a better fit. What do you think? :-) \n",
-    "Wordcount Definition": 115,
-    "Wordcount Term": 2,
-    "Total wordcount": 117
-  },
-  {
     "id": "recZZhsMRrNyDPnjg",
     "Term": "pre-exposure",
     "Definition": "Pre-exposure refers to the period before a person is exposed to something, usually a disease or infection.\n",
@@ -1226,37 +1191,6 @@
     "Total wordcount": 45
   },
   {
-    "id": "recwhS0IsusP5qFNc",
-    "Term": "randomized controlled trial",
-    "Definition": "A randomized controlled trial (RCT) is a type of scientific experiment where a group of people are randomly divided into multiple groups, and the groups are treated differently during the study period, to see if the experimental treatments change the participants' health. \n\nIn RCTs, there is at least one control group that receives either the standard (usual or non-experimental treatment), a placebo treatment, or no treatment at all. There is also at least one experimental group that receives the test therapy that may include a new medication, a different medication dose, targeted education, or other intervention.  All of the participants in an RCT are monitored during the study to determine the experimental/test therapy changes health outcomes; some therapies may improve or worsen health.\n",
-    "Status": "Published",
-    "French": [
-      "recKgDIquwTvB5xPR"
-    ],
-    "Hindi": [
-      "recZzMR1KiQjYok9q"
-    ],
-    "Telugu": [
-      "recEtHuNtmOWh5Oys"
-    ],
-    "Spanish": [
-      "recEb0MXWSHmbNJ0F"
-    ],
-    "Arabic": [
-      "recYmgezEFi4kzCr5"
-    ],
-    "Bengali": [
-      "recxjTTqk8oUe7oRj"
-    ],
-    "Portuguese": [
-      "recWzdE6Z49QVfj1i"
-    ],
-    "Internal notes": "[@Emily LaRose](https://airtable.com/appKBFbOCN23iz8eF/men6Qo92rRBUrMRZl/usroPZ4yKxHAs6odJ?recordId=recwhS0IsusP5qFNc&fieldId=fldFWQAjehRWQv5n2) The word “treatment” is missing in “the standard (usual or non-experimental treatment), a placebo treatment, or no treatment at all” for the sentence logic to hold. This could rather read: “receives either the standard treatment (usual or non-experimental treatment), a placebo treatment, or no treatment at all”.\n",
-    "Wordcount Definition": 124,
-    "Wordcount Term": 3,
-    "Total wordcount": 127
-  },
-  {
     "id": "rec39wm7MuK12bTI3",
     "Term": "germs",
     "Definition": "Germs are microorganisms and a part of everyday life. They can be found in our air, soil, water, and in and on our bodies. Some germs are helpful, others are harmful. Many germs live in and on our bodies without causing harm and some even help us to stay healthy. Only a small portion of germs are known to cause infection. Germs are also known as infectious agents and refer to viruses, bacteria, or other microbes.\n",
@@ -1431,41 +1365,6 @@
     "Total wordcount": 131
   },
   {
-    "id": "recPX0N6FB6koiXCL",
-    "Term": "randomization",
-    "Definition": "Randomization is a technique used in scientific research to divide participants into random groups by chance, rather than assigning them by choice. Once patients meet the general criteria to be included in a study, randomization is done to reduce bias so that everyone who participates in the study has an equal chance of being in a treatment (or test) group or a control group. It prevents researchers from purposely selecting certain patients who are more likely to perform better in the study (i.e. patients who are younger or those who seem generally healthier). \n",
-    "Questions using this term": [
-      "recpt1R0CCrgLqFhO"
-    ],
-    "Status": "Published",
-    "French": [
-      "rec6NlTvOmQP1MrDn"
-    ],
-    "Hindi": [
-      "recDBg6zMMcfeOKtr"
-    ],
-    "Telugu": [
-      "recpzWNBApVsdXL2i",
-      "recUrGrnOZ30Msyi8"
-    ],
-    "Spanish": [
-      "rec2SPlTh2tdvEyne"
-    ],
-    "Arabic": [
-      "recGhuKl1S5puQ8Pa"
-    ],
-    "Bengali": [
-      "rec3T686s6VDc0pd5"
-    ],
-    "Portuguese": [
-      "rec2uKwVJ5PKpjahN"
-    ],
-    "Internal notes": "[@Emily LaRose](https://airtable.com/appKBFbOCN23iz8eF/mengaTq8a8P3KLkUL/usroPZ4yKxHAs6odJ?recordId=recPX0N6FB6koiXCL&fieldId=fldFWQAjehRWQv5n2) Since random means happening, done, or chosen by chance rather than according to a plan, “into random groups by chance” is redundant.\nIf you do not want to use random to define randomization, it could rather read “to divide participants into groups by chance”.\nAlso “e.g.” could be used instead of “i.e.” since we are giving two examples of what biased selection could be, we are not saying that biased selection is always choosing patients who are younger or those who seem generally healthier. \n",
-    "Wordcount Definition": 94,
-    "Wordcount Term": 1,
-    "Total wordcount": 95
-  },
-  {
     "id": "recqf9kWDH9WkLibg",
     "Term": "blood vessels",
     "Definition": "Blood vessels are tubes of different sizes present throughout the body. Larger blood vessels carry blood to the heart from other parts of the body (veins) or away from the heart to other parts of the body (arteries). Larger blood vessels connect to smaller blood vessels in the body that transport blood within tissues, where they exchange water, oxygen, carbon dioxide, and other compounds (i.e. vitamins, minerals, electrolytes, hormones). Arteries, arterioles, capillaries, venules, and veins are all different types of blood vessels that are part of the circulatory system. \n\nOther words that are used to describe blood vessels include vascular system, cardiovascular system (includes the heart and blood vessels), and circulatory system.\n",
@@ -1498,40 +1397,6 @@
     "Wordcount Definition": 112,
     "Wordcount Term": 2,
     "Total wordcount": 114
-  },
-  {
-    "id": "recqwr4O57SOjNZYx",
-    "Term": "organ",
-    "Definition": "An organ is a body part with a specific structure, function, and cell type. Organs in the human body include, but are not limited to, the heart, liver, stomach, brain, kidneys, and lungs. Organs in the human body are part of organ systems. For example, the digestive system includes the stomach in addition to the esophagus and intestines; the circulatory system includes both the heart and blood vessels that circulate blood throughout the body. There are 10 organic systems in total including the following: integumentary (skin), skeletal (bones), muscular (muscles), nervous (nerves), endocrine (hormonal), digestive, respiratory (breathing), circulatory, excretory (urine, waste), and reproductive.\n",
-    "Questions using this term": [
-      "recbwOwl3dwdrh1iY"
-    ],
-    "Status": "Published",
-    "French": [
-      "rectEEG97iAhTnwMP"
-    ],
-    "Hindi": [
-      "recfG0Ep7PnNCgLr5"
-    ],
-    "Telugu": [
-      "recQMrcsT2itGIEpD"
-    ],
-    "Spanish": [
-      "recwXFiRtQl0OLXxu"
-    ],
-    "Arabic": [
-      "recnkzz35g9c8huL5"
-    ],
-    "Bengali": [
-      "rec6TeRATw1gRQVoB"
-    ],
-    "Portuguese": [
-      "recmfZmRWmWZ4KUbt"
-    ],
-    "Internal notes": "[@Emily LaRose](https://airtable.com/appKBFbOCN23iz8eF/menC2QWh621XVYh5t/usroPZ4yKxHAs6odJ?recordId=recqwr4O57SOjNZYx&fieldId=fldFWQAjehRWQv5n2) Would “There are 10 organ systems” be more accurate? Also, would it make sense to add a word in parentheses for all organ systems (because all readers may not have a clear understanding)?\n",
-    "Wordcount Definition": 103,
-    "Wordcount Term": 1,
-    "Total wordcount": 104
   },
   {
     "id": "rec06X4QusZL1zCzd",
@@ -1617,7 +1482,8 @@
       "recVRsQKdIEEtButM",
       "recufj0t4myAoM7yM",
       "rec3gzGDZLC9DoYmq",
-      "rec6Ka1kiwtOXSKe0"
+      "rec6Ka1kiwtOXSKe0",
+      "rech0c2iaQGp03KXI"
     ],
     "Status": "Published",
     "French": [
@@ -2011,7 +1877,8 @@
       "recVRsQKdIEEtButM",
       "reczdKiAkOFyEuS5P",
       "recufj0t4myAoM7yM",
-      "rec3gzGDZLC9DoYmq"
+      "rec3gzGDZLC9DoYmq",
+      "rech0c2iaQGp03KXI"
     ],
     "Status": "Published",
     "French": [
@@ -2029,41 +1896,6 @@
     "Wordcount Definition": 15,
     "Wordcount Term": 1,
     "Total wordcount": 16
-  },
-  {
-    "id": "rec5P1moAv3DjPkbT",
-    "Term": "human challenge trial",
-    "Definition": "A human challenge trial is a type of medical research study that helps to determine if a vaccine is effective in preventing illness against a particular pathogen (i.e. virus). A volunteer receives the vaccine and, in the weeks following, the volunteer is intentionally exposed to the pathogen (i.e. virus) to see if the vaccine works to prevent infection.\n",
-    "Questions using this term": [
-      "reci5KRmNIo5UfFt5"
-    ],
-    "Status": "Published",
-    "French": [
-      "recXmU1X3lGGvAQvK"
-    ],
-    "Hindi": [
-      "rec211mH9oe56brQ2",
-      "recG3PXdBKvQkR4FF"
-    ],
-    "Telugu": [
-      "recRchATDJrdl0ZE6"
-    ],
-    "Spanish": [
-      "rectCRNBmeVrtDPDI"
-    ],
-    "Arabic": [
-      "recqpghi3IbuULxz2"
-    ],
-    "Bengali": [
-      "reckV7eKDeGJqP7y2"
-    ],
-    "Portuguese": [
-      "recFeRu0mZ5djT2TE"
-    ],
-    "Internal notes": "[@Emily LaRose](https://airtable.com/appKBFbOCN23iz8eF/meneF9HHRDI0trUHQ/usroPZ4yKxHAs6odJ?recordId=rec5P1moAv3DjPkbT&fieldId=fldFWQAjehRWQv5n2) Here as in many other glossary entries, it seems that “i.e.” should rather read “e.g.” in the first occurrence: “(e.g., a virus)”. The second one makes more sense. Using “i.e.” implies that the pathogen is always a virus in such a trial. Is that the case?\n",
-    "Wordcount Definition": 58,
-    "Wordcount Term": 3,
-    "Total wordcount": 61
   },
   {
     "id": "recE5fZ79yZqKorXK",
@@ -2178,7 +2010,8 @@
     "Definition": "Vaccine effectiveness studies examine how well a vaccine prevents a particular disease in the “real world,” where people are doing things like going to the grocery store, work, and school. Vaccine effectiveness is different from vaccine efficacy because efficacy is used to measure how well a vaccine works to prevent a particular disease in controlled, research environments.\n\nThough vaccine efficacy and vaccine effectiveness are similar terms and are often used interchangeably, the differences between the two terms are important. When a new vaccine is being developed and studied in clinical trials, the vaccine's efficacy is reported until the vaccine is made available for large population groups, at which point effectiveness can be measured. Real world vaccine effectiveness reflects population differences in health status, weight, age, and other factors across communities and is a much more reliable and accurate term for how helpful a vaccine is at preventing disease in daily life.\n",
     "Questions using this term": [
       "recfMZ84AyYqSqoBS",
-      "recGJZyxcGglnEryM"
+      "recGJZyxcGglnEryM",
+      "rec2shxecDOlAie8Q"
     ],
     "Status": "Published",
     "Wordcount Definition": 149,
@@ -2192,7 +2025,8 @@
     "Questions using this term": [
       "recYE4J6Nh1lta1lB",
       "recfMZ84AyYqSqoBS",
-      "recGJZyxcGglnEryM"
+      "recGJZyxcGglnEryM",
+      "rec2shxecDOlAie8Q"
     ],
     "Status": "Published",
     "Wordcount Definition": 98,
