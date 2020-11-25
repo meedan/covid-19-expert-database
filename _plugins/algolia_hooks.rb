@@ -13,7 +13,7 @@ module Jekyll
         # if record[:Term]
         #   record[:content_type] = 'glossary'
         # end
-        puts record[:'What our experts say']
+        # puts record[:'What our experts say']
         if record[:'What our experts say'].to_s.size > 1400
           record.delete(:'What our experts say')
         end
