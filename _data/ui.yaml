@@ -1,6 +1,6 @@
 t:
   en-US:
-    site-name: "Covid-19 Expert Database"
+    site-name: "LearnAboutCovid-19 Health Desk"
     ask-a-question: "Ask our experts a question"
     ask-a-question-subhead: "Responses are added to this database"
     ask-a-question-promo: "Did not find what you are looking for? Help is at hand."
@@ -46,7 +46,7 @@ t:
       follow-up: "I am okay with being contacted"
       follow-up-label: "I am okay with being contacted"
       button-label: "Send"
-      thanks: "Thanks for submitting your question to the COVID-19 Expert Database."
+      thanks: "Thanks for submitting your question to the LearnAboutCovid-19 Health Desk."
       thanks-next: "All questions are triaged by our team of experts and journalists. The ones that get the green light will show up in the database once they're answered!"
       thanks-home-link-label: "Back to home"
     about-project:
@@ -81,7 +81,7 @@ t:
     search:
       label: "What are you looking for?"
   fr:
-    site-name: "Covid-19 Expert Database"
+    site-name: "LearnAboutCovid-19 Health Desk"
     ask-a-question: "Poser une question"
     ask-a-question-subhead: "Responses are added to this database"
     ask-a-question-promo: "Did not find what you are looking for? Help is at hand."
@@ -161,7 +161,7 @@ t:
     search:
       label: "Que cherchez-vous ?"
   hi:
-    site-name: "Covid-19 Expert Database"
+    site-name: "LearnAboutCovid-19 Health Desk"
     ask-a-question: "प्रश्न पूछें"
     ask-a-question-subhead: "Responses are added to this database"
     ask-a-question-promo: "Did not find what you are looking for? Help is at hand."
@@ -241,7 +241,7 @@ t:
     search:
       label: "तुम क्या ढूंढ रहे हो?"
   te:
-    site-name: "Covid-19 Expert Database"
+    site-name: "LearnAboutCovid-19 Health Desk"
     ask-a-question: "ఒక ప్రశ్న అడగండి "
     ask-a-question-subhead: "Responses are added to this database"
     ask-a-question-promo: "Did not find what you are looking for? Help is at hand."
@@ -322,7 +322,7 @@ t:
     search: 
       label: "మీరు ఏమి చూస్తున్నారు?"
   es:
-    site-name: "Covid-19 Expert Database"
+    site-name: "LearnAboutCovid-19 Health Desk"
     ask-a-question: "Haz una Pregunta"
     ask-a-question-subhead: "Responses are added to this database"
     ask-a-question-promo: "Did not find what you are looking for? Help is at hand."
@@ -403,7 +403,7 @@ t:
     search: 
       label: "¿Qué estás buscando?"
   pt:
-    site-name: "Covid-19 Expert Database"
+    site-name: "LearnAboutCovid-19 Health Desk"
     ask-a-question: "Faça uma pergunta"
     ask-a-question-subhead: "Responses are added to this database"
     ask-a-question-promo: "Did not find what you are looking for? Help is at hand."
@@ -484,7 +484,7 @@ t:
     search:
       label: "O que você está procurando?"
   bn:
-    site-name: "Covid-19 Expert Database"
+    site-name: "LearnAboutCovid-19 Health Desk"
     ask-a-question: "প্রশ্ন জিজ্ঞাসা করুন"
     ask-a-question-subhead: "Responses are added to this database"
     ask-a-question-promo: "Did not find what you are looking for? Help is at hand."
@@ -565,7 +565,7 @@ t:
     search:
       label: "আপনি কি খুজছেন?"
   ar:
-    site-name: "Covid-19 Expert Database"
+    site-name: "LearnAboutCovid-19 Health Desk"
     ask-a-question: "اطرح سؤالا"
     ask-a-question-subhead: "Responses are added to this database"
     ask-a-question-promo: "Did not find what you are looking for? Help is at hand."
