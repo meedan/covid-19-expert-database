@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang }}">
+{% include head.html %}
+
+<body class="landing-page {{ page.lang }}">
+  {% include header.html %}
+  <div class="content-wrapper">
+    {% if page.description %}
+      <h2 class="lead">
+          {{ page.description }}
+      </h2>
+    {% endif %}
+    <div class="content">
+        {{ content | markdownify }}
+    </div>
+  </div>
+  {% include js.html %}
+</body>
+
+</html>

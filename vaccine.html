@@ -1,0 +1,37 @@
+---
+title: Vaccine Media Hub
+description: |
+    Coming Soon! <br />
+lang: en-US
+layout: landing-page
+permalink: vaccines
+slug: vaccines
+---
+<h3><a href="//www.smc.org.au/about-us">The Australian Science Media Centre</a> and <a href="//meedan.com">Meedan</a> are collaborating to bring journalists and fact-checkers the latest scientific information about COVID-19 vaccines.</h3>
+<div class="logos-with-description">
+    <div class="logo-with-description">
+        <a class="logo" href="//www.smc.org.au/about-us" title="Learn more about The Australian Science Media Centre"><img src="/images/AusSMC_Logo.svg" width="220" alt="The Australian Science Media Centre logo"></a>
+        <div class="description">
+            The Australian Science Media Centre works to enhance the media’s coverage of science, for the benefit of all Australians. We provide the evidence and experts when science hits the headlines. <a href="//www.smc.org.au/about-us">Read more</a>
+        </div>
+    </div>
+    <div class="logo-with-description">
+        <a class="logo"  href="//health.meedan.com" title="Learn more about Digital Health Lab"><img src="/images/logo.png" width="220" alt="Digital Health Lab logo"></a>
+        <div class="description">
+            Meedan’s Digital Health Lab is committed to making important and topical COVID-19 information accessible and deadline-friendly to newsrooms, freelance journalists, fact-checking organizations, and communicators around the world. <a href="//health.meedan.com">Read more</a>
+        </div>
+    </div>
+</div>
+<div class="subscribe-to-updates">
+    <h3>Don’t miss the launch - Subscribe to updates</h3>
+    <form name="subscribe-to-updates" method="POST" id="subscribe-to-updates" class="subscribe-to-updates-form" action="/thanks" netlify-honeypot="bot" data-netlify="true">
+        <div class="form-group" style="display: none;">
+          <label>Don’t fill this out: <input name="bot"></label>
+        </div>
+        <div class="form-group">
+            <label for="email">{{ site.data.ui.t[page.lang].form.email-label }}</label>
+            <input id="email" type="email" name="email" placeholder="{{ site.data.ui.t[page.lang].form.email-placeholder }}" required>
+          </div>
+        <button type="submit" class="button">{{ site.data.ui.t[page.lang].form.button-label }}</button>
+    </form>
+</div>
