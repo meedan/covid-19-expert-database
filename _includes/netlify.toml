@@ -1,4 +1,4 @@
 [[redirects]]
-  from = "https://health-desk.org"
+  from = "https://health-desk.org/*"
   to = "https://health-desk.org/vaccines"
   status = 200
