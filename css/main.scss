@@ -567,7 +567,7 @@ body.hi header nav {
     }
 }
 
-.landing-page h2.lead {
+.vaccines h2.lead {
     @include responsive('min-width: #{$width-tablet}') {
         grid-column: 2/6;
     }

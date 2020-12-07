@@ -1,0 +1,13 @@
+<div class="subscribe-to-updates">
+    <h3>Don’t miss the launch - Subscribe to updates</h3>
+    <form name="subscribe-to-updates" method="POST" id="subscribe-to-updates" class="subscribe-to-updates-form" action="/thanks-for-subscribing" netlify-honeypot="bot" data-netlify="true">
+        <div class="form-group" style="display: none;">
+          <label>Don’t fill this out: <input name="bot"></label>
+        </div>
+        <div class="form-group">
+            <label for="email">{{ site.data.ui.t[page.lang].form.email-label }}</label>
+            <input id="email" type="email" name="email" placeholder="{{ site.data.ui.t[page.lang].form.email-placeholder }}" required>
+          </div>
+        <button type="submit" class="button">{{ site.data.ui.t[page.lang].form.button-label }}</button>
+    </form>
+</div>

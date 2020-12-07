@@ -2,7 +2,7 @@
 <html lang="{{ page.lang }}">
 {% include head.html %}
 
-<body class="{% if page.slug == '/' %}front {% endif %}{{ page.lang }}">
+<body class="{% if page.slug == '/' %}front {% endif %}{{ page.lang }} {{ page.slug }}">
   {% include header.html %}
   <div class="content-wrapper">
     {% if page.description %}
@@ -45,16 +45,19 @@
           {% include logos.html %}
           {% include support.html %}
         {% endif %}
-      </div>
-    {% endif %}
-    {% if page.modules.en-US %}
-      <div class="modules-wrapper">
-        {% for module in page.modules.en-US %}
-          {% 
-            include cases_modules.html 
-            module=module
-          %}
-        {% endfor %}
+        {% if page.modules.en-US %}
+          <div class="modules-wrapper">
+            {% for module in page.modules.en-US %}
+              {% 
+                include cases_modules.html 
+                module=module
+              %}
+            {% endfor %}
+          </div>
+        {% endif %}
+        {% if page.slug == 'vaccines' %}
+          {% include subscribe-to-updates.html %}
+        {% endif %}
       </div>
     {% endif %}
   </div>
