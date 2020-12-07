@@ -17,6 +17,7 @@ t:
       glossary: "Glossary"
       about: "About"
       blog: "Blog"
+      vaccines: "Vaccine media hub"
     newsletter:
       lead: "This database is updated regularly."
       cta: "Catch up on weekly highlights from award-winning journalist and medical doctor, Dr. Seema Yasmin, by <a href='//meedan.com/checklist'>subscribing to our newsletter</a>."
@@ -98,6 +99,7 @@ t:
       glossary: "Glossaire"
       about: "À propos"
       blog: "Blogue"
+      vaccines: "Vaccine media hub"
     newsletter:
       lead: "Cette base de données est mise à jour régulièrement."
       cta: "Retrouvez les temps forts de la semaine avec la Dre Seema Yasmin, médecin et journaliste primée, en <a href='//meedan.com/checklist'>vous abonnant à notre lettre d’information.</a>"
@@ -178,6 +180,7 @@ t:
       glossary: "शब्दकोष"
       about: "हमारे बारे में"
       blog: "ब्लॉगब्लॉग"
+      vaccines: "Vaccine media hub"
     newsletter:
       lead: "डेटाबेस नियमित रूप से अपडेट किया जाता है।"
       cta: "<a href='//meedan.com/checklist'> हमारे न्यूज़लेटर </a> की सदस्यता पे जानीए पुरस्कार विजेता पत्रकार और चिकित्सा चिकित्सक, डॉ। सीमा यास्मीन के साप्ताहिक।"
@@ -258,6 +261,7 @@ t:
       glossary: "పదకోశం"
       about: "గురించి"
       blog: "బ్లాగ్"
+      vaccines: "Vaccine media hub"
     newsletter:
       lead: "ఈ డేటాబేస్ క్రమం తప్పకుండా నవీకరించబడుతుంది."
       cta: "మా వార్తాలేఖకు చందా పొందడం ద్వారా అవార్డు గెలుచుకున్న జర్నలిస్ట్ మరియు వైద్య వైద్యుడు డాక్టర్ సీమా యాస్మిన్ నుండి వారపు ముఖ్యాంశాలను తెలుసుకోండి."
@@ -339,6 +343,7 @@ t:
       glossary: "Glosario"
       about: "Acerca de"
       blog: "Blog"
+      vaccines: "Vaccine media hub"
     newsletter:
       lead: "Esta base de datos es actualizada regularmente."
       cta: "Entérate de los destacados semanales por la periodista premiada y doctora en medicina, Dr. Seema Yasmin, <a href='//meedan.com/checklist'>suscribiéndote a nuestro boletín informativo</a>."
@@ -420,6 +425,7 @@ t:
       glossary: "Glossário"
       about: "Sobre"
       blog: "Blog"
+      vaccines: "Vaccine media hub"
     newsletter:
       lead: "Esta base de dados é regularmente atualizada"
       cta: "Saiba mais sobre os destaques da semana com a jornalista premiada e doutora em medicina, Dr. Seema Yasmin, <a href='//meedan.com/checklist'>assinando o nosso boletim de informações.</a> "
@@ -501,6 +507,7 @@ t:
       glossary: "শব্দকোষ"
       about: "আমাদের সম্পর্কে"
       blog: "ব্লগ"
+      vaccines: "Vaccine media hub"
     newsletter:
       lead: "এই ডাটাবেস নিয়মিত আপডেট করা হয়।"
       cta: "<a href='//meedan.com/checklist'>আমাদের নিউজলেটার সাবস্ক্রাইব করে </a> পুরষ্কারপ্রাপ্ত সাংবাদিক এবং মেডিকেল চিকিৎসক ডাঃ সীমা ইয়াসমিনের সাপ্তাহিক হাইলাইটগুলি দেখুন|"
@@ -582,6 +589,7 @@ t:
       glossary: "قاموس المصطلحات"
       about: "حول"
       blog: "المدونة"
+      vaccines: "Vaccine media hub"
     newsletter:
       lead: "يجري تحديث قاعدة البيانات هذه باستمرار"
       cta: "تابع أهم الأحداث الأسبوعية للصحفية والطبيبة الحائزة على عدة جوائز، الدكتورة سيما ياسمين، من خلال <a href='//meedan.com/checklist'> الاشتراك في النشرة الإخبارية </a>‏"

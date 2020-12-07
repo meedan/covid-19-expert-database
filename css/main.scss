@@ -173,7 +173,7 @@ header {
 }
 
 header .header-wrapper {
-    grid-column: 1/5;
+    grid-column: 1/4;
     display: flex;
     align-items: center;
     @media (min-width: 1px) and (max-width: #{$width-tablet}) {
@@ -199,7 +199,7 @@ header nav {
     display: flex;
     align-items: center;
     @include responsive('min-width: #{$width-tablet}') {
-        grid-column: 5/-1;
+        grid-column: 4/-1;
         align-self: center;
         text-align: right;
         justify-content: flex-end;
@@ -565,4 +565,113 @@ body.hi header nav {
     &:hover {
         color: var(--edbRed);
     }
+}
+
+.vaccines h2.lead {
+    @include responsive('min-width: #{$width-tablet}') {
+        grid-column: 2/6;
+    }
+}
+
+.content-wrapper .logos-with-description {
+    margin-top: var(--space-3);
+    margin-bottom: var(--space-1);
+    .logo-with-description {
+        @include responsive('min-width: #{$width-tablet}') {
+            display: flex;
+        }
+        margin-bottom: var(--space-3);
+        .logo {
+            flex: 1 0 auto;
+            display: flex;
+            align-items: center;
+        }
+    }
+    .description {
+        padding-left: var(--space-4);
+    }   
+}
+
+.subscribe-to-updates {
+    margin-top: var(--section-space);
+}
+
+.subscribe-to-updates-form label {
+	display: block;
+	text-transform: uppercase;
+	font-size: 1vw;
+	line-height: 4vw;
+	height: 4vw;
+}
+
+@media (min-width: 1px) and (max-width: #{$width-tablet}) {
+	.subscribe-to-updates-form label {
+		font-size: 3vw;
+		line-height: 8vw;
+		height: 8vw;
+	}
+}
+
+.subscribe-to-updates-form input:not([type='checkbox']), 
+.subscribe-to-updates-form textarea {
+	display: block;
+	border: 1px solid var(--blackInk);
+	margin: 0;
+	padding: 1vw;
+	font-weight: 400;
+	font-size: 2vw;
+	line-height: 6vw;
+	height: 6vw;
+	outline: 0;
+	width: 100%;
+	background-color: #fff;
+	color: var(--blackInk);
+	&::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+	    color: rgba(var(--edbOrange), 0.8);
+	    opacity: 1; /* Firefox */
+	}
+
+	&:-ms-input-placeholder { /* Internet Explorer 10-11 */
+	    color: var(--edbOrange);
+	}
+
+	&::-ms-input-placeholder { /* Microsoft Edge */
+	    color: varedbOrange(--edbOrange);
+	}
+}
+
+@media (min-width: 1px) and (max-width: #{$width-tablet}) {
+    .subscribe-to-updates-form input:not([type='checkbox']), 
+    .subscribe-to-updates-form textarea {
+        font-size: 4vw;
+	    line-height: 10vw;
+	    height: 10vw;
+    }
+}
+
+.subscribe-to-updates-form button {
+	background-color: var(--edbGreen);
+	color: var(--blackInk);
+	display: block;
+	border: 0;
+	margin: var(--space-2) 0 var(--space-6) 0;
+	padding: 0;
+	line-height: 6vw;
+	height: 6vw;
+	outline: 0;
+	width: 100%;
+	font-size: 2vw;
+	cursor: pointer;
+	&:hover {
+		background-color: var(--edbOrange);
+		color: var(--blackInk);
+	}
+}
+
+@media (min-width: 1px) and (max-width: #{$width-tablet}) {
+	.subscribe-to-updates-form button {
+		font-size: 6vw;
+		line-height: 10vw;
+		height: 10vw;
+	}
 }

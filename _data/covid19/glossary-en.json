@@ -201,6 +201,33 @@
     "Total wordcount": 193
   },
   {
+    "id": "recSf7dMrMv3l3Tcl",
+    "Term": "viable",
+    "Definition": "Viable refers to when something is able to live, exist, or develop under favorable conditions. The term \"viable virus\" is commonly used to describe a virus that could infect someone if they were to come into contact with the virus on a surface or in the air. \n\nViruses die when they are not able to multiply inside cells, but how long it takes for them to die under those conditions varies, based on the virus, where it may be found, and how it may be spread. Viruses that are not inside of host cells can make people sick when they are spread in the air, on surfaces, in body fluids, in water, and via other methods. \n",
+    "Questions using this term": [
+      "recE68fRyDEYYEuIr"
+    ],
+    "Status": "Published",
+    "French": [
+      "recJecVrFicvxvKUo"
+    ],
+    "Hindi": [
+      "recjxkBb1qcNzbone"
+    ],
+    "Telugu": [
+      "recdzDQRF8tGdBq88"
+    ],
+    "Spanish": [
+      "reccCXGMw6kRYPebR"
+    ],
+    "Bengali": [
+      "recGzQXo59qekPwaC"
+    ],
+    "Wordcount Definition": 117,
+    "Wordcount Term": 1,
+    "Total wordcount": 118
+  },
+  {
     "id": "recRXYuU3tstg6EO0",
     "Term": "ventilation systems",
     "Definition": "Ventilation systems are mechanical systems that control air movement in a space like a building, home, car, or plane. Air may be exchanged from the outside to the inside of buildings (as well as from the indie to the outside) via open doors and windows or through heating and air conditioning systems (often called heating ventilation and air conditioning systems- HVAC systems). In some cases, however, ventilation systems recirculate indoor air without exchanging air from outside. To control air flow, humidity, temperature, and other factors, fans, pumps, grates, ducts, and filters are common parts of ventilation systems.\n",
@@ -817,7 +844,8 @@
       "reccN0swQANNJwGir",
       "recYE4J6Nh1lta1lB",
       "recuvuPywidjximuI",
-      "recyVfyjLKjekjqsL"
+      "recyVfyjLKjekjqsL",
+      "recz1V5igkqzuKxRx"
     ],
     "Status": "Published",
     "French": [
@@ -1296,6 +1324,37 @@
     "Wordcount Definition": 125,
     "Wordcount Term": 3,
     "Total wordcount": 128
+  },
+  {
+    "id": "recJK5tI9LgCGFRAU",
+    "Term": "placebo",
+    "Definition": "Placebos are commonly used in clinical trials. They look like a medicine or vaccine, but placebos are not part of an actual treatment or vaccine being tested. \n\nOften placebos are used in clinical trials where volunteers are randomly assigned (by chance) to either a test group receiving the experimental intervention (e.g. medicine or vaccine), or to a control group receiving a placebo (like a \"sugar pill,\" salt water injection, or another item that looks like the test treatment). In many trials, no one—not even the research team—knows who gets the treatment or the placebo. When participants, family members, and staff all are “blind” to the treatment while the study is underway, the study is called a “double-blind, placebo-controlled” clinical trial.\n\nAt the end of the study, the researchers use statistical analysis to compare the results from the experimental group and the placebo group to evaluate if the results are different between the two. The researchers then determine whether the findings are different because of the experimental treatment. \n",
+    "Questions using this term": [
+      "reclucIrtcCSCbOn6",
+      "rec2shxecDOlAie8Q",
+      "recyq5D0irsIhQn1B",
+      "recYE4J6Nh1lta1lB"
+    ],
+    "Status": "Published",
+    "French": [
+      "rec9u1FqEHMWwOsH4"
+    ],
+    "Hindi": [
+      "recKbTlpxjWSF5fYB"
+    ],
+    "Spanish": [
+      "recGgW4Bktpsn3Oa0"
+    ],
+    "Arabic": [
+      "rectnbCgt8WQhCSOz"
+    ],
+    "Portuguese": [
+      "recT3quYmsMGbeeQ1"
+    ],
+    "Internal notes": " [@Christin Gilmer](https://airtable.com/appKBFbOCN23iz8eF/men8shnLQBt3QO1AV/usrDTYZtkXBziEsWP?recordId=recJK5tI9LgCGFRAU&fieldId=fldFWQAjehRWQv5n2) [@Megan Marrelli](https://airtable.com/appKBFbOCN23iz8eF/men8e3Mz27j1V6oHJ/usrMppbVYyXPkbsJq?recordId=recJK5tI9LgCGFRAU&fieldId=fldFWQAjehRWQv5n2) please check this one as well- these are sometimes hard to make simple :)  This one was here, but not published so I edited quite a lot to simplify (though it's not inherently simple). (EL)\n\nEL, I added just a little but it seems great to me! - CG\n",
+    "Wordcount Definition": 167,
+    "Wordcount Term": 1,
+    "Total wordcount": 168
   },
   {
     "id": "rec39wm7MuK12bTI3",
@@ -2078,6 +2137,39 @@
     "Total wordcount": 98
   },
   {
+    "id": "recyXylBebc7GlxTi",
+    "Term": "immune response",
+    "Definition": "An immune response describes how the body reacts when it comes into contact with \"foreign invaders.\" The immune system is the part of the body that protects us from bacteria, viruses, fungi, and other \"foreign invaders\" that may cause harm even though they are too small to be seen without a microscope. The immune system \"responds\" (or reacts) to fight off these invaders.\n\nHumans are born with a natural \"innate\" immune system and develop an adaptive (or acquired) immune system as we are exposed to viruses and other microbes in everyday life. The adaptive immune system changes throughout life as we are exposed to these foreign invaders (like viruses and microbes), and the adaptive immune system develops antibodies (special proteins) that help remove these foreign invaders from the body. Some vaccines are designed to help the adaptive immune system to develop antibodies.\n",
+    "Questions using this term": [
+      "reciHqvo2ldywmQrQ",
+      "rec2shxecDOlAie8Q",
+      "recg7uMkciGJxiye0",
+      "rech0c2iaQGp03KXI"
+    ],
+    "Status": "Published",
+    "French": [
+      "recgejkaE9QtactSY"
+    ],
+    "Hindi": [
+      "recLJlr3Px9kjfpF7"
+    ],
+    "Telugu": [
+      "recgEPbn8FMkOqxjH"
+    ],
+    "Spanish": [
+      "reckMQjQz9kVwAa5s"
+    ],
+    "Arabic": [
+      "recd0iJqVr5CicwV8"
+    ],
+    "Bengali": [
+      "recevI1s5m84A4sh5"
+    ],
+    "Wordcount Definition": 141,
+    "Wordcount Term": 2,
+    "Total wordcount": 143
+  },
+  {
     "id": "recMJMGqkERKGcbL5",
     "Term": "phased testing",
     "Definition": "A phased testing approach involves a series of steps, where each step involves careful study and evaluation with a series of checkpoints to decide whether to proceed to the next phase. For medicines and vaccines, the process is overseen by the US Food and Drug Administration (FDA) in the US.\n\nSubstantial (preclinical) research needs to be completed by scientists before phased testing. Once the preclinical or \"pre-human\" research has been completed, there are three research phases of trials that take place. \n\nDuring the first stage (Phase 1), the new vaccine is provided to small groups of people—the first time the vaccine is tested in humans. This phase is used to learn if the vaccine or medication is safe, if it works, it there any serious side effects, and if the size of the dose is related to the side effects.\n\nThe second stage (Phase 2) involves testing the vaccine on people who have similar characteristics (such as age and physical health) to the target population, or the group for which the medicine or vaccine is intended. The goal of this stage is to learn what the most common short-term side effects are and understand how the volunteers respond to the medicine or vaccine.  In the case of a vaccine, in a Phase 2 Trial, researchers are specifically looking at how the immune system responds to the trial vaccine.\n\nThe final stage (Phase 3) provides the medicine or vaccine to hundreds or thousands of people to see how safe and effective it is and to identify the most common side effects. Once the medicine or vaccine clears this last stage, the manufacturer can apply for a license from regulatory authorities (like the FDA) to market for human use.\n\nSometimes medications or vaccines that have already been approved by the U.S. FDA in clinical trials will enter into a Phase 4 trial. This phase focuses on potential side effects from the vaccine or medication that were not seen in the first three phases. This phase also helps researchers understand how well a vaccine works over a longer time frame and how safe it is, often with thousands of people over several years. Phase 4 is also called a 'post-marketing surveillance' trial.\n",
@@ -2528,7 +2620,8 @@
       "recGJZyxcGglnEryM",
       "rec2shxecDOlAie8Q",
       "recuvuPywidjximuI",
-      "recyVfyjLKjekjqsL"
+      "recyVfyjLKjekjqsL",
+      "recz1V5igkqzuKxRx"
     ],
     "Status": "Published",
     "Wordcount Definition": 149,
@@ -2711,5 +2804,17 @@
     "Wordcount Definition": 115,
     "Wordcount Term": 3,
     "Total wordcount": 118
+  },
+  {
+    "id": "recp00hYRvT2bmlfp",
+    "Term": "Emergency Use Authorization",
+    "Definition": "Emergency Use Authorization (EUA) is a mechanism used by the US Food and Drug Agency (FDA) to facilitate making products available quickly during a public health emergencies (like the current COVID-19 pandemic), when there is no other adequate and approved medical product available.\n\nEUA allows for the use of medical products that are not yet formally approved, so that in the midst of an emergency, the products can be used to diagnose, treat or prevent serious illness or conditions. In order to give the authorization, the FDA evaluates the potential risks and benefits of the products based on the scientific evidence that is available at that time. EUAs end when the emergency declaration ends. They can also be revised or revoked as more data is made available.\n",
+    "Questions using this term": [
+      "recby26zia1AUqJ59"
+    ],
+    "Status": "Published",
+    "Wordcount Definition": 126,
+    "Wordcount Term": 3,
+    "Total wordcount": 129
   }
 ]
