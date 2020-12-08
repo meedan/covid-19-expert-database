@@ -1,9 +1,0 @@
-[[redirects]]
-  from = "https://health-desk.org/"
-  to = "https://learnaboutcovid19.org/vaccines"
-  status = 300
-
-[[redirects]]
-  from = "https://health-desk.org/*"
-  to = "https://learnaboutcovid19.org/vaccines"
-  status = 300
