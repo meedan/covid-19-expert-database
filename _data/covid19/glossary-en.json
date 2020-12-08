@@ -1428,6 +1428,74 @@
     "Total wordcount": 58
   },
   {
+    "id": "recjGuHkvGujLMjV7",
+    "Term": "disinfectant",
+    "Definition": "According to the U.S. Centers for Disease Control, a disinfectant is a chemical that destroys germs (e.g. viruses, bacteria, fungi) by physical or chemical means. Disinfectants are used to kill germs on surfaces or in water to lower the risk of spreading infection. Disinfectants sprayed into the air have not been shown to kill germs in the air. \n",
+    "Questions using this term": [
+      "recZ1uyhYuOzT4coz",
+      "reciWQ04Q5wcSF1Zr",
+      "recoBlZAo2m2bZ8EX",
+      "rec7sYlAOUsRLHy0O"
+    ],
+    "Status": "Published",
+    "French": [
+      "recreu6otYgCCdR8J"
+    ],
+    "Hindi": [
+      "rect6jdj0PniObEUf"
+    ],
+    "Telugu": [
+      "reciLGTCzVTKDe7it"
+    ],
+    "Spanish": [
+      "rec09DEkQPc6lecfq"
+    ],
+    "Arabic": [
+      "rec5TjPfez4AsztuH"
+    ],
+    "Portuguese": [
+      "rec9EHX57gF8xOKqQ"
+    ],
+    "Internal notes": "[@Megan Marrelli](https://airtable.com/appKBFbOCN23iz8eF/men72tmzBP5FmzrTO/usrMppbVYyXPkbsJq?recordId=recjGuHkvGujLMjV7&fieldId=fldFWQAjehRWQv5n2)- I didn't write this, but I edited a bit. It looks okay to me. (EL)\n",
+    "Wordcount Definition": 59,
+    "Wordcount Term": 1,
+    "Total wordcount": 60
+  },
+  {
+    "id": "rec4crPh6OQvCngsk",
+    "Term": "disinfection",
+    "Definition": "Disinfection is a process that kills germs and other tiny disease-carrying organisms (called 'microorganisms'), usually on hard surfaces, which stops them from spreading. Disinfection usually happens after using heat, radiation, or chemicals are applied to a surface that destroys bacteria and other harmful microorganisms (except spores). \n",
+    "Questions using this term": [
+      "reczxZFNnUFSbpNxf",
+      "recoBlZAo2m2bZ8EX",
+      "rec7sYlAOUsRLHy0O",
+      "recvA3dMAEFu2Cl80"
+    ],
+    "Status": "Published",
+    "French": [
+      "recYZMZsE8pHUmeFj"
+    ],
+    "Telugu": [
+      "recVm95Wf8yCugPe6"
+    ],
+    "Spanish": [
+      "rec9qEdnIapTtuk3i"
+    ],
+    "Arabic": [
+      "recfTo5KbzuVdHruu"
+    ],
+    "Bengali": [
+      "recvwUjJtZwGOH3lr"
+    ],
+    "Portuguese": [
+      "rec1OJxXa9kcbXkx7"
+    ],
+    "Internal notes": "[@Megan Marrelli](https://airtable.com/appKBFbOCN23iz8eF/menQSLu9qn63Oigrg/usrMppbVYyXPkbsJq?recordId=rec4crPh6OQvCngsk&fieldId=fldFWQAjehRWQv5n2)- I didn't write this, but I edited a bit. It looks okay to me. (EL)\n",
+    "Wordcount Definition": 45,
+    "Wordcount Term": 1,
+    "Total wordcount": 46
+  },
+  {
     "id": "recvwSSjn9ohOm9fK",
     "Term": "exposure",
     "Definition": "Exposure in public health terminology describes being in a place where there may be contact with a foreign substance. For example indoors, people have little chance of significant sun exposure, but if they are outdoors on a sunny day, people are likely to come into contact with sunlight and are thus exposed to the sun. With a virus, if someone is in close contact with a person coughing and sneezing, for example, they are likely to have been exposed to the virus.  Even with exposure, however, someone may or may not become ill from the virus. \n",
@@ -2235,6 +2303,92 @@
     "Total wordcount": 106
   },
   {
+    "id": "recS7r4IRJ4w3tzwS",
+    "Term": "DNA",
+    "Definition": "Deoxyribonucleic acid (DNA) is a molecular structure that self-replicates and carries genetic information in humans and many other organisms (e.g. bacteria, animals, plants, some viruses).\n",
+    "Questions using this term": [
+      "recDVXuo3vURm7OFU",
+      "recuRBvIUfjcJfEOX",
+      "rec1KveB4FFU90Equ",
+      "recu5zvFnlQeNTxk8"
+    ],
+    "Status": "Published",
+    "French": [
+      "reccc7sbQGzLX8n7V"
+    ],
+    "Hindi": [
+      "reccTA8qe6Snmh5cu"
+    ],
+    "Spanish": [
+      "rec9PsHpX56ekuwFt"
+    ],
+    "Arabic": [
+      "recjYddkHWN9yCzY7"
+    ],
+    "Wordcount Definition": 25,
+    "Wordcount Term": 1,
+    "Total wordcount": 26
+  },
+  {
+    "id": "reccH9Nhjj0fi18nJ",
+    "Term": "RNA",
+    "Definition": "RNAs are important for both normal cellular function and disease. Short for ribonucleic acid, it carries genetic information, carries out biochemical reactions, and is used to make some proteins in cells. There are many types of RNA though the most commonly studies are messenger RNA (mRNA), transfer RNA (tRNA), and ribosomal RNA (rRNA). \n\nSome viruses are called RNA viruses, and these viruses have RNA as their genetic material. RNA viruses enter the host cells (cells from another living organism like a human or animal) and use the host's genetic material to multiply and spread. COVID-19 is an RNA virus (as are the common cold, influenza, HIV, SARS, MERS, Dengue Virus and many more).\n",
+    "Questions using this term": [
+      "recDVXuo3vURm7OFU",
+      "rec1KveB4FFU90Equ",
+      "rec2shxecDOlAie8Q",
+      "recu5zvFnlQeNTxk8",
+      "recuRBvIUfjcJfEOX"
+    ],
+    "Status": "Published",
+    "French": [
+      "recLifeLzZPsVpkBA"
+    ],
+    "Hindi": [
+      "recUiZ0Fm2xu7q4Zi"
+    ],
+    "Spanish": [
+      "recl63UBLJSErqLQA"
+    ],
+    "Arabic": [
+      "recVfO5vnZ6kw1nvZ",
+      "rec2o4Bp4cO0Fa7L2"
+    ],
+    "Wordcount Definition": 113,
+    "Wordcount Term": 1,
+    "Total wordcount": 114
+  },
+  {
+    "id": "recuQuM83b2X3K9Bx",
+    "Term": "PPE",
+    "Definition": "According to the US Centers for Disease Control and Prevention, the term personal protective equipment (PPE) \"refers to protective clothing, helmets, gloves, face shields, goggles, facemasks and/or respirators or other equipment designed to protect the wearer from injury or the spread of infection or illness.\"\n\nIn healthcare, PPE is used to prevent the spread of disease. To prevent the spread of COVID-19, PPE includes surgical masks, N95 respirators, face shields, protective eye goggles, gloves, gowns, and/or other equipment.\n",
+    "Questions using this term": [
+      "recLb3N3jf8NIqfhK",
+      "recjs5QXivxuhSxx4",
+      "recUU9xtTzmcGAk9Y"
+    ],
+    "Status": "Published",
+    "French": [
+      "rec9q6Fgoz6vYkNcn"
+    ],
+    "Hindi": [
+      "recaGCDftUqemkddC"
+    ],
+    "Spanish": [
+      "recer66LzJEnXrrAR"
+    ],
+    "Arabic": [
+      "recarGUr6sMCZBM2o"
+    ],
+    "Portuguese": [
+      "recbw3GO0G1enQCSU"
+    ],
+    "Internal notes": "[@Zuhualime Akoochimoya](https://airtable.com/appKBFbOCN23iz8eF/menZs65XXTKa32cnm/usrvf6FPmY70wfzKC?recordId=recuQuM83b2X3K9Bx&fieldId=fldFWQAjehRWQv5n2) Shouldn't this term be PPE?\n[@AO LocLAb](https://airtable.com/appKBFbOCN23iz8eF/menQotwYuNOaPhOF1/usrFuUGZLOsk8emML?recordId=recuQuM83b2X3K9Bx&fieldId=fldFWQAjehRWQv5n2) Indeed, fixed.\n\n[@Megan Marrelli](https://airtable.com/appKBFbOCN23iz8eF/menC3qK4MeSDrqREW/usrMppbVYyXPkbsJq?recordId=recuQuM83b2X3K9Bx&fieldId=fldFWQAjehRWQv5n2)- previously unpublished, now edited. EL\n",
+    "Wordcount Definition": 77,
+    "Wordcount Term": 1,
+    "Total wordcount": 78
+  },
+  {
     "id": "recJz8lojK2ZaDFhp",
     "Term": "regulatory approval",
     "Definition": "Regulatory approval is a process where permission is sought from a decision-making authority with legal power, usually a governmental agency, for a product or activity. Not everything is subject to regulatory approval, but in the case of medicines or vaccines, governmental oversight is used to make sure that the products are safe and work as intended before they are prescribed to patients. Even once approved, governmental agencies work with local, national, and international authorities, manufacturers, researchers, and public health experts to monitor safety and effectiveness at the population level.\n",
@@ -2287,6 +2441,30 @@
     "Total wordcount": 44
   },
   {
+    "id": "rec7N5hddau1BMOkc",
+    "Term": "DNA virus",
+    "Definition": "The genetic material found in viruses is stored as ribonucleic acid (RNA) or as deoxyribonucleic acid (DNA). A virus requires host cells (cells from another living organism like a human or animal) to multiply, and it does so by injecting its genetic information into a host cell. The virus then makes copies of itself in one cell and releases these copies to infect new host cells to make more copies. \n\nDNA viruses have deoxyribonucleic acid (DNA) as their genetic material. Examples of DNA viruses include herpes and human papillomavirus (HPV).\n",
+    "Questions using this term": [
+      "recuRBvIUfjcJfEOX"
+    ],
+    "Status": "Published",
+    "French": [
+      "receu0Se7RvmZU5Et"
+    ],
+    "Hindi": [
+      "recbORqYB1JQgOQzi"
+    ],
+    "Spanish": [
+      "rech0VOWYkJDpy0eh"
+    ],
+    "Arabic": [
+      "recTQyghcYYPd6OaG"
+    ],
+    "Wordcount Definition": 90,
+    "Wordcount Term": 2,
+    "Total wordcount": 92
+  },
+  {
     "id": "rectkO1d0FhUHQ0Of",
     "Term": "antigen",
     "Definition": "Antigens are molecules that are capable of stimulating body's immune response and production of antibodies.\n",
@@ -2315,6 +2493,60 @@
     "Wordcount Definition": 15,
     "Wordcount Term": 1,
     "Total wordcount": 16
+  },
+  {
+    "id": "recTotk6ZnYu3ib8P",
+    "Term": "droplet nuclei",
+    "Definition": "Droplet nuclei are dried respiratory droplets that are released into the air by an infected person coughing, sneezing, talking, singing, or even just breathing. Droplet nuclei are typically very small (smaller than 5μm), so they can stay suspended in the air for longer and be dispersed farther by air currents compared to larger and heavier respiratory droplets that fall quickly once released into the air.\n",
+    "Questions using this term": [
+      "recAvJuac1TZ49MjL",
+      "recXUQjiQ2yaPXyxo",
+      "recC2wUIEcU6WPCCA"
+    ],
+    "Status": "Published",
+    "French": [
+      "recLR4trFbmVZWJFW"
+    ],
+    "Hindi": [
+      "recl723DmGYwZV85t"
+    ],
+    "Spanish": [
+      "recTkHhIw4htlRVVi"
+    ],
+    "Arabic": [
+      "recUfFDyJkIH2lm2s"
+    ],
+    "Wordcount Definition": 65,
+    "Wordcount Term": 2,
+    "Total wordcount": 67
+  },
+  {
+    "id": "recR9wzTcTIDRvZxF",
+    "Term": "encephalopathy",
+    "Definition": "Encephalopathy is a condition that impacts a brain's function or structure, which results in an altered mental state (e.g. confusion, poor concentration, limited responsiveness). Encephalopathy has many possible causes, including infection (e.g. viruses, bacteria), liver failure, poor nutrition, lack of blood flow to the brain, chemical exposure, and other causes. Encephalopathy can cause temporary or permanent brain damage.\n",
+    "Questions using this term": [
+      "recFi8qUxcrBhBeb9"
+    ],
+    "Status": "Published",
+    "French": [
+      "recz5ClAVUD2kPBXj"
+    ],
+    "Hindi": [
+      "rechNP8k0w8gGsoLB"
+    ],
+    "Spanish": [
+      "rec9aKUTe515YFR9j"
+    ],
+    "Arabic": [
+      "recbmb83kNTLiCKjO"
+    ],
+    "Portuguese": [
+      "recXs9p9ZOSqsHh1R"
+    ],
+    "Internal notes": "[@Megan Marrelli](https://airtable.com/appKBFbOCN23iz8eF/mendG9x9QlGNOfz5h/usrMppbVYyXPkbsJq?recordId=recR9wzTcTIDRvZxF&fieldId=fldFWQAjehRWQv5n2) edited this one, too (it wasn't published previously)- EL\n",
+    "Wordcount Definition": 58,
+    "Wordcount Term": 1,
+    "Total wordcount": 59
   },
   {
     "id": "recaXXF6coF4J2EUz",
@@ -2600,6 +2832,26 @@
     "Total wordcount": 122
   },
   {
+    "id": "reci6AkPuYYC5pFzD",
+    "Term": "pre-print study",
+    "Definition": "A pre-print study is an early drafts of a study that has not finished going through the rigorous peer-review process to evaluate the quality of the research content, methods, and findings. While pre-print studies do relay information quickly, they are less trusted than peer-reviewed publications and should not guide clinical decision-making. \n",
+    "Questions using this term": [
+      "recV4VyzVzjxUii3m",
+      "rech0c2iaQGp03KXI",
+      "rec3DK3BrvuseyDAb"
+    ],
+    "Status": "Published",
+    "French": [
+      "receYCMsqhyWaJRxd"
+    ],
+    "Spanish": [
+      "rectXqvZDZak2CnuS"
+    ],
+    "Wordcount Definition": 52,
+    "Wordcount Term": 2,
+    "Total wordcount": 54
+  },
+  {
     "id": "reci0r8fUkfYPAxJU",
     "Term": "case fatality rate",
     "Definition": "The case-fatality rate, or CFR, is the proportion of the people who die from a disease out of the total number of people with that disease. According to the CDC, the CFR measures the severity of a disease by determining how many individuals who contract a new condition die from it. The numerator is the number of disease-specific deaths among incident cases (that is, new cases), and the denominator is the total number of incident cases. The deaths in the numerator must also belong to the deaths in the denominator. \n",
@@ -2804,6 +3056,31 @@
     "Wordcount Definition": 115,
     "Wordcount Term": 3,
     "Total wordcount": 118
+  },
+  {
+    "id": "recrEr81iMQyugyYC",
+    "Term": "interim analysis",
+    "Definition": "An interim analysis is a review of clinical trial data that is performed before the study has been completed. Interim analysis is commonly used during clinical trials to monitor if a therapy (e.g. medicine, vaccine) is beneficial, harmful, or without impact in comparison to the control (or placebo) group. \n\nInterim analysis data may be publicized, and the findings may result in the study protocol being changed, a change in data collection, and/or a study being ended early if the findings meet pre-specified criteria for being particularly beneficial, harmful, or without impact.\n",
+    "Questions using this term": [
+      "rec2shxecDOlAie8Q"
+    ],
+    "Status": "Published",
+    "Wordcount Definition": 91,
+    "Wordcount Term": 2,
+    "Total wordcount": 93
+  },
+  {
+    "id": "recOUL3lqEfAuhDdH",
+    "Term": "primary efficacy analysis",
+    "Definition": "Primary efficacy analysis (also called a primary efficacy endpoint analysis) examines if a new medicine or vaccine is effective and safe during a clinical trial. Measures to evaluate this include examinations of clinical events (e.g. mortality, stroke, ventilation requirement), patient symptoms (e.g. pain, breathing problems), measures of function (e.g. ability to walk or complete daily activities), or other measures used to evaluate these categories. Statistical analysis is performed to ensure that the findings are likely to be a result of the medicine or vaccine and are unlikely to have happened by chance, then the research findings are used to support if and how the medicine or vaccine may be approved for use. \n",
+    "Questions using this term": [
+      "rec2shxecDOlAie8Q"
+    ],
+    "Status": "Published",
+    "Internal notes": "[@Christin Gilmer](https://airtable.com/appKBFbOCN23iz8eF/menSVghUi2K71puKd/usrDTYZtkXBziEsWP?recordId=recOUL3lqEfAuhDdH&fieldId=fldFWQAjehRWQv5n2) [@Megan Marrelli](https://airtable.com/appKBFbOCN23iz8eF/men4BKujJbsUZ9jDf/usrMppbVYyXPkbsJq?recordId=recOUL3lqEfAuhDdH&fieldId=fldFWQAjehRWQv5n2) Check this out and see if it is okay. There is a difference between what is in the news language and in the \"clinical\" literature.  This info is from the FDA. (EL) \n\nThank you, EL! - CG I think this looks great! Might be worth putting a \"TL;DR Efficacy is effectiveness in a clinical trial that is calculated using everyone in part of a trial.\" ?\n",
+    "Wordcount Definition": 113,
+    "Wordcount Term": 3,
+    "Total wordcount": 116
   },
   {
     "id": "recp00hYRvT2bmlfp",
