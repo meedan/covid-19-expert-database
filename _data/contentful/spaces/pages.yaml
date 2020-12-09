@@ -367,9 +367,9 @@ page:
 - sys:
     id: 7bYksHNegX8pfQQHk6AniW
     created_at: !ruby/object:DateTime 2020-12-07 20:53:00.387000000 Z
-    updated_at: !ruby/object:DateTime 2020-12-07 21:04:13.723000000 Z
+    updated_at: !ruby/object:DateTime 2020-12-07 23:27:40.079000000 Z
     content_type_id: page
-    revision: 0
+    revision: 1
     space:
       sys:
         id: d4fy1qepdfjq
@@ -382,7 +382,7 @@ page:
         id: master
         type: Link
         linkType: Environment
-  title: Vaccine Media Hub
+  title: COVID-19 Vaccine Media Hub
   slug: vaccines
   description: Coming Soon!
   body:
@@ -394,15 +394,15 @@ page:
     - sys:
         id: 67B16v2eesdOml3PtIi9IU
         created_at: !ruby/object:DateTime 2020-12-07 20:55:00.952000000 Z
-        updated_at: !ruby/object:DateTime 2020-12-07 20:58:24.121000000 Z
+        updated_at: !ruby/object:DateTime 2020-12-09 15:53:43.331000000 Z
         content_type_id: moduleLogos
-        revision: 0
+        revision: 2
       logo:
         en-US:
           sys:
             id: 2zF2g99CL8ackNdKV9H7Ml
             created_at: !ruby/object:DateTime 2020-12-07 20:57:19.812000000 Z
-            updated_at: !ruby/object:DateTime 2020-12-07 20:57:41.553000000 Z
+            updated_at: !ruby/object:DateTime 2020-12-07 23:27:19.296000000 Z
           title: AusSMC Logo
           description: 
           url: "//images.ctfassets.net/d4fy1qepdfjq/2zF2g99CL8ackNdKV9H7Ml/425fec5906abce835cdfa1c6eb0ac445/AusSMC_Logo.svg"
@@ -410,22 +410,22 @@ page:
         en-US: The Australian Science Media Centre
       description:
         en-US: The Australian Science Media Centre works to enhance the media’s coverage
-          of science, for the benefit of all Australians. We provide the evidence
-          and experts when science hits the headlines. [Read more](https://www.smc.org.au/about-us)
+          of science, for the benefit of the public. We provide the evidence and experts
+          when science hits the headlines. [Read more](https://www.smc.org.au/about-us)
       link:
         en-US: https://www.smc.org.au/about-us
     - sys:
         id: 2HZKzQ2xwAiKxRAac59hD8
         created_at: !ruby/object:DateTime 2020-12-07 20:58:29.943000000 Z
-        updated_at: !ruby/object:DateTime 2020-12-07 20:59:37.904000000 Z
+        updated_at: !ruby/object:DateTime 2020-12-07 23:27:35.169000000 Z
         content_type_id: moduleLogos
-        revision: 0
+        revision: 1
       logo:
         en-US:
           sys:
             id: 1LjtNbKsqafGDADI1E2l0J
             created_at: !ruby/object:DateTime 2020-12-07 20:58:51.258000000 Z
-            updated_at: !ruby/object:DateTime 2020-12-07 20:59:05.620000000 Z
+            updated_at: !ruby/object:DateTime 2020-12-07 23:27:33.345000000 Z
           title: Digital Health Lab Logo
           description: 
           url: "//images.ctfassets.net/d4fy1qepdfjq/1LjtNbKsqafGDADI1E2l0J/cbebae36be0ac6e68a440f81e421b411/logo.png"
@@ -433,10 +433,10 @@ page:
         en-US: Digital Health Lab
       description:
         en-US: Meedan’s Digital Health Lab is committed to making important and topical
-          COVID-19 information accessible and deadline-friendly to newsrooms, freelance
-          journalists, fact-checking organizations, and communicators around the world.
-          [Read more](https://health.meedan.com)
+          public health information accessible and deadline-friendly to newsrooms,
+          freelance journalists, fact-checking organizations, and communicators around
+          the world. [Read more](https://health.meedan.com)
       link:
         en-US: https://health.meedan.com
-  title-en: Vaccine Media Hub
+  title-en: COVID-19 Vaccine Media Hub
   description-en: Coming Soon!

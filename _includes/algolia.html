@@ -29,7 +29,7 @@
         }
 
         if (description) {
-            description = description.substring(0, 110).concat('...');
+            description = description.split('**').join('').substring(0, 110).concat('...');
         }
 
         const image = hit.image ?
