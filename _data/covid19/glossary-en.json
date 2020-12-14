@@ -51,7 +51,8 @@
       "recV4VyzVzjxUii3m",
       "rec3DK3BrvuseyDAb",
       "recwnCbclyAAZHewu",
-      "reccgbdzob0VzK2nF"
+      "reccgbdzob0VzK2nF",
+      "rec4kQXR2QgCNdlgs"
     ],
     "Status": "Published",
     "French": [
@@ -827,59 +828,6 @@
     "Total wordcount": 43
   },
   {
-    "id": "rec9qqItwSTjq3Eae",
-    "Term": "vaccine",
-    "Definition": "A vaccine is a product made to help the body's immune system recognize and fight viruses or other \"foreign invaders\" (like bacteria). According to the World Health Organization, \"vaccination is one of the most effective ways to prevent diseases,\" and, currently, vaccines help protect against 25 different diseases. There is no approved vaccine for COVID-19 at this time, but there are more than 100 vaccines currently in development.\n",
-    "Questions using this term": [
-      "reciHqvo2ldywmQrQ",
-      "recNhNi9YMJidUo7K",
-      "recaSHOsOCPOIL1bF",
-      "recm3J9EyzMDr8Diz",
-      "reclucIrtcCSCbOn6",
-      "reci5KRmNIo5UfFt5",
-      "rec2shxecDOlAie8Q",
-      "recu5zvFnlQeNTxk8",
-      "reczwkJJR0nVeblx9",
-      "recyq5D0irsIhQn1B",
-      "rec6Ka1kiwtOXSKe0",
-      "recfMZ84AyYqSqoBS",
-      "recGJZyxcGglnEryM",
-      "reccN0swQANNJwGir",
-      "recYE4J6Nh1lta1lB",
-      "recuvuPywidjximuI",
-      "recyVfyjLKjekjqsL",
-      "recz1V5igkqzuKxRx",
-      "recwxN6NEtrZPfgDU",
-      "reccfrzvZmq2A0mSn"
-    ],
-    "Status": "Published",
-    "French": [
-      "recUR2oz4oTSgLd0D"
-    ],
-    "Hindi": [
-      "recc9FUquSkJ3xVkn"
-    ],
-    "Telugu": [
-      "recZFwzY4mZYH3vNO",
-      "rec9lqfaZkRuN3S6Y"
-    ],
-    "Spanish": [
-      "recIurtEF45sA2THI"
-    ],
-    "Arabic": [
-      "recS5ljy3bfxdFokp"
-    ],
-    "Bengali": [
-      "recp6xh3uoMnn3oIm"
-    ],
-    "Portuguese": [
-      "recJTKsxlgSWlX1kY"
-    ],
-    "Wordcount Definition": 68,
-    "Wordcount Term": 1,
-    "Total wordcount": 69
-  },
-  {
     "id": "recDalYrz2m23kS2e",
     "Term": "influenza",
     "Definition": "Seasonal influenza viruses are infectious diseases that spread and cause illness in people during the time of year known as the “flu season.” Seasonal influenza viruses cause annual U.S. influenza epidemics during fall, winter, and spring, and circulate among people worldwide. Seasonal influenza viruses are continually undergoing evolution in unpredictable ways.\n",
@@ -1001,7 +949,9 @@
       "recyq5D0irsIhQn1B",
       "rec0TXrBjHL8mZPG8",
       "rec9thjuTgT5ytu9t",
-      "recYE4J6Nh1lta1lB"
+      "recYE4J6Nh1lta1lB",
+      "recMOjyjMVA3S03kq",
+      "rec4kV4QvqWeXMLGP"
     ],
     "Status": "Published",
     "French": [
@@ -2889,7 +2839,8 @@
       "recuvuPywidjximuI",
       "recyVfyjLKjekjqsL",
       "recz1V5igkqzuKxRx",
-      "reccfrzvZmq2A0mSn"
+      "reccfrzvZmq2A0mSn",
+      "recMOjyjMVA3S03kq"
     ],
     "Status": "Published",
     "Wordcount Definition": 149,
@@ -2907,7 +2858,8 @@
       "rec2shxecDOlAie8Q",
       "recuvuPywidjximuI",
       "recyVfyjLKjekjqsL",
-      "reccfrzvZmq2A0mSn"
+      "reccfrzvZmq2A0mSn",
+      "recMOjyjMVA3S03kq"
     ],
     "Status": "Published",
     "Wordcount Definition": 98,
@@ -2919,7 +2871,8 @@
     "Term": "effectiveness",
     "Definition": "Medicine, treatment, or vaccine effectiveness studies examine how well the medicine, treatment, or vaccine works for the general population in the “real world,” rather than solely in a research setting. Effectiveness is different from efficacy because efficacy is used to measure how well a medicine or vaccine works in controlled, research environments.\n\nThough efficacy and effectiveness are similar terms and are often used interchangeably, the differences between the two terms are important. When a new medicine, treatment, or vaccine is being developed and studied in clinical trials, the efficacy is reported until it is made available for the general population, at which point effectiveness can be measured. \n",
     "Questions using this term": [
-      "rec2shxecDOlAie8Q"
+      "rec2shxecDOlAie8Q",
+      "rec4kV4QvqWeXMLGP"
     ],
     "Status": "Published",
     "Wordcount Definition": 106,
@@ -2932,7 +2885,8 @@
     "Definition": "Medicine, treatment, or vaccine efficacy is used to report on how well a medicine, treatment, or vaccine works in controlled, research environments. Efficacy is used to communicate how well the trial product works in research group, when compared to the group of participants who did not receive the trial product. Using vaccine efficacy as an example, if 100 study participants were a given study vaccine with 90% efficacy, 90 patients would not contract the disease and 10 would. \n\nThough efficacy and effectiveness are similar terms and are often used interchangeably, the differences between the two terms are important. When a new medicine, treatment, or vaccine is being developed and studied in clinical trials, the efficacy is reported until it is made available for the general population, at which point effectiveness can be measured. \n",
     "Questions using this term": [
       "rec2shxecDOlAie8Q",
-      "rec3DK3BrvuseyDAb"
+      "rec3DK3BrvuseyDAb",
+      "rec4kV4QvqWeXMLGP"
     ],
     "Status": "Published",
     "Wordcount Definition": 134,
@@ -3105,7 +3059,8 @@
     "Definition": "Emergency Use Authorization (EUA) is a mechanism used by the US Food and Drug Agency (FDA) to facilitate making products available quickly during a public health emergencies (like the current COVID-19 pandemic), when there is no other adequate and approved medical product available.\n\nEUA allows for the use of medical products that are not yet formally approved, so that in the midst of an emergency, the products can be used to diagnose, treat or prevent serious illness or conditions. In order to give the authorization, the FDA evaluates the potential risks and benefits of the products based on the scientific evidence that is available at that time. EUAs end when the emergency declaration ends. They can also be revised or revoked as more data is made available.\n",
     "Questions using this term": [
       "recby26zia1AUqJ59",
-      "recHLFItOS1Yd1cn3"
+      "recHLFItOS1Yd1cn3",
+      "rec4kQXR2QgCNdlgs"
     ],
     "Status": "Published",
     "Wordcount Definition": 126,
