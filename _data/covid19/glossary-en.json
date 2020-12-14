@@ -50,7 +50,9 @@
       "receDZXkDnG0f1EKj",
       "recV4VyzVzjxUii3m",
       "rec3DK3BrvuseyDAb",
-      "recwnCbclyAAZHewu"
+      "recwnCbclyAAZHewu",
+      "reccgbdzob0VzK2nF",
+      "rec4kQXR2QgCNdlgs"
     ],
     "Status": "Published",
     "French": [
@@ -368,7 +370,8 @@
     "Definition": "An experimental treatment is a medication or therapy that is being tested to evaluate if it is effective against an illness or medical condition. Experimental treatments may be existing medications or therapies that are known to work in treating one illness and are tried as a treatment for another illness (e.g. when an antiviral medication is used to treat a new virus, early treatments are considered experimental because it is unclear as to whether or not the medication will work). Experimental treatments may also be new medications or treatments that have not been used before. In addition to learning whether experimental treatments treat particular illnesses, the experimental process evaluates the therapies for possible side effects.\n",
     "Questions using this term": [
       "rec9thjuTgT5ytu9t",
-      "rec1lIxrlFHbwK7NV"
+      "rec1lIxrlFHbwK7NV",
+      "recHLFItOS1Yd1cn3"
     ],
     "Status": "Published",
     "French": [
@@ -573,7 +576,8 @@
       "rec0TXrBjHL8mZPG8",
       "rec9thjuTgT5ytu9t",
       "rec8pqDaJA5uM1U0y",
-      "rec1lIxrlFHbwK7NV"
+      "rec1lIxrlFHbwK7NV",
+      "recHLFItOS1Yd1cn3"
     ],
     "Status": "Published",
     "French": [
@@ -824,57 +828,6 @@
     "Total wordcount": 43
   },
   {
-    "id": "rec9qqItwSTjq3Eae",
-    "Term": "vaccine",
-    "Definition": "A vaccine is a product made to help the body's immune system recognize and fight viruses or other \"foreign invaders\" (like bacteria). According to the World Health Organization, \"vaccination is one of the most effective ways to prevent diseases,\" and, currently, vaccines help protect against 25 different diseases. There is no approved vaccine for COVID-19 at this time, but there are more than 100 vaccines currently in development.\n",
-    "Questions using this term": [
-      "reciHqvo2ldywmQrQ",
-      "recNhNi9YMJidUo7K",
-      "recaSHOsOCPOIL1bF",
-      "recm3J9EyzMDr8Diz",
-      "reclucIrtcCSCbOn6",
-      "reci5KRmNIo5UfFt5",
-      "rec2shxecDOlAie8Q",
-      "recu5zvFnlQeNTxk8",
-      "reczwkJJR0nVeblx9",
-      "recyq5D0irsIhQn1B",
-      "rec6Ka1kiwtOXSKe0",
-      "recfMZ84AyYqSqoBS",
-      "recGJZyxcGglnEryM",
-      "reccN0swQANNJwGir",
-      "recYE4J6Nh1lta1lB",
-      "recuvuPywidjximuI",
-      "recyVfyjLKjekjqsL",
-      "recz1V5igkqzuKxRx"
-    ],
-    "Status": "Published",
-    "French": [
-      "recUR2oz4oTSgLd0D"
-    ],
-    "Hindi": [
-      "recc9FUquSkJ3xVkn"
-    ],
-    "Telugu": [
-      "recZFwzY4mZYH3vNO",
-      "rec9lqfaZkRuN3S6Y"
-    ],
-    "Spanish": [
-      "recIurtEF45sA2THI"
-    ],
-    "Arabic": [
-      "recS5ljy3bfxdFokp"
-    ],
-    "Bengali": [
-      "recp6xh3uoMnn3oIm"
-    ],
-    "Portuguese": [
-      "recJTKsxlgSWlX1kY"
-    ],
-    "Wordcount Definition": 68,
-    "Wordcount Term": 1,
-    "Total wordcount": 69
-  },
-  {
     "id": "recDalYrz2m23kS2e",
     "Term": "influenza",
     "Definition": "Seasonal influenza viruses are infectious diseases that spread and cause illness in people during the time of year known as the “flu season.” Seasonal influenza viruses cause annual U.S. influenza epidemics during fall, winter, and spring, and circulate among people worldwide. Seasonal influenza viruses are continually undergoing evolution in unpredictable ways.\n",
@@ -996,7 +949,9 @@
       "recyq5D0irsIhQn1B",
       "rec0TXrBjHL8mZPG8",
       "rec9thjuTgT5ytu9t",
-      "recYE4J6Nh1lta1lB"
+      "recYE4J6Nh1lta1lB",
+      "recMOjyjMVA3S03kq",
+      "rec4kV4QvqWeXMLGP"
     ],
     "Status": "Published",
     "French": [
@@ -1791,7 +1746,8 @@
       "recufj0t4myAoM7yM",
       "rec3gzGDZLC9DoYmq",
       "rec6Ka1kiwtOXSKe0",
-      "rech0c2iaQGp03KXI"
+      "rech0c2iaQGp03KXI",
+      "reccgbdzob0VzK2nF"
     ],
     "Status": "Published",
     "French": [
@@ -2561,7 +2517,8 @@
       "recg7uMkciGJxiye0",
       "rec2shxecDOlAie8Q",
       "rech0c2iaQGp03KXI",
-      "rec7awl8Ed6xdZIiv"
+      "rec7awl8Ed6xdZIiv",
+      "reccgbdzob0VzK2nF"
     ],
     "Status": "Published",
     "French": [
@@ -2752,7 +2709,8 @@
     "Definition": "First developed in the 1970s, monoclonal antibodies are typically produced in a lab through cloning to act as optimized antibodies (proteins made by the body to fight infections). Monoclonal antibodies (the prefix \"mono-\" means one) are different from polyclonal antibodies (the prefix \"poly-\" means many):\n\n1) Monoclonal antibodies are made by identical immune cells cloned from a single parent cell; and\n2) Monoclonal antibodies work by binding to a part of the COVID-19 virus and signaling the body's immune system to attack \n\nDue to these properties, monoclonal antibodies have the potential to be produced with consistent quality and purity at a large scale. Additionally, monoclonal antibodies have the potential to provide therapeutic benefits to the immune system because they are highly selective in how they bond to specific antigens that cause disease. Medical applications of monoclonal antibodies have included drugs for cancer.\n",
     "Questions using this term": [
       "reczdKiAkOFyEuS5P",
-      "rec9thjuTgT5ytu9t"
+      "rec9thjuTgT5ytu9t",
+      "recHLFItOS1Yd1cn3"
     ],
     "Status": "Published",
     "French": [
@@ -2771,7 +2729,8 @@
     "Definition": "Repurposed means that something normally used for one purpose is used, or altered and then used, for something different. For example, a medicine that has been developed for one disease may be \"repurposed\" and used to treat a different disease. Similarly, a vaccine that has been developed to prevent one disease may be \"repurposed\" and used to prevent another disease. In some cases, medicines or vaccines that were not found to successfully treat or prevent a disease are used in trials for new diseases to see if they may be effective.\n",
     "Questions using this term": [
       "recjmxNuHf9q8gjRL",
-      "recxbPxkhx1NeoE5Q"
+      "recxbPxkhx1NeoE5Q",
+      "recHLFItOS1Yd1cn3"
     ],
     "Status": "Published",
     "French": [
@@ -2843,7 +2802,8 @@
       "recV4VyzVzjxUii3m",
       "rech0c2iaQGp03KXI",
       "rec3DK3BrvuseyDAb",
-      "rec7awl8Ed6xdZIiv"
+      "rec7awl8Ed6xdZIiv",
+      "reccgbdzob0VzK2nF"
     ],
     "Status": "Published",
     "French": [
@@ -2878,7 +2838,9 @@
       "rec2shxecDOlAie8Q",
       "recuvuPywidjximuI",
       "recyVfyjLKjekjqsL",
-      "recz1V5igkqzuKxRx"
+      "recz1V5igkqzuKxRx",
+      "reccfrzvZmq2A0mSn",
+      "recMOjyjMVA3S03kq"
     ],
     "Status": "Published",
     "Wordcount Definition": 149,
@@ -2895,7 +2857,9 @@
       "recGJZyxcGglnEryM",
       "rec2shxecDOlAie8Q",
       "recuvuPywidjximuI",
-      "recyVfyjLKjekjqsL"
+      "recyVfyjLKjekjqsL",
+      "reccfrzvZmq2A0mSn",
+      "recMOjyjMVA3S03kq"
     ],
     "Status": "Published",
     "Wordcount Definition": 98,
@@ -2907,7 +2871,8 @@
     "Term": "effectiveness",
     "Definition": "Medicine, treatment, or vaccine effectiveness studies examine how well the medicine, treatment, or vaccine works for the general population in the “real world,” rather than solely in a research setting. Effectiveness is different from efficacy because efficacy is used to measure how well a medicine or vaccine works in controlled, research environments.\n\nThough efficacy and effectiveness are similar terms and are often used interchangeably, the differences between the two terms are important. When a new medicine, treatment, or vaccine is being developed and studied in clinical trials, the efficacy is reported until it is made available for the general population, at which point effectiveness can be measured. \n",
     "Questions using this term": [
-      "rec2shxecDOlAie8Q"
+      "rec2shxecDOlAie8Q",
+      "rec4kV4QvqWeXMLGP"
     ],
     "Status": "Published",
     "Wordcount Definition": 106,
@@ -2920,7 +2885,8 @@
     "Definition": "Medicine, treatment, or vaccine efficacy is used to report on how well a medicine, treatment, or vaccine works in controlled, research environments. Efficacy is used to communicate how well the trial product works in research group, when compared to the group of participants who did not receive the trial product. Using vaccine efficacy as an example, if 100 study participants were a given study vaccine with 90% efficacy, 90 patients would not contract the disease and 10 would. \n\nThough efficacy and effectiveness are similar terms and are often used interchangeably, the differences between the two terms are important. When a new medicine, treatment, or vaccine is being developed and studied in clinical trials, the efficacy is reported until it is made available for the general population, at which point effectiveness can be measured. \n",
     "Questions using this term": [
       "rec2shxecDOlAie8Q",
-      "rec3DK3BrvuseyDAb"
+      "rec3DK3BrvuseyDAb",
+      "rec4kV4QvqWeXMLGP"
     ],
     "Status": "Published",
     "Wordcount Definition": 134,
@@ -3092,7 +3058,9 @@
     "Term": "Emergency Use Authorization",
     "Definition": "Emergency Use Authorization (EUA) is a mechanism used by the US Food and Drug Agency (FDA) to facilitate making products available quickly during a public health emergencies (like the current COVID-19 pandemic), when there is no other adequate and approved medical product available.\n\nEUA allows for the use of medical products that are not yet formally approved, so that in the midst of an emergency, the products can be used to diagnose, treat or prevent serious illness or conditions. In order to give the authorization, the FDA evaluates the potential risks and benefits of the products based on the scientific evidence that is available at that time. EUAs end when the emergency declaration ends. They can also be revised or revoked as more data is made available.\n",
     "Questions using this term": [
-      "recby26zia1AUqJ59"
+      "recby26zia1AUqJ59",
+      "recHLFItOS1Yd1cn3",
+      "rec4kQXR2QgCNdlgs"
     ],
     "Status": "Published",
     "Wordcount Definition": 126,
