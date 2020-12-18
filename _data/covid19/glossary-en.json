@@ -257,6 +257,36 @@
     "Total wordcount": 99
   },
   {
+    "id": "recfxNeRDVhNKMgNe",
+    "Term": "indirect (non-contact) transmission",
+    "Definition": "Indirect transmission occurs when there is no direct human-to-human contact with a pathogen, but the pathogen is still capable of being spread (transmitted) from one person, animal, or plant to another. An example of indirect transmission is when respiratory droplets from the cough or sneeze of an infected person fall onto a surface that another person touches. When the other person then touches their own mouth or nose, they have potentially exposed themselves to this pathogen and become infected as well. \n",
+    "Questions using this term": [
+      "recE68fRyDEYYEuIr",
+      "recUQqRs8DzyIxoQx",
+      "rec3DK3BrvuseyDAb"
+    ],
+    "Status": "Published",
+    "French": [
+      "recEhkHsPoGdWn9E1"
+    ],
+    "Hindi": [
+      "recyWu3qeJ7A03mDn"
+    ],
+    "Telugu": [
+      "rec0dPqUvtFRXgP5V"
+    ],
+    "Spanish": [
+      "rec2hQk1NlcRt7Mms"
+    ],
+    "Bengali": [
+      "recA13HN2v6PfY7JQ"
+    ],
+    "Internal notes": "\n",
+    "Wordcount Definition": 82,
+    "Wordcount Term": 3,
+    "Total wordcount": 85
+  },
+  {
     "id": "recE7xmnXgtg8ZanX",
     "Term": "incubation period",
     "Definition": "According to the World Health Organization, the incubation period is the time between exposure to the virus (becoming infected) and symptom onset.\n",
@@ -828,6 +858,62 @@
     "Total wordcount": 43
   },
   {
+    "id": "rec9qqItwSTjq3Eae",
+    "Term": "vaccine",
+    "Definition": "A vaccine is a type of medicine made to help the body's immune system recognize and fight viruses or other \"foreign invaders\" (like bacteria). According to the World Health Organization, \"vaccination is one of the most effective ways to prevent diseases,\" and, currently, vaccines help protect against 25 different diseases. There is no licensed vaccine for COVID-19 at this time, but some new COVID-19 vaccines have been approved for emergency use at the national level for some countries. There are more than 100 vaccines currently in development to prevent COVID-19 infection. \n",
+    "Questions using this term": [
+      "reciHqvo2ldywmQrQ",
+      "recNhNi9YMJidUo7K",
+      "recaSHOsOCPOIL1bF",
+      "recm3J9EyzMDr8Diz",
+      "reclucIrtcCSCbOn6",
+      "reci5KRmNIo5UfFt5",
+      "rec2shxecDOlAie8Q",
+      "recu5zvFnlQeNTxk8",
+      "reczwkJJR0nVeblx9",
+      "recyq5D0irsIhQn1B",
+      "rec6Ka1kiwtOXSKe0",
+      "recfMZ84AyYqSqoBS",
+      "recGJZyxcGglnEryM",
+      "reccN0swQANNJwGir",
+      "recYE4J6Nh1lta1lB",
+      "recuvuPywidjximuI",
+      "recyVfyjLKjekjqsL",
+      "recz1V5igkqzuKxRx",
+      "recwxN6NEtrZPfgDU",
+      "reccfrzvZmq2A0mSn",
+      "recMOjyjMVA3S03kq",
+      "rec83WYhEjLOTz1xF",
+      "recQHGSK3SaVtSjnr"
+    ],
+    "Status": "Published",
+    "French": [
+      "recUR2oz4oTSgLd0D"
+    ],
+    "Hindi": [
+      "recc9FUquSkJ3xVkn"
+    ],
+    "Telugu": [
+      "recZFwzY4mZYH3vNO",
+      "rec9lqfaZkRuN3S6Y"
+    ],
+    "Spanish": [
+      "recIurtEF45sA2THI"
+    ],
+    "Arabic": [
+      "recS5ljy3bfxdFokp"
+    ],
+    "Bengali": [
+      "recp6xh3uoMnn3oIm"
+    ],
+    "Portuguese": [
+      "recJTKsxlgSWlX1kY"
+    ],
+    "Wordcount Definition": 92,
+    "Wordcount Term": 1,
+    "Total wordcount": 93
+  },
+  {
     "id": "recDalYrz2m23kS2e",
     "Term": "influenza",
     "Definition": "Seasonal influenza viruses are infectious diseases that spread and cause illness in people during the time of year known as the “flu season.” Seasonal influenza viruses cause annual U.S. influenza epidemics during fall, winter, and spring, and circulate among people worldwide. Seasonal influenza viruses are continually undergoing evolution in unpredictable ways.\n",
@@ -835,7 +921,8 @@
       "recOiBtU1KHxAQAgq",
       "rec6Ka1kiwtOXSKe0",
       "rec6LvLwc24HqHqQ1",
-      "reccN0swQANNJwGir"
+      "reccN0swQANNJwGir",
+      "recQHGSK3SaVtSjnr"
     ],
     "Status": "Published",
     "French": [
@@ -951,7 +1038,8 @@
       "rec9thjuTgT5ytu9t",
       "recYE4J6Nh1lta1lB",
       "recMOjyjMVA3S03kq",
-      "rec4kV4QvqWeXMLGP"
+      "rec4kV4QvqWeXMLGP",
+      "rec83WYhEjLOTz1xF"
     ],
     "Status": "Published",
     "French": [
@@ -1219,7 +1307,8 @@
     "Definition": "An adverse event (also referred to as an adverse experience) can be any unfavorable and unintended sign (e.g., an abnormal laboratory finding), symptom, or disease temporarily associated with the use of a medication, without any judgment about causality or relationship to the medication. \n",
     "Questions using this term": [
       "rechQWZ1ctlJ81Vxn",
-      "recYE4J6Nh1lta1lB"
+      "recYE4J6Nh1lta1lB",
+      "rec0PYwpUcZnzbrII"
     ],
     "Status": "Published",
     "French": [
@@ -1253,6 +1342,9 @@
     "id": "recwhS0IsusP5qFNc",
     "Term": "randomized controlled trial",
     "Definition": "A randomized controlled trial (RCT) is a type of scientific experiment where a group of people are randomly divided into multiple groups, and the groups are treated differently during the study period, to see if the experimental treatments change the participants' health. \n\nIn RCTs, there is at least one control group that receives either the standard treatment (usual or non-experimental treatment), a placebo treatment, or no treatment at all. There is also at least one experimental group that receives the test therapy that may include a new medication, a different medication dose, targeted education, or other intervention.  All of the participants in an RCT are monitored during the study to determine the experimental/test therapy changes health outcomes; some therapies may improve or worsen health.\n",
+    "Questions using this term": [
+      "rec83WYhEjLOTz1xF"
+    ],
     "Status": "Published",
     "French": [
       "recKgDIquwTvB5xPR"
@@ -1391,7 +1483,8 @@
       "recZ1uyhYuOzT4coz",
       "reciWQ04Q5wcSF1Zr",
       "recoBlZAo2m2bZ8EX",
-      "rec7sYlAOUsRLHy0O"
+      "rec7sYlAOUsRLHy0O",
+      "rec0PYwpUcZnzbrII"
     ],
     "Status": "Published",
     "French": [
@@ -2077,54 +2170,6 @@
     "Total wordcount": 66
   },
   {
-    "id": "reclKahoPRbBLqUKg",
-    "Term": "face masks",
-    "Definition": "Face masks are fitted coverings made to cover the nose, mouth, and chin snugly. Face masks may be made from layered cloth or fabric, or they may be made from medical-grade materials that meet specific criteria for filtering small particles (including viruses) from the air.  Face masks should allow the wearer to breathe comfortably, and the mask should stay in place when the wearer is talking.\n\nAccording to guidance from the US Centers for Disease Control and Prevention (US CDC) and the World Health Organization (WHO), face masks should not be worn by infants and children under the age of 2; those who are incapacitated, unconscious, or unable to remove the mask without assistance; or those who are having trouble breathing. Both the US CDC and WHO provide further guidance and information about face masks on their respective websites, and the information is updated regularly when new scientific evidence is available.\n",
-    "Questions using this term": [
-      "recUvk0IltcWA8G8O",
-      "recgfRiqVgG4lMH4w",
-      "recUU9xtTzmcGAk9Y",
-      "recDcWzSA3u9hSsLZ",
-      "recxWz9YItyyFuO5s",
-      "recIWpxnU5BOReqN2",
-      "recHgpMkShciBa9VJ",
-      "recoFYIiBdptZqQXi",
-      "recgYhZKtG7oXfSPv",
-      "recrz9eAiWOXKBiHx",
-      "rec0CA3DO8hiIjlta",
-      "recUQqRs8DzyIxoQx",
-      "rec3DK3BrvuseyDAb"
-    ],
-    "Status": "Published",
-    "French": [
-      "recEoT5I0Rnv8jciE"
-    ],
-    "Hindi": [
-      "recRYDsHBzrcL4EfS",
-      "reclxPCBbnj67Upff"
-    ],
-    "Telugu": [
-      "recVTf5kx0nuuTR6D"
-    ],
-    "Spanish": [
-      "recHkL7TXpy8SVke3"
-    ],
-    "Arabic": [
-      "recN6ax3AgkVEs871",
-      "recFWz7Iv6OJLsvuY"
-    ],
-    "Bengali": [
-      "rec45Eflk55v96l50"
-    ],
-    "Portuguese": [
-      "rec57U2TIc7WB1L3y"
-    ],
-    "Internal notes": "We miss a definition here.\n\n[@Christin Gilmer](https://airtable.com/appKBFbOCN23iz8eF/men87xTffV5vXKEGz/usrDTYZtkXBziEsWP?recordId=reclKahoPRbBLqUKg&fieldId=fldFWQAjehRWQv5n2) See what you think about this one. It was surprisingly awkward to define. If we have an option to post a WHO infographic on the site, that would help?- EL\n\n[@Emily LaRose](https://airtable.com/appKBFbOCN23iz8eF/men5b5u6J5vDQK7Tz/usroPZ4yKxHAs6odJ?recordId=reclKahoPRbBLqUKg&fieldId=fldFWQAjehRWQv5n2) You are definitely right. And this is excellent! We also have some from SAC. [@Jenna Sherman](https://airtable.com/appKBFbOCN23iz8eF/menjUG8QrwVT9Ul27/usryJw3d1ZhlxblnO?recordId=reclKahoPRbBLqUKg&fieldId=fldFWQAjehRWQv5n2) Do you think any SAC infographics might be helpful with this glossary term?\n\n[@Emily LaRose](https://airtable.com/appKBFbOCN23iz8eF/menCsjP3g1YegUf0a/usroPZ4yKxHAs6odJ?recordId=reclKahoPRbBLqUKg&fieldId=fldFWQAjehRWQv5n2) [@Christin Gilmer](https://airtable.com/appKBFbOCN23iz8eF/mencpMPX3UmITwbLJ/usrDTYZtkXBziEsWP?recordId=reclKahoPRbBLqUKg&fieldId=fldFWQAjehRWQv5n2)\nThe term “face covering”, which I think is a synonym for “face mask”, is not in the glossary. It could be an opportunity to add here, or would it require a new entry? Some health systems will use the term “face covering” instead of “face mask”. Here is a definition: “Piece of cloth which covers the nose and the mouth to block respiratory droplets ejected when one speaks, coughs or sneezes. Face coverings prevent contamination of the person’s surroundings. It can be a scarf, a bandana or a cloth mask.\n\n[@Christin Gilmer](https://airtable.com/appKBFbOCN23iz8eF/menf2dS0LNdeiupz0/usrDTYZtkXBziEsWP?recordId=reclKahoPRbBLqUKg&fieldId=fldFWQAjehRWQv5n2) I think that we could do an entry for \"face covering\" and refer to the \"face mask\" definition perhaps? I think with current research I am hesitant to say scarf, bandana, etc. Thoughts? EL\n\n[@AO LocLAb](https://airtable.com/appKBFbOCN23iz8eF/menXXd6yGrCqC3A7u/usrFuUGZLOsk8emML?recordId=reclKahoPRbBLqUKg&fieldId=fldFWQAjehRWQv5n2) Great idea. [@Emily LaRose](https://airtable.com/appKBFbOCN23iz8eF/menGT9HjzcBK3kOE3/usroPZ4yKxHAs6odJ?recordId=reclKahoPRbBLqUKg&fieldId=fldFWQAjehRWQv5n2) What if we just duplicate your discussion for face mask and use it for a new face covering definition as well?\n\n[@Emily LaRose](https://airtable.com/appKBFbOCN23iz8eF/menym5pXNUFfgYGv9/usroPZ4yKxHAs6odJ?recordId=reclKahoPRbBLqUKg&fieldId=fldFWQAjehRWQv5n2) “made from layered cloth or fabric” seems redundant as fabric is “cloth or material for making clothes, covering furniture, etc.”. Would “fabric” suffice?\nAlso, what do we actually mean here by ‘incapacitated’ as the word can have different meanings?\n",
-    "Wordcount Definition": 151,
-    "Wordcount Term": 2,
-    "Total wordcount": 153
-  },
-  {
     "id": "recOcmLKbzV6NUkAH",
     "Term": "symptoms",
     "Definition": "A symptom is an abnormal feeling that is experienced by a patient as a result of an illness. Symptoms may be objective, like a cough of fever that can be observed by another person, or subjective, like tiredness or a headache that can only be observed by the patient. A combination of symptoms may be used to suggest that someone has a particular disease, but to make a diagnosis, other tests may be used. The terms signs and symptoms are often used interchangeably, though often signs refer to objective symptoms that can be observed by another person.\n",
@@ -2795,28 +2840,6 @@
     "Total wordcount": 122
   },
   {
-    "id": "reci6AkPuYYC5pFzD",
-    "Term": "pre-print study",
-    "Definition": "A pre-print study is an early drafts of a study that has not finished going through the rigorous peer-review process to evaluate the quality of the research content, methods, and findings. While pre-print studies do relay information quickly, they are less trusted than peer-reviewed publications and should not guide clinical decision-making. \n",
-    "Questions using this term": [
-      "recV4VyzVzjxUii3m",
-      "rech0c2iaQGp03KXI",
-      "rec3DK3BrvuseyDAb",
-      "rec7awl8Ed6xdZIiv",
-      "reccgbdzob0VzK2nF"
-    ],
-    "Status": "Published",
-    "French": [
-      "receYCMsqhyWaJRxd"
-    ],
-    "Spanish": [
-      "rectXqvZDZak2CnuS"
-    ],
-    "Wordcount Definition": 52,
-    "Wordcount Term": 2,
-    "Total wordcount": 54
-  },
-  {
     "id": "reci0r8fUkfYPAxJU",
     "Term": "case fatality rate",
     "Definition": "The case-fatality rate, or CFR, is the proportion of the people who die from a disease out of the total number of people with that disease. According to the CDC, the CFR measures the severity of a disease by determining how many individuals who contract a new condition die from it. The numerator is the number of disease-specific deaths among incident cases (that is, new cases), and the denominator is the total number of incident cases. The deaths in the numerator must also belong to the deaths in the denominator. \n",
@@ -3066,5 +3089,38 @@
     "Wordcount Definition": 126,
     "Wordcount Term": 3,
     "Total wordcount": 129
+  },
+  {
+    "id": "rec251kIVQOhHqOJw",
+    "Term": "toxoid vaccines",
+    "Definition": "Toxoid vaccines are a type of vaccine that uses the toxin of a disease-causing germ to create immunity to those very toxins. With these vaccines, our bodies’ immune systems are activated to target only the toxin and not the whole germ. \n\nIn production, the toxin is rendered harmless by being made into a toxoid (a killed or inactivated toxin). Toxoid vaccines require several doses or boosters. Diphtheria, tetanus (part of DTaP combined immunization) are examples of toxoid vaccines.\n",
+    "Status": "Published",
+    "Internal notes": "\n",
+    "Wordcount Definition": 77,
+    "Wordcount Term": 2,
+    "Total wordcount": 79
+  },
+  {
+    "id": "recrpA0CQXroFzYph",
+    "Term": "herd immunity",
+    "Definition": "Herd immunity is a threshold that, when passed, means the risk of viral transmission is either zero or very low.\n\nThe threshold is passed when a large portion of a population becomes immune to a disease, making transmission to anyone in the herd—even those not immune—almost impossible. As a micro-example, if three people in a population of four are immune to a virus, the fourth person is protected from that virus too, because her three  points of contact can't spread the virus to her. \n\nThere are two ways for communities to achieve herd immunity: immunity following infections and vaccinations. If enough people within a group have either recovered from or been vaccinated against an illness, and developed antibodies to that illness, then the entire herd is protected against that illness. \n\nTo reach herd immunity, the percentage of people who need to have immunity from previous infection or vaccination varies depending on the disease. At this time, the World Health Organization said that this percentage is unknown for COVID-19, but noted that herd immunity must be achieved through protecting people from the virus through a vaccine, not exposing them to it through a natural infection. It should be noted that many scientists believe that herd immunity can and should only be achieved through vaccination, because using normal infections as a way to achieve group protection is unproven, unethical, and potentially very dangerous.\n\n",
+    "Status": "Published",
+    "Internal notes": "[@Megan Marrelli](https://airtable.com/appKBFbOCN23iz8eF/menWGGeSVeOiyaD0t/usrMppbVYyXPkbsJq?recordId=recrpA0CQXroFzYph&fieldId=fldFWQAjehRWQv5n2) Can we delete this one and use the one above that's attached to the questions already- I've copied Christin's definition from here to the other record (no edits)? EL \n",
+    "Wordcount Definition": 231,
+    "Wordcount Term": 2,
+    "Total wordcount": 233
+  },
+  {
+    "id": "recksGr2Jp0AZltjL",
+    "Term": "antibodies",
+    "Definition": "The term \"antibodies\" is the plural of antibody.  An antibody is a blood protein that the body produces when it is trying to launch an immune response to something it wants to fight off. Antibodies combine chemically with substances which the body recognizes as alien, such as bacteria, viruses, and foreign substances in the blood. \n",
+    "Questions using this term": [
+      "rec4kQXR2QgCNdlgs"
+    ],
+    "Status": "Published",
+    "Internal notes": "[@Megan Marrelli](https://airtable.com/appKBFbOCN23iz8eF/menOVUjhk8zqxx9oe/usrMppbVYyXPkbsJq?recordId=recksGr2Jp0AZltjL&fieldId=fldFWQAjehRWQv5n2) I copied this definition from antibody so we had the plural, but we could prob edit the definition.  Thoughts? EL\n",
+    "Wordcount Definition": 57,
+    "Wordcount Term": 1,
+    "Total wordcount": 58
   }
 ]

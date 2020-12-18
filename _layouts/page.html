@@ -3,6 +3,7 @@
 {% include head.html %}
 
 <body class="{% if page.slug == '/' %}front {% endif %}{{ page.lang }} {{ page.slug }}">
+  {% include message.html %}
   {% include header.html %}
   <div class="content-wrapper">
     {% if page.description %}
