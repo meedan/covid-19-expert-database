@@ -13097,7 +13097,7 @@
   },
   {
     "id": "recGJZyxcGglnEryM",
-    "Question": "What do the latest results of Pfizer's clinical trial mean? ",
+    "Question": "What do the efficacy results of Pfizer's clinical trial mean? ",
     "Status": "Published",
     "Category": "Vaccines",
     "Source of the question": [
@@ -13766,5 +13766,104 @@
     "Other resources wordcount": 94,
     "Wordcount": 593,
     "Last modified": "2020-12-12"
+  },
+  {
+    "id": "rec6psFZLbhBUXKCn",
+    "Question": "What do we know about chlorine dioxide being a potential cure for COVID-19?",
+    "What our experts say wordcount": 0,
+    "Background and context wordcount": 0,
+    "Other resources wordcount": 0,
+    "Wordcount": 0
+  },
+  {
+    "id": "rec0PYwpUcZnzbrII",
+    "Question": "Why is chlorine dioxide dangerous if taken for COVID-19?",
+    "Status": "Published",
+    "Source of the question": [
+      "Partner Organization"
+    ],
+    "Country question was sourced from": [
+      "Mexico"
+    ],
+    "Background and context": "Misleading claims about using chlorine dioxide as a treatment for COVID-19 have been spreading in North, Central and South America since the spring of 2020, often shared on social media and through social networks. Despite the efforts of government agencies and health organizations to warn people about the health risks of using chlorine dioxide, there are still fraudulent products being sold on the market, sometimes under the name Miracle Mineral Solution or MMS (solución mineral milagrosa or SMM in Spanish). The U.S. FDA has been issuing warning letters to sellers of fraudulent products, including products containing chlorine dioxide, to try to protect consumers.\n",
+    "What our experts say": "Chlorine dioxide has not been verified by the medical and scientific community as a cure for COVID-19 or other diseases, and its use can be dangerous to human health. The U.S. Food & Drug Administration (FDA) has warned that risks of ingesting chlorine dioxide include: severe vomiting, severe diarrhea, low blood cell counts and low blood pressure due to dehydration, respiratory failure, changes to electrical activity in the heart that can lead to potentially fatal abnormal heart rhythms, and acute liver failure. \n\nThe Government of Mexico and the Pan American Health Organization (Organización Panamericana de la Salud in Spanish) have also issued warnings to discourage the use of chlorine dioxide as a treatment for COVID-19.\n\nChlorine dioxide is an oxidizing gas that can dissolve in water to form a solution. It is typically used as a disinfectant to sterilize medical and laboratory equipment and facilities or to treat water, rather than being used directly with humans, because it can pose significant health risks and has not been proven to treat diseases. The U.S. Centers for Disease Control and Prevention (CDC) says that while using chlorine dioxide as intended (not as a treatment for disease) is generally safe, direct exposure in larger quantities can cause “damage to the substances in blood that carry oxygen throughout the body.”\n\nIf experiencing serious poisoning from consumption of a toxic substance like chlorine dioxide, people can seek assistance from a poison control center or seek medical care. Adverse reactions to COVID-19 products can also be reported by consumers and medical professionals to the U.S. FDA’s MedWatch Adverse Event Reporting Program.\n",
+    "Glossary Terms": [
+      "recAiJYWSxD5F1Lz1",
+      "recjGuHkvGujLMjV7"
+    ],
+    "Variation of the answer depending on country of residence": "No\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "cure",
+      "chemical"
+    ],
+    "Other resources": "1. Toxic Substances Portal - Chlorine Dioxide & Chlorite ([U.S. CDC](https://www.atsdr.cdc.gov/phs/phs.asp?id=580&tid=108))\n2. Coronavirus (COVID-19) Update: FDA Warns Seller Marketing Dangerous Chlorine Dioxide Products that Claim to Treat or Prevent COVID-19 ([U.S. FDA](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-warns-seller-marketing-dangerous-chlorine-dioxide-products-claim))\n3. Danger: Don’t Drink Miracle Mineral Solution or Similar Products ([U.S. FDA](https://www.fda.gov/consumers/consumer-updates/danger-dont-drink-miracle-mineral-solution-or-similar-products))\n4. MedWatch: The FDA Safety Information and Adverse Event Reporting Program ([U.S. FDA](https://www.fda.gov/safety/medwatch-fda-safety-information-and-adverse-event-reporting-program))\n5. Fraudulent Coronavirus Disease 2019 (COVID-19) Products ([U.S. FDA](https://www.fda.gov/consumers/health-fraud-scams/fraudulent-coronavirus-disease-2019-covid-19-products))\n6. La cofepris informa sobre el riesgo que representa el uso de la sustancia denominada dióxido de cloro o solución mineral milagrosa ([Government of Mexico](https://www.gob.mx/cofepris/articulos/comunicado-a-la-poblacion-248797?idiom=es)) \n7. La OPS advierte contra el uso de productos de cloro como tratamientos para COVID-19 ([UN](https://coronavirus.onu.org.mx/la-ops-advierte-contra-el-uso-de-productos-de-cloro-como-tratamientos-para-covid-19))\n",
+    "Last modified manual": "2020-12-15",
+    "Last edited (simplified)": "2020-12-15T23:27:54.000Z",
+    "Last edited (experts say)": "2020-12-15T23:37:05.000Z",
+    "What our experts say wordcount": 263,
+    "Background and context wordcount": 103,
+    "Other resources wordcount": 101,
+    "Wordcount": 467,
+    "Last modified": "2020-12-15"
+  },
+  {
+    "id": "rec83WYhEjLOTz1xF",
+    "Question": "What does it mean to combine phases of clinical trials during vaccine development?",
+    "Status": "Ready for Review",
+    "Category": "Vaccines",
+    "Subcategory": "On: COVID-19 & combined vaccine trial phases",
+    "Background and context": "Due to the huge need to create vaccines and treatments for COVID-19, scientists, pharmaceutical, and biotechnology companies have worked to speed up the development process as quickly and safely as possible. A common option many companies have chosen to use is combining separate clinical trial phases into one. While all of the traditional safety requirements and standards must still be followed, this process has allowed vaccine development to occur at a pace that has never occurred before. Due to this work, several vaccines have already been submitted to national regulatory agencies for approval and a few are already being given to high-risk populations.\n",
+    "What our experts say": "There are several reasons why scientists might combine clinical trial phases in the process of developing a vaccine. Usually, testing a vaccine occurs in three to four phases (depending on the country or the drug) after early, preclinical research is done in the lab or on animals, like primates. \n\nPhase 1 trials are where researchers try to study very basic elements of vaccines in small groups of people to see how the body absorbs the drug, how long it stays in the body, and to show how toxic the vaccine may be depending on the dosage. Phase 2 trials examine how effective a vaccine is in different doses and looks at short-term side effects, usually with several hundred patients. Finally, phase three trials involve hundreds or thousands of volunteers are used to see how well a vaccine may work and what types of side effects are most common over a longer period of time. Phase 3 trials often determine whether or not the benefits of a vaccine might outweigh the risks. Many vaccines never reach the the third phase as the vaccines might not be shown to be beneficial, may have dangerous side effects, or might not work as well in humans as they do in animal studies. \n\nDeveloping vaccines often takes many years, sometimes decades, and this can cause major challenges when a disease like COVID-19 is spreading quickly around the world. Vaccines do not usually keep up with the speed of a pandemic, so researchers often combine phases 1 and 2 or 2 and 3 to speed up the development and testing processes. This helps scientists learn much more quickly whether a vaccine will continue being studied if it appears safe and effective or if it will be stopped because it has not shown to help prevent severe symptoms of an illness. Other benefits include answering research questions earlier, getting successful vaccines out to the public earlier, reducing the administrative burden and review processes for drugs by combining research protocols for several phases into one, increases efficiency for patient data reviews, potentially draws stronger conclusions, reduces development time, creates more dosage and efficacy information before phase 3, reduces overall cost, generates more safe information on longer term patient exposure, and gives a higher chance of patients to be treated with efficacious and safe dosages of the vaccine. When study phases are combined, the same safety protocols and standards are used as in traditional, separated trials and all safety requirements must be met even at a more rapid testing speed.\n\nHowever, several challenges are caused by combining phases as well. Some of these challenges include supply and packaging challenges, the need for a final vaccine formulation to be completed earlier in the trial process, data review challenges in earlier phases, decision processes might need to include additional experts not usually involved in the processes, and getting funders and pharmaceutical partners involved in decision making, among others.\n\n",
+    "Glossary Terms": [
+      "rec9qqItwSTjq3Eae",
+      "recM4p8QOERmuESKr",
+      "recwhS0IsusP5qFNc"
+    ],
+    "Variation of the answer depending on country of residence": "Yes\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "vaccine",
+      "vaccine effectiveness",
+      "clinical trial",
+      "randomized controlled trial"
+    ],
+    "Other resources": "1. How to expedite early‐phase SARS‐CoV‐2 vaccine trials in pandemic setting—A practical perspective ([BPS](https://bpspubs.onlinelibrary.wiley.com/doi/10.1111/bcp.14435)) \n2. 22 case studies where phase 2 and phase 3 trials had divergent results ([U.S. FDA](https://www.fda.gov/media/102332/download)) \n3. When is it appropriate to combine phases ([EMA Europa](https://www.ema.europa.eu/en/documents/presentation/presentation-when-it-appropriate-combine-phases_en.pdf)) \n4. Phase I/II clinical trial ([U.S. NCI](https://www.cancer.gov/publications/dictionaries/cancer-terms/def/phase-i-ii-clinical-trial)) \n5. Pandemic vaccine trials: expedite, but don’t rush ([SAGE](https://journals.sagepub.com/doi/full/10.1177/1747016120943730)) \n6. Accelerating a safe and effective COVID-19 vaccine ([WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov/accelerating-a-safe-and-effective-covid-19-vaccine)) \n7. \n",
+    "Last edited (simplified)": "2020-12-17T21:28:59.000Z",
+    "Last edited (experts say)": "2020-12-17T22:26:29.000Z",
+    "What our experts say wordcount": 485,
+    "Background and context wordcount": 103,
+    "Other resources wordcount": 67,
+    "Wordcount": 655,
+    "Last modified": "2020-12-17"
+  },
+  {
+    "id": "recQHGSK3SaVtSjnr",
+    "Question": "With healthcare workers getting many of the first vaccine distributions, how can vaccinations be coordinated for off-site emergency medical services (EMS) personnel?",
+    "Status": "Published",
+    "Category": "vaccines",
+    "Source of the question": [
+      "Newsroom"
+    ],
+    "Background and context": "Following the approval of the Pfizer and BioNTech vaccine in the U.S. on December 11, 2020, the first shipments of the vaccine are being given out across the country, allocated based on the adult population in each state. The U.S. Centers for Disease Control and Prevention (CDC) voted to give first priority to healthcare workers, including emergency medical service (EMS) personnel, and residents of long-term care facilities under Phase 1a of vaccinations. While federal guidance is being provided, the specific vaccination plans and priorities are determined by state governments and can vary widely at each location. \n\nAccording to an analysis of state vaccine prioritization plans by the Kaiser Family Foundation in early December 2020, 7 states are departing from the U.S. CDC’s Phase 1a recommendations in some way, and more than 20 states are providing “further sub-prioritization rankings or criteria” within Phase 1a. The Kaiser Family Foundation also notes that even with state criteria, “decisions about how to allocate limited initial vaccines...will mostly be left to facilities.” \n\nIn some states, the first shipment of COVID-19 vaccinations have been distributed mainly to hospitals, leaving questions about how Tier 1 healthcare personnel outside of hospital settings will be prioritized for vaccination. For example, some EMS personnel provide emergency and front-line care based at a fire department, nonprofit, or municipality rather than at a hospital. On December 1, 2020, four major fire service organizations (International Association of Fire Chiefs, International Association of Fire Fighters, National Association of State Fire Marshals, and National Volunteer Fire Council) released a joint statement requesting state governors and health officials to give firefighters and EMS personnel priority access to COVID-19 vaccines.\n\nIn Washington D.C., it was reported that 5 members of D.C. Fire and EMS were the first to receive the COVID-19 vaccine, whereas in California it was reported that an emergency room nurse was one of the first to receive the COVID-19 vaccine although “paramedics, EMTs and others providing emergency medical services” are also included within the state’s Tier 1 priorities for Phase 1a. EMS personnel outside of hospital settings may be prioritized differently during Phase 1a of COVID-19 vaccinations depending on the location. \n\n",
+    "What our experts say": "The prioritization of initial COVID-19 vaccinations varies widely from location to location, with decisions being made at the federal, state, county and facility level. Emergency medical services (EMS) personnel are often included among the groups receiving the highest priority for the first shipments of the COVID-19 vaccine. Since the initial supply is not sufficient to vaccinate everyone within the highest priority groups, however, difficult decisions are being made about who is to receive the COVID-19 vaccines first. Some places are choosing to include EMS personnel outside of hospitals, such as in the fire department, in the first wave of COVID-19 vaccinations. Other places are distributing their first shipments of the COVID-19 vaccine straight to hospitals first. Decision-makers for each location can set priorities by taking into account public health guidance as well as data about their specific context regarding what resources are available and what are the most urgent needs. \n\nSeveral public health frameworks exist and have informed decision-makers, including the U.S. Centers for Disease Control and Prevention (CDC), as they set their vaccination priorities for COVID-19. \n\nIn John Hopkins University’s framework for COVID-19 vaccine priority groups, Tier 1 includes front-line EMS personnel and Tier 2 includes other essential workers such as personnel in fire and police departments. In the National Academies of Medicine preliminary framework for equitable allocation of the COVID-19 vaccine, Phase 1a’s earliest “jumpstart phase” includes first responders like EMS, police and fire personnel. Depending on which public health frameworks are used, there can be differences in the recommendations for when to include EMS personnel outside of a hospital, such as in a fire department. \n\nAdditionally, the U.S. CDC previously made suggestions for sub-categorization of Tier 1 vaccine distribution when there is an “extremely short supply” during a pandemic of other diseases, such as influenza. The proposed ranking of groups within Tier 1 in this situation is:\n\n1. Front-line inpatient and hospital-based health care personnel caring for sickest persons; health care personnel with highest risk of exposure\n2. Deployed and mission critical personnel who play essential role in national security\n3. Front-line EMS\n4. Front-line outpatient health care personnel, pharmacists and pharmacy technicians, and public health personnel who provide immunizations and outpatient care\n5. Front-line law enforcement and fire services personnel\n6. Pregnant women and infants aged 6 -11 months old\n7. Remaining groups within Tier 1, including but not limited to: inpatient and outpatient healthcare personnel not vaccinated previously; public health personnel; other EMS, law enforcement, and fire services personnel; manufacturers of pandemic vaccine and antiviral drugs\n\nWhile this guidance can be a point of reference for some locations seeking to decide how to allocate vaccinations to EMS personnel outside of hospital settings (who in this case might be categorized in group 3 or 7, depending on their involvement in front-line care), there are some notable differences that should be taken into account for COVID-19, compared to influenza. For example, COVID-19 has been especially deadly for older adults in long-term care settings, which is why long-term care residents and personnel are among the top tier priorities for COVID-19 vaccinations according to U.S. federal recommendations. \n\nWhile the specific prioritization of EMS personnel outside of hospital settings may vary depending on the location, it is important for decision-makers to have a plan for how to vaccinate non-hospital-based EMS personnel and communicate this plan with transparency.\n\n\n\n",
+    "Glossary Terms": [
+      "recDalYrz2m23kS2e",
+      "rec9qqItwSTjq3Eae"
+    ],
+    "Variation of the answer depending on country of residence": "Yes\n",
+    "Does this answer vary depending on your race, ethnicity, age, sex or other demographic factors?": "No\n",
+    "Topics": [
+      "vaccine"
+    ],
+    "Other resources": "1. The Advisory Committee on Immunization Practices’ Interim Recommendation for Allocating Initial Supplies of COVID-19 Vaccine — United States, 2020 ([U.S. CDC](https://www.cdc.gov/mmwr/volumes/69/wr/mm6949e1.htm))\n2. Interim Considerations for COVID-19 Vaccination of Healthcare Personnel and Long-Term Care Facility Residents ([U.S. CDC](https://www.cdc.gov/vaccines/hcp/acip-recs/vacc-specific/covid-19/clinical-considerations.html))\n3. Overview of Vaccine Equity and Prioritization Frameworks ([U.S. CDC](https://www.cdc.gov/vaccines/acip/meetings/downloads/slides-2020-09/COVID-06-Oliver.pdf))\n4. Influenza (Flu): Vaccination of Tier 1 at All Pandemic Severities ([U.S. CDC](https://www.cdc.gov/flu/pandemic-resources/national-strategy/planning-guidance/pandemic-severities-tier-1.html))\n5. How are States Prioritizing Who Will Get the COVID-19 Vaccine First? ([Kaiser Family Foundation](https://www.kff.org/policy-watch/how-are-states-prioritizing-who-will-get-the-covid-19-vaccine-first/))\n6. How Different States Will Approach COVID-19 Vaccine Distribution ([NPR](https://www.npr.org/2020/12/12/945788773/how-different-states-will-approach-covid-19-vaccine-distribution))\n7. Major fire service organizations call for priority access to COVID-19 vaccines ([FireRescue1](https://www.firerescue1.com/coronavirus-covid-19/articles/major-fire-service-organizations-call-for-priority-access-to-covid-19-vaccines-GX5cEAQVYgKhPHGI/))\n8. D.C. Fire and EMS Identifies First Ones to Receive COVID-19 Vaccination ([FireFighterNation](https://www.firefighternation.com/health-safety/d-c-fire-and-ems-identifies-first-ones-to-receive-covid-19-vaccination/#gref))\n9. Kaiser Permanente nurse in East Hollywood among 1st in California to receive COVID-19 vaccine ([ABC7 Eyewitness News](https://abc7.com/health/la-nurse-among-1st-in-ca-to-receive-covid-19-vaccine/8772456/))\n10. CDPH Allocation Guidelines for COVID-19 Vaccine During Phase 1A: Recommendations ([California Department of Public Health](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/CDPH-Allocation-Guidelines-for-COVID-19-Vaccine-During-Phase-1A-Recommendations.aspx))\n",
+    "Last modified manual": "2020-12-17",
+    "Last edited (simplified)": "2020-12-17T23:20:38.000Z",
+    "Last edited (experts say)": "2020-12-17T23:21:31.000Z",
+    "What our experts say wordcount": 545,
+    "Background and context wordcount": 354,
+    "Other resources wordcount": 137,
+    "Wordcount": 1036,
+    "Last modified": "2020-12-17"
   }
 ]
