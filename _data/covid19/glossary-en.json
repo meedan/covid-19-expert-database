@@ -607,7 +607,8 @@
       "rec9thjuTgT5ytu9t",
       "rec8pqDaJA5uM1U0y",
       "rec1lIxrlFHbwK7NV",
-      "recHLFItOS1Yd1cn3"
+      "recHLFItOS1Yd1cn3",
+      "recalHOm7obX1QnGq"
     ],
     "Status": "Published",
     "French": [
@@ -787,7 +788,8 @@
       "recenUqXFNVYnafXz",
       "recgfRiqVgG4lMH4w",
       "recqw7drq7lMSYbhV",
-      "recEpxyl0057WLvCV"
+      "recEpxyl0057WLvCV",
+      "recg6pEN2tqwoXOJx"
     ],
     "Status": "Published",
     "French": [
@@ -887,7 +889,21 @@
       "recQHGSK3SaVtSjnr",
       "rectHg1VER4rmFYaY",
       "recAfmLSWD3UXWZy6",
-      "recSZymlHGB4gLUsG"
+      "recSZymlHGB4gLUsG",
+      "rec54uzm8Fie7Mu42",
+      "recn52b5RcrvwcKtJ",
+      "recFP7PkP2rOAA5F6",
+      "recg6pEN2tqwoXOJx",
+      "recZuAgUF0nviL51Z",
+      "recI7vtFcTc12F7GJ",
+      "rec5TflJvvmex38MV",
+      "recpBgRP3XjXbHezc",
+      "rechziIFPf40T5rUl",
+      "recnmzDw9mW5SFjI0",
+      "recw7Gmnwf88dE3j6",
+      "recqKnTvZYLS2sInE",
+      "recXF3E5hj0AK5onU",
+      "recHgJH04JW0chA4U"
     ],
     "Status": "Published",
     "French": [
@@ -925,7 +941,8 @@
       "rec6Ka1kiwtOXSKe0",
       "rec6LvLwc24HqHqQ1",
       "reccN0swQANNJwGir",
-      "recQHGSK3SaVtSjnr"
+      "recQHGSK3SaVtSjnr",
+      "recFP7PkP2rOAA5F6"
     ],
     "Status": "Published",
     "French": [
@@ -1044,7 +1061,10 @@
       "rec4kV4QvqWeXMLGP",
       "rec83WYhEjLOTz1xF",
       "recAfmLSWD3UXWZy6",
-      "recSZymlHGB4gLUsG"
+      "recSZymlHGB4gLUsG",
+      "recn52b5RcrvwcKtJ",
+      "recg6pEN2tqwoXOJx",
+      "recpBgRP3XjXbHezc"
     ],
     "Status": "Published",
     "French": [
@@ -1139,7 +1159,8 @@
       "recUQqRs8DzyIxoQx",
       "rec3DK3BrvuseyDAb",
       "recwnCbclyAAZHewu",
-      "rec6X7BD0TFHwgoC2"
+      "rec6X7BD0TFHwgoC2",
+      "recFP7PkP2rOAA5F6"
     ],
     "Status": "Published",
     "French": [
@@ -1279,7 +1300,8 @@
       "recxbPxkhx1NeoE5Q",
       "recGJZyxcGglnEryM",
       "rec2shxecDOlAie8Q",
-      "recYE4J6Nh1lta1lB"
+      "recYE4J6Nh1lta1lB",
+      "recw7Gmnwf88dE3j6"
     ],
     "Status": "Published",
     "French": [
@@ -1409,6 +1431,34 @@
     "Wordcount Definition": 167,
     "Wordcount Term": 1,
     "Total wordcount": 168
+  },
+  {
+    "id": "recJ1c8DQQVGmXfzM",
+    "Term": "autoimmune disease",
+    "Definition": "According to the National Institutes of Health, \"Autoimmune diseases refer to problems with the immune system, which usually fights off viruses, bacteria, and infection. The problem causes your immune cells to attack your body by mistake. These diseases can affect almost any part of the body.\"\n",
+    "Questions using this term": [
+      "rechQWZ1ctlJ81Vxn",
+      "recOFR6no5vtwDCb8"
+    ],
+    "Status": "Published",
+    "French": [
+      "recM54nzJWudPrUwe"
+    ],
+    "Telugu": [
+      "recnUEbOWCy1mpy83"
+    ],
+    "Spanish": [
+      "reckO7nvLDiPgwl0b"
+    ],
+    "Arabic": [
+      "reclL30WptrMjfkP3"
+    ],
+    "Bengali": [
+      "recsMihB1LpGviSJs"
+    ],
+    "Wordcount Definition": 46,
+    "Wordcount Term": 2,
+    "Total wordcount": 48
   },
   {
     "id": "rec39wm7MuK12bTI3",
@@ -1846,7 +1896,8 @@
       "rec3gzGDZLC9DoYmq",
       "rec6Ka1kiwtOXSKe0",
       "rech0c2iaQGp03KXI",
-      "reccgbdzob0VzK2nF"
+      "reccgbdzob0VzK2nF",
+      "rec54uzm8Fie7Mu42"
     ],
     "Status": "Published",
     "French": [
@@ -2187,7 +2238,9 @@
       "recEpxyl0057WLvCV",
       "recSCMovWVO7VKvPB",
       "recDDflelah3aTf6X",
-      "recQOw0bJlQFe3pbW"
+      "recQOw0bJlQFe3pbW",
+      "recg6pEN2tqwoXOJx",
+      "recw7Gmnwf88dE3j6"
     ],
     "Status": "Published",
     "French": [
@@ -2221,7 +2274,8 @@
       "rec2shxecDOlAie8Q",
       "recg7uMkciGJxiye0",
       "rech0c2iaQGp03KXI",
-      "recKHnqNfhArN9oqX"
+      "recKHnqNfhArN9oqX",
+      "recalHOm7obX1QnGq"
     ],
     "Status": "Published",
     "French": [
@@ -2245,6 +2299,37 @@
     "Wordcount Definition": 141,
     "Wordcount Term": 2,
     "Total wordcount": 143
+  },
+  {
+    "id": "recmIgJvajdxBf3eI",
+    "Term": "protein spikes",
+    "Definition": "Protein spikes or spike proteins are structures or bumps that stick out of the sides of coronaviruses and help them infect cells. Spike proteins attach the virus to the human cell so that the virus can enter the host cell, multiply, and spread to other cells.\n\n(Coronaviruses are named as such because the spike proteins look like a crown, and corona is the latin word for crown or wreath.)\n",
+    "Questions using this term": [
+      "rec1KveB4FFU90Equ",
+      "recuRBvIUfjcJfEOX",
+      "rec8pqDaJA5uM1U0y",
+      "recAufMZnDzPaRhXM",
+      "recKHnqNfhArN9oqX",
+      "recqKnTvZYLS2sInE",
+      "recOFR6no5vtwDCb8"
+    ],
+    "Status": "Published",
+    "French": [
+      "recsZAywBW1IA8CGm"
+    ],
+    "Hindi": [
+      "recpLW49mRZPbUA8U"
+    ],
+    "Spanish": [
+      "recNrQZbUEJkMBGbv"
+    ],
+    "Arabic": [
+      "recB8CCG0G5pZgYEF",
+      "recPCTbZbSC7SXxNF"
+    ],
+    "Wordcount Definition": 68,
+    "Wordcount Term": 2,
+    "Total wordcount": 70
   },
   {
     "id": "recMJMGqkERKGcbL5",
@@ -2348,7 +2433,8 @@
       "rec1KveB4FFU90Equ",
       "rec2shxecDOlAie8Q",
       "recu5zvFnlQeNTxk8",
-      "recuRBvIUfjcJfEOX"
+      "recuRBvIUfjcJfEOX",
+      "recSZymlHGB4gLUsG"
     ],
     "Status": "Published",
     "French": [
@@ -2630,7 +2716,8 @@
       "recP2wUhfv8fzchxH",
       "rec8wGyjeDolqSj8b",
       "recuvuPywidjximuI",
-      "rec7awl8Ed6xdZIiv"
+      "rec7awl8Ed6xdZIiv",
+      "recalHOm7obX1QnGq"
     ],
     "Status": "Published",
     "French": [
@@ -2872,7 +2959,9 @@
       "recyVfyjLKjekjqsL",
       "recz1V5igkqzuKxRx",
       "reccfrzvZmq2A0mSn",
-      "recMOjyjMVA3S03kq"
+      "recMOjyjMVA3S03kq",
+      "recZuAgUF0nviL51Z",
+      "recI7vtFcTc12F7GJ"
     ],
     "Status": "Published",
     "Wordcount Definition": 149,
@@ -2891,7 +2980,9 @@
       "recuvuPywidjximuI",
       "recyVfyjLKjekjqsL",
       "reccfrzvZmq2A0mSn",
-      "recMOjyjMVA3S03kq"
+      "recMOjyjMVA3S03kq",
+      "recZuAgUF0nviL51Z",
+      "recI7vtFcTc12F7GJ"
     ],
     "Status": "Published",
     "Wordcount Definition": 98,
@@ -2904,7 +2995,8 @@
     "Definition": "Medicine, treatment, or vaccine effectiveness studies examine how well the medicine, treatment, or vaccine works for the general population in the “real world,” rather than solely in a research setting. Effectiveness is different from efficacy because efficacy is used to measure how well a medicine or vaccine works in controlled, research environments.\n\nThough efficacy and effectiveness are similar terms and are often used interchangeably, the differences between the two terms are important. When a new medicine, treatment, or vaccine is being developed and studied in clinical trials, the efficacy is reported until it is made available for the general population, at which point effectiveness can be measured. \n",
     "Questions using this term": [
       "rec2shxecDOlAie8Q",
-      "rec4kV4QvqWeXMLGP"
+      "rec4kV4QvqWeXMLGP",
+      "recg6pEN2tqwoXOJx"
     ],
     "Status": "Published",
     "Wordcount Definition": 106,
@@ -2919,7 +3011,9 @@
       "rec2shxecDOlAie8Q",
       "rec3DK3BrvuseyDAb",
       "rec4kV4QvqWeXMLGP",
-      "rectHg1VER4rmFYaY"
+      "rectHg1VER4rmFYaY",
+      "recFP7PkP2rOAA5F6",
+      "recg6pEN2tqwoXOJx"
     ],
     "Status": "Published",
     "Wordcount Definition": 134,
@@ -2946,7 +3040,8 @@
     "Questions using this term": [
       "rec2shxecDOlAie8Q",
       "rec9thjuTgT5ytu9t",
-      "recYE4J6Nh1lta1lB"
+      "recYE4J6Nh1lta1lB",
+      "recSZymlHGB4gLUsG"
     ],
     "Status": "Published",
     "Wordcount Definition": 75,
@@ -2986,7 +3081,9 @@
     "Definition": "mRNA vaccines use messenger RNA (abbreviated as mRNA) to create an immune response that can protect against infection. mRNA is a single-stranded RNA molecule that is critical in telling cells to make proteins [cross-reference with RNA, protein] and trigger an immune response.\n\nmRNA vaccines are non-infectious and can have safety benefits over conventional vaccines that contain weakened or inactivated germs. The Pfizer and Moderna COVID-19 vaccine candidates are examples of mRNA vaccines. \n",
     "Questions using this term": [
       "rec2shxecDOlAie8Q",
-      "recKHnqNfhArN9oqX"
+      "recKHnqNfhArN9oqX",
+      "recqKnTvZYLS2sInE",
+      "recnmzDw9mW5SFjI0"
     ],
     "Status": "Published",
     "Wordcount Definition": 72,
@@ -3050,6 +3147,9 @@
     "id": "recveSOS4CT67fNhU",
     "Term": "inactivated virus vaccine",
     "Definition": "Inactivated vaccines use germs (e.g. bacteria, viruses) that have been killed to create an immune response that can protect against infection. In an attenuated virus vaccine, a small quantity of the killed virus is used for the vaccine. This differs from an attenuated virus vaccine, which uses a weakened live version of the virus for the vaccine [cross-reference with attenuated virus vaccine].\n\nInactivated vaccines are sometimes not as strong as attenuated vaccines, so multiple doses or booster shots of an inactivated vaccine may be required to provide ongoing protection against a disease. The vaccine for Hepatitis A is an example of an inactivated virus vaccine.\n",
+    "Questions using this term": [
+      "recqKnTvZYLS2sInE"
+    ],
     "Status": "Published",
     "Wordcount Definition": 104,
     "Wordcount Term": 3,
@@ -3059,6 +3159,9 @@
     "id": "recSzNFBOgQUnLtAd",
     "Term": "attenuated virus vaccine",
     "Definition": "Live-attenuated vaccines use germs (e.g. bacteria, viruses) that have been weakened (i.e. attenuated) to create an immune response that can protect against infection. In an attenuated virus vaccine, a small quantity of the weakened live virus is used for the vaccine. This differs from an inactivated virus vaccine, which uses a killed version of the virus for the vaccine [cross-reference with inactivated virus vaccine].\n\nPeople with weakened immune systems or certain health conditions may need to consult a physician before taking a live-attenuated vaccine. Attenuated vaccines typically need to be kept cold during transportation, requiring certain infrastructure for distribution. The combined vaccine for measles, mumps and rubella (MMR) is an example of an attenuated virus vaccine.\n",
+    "Questions using this term": [
+      "recqKnTvZYLS2sInE"
+    ],
     "Status": "Published",
     "Wordcount Definition": 115,
     "Wordcount Term": 3,
@@ -3096,7 +3199,8 @@
     "Questions using this term": [
       "recby26zia1AUqJ59",
       "recHLFItOS1Yd1cn3",
-      "rec4kQXR2QgCNdlgs"
+      "rec4kQXR2QgCNdlgs",
+      "rec5TflJvvmex38MV"
     ],
     "Status": "Published",
     "Wordcount Definition": 126,
@@ -3129,7 +3233,11 @@
     "Definition": "The term \"antibodies\" is the plural of antibody.  An antibody is a blood protein that the body produces when it is trying to launch an immune response to something it wants to fight off. Antibodies combine chemically with substances which the body recognizes as alien, such as bacteria, viruses, and foreign substances in the blood. \n",
     "Questions using this term": [
       "rec4kQXR2QgCNdlgs",
-      "rectHg1VER4rmFYaY"
+      "rectHg1VER4rmFYaY",
+      "rec54uzm8Fie7Mu42",
+      "recFP7PkP2rOAA5F6",
+      "recnmzDw9mW5SFjI0",
+      "recOFR6no5vtwDCb8"
     ],
     "Status": "Published",
     "Internal notes": "[@Megan Marrelli](https://airtable.com/appKBFbOCN23iz8eF/menOVUjhk8zqxx9oe/usrMppbVYyXPkbsJq?recordId=recksGr2Jp0AZltjL&fieldId=fldFWQAjehRWQv5n2) I copied this definition from antibody so we had the plural, but we could prob edit the definition.  Thoughts? EL\n",

@@ -3,11 +3,400 @@ moduleStories:
 - sys:
     id: 7s8B9FgTZA4NcTCAz2F5DX
     created_at: !ruby/object:DateTime 2020-03-10 00:51:48.166000000 Z
-    updated_at: !ruby/object:DateTime 2020-12-03 22:45:29.957000000 Z
+    updated_at: !ruby/object:DateTime 2021-01-15 23:50:22.515000000 Z
     content_type_id: moduleStories
-    revision: 61
+    revision: 66
   title: Blog
   stories:
+  - sys:
+      id: 26UTRE8IT5sUBil9h7y32U
+      created_at: !ruby/object:DateTime 2021-01-14 01:12:45.176000000 Z
+      updated_at: !ruby/object:DateTime 2021-01-14 19:29:15.176000000 Z
+      content_type_id: story
+      revision: 1
+    title: Inoculating against misinformation
+    slug: inoculating-against-misinformation
+    topic:
+    - sys:
+        id: 2JV51Hja1BxcyGdNP5VID3
+    lead_image:
+      sys:
+        id: 2TZr0rckkBE1F6qRNzwLZP
+        created_at: !ruby/object:DateTime 2021-01-14 01:14:27.964000000 Z
+        updated_at: !ruby/object:DateTime 2021-01-14 19:28:54.797000000 Z
+      title: Melisa Basol
+      description: 
+      url: "//images.ctfassets.net/g118h5yoccvd/2TZr0rckkBE1F6qRNzwLZP/56e4c41ade3eead86fd9ef3105761eff/meedan_misinfodemia_ep2_melisa-basol_b.png"
+    description: |-
+      Melisa is a Gates scholar and received an MPhil in Social and Developmental Psychology (Distinction) from Cambridge. We caught up with Melisa a few weeks ago to talk about a theory that suggests we might be able to inoculate people against misinformation the same way we inoculate them against disease.
+
+      Originally from Germany, Melisa has a Bachelor of Science (Hons) in Psychology from Aberystwyth University. With a focus on complex societal and political decisions, she's interested in the formation, polarisation, and ‘immunisation’ of attitudes where the spread of misinformation poses a threat to science & society.
+    body: "Melisa is a Gates scholar and received an MPhil in Social and Developmental
+      Psychology (Distinction) from Cambridge. We caught up with Melisa a few weeks
+      ago to talk about a theory that suggests we might be able to inoculate people
+      against misinformation the same way we inoculate them against disease.\n\nOriginally
+      from Germany, Melisa has a Bachelor of Science (Hons) in Psychology from Aberystwyth
+      University. With a focus on complex societal and political decisions, she's
+      interested in the formation, polarisation, and ‘immunisation’ of attitudes where
+      the spread of misinformation poses a threat to science & society. \n\n<p class=\"u-responsive-ratio\">\n<iframe
+      height=\"200px\" width=\"100%\" frameborder=\"no\" scrolling=\"no\" seamless
+      src=\"https://player.simplecast.com/46757cac-9c08-438f-9c5f-6ed889f5578b?dark=true\"></iframe></p>"
+    alt_date: !ruby/object:DateTime 2021-01-14 00:00:00.000000000 Z
+  - sys:
+      id: 523hdNZaVJVnzqmC6YIed
+      created_at: !ruby/object:DateTime 2021-01-08 14:40:24.864000000 Z
+      updated_at: !ruby/object:DateTime 2021-01-13 06:46:23.241000000 Z
+      content_type_id: story
+      revision: 12
+    title: 'What to expect in 2021?  Misinformation forecasts from our fact-checking
+      partners '
+    slug: what-to-expect-in-2021-misinformation-forecasts-from-our-fact-checking
+    topic:
+    - sys:
+        id: 7jQKmsQvOs6pjAjLth5gsA
+    - sys:
+        id: 7ccIqYyl4GXxNC2agZbh8a
+    lead_image:
+      sys:
+        id: 3i4N7pSS8kF4tu3nxZpFCo
+        created_at: !ruby/object:DateTime 2021-01-08 14:41:45.890000000 Z
+        updated_at: !ruby/object:DateTime 2021-01-12 04:46:53.194000000 Z
+      title: What to expect in 2021? Misinformation forecasts from our fact-checking
+        partners
+      description: 
+      url: "//images.ctfassets.net/g118h5yoccvd/3i4N7pSS8kF4tu3nxZpFCo/2c8253f3ee0f8dc5c208cfc66eb1b2ad/meedan_2021_misinformation_forecasts.png"
+    body: |-
+      In 2020, online misinformation was one of the most daunting obstacles in the world's battle against the COVID-19 pandemic. 2021 is already witnessing a wave of COVID-19 vaccine related misinformation. In order to find out more about the nuances and the complexities of the misinformation landscape ahead of us, we decided to turn to our fact-checking partners for their expert opinions on what we should expect in 2021. In this blogpost, we present to you some regional and global forecasts from our partners in the Asia-Pacific region.
+
+      __1. COVID-19 misinformation will challenge each step of vaccination campaigns.__
+
+      Trust would be the most essential factor in running successful vaccination drives in countries. As more vaccines get the final go-aheads and countries start their vaccination drives, we can expect misinformation and conspiracy theories posing challenges at every step of the campaign. 
+
+      > "We expect COVID-19 vaccine related misinformation, but more in terms of availability, distribution, and black-market deals in India" - Bharath Guniganti, Data Analyst and Fact-checker, [Factly](https://factly.in/)
+
+      > "Globally I think sadly we will continue to see a growing wave of conspiracy theories and misinformation about COVID-19 vaccines and how they are being administered. This will likely present governments around the world with significant challenges as they attempt to launch mass vaccination schemes. Unfortunately, world leaders and their governments will probably need to work harder to gain the trust of local populations in order to reassure them that the vaccines are safe. Until a large proportion of the world has been vaccinated, I fear we face many more months of local lockdowns." - [Rachel Blundy](https://twitter.com/rachelblundy), Senior Editor, [AFP Fact Check](https://factcheck.afp.com/)
+
+      __2. With high-stake polls in the charts, political and election misinformation will be rampant.__
+
+      Across the globe, mis/disinformation has become a deciding factor of outcomes of national and provincial elections. This trend can no longer be ignored. In India, fact-checkers are already preparing for a deluge of misinformation around the state elections to be held in 2021. As the stakes are high, we can also expect religion being used to flare emotions and misinform people during elections in India. 
+
+      > "COVID-19 and vaccines (positive & negative effects) in the form of misinformation should dominate the charts along with massive elections in the state of West Bengal as the ruling party  (Bharatiya Janata Party)  is trying hard to make inroads in the state." - [Uzair Rizvi](https://twitter.com/RizviUzair), Fact-Check Journalist , [AFP Fact Check](https://factcheck.afp.com/)
+
+      > "We foresee misinformation ahead of elections in the states of Tamil Nadu, West Bengal, Assam, and others. Particularly in Bengal, going by the news analysis and trends, we envisage an uptick in religious misinformation which is also because of the political landscape and the power dynamics in the state. We certainly feel as the election date nears, we will see political mudslinging which might rely heavily on false narratives pertaining to the current state government's (All India Trinamool Congress) performance and political misinformation." - [Kritika Goel](https://twitter.com/kritikagoel27), Associate Editor, [The Quint](https://www.thequint.com/news/webqoof)
+
+      __3. Misinformation on protests and riots will see a fundamentalist spin.__
+
+      Sweeping policy changes and the pandemic induced economic downturns have given way to dissatisfaction and protests in different parts of the Global South. For instance, the ongoing farmers protests in India will be a talking point in all the elections that are scheduled for the year.
+
+      > "I think new variants of COVID-19 and vaccines would continue to be a dominant issue globally, but the ongoing farmers protest and upcoming state assembly elections in West Bengal, Assam, Kerala, Pondicherry and Tamil Nadu are going to be the main theme of misinformation in India." - [Akhil Ranjan](https://twitter.com/akhilr23), Fact-check Reporter, [AFP Fact Check](https://factcheck.afp.com/)
+
+      > "If the government rolls out the Citizenship Amendment Act or the National Register of Citizens to other states in India, we can also expect a rise in misinformation that poses a threat to religious and communal harmony." - [Balkrishna](https://twitter.com/bala3047), Editor- Fact Check, [India Today](https://www.indiatoday.in/fact-check)
+
+      __4. Misinformation during calamities and sporadic events can make fact-checking more complex.__
+
+      Fact-checkers have often reported a surge in misinformation during natural calamities, pandemic and other sporadic events. These are not often isolated and unrelated pieces of misinformation, but get entangled with other issues making fact-checking more complex. 
+
+      > "There has been a trend about misinformation on government schemes, and this has seen an increase during COVID-19 times. We expect this to continue for 2021 in some or the other forms. There is also an increase in misinformation usually around natural calamities, and the same was seen this year during cyclone Nivar, Hyderabad floods etc. The same trend is expected for 2021 at places that could see heavy rainfall, or some kind of natural calamity."  - Bharath Guniganti, Data Analyst and Fact-checker, [Factly](https://factly.in/)
+
+      Experiences of global fact-checkers have helped us anticipate the challenges ahead of us. But they have often reminded us that we need to factor in unforeseen challenges that may come our way. While we dread those days, it is the preparedness and persistence of the fact-checking community that offers us hope.
+    words_by:
+    - sys:
+        id: 4MJa80vnKu35yjoHOcdVsd
+  - sys:
+      id: 4d3o8rWcz4ETRXXxPX8L0y
+      created_at: !ruby/object:DateTime 2021-01-06 17:05:11.410000000 Z
+      updated_at: !ruby/object:DateTime 2021-01-13 06:44:51.448000000 Z
+      content_type_id: story
+      revision: 6
+    title: 'India Today Fact Check: Impact, vision and challenges'
+    slug: india-today-fact-check-impact-vision-and-challenges
+    topic:
+    - sys:
+        id: 7jQKmsQvOs6pjAjLth5gsA
+    lead_image:
+      sys:
+        id: 6uSovc1KL6ktFdApr2bNRu
+        created_at: !ruby/object:DateTime 2021-01-06 17:12:45.378000000 Z
+        updated_at: !ruby/object:DateTime 2021-01-06 17:13:52.251000000 Z
+      title: P 20191103 164909 1-02
+      description: 
+      url: "//images.ctfassets.net/g118h5yoccvd/6uSovc1KL6ktFdApr2bNRu/8c80e92de9ef9f0420faf7f638983343/P_20191103_164909_1-02.jpeg"
+    description: "*In 2019 Meedan launched the [End-to-end fact-checking project](https://meedan.com/blog/one-of-year-of-running-the-end-end-to-fact-checking-project/)
+      using the WhatsApp Business API. We partnered with WhatsApp, Facebook and Facebook’s
+      third party fact-checking organizations (3PFCs) from India, Brazil and Africa
+      to run WhatsApp tiplines that are serviced by Check, Meedan’s open-source platform
+      that supports fact-checking and annotation. We've launched a series to share
+      insights on program and product innovations from the end-to-end fact-checking
+      project. We also have interviews that capture our partners' experiences. This
+      post is part of the interview series.*\n\nAmong our largest 3PFC partners in
+      the project is India Today Fact Check, located in India. They are part of TV
+      Today Network Ltd, a network that consists of several news channels. [The India
+      Today Fact Check](https://www.indiatoday.in/fact-check) section is managed independently
+      from the editorial operations of the India Today Group. \n\nBalkrishna leads
+      the Fact Check team at the India Today Group. Bala, as he is popularly called,
+      tells us about India Today Fact Check’s vision, impact and challenges in this
+      interview. "
+    body: "*In 2019 Meedan launched the [End-to-end fact-checking project](https://meedan.com/blog/one-of-year-of-running-the-end-end-to-fact-checking-project/)
+      using the WhatsApp Business API. We partnered with WhatsApp, Facebook and Facebook’s
+      third party fact-checking organizations (3PFCs) from India, Brazil and Africa
+      to run WhatsApp tiplines that are serviced by Check, Meedan’s open-source platform
+      that supports fact-checking and annotation. We've launched a series to share
+      insights on program and product innovations from the end-to-end fact-checking
+      project. We also have interviews that capture our partners' experiences. This
+      post is part of the interview series.*\n\nAmong our largest 3PFC partners in
+      the project is India Today Fact Check, located in India. They are part of TV
+      Today Network Ltd, a network that consists of several news channels. [The India
+      Today Fact Check](https://www.indiatoday.in/fact-check) section is managed independently
+      from the editorial operations of the India Today Group. \n\nBalkrishna leads
+      the Fact Check team at the India Today Group. Bala, as he is popularly called,
+      tells us about India Today Fact Check’s vision, impact and challenges in this
+      interview. \n\n__1. When did India Today start its fact-checking section and
+      what was the reason for setting up a separate fact-check section?__\n\nThe purpose
+      of creating a separate fact-check department was two-fold. First, to create
+      awareness among the entire editorial staff of the group about the serious problem
+      of misinformation and fake news being dished out, mostly through social media.
+      In some media verticals such as television channels, journalists have to work
+      under tremendous pressure of cutthroat competition, deadlines and breaking news.
+      The idea was to sensitize them about the menace of fake news so that the number
+      of mistakes could be reduced.\n\nThe second motive was to capitalize on the
+      huge reach of our brands, India Today and Aaj Tak, two of India’s most popular
+      news channels, and fight misinformation circulating on social media. We wanted
+      to live up to the expectations of our readers and viewers who not only want
+      credible information from us, but also expect us to warn them about hoaxes and
+      fake news that they could possibly believe.\n\n__2. How does the work of the
+      fact-check team impact or influence India Today’s larger work as a media group?__\n\nIndia
+      Today Fact Check is mostly insulated from the overall editorial operations of
+      the Group and works independently on a day to day basis. It directly reports
+      to the vice-chairperson of the India Today Group. However, we help in verification
+      of viral content if there is any specific request from any editorial team that
+      is part of the Group. We also conduct in-house trainings on fact-checking.\n\n__3.
+      As someone who has witnessed large- scale misinformation storms, which storm
+      was the most turbulent and why (ref: election, terror attacks, pandemic, protests).__\n\nMisinformation
+      related to the COVID-19 pandemic was the most challenging. The reason being,
+      COVID-19 misinformation directly affects the lives of every individual. It was
+      a matter of life and death in a true sense. Things became even more tricky when
+      misinformation related to the pandemic took a communal colour in India and minority
+      communities were being targeted for the spread of the virus.\n\n__4. 2020 has
+      been a challenging year for fact-checkers. What was the most challenging fact-check
+      for you and which one was the most effective?__\n\nWe did a story on the most
+      talked about and bizarre fact checks of 2020. [Fake, lies & photoshop: Curious
+      cures, horny sheep and other stories you tripped upon](https://www.indiatoday.in/india/story/fake-lies-photoshop-curious-cures-horny-sheep-other-stories-you-tripped-upon-fake-news-1754861-2020-12-31).
+      If we have to pick up just one, we would choose the story about the mistaken
+      identity of the Hathras rape victim. This was an incident that took place in
+      September 2020 when a 19-year-old Dalit woman was gang-raped in Hathras district,
+      Uttar Pradesh, India, allegedly by four upper caste men. After fighting for
+      her life for two weeks, the girl died in a Delhi hospital. The story we worked
+      on was challenging as well as impactful because even senior ministers were paying
+      tribute to the wrong girl while the entire country was engrossed in the tragic
+      case.\n\n__5. In what ways has Check supported your fact-checking work? In 2021,
+      what else would you like Check to do for you?__\n\nChecking misinformation in
+      closed messaging groups is the biggest challenge the world over and India is
+      no exception. In India, almost everyone uses WhatsApp. Check is our window into
+      the world of closed groups of WhatsApp without invading people's privacy. It
+      not only helps us in tracking misinformation but also gives us an opportunity
+      to build a direct rapport and trust with our readers and viewers. Automation
+      within the tool makes it possible to deal with volume which is difficult if
+      we fact-check messages on WhatsApp manually. The best part is that Check is
+      getting better by the day and has evolved by taking into account our feedback.
+      The bot resources have also helped us to get quality content for fact-checks
+      while filtering out the spam. In 2021, we would like the tool to bring in some
+      more features to make it faster and more powerful.\n\n__6. What are your plans
+      for expansion to other languages and areas outside urban centres?__\n\nWe plan
+      to scale up our fact check in Bangla language in the light of elections in West
+      Bengal and also expand into some regional languages in southern India. \n"
+    words_by:
+    - sys:
+        id: 34GfX508qO9Enb7OvLi7DA
+  - sys:
+      id: 4iL1gNgZMnj18g4ereJ0Es
+      created_at: !ruby/object:DateTime 2020-12-18 20:30:27.074000000 Z
+      updated_at: !ruby/object:DateTime 2021-01-11 19:29:22.566000000 Z
+      content_type_id: story
+      revision: 5
+    title: 'Launching the Check Global Zine -  Viral Politics: Tales from the Pandemia'
+    slug: launching-the-check-global-zine-viral-politics-tales-from-the-pandemia
+    topic:
+    - sys:
+        id: 3YteOu0dCPeNZKQlFMQNwF
+    - sys:
+        id: 7ccIqYyl4GXxNC2agZbh8a
+    - sys:
+        id: 13HcGYCQHm8vDRW3EAkw6j
+    lead_image:
+      sys:
+        id: 4gg7jREeDOMkugjHWAJQjp
+        created_at: !ruby/object:DateTime 2020-12-30 03:40:56.416000000 Z
+        updated_at: !ruby/object:DateTime 2020-12-30 03:41:20.280000000 Z
+      title: Viral Politics 1 Zine Cover
+      description: 
+      url: "//images.ctfassets.net/g118h5yoccvd/4gg7jREeDOMkugjHWAJQjp/84ad998c67de8fa2ea42b003f9c597b1/Screen_Shot_2020-12-29_at_19.28.56.png"
+    body: "As Meedan and the Check Global program wraps up 2020, we are so excited
+      to launch our zine *Viral Politics: Tales from the Pandemia*. Artists from throughout
+      the Global South have illustrated the ways the pandemic has affected digital
+      surveillance, freedom of speech and gender-based violence in their home countries,
+      and how they resist. Check it out below!\n\nZines are independent publications
+      sharing discourses of political and social resistance, historically produced
+      by underrepresented communities. We invite you to play and interact with this
+      digital object. We encourage you to make it your own, print pages of it, cut
+      them, glue them, add glitter. Take a picture and send it to us, to your local
+      authorities and your community. These are challenging times, and we believe
+      arts activism (artivism) can be used as a tool for change and politically transformative
+      therapy to survive quarantine and ignite meaningful conversations and interactions.\n\nWe
+      envisioned creating this zine at the beginning of the pandemic, when media attention
+      primarily focused on how the Global North handled the crisis and ignored the
+      health emergencies of the Global South. Simultaneously, Europe and North America's
+      call for expanded surveillance technology to fight the pandemic gained traction
+      across the world, but this call would ultimately affect people living under
+      autocratic political regimes very differently.\nAll the while, Big Tech continues
+      to use this moment to increase unethical and unregulated data collection practices,
+      dealing a blow to years worth of global policy and digital security advocacy.
+      The ramifications of such policies in developing economies exacerbated local
+      activists' and minority groups’ vulnerability and will continue to do so well
+      after the pandemic. \n\nIn this context, amplifying voices of artists and organizers
+      of the Global South is essential to more directly serve their communities and
+      talk about their own pandemic-era issues. Together nine talented comic artists
+      from APAC (Asia Pacific), NAWA (North Africa & West Asia), Africa and Latin
+      America were able to convey these concerns. Most entries were written in each
+      artists' home language and then translated into English.\n\nTechnology unites
+      the themes of all 7 comic entries, shared below:\n\n- In Tunisia, we learn Othman
+      Selmi's \"ABC's of COVID-19 in Tunisia.\"\n- In Lebanon, Maya Chams takes us
+      into a gamified experience of tech militarization.\n- In Uganda, Martin Kharumwa
+      presents the nation's social media tax as a barrier to people's right to access
+      information.\n- In Brazil, comic artist Bennê Oliveira shares a domestic worker's
+      daily life in the favelas using WhatsApp groups to self-govern in the absence
+      of government support.\n- In Mexico, Mariana Lorenzo (Maremoto) showcases the
+      rise of violence against women both online and offline through reworking the
+      classic fairytale about Red Riding Hood.\n- In India, Vishakha Prakash's powerful
+      collages portray state censorship of women activist's voices.\n- In China, Sage
+      Cheng illustrates a tale of Chinese communities' resilience to state tech interference.\n\nFinally,
+      Honduran artist Gago Ilustra unites these stories throughout the zine with his
+      signature neon post-apocalyptic style. In 2021, we look foward to continue supporting
+      our communities through artmaking as a form of resistance.\n\n<p class=\"u-responsive-ratio\"><iframe
+      width=\"620px\" height=\"600px\" src=\"https://www.yumpu.com/en/embed/view/jqdlmuO3kCAerJVD\"
+      frameborder=\"0\" allowfullscreen=\"true\"  allowtransparency=\"true\"></iframe></p>"
+    words_by:
+    - sys:
+        id: 57swkb0x1YLvhHB31YFb3U
+    actions:
+    - sys:
+        id: 25QhLY5REgiTJK9BAnzEHE
+- sys:
+    id: 4hDOrsmcTmB60zhqrzF6Xp
+    created_at: !ruby/object:DateTime 2020-07-30 20:31:01.387000000 Z
+    updated_at: !ruby/object:DateTime 2020-12-16 19:47:32.360000000 Z
+    content_type_id: moduleStories
+    revision: 6
+  title: Expert DB Blog
+  stories:
+  - sys:
+      id: rJhpizn9eHW9xLCFzl6Ct
+      created_at: !ruby/object:DateTime 2020-12-16 03:18:52.189000000 Z
+      updated_at: !ruby/object:DateTime 2020-12-18 19:49:57.807000000 Z
+      content_type_id: story
+      revision: 1
+    title: Meedan interviews Renee DiResta, Research Manager at the Stanford Internet
+      Observatory
+    slug: meedan-interviews-renee-diresta-research-manager-at-the-stanford-internet
+    topic:
+    - sys:
+        id: 2JV51Hja1BxcyGdNP5VID3
+    lead_image:
+      sys:
+        id: 7kKFWn5DMYTYIaWLxfp2Cx
+        created_at: !ruby/object:DateTime 2020-12-16 03:33:12.035000000 Z
+        updated_at: !ruby/object:DateTime 2020-12-16 03:37:38.188000000 Z
+      title: meedan misinfodemia ep1 renee-diresta
+      description: 
+      url: "//images.ctfassets.net/g118h5yoccvd/7kKFWn5DMYTYIaWLxfp2Cx/afa19984e1e4be98ead6eaf3f3123393/meedan_misinfodemia_ep1_renee-diresta.png"
+    description: |-
+      In this pilot episode of Misinfodemia, a new podcast from Meedan, we talk to [Renee DiResta](https://twitter.com/noUpside), Research Manager at the [Stanford Internet Observatory](https://cyber.fsi.stanford.edu/io/io). She investigates the spread of malign narratives across social networks, and assists policymakers in understanding and responding to the problem.
+
+      Renne joined us to talk about her latest research on the spread of false information on social platforms, and how addressing those problems is more complicated than it seems.
+    body: |-
+      In this pilot episode of Misinfodemia, a new podcast from Meedan, we talk to [Renee DiResta](https://twitter.com/noUpside), Research Manager at the [Stanford Internet Observatory](https://cyber.fsi.stanford.edu/io/io). She investigates the spread of malign narratives across social networks, and assists policymakers in understanding and responding to the problem.
+
+      Renne joined us to talk about her latest research on the spread of false information on social platforms, and how addressing those problems is more complicated than it seems.
+
+      <p class="u-responsive-ratio">
+      <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/34956754-669d-47d4-9da1-dd8b0a909ada?dark=true"></iframe></p>
+    alt_date: !ruby/object:DateTime 2020-12-15 00:00:00.000000000 Z
+  - sys:
+      id: nlKMpK9Ub9TiOXhiFSDiD
+      created_at: !ruby/object:DateTime 2020-12-10 22:38:12.700000000 Z
+      updated_at: !ruby/object:DateTime 2020-12-10 23:07:12.738000000 Z
+      content_type_id: story
+      revision: 1
+    title: Questions about COVID-19 Vaccines? The Vaccine Media Hub is coming soon
+    slug: questions-about-covid-19-vaccines-the-vaccine-media-hub-is-coming-soon
+    topic:
+    - sys:
+        id: 32ogZlDIXFakgZXiZ8l3MT
+    lead_image:
+      sys:
+        id: 6AICvFnvyvzZVDW8gYOPdp
+        created_at: !ruby/object:DateTime 2020-12-10 22:56:20.786000000 Z
+        updated_at: !ruby/object:DateTime 2020-12-10 22:56:38.011000000 Z
+      title: Questions about COVID-19 Vaccines? The Vaccine Media Hub is coming soon
+      description: 
+      url: "//images.ctfassets.net/g118h5yoccvd/6AICvFnvyvzZVDW8gYOPdp/fb759c9d501836e19a81c88c27e2e2ae/meedan_vaccine-media-hub_01.png"
+    description: Journalists and fact-checkers around the world will soon have a dedicated
+      support service to help with reporting on COVID-19 vaccines
+    body: "Journalists and fact-checkers around the world will soon have a dedicated
+      support service to help with reporting on COVID-19 vaccines thanks to a global
+      alliance of Science Media Centres and Meedan Digital Health Lab’s public health
+      expert team, supported by the Google News Initiative.\n\nIn 2020 Meedan’s Digital
+      Health Lab developed a [COVID-19 rapid information response initiative](https://health-desk.org/)
+      to support our fact-checking and community media partners around the world,
+      as they worked tirelessly to respond to COVID-19 misinformation. We were able
+      to launch the initiative with support from the Robert Wood Johnson Foundation,
+      the Omidyar Network, and the Google News Initiative. In  2021, Meedan will be
+      expanding the supported range of health topics as part of [Health Desk](https://health-desk.org/),
+      \ beginning with the COVID-19 vaccine. \n\nOver the last year, the public health
+      expert team working on Health Desk created a system for providing rapid responses
+      to questions shared by fact-checkers, journalists, and other communicators around
+      the world sharing vital COVID-19 information with different audiences. In response
+      to health questions from fact-checkers and journalists (which you can always
+      submit [here](https://learnaboutcovid19.org/ask-a-question), or via email directly
+      to health@meedan.com), our team:\n\n- Reviews and summarizes the latest science
+      for the topic that you are reporting on\n- Provides background and context for
+      that topic as it relates to health research more generally, and\n- Gives you
+      a list of important additional resources or sources you can review for your
+      reporting or fact-checking\n\nBuilding off of this work, in partnership with
+      the Australian Science Media Centre and their network of additional Science
+      Media Centres around the world, the COVID-19 Vaccine Media Hub will bring together
+      multiple sources of evidence-based information on vaccines with material available
+      in at least seven languages. The alliance will involve collaboration with organisations
+      and experts from Europe, Africa, North America, Latin America and the Asia Pacific
+      region.\n\n“The threat of health misinformation has become a vector for the
+      spread of infectious diseases and in the context of COVID-19, a  significant
+      barrier to vaccine adherence. We see a networked approach to addressing information
+      equity challenges as a critical public health need. With the global science
+      community collaborating on providing fact-checkers and media partners with reliable,
+      and time-sensitive health information that communicators can effectively report
+      and respond to the vaccine information needs of their audiences. We are honored
+      to work with the Australian Science Media Centre and their partner Science Media
+      Centres on this critical initiative,” said Nat Gyenes, Director of the Meedan
+      Digital Health Lab.\n\nThe media hub will include expert commentary and explainers
+      that will help journalists and fact-checkers report on the science behind the
+      COVID-19 vaccines being developed. \n\n“The COVID-19 vaccine development and
+      roll-out are unprecedented. Fighting misinformation about this topic will require
+      both targeting harmful hoaxes directly and supporting the crucial work of science
+      beat reporters and fact-checkers informing the public. It is with this in mind
+      that we’re thrilled to support the creation of a COVID-19 Vaccine Media Hub
+      to help journalists access expertise rapidly and reliably”, said Alexios Mantzarlis,
+      News and Information Credibility Lead, Google News Lab\n\n“The enormous impact
+      of this pandemic has meant that scientists and pharmaceutical companies have
+      had to go into overdrive to produce vaccines in record time. With so many vaccines
+      in various stages of development, it can be very confusing for journalists and
+      the public and this is where we hope to help,” said Dr Susannah Eliott, CEO
+      of the AusSMC. “It’s now more critical than ever that we all have access to
+      clear information about these vaccines as they are being developed”.\n\nIf you’re
+      a fact-checker, journalist, community organizer or communicator working to respond
+      to vaccine misinformation or strengthen vaccine adherence, and you’re interested
+      in collaborating or learning more, please reach out to health@meedan.com, and
+      check out our existing health information resources: [https://health-desk.org/](https://health-desk.org/),
+      and sign up to receive updates on the launch of the [Vaccine Media Hub](https://health-desk.org/vaccines/).
+      \n"
   - sys:
       id: 2gMzQXi8ze1WfZOdtEmzT2
       created_at: !ruby/object:DateTime 2020-12-03 20:32:11.826000000 Z
@@ -79,334 +468,6 @@ moduleStories:
       ambiguity based on scant or conflicting evidence, or emerging scientific knowledge
       can exacerbate the spread of disease,\" said Nat Gyenes, Director Meedan's Digital
       Health Lab."
-  - sys:
-      id: 1oezcGv5wPsj4CCnIvQpPV
-      created_at: !ruby/object:DateTime 2020-11-13 20:58:40.593000000 Z
-      updated_at: !ruby/object:DateTime 2020-11-24 18:50:17.570000000 Z
-      content_type_id: story
-      revision: 8
-    title: 3 new Brazilian partners fact-checking on WhatsApp
-    slug: meedan-welcomes-3-new-brazilian-partners
-    topic:
-    - sys:
-        id: 3YteOu0dCPeNZKQlFMQNwF
-    lead_image:
-      sys:
-        id: 6E4xUDVdNg64NowaKnYj34
-        created_at: !ruby/object:DateTime 2020-11-13 21:25:27.361000000 Z
-        updated_at: !ruby/object:DateTime 2020-11-13 21:26:07.381000000 Z
-      title: meedan new partners brazil
-      description: 
-      url: "//images.ctfassets.net/g118h5yoccvd/6E4xUDVdNg64NowaKnYj34/29ac1d76089a74a4b4767d53e44d6121/meedan_new_partners_brazil.png"
-    body: |
-      In time for the municipal elections across Brazil this past weekend, Meedan is pleased to announce three new Brazilian partners using our Check software for fact-checking on WhatsApp. They are: [Estadão Verifica](https://politica.estadao.com.br/noticias/geral,estadao-verifica-lanca-novo-servico-por-whatsapp,70003506752 "Estadão Verifica"), an initiative of Estadão; [Agência Lupa](https://piaui.folha.uol.com.br/lupa/2020/10/22/lupa-canal-whatsapp/ "Agência Lupa"), and [Fato ou Fake ](https://g1.globo.com/fato-ou-fake/noticia/2020/11/11/fato-ou-fake-lanca-bot-exclusivo-para-checar-conteudos-duvidosos.ghtml "Fato ou Fake"), by Globo Group. The latter initiative brings together journalists from G1, O Globo, Extra, Época, Valor, CBN, GloboNews and TV Globo.
-
-      Check is a tool for collaborative verification and annotation of digital media, with new features customized specifically for global fact-checking organizations. It's been deployed by  AFP (in Brazil and India), Africa Check, BOOM and India Today. These organization have been using Check since October 2019 across 4 languages and more than 180,000 submissions, including ongoing submissions today. Our case study on this program, called [End-to-End Fact-Checking](https://meedan.com/files/Meedan-WhatsApp-Case-Study-End-to-End-Fact-Checking.pdf?utm_source=website&utm_medium=press-release&utm_campaign=global-fact), details the insights, field research and product features that maximized the value of the WhatsApp API for fact checkers around the world; it’s name is a reference to the program’s ability to successfully fact-check on WhatsApp's end-to-end encrypted platform.
-
-      Natália Leal, content director at Lupa agency explains the importance of Check, “This tool expands the scope of Lupa's work, while at the same time bringing the agency closer to the public. It strengthens our monitoring of the false information environment and allows our reader another channel of communication with us. Thus, he has more access to verified information when making decisions that impact his life and society."
-
-      And for Estadão's, editor-in-chief David Friedlander, “Fake news deceives, misinforms and creates an atmosphere of confusion. That's why professional journalism is so important. With it's checking services, Estadão is dedicated to restoring the value of correct and reliable information”.
-
-      The new partners joined AFP Checamos, a pioneer in Brazil in the use of Check in their verification process on WhatsApp. “The tool has greatly improved the way we communicate with our WhatsApp audience,” said Maria Clara Pestre, AFP fact checker Checamos (Brazil). “Now, we can be sure that anyone who contacts us through the app will have an immediate and consistent response. At the same time, we have time to dedicate ourselves to the other steps in the verification process. ”
-
-      We adapted our toolkit to help fact-checkers focus on their work, not on technical tasks. This allowed teams to create their own workflows inside Check.
-
-      The platform has these main features:
-
-      - It allows the verification teams, based on the demand of the newsroom, to create menus of interactive content (bots) using their messaging channels;
-      - It imports the database of fact-checks from a journalistic organization, allowing them to send reports directly to the user of content that has already been verified.
-      - It also allows the public to send content suggestion to be checked by journalists;
-
-      For our partner organizations, the bot is an essential communication channel to engage their audience, understand and scale the demand for specific topics and distribute important information in other messaging networks. When building these relationships, it is also an opportunity to develop interactive monitoring and evaluation surveys with end users to assess the behavioral impacts of fact checks.
-
-      Check enables a publishing system to send fact verification reports to users of direct channels (tiplines) who send duplicate or similar requests. “Our goal with Check,” explained Meedan's Product Director, Pierre Conti, “is to build a human and AI system so that fact checkers can efficiently scale the demand for verification directly from the public, cut whatever just noise and thus maximize the impact of the checks. We do this to help verifiers prioritize the most relevant misinformation. ”
-    words_by:
-    - sys:
-        id: 57swkb0x1YLvhHB31YFb3U
-  - sys:
-      id: 78xCvxi2mN0tlE4alTubK9
-      created_at: !ruby/object:DateTime 2020-10-28 10:56:02.594000000 Z
-      updated_at: !ruby/object:DateTime 2020-11-13 04:17:52.639000000 Z
-      content_type_id: story
-      revision: 2
-    title: How our fact-checking partners promote their WhatsApp tiplines
-    slug: how-our-fact-checking-partners-promote-their-whatsapp-tiplines
-    topic:
-    - sys:
-        id: 7ccIqYyl4GXxNC2agZbh8a
-    lead_image:
-      sys:
-        id: 2daALb4cUpcUDE3WWUh5f
-        created_at: !ruby/object:DateTime 2020-11-04 02:02:46.822000000 Z
-        updated_at: !ruby/object:DateTime 2020-11-04 02:05:08.763000000 Z
-      title: How our fact-checking partners promote their WhatsApp tip lines
-      description: 
-      url: "//images.ctfassets.net/g118h5yoccvd/2daALb4cUpcUDE3WWUh5f/e188e58f4ad401fa4814294cdd16cea0/meedan_blog_tipline-promo.png"
-    description: |-
-      How do fact-checking groups running WhatsApp tiplines engage with users on WhatsApp?
-      How do independent fact-checkers inform audiences about their tipline service?
-      How do fact-checkers ensure that their WhatsApp tipline receives relevant queries from users?
-
-      These are questions that fact-checking groups operating WhatsApp tiplines have often encountered. The WhatsApp audience is different from the existing audience on other social media platforms. According to fact-checking groups, audiences on WhatsApp prioritise promptness of response and shareability of verification reports. So how do groups position and promote the tipline service which does just that? Here are some best practices and a few examples of campaigns to inform the WhatsApp audience and promote the tipline product. These have been launched by partners that Meedan works with as part of its pilot project that focuses on End-to-End Fact-Checking on WhatsApp using the WhatsApp Business API. The ad campaigns have been supported by Facebook Journalism Project.
-    body: "While ads are critical to building an audience, they have to be used strategically
-      in order to maximize their impact for an organization's fact-checking work while
-      reducing unactionable content. Ultimately, we’ve learned that ads combined with
-      a community engagement strategy yield the most impactful projects, balancing
-      the needs of both scale and quality. \n\nHere are a few things we learned through
-      previous ad campaigns:\n\n1. Images work well with ad campaigns. Keep images
-      that are compelling, related to the campaign and have a strong recall. Colours,
-      logos, symbols and branding should be consistent across each part of the campaign.\n\n2.
-      Make sure the organization's WhatsApp tipline number is prominently displayed,
-      both in text that accompanies the ad and in the image itself so that people
-      can catch the messaging. \n\n3. A focused call for action works well for ads
-      and it’s always a good idea to follow the news cycle while designing tipline
-      ad campaign. If an organization is focusing on the COVID-19 pandemic, it might
-      be useful for them to specify what part of the pandemic-related misinformation
-      can be verified - information related to vaccines, drugs, home remedies, lockdown
-      related measures, new research, etc. Other significant news events such as elections,
-      government announcements, and cyclones also result in more people sending queries
-      to WhatsApp tiplines. Designing ads around these will guide WhatsApp users to
-      send better and relevant submissions.  \n\n4. Ads with shorter descriptions
-      (between 100 and 250 characters) are likely to get more engagement than ones
-      that are more than 250 characters. So it’s best to have less text in an ad.
-      \n\n5. Multimedia ads work well on online platforms - fun GIFs, videos, engaging
-      visuals and memes with some text are all easily shareable and communicate clearly
-      with users. \n\n6. Cross promotion helps build community faster. Posting ads
-      on multiple online platforms, like Facebook and Instagram, is also likely to
-      direct audiences from these platforms to WhatsApp tiplines. Organizations should
-      also consider using similar graphics on Twitter, on their website, newsletter
-      and public Facebook page, and other channels to engage existing audiences.\n\n7.
-      Consistency in presentation helps users recall a brand. It’s a good idea for
-      an organization to make style, colour palette, logos and fonts consistent across
-      all their assets. For example, the WhatsApp profile photo of an organization's
-      tipline should be the same as the organization's profile photo on Facebook or
-      other online platforms. \n\n### Here are examples of some ad campaigns launched
-      by our partners in different regions:\n\n#### AFP Checamos \n[The ad gives a
-      focused call to WhatsApp users to send content related to the municipal election
-      taking place in November 2020.](https://twitter.com/AfpChecamos/status/1312074873582182400)\n\n####
-      AFP Fact Check \n[AFP Fact Check's ad gives a specific call to people to send
-      suspicious content related to COVID-19 and India’s COVID-19 lockdown. \n](https://www.facebook.com/ads/experience/confirmation/?experience_id=353354549043592)\n\n####
-      Africa Check\n[The ad reaches out to WhatsApp users in Kenya and asks them to
-      send suspicious messages related to COVID-19 to the Africa Check tipline.\n](https://www.facebook.com/AfricaCheck/photos/a.485010524863910/3326776397353961)\n\n####
-      BOOM\n[Helping people make informed choices online.](https://www.facebook.com/234722873389359/posts/1387291604799141)\n\n####
-      Factly \n[The ad appeals to people to pause before forwarding messages on WhatsApp.
-      ](https://www.facebook.com/factlyindia/photos/a.1563010497250704/2683455088539567/)\n\n####
-      India Today \n[India Today's ad alerts people about false knowledge being more
-      dangerous than ignorance. \n](https://www.facebook.com/23230437118/posts/10160233352767119/)\n\n####
-      WebQoof\n[WebQoof calls on people to send unconvincing content to the WebQoof
-      tipline for verification. \n](https://twitter.com/QuintFactCheck/status/1303958813679083523)\n\n####
-      Vishvas News \n[The first series of ads were launched by Vishvas News around
-      mid-August, in time with India’s independence day. The ads built on the theme
-      of independence from fake news.\n](https://www.facebook.com/vishvasnews/photos/a.2263616987212004/2719158628324502)"
-    words_by:
-    - sys:
-        id: o2SUkfpjcZYozMKy01Wis
-    alt_date: !ruby/object:DateTime 2020-11-04 00:00:00.000000000 Z
-  - sys:
-      id: 2w4fC9PEVkEtntinteF8Pd
-      created_at: !ruby/object:DateTime 2020-10-28 17:38:33.821000000 Z
-      updated_at: !ruby/object:DateTime 2020-11-03 23:28:33.144000000 Z
-      content_type_id: story
-      revision: 1
-    title: Meet Kritika Goel, Associate Editor, the Quint
-    slug: meet-kritika-goel-associate-editor-the-quint
-    topic:
-    - sys:
-        id: 2JV51Hja1BxcyGdNP5VID3
-    lead_image:
-      sys:
-        id: 75Z557Gzqpkxs2UTvGOKiy
-        created_at: !ruby/object:DateTime 2020-10-28 17:39:58.387000000 Z
-        updated_at: !ruby/object:DateTime 2020-11-03 23:28:25.987000000 Z
-      title: Kritika Goel
-      description: 
-      url: "//images.ctfassets.net/g118h5yoccvd/75Z557Gzqpkxs2UTvGOKiy/7c6f426be688f65ddd0a1a1fc9ed0f33/kritika.jpg"
-    body: "Since October 2019, Meedan has run a [global fact-checking project](https://meedan.com/files/Meedan-WhatsApp-Case-Study-End-to-End-Fact-Checking.pdf?utm_source=website&utm_medium=press-release&utm_campaign=global-fact)
-      using the WhatsApp Business API and powered by [Check](https://meedan.com/check),
-      an open-source platform built by Meedan. During the year, we entered into new
-      and exciting partnerships with fact-checking groups and newsrooms across the
-      globe to combat misinformation. As a community, we have made huge strides and
-      learned from each other. \n\nStarting this month, we will speak to members of
-      our partner organizations about their fact-checking experiences and their vision
-      for the future. Here, we present the first interview of the series with Kritika
-      Goel, Associate Editor at the Quint. \n\nKritika leads [WebQoof](https://www.thequint.com/news/webqoof),
-      an independent fact-checking initiative of [The Quint](https://www.thequint.com/).
-      According to Urban dictionary, WebQoof means someone who believes every word
-      or information on the Internet and social media. We have been working with Kritika
-      for the past five months and have found in her a passionate fact-checker, someone
-      who gives honest feedback and is willing to take up new challenges. It has been
-      a pleasure working with Kritika, one of the women leaders in the fact-check
-      community.\n\n### How long have you been a fact-checker? What has been your
-      experience before becoming one? What brought you to this?\n\nI started full
-      time fact-checking in June 2019. Before that I was a  desk reporter and a part-time
-      fact-checker. \n\nBut with every news break, I also saw a parallel narrative,
-      shared on  social media and sometimes by mainstream news channels. This information,
-      in some cases, was unverifiable and had no source. I just wanted to go to the
-      root of the problem and understand where it is coming from. As a journalist
-      we are taught to ask questions. For me an important question was -  what is
-      the source of the information? Most of the time, there was no answer. It was
-      after the 2019 Lok Sabha elections, that I shifted to full-time fact-checking. \n\n###
-      What is the Indian media and fact-checking ecosystem like? What are the strengths
-      and what gaps do you see?\n\nIn India, there were smaller and independent fact-checking
-      organizations like [Alt News](https://www.altnews.in/), [BOOM ](https://www.boomlive.in/)and
-      [SM Hoax Slayer](https://smhoaxslayer.com/). Now we even have the mainstream
-      media in this space. \n\nThere is a need for greater collaboration and resource
-      sharing. We know that misinformation travels more widely and faster than fact-checks.
-      If a viral piece of content is consumed by 100,000 people, are even 10% consuming
-      the fact-checks? The motive is to amplify fact-checks and reach a wider audience.
-      Only then we can combat misinformation. The idea is not to push out a story
-      and to say that we have done a fact-check, but for people to get the right information.
-      For that, there should be collaboration between fact-checkers, which is happening,
-      but  should be at a bigger scale. There was a [ global collaboration under the
-      International Fact Check Network](https://www.poynter.org/ifcn-covid-19-misinformation/?covid_countries=0&covid_rating=0&covid_fact_checkers=47485)
-      for tackling COVID-19 related misinformation. I was able to fact-check two-three
-      pieces of misinformation, including a video which was viral in India, but was
-      originally from Taiwan by reaching out to [Summer Chen](https://twitter.com/SummerLake)
-      of [Taiwan FactCheck Center](https://tfc-taiwan.org.tw/). So, collaboration
-      really helps. \n\nCollaboration in distribution can also help in reaching a
-      wider audience. For instance, The Quint has a certain audience and Alt News
-      has another. Together, we reach a larger audience. When WebQoof started we used
-      to reproduce content from BOOM, Alt and SM Hoax slayer, which helped in amplifying
-      the reach of the content. I am sure that we can come up with better ways and
-      see how fact-check content can reach a wider audience. \n\n### How important
-      would you say is fact-checking in the current times? Do you see a real impact
-      with the stories and fact-checking work you do?\n\nThere definitely is a need
-      for fact-checking. It has become another branch of journalism.\n\nIn terms of
-      impact, there is an alert audience who flags and identifies misinformation.
-      Recently, we got in touch with individuals who tag us and other fact-checkers
-      regularly on Twitter to flag misinformation. When we reply with the fact-check,
-      they share it with others. They are like volunteers; by sharing verified information
-      with their networks, they are amplifying the distribution and helping facts
-      reach a wider audience. That is an impact for me and to highlight such contributions
-      we did a [story on these citizen fact-checkers](https://www.thequint.com/news/webqoof/how-citizens-joined-fact-checkers-in-the-fight-against-fake-news). \n\nWe
-      have done so many stories on mainstream media sharing false information. They
-      do not always acknowledge that there has been a mistake or issue a clarification,
-      while they also have fact-check verticals. The fact that the mainstream media,
-      including us, has fact-check verticals is itself an impact. Media organizations
-      have realized that the audience is interested in facts and not just narratives
-      and whataboutery. This is an impact brought about by the entire fact-checking
-      community. \n\n### What is your most challenging fact-check experience and how
-      did you work on it?\n\nThe recent amendment of [the Citizen Amendment Act (CAA)](https://www.livemint.com/news/india/citizenship-amendment-act-2019-all-you-need-to-know-11576401546515.html) 
-      in India was followed by protests in many parts of the country. The Jamia Millia
-      Islamia University became the centre of protests with clashes between pro and
-      anti CAA student groups and heavy deployment of police forces. During this episode,
-      there were claims that a  member of the Akhil Bharatiya Vidyarthi Parishad (ABVP),
-      the student wing of the ruling Bharatiya Janata Party, was seen exiting the
-      university compound wearing a police gear.This was used to claim that the government
-      and police were not doing their job and were involved in the violence inside
-      the campus. However, the person was a cop in civilian clothes wearing a gear. \n\nWe
-      got in touch with the ABVP member who was misidentified, the concerned cop and
-      the people who were around when the incident took place. Luckily we had reporters
-      on the ground. But, it took us over a day to speak to the cop in concern, to
-      reach out to people and also to verify if what they said is the truth or not.
-      It was very difficult at that point. \n\nWe could not take anybody at face value
-      and had to verify everything to make sure that they were telling us the truth.
-      During this time, there were also other social media posts misidentifying people.
-      So, this was an important [story ](https://www.thequint.com/news/webqoof/did-abvp-member-attack-protesting-students-disguised-as-cop-fact-check)to
-      do at that point. Four of our team members were involved in the story and we
-      wanted it to be watertight.\n\nAs a fact-checker and journalist, my biggest
-      nightmare is what if we verify a piece of information based on inputs from an
-      individual and they aren't telling us the truth? So, I do not take anything
-      at face value and look for evidence to put forth the facts. \n\n### You recently
-      took charge of Quint's fact-check team. How is the new experience and what are
-      your plans for the team?\n\nI have been working with WebQoof for over a year.
-      Since my senior editor moved on, I have the new responsibility of leading the
-      team. It is definitely exciting as there is a lot happening in the misinformation
-      space.\n\nAn important strategy for me is to do more ground reports so that
-      we can bring out the truth and put forth the facts from the ground.\n\nSince
-      the beginning of my work at WebQoof, I have been interested in media literacy.
-      Once you empower the reader, it will help in expanding the community. An individual
-      can be a fact-checker in their family and friends WhatsApp groups. Many of us
-      started off like that.\n\nWe also intend to do a lot more in the health fact-checking
-      space . The pandemic  has really shown how prevalent and detrimental health
-      misinformation is. After the COVID-19 outbreak, we are receiving more fact-check
-      requests on general health misinformation as well. So the key focus areas for
-      me would be: Media literacy, more ground reports and focus on health misinformation. \n\n###
-      How do you deal with the pressure in having to respond to misinformation on
-      a daily basis and even come across some distressing content?\n\nFor the longest
-      time, I thought I was immune to violent and graphic content and did not get
-      impacted. But there are days when we have to look at gory images, blood, violence
-      all day; I think why is there so much hatred and violence? There are really
-      distressing videos where you see people thrash and hurt each other. \n\nSometimes,
-      it does not affect me. But, I also keep chatting with my team members, because
-      there are people who get really impacted and post-traumatic stress disorder
-      (PTSD) is a real thing. \n\nOnce my team member said, \"I go back home, I just
-      think about these'. Sometimes we want that choice to not look at distressing
-      content. There are days when you feel low because of it. I wish we had a choice,
-      but it is part of the job of a fact-checker. \n\nI speak to my team very  proactively;
-      we are a bunch of young people and we understand each other well. There are
-      days when you should take a step back and not look at content that is disturbing.
-      I was lucky to have a senior editor who took note of all this and made sure
-      we were not too overwhelmed (for the want of a better work) with the kind of
-      content we are engaging with. But yes, I think there is a need to have this
-      conversation and I hope as a team, we are able to understand this better moving
-      forward. \n\n### What do you think works the most to stop people from sharing
-      misinformation and build a culture of verifying information - stories, videos
-      or broader interventions like media literacy?\n\nEven if we can develop a habit
-      of asking what is the source of the information, I think we will go a long way.
-      When I joined WebQoof, I had fears of how I would be able to do it and identify
-      misinformation. We are taught tools, but verifying content does not come instantly.
-      The biggest lesson I taught myself was to question the source. If you know where
-      the claim is coming from, you can go ahead and verify that. \n\nCreating awareness
-      about being able to verify and to forward suspicious content to fact-checkers
-      is important. \n\nIn terms of format, videos travel faster and they travel more.
-      At WebQoof we produce a lot of videos, including video explainers. \n\n### How
-      has been your experience of using Check? What else would you like the tool to
-      do for you?\n\nThe experience has been good so far. I really like that we now
-      have data on how many people are engaging with the bot and resources. This is
-      a good way to know how useful it is. \n\nShalini and Pierre initially told us
-      that it is important to sometimes engage with the reader. As quereis have gone
-      up, that does not happen often. We intend to do that more often. When requests
-      are out of scope for fact-check, we inform the user and ask them to send any
-      forwards which they are doubtful of. This engagement helps in  building trust. \n\nAll
-      the constant feedback in weekly calls really helps. Initially, I was not sure
-      of the weekly calls. But they have been extremely good at raising issues and
-      streamlining the process. \n\nWe have requested for a feature to know once a
-      user receives a report we sent, in other words a confirmation. We hope to see
-      that soon. (This feature has been implemented by Meedan since this interview
-      was held).\n\nConstant feedback and communication are really helpful. Intercom
-      is also helpful to immediately flag the issue.  After a day I may not remember
-      it or will not have the link of the item. If I send the issue and the URL of
-      the item, I know that I will receive a response in some time. \n\n### What kind
-      of misinformation do you foresee in the post-covid world? What support do you
-      expect from international fact-check communities and technology partners like
-      us?\n\nAccess to more data about the kind of work we are doing is an expectation
-      that I have from all technology partners. And probably, not just our work but
-      the impact that fact-checking community has had will be good to understand.
-      In my opinion, that will help in shaping our future goals (as a community). \n\nWe
-      work with Facebook, Meedan and I think it will be helpful to know if our efforts
-      of combating misinformation are translating into action. Insights on whether
-      people are engaging more with fact-checked content, whether they want more verified
-      news and what is the level of trust they have in fact-checkers. These will be
-      very helpful going forward. \n\n### What is your vision and hopes for journalism
-      and the world in a post- pandemic world?\n\nI wish we have days where we look
-      for misinformation and do not find them. Even if I can't wish for a world without
-      misinformation, I definitely hope that people verify information before they
-      share it. \n\nMy hope for journalism is that mainstream media becomes more responsible.
-      There needs to be more responsibility and accountability for information that
-      media groups put out. It is important because [misinformation has real life
-      consequences](https://www.thequint.com/news/webqoof/impact-of-fake-news-on-lives-of-people-in-2019). \n\nWhen
-      they publish unverified information, it creates a narrative that sometimes becomes
-      difficult to verify or disprove. If something is unverifiable and just a narrative
-      that has been weaved, I may not be able to touch it or put out a story on it
-      or tell people whether it is true or not. When news is unverifiable, it tends
-      to create a parallel narrative. This can result in hate speech and violence. \n\nPeople
-      need to verify, be alert and if they cannot verify, send it to us. \n\n### What
-      are your interests outside of work?\n\nI like reading, but that is something
-      every journalist does. I love cycling, doodling and eating a lot.\n\n--\n\n<p
-      class=\"u-responsive-ratio\">\n<iframe class=\"youtube\" src=\"https://www.youtube.com/embed/QysGjrIZld0?rel=0\"
-      frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media;
-      gyroscope; picture-in-picture\" allowfullscreen></iframe></p>\n\nWatch this
-      video from July 2020 where Kritika Goel discussed with Meedan's Shalini Joshi
-      and other speakers about India's fight against COVID-19 related misinformation. "
-- sys:
-    id: 4hDOrsmcTmB60zhqrzF6Xp
-    created_at: !ruby/object:DateTime 2020-07-30 20:31:01.387000000 Z
-    updated_at: !ruby/object:DateTime 2020-09-21 20:25:27.093000000 Z
-    content_type_id: moduleStories
-    revision: 4
-  title: Expert DB Blog
-  stories:
   - sys:
       id: 65aZv1NdLpBSOPYo40kHci
       created_at: !ruby/object:DateTime 2020-08-20 21:41:41.130000000 Z
@@ -1208,3 +1269,57 @@ moduleStories:
     tag: Podcast
     link: https://www.youtube.com/watch?v=SOaudM-4pcU
     youtube_video_id: SOaudM-4pcU
+- sys:
+    id: 3tcrc2tSTieEmgkyQyToDk
+    created_at: !ruby/object:DateTime 2021-01-27 17:54:44.508000000 Z
+    updated_at: !ruby/object:DateTime 2021-01-27 17:54:55.421000000 Z
+    content_type_id: moduleStories
+    revision: 0
+  stories:
+  - sys:
+      id: Qjmc87D7iZGsdoUOLWkgc
+      created_at: !ruby/object:DateTime 2021-01-27 17:54:49.289000000 Z
+      updated_at: !ruby/object:DateTime 2021-01-27 18:21:11.423000000 Z
+      content_type_id: story
+      revision: 0
+    title: 'Responding to COVID-19: Reflections on year one'
+    slug: responding-to-covid-19-reflections-on-year-one
+    body: "\nMeedan's Health Desk is now reaching audiences in more than 18 countries
+      across Asia, Latin America, Africa, Europe and North America, including populations
+      that receive information from community news, fact-checking organizations and
+      independent media. A sample content impact audit recently highlighted that 81%
+      of the pieces that we have supported are on the front-page of Google search
+      results for that topic in the region covered. \n\nThrough the Health Desk project,
+      journalists and public health experts are working together in a time of crisis
+      to get fast, reliable information to newsrooms and fact-checking organizations
+      around the world. With a rapid-response publishing process that borrows from
+      two distinct industries—computer engineering and television news—our all-women
+      team has written more than 200 explainers on COVID-19 topics for journalists
+      and fact-checkers.\n\nIn local newsrooms from Delhi to Indianapolis, our work
+      means that journalists do not have to scramble to find experts for comment every
+      time COVID-19 news breaks. This alleviates an information bottleneck between
+      critical emerging scientific research and public audiences that need to get
+      the information accurately and quickly. \n\nAlmost a year into the pandemic,
+      our Health Desk audience now includes podcast listeners, website visitors and
+      newsletter subscribers, as well as the documented audiences of newsrooms and
+      fact-checkers. This level of scale was made possible through our syndication
+      model for content dissemination, enabling a small team of scientists, researchers
+      and communicators to influence diverse information spaces. \n\nConversations
+      with our partner organizations have demonstrated how having access to experts
+      can increase the subject matter that fact-checkers can cover, and therefore
+      the content available online to the fact-checkers’ audiences. \n\nOur amazing
+      partners have included fact-checking outlets and health communications organizations
+      like VERA Files, India Today, Nigeria Health Watch, Speak Up Africa, Boom Live,
+      Africa Check and many more. \n\nWe have also started to serve local community
+      media outlets in the United States, including public broadcasters such as the
+      Atlanta NPR-affiliate, WABE, and Indianapolis’ public radio station WFYI, as
+      well as large media organizations like the New York Times and Reuters. Through
+      a broader network of public broadcasters in the United States, called America
+      Amplified, COVID-19 questions answered by Meedan scientists are brought to local
+      audiences across the country. Our media partnerships also include Tayo Help
+      Desk, a resource that offers American Filipinos localized insights into COVID-19
+      information. \n\nWe thank each and every one of the journalists that have come
+      to us for support, and are looking forward to continuing collaborations in 2021. "
+    words_by:
+    - sys:
+        id: 270gwoaCB5CUlsbrGH5HgX
