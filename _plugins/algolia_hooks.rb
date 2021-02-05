@@ -108,6 +108,7 @@ module Jekyll
       def self.should_be_excluded?(filepath)
         # Do not index 
         return true if filepath =~ %r{/about/}
+        return true if filepath =~ %r{/vaccines/}
         return true if filepath =~ %r{ask-a-question}
         return true if filepath =~ %r{thanks}
         return true if filepath =~ %r{meet-our-experts}
