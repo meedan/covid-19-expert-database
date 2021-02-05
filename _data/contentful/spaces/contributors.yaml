@@ -527,11 +527,3 @@ contributor:
   staff: true
   role: Customer Success Manager
   location: Nairobi
-- sys:
-    id: 270gwoaCB5CUlsbrGH5HgX
-    created_at: !ruby/object:DateTime 2021-01-27 18:10:10.038000000 Z
-    updated_at: !ruby/object:DateTime 2021-01-27 18:10:20.822000000 Z
-    content_type_id: contributor
-    revision: 1
-  name: Megan Marrelli
-  staff: true
